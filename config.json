@@ -7,6 +7,14 @@
         "pt",
         "de"
     ],
+    "coreBranches": [
+        "dunod",
+        "catalog"
+    ],
+    "catalogBranches": [
+        "catalog",
+        "dunod"
+    ],
     "s3Bucket": "static.coorpacademy.com/content/faust-champion",
     "videoProvider": "vimeo",
     "picture": "https://user-images.githubusercontent.com/8781207/47158484-10286e00-d2ec-11e8-8cc7-19f1da40c550.jpg",
