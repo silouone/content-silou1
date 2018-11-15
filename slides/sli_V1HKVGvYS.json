@@ -1,0 +1,90 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T13:01:43.562Z",
+            "updatedAt": "2018-10-17T12:09:13.008Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1HKVGvYS",
+        "universalRef": "sli_V1HKVGvYS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1HKVGvYS.choice_EJeVSfvtB.id",
+                        "label": "choice_EJeVSfvtB",
+                        "value": "choice_EJeVSfvtB"
+                    },
+                    {
+                        "id": "sli_V1HKVGvYS.choice_EkuESMwYS.id",
+                        "label": "choice_EkuESMwYS",
+                        "value": "choice_EkuESMwYS"
+                    },
+                    {
+                        "id": "sli_V1HKVGvYS.choice_NyzrHGwtS.id",
+                        "label": "choice_NyzrHGwtS",
+                        "value": "choice_NyzrHGwtS"
+                    },
+                    {
+                        "id": "sli_V1HKVGvYS.choice_4kqSBMDFr.id",
+                        "label": "choice_4kqSBMDFr",
+                        "value": "choice_4kqSBMDFr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kqSBMDFr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le rôle des plateformes de marketing automation ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les leads acquis sur le Web peuvent être à des étapes de maturité très diverses. Le marketing automation doit identifier la maturité de chacun des leads et appliquer le processus marketing qui s’avère le plus efficace en fonction de cette maturité.",
+            "tips": "La segmentation est essentielle pour obtenir de bons résultats de marketing automation. Selon une étude de HubSpot, éditeur de logiciels marketing, l’envoi d’e-mails à des listes segmentées permet d’augmenter le taux de clic de 16 %.",
+            "clue": "Tout est une question de parcours client.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJeVSfvtB": "Spammer les leads ",
+            "choice_EkuESMwYS": "Envoyer automatiquement des invitations à des événements marketing ",
+            "choice_NyzrHGwtS": "Annoncer les nouveaux produits",
+            "choice_4kqSBMDFr": "Faire avancer les leads dans leur cycle de décision "
+        },
+        "en": {
+            "header": "Quel est le rôle des plateformes de marketing automation ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les leads acquis sur le Web peuvent être à des étapes de maturité très diverses. Le marketing automation doit identifier la maturité de chacun des leads et appliquer le processus marketing qui s’avère le plus efficace en fonction de cette maturité.",
+            "tips": "La segmentation est essentielle pour obtenir de bons résultats de marketing automation. Selon une étude de HubSpot, éditeur de logiciels marketing, l’envoi d’e-mails à des listes segmentées permet d’augmenter le taux de clic de 16 %.",
+            "clue": "Tout est une question de parcours client.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJeVSfvtB": "Spammer les leads ",
+            "choice_EkuESMwYS": "Envoyer automatiquement des invitations à des événements marketing ",
+            "choice_NyzrHGwtS": "Annoncer les nouveaux produits",
+            "choice_4kqSBMDFr": "Faire avancer les leads dans leur cycle de décision "
+        }
+    }
+}

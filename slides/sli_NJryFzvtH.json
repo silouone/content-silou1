@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T13:19:49.256Z",
+            "updatedAt": "2018-10-17T12:12:52.425Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJryFzvtH",
+        "universalRef": "sli_NJryFzvtH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel35023",
+                        "items": [
+                            {
+                                "text": "choice_4ylwKBVsFB",
+                                "value": "choice_4ylwKBVsFB"
+                            },
+                            {
+                                "text": "choice_E1ZDtBNsFB",
+                                "value": "choice_E1ZDtBNsFB"
+                            },
+                            {
+                                "text": "choice_NJd9SNjFB",
+                                "value": "choice_NJd9SNjFB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel35023",
+                        "answers": [
+                            "choice_E1ZDtBNsFB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier l'un des éléments-clés pour le bon fonctionnement d'une plateforme de marketing automation ? ",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Un alignement fort entre les marketeurs et les commerciaux est très important. Sans ce dernier, les leads acquis via le marketing risquent de ne pas être traités par les commerciaux. L’intégration entre les plateformes de CRM et de marketing automation aide à mieux organiser la passation des leads mûrs vers les commerciaux en charge de leur traitement.",
+            "tips": "Les entreprises qui ont su mettre en place un alignement fort entre le marketing et les sales ont vu leur revenu annuel augmenter de 20 %.",
+            "clue": "Après le marketing vient la vente.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La solution de marketing automation doit correctement dialoguer avec votre {{sel35023}}.",
+            "choice_4yx0~KzDKr": "commutateur téléphonique",
+            "choice_V1WCWKfDtH": "CRM",
+            "choice_41gmKGwYH": "ERP",
+            "choice_V1VmFfvFr": "SEO",
+            "choice_4ylwKBVsFB": "commutateur téléphonique",
+            "choice_E1ZDtBNsFB": "CRM",
+            "choice_NJd9SNjFB": "SEO"
+        },
+        "en": {
+            "header": "Saurez-vous identifier lun des éléments-clés pour le bon fonctionnement dune plateforme de marketing automation ? ",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Un alignement fort entre les marketeurs et les commerciaux est très important. Sans ce dernier, les leads acquis via le marketing risquent de ne pas être traités par les commerciaux. L’intégration entre les plateformes de CRM et de marketing automation aide à mieux organiser la passation des leads mûrs vers les commerciaux en charge de leur traitement.",
+            "tips": "Les entreprises qui ont su mettre en place un alignement fort entre le marketing et les sales ont vu leur revenu annuel augmenter de 20 %.",
+            "clue": "Après le marketing vient la vente.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel35023}}",
+            "choice_4yx0~KzDKr": "",
+            "choice_V1WCWKfDtH": "",
+            "choice_41gmKGwYH": "",
+            "choice_V1VmFfvFr": "",
+            "choice_4ylwKBVsFB": "",
+            "choice_E1ZDtBNsFB": "",
+            "choice_NJd9SNjFB": ""
+        }
+    }
+}

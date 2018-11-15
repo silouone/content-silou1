@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:34:00.104Z",
+            "updatedAt": "2018-09-25T14:17:07.439Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyFh5Js-r",
+        "universalRef": "sli_VyFh5Js-r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyFh5Js-r.choice_E16Js1juS.id",
+                        "label": "choice_E16Js1juS",
+                        "value": "choice_E16Js1juS"
+                    },
+                    {
+                        "id": "sli_VyFh5Js-r.choice_Ekllo1j-r.id",
+                        "label": "choice_Ekllo1j-r",
+                        "value": "choice_Ekllo1j-r"
+                    },
+                    {
+                        "id": "sli_VyFh5Js-r.choice_Vkg~o1ouH.id",
+                        "label": "choice_Vkg~o1ouH",
+                        "value": "choice_Vkg~o1ouH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vkg~o1ouH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que constate-t-on depuis l’avènement du Web 2.0 ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Plus interactif, plus simple, plus social, le Web est entré dans une nouvelle dimension au début des années 2000. Jusque là, seules les entreprises et institutions bénéficiaient d'une visibilité sur le web. Avec le Web 2.0, tous les utilisateurs ont pu passer du statut de spectateur à celui d'acteur, et c’est tant mieux !",
+            "tips": "Le Web 2.0 a émergé notamment avec les médias sociaux, les plateformes d'échange et les sites collaboratifs qui ont permis au grand public de prendre la parole facilement sur le Web.",
+            "clue": "Tout est une question d’équilibre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E16Js1juS": "L’émergence de l'e-commerce ",
+            "choice_Ekllo1j-r": "Un déclin des ventes pour les grandes marques",
+            "choice_Vkg~o1ouH": "Un changement dans la relation entre les marques et les consommateurs"
+        },
+        "en": {
+            "header": "Que constate-t-on depuis l’avènement du Web 2.0 ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Plus interactif, plus simple, plus social, le Web est entré dans une nouvelle dimension au début des années 2000. Jusque là, seules les entreprises et institutions bénéficiaient dune visibilité sur le web. Avec le Web 2.0, tous les utilisateurs ont pu passer du statut de spectateur à celui dacteur, et c’est tant mieux !",
+            "tips": "Le Web 2.0 a émergé notamment avec les médias sociaux, les plateformes déchange et les sites collaboratifs qui ont permis au grand public de prendre la parole facilement sur le Web.",
+            "clue": "Tout est une question d’équilibre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E16Js1juS": "L’émergence de le-commerce ",
+            "choice_Ekllo1j-r": "Un déclin des ventes pour les grandes marques",
+            "choice_Vkg~o1ouH": "Un changement dans la relation entre les marques et les consommateurs"
+        }
+    }
+}

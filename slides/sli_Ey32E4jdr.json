@@ -1,0 +1,86 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T12:49:47.356Z",
+            "updatedAt": "2018-10-17T09:36:27.193Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1T2KYcEr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ey32E4jdr",
+        "universalRef": "sli_Ey32E4jdr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ey32E4jdr.choice_EyBJrEodH.id",
+                        "label": "choice_EyBJrEodH",
+                        "value": "choice_EyBJrEodH"
+                    },
+                    {
+                        "id": "sli_Ey32E4jdr.choice_EkJxBEsuH.id",
+                        "label": "choice_EkJxBEsuH",
+                        "value": "choice_EkJxBEsuH"
+                    },
+                    {
+                        "id": "sli_Ey32E4jdr.choice_EkceS4o-S.id",
+                        "label": "choice_EkceS4o-S",
+                        "value": "choice_EkceS4o-S"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkJxBEsuH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi les entreprises sont-elles contraintes de modifier leurs pratiques marketing traditionnelles ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Le consommateur n’est plus captif car il n’a plus nécessairement besoin d’interroger les commerciaux d’un prestataire éventuel ou les conseillers dans une enseigne. Il fait son choix bien en amont sur le Web et valide éventuellement ses choix directement en magasin.",
+            "tips": "Chaque jour, nous serions confrontés à 3 000 messages publicitaires en moyenne : sur les affiches 4 par 3 dans la rue, dans le métro, dans les spots à la télé... ou sur Internet sous la forme de pop-up display, de native ads nichés dans les contenus Web, au détour d’une recherche contextualisée via des liens sponsorisés (SEA), ou bien encore adressés par les nombreux e-mailings promotionnels.",
+            "clue": "Le consommateur est devenu autonome.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyBJrEodH": "Pour s’adapter aux nouveaux logiciels de marketing automation",
+            "choice_EkJxBEsuH": "Pour répondre aux nouvelles attentes des clients connectés ",
+            "choice_V1deH4juB": "Parce que c’est bien d’évoluer ",
+            "choice_EkceS4o-S": "Pour coller aux effets de mode "
+        },
+        "en": {
+            "header": "Pourquoi les entreprises sont-elles contraintes de modifier leurs pratiques marketing traditionnelles ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Le consommateur n’est plus captif car il n’a plus nécessairement besoin d’interroger les commerciaux d’un prestataire éventuel ou les conseillers dans une enseigne. Il fait son choix bien en amont sur le Web et valide éventuellement ses choix directement en magasin.",
+            "tips": "Chaque jour, nous serions confrontés à 3 000 messages publicitaires en moyenne : sur les affiches 4 par 3 dans la rue, dans le métro, dans les spots à la télé... ou sur Internet sous la forme de pop-up display, de native ads nichés dans les contenus Web, au détour d’une recherche contextualisée via des liens sponsorisés (SEA), ou bien encore adressés par les nombreux e-mailings promotionnels.",
+            "clue": "Le consommateur est devenu autonome.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyBJrEodH": "",
+            "choice_EkJxBEsuH": "",
+            "choice_V1deH4juB": "",
+            "choice_EkceS4o-S": ""
+        }
+    }
+}

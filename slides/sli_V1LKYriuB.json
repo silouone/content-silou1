@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T14:18:22.859Z",
+            "updatedAt": "2018-10-17T09:43:48.100Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekm7qt5VS"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1LKYriuB",
+        "universalRef": "sli_V1LKYriuB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1LKYriuB.choice_EyJTFHjOr.id",
+                        "label": "choice_EyJTFHjOr",
+                        "value": "choice_EyJTFHjOr"
+                    },
+                    {
+                        "id": "sli_V1LKYriuB.choice_VkGatBodH.id",
+                        "label": "choice_VkGatBodH",
+                        "value": "choice_VkGatBodH"
+                    },
+                    {
+                        "id": "sli_V1LKYriuB.choice_4yrpKroOB.id",
+                        "label": "choice_4yrpKroOB",
+                        "value": "choice_4yrpKroOB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkGatBodH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quand le terme « growth hacking » apparaît-il pour la première fois aux États-Unis ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Conceptualisé en 2010, le growth hacking a pour objectif d’optimiser chacune des étapes du cycle de vie des clients par des méthodes agiles en exploitant et en automatisant tous les leviers marketing.",
+            "tips": "L’époque du growth hacking \"sauvage\" tel qu’on le pratiquait il y a quelques années est révolue. Les internautes sont de plus en plus réticents lorsqu'il s’agit de se faire spammer ou d’être contactés sans l’avoir sollicité. Le growth hacking mise aujourd'hui beaucoup sur l’automatisation, la rétention et sur la viralité. Ce qui est beaucoup plus sain !",
+            "clue": "L’inbound marketing est né 4 ans avant le growth hacking.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJTFHjOr": "2017",
+            "choice_VkGatBodH": "2010",
+            "choice_4yrpKroOB": "1993"
+        },
+        "en": {
+            "header": "Quand le terme « growth hacking » apparaît-il pour la première fois aux États-Unis ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Conceptualisé en 2010, le growth hacking a pour objectif d’optimiser chacune des étapes du cycle de vie des clients par des méthodes agiles en exploitant et en automatisant tous les leviers marketing.",
+            "tips": "L’époque du growth hacking sauvage tel qu’on le pratiquait il y a quelques années est révolue. Les internautes sont de plus en plus réticents lorsquil s’agit de se faire spammer ou d’être contactés sans l’avoir sollicité. Le growth hacking mise aujourdhui beaucoup sur l’automatisation, la rétention et sur la viralité. Ce qui est beaucoup plus sain !",
+            "clue": "L’inbound marketing est né 4 ans avant le growth hacking.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJTFHjOr": "2017",
+            "choice_VkGatBodH": "2010",
+            "choice_4yrpKroOB": "1993"
+        }
+    }
+}

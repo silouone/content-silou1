@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:46:08.165Z",
+            "updatedAt": "2018-10-17T09:33:24.485Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ek5daysOB",
+        "universalRef": "sli_Ek5daysOB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek5daysOB.choice_VJ8TTJidH.id",
+                        "label": "choice_VJ8TTJidH",
+                        "value": "choice_VJ8TTJidH"
+                    },
+                    {
+                        "id": "sli_Ek5daysOB.choice_VkqapJidS.id",
+                        "label": "choice_VkqapJidS",
+                        "value": "choice_VkqapJidS"
+                    },
+                    {
+                        "id": "sli_Ek5daysOB.choice_Ny~Ra1jOB.id",
+                        "label": "choice_Ny~Ra1jOB",
+                        "value": "choice_Ny~Ra1jOB"
+                    },
+                    {
+                        "id": "sli_Ek5daysOB.choice_Ny9Cpys-B.id",
+                        "label": "choice_Ny9Cpys-B",
+                        "value": "choice_Ny9Cpys-B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJ8TTJidH",
+                        "choice_VkqapJidS",
+                        "choice_Ny~Ra1jOB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles techniques marketing sont aujourd'hui en perte de vitesse ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Toutes les techniques marketings intrusives enregistrent des résultats de plus en plus décevants. De plus, ces pratiques peuvent s’avérer désastreuses en termes d’image de marque. Il y a donc urgence à ce que les marques, qui deviennent des médias sur Internet, proposent des contenus intéressants et limitent le plus possible les actions trop intrusives.",
+            "tips": "Les techniques intrusives de l'outbound marketing misent sur un ciblage de masse, segmenté essentiellement selon des critères démographiques. À l'inverse, l’Inbound Marketing analyse les comportements réels des internautes afin de pouvoir opérer un ciblage individuel.",
+            "clue": "Le marketing intrusif.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ8TTJidH": "L’e-mail marketing non sollicité ",
+            "choice_VkqapJidS": "Les appels téléphoniques non sollicités",
+            "choice_Ny~Ra1jOB": "La publicité non contextualisée",
+            "choice_Ny9Cpys-B": "Les scénarios de marketing automation"
+        },
+        "en": {
+            "header": "Quelles techniques marketing sont aujourdhui en perte de vitesse ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Toutes les techniques marketings intrusives enregistrent des résultats de plus en plus décevants. De plus, ces pratiques peuvent s’avérer désastreuses en termes d’image de marque. Il y a donc urgence à ce que les marques, qui deviennent des médias sur Internet, proposent des contenus intéressants et limitent le plus possible les actions trop intrusives.",
+            "tips": "Les techniques intrusives de loutbound marketing misent sur un ciblage de masse, segmenté essentiellement selon des critères démographiques. À linverse, l’Inbound Marketing analyse les comportements réels des internautes afin de pouvoir opérer un ciblage individuel.",
+            "clue": "Le marketing intrusif.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ8TTJidH": "L’e-mail marketing non sollicité ",
+            "choice_VkqapJidS": "Les appels téléphoniques non sollicités",
+            "choice_Ny~Ra1jOB": "La publicité non contextualisée",
+            "choice_Ny9Cpys-B": "Les scénarios de marketing automation"
+        }
+    }
+}

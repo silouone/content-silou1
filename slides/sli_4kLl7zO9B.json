@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-11T10:21:39.914Z",
+            "updatedAt": "2018-10-17T12:24:57.973Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kLl7zO9B",
+        "universalRef": "sli_4kLl7zO9B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel14732",
+                        "items": [
+                            {
+                                "text": "choice_Eyeam7f-qr",
+                                "value": "choice_Eyeam7f-qr"
+                            },
+                            {
+                                "text": "choice_4y~6XXM-9H",
+                                "value": "choice_4y~6XXM-9H"
+                            },
+                            {
+                                "text": "choice_N1KHQMdqB",
+                                "value": "choice_N1KHQMdqB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel14732",
+                        "answers": [
+                            "choice_Eyeam7f-qr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment bien utiliser les campagnes purement publicitaires ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les campagnes purement publicitaires servent à renforcer les axes sur lesquels la marque n’est pas encore visible « naturellement ». Elles peuvent également servir à accélérer les résultats lors du lancement d’une offre par exemple.",
+            "tips": "Faire la promotion de votre livre blanc via une publicité sera toujours mieux vécu qu’une publicité qui vante directement l’une de vos offres commerciales.",
+            "clue": "En soutien... et non en mur porteur.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Contrairement à l'inbound marketing, les campagnes purement publicitaires servent à {{sel14732}}",
+            "choice_Eyeam7f-qr": "renforcer les axes sur lesquels la marque n'est pas encore visible \"naturellement\"",
+            "choice_4y~6XXM-9H": "faire de vos clients des ambassadeurs de la marque",
+            "choice_N1KHQMdqB": "doubler la croissance de votre entreprise"
+        },
+        "en": {
+            "header": "Comment bien utiliser les campagnes purement publicitaires ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les campagnes purement publicitaires servent à renforcer les axes sur lesquels la marque n’est pas encore visible « naturellement ». Elles peuvent également servir à accélérer les résultats lors du lancement d’une offre par exemple.",
+            "tips": "Faire la promotion de votre livre blanc via une publicité sera toujours mieux vécu qu’une publicité qui vante directement l’une de vos offres commerciales.",
+            "clue": "En soutien... et non en mur porteur.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Contrairement à linbound marketing, les campagnes purement publicitaires servent à {{sel14732}}",
+            "choice_Eyeam7f-qr": "renforcer les axes sur lesquels la marque nest pas encore visible naturellement",
+            "choice_4y~6XXM-9H": "faire de vos clients des ambassadeurs de la marque",
+            "choice_N1KHQMdqB": "doubler la croissance de votre entreprise"
+        }
+    }
+}

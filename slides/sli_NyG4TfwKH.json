@@ -1,0 +1,81 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T06:47:57.718Z",
+            "updatedAt": "2018-10-17T12:14:43.906Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOeqY9Vr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyG4TfwKH",
+        "universalRef": "sli_NyG4TfwKH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_NyG4TfwKH.field_VJa-0cH9B.id",
+                        "type": "text",
+                        "name": "inp10590"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp10590",
+                        "answers": [
+                            "choice_E1MT-R9HcB",
+                            "choice_NJQt0qSqH",
+                            "choice_4J8sjzD5H"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Par quoi démarre le smarketing ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Travailler en commun sur la définition des persona permet aux marketeurs de mieux réussir leur stratégie de contenus à déployer, et aux commerciaux de mieux comprendre les nouvelles démarches en marketing digital.",
+            "tips": "Selon l'étude menée par Act-On en 2017, 98 % des organisations B2B modernes considèrent que l'alignement est critique pour la réussite du business.",
+            "clue": "Archétype.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le smarketing démarre par la définition des {{inp10590}}.",
+            "choice_E1MT-R9HcB": "personas",
+            "choice_NJQt0qSqH": "persona",
+            "choice_4J8sjzD5H": "personae"
+        },
+        "en": {
+            "header": "Par quoi démarre le smarketing ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Travailler en commun sur la définition des persona permet aux marketeurs de mieux réussir leur stratégie de contenus à déployer, et aux commerciaux de mieux comprendre les nouvelles démarches en marketing digital.",
+            "tips": "Selon létude menée par Act-On en 2017, 98 % des organisations B2B modernes considèrent que lalignement est critique pour la réussite du business.",
+            "clue": "Archétype.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le smarketing démarre par la définition des {{inp10590}}.",
+            "choice_E1MT-R9HcB": "personas",
+            "choice_NJQt0qSqH": "persona",
+            "choice_4J8sjzD5H": "personae"
+        }
+    }
+}

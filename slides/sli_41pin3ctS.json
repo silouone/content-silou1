@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:36:09.657Z",
+            "updatedAt": "2018-10-17T12:21:09.092Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41pin3ctS",
+        "universalRef": "sli_41pin3ctS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel38012",
+                        "items": [
+                            {
+                                "text": "choice_EylbJxaSqS",
+                                "value": "choice_EylbJxaSqS"
+                            },
+                            {
+                                "text": "choice_Vy~bJgarqS",
+                                "value": "choice_Vy~bJgarqS"
+                            },
+                            {
+                                "text": "choice_E10ZgTH5H",
+                                "value": "choice_E10ZgTH5H"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel38012",
+                        "answers": [
+                            "choice_EylbJxaSqS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment rendre une publicité plus attirante pour le consommateur ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une publicité qui incite directement à l’achat peut être perçue comme intrusive. En revanche, vos consommateurs réagiront de façon plus positive à une publicité qui offre quelque chose de gratuit, comme une promotion sur un prochain achat ou l'inscription à une newsletter.",
+            "tips": "Le retargeting offre une plus grande efficacité que les campagnes de publicité traditionnelles en ligne, car le message, très ciblé, ne s'adresse qu'aux internautes ayant déjà visité le site de l'annonceur. Le taux de clic est d'environ 5 % (alors qu'une campagne classique génère des taux de l'ordre de 0,5 à 2,5 %).",
+            "clue": "C'est donnant donnant !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une publicité qui {{sel38012} a plus de change de toucher vos cibles.",
+            "choice_EJlU2h29FS": "efficace",
+            "choice_NJbIn2n5KB": "intrusive",
+            "choice_EyJphnqFS": "néfaste",
+            "choice_EylbJxaSqS": "offre quelque chose ",
+            "choice_Vy~bJgarqS": "est diffusée dans la matinée",
+            "choice_E10ZgTH5H": "incite directement à l'achat"
+        },
+        "en": {
+            "header": "Comment rendre une publicité plus attirante pour le consommateur ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une publicité qui incite directement à l’achat peut être perçue comme intrusive. En revanche, vos consommateurs réagiront de façon plus positive à une publicité qui offre quelque chose de gratuit, comme une promotion sur un prochain achat ou linscription à une newsletter.",
+            "tips": "Le retargeting offre une plus grande efficacité que les campagnes de publicité traditionnelles en ligne, car le message, très ciblé, ne sadresse quaux internautes ayant déjà visité le site de lannonceur. Le taux de clic est denviron 5 % (alors quune campagne classique génère des taux de lordre de 0,5 à 2,5 %).",
+            "clue": "Cest donnant donnant !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel38012}}",
+            "choice_EJlU2h29FS": "",
+            "choice_NJbIn2n5KB": "",
+            "choice_EyJphnqFS": "",
+            "choice_EylbJxaSqS": "",
+            "choice_Vy~bJgarqS": "",
+            "choice_E10ZgTH5H": ""
+        }
+    }
+}

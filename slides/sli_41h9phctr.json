@@ -1,0 +1,85 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:42:39.324Z",
+            "updatedAt": "2018-10-17T12:22:36.991Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41h9phctr",
+        "universalRef": "sli_41h9phctr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_41h9phctr.choice_VkQyya5tr.id",
+                        "label": "choice_VkQyya5tr",
+                        "value": "choice_VkQyya5tr"
+                    },
+                    {
+                        "id": "sli_41h9phctr.choice_NJukka9KS.id",
+                        "label": "choice_NJukka9KS",
+                        "value": "choice_NJukka9KS"
+                    },
+                    {
+                        "id": "sli_41h9phctr.choice_VkLgka5Kr.id",
+                        "label": "choice_VkLgka5Kr",
+                        "value": "choice_VkLgka5Kr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJukka9KS",
+                        "choice_VkLgka5Kr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quand est-il adapté d'utiliser les stratégies d'inbound marketing et de growth hacking ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L’inbound marketing et le growth hacking sont d’autant plus pertinents lorsque le parcours d’achat est long et complexe. Bien évidemment, ils le seront moins pour des achats \"impulsifs\".",
+            "tips": "L'un des hacks les plus efficaces appliqué à la première étape de l'inbound marketing (attirer son audience cible) est le \"guest blogging\" : vous pouvez ainsi élargir votre communauté en faisant appel à des blogueurs influents pour qu'ils rédigent des posts sur leur propre blog.",
+            "clue": "Ne pas précipiter ses décisions… et rester dans le coup !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkQyya5tr": "Lorsque le client est pressé",
+            "choice_NJukka9KS": "Lorsque le client veut se renseigner",
+            "choice_VkLgka5Kr": "Lorsque l’entreprise doit gagner en visibilité sur le Web"
+        },
+        "en": {
+            "header": "Quand est-il adapté dutiliser les stratégies dinbound marketing et de growth hacking ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L’inbound marketing et le growth hacking sont d’autant plus pertinents lorsque le parcours d’achat est long et complexe. Bien évidemment, ils le seront moins pour des achats impulsifs.",
+            "tips": "Lun des hacks les plus efficaces appliqué à la première étape de linbound marketing (attirer son audience cible) est le guest blogging : vous pouvez ainsi élargir votre communauté en faisant appel à des blogueurs influents pour quils rédigent des posts sur leur propre blog.",
+            "clue": "Ne pas précipiter ses décisions… et rester dans le coup !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkQyya5tr": "Lorsque le client est pressé",
+            "choice_NJukka9KS": "Lorsque le client veut se renseigner",
+            "choice_VkLgka5Kr": "Lorsque l’entreprise doit gagner en visibilité sur le Web"
+        }
+    }
+}

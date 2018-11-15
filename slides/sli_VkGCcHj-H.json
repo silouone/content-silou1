@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T14:27:12.347Z",
+            "updatedAt": "2018-10-17T09:46:34.994Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekm7qt5VS"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkGCcHj-H",
+        "universalRef": "sli_VkGCcHj-H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel76345",
+                        "items": [
+                            {
+                                "text": "choice_4ye-zsBi-S",
+                                "value": "choice_4ye-zsBi-S"
+                            },
+                            {
+                                "text": "choice_V1b-zsSjOr",
+                                "value": "choice_V1b-zsSjOr"
+                            },
+                            {
+                                "text": "choice_VyPnjrjOB",
+                                "value": "choice_VyPnjrjOB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel76345",
+                        "answers": [
+                            "choice_4ye-zsBi-S"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le but du \"referral\" dans le growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "L’étape recommandation, ou \"referral\", est essentielle puisque c’est elle qui permettra de faire grossir rapidement sa base de clients. Les growth hackers se focalisent beaucoup sur cette étape et veillent à ce que l’offre corresponde bien aux attentes du marché. Ils font également en sorte que les clients s’expriment le plus largement possible concernant cette offre.",
+            "tips": "Au début de son existence, Airbnb a utilisé des techniques assez poussées de growth hacking. Ainsi, il a utilisé la base de Craiglist, acteur alternatif aux offres hôtelières, pour récupérer les clients là où ils se trouvaient.",
+            "clue": "On parle souvent de bouche à oreille.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L’étape recommandation, ou referral, vise à créer une {{sel76345}} qui va faire des utilisateurs actifs du service ses ambassadeurs.",
+            "choice_4ye-zsBi-S": "viralité",
+            "choice_V1b-zsSjOr": "tendance",
+            "choice_VyPnjrjOB": "concurrence"
+        },
+        "en": {
+            "header": "Quel est le but du referral dans le growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "L’étape recommandation, ou referral, est essentielle puisque c’est elle qui permettra de faire grossir rapidement sa base de clients. Les growth hackers se focalisent beaucoup sur cette étape et veillent à ce que l’offre corresponde bien aux attentes du marché. Ils font également en sorte que les clients s’expriment le plus largement possible concernant cette offre.",
+            "tips": "Au début de son existence, Airbnb a utilisé des techniques assez poussées de growth hacking. Ainsi, il a utilisé la base de Craiglist, acteur alternatif aux offres hôtelières, pour récupérer les clients là où ils se trouvaient.",
+            "clue": "On parle souvent de bouche à oreille.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L’étape recommandation, ou referral, vise à créer une {{sel76345}} qui va faire des utilisateurs actifs du service ses ambassadeurs.",
+            "choice_4ye-zsBi-S": "viralité",
+            "choice_V1b-zsSjOr": "tendance",
+            "choice_VyPnjrjOB": "concurrence"
+        }
+    }
+}

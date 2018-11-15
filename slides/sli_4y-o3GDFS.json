@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T13:35:05.508Z",
+            "updatedAt": "2018-10-17T12:14:16.965Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOeqY9Vr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4y-o3GDFS",
+        "universalRef": "sli_4y-o3GDFS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4y-o3GDFS.choice_VydMazPFr.id",
+                        "label": "choice_VydMazPFr",
+                        "value": "choice_VydMazPFr"
+                    },
+                    {
+                        "id": "sli_4y-o3GDFS.choice_NyaMTzvKS.id",
+                        "label": "choice_NyaMTzvKS",
+                        "value": "choice_NyaMTzvKS"
+                    },
+                    {
+                        "id": "sli_4y-o3GDFS.choice_EJz76MwFB.id",
+                        "label": "choice_EJz76MwFB",
+                        "value": "choice_EJz76MwFB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJz76MwFB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appelle-t-on le rapprochement entre les marketeurs et les commerciaux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le smarketing désigne le rapprochement entre les marketeurs et les commerciaux. Le traitement des leads n’est en effet pas une activité purement marketing ou purement commerciale. Il s’agit d’un continuum intelligent entre ces deux services.",
+            "tips": "On parle également de rapport en boucle fermée (\"closed loop marketing\").",
+            "clue": "Mot-valise.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VydMazPFr": "Marcom",
+            "choice_NyaMTzvKS": "Mcommercial",
+            "choice_EJz76MwFB": "Smarketing"
+        },
+        "en": {
+            "header": "Comment appelle-t-on le rapprochement entre les marketeurs et les commerciaux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le smarketing désigne le rapprochement entre les marketeurs et les commerciaux. Le traitement des leads n’est en effet pas une activité purement marketing ou purement commerciale. Il s’agit d’un continuum intelligent entre ces deux services.",
+            "tips": "On parle également de rapport en boucle fermée (closed loop marketing).",
+            "clue": "Mot-valise.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VydMazPFr": "Marcom",
+            "choice_NyaMTzvKS": "Mcommercial",
+            "choice_EJz76MwFB": "Smarketing"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T13:16:38.314Z",
+            "updatedAt": "2018-10-17T12:12:08.132Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1Av-MwKr",
+        "universalRef": "sli_N1Av-MwKr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_N1Av-MwKr.field_Vygs-fwKS.id",
+                        "type": "text",
+                        "name": "inp42140"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp42140",
+                        "answers": [
+                            "choice_E1zliOfwKB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il prendre en compte avant d'opter pour une plateforme de marketing automation ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Le digital a offert aux marketeurs l’opportunité d’atteindre facilement beaucoup plus de clients potentiels que par le passé, mais également beaucoup plus de possibilités de \"mal communiquer\" et par conséquent de faire fuir leurs clients… Pour traiter un grand volume de leads, l’automatisation s’impose.",
+            "tips": "L’ intelligence prédictive donne les capacités aux marketeurs de faire le tri, de manière automatique, en comparant et pondérant des ensembles de critères et de données, entre des prospects engagés dans un processus de conversion sur le long terme et ceux effectivement enclins à passer à l’acte d’achat dans un cycle court. Amazon est un bon exemple d’entreprise utilisant l’intelligence prédictive. Avec sa base de données de 80 millions d’utilisateurs, Amazon est capable de prédire quels produits vont probablement acheter ses clients, et à quel moment.",
+            "clue": "Leur grand nombre rendent les activités marketing plus complexes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour savoir s’il faut que vous optiez pour une plateforme de marketing automation, évaluez tout d’abord vos besoins en termes de nombre de {{inp42140}} à gérer.",
+            "choice_E1zliOfwKB": "leads"
+        },
+        "en": {
+            "header": "Que faut-il prendre en compte avant dopter pour une plateforme de marketing automation ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Le digital a offert aux marketeurs l’opportunité d’atteindre facilement beaucoup plus de clients potentiels que par le passé, mais également beaucoup plus de possibilités de mal communiquer et par conséquent de faire fuir leurs clients… Pour traiter un grand volume de leads, l’automatisation s’impose.",
+            "tips": "L’ intelligence prédictive donne les capacités aux marketeurs de faire le tri, de manière automatique, en comparant et pondérant des ensembles de critères et de données, entre des prospects engagés dans un processus de conversion sur le long terme et ceux effectivement enclins à passer à l’acte d’achat dans un cycle court. Amazon est un bon exemple d’entreprise utilisant l’intelligence prédictive. Avec sa base de données de 80 millions d’utilisateurs, Amazon est capable de prédire quels produits vont probablement acheter ses clients, et à quel moment.",
+            "clue": "Leur grand nombre rendent les activités marketing plus complexes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour savoir s’il faut que vous optiez pour une plateforme de marketing automation, évaluez tout d’abord vos besoins en termes de nombre de {{inp42140}} à gérer.",
+            "choice_E1zliOfwKB": "leads"
+        }
+    }
+}

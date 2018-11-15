@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T10:39:20.649Z",
+            "updatedAt": "2018-10-17T12:00:56.355Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkkycF9EB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1HYO3pdr",
+        "universalRef": "sli_V1HYO3pdr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel20912",
+                        "items": [
+                            {
+                                "text": "choice_EJldbbyUYr",
+                                "value": "choice_EJldbbyUYr"
+                            },
+                            {
+                                "text": "choice_EJW-Z~1UFB",
+                                "value": "choice_EJW-Z~1UFB"
+                            },
+                            {
+                                "text": "choice_NJwGWkLFS",
+                                "value": "choice_NJwGWkLFS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel20912",
+                        "answers": [
+                            "choice_EJW-Z~1UFB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels mots-clés est-il conseillé d'utiliser dans votre contenu Web pour optimiser votre référencement ? ",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pour optimiser son référencement naturel et social, il est nécessaire de maîtriser les techniques qui permettent d'être bien positionné parmi les résultats des moteurs de recherche. Utiliser les mots-clés, ceux utilisés par vos personas, est l'une des conditions importantes pour avoir de la visibilité auprès de vos cibles.",
+            "tips": "Le titre des articles est extrêmement important pour générer l’engagement des internautes. C’est en effet le titre qui servira le plus souvent aux partages sur les médias sociaux ainsi qu’à indiquer à Google quel est le mot-clé sur lequel on souhaite se positionner.",
+            "clue": "Il faut éviter l’emphase afin d’être très explicite pour inciter les Internautes à lire ses contenus.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour optimiser votre référencement, il est recommandé d'utiliser les mots-clés {{sel20912}}.",
+            "choice_EJldbbyUYr": "les plus simples",
+            "choice_EJW-Z~1UFB": "utilisés par vos personas",
+            "choice_NJwGWkLFS": "les plus fréquents sur le Web"
+        },
+        "en": {
+            "header": "Quels mots-clés est-il conseillé dutiliser dans votre contenu Web pour optimiser votre référencement ? ",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pour optimiser son référencement naturel et social, il est nécessaire de maîtriser les techniques qui permettent dêtre bien positionné parmi les résultats des moteurs de recherche. Utiliser les mots-clés, ceux utilisés par vos personas, est lune des conditions importantes pour avoir de la visibilité auprès de vos cibles.",
+            "tips": "Le titre des articles est extrêmement important pour générer l’engagement des internautes. C’est en effet le titre qui servira le plus souvent aux partages sur les médias sociaux ainsi qu’à indiquer à Google quel est le mot-clé sur lequel on souhaite se positionner.",
+            "clue": "Il faut éviter l’emphase afin d’être très explicite pour inciter les Internautes à lire ses contenus.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour optimiser votre référencement, il est recommandé dutiliser les mots-clés {{sel20912}}.",
+            "choice_EJldbbyUYr": "les plus simples",
+            "choice_EJW-Z~1UFB": "utilisés par vos personas",
+            "choice_NJwGWkLFS": "les plus fréquents sur le Web"
+        }
+    }
+}

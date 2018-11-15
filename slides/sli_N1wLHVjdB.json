@@ -1,0 +1,94 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T12:53:55.668Z",
+            "updatedAt": "2018-10-17T09:37:14.917Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1T2KYcEr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1wLHVjdB",
+        "universalRef": "sli_N1wLHVjdB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_N1wLHVjdB.choice_4kMQAo2uB.id",
+                        "label": "choice_4kMQAo2uB",
+                        "value": "choice_4kMQAo2uB"
+                    },
+                    {
+                        "id": "sli_N1wLHVjdB.choice_NJ87Cshur.id",
+                        "label": "choice_NJ87Cshur",
+                        "value": "choice_NJ87Cshur"
+                    },
+                    {
+                        "id": "sli_N1wLHVjdB.choice_EJ3QAohuS.id",
+                        "label": "choice_EJ3QAohuS",
+                        "value": "choice_EJ3QAohuS"
+                    },
+                    {
+                        "id": "sli_N1wLHVjdB.choice_VJxE0o2dS.id",
+                        "label": "choice_VJxE0o2dS",
+                        "value": "choice_VJxE0o2dS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJ3QAohuS",
+                        "choice_NJ87Cshur",
+                        "choice_VJxE0o2dS",
+                        "choice_4kMQAo2uB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Remettez dans l'ordre les 4 étapes de l'inbound marketing.",
+            "explanation": "Sélectionnez dans l'ordre les bonnes réponses ci-dessous.",
+            "klf": "Par manque de compréhension des mécanismes du marketing digital, les marketeurs s’arrêtent bien souvent à la création d’audience. Ils pensent avoir réussi si le trafic est important, alors qu’il ne s’agit en fait que d’un commencement. En effet, attirer une audience sur son site Web n’est pas une fin en soi. Il faut être en mesure d’en extraire des leads afin d’alimenter son tunnel de conversion et générer des ventes.",
+            "tips": "Les contenus premium ont sensiblement les mêmes caractéristiques que les contenus créés pour attirer (blog, vidéos, infographies, articles), sauf que leur valeur intrinsèque est suffisamment élevée aux yeux des cibles visées pour qu’elles acceptent de communiquer leurs données personnelles pour y accéder.",
+            "clue": "De prospects à leads à clients à ambassadeurs.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kMQAo2uB": "Enchanter",
+            "choice_NJ87Cshur": "Convertir",
+            "choice_EJ3QAohuS": "Attirer",
+            "choice_VJxE0o2dS": "Conclure"
+        },
+        "en": {
+            "header": "Remettez dans lordre les 4 étapes de linbound marketing.",
+            "explanation": "Sélectionnez dans lordre les bonnes réponses ci-dessous.",
+            "klf": "Par manque de compréhension des mécanismes du marketing digital, les marketeurs s’arrêtent bien souvent à la création d’audience. Ils pensent avoir réussi si le trafic est important, alors qu’il ne s’agit en fait que d’un commencement. En effet, attirer une audience sur son site Web n’est pas une fin en soi. Il faut être en mesure d’en extraire des leads afin d’alimenter son tunnel de conversion et générer des ventes.",
+            "tips": "Les contenus premium ont sensiblement les mêmes caractéristiques que les contenus créés pour attirer (blog, vidéos, infographies, articles), sauf que leur valeur intrinsèque est suffisamment élevée aux yeux des cibles visées pour qu’elles acceptent de communiquer leurs données personnelles pour y accéder.",
+            "clue": "De prospects à leads à clients à ambassadeurs.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kMQAo2uB": "Enchanter",
+            "choice_NJ87Cshur": "Convertir",
+            "choice_EJ3QAohuS": "Attirer",
+            "choice_VJxE0o2dS": "Conclure"
+        }
+    }
+}

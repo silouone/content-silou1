@@ -1,0 +1,91 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T12:31:21.048Z",
+            "updatedAt": "2018-10-17T12:01:54.718Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NykE9YqES"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nk04QR6-r",
+        "universalRef": "sli_Nk04QR6-r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nk04QR6-r.choice_VyHcXRp-S.id",
+                        "label": "choice_VyHcXRp-S",
+                        "value": "choice_VyHcXRp-S"
+                    },
+                    {
+                        "id": "sli_Nk04QR6-r.choice_N15cXCa-S.id",
+                        "label": "choice_N15cXCa-S",
+                        "value": "choice_N15cXCa-S"
+                    },
+                    {
+                        "id": "sli_Nk04QR6-r.choice_EJujXATur.id",
+                        "label": "choice_EJujXATur",
+                        "value": "choice_EJujXATur"
+                    },
+                    {
+                        "id": "sli_Nk04QR6-r.choice_VyAsQ0aOH.id",
+                        "label": "choice_VyAsQ0aOH",
+                        "value": "choice_VyAsQ0aOH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyHcXRp-S",
+                        "choice_N15cXCa-S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les objectifs de la data comportementale ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "C’est grâce à la data comportementale qu’il est possible de proposer le bon contenu à la bonne personne dans le bon contexte et au bon moment. Sans data comportementale, il est difficile d’orchestrer des actions marketing très ciblées et automatisées.",
+            "tips": "La méthode \"Best of Breed\" consiste à sélectionner les meilleures solutions logicielles dans leur catégorie : médias sociaux, e-mail marketing, automatisation…  La méthode dite \"intégrée\" va au contraire privilégier le choix d’une solution polyvalente qui permet d’effectuer un grand nombre de fonctions sur une seule interface.",
+            "clue": "Les comportements trompent rarement.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyHcXRp-S": "Mieux comprendre les centres d’intérêts de ses cibles ",
+            "choice_N15cXCa-S": "Mieux comprendre le niveau de maturité de ses cibles dans leur parcours d’achat ",
+            "choice_EJujXATur": "Surveiller ses cibles ",
+            "choice_VyAsQ0aOH": "Acquérir des données personnelles "
+        },
+        "en": {
+            "header": "Quels sont les objectifs de la data comportementale ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "C’est grâce à la data comportementale qu’il est possible de proposer le bon contenu à la bonne personne dans le bon contexte et au bon moment. Sans data comportementale, il est difficile d’orchestrer des actions marketing très ciblées et automatisées.",
+            "tips": "La méthode Best of Breed consiste à sélectionner les meilleures solutions logicielles dans leur catégorie : médias sociaux, e-mail marketing, automatisation…  La méthode dite intégrée va au contraire privilégier le choix d’une solution polyvalente qui permet d’effectuer un grand nombre de fonctions sur une seule interface.",
+            "clue": "Les comportements trompent rarement.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyHcXRp-S": "Mieux comprendre les centres d’intérêts de ses cibles ",
+            "choice_N15cXCa-S": "Mieux comprendre le niveau de maturité de ses cibles dans leur parcours d’achat ",
+            "choice_EJujXATur": "Surveiller ses cibles ",
+            "choice_VyAsQ0aOH": "Acquérir des données personnelles "
+        }
+    }
+}

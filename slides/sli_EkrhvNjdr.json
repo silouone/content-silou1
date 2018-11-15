@@ -1,0 +1,75 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T13:02:50.128Z",
+            "updatedAt": "2018-10-17T09:40:50.587Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1T2KYcEr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkrhvNjdr",
+        "universalRef": "sli_EkrhvNjdr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EkrhvNjdr.field_N13RwNsdH.id",
+                        "type": "text",
+                        "name": "inp85309"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp85309",
+                        "answers": [
+                            "choice_NyGh0vEjOS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'outil essentiel du processus d'inbound marketing ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "La force du contenu est désormais incontestable. Au commencement d’un parcours d’achat, le client ou consommateur préférera la plupart du temps disposer de contenus informatifs qui lui permettent de se renseigner de manière autonome plutôt que de devoir contacter un commercial.",
+            "tips": "Soignez la promotion de vos contenus via les médias sociaux, les articles de blog, les campagnes d’e-mail marketing ou publicitaires.",
+            "clue": "Ils se doivent d’être uniques, intéressants et optimisés pour le référencement naturel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le processus d'inbound marketing suit tout le parcours client : il commence par lui adresser les bons {{inp85309}} au bon moment en fonction du bon contexte, et se poursuit après la vente pour fidéliser le client et le transformer en ambassadeur de marque.",
+            "choice_NyGh0vEjOS": "contenus"
+        },
+        "en": {
+            "header": "Quel est loutil essentiel du processus dinbound marketing ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "La force du contenu est désormais incontestable. Au commencement d’un parcours d’achat, le client ou consommateur préférera la plupart du temps disposer de contenus informatifs qui lui permettent de se renseigner de manière autonome plutôt que de devoir contacter un commercial.",
+            "tips": "Soignez la promotion de vos contenus via les médias sociaux, les articles de blog, les campagnes d’e-mail marketing ou publicitaires.",
+            "clue": "Ils se doivent d’être uniques, intéressants et optimisés pour le référencement naturel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le processus dinbound marketing suit tout le parcours client : il commence par lui adresser les bons {{inp85309}} au bon moment en fonction du bon contexte, et se poursuit après la vente pour fidéliser le client et le transformer en ambassadeur de marque.",
+            "choice_NyGh0vEjOS": "contenus"
+        }
+    }
+}
