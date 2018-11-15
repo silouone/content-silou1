@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T12:32:35.118Z",
+            "updatedAt": "2018-10-17T12:02:55.643Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NykE9YqES"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ey~T7Cp-r",
+        "universalRef": "sli_Ey~T7Cp-r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel25533",
+                        "items": [
+                            {
+                                "text": "choice_VJe39~yUYB",
+                                "value": "choice_VJe39~yUYB"
+                            },
+                            {
+                                "text": "choice_Vkb3qWyLFS",
+                                "value": "choice_Vkb3qWyLFS"
+                            },
+                            {
+                                "text": "choice_4JnoWk8Kr",
+                                "value": "choice_4JnoWk8Kr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel25533",
+                        "answers": [
+                            "choice_VJe39~yUYB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que représente le premier « A » de la méthode AARRR ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les 5 phases de la méthode AARRR correspondent aux 5 étapes de tunnel de conversion en growth hacking. La première étape consiste logiquement à acquérir une audience sur le Web. Sans cela, il est difficile d’obtenir des leads.",
+            "tips": "La méthode AARRR a été utilisée pour la première fois par Dave McClure. Fondateur de l'entreprise \"500 start-up\" et entrepreneur, il a créé cette méthode pour illustrer les cinq metrics à suivre pour optimiser le tunnel marketing.",
+            "clue": "Tout démarre par une visite.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le premier \"A\" de la méthode AARRR représente la phase d' {{sel25533}}.",
+            "choice_VJe39~yUYB": "acquisition",
+            "choice_Vkb3qWyLFS": "activation",
+            "choice_4JnoWk8Kr": "automatisation"
+        },
+        "en": {
+            "header": "Que représente le premier « A » de la méthode AARRR ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les 5 phases de la méthode AARRR correspondent aux 5 étapes de tunnel de conversion en growth hacking. La première étape consiste logiquement à acquérir une audience sur le Web. Sans cela, il est difficile d’obtenir des leads.",
+            "tips": "La méthode AARRR a été utilisée pour la première fois par Dave McClure. Fondateur de lentreprise 500 start-up et entrepreneur, il a créé cette méthode pour illustrer les cinq metrics à suivre pour optimiser le tunnel marketing.",
+            "clue": "Tout démarre par une visite.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le premier A de la méthode AARRR représente la phase d {{sel25533}}.",
+            "choice_VJe39~yUYB": "acquisition",
+            "choice_Vkb3qWyLFS": "activation",
+            "choice_4JnoWk8Kr": "automatisation"
+        }
+    }
+}

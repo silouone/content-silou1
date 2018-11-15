@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:58:50.270Z",
+            "updatedAt": "2018-10-09T16:09:43.174Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkB2ZaqtS",
+        "universalRef": "sli_NkB2ZaqtS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel31170",
+                        "items": [
+                            {
+                                "text": "choice_EylMkz6cFr",
+                                "value": "choice_EylMkz6cFr"
+                            },
+                            {
+                                "text": "choice_41Zf1GaqFH",
+                                "value": "choice_41Zf1GaqFH"
+                            },
+                            {
+                                "text": "choice_VkSSz65KH",
+                                "value": "choice_VkSSz65KH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel31170",
+                        "answers": [
+                            "choice_EylMkz6cFr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment bien utiliser les campagnes purement publicitaires ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les campagnes purement publicitaires servent à renforcer les axes sur lesquels la marque n’est pas encore visible « naturellement ». Elles peuvent  également servir à accélérer les résultats lors du lancement d’une offre par exemple.",
+            "tips": "Faire la promotion de votre livre blanc via une publicité sera toujours mieux vécu qu’une publicité qui vante directement l’une de vos offres commerciales.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Contrairement à l'Inbound Marketing, les campagnes purement publicitaires servent à {{sel31170}}.",
+            "choice_EylMkz6cFr": "renforcer les axes sur lesquelles la marque n'est pas encore visible \"naturellement\"",
+            "choice_41Zf1GaqFH": "faire de vos clients des ambassadeurs de la marque",
+            "choice_VkSSz65KH": "doubler la croissance de votre entreprise"
+        },
+        "en": {
+            "header": "Comment bien utiliser les campagnes purement publicitaires ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les campagnes purement publicitaires servent à renforcer les axes sur lesquels la marque n’est pas encore visible « naturellement ». Elles peuvent  également servir à accélérer les résultats lors du lancement d’une offre par exemple.",
+            "tips": "Faire la promotion de votre livre blanc via une publicité sera toujours mieux vécu qu’une publicité qui vante directement l’une de vos offres commerciales.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Contrairement à lInbound Marketing, les campagnes purement publicitaires servent à {{sel31170}}.",
+            "choice_EylMkz6cFr": "renforcer les axes sur lesquelles la marque nest pas encore visible naturellement",
+            "choice_41Zf1GaqFH": "faire de vos clients des ambassadeurs de la marque",
+            "choice_VkSSz65KH": "doubler la croissance de votre entreprise"
+        }
+    }
+}

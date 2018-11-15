@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T13:14:39.729Z",
+            "updatedAt": "2018-10-01T16:11:56.680Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1hguzwFS",
+        "universalRef": "sli_E1hguzwFS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1hguzwFS.choice_EJMBOMDYB.id",
+                        "label": "choice_EJMBOMDYB",
+                        "value": "choice_EJMBOMDYB"
+                    },
+                    {
+                        "id": "sli_E1hguzwFS.choice_N1cB-MDYB.id",
+                        "label": "choice_N1cB-MDYB",
+                        "value": "choice_N1cB-MDYB"
+                    },
+                    {
+                        "id": "sli_E1hguzwFS.choice_4kzUdMPFS.id",
+                        "label": "choice_4kzUdMPFS",
+                        "value": "choice_4kzUdMPFS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJMBOMDYB",
+                        "choice_N1cB-MDYB",
+                        "choice_4kzUdMPFS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les facteurs permettant de comprendre que vous avez atteint les limites de votre solution d'email marketing ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les campagnes plus ou moins intrusives restent la norme dans un monde où la data comportementale, le marketing automation et le content marketing permettraient au contraire de faire de la \"personnalisation de masse\" (envoyer le bon message, au bon moment, à la bonne personne et dans le bon contexte tout en gérant de fortes audiences) une norme.",
+            "tips": "Le trigger marketing (ou l’e-mailing de déclenchement) désigne les pratiques par lesquelles les envois d’e-mails sont automatiquement déclenchés lorsqu'un prospect entreprend une action spécifique (inscription, etc.) ou lorsqu'un événement se produit (date anniversaire, par exemple).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "null": "",
+            "choice_EJMBOMDYB": "Vos taux d’ouverture ne dépassent pas 25%",
+            "choice_N1cB-MDYB": "Vous continuez à orchestrer des campagnes d’emails marketing parce qu’il faut bien faire quelque chose",
+            "choice_4kzUdMPFS": "Vous n’êtes pas en mesure de suivre efficacement le résultat de vos campagnes si ce n’est les ouvertures et les clics"
+        },
+        "en": {
+            "header": "Quels sont les facteurs permettant de comprendre que vous avez atteint les limites de votre solution demail marketing ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les campagnes plus ou moins intrusives restent la norme dans un monde où la data comportementale, le marketing automation et le content marketing permettraient au contraire de faire de la personnalisation de masse (envoyer le bon message, au bon moment, à la bonne personne et dans le bon contexte tout en gérant de fortes audiences) une norme.",
+            "tips": "Le trigger marketing (ou l’e-mailing de déclenchement) désigne les pratiques par lesquelles les envois d’e-mails sont automatiquement déclenchés lorsquun prospect entreprend une action spécifique (inscription, etc.) ou lorsquun événement se produit (date anniversaire, par exemple).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJMBOMDYB": "Vos taux d’ouverture ne dépassent pas 25%",
+            "choice_N1cB-MDYB": "Vous continuez à orchestrer des campagnes d’emails marketing parce qu’il faut bien faire quelque chose",
+            "choice_4kzUdMPFS": "Vous n’êtes pas en mesure de suivre efficacement le résultat de vos campagnes si ce n’est les ouvertures et les clics"
+        }
+    }
+}

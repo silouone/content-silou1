@@ -1,0 +1,86 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T14:50:52.110Z",
+            "updatedAt": "2018-10-17T12:13:36.230Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1v1GmsFH",
+        "universalRef": "sli_E1v1GmsFH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1v1GmsFH.choice_E1eiEX7jYB.id",
+                        "label": "choice_E1eiEX7jYB",
+                        "value": "choice_E1eiEX7jYB",
+                        "media": "med_VJsE7QotS"
+                    },
+                    {
+                        "id": "sli_E1v1GmsFH.choice_VklJUQ7jYB.id",
+                        "label": "choice_VklJUQ7jYB",
+                        "value": "choice_VklJUQ7jYB",
+                        "media": "med_NJkUXXoKS"
+                    },
+                    {
+                        "id": "sli_E1v1GmsFH.choice_41ldImmotB.id",
+                        "label": "choice_41ldImmotB",
+                        "value": "choice_41ldImmotB",
+                        "media": "med_NkOLXQjtB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VklJUQ7jYB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel outil peut venir compléter le marketing automation en termes de sélection des bons leads ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "L'intelligence artificielle peut être un filon à exploiter pour vous aider dans la sélection des leads assez mûrs pour être exploitables par les commerciaux.",
+            "tips": "L'intelligence artificielle ne peut être utilisée que par les entreprises qui sont déjà très avancées dans leurs pratiques d'inbound marketing. Seule une compréhension très précise des mécanismes qui permettent de générer des leads et de les nurturer permet de mettre en place l'IA de manière efficace.",
+            "clue": "Ce n'est pas humain...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1eiEX7jYB": "L'enquête de satisfaction",
+            "choice_VklJUQ7jYB": "L'intelligence artificielle",
+            "choice_41ldImmotB": "Le mind mapping"
+        },
+        "en": {
+            "header": "Quel outil peut venir compléter le marketing automation en termes de sélection des bons leads ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Lintelligence artificielle peut être un filon à exploiter pour vous aider dans la sélection des leads assez mûrs pour être exploitables par les commerciaux.",
+            "tips": "Lintelligence artificielle ne peut être utilisée que par les entreprises qui sont déjà très avancées dans leurs pratiques dinbound marketing. Seule une compréhension très précise des mécanismes qui permettent de générer des leads et de les nurturer permet de mettre en place lIA de manière efficace.",
+            "clue": "Ce nest pas humain...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1eiEX7jYB": "Lenquête de satisfaction",
+            "choice_VklJUQ7jYB": "Lintelligence artificielle",
+            "choice_41ldImmotB": "Le mind mapping"
+        }
+    }
+}

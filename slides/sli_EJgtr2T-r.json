@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T10:24:41.854Z",
+            "updatedAt": "2018-10-17T11:58:11.029Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkkycF9EB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJgtr2T-r",
+        "universalRef": "sli_EJgtr2T-r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJgtr2T-r.choice_Ny62SnpOS.id",
+                        "label": "choice_Ny62SnpOS",
+                        "value": "choice_Ny62SnpOS"
+                    },
+                    {
+                        "id": "sli_EJgtr2T-r.choice_V1Jar2TdH.id",
+                        "label": "choice_V1Jar2TdH",
+                        "value": "choice_V1Jar2TdH"
+                    },
+                    {
+                        "id": "sli_EJgtr2T-r.choice_NkExL3adr.id",
+                        "label": "choice_NkExL3adr",
+                        "value": "choice_NkExL3adr"
+                    },
+                    {
+                        "id": "sli_EJgtr2T-r.choice_VJ6xI3pdr.id",
+                        "label": "choice_VJ6xI3pdr",
+                        "value": "choice_VJ6xI3pdr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1Jar2TdH",
+                        "choice_NkExL3adr",
+                        "choice_VJ6xI3pdr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi le contexte dans lequel se trouvent les cibles est important pour le marketeur ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Le contenu doit apporter une réponse précise en fonction du centre d’intérêt du lead mais également en fonction de son niveau de maturité dans son parcours d’acheteur. On parle alors de contexte. Par exemple, quelqu’un qui démarre son parcours ne s’intéressera pas à un discours commercial.",
+            "tips": "Selon le Harvard Business Review, 57 % du processus d'achat en B2B se fait avant même de parler à un commercial.",
+            "clue": "On ne souhaite pas une prise de contact commerciale tant que l’on n’a pas mûri sa décision.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny62SnpOS": "Le contexte entre peu en compte",
+            "choice_V1Jar2TdH": "Parce que sans contexte, il est difficile de bien orchestrer sa stratégie ",
+            "choice_NkExL3adr": "Parce que sans contexte, nous risquons d’être hors-sujet ",
+            "choice_VJ6xI3pdr": "Parce que le contexte permet de mieux répondre à leurs besoins d’information en fonction de leur niveau de maturité "
+        },
+        "en": {
+            "header": "Pourquoi le contexte dans lequel se trouvent les cibles est important pour le marketeur ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Le contenu doit apporter une réponse précise en fonction du centre d’intérêt du lead mais également en fonction de son niveau de maturité dans son parcours d’acheteur. On parle alors de contexte. Par exemple, quelqu’un qui démarre son parcours ne s’intéressera pas à un discours commercial.",
+            "tips": "Selon le Harvard Business Review, 57 % du processus dachat en B2B se fait avant même de parler à un commercial.",
+            "clue": "On ne souhaite pas une prise de contact commerciale tant que l’on n’a pas mûri sa décision.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny62SnpOS": "Le contexte entre peu en compte",
+            "choice_V1Jar2TdH": "Parce que sans contexte, il est difficile de bien orchestrer sa stratégie ",
+            "choice_NkExL3adr": "Parce que sans contexte, nous risquons d’être hors-sujet ",
+            "choice_VJ6xI3pdr": "Parce que le contexte permet de mieux répondre à leurs besoins d’information en fonction de leur niveau de maturité "
+        }
+    }
+}

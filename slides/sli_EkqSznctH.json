@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T06:49:45.761Z",
+            "updatedAt": "2018-10-17T12:15:12.158Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOeqY9Vr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkqSznctH",
+        "universalRef": "sli_EkqSznctH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel22882",
+                        "items": [
+                            {
+                                "text": "choice_NkxFq05Scr",
+                                "value": "choice_NkxFq05Scr"
+                            },
+                            {
+                                "text": "choice_V1~t5CcrqH",
+                                "value": "choice_V1~t5CcrqH"
+                            },
+                            {
+                                "text": "choice_4kCTC9B5S",
+                                "value": "choice_4kCTC9B5S"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel22882",
+                        "answers": [
+                            "choice_V1~t5CcrqH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Par quoi se termine la démarche de smarketing ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Si l’on ne connait pas l'impact de nos efforts marketing sur le nombre de ventes générées, il nous sera impossible de mesurer le retour sur investissement de nos activités marketing.",
+            "tips": "Le baromètre marketing 2018 du CMIT (Club des Directeurs Marketing & Communication de l'IT) révèle que les responsables marketing B2B interrogés estiment que l'alignement vente-marketing est une réalité dans 52 % des cas en entreprise.",
+            "clue": "Marché conclu !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une démarche de smarketing se termine par {{sel22882}}.",
+            "choice_NkxFq05Scr": "la participation à des salons ",
+            "choice_V1~t5CcrqH": "la conclusion des ventes",
+            "choice_4kCTC9B5S": "une évolution de poste"
+        },
+        "en": {
+            "header": "Par quoi se termine la démarche de smarketing ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Si l’on ne connait pas limpact de nos efforts marketing sur le nombre de ventes générées, il nous sera impossible de mesurer le retour sur investissement de nos activités marketing.",
+            "tips": "Le baromètre marketing 2018 du CMIT (Club des Directeurs Marketing & Communication de lIT) révèle que les responsables marketing B2B interrogés estiment que lalignement vente-marketing est une réalité dans 52 % des cas en entreprise.",
+            "clue": "Marché conclu !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une démarche de smarketing se termine par {{sel22882}}.",
+            "choice_NkxFq05Scr": "la participation à des salons ",
+            "choice_V1~t5CcrqH": "la conclusion des ventes",
+            "choice_4kCTC9B5S": "une évolution de poste"
+        }
+    }
+}

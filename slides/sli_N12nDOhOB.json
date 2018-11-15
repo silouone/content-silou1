@@ -1,0 +1,104 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T11:48:02.037Z",
+            "updatedAt": "2018-09-27T09:18:20.321Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyL0KKq4S"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N12nDOhOB",
+        "universalRef": "sli_N12nDOhOB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N12nDOhOB.choice_NyP0v-hOB.id",
+                        "label": "choice_NyP0v-hOB",
+                        "value": "choice_NyP0v-hOB"
+                    },
+                    {
+                        "id": "sli_N12nDOhOB.choice_4yaRwdh-S.id",
+                        "label": "choice_4yaRwdh-S",
+                        "value": "choice_4yaRwdh-S"
+                    },
+                    {
+                        "id": "sli_N12nDOhOB.choice_4J-yddhdB.id",
+                        "label": "choice_4J-yddhdB",
+                        "value": "choice_4J-yddhdB"
+                    },
+                    {
+                        "id": "sli_N12nDOhOB.choice_VJRkudhdH.id",
+                        "label": "choice_VJRkudhdH",
+                        "value": "choice_VJRkudhdH"
+                    },
+                    {
+                        "id": "sli_N12nDOhOB.choice_VyBbd-hdH.id",
+                        "label": "choice_VyBbd-hdH",
+                        "value": "choice_VyBbd-hdH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyP0v-hOB",
+                        "choice_4yaRwdh-S",
+                        "choice_VyBbd-hdH",
+                        "choice_4J-yddhdB",
+                        "choice_VJRkudhdH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les caractéristiques suivantes, lesquelles sélectionneriez-vous pour définir vos personas ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Outil inbound marketing stratégique, le persona est basé sur des données démographiques et comportementales. Ainsi, en découvrant quels sont les problèmes que vos cibles doivent solutionner, vous aurez la possibilité d’inscrire vos contenus au cœur de leurs préoccupations.",
+            "tips": "Il peut s’avérer également efficace de définir les personas négatifs que vous souhaitez absolument éviter de cibler dans votre stratégie marketing.",
+            "clue": "La définition des persona se doit d'être minutieuse…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyP0v-hOB": "Leurs objectifs",
+            "choice_4yaRwdh-S": "Les freins à l’achat",
+            "choice_EJXy-undB": "Leurs tailles ",
+            "choice_4J-yddhdB": "Leurs données démographiques",
+            "choice_VJRkudhdH": "Leur parcours client",
+            "choice_VyBbd-hdH": "Leurs problématiques"
+        },
+        "en": {
+            "header": "Parmi les caractéristiques suivantes, lesquelles sélectionneriez-vous pour définir vos personas ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Outil inbound marketing stratégique, le persona est basé sur des données démographiques et comportementales. Ainsi, en découvrant quels sont les problèmes que vos cibles doivent solutionner, vous aurez la possibilité d’inscrire vos contenus au cœur de leurs préoccupations.",
+            "tips": "Il peut s’avérer également efficace de définir les personas négatifs que vous souhaitez absolument éviter de cibler dans votre stratégie marketing.",
+            "clue": "La définition des persona se doit dêtre minutieuse…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyP0v-hOB": "",
+            "choice_4yaRwdh-S": "",
+            "choice_EJXy-undB": "",
+            "choice_4J-yddhdB": "",
+            "choice_VJRkudhdH": "",
+            "choice_VyBbd-hdH": ""
+        }
+    }
+}

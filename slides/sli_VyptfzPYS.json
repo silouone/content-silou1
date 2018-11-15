@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T12:51:53.966Z",
+            "updatedAt": "2018-10-17T12:08:05.981Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyptfzPYS",
+        "universalRef": "sli_VyptfzPYS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel43499",
+                        "items": [
+                            {
+                                "text": "choice_EkgIigViKH",
+                                "value": "choice_EkgIigViKH"
+                            },
+                            {
+                                "text": "choice_41bUox4iKB",
+                                "value": "choice_41bUox4iKB"
+                            },
+                            {
+                                "text": "choice_E1tjEEsFS",
+                                "value": "choice_E1tjEEsFS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel43499",
+                        "answers": [
+                            "choice_EkgIigViKH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels leads collectés sur les canaux digitaux doivent être transmis aux commerciaux ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Beaucoup trop de leads sont transmis aux commerciaux sans être suffisamment qualifiés, ce qui s’avère bien évidemment contre-productif. C’est l’une des principales fonctions du marketing automation : permettre aux marketeurs d’automatiser le processus fastidieux de qualification pour ne transmettre aux commerciaux que des \"bons leads\".",
+            "tips": "L’agilité, nécessaire désormais pour répondre de manière satisfaisante aux attentes de nos clients, est probablement ce qu'il y a de plus complexe à introduire au sein de nos entreprises. Les solutions logicielles, bien qu’elles ne fassent pas tout, sont un élément de réponse.",
+            "clue": "Il faut laisser du temps au temps.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "20 % des leads collectés sur les canaux digitaux seraient suffisamment  {{sel43499}} pour être exploitables par les commerciaux.",
+            "choice_EkgIigViKH": "qualifiés",
+            "choice_41bUox4iKB": "prometteurs",
+            "choice_E1tjEEsFS": "entrants"
+        },
+        "en": {
+            "header": "Quels leads collectés sur les canaux digitaux doivent être transmis aux commerciaux ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Beaucoup trop de leads sont transmis aux commerciaux sans être suffisamment qualifiés, ce qui s’avère bien évidemment contre-productif. C’est l’une des principales fonctions du marketing automation : permettre aux marketeurs d’automatiser le processus fastidieux de qualification pour ne transmettre aux commerciaux que des bons leads.",
+            "tips": "L’agilité, nécessaire désormais pour répondre de manière satisfaisante aux attentes de nos clients, est probablement ce quil y a de plus complexe à introduire au sein de nos entreprises. Les solutions logicielles, bien qu’elles ne fassent pas tout, sont un élément de réponse.",
+            "clue": "Il faut laisser du temps au temps.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "20 % des leads collectés sur les canaux digitaux seraient suffisamment  {{sel43499}} pour être exploitables par les commerciaux.",
+            "choice_EkgIigViKH": "qualifiés",
+            "choice_41bUox4iKB": "prometteurs",
+            "choice_E1tjEEsFS": "entrants"
+        }
+    }
+}

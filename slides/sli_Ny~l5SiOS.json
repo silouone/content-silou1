@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T14:20:19.248Z",
+            "updatedAt": "2018-10-17T09:44:42.080Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekm7qt5VS"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ny~l5SiOS",
+        "universalRef": "sli_Ny~l5SiOS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ny~l5SiOS.choice_VkTGqHoOH.id",
+                        "label": "choice_VkTGqHoOH",
+                        "value": "choice_VkTGqHoOH"
+                    },
+                    {
+                        "id": "sli_Ny~l5SiOS.choice_EkvmcSi-r.id",
+                        "label": "choice_EkvmcSi-r",
+                        "value": "choice_EkvmcSi-r"
+                    },
+                    {
+                        "id": "sli_Ny~l5SiOS.choice_Vk4N9Sj-r.id",
+                        "label": "choice_Vk4N9Sj-r",
+                        "value": "choice_Vk4N9Sj-r"
+                    },
+                    {
+                        "id": "sli_Ny~l5SiOS.choice_V1u45Sjdr.id",
+                        "label": "choice_V1u45Sjdr",
+                        "value": "choice_V1u45Sjdr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkTGqHoOH",
+                        "choice_EkvmcSi-r",
+                        "choice_Vk4N9Sj-r",
+                        "choice_V1u45Sjdr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les ingrédients d’une bonne stratégie de growth hacking ? ",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le growth hacking se trouve à l’intersection du contenu, de la data, de la technologie et du marketing. On doit retrouver d’ailleurs ces 4 axes dans le profil d’un bon growth hacker. Ce dernier saura en effet comment utiliser conjointement ces 4 domaines pour accélérer au mieux la croissance de son entreprise.",
+            "tips": "S’il n’y a pas de cursus obligatoire, le growth hacker doit faire preuve de curiosité, d’esprit d’innovation et surtout parfaitement comprendre les mécanismes du marketing digital.",
+            "clue": "Un growth hacker est un profil « couteau suisse ».",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkTGqHoOH": "Le contenu",
+            "choice_EkvmcSi-r": "La data",
+            "choice_Nk5XcSjur": "Les serveurs Web",
+            "choice_E1g4cBiOB": "Le code PHP",
+            "choice_Vk4N9Sj-r": "Le marketing",
+            "choice_V1u45Sjdr": "La technologie"
+        },
+        "en": {
+            "header": "Quels sont les ingrédients d’une bonne stratégie de growth hacking ? ",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le growth hacking se trouve à l’intersection du contenu, de la data, de la technologie et du marketing. On doit retrouver d’ailleurs ces 4 axes dans le profil d’un bon growth hacker. Ce dernier saura en effet comment utiliser conjointement ces 4 domaines pour accélérer au mieux la croissance de son entreprise.",
+            "tips": "S’il n’y a pas de cursus obligatoire, le growth hacker doit faire preuve de curiosité, d’esprit d’innovation et surtout parfaitement comprendre les mécanismes du marketing digital.",
+            "clue": "Un growth hacker est un profil « couteau suisse ».",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkTGqHoOH": "",
+            "choice_EkvmcSi-r": "",
+            "choice_Nk5XcSjur": "",
+            "choice_E1g4cBiOB": "",
+            "choice_Vk4N9Sj-r": "",
+            "choice_V1u45Sjdr": ""
+        }
+    }
+}

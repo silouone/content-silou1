@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T14:28:58.271Z",
+            "updatedAt": "2018-10-17T09:47:42.426Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekm7qt5VS"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vy3y3Bour",
+        "universalRef": "sli_Vy3y3Bour",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel84886",
+                        "items": [
+                            {
+                                "text": "choice_4yxWDCtBFr",
+                                "value": "choice_4yxWDCtBFr"
+                            },
+                            {
+                                "text": "choice_EkbZvRtSKH",
+                                "value": "choice_EkbZvRtSKH"
+                            },
+                            {
+                                "text": "choice_NyHOCFBFH",
+                                "value": "choice_NyHOCFBFH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel84886",
+                        "answers": [
+                            "choice_4yxWDCtBFr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les effets positifs du growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les growth hackers agissent tout au long du tunnel de conversion. Ils doivent donc s’intéresser à toutes les activités qui conduisent l’entreprise à être plus performante.",
+            "tips": "Il ne s’agit pas ici de se lancer dans de grandes campagnes de communication mais bien d’orchestrer une multitude de petites actions ou « hacks » qui visent à générer la croissance rapide des résultats.",
+            "clue": "Le growth hacking cherche à obtenir des résultats très concrets et parfaitement mesurables.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les tactiques du growth hacking permettent de tester des actions de petite envergure et s’assurer qu’elles produisent un effet positif en termes de {{sel84886}}.",
+            "choice_4yxWDCtBFr": "génération de leads",
+            "choice_EkbZvRtSKH": "commentaires positifs sur les réseaux sociaux",
+            "choice_NyHOCFBFH": "recrutement"
+        },
+        "en": {
+            "header": "Quels sont les effets positifs du growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les growth hackers agissent tout au long du tunnel de conversion. Ils doivent donc s’intéresser à toutes les activités qui conduisent l’entreprise à être plus performante.",
+            "tips": "Il ne s’agit pas ici de se lancer dans de grandes campagnes de communication mais bien d’orchestrer une multitude de petites actions ou « hacks » qui visent à générer la croissance rapide des résultats.",
+            "clue": "Le growth hacking cherche à obtenir des résultats très concrets et parfaitement mesurables.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les tactiques du growth hacking permettent de tester des actions de petite envergure et s’assurer qu’elles produisent un effet positif en termes de {{sel84886}}.",
+            "choice_4yxWDCtBFr": "génération de leads",
+            "choice_EkbZvRtSKH": "commentaires positifs sur les réseaux sociaux",
+            "choice_NyHOCFBFH": "recrutement"
+        }
+    }
+}

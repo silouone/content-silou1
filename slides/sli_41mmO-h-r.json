@@ -1,0 +1,78 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T11:49:29.362Z",
+            "updatedAt": "2018-10-17T11:52:36.321Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyL0KKq4S"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41mmO-h-r",
+        "universalRef": "sli_41mmO-h-r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41mmO-h-r.choice_4yx0md-3-r.id",
+                        "label": "choice_4yx0md-3-r",
+                        "value": "choice_4yx0md-3-r",
+                        "media": "med_EyAmdO2dr"
+                    },
+                    {
+                        "id": "sli_41mmO-h-r.choice_VJzQEOd2uS.id",
+                        "label": "choice_VJzQEOd2uS",
+                        "value": "choice_VJzQEOd2uS",
+                        "media": "med_4yZmVu-hOS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJzQEOd2uS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Les données démographiques sont l’élément le plus important dans l’étude des personas. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La segmentation des bases de données opérée uniquement sur des critères démographiques est aujourd'hui beaucoup trop imprécise. Une segmentation basée sur les comportements permet d’affiner ses actions marketing, voire de les déclencher automatiquement pour apporter une réponse à la bonne personne et au bon moment.",
+            "tips": "Un historique d’achats effectués sur un site marchand est un exemple de données comportementales au même titre qu’une visite sur un site Web ou le téléchargement d’un livre blanc. Les données comportementales sont plus fiables que les données déclaratives car elles proviennent normalement d’une action constatée et avérée.",
+            "clue": "Comment vos personas agissent-ils sur le Web ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yx0md-3-r": "Vrai",
+            "choice_VJzQEOd2uS": "Faux"
+        },
+        "en": {
+            "header": "Les données démographiques sont l’élément le plus important dans l’étude des personas. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La segmentation des bases de données opérée uniquement sur des critères démographiques est aujourdhui beaucoup trop imprécise. Une segmentation basée sur les comportements permet d’affiner ses actions marketing, voire de les déclencher automatiquement pour apporter une réponse à la bonne personne et au bon moment.",
+            "tips": "Un historique d’achats effectués sur un site marchand est un exemple de données comportementales au même titre qu’une visite sur un site Web ou le téléchargement d’un livre blanc. Les données comportementales sont plus fiables que les données déclaratives car elles proviennent normalement d’une action constatée et avérée.",
+            "clue": "Comment vos personas agissent-ils sur le Web ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yx0md-3-r": "Vrai",
+            "choice_VJzQEOd2uS": "Faux"
+        }
+    }
+}

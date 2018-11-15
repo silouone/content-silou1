@@ -1,0 +1,75 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T14:42:42.732Z",
+            "updatedAt": "2018-10-17T09:48:36.044Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekm7qt5VS"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1I83HidH",
+        "universalRef": "sli_N1I83HidH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_N1I83HidH.field_4kTL2Hodr.id",
+                        "type": "text",
+                        "name": "inp92954"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp92954",
+                        "answers": [
+                            "choice_NkzTLnrjuB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'un des objectifs principaux du growth hacking ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L’objectif principal du growth hacking est bien de répondre aux besoins des cibles visées sur le Net tout en leur facilitant la vie. Ainsi, l'empreinte digitale de l'entreprise se voit renforcée en permanence.",
+            "tips": "LinkedIn a grandi de 2 millions à 200 millions d’utilisateurs en déployant une technique de growth hacking qui consistait à permettre de créer des profils publics. C’était une action décisive pour LinkedIn car les profils des utilisateurs apparaissent naturellement dans les résultats de recherche de tous les moteurs.",
+            "clue": "Le growth hacking n’aurait jamais vu le jour sans l’avènement du Web.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Avec le growth hacking, il s’agit d’orchestrer dans le temps un processus visant à optimiser en permanence son empreinte {{inp92954}}.",
+            "choice_NkzTLnrjuB": "digitale"
+        },
+        "en": {
+            "header": "Quel est lun des objectifs principaux du growth hacking ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L’objectif principal du growth hacking est bien de répondre aux besoins des cibles visées sur le Net tout en leur facilitant la vie. Ainsi, lempreinte digitale de lentreprise se voit renforcée en permanence.",
+            "tips": "LinkedIn a grandi de 2 millions à 200 millions d’utilisateurs en déployant une technique de growth hacking qui consistait à permettre de créer des profils publics. C’était une action décisive pour LinkedIn car les profils des utilisateurs apparaissent naturellement dans les résultats de recherche de tous les moteurs.",
+            "clue": "Le growth hacking n’aurait jamais vu le jour sans l’avènement du Web.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Avec le growth hacking, il s’agit d’orchestrer dans le temps un processus visant à optimiser en permanence son empreinte {{inp92954}}.",
+            "choice_NkzTLnrjuB": "digitale"
+        }
+    }
+}
