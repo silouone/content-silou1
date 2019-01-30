@@ -1,0 +1,96 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-25T15:12:21.320Z",
+            "updatedAt": "2018-06-22T16:10:41.583Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "taggedNewUntil": "2018-07-25T15:12:21.320Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4y3L8zZkS",
+        "universalRef": "sli_4y3L8zZkS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel35155",
+                        "label": "label_4JG1PzZJr",
+                        "items": [
+                            {
+                                "text": "choice_NkxMywzWkH",
+                                "value": "choice_NkxMywzWkH"
+                            },
+                            {
+                                "text": "choice_VybG1wf~1S",
+                                "value": "choice_VybG1wf~1S"
+                            },
+                            {
+                                "text": "choice_NkT1Dzb1H",
+                                "value": "choice_NkT1Dzb1H"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel35155",
+                        "answers": [
+                            "choice_VybG1wf~1S"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de temps est-il recommandé d'allouer à la phrase de brainstorming individuel ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La phase de brainstorming individuel demande une vingtaine de minutes. Bien sûr, cela variera quelque peu en fonction du type de problème à résoudre, mais le but est de laisser assez de temps sans sacrifier pour autant l'aspect dynamique de votre séance.",
+            "tips": "Leigh Thompson, Professeur à la Kellogg School of Management at Northwestern University, a mené une expérience pour comprendre comment inciter à la prise de parole en brainstorming de groupe. D'après son observation, le fait de demander aux participants de raconter en début de séance de brainstorming une situation embarrassante qu'ils avaient vécu dernièrement pouvait aider à désinhiber les brainstormers et débrider leur créativité pour la suite de la session.",
+            "clue": "Laissez du temps au temps... sans vous endormir pour autant.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel35155}}",
+            "label_4JG1PzZJr": " ",
+            "choice_NkxMywzWkH": "Environ 5 minutes",
+            "choice_VybG1wf~1S": "Environ 20 minutes",
+            "choice_NkT1Dzb1H": "Environ 50 minutes"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "How much time are you recommended to devote to individual brainstorming?",
+            "klf": "Individual brainstorming shouldn’t take much more than 20 minutes. Of course, this number might vary depending on the type of problem that needs resolving, but the aim is to give people enough time without letting your session lose any dynamism.",
+            "tips": "Leigh Thompson, a professor at the Kellogg School of Management at Northwestern University, conducted an experiment where she discovered that starting a brainstorming session by asking participants to recount an embarrassing incident they had recently suffered could remove some of their inhibitions and unleash their creativity for the remainder of the task.",
+            "clue": "Everything takes time – but not so much that you fall asleep.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel35155}}",
+            "label_4JG1PzZJr": " ",
+            "choice_NkxMywzWkH": "About five minutes",
+            "choice_VybG1wf~1S": "About 20 minutes",
+            "choice_NkT1Dzb1H": "About 50 minutes"
+        }
+    }
+}

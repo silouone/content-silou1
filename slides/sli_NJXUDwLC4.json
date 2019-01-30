@@ -1,0 +1,91 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T12:47:42.267Z",
+            "updatedAt": "2018-06-22T15:52:26.601Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T12:47:42.267Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJXUDwLC4",
+        "universalRef": "sli_NJXUDwLC4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJXUDwLC4.choice_VJFaDP8AV.id",
+                        "label": "choice_VJFaDP8AV",
+                        "value": "choice_VJFaDP8AV"
+                    },
+                    {
+                        "id": "sli_NJXUDwLC4.choice_VkfAvw8RE.id",
+                        "label": "choice_VkfAvw8RE",
+                        "value": "choice_VkfAvw8RE"
+                    },
+                    {
+                        "id": "sli_NJXUDwLC4.choice_V1NAwDIAN.id",
+                        "label": "choice_V1NAwDIAN",
+                        "value": "choice_V1NAwDIAN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJFaDP8AV"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour lancer un brainstorming sur un éventuel programme de formation continue pour les employés, sous quelle forme devez-vous formuler votre problème au centre de votre carte mentale ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Il convient de formuler le problème sous la forme d’une question au centre de votre mind map : \"Comment mettre en place un programme de formation continue pour les employés ?\"",
+            "tips": "Plus votre mind map est agréable à regarder, plus votre cerveau sera stimulé : donnez à votre arborescence une allure organique similaire à celle de nos neurones et amusez-vous avec les dessins, les couleurs et les symboles. À vos crayons !",
+            "clue": "Clueless.",
+            "context_title": "Résoudre un problème grâce au mind mapping",
+            "context_description": "Voilà un moment qu'au sein de votre société, les employés se plaignent de ne pas bénéficier d'un programme de formation continue concernant le domaine d'activité de l'entreprise, en expliquant que cela les pénalise dans leurs missions. Vous décidez de lancer un brainstorming en mode mind mapping pour résoudre ce problème de manière durable.",
+            "context_media_description": "",
+            "choice_VJFaDP8AV": "Une question",
+            "choice_VkfAvw8RE": "Une négation",
+            "choice_V1NAwDIAN": "Une affirmation"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "How do you formulate your issue at the centre of your mind map to launch your brainstorming session around potential employee CPD?",
+            "klf": "A good way to phrase your problem is to write it as a question in the middle of your mind map. An example would be “How should we implement an employee CPD scheme?”",
+            "tips": "The better your mind map is to look at, the more it will stimulate your brain. Make it look a little like the neural pathways in our brains that spread out like branches and play around with pictures, colours and symbols. So get your pencil cases at the ready!",
+            "clue": "A punctuation mark with a curve in it",
+            "context_title": "Solving a problem through mind mapping",
+            "context_description": "Consider this scenario. Employees at your company are complaining that they don’t have access to any continuing professional development in your area of business. They explain that this is harming their work. You decide to use mind mapping techniques as part of a brainstorming session so that you can find a lasting solution to the problem.",
+            "context_media_description": "",
+            "choice_VJFaDP8AV": "A question",
+            "choice_VkfAvw8RE": "A negative",
+            "choice_V1NAwDIAN": "A positive"
+        }
+    }
+}

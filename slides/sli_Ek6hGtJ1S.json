@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-24T10:28:48.379Z",
+            "updatedAt": "2018-06-22T16:11:57.063Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-24T10:28:48.379Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ek6hGtJ1S",
+        "universalRef": "sli_Ek6hGtJ1S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek6hGtJ1S.choice_VkXJmKykS.id",
+                        "label": "choice_VkXJmKykS",
+                        "value": "choice_VkXJmKykS"
+                    },
+                    {
+                        "id": "sli_Ek6hGtJ1S.choice_NkwJmY11r.id",
+                        "label": "choice_NkwJmY11r",
+                        "value": "choice_NkwJmY11r"
+                    },
+                    {
+                        "id": "sli_Ek6hGtJ1S.choice_Vy1lmt1kH.id",
+                        "label": "choice_Vy1lmt1kH",
+                        "value": "choice_Vy1lmt1kH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkXJmKykS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'avantage principal d’une présentation en mind mapping ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Grâce au mind mapping, il est possible de présenter ses idées différemment et de façon plus originale. Ce mode de présentation a l’avantage de  donner une vision globale du sujet à votre public.",
+            "tips": "Une étude menée en 2002 par Farrand, Hussain et Hennessy de la University of London auprès d'étudiants en médecine a montré que l’utilisation du mind mapping a amélioré de 10 % leur capacité de retenir des informations factuelles à long terme.",
+            "clue": "Big picture.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkXJmKykS": "Votre public disposera d’une vue globale",
+            "choice_NkwJmY11r": "Votre public verra les détails un par un",
+            "choice_Vy1lmt1kH": "Votre public suivra la présentation de façon linéaire"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What is the main advantage of mind map presentations?",
+            "klf": "Mind mapping allows you to present ideas in a different, more original way. The advantage of presenting this way is that it gives your audience an overview of your entire subject.",
+            "tips": "A 2002 study by Farrand, Hussain and Hennessy at the University of London used medical students as its subjects, demonstrating that that mind mapping improved their ability to mentally store factual information over the long term by 10%.",
+            "clue": "Think big picture.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkXJmKykS": "It lets you give your audience an overview of your subject",
+            "choice_NkwJmY11r": "It helps your audience to go through each detail of your though process one by one",
+            "choice_Vy1lmt1kH": "It allows your audience to follow your presentation in a linear way"
+        }
+    }
+}

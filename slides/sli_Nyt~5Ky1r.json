@@ -1,0 +1,96 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-24T11:00:37.365Z",
+            "updatedAt": "2018-06-22T16:15:54.628Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-24T11:00:37.365Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nyt~5Ky1r",
+        "universalRef": "sli_Nyt~5Ky1r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel44374",
+                        "label": "label_NkZUqtJkB",
+                        "items": [
+                            {
+                                "text": "choice_4yeWI9KJ1H",
+                                "value": "choice_4yeWI9KJ1H"
+                            },
+                            {
+                                "text": "choice_VkZWIqYkkS",
+                                "value": "choice_VkZWIqYkkS"
+                            },
+                            {
+                                "text": "choice_NkFvcYkJB",
+                                "value": "choice_NkFvcYkJB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel44374",
+                        "answers": [
+                            "choice_4yeWI9KJ1H"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans une carte mentale, qu’est-ce qui représente votre plan d’intervention ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Dans l’organisation de votre mind map pour une présentation, les branches principales doivent correspondre à votre plan d’intervention.",
+            "tips": "Le plan SPRI (Situation, Problème, Résolution, Informations) est un plan particulièrement bien adapté pour présenter la solution d’un problème.",
+            "clue": "Idées-clés.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Votre plan d'intervention correspond aux branches de {{sel44374}} de votre mind map.",
+            "label_NkZUqtJkB": " ",
+            "choice_4yeWI9KJ1H": "premier niveau",
+            "choice_VkZWIqYkkS": "deuxième niveau",
+            "choice_NkFvcYkJB": "troisième niveau"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "How does the service you plan to provide fit onto your mind map?",
+            "klf": "When you’re organising your mind map for a presentation, the key branches should suit the service you plan to provide.",
+            "tips": "The SPRI model (“situation, problem, resolution, information”) is a particularly good way to present the solution to a problem.",
+            "clue": "Key ideas",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The service you plan to provide should match the {{sel44374}} branches on your mind map.",
+            "label_NkZUqtJkB": " ",
+            "choice_4yeWI9KJ1H": "first level",
+            "choice_VkZWIqYkkS": "second level",
+            "choice_NkFvcYkJB": "third level"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:47:45.580Z",
+            "updatedAt": "2018-06-22T15:33:35.576Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyhyBHHpN",
+        "universalRef": "sli_VyhyBHHpN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_VyhyBHHpN.choice_EyefrBHp4.id",
+                        "label": "choice_EyefrBHp4",
+                        "value": "choice_EyefrBHp4"
+                    },
+                    {
+                        "id": "sli_VyhyBHHpN.choice_V1O4SHSaE.id",
+                        "label": "choice_V1O4SHSaE",
+                        "value": "choice_V1O4SHSaE"
+                    },
+                    {
+                        "id": "sli_VyhyBHHpN.choice_NJ5SHBSaN.id",
+                        "label": "choice_NJ5SHBSaN",
+                        "value": "choice_NJ5SHBSaN"
+                    },
+                    {
+                        "id": "sli_VyhyBHHpN.choice_Vk~wrSH6E.id",
+                        "label": "choice_Vk~wrSH6E",
+                        "value": "choice_Vk~wrSH6E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyefrBHp4",
+                        "choice_Vk~wrSH6E",
+                        "choice_V1O4SHSaE",
+                        "choice_NJ5SHBSaN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous reconstituer le bon ordre des étapes d'une session SCAMPER utilisant le mind mapping ?",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "Le mind mapping est un excellent outil pour optimiser la méthode SCAMPER. Il suffit de noter l’idée à concasser sous la forme d’une question au centre de votre carte. Ensuite, notez les questions du SCAMPER en tant que branches principales. Enfin, répondez aux questions du SCAMPER et notez les réponses sur des sous-branches.",
+            "tips": "Le concept d’heuresthésie recouvre le champ des découvertes réalisées grâce à une inspiration sensorielle très souvent imagée.",
+            "clue": "Tout commence au centre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyefrBHp4": "Noter l'idée à concasser au centre",
+            "choice_V1O4SHSaE": "Répondre aux questions du SCAMPER",
+            "choice_NJ5SHBSaN": "Noter les réponses du SCAMPER sur des sous-branches",
+            "choice_Vk~wrSH6E": "Noter les questions du SCAMPER sur des branches principales",
+            "choice_VJidSSB6N": "Noter les réponses du SCAMPER sur des branches principales"
+        },
+        "en": {
+            "explanation": "Put the following answers in order.",
+            "header": "Can you put the stages of a mind mapping session that uses the SCAMPER technique in order?",
+            "klf": "Mind mapping is an excellent way to optimise the SCAMPER method. All you need do is jot down the idea you want to drill down into as a question in the centre of your map. Then, use the SCAMPER actions as your main branches. Finally, answer the SCAMPER questions and write your responses at the end of the sub-branches.",
+            "tips": "The French concept of “heuresthesia” focuses on discoveries sparked by sensorial experiences (such as, most often, images).",
+            "clue": "Everything starts in the middle.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyefrBHp4": "Write the idea to drill down into in the centre.",
+            "choice_V1O4SHSaE": "Respond to the SCAMPER actions.",
+            "choice_NJ5SHBSaN": "Note down the SCAMPER responses as sub-branches.",
+            "choice_Vk~wrSH6E": "Write down the SCAMPER actions as branches.",
+            "choice_VJidSSB6N": "Noter les réponses du SCAMPER sur des branches principales"
+        }
+    }
+}

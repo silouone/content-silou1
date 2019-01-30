@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:06:22.353Z",
+            "updatedAt": "2018-06-22T15:13:43.787Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJzQRdE54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N15Fj4r6E",
+        "universalRef": "sli_N15Fj4r6E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N15Fj4r6E.choice_VyynoNraE.id",
+                        "label": "choice_VyynoNraE",
+                        "value": "choice_VyynoNraE"
+                    },
+                    {
+                        "id": "sli_N15Fj4r6E.choice_4kP2jEr6N.id",
+                        "label": "choice_4kP2jEr6N",
+                        "value": "choice_4kP2jEr6N"
+                    },
+                    {
+                        "id": "sli_N15Fj4r6E.choice_4yh2oVSp4.id",
+                        "label": "choice_4yh2oVSp4",
+                        "value": "choice_4yh2oVSp4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyynoNraE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la première étape pour lancer un brainstorming inversé ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Comme pour tout brainstorming, vous devez d’abord déterminer le problème à résoudre. En effet, si vous partez de la mauvaise question, vous obtiendrez forcément de mauvaises réponses !",
+            "tips": "Selon l’entrepreneur et coach américain Jim Rohn, « Pour résoudre n'importe quel problème, voici trois questions à vous poser : premièrement, que pourrais-je faire ? Deuxièmement, que pourrais-je lire ? Et troisièmement, à qui puis-je demander ? »",
+            "clue": "Un problème bien posé est à moitié résolu.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyynoNraE": "Déterminer le problème à résoudre",
+            "choice_4kP2jEr6N": "Proposer des idées divergentes ",
+            "choice_4yh2oVSp4": "Proposer des idées convergentes"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What’s the first step to take when you want to launch a reverse brainstorming session?",
+            "klf": "As you would whenever you brainstorm, you need to start by clarifying your issue. After all, if you start with the wrong question, you’re bound to get the wrong answers!",
+            "tips": "The American entrepreneur and coach Jim Rohn believes that “whatever the problem you have to resolve, there are three questions you need to ask. The first is ‘what could I do?’ The second is ‘what could I read about it?’ And the third is ‘who could I ask?’” »",
+            "clue": "When a problem’s put the right way, it’s already half-fixed.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyynoNraE": "Clarify the exact problem you need to resolve",
+            "choice_4kP2jEr6N": "Suggest divergent ideas ",
+            "choice_4yh2oVSp4": "Suggest convergent ideas"
+        }
+    }
+}

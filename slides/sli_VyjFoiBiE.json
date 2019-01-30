@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T13:33:42.730Z",
+            "updatedAt": "2018-06-22T08:53:36.680Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyjFoiBiE",
+        "universalRef": "sli_VyjFoiBiE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel58524",
+                        "label": "label_4kuleFjCE",
+                        "items": [
+                            {
+                                "text": "choice_4keullKsRE",
+                                "value": "choice_4keullKsRE"
+                            },
+                            {
+                                "text": "choice_Nk~uxeFiCE",
+                                "value": "choice_Nk~uxeFiCE"
+                            },
+                            {
+                                "text": "choice_N1LfgtsAE",
+                                "value": "choice_N1LfgtsAE"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel58524",
+                        "answers": [
+                            "choice_4keullKsRE"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu’est-ce que le mind mapping ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le mind mapping, aussi connu comme la technique de la carte mentale, est une méthode visuelle de représentation de l'information pour organiser ses idées de manière séquentielle.",
+            "tips": "Désormais, il existe de nombreux logiciels pour réaliser des cartes mentales. Par exemple, le logiciel de Tony Buzan (le psychologue anglais à l'origine du mind mapping) se nomme iMindMap.",
+            "clue": "Pensez schématisation.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel58524}}",
+            "label_4kuleFjCE": " ",
+            "choice_4keullKsRE": "Une méthode visuelle pour organiser ses idées de façon séquentielle",
+            "choice_Nk~uxeFiCE": "Une méthode de représentation de l'information sous forme de listes de mots",
+            "choice_N1LfgtsAE": "Un logiciel informatique"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What is mind mapping?",
+            "klf": "Mind mapping is a method that allows you to visually represent information so that you can organise your ideas sequentially.",
+            "tips": "There are now lots of software packages that help you make mind maps. iMindmap, for instance, is designed by the British psychologist who came up with the concept of mind mapping, Tony Buzan.",
+            "clue": "Think schema.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Mind mapping is {{sel58524}}",
+            "label_4kuleFjCE": " ",
+            "choice_4keullKsRE": "a method of visually organising your ideas in a sequential way",
+            "choice_Nk~uxeFiCE": "a method for representing information using word lists",
+            "choice_N1LfgtsAE": "a type of software"
+        }
+    }
+}

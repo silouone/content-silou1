@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T14:00:58.681Z",
+            "updatedAt": "2018-06-22T09:00:51.218Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T14:00:58.681Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJBxW2HjV",
+        "universalRef": "sli_EJBxW2HjV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJBxW2HjV.choice_4JeSBfnBoV.id",
+                        "label": "choice_4JeSBfnBoV",
+                        "value": "choice_4JeSBfnBoV",
+                        "media": "med_NJSBMhHs4"
+                    },
+                    {
+                        "id": "sli_EJBxW2HjV.choice_NJxf8G3BoV.id",
+                        "label": "choice_NJxf8G3BoV",
+                        "value": "choice_NJxf8G3BoV",
+                        "media": "med_VkfLf3So4"
+                    },
+                    {
+                        "id": "sli_EJBxW2HjV.choice_VyekDf2HjE.id",
+                        "label": "choice_VyekDf2HjE",
+                        "value": "choice_VyekDf2HjE",
+                        "media": "med_41yDG3roE"
+                    },
+                    {
+                        "id": "sli_EJBxW2HjV.choice_EklRvGhrsV.id",
+                        "label": "choice_EklRvGhrsV",
+                        "value": "choice_EklRvGhrsV",
+                        "media": "med_VkAPM2HjE"
+                    },
+                    {
+                        "id": "sli_EJBxW2HjV.choice_VJgtuMnriN.id",
+                        "label": "choice_VJgtuMnriN",
+                        "value": "choice_VJgtuMnriN",
+                        "media": "med_NkKOG2HoV"
+                    },
+                    {
+                        "id": "sli_EJBxW2HjV.choice_N1lUYf3roN.id",
+                        "label": "choice_N1lUYf3roN",
+                        "value": "choice_N1lUYf3roN",
+                        "media": "med_VJ8KznBi4"
+                    },
+                    {
+                        "id": "sli_EJBxW2HjV.choice_EkeQcf2Hs4.id",
+                        "label": "choice_EkeQcf2Hs4",
+                        "value": "choice_EkeQcf2Hs4",
+                        "media": "med_V1m5M3BoV"
+                    },
+                    {
+                        "id": "sli_EJBxW2HjV.choice_Nyxi5f2Bi4.id",
+                        "label": "choice_Nyxi5f2Bi4",
+                        "value": "choice_Nyxi5f2Bi4",
+                        "media": "med_Eys5z3rjE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JeSBfnBoV",
+                        "choice_NJxf8G3BoV",
+                        "choice_VyekDf2HjE",
+                        "choice_EklRvGhrsV",
+                        "choice_VJgtuMnriN",
+                        "choice_N1lUYf3roN",
+                        "choice_EkeQcf2Hs4",
+                        "choice_Nyxi5f2Bi4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les ingrédients d’une carte mentale ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La carte mentale dispose d’un centre unique qui contiendra la thématique de la carte. Ensuite, des mots-clés et des images, des marqueurs et des couleurs. Enfin, des entourages, des branches et des connecteurs.",
+            "tips": "Le mind mapping engage le cerveau en entier : le côté artistique (cerveau droit) avec les images, les couleurs, etc., et le coté cartésien (cerveau gauche) avec les mots et les branches.",
+            "clue": "Plus on est de fous, plus on rit.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JeSBfnBoV": "Un centre",
+            "choice_NJxf8G3BoV": "Des mots-clés",
+            "choice_VyekDf2HjE": "Des images",
+            "choice_EklRvGhrsV": "Des marqueurs",
+            "choice_VJgtuMnriN": "Des couleurs",
+            "choice_N1lUYf3roN": "Des entourages",
+            "choice_EkeQcf2Hs4": "Des branches",
+            "choice_Nyxi5f2Bi4": "Des connecteurs"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What are the components of a mind map?",
+            "klf": "Mind maps have a single centre displaying the theme. It then includes key words and images, markers and colours. Finally, you will see related topics, branches and relationship arrows.",
+            "tips": "Mind mapping engages the whole of your brain, both the artistic right-hand side (thanks to its use of pictures, colours and so on), and your rational left-hand side, using words and branches.",
+            "clue": "Crazy people have the most fun.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JeSBfnBoV": "A centre",
+            "choice_NJxf8G3BoV": "Key words",
+            "choice_VyekDf2HjE": "Images",
+            "choice_EklRvGhrsV": "Markers",
+            "choice_VJgtuMnriN": "Colours",
+            "choice_N1lUYf3roN": "Related topics",
+            "choice_EkeQcf2Hs4": "Branches",
+            "choice_Nyxi5f2Bi4": "Relationship arrows"
+        }
+    }
+}

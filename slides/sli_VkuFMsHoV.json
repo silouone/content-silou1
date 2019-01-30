@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T13:06:16.021Z",
+            "updatedAt": "2018-07-26T08:56:21.136Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "ValentineMichaud",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T13:06:16.021Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkuFMsHoV",
+        "universalRef": "sli_VkuFMsHoV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkuFMsHoV.choice_Ey-1SsSi4.id",
+                        "label": "choice_Ey-1SsSi4",
+                        "value": "choice_Ey-1SsSi4"
+                    },
+                    {
+                        "id": "sli_VkuFMsHoV.choice_4kZlBoBj4.id",
+                        "label": "choice_4kZlBoBj4",
+                        "value": "choice_4kZlBoBj4"
+                    },
+                    {
+                        "id": "sli_VkuFMsHoV.choice_NyrlHsrsE.id",
+                        "label": "choice_NyrlHsrsE",
+                        "value": "choice_NyrlHsrsE"
+                    },
+                    {
+                        "id": "sli_VkuFMsHoV.choice_NJigroHoV.id",
+                        "label": "choice_NJigroHoV",
+                        "value": "choice_NJigroHoV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ey-1SsSi4",
+                        "choice_4kZlBoBj4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les principales conditions pour favoriser la créativité en entreprise ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La créativité, pour s'épanouir, nécessite du temps et... de l'audace ! Il faut arriver à dépasser notre peur du jugement des autres pour laisser libre court à notre imagination.",
+            "tips": "Rêvasser est une autre solution pour stimuler la créativité. Selon les psychologues américains Scott Barry Kaufman et Rebecca L. McMillan, co-auteurs de l'article \"Ode à la rêverie positive constructive\", laisser son esprit vagabonder stimule l'activité cérébrale et le potentiel créatif.",
+            "clue": "Il faut laisser le temps au temps.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey-1SsSi4": "Disposer d’un temps minimum",
+            "choice_4kZlBoBj4": "Dépasser le regard des autres",
+            "choice_NyrlHsrsE": "Proposer des primes pour les idées créatives",
+            "choice_NJigroHoV": "Mettre les employés en compétition entre eux"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What key conditions encourage creativity in business environments?",
+            "klf": "It takes time for creativity to really flourish – but it also takes a dash of audacity! You have to be able to overcome your fear of being judged by others if your imagination is to have free rein.",
+            "tips": "Daydreaming is another way of stimulating creativity. According to two American psychologists, Scott Barry Kaufman and Rebecca L. McMillan, who authored an article entitled Ode to Positive Constructive Daydreaming, letting your mind wander stimulates brain activity and creative potential.",
+            "clue": "Everything takes time.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey-1SsSi4": "Having a minimum amount of time",
+            "choice_4kZlBoBj4": "Forgetting about what others think of you",
+            "choice_NyrlHsrsE": "Offering bonuses for creative ideas",
+            "choice_NJigroHoV": "Putting employees in a competition against each other"
+        }
+    }
+}

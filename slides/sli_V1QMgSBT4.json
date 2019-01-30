@@ -1,0 +1,81 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:25:29.387Z",
+            "updatedAt": "2018-06-22T15:25:50.095Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1QMgSBT4",
+        "universalRef": "sli_V1QMgSBT4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_V1QMgSBT4.field_V1fMmrCRN.id",
+                        "type": "text",
+                        "name": "inp16335",
+                        "label": "label_EJezf7B00V",
+                        "placeholder": "placeholder_NkbMMmSRRE"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp16335",
+                        "answers": [
+                            "choice_NJzzzQBCAN"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l’autre nom de la méthode SCAMPER ?",
+            "explanation": "Saisissez votre texte.",
+            "klf": "La technique SCAMPER est une technique de concassage (concasser, du latin <i>concassare</i>, secouer fortement) utilisée pour faire émerger des idées et des solutions originales au problème posé.",
+            "tips": "Les plafonds hauts auraient tendance à favoriser la pensée créative, tandis que les plafonds bas favoriseraient la pensée concrète et orientée vers les détails. Ce phénomène porte le nom d’ « effet cathédrale ».",
+            "clue": "Noix, noisettes, amandes…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La méthode SCAMPER est aussi appelée technique du {{inp16335}}.",
+            "label_EJezf7B00V": " ",
+            "placeholder_NkbMMmSRRE": " ",
+            "choice_NJzzzQBCAN": "concassage"
+        },
+        "en": {
+            "explanation": "Write your answer.",
+            "header": "What word would you use to describe how problems are processed using the SCAMPER method?",
+            "klf": "The SCAMPER technique is a way of drilling down into problems to bring about new ideas and original solutions.<i></i>",
+            "tips": "When ceilings are set high, this stimulates creativity, while low ceilings are better for concrete, details-oriented thinking. This is known as the “cathedral effect”.",
+            "clue": "Usually you need a power tool to do this.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The SCAMPER method processes problems by {{inp16335}}.",
+            "label_EJezf7B00V": " ",
+            "placeholder_NkbMMmSRRE": " ",
+            "choice_NJzzzQBCAN": "drilling down into them"
+        }
+    }
+}

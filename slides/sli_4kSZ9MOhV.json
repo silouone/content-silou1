@@ -1,0 +1,74 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-24T13:04:03.577Z",
+            "updatedAt": "2018-06-22T12:28:37.024Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kSZ9MOhV",
+        "universalRef": "sli_4kSZ9MOhV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4kSZ9MOhV.id",
+                "min": 1940,
+                "max": 1990,
+                "step": 1,
+                "defaultValue": 1940,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "À quelle période Alex Osborn a-t-il développé la technique du brainstorming ? Dans les années...",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Pour le publicitaire Alex Osborn, qui a popularisé le brainstorming dans les années 50, cette technique consiste à utiliser le cerveau pour résoudre un problème en faisant appel à sa créativité.",
+            "tips": "Il y a plusieurs siècles, des religieux hindous utilisait une technique similaire au brainstorming nommée Prai-Barshana (Prai - en dehors de soi ; Barshana - question).",
+            "clue": "Happy Days!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "1950",
+            "answerMin": 1950,
+            "answerMax": 1959
+        },
+        "en": {
+            "explanation": "Move the cursor.",
+            "header": "When did Alex Osborn develop the technique of brainstorming? In the…",
+            "klf": "For the man who popularised brainstorming in the 1950s, advertising executive Alex Osborn, this technique involved calling on your brain’s creative skills to solve a problem.",
+            "tips": "Many centuries ago, Hindu holy men used a similar technique which they called Prai-Barshana – “prai” means exterior to oneself and “barshana” means “question”.",
+            "clue": "Happy Days!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "1950",
+            "answerMin": 1950,
+            "answerMax": 1959
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T13:16:30.575Z",
+            "updatedAt": "2018-06-22T08:39:12.518Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T13:16:30.575Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkloUiSoN",
+        "universalRef": "sli_EkloUiSoN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkloUiSoN.choice_N1rPXZqlH.id",
+                        "label": "choice_N1rPXZqlH",
+                        "value": "choice_N1rPXZqlH"
+                    },
+                    {
+                        "id": "sli_EkloUiSoN.choice_4kx-X~qeB.id",
+                        "label": "choice_4kx-X~qeB",
+                        "value": "choice_4kx-X~qeB"
+                    },
+                    {
+                        "id": "sli_EkloUiSoN.choice_N1Kumb5lB.id",
+                        "label": "choice_N1Kumb5lB",
+                        "value": "choice_N1Kumb5lB"
+                    },
+                    {
+                        "id": "sli_EkloUiSoN.choice_VJCu7Z9er.id",
+                        "label": "choice_VJCu7Z9er",
+                        "value": "choice_VJCu7Z9er"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1rPXZqlH",
+                        "choice_N1Kumb5lB",
+                        "choice_VJCu7Z9er"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les bénéfices des supports visuels dans le cadre d'un projet d'équipe nécessitant de la créativité ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Utiliser un support visuel permet de coucher ses idées sur le papier, de dépasser le mot et ses possibles ambiguïtés et de simplifier des ramifications de pensée parfois complexes.",
+            "tips": "L’Américain Mike Rodhe a conceptualisé une technique de prise de notes visuelle et créative en s'inspirant des carnets de notes de Léonard de Vinci : le <a href=\"https://www.letudiant.fr/lycee/le-sketchnoting-une-methode-visuelle-pour-apprendre-vos-cours.html\">sketchnoting</a>. Elle est constituée de mots et d’images.",
+            "clue": "Le visuel favorise la réflexion.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rPXZqlH": "Simplifier un schéma de pensée complexe",
+            "choice_4kx-X~qeB": "Moins réfléchir",
+            "choice_N1Kumb5lB": "Externaliser sa pensée",
+            "choice_VJCu7Z9er": "Dépasser le mot et son ambiguïté "
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What are the benefits of using visual aids during team projects that require creative thinking?",
+            "klf": "Using a visual aid helps you to get ideas on paper; avoid getting bogged down in language and the ambiguities it can throw up; and streamline how you follow up complicated thoughts.",
+            "tips": "American Mike Rodhe conceptualised a technique for making visual, creative notes inspired by Leonardo di Vinci’s sketchbooks. He called this method “<a href=\"https://www.letudiant.fr/lycee/le-sketchnoting-une-methode-visuelle-pour-apprendre-vos-cours.html\">sketchnoting</a>” and it uses both words and images.",
+            "clue": "Visuals prompt us to reflect.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rPXZqlH": "It simplifies complicated series of thoughts.",
+            "choice_4kx-X~qeB": "It means you don’t have to think as much.",
+            "choice_N1Kumb5lB": "It helps to get thoughts out of your head and into the world.",
+            "choice_VJCu7Z9er": "It helps you break free of language and the ambiguities it creates."
+        }
+    }
+}

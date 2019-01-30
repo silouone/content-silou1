@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:44:03.937Z",
+            "updatedAt": "2018-06-22T15:31:36.993Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1Eu4SrTE",
+        "universalRef": "sli_N1Eu4SrTE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1Eu4SrTE.choice_EJT5ErrTE.id",
+                        "label": "choice_EJT5ErrTE",
+                        "value": "choice_EJT5ErrTE"
+                    },
+                    {
+                        "id": "sli_N1Eu4SrTE.choice_VJyoNBSpE.id",
+                        "label": "choice_VJyoNBSpE",
+                        "value": "choice_VJyoNBSpE"
+                    },
+                    {
+                        "id": "sli_N1Eu4SrTE.choice_N1si4HSpN.id",
+                        "label": "choice_N1si4HSpN",
+                        "value": "choice_N1si4HSpN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJT5ErrTE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les questions correspondant au verbe Combiner de la méthode SCAMPER ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Combiner consiste à fusionner deux concepts, deux idées. Ainsi, on peut se demander quels matériaux, quelles caractéristiques, quelles personnes ou produits on peut combiner pour multiplier les usages possibles.",
+            "tips": "Selon la dernière étude Adobe \"State of Create: 2016\" produite par le cabinet d’études Edelman Intelligence, 70 % des participants en France estiment que la créativité fait d'eux de meilleurs dirigeants, parents ou étudiants.",
+            "clue": "Ne pas confondre avec Substituer ou Adapter.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJT5ErrTE": "Quels matériaux, quelles caractéristiques, quelles personnes ou produits puis-je combiner pour multiplier les usages possibles ?",
+            "choice_VJyoNBSpE": "Puis-je utiliser d’autres ingrédients ou matériaux ? ",
+            "choice_N1si4HSpN": "Y a-t-il déjà eu des produits semblables, mais utilisés dans un contexte différent ?"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Can you identify which questions fall under the category of “combine” as part of the SCAMPER method?",
+            "klf": "Combining involves merging two concepts or ideas together. You might, for example, question which materials, characteristics, people or products can be brought together to give them greater utility.",
+            "tips": "According to the Adobe 2016 State of Create study by Edelman Intelligence Research and Analytics Consultancy, 70% of French respondents believe their creativity has made them better managers, parents or students.",
+            "clue": "Do not confuse this with substitute or adapt.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJT5ErrTE": "What materials, characteristics, people or products can be combined to make them useful in more situations?",
+            "choice_VJyoNBSpE": "Can I use other components or materials? ",
+            "choice_N1si4HSpN": "Have similar products already been used in a different context?"
+        }
+    }
+}

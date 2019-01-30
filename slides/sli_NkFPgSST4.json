@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:26:46.347Z",
+            "updatedAt": "2018-06-22T15:27:03.102Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkFPgSST4",
+        "universalRef": "sli_NkFPgSST4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel78942",
+                        "label": "label_N1yHmB0CN",
+                        "items": [
+                            {
+                                "text": "choice_VygySmrRR4",
+                                "value": "choice_VygySmrRR4"
+                            },
+                            {
+                                "text": "choice_EJb1HXHRRE",
+                                "value": "choice_EJb1HXHRRE"
+                            },
+                            {
+                                "text": "choice_NJPImrRR4",
+                                "value": "choice_NJPImrRR4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel78942",
+                        "answers": [
+                            "choice_VygySmrRR4"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En quoi consiste la méthode SCAMPER ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Plus guidée que le brainstorming traditionnel, la méthode SCAMPER propose d’examiner une même idée sous plusieurs angles grâce à une reformulation de la problématique par des verbes d’action (substituer, combiner, adapter, magnifier, proposer, éliminer, réorganiser).",
+            "tips": "Selon Seth Godin, entrepreneur et ancien responsable marketing direct de Yahoo, il faut savoir bien choisir l’endroit où vous organisez vos brainstormings. Par exemple, il vaut mieux éviter d’utiliser la même salle où vous réprimandez les collaborateurs sur les résultats trimestriels manqués.",
+            "clue": "Boule à facettes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le principe de la méthode SCAMPER est d' {{sel78942}}.",
+            "label_N1yHmB0CN": " ",
+            "choice_VygySmrRR4": "examiner une même idée sous plusieurs angles",
+            "choice_EJb1HXHRRE": "examiner une idée avec un seul focus spécifique",
+            "choice_NJPImrRR4": "examiner une idée avec 4 angles différents"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What does the SCAMPER method entail?",
+            "klf": "The SCAMPER method offers tighter guidelines than traditional brainstorming techniques and allows users to analyse a single idea from multiple angles. It does this by reconfiguring the issue via a series of actions: substitute, combine, adapt, modify, put to another use, eliminate and reverse.",
+            "tips": "According to Seth Godin, an entrepreneur and former direct marketing manager at Yahoo, you need to choose the location for your brainstorming sessions carefully. For example, it’s better not to hold them in the room where employees are reprimanded if they’ve not made their quarterly results.",
+            "clue": "Mirror ball",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The key idea behind the SCAMPER ideas is to {{sel78942}}.",
+            "label_N1yHmB0CN": " ",
+            "choice_VygySmrRR4": "examine a single idea from multiple perspectives",
+            "choice_EJb1HXHRRE": "examine an idea with a single focus in mind",
+            "choice_NJPImrRR4": "examine an idea from 4 different perspectives"
+        }
+    }
+}

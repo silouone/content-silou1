@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:56:33.852Z",
+            "updatedAt": "2018-06-22T16:08:06.611Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-04T12:56:33.852Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1fwDrrpV",
+        "universalRef": "sli_N1fwDrrpV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1fwDrrpV.choice_4yBFDrr6V.id",
+                        "label": "choice_4yBFDrr6V",
+                        "value": "choice_4yBFDrr6V"
+                    },
+                    {
+                        "id": "sli_N1fwDrrpV.choice_V16KDHHaE.id",
+                        "label": "choice_V16KDHHaE",
+                        "value": "choice_V16KDHHaE"
+                    },
+                    {
+                        "id": "sli_N1fwDrrpV.choice_4kXcDrBpE.id",
+                        "label": "choice_4kXcDrBpE",
+                        "value": "choice_4kXcDrBpE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yBFDrr6V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment dynamiser la production d’idées lors d’un brainstorming de groupe ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour encourager la créativité des participants, vous pouvez demander à chacun de générer une trentaine d’idées.",
+            "tips": "Selon le psychologue Edward de Bono, \"la réunion de groupe, utilisée seule, présente l’inconvénient d’inciter à la passivité : certains participants y assistent sans jamais émettre la moindre suggestion\". C’est pour cette raison qu’il est crucial de savoir booster la motivation des participants : par exemple, vous pouvez organiser un petit concours bon enfant où gagnerait celui qui aurait le plus d’idées.",
+            "clue": "Ne pas provoquer d'antagonismes...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yBFDrr6V": "Donner aux participants un quota d’idées à générer",
+            "choice_V16KDHHaE": "Proposer une promotion à ceux qui imagineront les meilleures idées",
+            "choice_4kXcDrBpE": "Limiter les participants à des idées rentables"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "How can you inject extra dynamism into the idea-generating section of a group brainstorming session?",
+            "klf": "To bring out participants’ creativity, you can ask each one to come up with at least 30 ideas.",
+            "tips": "According to psychologist Edward de Bono, “when they are used in isolation, group meetings have the drawback of inviting passivity. Some people will attend without ever offering the slightest suggestion.” This is why it’s crucial you know how to boost participants’ motivation. For instance, you might set up a star contributor award that will go to whoever comes up with the most ideas.",
+            "clue": "Don’t stoke up rivalries…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yBFDrr6V": "Give participants a specific number of ideas they need to generate",
+            "choice_V16KDHHaE": "Offer promotions to whoever comes up with the best ideas",
+            "choice_4kXcDrBpE": "Tell participants they should suggest profit-making ideas only"
+        }
+    }
+}
