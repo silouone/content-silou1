@@ -1,0 +1,90 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-02T10:41:58.447Z",
+            "updatedAt": "2018-06-21T08:14:06.457Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ1STuNc4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyR6EFf64",
+        "universalRef": "sli_VyR6EFf64",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyR6EFf64.choice_NkDWsioa4.id",
+                        "label": "choice_NkDWsioa4",
+                        "value": "choice_NkDWsioa4"
+                    },
+                    {
+                        "id": "sli_VyR6EFf64.choice_EkgBoisTE.id",
+                        "label": "choice_EkgBoisTE",
+                        "value": "choice_EkgBoisTE"
+                    },
+                    {
+                        "id": "sli_VyR6EFf64.choice_EkYm2ji6N.id",
+                        "label": "choice_EkYm2ji6N",
+                        "value": "choice_EkYm2ji6N"
+                    },
+                    {
+                        "id": "sli_VyR6EFf64.choice_EJP4nij6N.id",
+                        "label": "choice_EJP4nij6N",
+                        "value": "choice_EJP4nij6N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkYm2ji6N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment peut-on s'entraîner à la pleine conscience ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "En multipliant les instants de pleine conscience au cours de la journée, notre \"pilote automatique\" sera progressivement de moins en moins à même de reprendre le dessus.",
+            "tips": "La pleine conscience n’obéit pas à nos habitudes d’évaluation normative ou de processus systématique, mais à une ouverture de notre champ d’attention.",
+            "clue": "À force de répétition...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkDWsioa4": "Un entraînement continu et sans relâche au cours de la journée ",
+            "choice_EkgBoisTE": "De façon aléatoire au cours du mois",
+            "choice_EkYm2ji6N": "En multipliant les instants de pleine conscience au quotidien",
+            "choice_EJP4nij6N": "L'entraînement n'est pas pertinent pour cette pratique"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "How can you train to be mindful?",
+            "klf": "As you increase the number of mindful moments you have each day, slowly but surely, your “auto pilot” is less likely to turn on.",
+            "tips": "Mindfulness helps us find distance from our usual habits, including our judgements and automatic impulses. Instead, we develop a heightened awareness.",
+            "clue": "Through repetition…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkDWsioa4": "By practising without stopping all day",
+            "choice_EkgBoisTE": "By practising at random times throughout the day",
+            "choice_EkYm2ji6N": "By increasing the number of mindful moments you have each day",
+            "choice_EJP4nij6N": "Training has nothing to do with mindfulness"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T15:18:52.127Z",
+            "updatedAt": "2018-06-21T08:58:50.023Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4Jcxfo~h4",
+        "universalRef": "sli_4Jcxfo~h4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4Jcxfo~h4.choice_Nk2VGobhE.id",
+                        "label": "choice_Nk2VGobhE",
+                        "value": "choice_Nk2VGobhE"
+                    },
+                    {
+                        "id": "sli_4Jcxfo~h4.choice_NkDHMibnV.id",
+                        "label": "choice_NkDHMibnV",
+                        "value": "choice_NkDHMibnV"
+                    },
+                    {
+                        "id": "sli_4Jcxfo~h4.choice_V1hrGoZ2V.id",
+                        "label": "choice_V1hrGoZ2V",
+                        "value": "choice_V1hrGoZ2V"
+                    },
+                    {
+                        "id": "sli_4Jcxfo~h4.choice_Eku8MsbnN.id",
+                        "label": "choice_Eku8MsbnN",
+                        "value": "choice_Eku8MsbnN"
+                    },
+                    {
+                        "id": "sli_4Jcxfo~h4.choice_EyMDGiW24.id",
+                        "label": "choice_EyMDGiW24",
+                        "value": "choice_EyMDGiW24"
+                    },
+                    {
+                        "id": "sli_4Jcxfo~h4.choice_NJLPziZnV.id",
+                        "label": "choice_NJLPziZnV",
+                        "value": "choice_NJLPziZnV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJLPziZnV",
+                        "choice_Nk2VGobhE",
+                        "choice_NkDHMibnV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En quoi consiste la slow attitude au travail ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Ralentir son rythme permet de prendre conscience de ses automatismes et de ses ressentis internes pour pouvoir redevenir maître de soi, en pleine présence.",
+            "tips": "Vous pouvez créer votre programme d’exercices de pleine conscience sur un jour ou une semaine en utilisant la slow attitude sur quelques mouvements, comme marcher, se lever, s’asseoir.",
+            "clue": "Piano piano.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk2VGobhE": "Ralentir ses mouvements ",
+            "choice_NkDHMibnV": "Ralentir son rythme ",
+            "choice_V1hrGoZ2V": "Diminuer le nombre de tâches",
+            "choice_Eku8MsbnN": "Prioriser ses activités",
+            "choice_EyMDGiW24": "Ralentir sa pression artérielle",
+            "choice_NJLPziZnV": "Agir plus lentement "
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "How do you adopt a no-rush attitude at work?",
+            "klf": "When you slow down your pace, you become more aware of your automatic reflexes and inner feelings, helping you take back control of yourself and live in the present moment.",
+            "tips": "When you create your daily or weekly mindfulness exercise programme, you can use a no-rush attitude for several forms of movement such as walking, getting up and sitting down.",
+            "clue": "Piano piano.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk2VGobhE": "By slowing down your movements ",
+            "choice_NkDHMibnV": "By slowing down the speed you do things ",
+            "choice_V1hrGoZ2V": "By reducing the number of tasks you have",
+            "choice_Eku8MsbnN": "By prioritising activities",
+            "choice_EyMDGiW24": "By lowering your blood pressure ",
+            "choice_NJLPziZnV": "By slowing down generally "
+        }
+    }
+}

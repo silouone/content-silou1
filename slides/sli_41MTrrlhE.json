@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-18T14:38:04.170Z",
+            "updatedAt": "2018-04-25T09:30:58.101Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41MTrrlhE",
+        "universalRef": "sli_41MTrrlhE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41MTrrlhE.choice_VkGO8rghN.id",
+                        "label": "choice_VkGO8rghN",
+                        "value": "choice_VkGO8rghN"
+                    },
+                    {
+                        "id": "sli_41MTrrlhE.choice_VJzY8Bg2V.id",
+                        "label": "choice_VJzY8Bg2V",
+                        "value": "choice_VJzY8Bg2V"
+                    },
+                    {
+                        "id": "sli_41MTrrlhE.choice_41aVPBe34.id",
+                        "label": "choice_41aVPBe34",
+                        "value": "choice_41aVPBe34"
+                    },
+                    {
+                        "id": "sli_41MTrrlhE.choice_VJlBwBxnN.id",
+                        "label": "choice_VJlBwBxnN",
+                        "value": "choice_VJlBwBxnN"
+                    },
+                    {
+                        "id": "sli_41MTrrlhE.choice_NkRrPSehV.id",
+                        "label": "choice_NkRrPSehV",
+                        "value": "choice_NkRrPSehV"
+                    },
+                    {
+                        "id": "sli_41MTrrlhE.choice_VJDIwBx2E.id",
+                        "label": "choice_VJDIwBx2E",
+                        "value": "choice_VJDIwBx2E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkRrPSehV",
+                        "choice_VJlBwBxnN",
+                        "choice_VkGO8rghN",
+                        "choice_VJzY8Bg2V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Tournés vers le futur ou le passé, nous avons du mal à vivre au présent. Dans quel type de situations invitons-nous le futur dans l’instant présent ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Lorsque notre mental nous éloigne du moment présent, cela nous déconnecte de ce que nous vivons. Ainsi, nous passons à côté de nouvelles découvertes.",
+            "tips": "C’est parce que nous imaginons ou anticipons le futur proche que nous sommes frustrés ou aigris de ce qui ne se passe pas comme nous l’aurions voulu ou prévu.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGO8rghN": "En imaginant la suite de notre journée ",
+            "choice_VJzY8Bg2V": "En visualisant nos objectifs ",
+            "choice_41aVPBe34": "En faisant ce qu’il y a à faire",
+            "choice_VJlBwBxnN": "En craignant de manquer de temps ",
+            "choice_NkRrPSehV": "En anticipant les ennuis ",
+            "choice_VJDIwBx2E": "En agissant au bon moment"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Tournés vers le futur ou le passé, nous avons du mal à vivre au présent. Dans quel type de situations invitons-nous le futur dans l’instant présent ?",
+            "klf": "Lorsque notre mental nous éloigne du moment présent, cela nous déconnecte de ce que nous vivons. Ainsi, nous passons à côté de nouvelles découvertes.",
+            "tips": "C’est parce que nous imaginons ou anticipons le futur proche que nous sommes frustrés ou aigris de ce qui ne se passe pas comme nous l’aurions voulu ou prévu.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGO8rghN": "En imaginant la suite de notre journée ",
+            "choice_VJzY8Bg2V": "En visualisant nos objectifs ",
+            "choice_41aVPBe34": "En faisant ce qu’il y a à faire",
+            "choice_VJlBwBxnN": "En craignant de manquer de temps ",
+            "choice_NkRrPSehV": "En anticipant les ennuis ",
+            "choice_VJDIwBx2E": "En agissant au bon moment"
+        }
+    }
+}

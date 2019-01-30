@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T15:16:19.323Z",
+            "updatedAt": "2018-06-21T08:57:33.490Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4ylTT9Wn4",
+        "universalRef": "sli_4ylTT9Wn4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4ylTT9Wn4.choice_NyHoWsb34.id",
+                        "label": "choice_NyHoWsb34",
+                        "value": "choice_NyHoWsb34"
+                    },
+                    {
+                        "id": "sli_4ylTT9Wn4.choice_N1Fibs~34.id",
+                        "label": "choice_N1Fibs~34",
+                        "value": "choice_N1Fibs~34"
+                    },
+                    {
+                        "id": "sli_4ylTT9Wn4.choice_Nkdh~jb2V.id",
+                        "label": "choice_Nkdh~jb2V",
+                        "value": "choice_Nkdh~jb2V"
+                    },
+                    {
+                        "id": "sli_4ylTT9Wn4.choice_NJJC~ib34.id",
+                        "label": "choice_NJJC~ib34",
+                        "value": "choice_NJJC~ib34"
+                    },
+                    {
+                        "id": "sli_4ylTT9Wn4.choice_NJmC~jZ3E.id",
+                        "label": "choice_NJmC~jZ3E",
+                        "value": "choice_NJmC~jZ3E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1Fibs~34",
+                        "choice_NJJC~ib34",
+                        "choice_NJmC~jZ3E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Utiliser notre motricité permet de canaliser notre énergie et de la réguler. Quelles peuvent être les bonnes pratiques à adopter au travail ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "L'activité motrice en pleine conscience est un bon moyen de décharger nos énergies et notre trop-plein de tensions. Grâce à quelques mouvements simples, nous pouvons nous recentrer facilement et rapidement.",
+            "tips": "Pour détendre ses tensions mentales, il est conseillé de commencer par s'hydrater car la plupart des maux de tête sont liés à une déshydratation.",
+            "clue": "Des mouvements simples.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyHoWsb34": "Suivre une routine sportive stricte",
+            "choice_N1Fibs~34": "Marcher quelques minutes ",
+            "choice_Nkdh~jb2V": "S’isoler 20 minutes",
+            "choice_4JgTbsZhN": "Parler à un collègue ",
+            "choice_NJJC~ib34": "Changer de position ",
+            "choice_NJmC~jZ3E": "Se lever puis se rassoir "
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Movement helps us to channel and regulate our energy. Which of the following movements or exercises are useful to do at work?",
+            "klf": "In mindfulness, movement helps us offload excess energy and tension. We can use a few simple movements to quickly and easily refocus.",
+            "tips": "If you want to release mental tension, it’s always worth rehydrating first, as dehydration is the main cause of headaches.",
+            "clue": "Simple movements.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyHoWsb34": "Follow a strict sports programme",
+            "choice_N1Fibs~34": "Walk for a few minutes ",
+            "choice_Nkdh~jb2V": "Spend 20 minutes on your own",
+            "choice_4JgTbsZhN": "Parler à un collègue ",
+            "choice_NJJC~ib34": "Change position ",
+            "choice_NJmC~jZ3E": "Stand up and then sit back down "
+        }
+    }
+}

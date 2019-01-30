@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T12:59:50.405Z",
+            "updatedAt": "2018-06-21T10:42:51.607Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJKt6uN5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vym3QWh2V",
+        "universalRef": "sli_Vym3QWh2V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vym3QWh2V.choice_4JGTpW22N.id",
+                        "label": "choice_4JGTpW22N",
+                        "value": "choice_4JGTpW22N"
+                    },
+                    {
+                        "id": "sli_Vym3QWh2V.choice_EyYaTb22V.id",
+                        "label": "choice_EyYaTb22V",
+                        "value": "choice_EyYaTb22V"
+                    },
+                    {
+                        "id": "sli_Vym3QWh2V.choice_NkAa6b3nN.id",
+                        "label": "choice_NkAa6b3nN",
+                        "value": "choice_NkAa6b3nN"
+                    },
+                    {
+                        "id": "sli_Vym3QWh2V.choice_NkECpW23E.id",
+                        "label": "choice_NkECpW23E",
+                        "value": "choice_NkECpW23E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JGTpW22N",
+                        "choice_EyYaTb22V"
+                    ]
+                ]
+            }
+        },
+        "context": null
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les situations les plus propices pour observer votre climat intérieur ? ",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Le climat intérieur est la toile de fond de notre humeur, plus diffuse et plus prégnante que nos émotions passagères. Nous le percevons plus facilement lorsque nous sommes seuls. Il ne s'agit pas de le juger, mais de l’observer.",
+            "tips": "La mauvaise humeur matinale, ce climat intérieur parfois bien difficile à vivre, peut être envisagée autrement que sous un angle négatif, selon la psychothérapeute Béatrice Millêtre. Cette humeur correspond à un temps pour être dans sa bulle, penser à soi plutôt que de se lancer immédiatement dans la vie sociale.",
+            "clue": "Profiter du calme...",
+            "context_title": "",
+            "context_description": "Percevoir nos « climats » intérieurs, ces toiles de fond de notre humeur, plus subtils que nos émotions, nous rend encore plus présents à nous-mêmes.",
+            "context_media_description": "",
+            "choice_4JGTpW22N": "Au travail, quand vous commencez à vous perdre dans vos pensées",
+            "choice_EyYaTb22V": "Lorsque vous êtes seul",
+            "choice_NkAa6b3nN": "Durant une réunion avec vos collègues",
+            "choice_NkECpW23E": "Pendant que vous conduisez votre voiture"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "When are the best times to take a look at your “inner climate”?",
+            "klf": "Your inner climate is the backdrop to your mood. It’s more complex and important than your passing emotions. It’s easier to sense our inner climate when we’re alone. We need to observe it without judging it.",
+            "tips": "We often find it difficult when we wake up in a bad mood in the morning. But according to psychotherapist, Béatrice Millêtre, we could see this inner climate in a different, less negative way. When you experience this mood, you have the opportunity to focus on being in your own bubble and thinking of yourself rather than launching straight into social interactions.",
+            "clue": "Enjoy the tranquillity…",
+            "context_title": "",
+            "context_description": "Percevoir nos « climats » intérieurs, ces toiles de fond de notre humeur, plus subtils que nos émotions, nous rend encore plus présents à nous-mêmes.",
+            "context_media_description": "",
+            "choice_4JGTpW22N": "At work when you start losing yourself in thought ",
+            "choice_EyYaTb22V": "When you’re alone",
+            "choice_NkAa6b3nN": "In a meeting with colleagues",
+            "choice_NkECpW23E": "When you’re driving your car"
+        }
+    }
+}

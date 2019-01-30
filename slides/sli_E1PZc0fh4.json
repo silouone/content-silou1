@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:29:27.664Z",
+            "updatedAt": "2018-06-21T09:09:19.102Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1PZc0fh4",
+        "universalRef": "sli_E1PZc0fh4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1PZc0fh4.choice_4y175Cf3V.id",
+                        "label": "choice_4y175Cf3V",
+                        "value": "choice_4y175Cf3V"
+                    },
+                    {
+                        "id": "sli_E1PZc0fh4.choice_V1rm5RMnV.id",
+                        "label": "choice_V1rm5RMnV",
+                        "value": "choice_V1rm5RMnV"
+                    },
+                    {
+                        "id": "sli_E1PZc0fh4.choice_EJ2mqCGnV.id",
+                        "label": "choice_EJ2mqCGnV",
+                        "value": "choice_EJ2mqCGnV"
+                    },
+                    {
+                        "id": "sli_E1PZc0fh4.choice_41BVqAM3V.id",
+                        "label": "choice_41BVqAM3V",
+                        "value": "choice_41BVqAM3V"
+                    },
+                    {
+                        "id": "sli_E1PZc0fh4.choice_N1ZB9RM34.id",
+                        "label": "choice_N1ZB9RM34",
+                        "value": "choice_N1ZB9RM34"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4y175Cf3V",
+                        "choice_V1rm5RMnV",
+                        "choice_EJ2mqCGnV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "S’entraîner à relaxer complètement notre corps vient compléter nos exercices de présence à soi à l’instant présent. Au travail, quels sont les meilleurs moments pour commencer ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "S’entraîner à une relaxation complète de son corps nécessite d’être seul pendant un petit moment, par exemple lors d’une pause. Asseyez-vous, fermez vos yeux ou gardez les ouverts si vous préférez, et vivez l’instant présent !",
+            "tips": "Léonard de Vinci s’accordait souvent des moments très courts de relaxation afin d’améliorer sa créativité.",
+            "clue": "S’assurer de ne pas être dérangé.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y175Cf3V": "Lors d'une pause",
+            "choice_V1rm5RMnV": "Seul dans son bureau",
+            "choice_EJ2mqCGnV": "Avant d'aller au travail",
+            "choice_41BVqAM3V": "Lorsque tout le monde parle en même temps",
+            "choice_N1ZB9RM34": "En travaillant en urgence"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "The final technique to help you live in the present moment is a full-body relaxation exercise. When are the best times to start doing this at work?",
+            "klf": "When you’re training to completely relax your body, you need to be alone for a short period. So, it’s handy doing it on a break, for example. Sit down, close your eyes (or keep your eyes open if you prefer!), and experience the present moment in time!",
+            "tips": "Leonardo da Vinci often took short breaks to relax his body so he could improve his creativity.",
+            "clue": "Make sure you’re not disturbed.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4y175Cf3V": "During a break",
+            "choice_V1rm5RMnV": "Alone in your office",
+            "choice_EJ2mqCGnV": "Before going to work",
+            "choice_41BVqAM3V": "When everyone is talking at the same time",
+            "choice_N1ZB9RM34": "When working on an urgent job"
+        }
+    }
+}

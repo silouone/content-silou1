@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-02T10:56:36.225Z",
+            "updatedAt": "2018-06-21T08:15:57.041Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ1STuNc4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nyj8rYGa4",
+        "universalRef": "sli_Nyj8rYGa4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_Nyj8rYGa4.field_NJWl2DIAE.id",
+                        "type": "text",
+                        "name": "inp84412",
+                        "label": "label_Eyl~xnDUAV",
+                        "placeholder": "placeholder_N1~Ze3DUR4"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp84412",
+                        "answers": [
+                            "choice_V1denDLC4",
+                            "choice_Vkix3w8CN",
+                            "choice_413xnw8C4",
+                            "choice_4klhxhv804",
+                            "choice_VkangOU0E"
+                        ]
+                    }
+                ],
+                "disableFuzzyMatching": false
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "À quelle épreuve sportive ressemble l'entraînement à la pleine conscience ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L’attention à l’instant présent est comme un muscle à développer petit à petit. Il ne sert à rien de vouloir redoubler d’efforts, il s'agit simplement de pratiquer aussi souvent que possible, sans pression.",
+            "tips": "Le premier programme de réduction du stress basé sur la pleine conscience a été développé par le Docteur en biologie moléculaire Jon Kabat-Zinn dans les années 70 à l'université du Massachusetts. Il explique que son programme de thérapie par la pleine conscience est dépouillé de toute connotation religieuse afin qu'il soit accessible à tous, autant pour affronter la douleur (cancer, rhumatismes aigus, etc.) que les troubles psychologiques.",
+            "clue": "Course de 42 km.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La pleine conscience est un entraînement, c’est comme si vous deviez vous préparer pour un/e {{inp84412}} sans avoir jamais couru.",
+            "label_VkghFBtzpE": " ",
+            "placeholder_VyWntrYz6E": " ",
+            "label_Eyl~xnDUAV": " ",
+            "placeholder_N1~Ze3DUR4": " ",
+            "choice_V1denDLC4": "course",
+            "choice_Vkix3w8CN": "course à pied",
+            "choice_413xnw8C4": "trail",
+            "choice_4klhxhv804": "ironman",
+            "choice_VkangOU0E": "marathon"
+        },
+        "en": {
+            "explanation": "Enter your answer.",
+            "header": "Mindfulness training is most similar to which sporting activity? ",
+            "klf": "Learning how to live in the moment can be compared to the gradual process of toning a muscle. There’s no point trying to do too much too soon, but do you need to practise as often as possible.",
+            "tips": "In the 1970s, Dr Jon Kabat-Zinn, a specialist in molecular biology, developed the first-ever mindfulness-based stress reduction course at the University of Massachusetts. The therapy programme was designed to be accessible to all by ensuring there were no religious elements. It focused on both psychological and pain-related issues linked to cancer, acute rheumatism etc.",
+            "clue": "A 42-kilometre race.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Mindfulness is a form of training. In fact, it’s rather like preparing for  {{inp84412}} when you’ve never run before.",
+            "label_VkghFBtzpE": " ",
+            "placeholder_VyWntrYz6E": " ",
+            "label_Eyl~xnDUAV": " ",
+            "placeholder_N1~Ze3DUR4": " ",
+            "choice_V1denDLC4": "a race",
+            "choice_Vkix3w8CN": "a jog",
+            "choice_413xnw8C4": "mountain biking",
+            "choice_4klhxhv804": "ironman",
+            "choice_VkangOU0E": "a marathon"
+        }
+    }
+}

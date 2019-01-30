@@ -1,0 +1,88 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T13:23:59.318Z",
+            "updatedAt": "2018-05-17T13:24:33.696Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EyHw~uLRE",
+        "universalRef": "sli_EyHw~uLRE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EyHw~uLRE.field_4yuOWu8RV.id",
+                        "type": "text",
+                        "name": "inp50994",
+                        "label": "label_VJe-dWuI0V",
+                        "placeholder": "placeholder_VJWud~u8A4"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp50994",
+                        "answers": [
+                            "choice_41GOOWuUCE",
+                            "choice_EyC-bOU0E",
+                            "choice_41wtW-I0E"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "QCQ la pleine conscience",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "aaa",
+            "tips": "aaa",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "C'est de la {{inp50994}}",
+            "label_VJe-dWuI0V": " ",
+            "placeholder_VJWud~u8A4": " ",
+            "choice_41GOOWuUCE": "méditation",
+            "choice_EyC-bOU0E": "gnognotte",
+            "choice_41wtW-I0E": "bombe"
+        },
+        "en": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "QCQ la pleine conscience",
+            "klf": "aaa",
+            "tips": "aaa",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "C'est de la {{inp50994}}",
+            "label_VJe-dWuI0V": " ",
+            "placeholder_VJWud~u8A4": " ",
+            "choice_41GOOWuUCE": "méditation",
+            "choice_EyC-bOU0E": "gnognotte",
+            "choice_41wtW-I0E": "bombe"
+        }
+    }
+}

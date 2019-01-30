@@ -1,0 +1,103 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:07:22.025Z",
+            "updatedAt": "2018-06-21T08:01:00.242Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Eykk64~3E",
+        "universalRef": "sli_Eykk64~3E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Eykk64~3E.choice_EJ6bpVZ24.id",
+                        "label": "choice_EJ6bpVZ24",
+                        "value": "choice_EJ6bpVZ24"
+                    },
+                    {
+                        "id": "sli_Eykk64~3E.choice_EyLfa4W3V.id",
+                        "label": "choice_EyLfa4W3V",
+                        "value": "choice_EyLfa4W3V"
+                    },
+                    {
+                        "id": "sli_Eykk64~3E.choice_N1AGaNWhN.id",
+                        "label": "choice_N1AGaNWhN",
+                        "value": "choice_N1AGaNWhN"
+                    },
+                    {
+                        "id": "sli_Eykk64~3E.choice_41J4aE~2V.id",
+                        "label": "choice_41J4aE~2V",
+                        "value": "choice_41J4aE~2V"
+                    },
+                    {
+                        "id": "sli_Eykk64~3E.choice_E1o4pVZnE.id",
+                        "label": "choice_E1o4pVZnE",
+                        "value": "choice_E1o4pVZnE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJ6bpVZ24",
+                        "choice_N1AGaNWhN",
+                        "choice_41J4aE~2V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La présence attentive nous permet de découvrir (ou redécouvrir) notre environnement comme une première fois. Quelles réflexions trahissent notre lassitude du \"déjà-vu\" au travail ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "En passant du déjà-vu et du connu à la découverte de l’instant présent et unique, nous délaissons nos a priori et nos habitudes automatiques. Cela nous apporte une plus grande liberté d’appréciation.",
+            "tips": "Cette sensation de lassitude est bien différente de la fameuse sensation de \"déjà-vu\" qui nous donne l'impression d'avoir déjà vécu une scène qui pourtant se déroule pour la première fois. Ce dernier type de \"déjà-vu\" a davantage à voir avec les neurosciences, et pas avec une lassitude générale dont nous parlons ici.",
+            "clue": "\"New is always better!\" - Barney Stinson",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ6bpVZ24": "\"Tiens, ça me rappelle le dossier de la semaine dernière...\"",
+            "choice_EyLfa4W3V": "\"Où est-ce que tu manges ce midi ?\"",
+            "choice_N1AGaNWhN": "\"Ça va oui, enfin un peu comme un lundi...\"",
+            "choice_V1wmTV~nN": "C’est la même rengaine ",
+            "choice_41J4aE~2V": "\"Le boulot ? Oh non, rien de neuf...\"",
+            "choice_E1o4pVZnE": "\"Ça ne coûte rien d’essayer !\"",
+            "choice_4kxHa4b3V": "C’est engageant"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Mindfulness helps us discover (or rediscover) our surroundings as if we’re seeing them for the very first time. Which of the following statements or questions show we’re getting tired of that “same old thing” feeling at work?",
+            "klf": "When you go from experiencing that “same old thing” where everything feels familiar and instead start living in the unique present moment in time, it helps you abandon preconceived ideas and automatic habits. This makes you more open to appreciation.",
+            "tips": "That sense of weariness at work is quite different from the feeling of \"déjà-vu\" you may get sometimes when you think you’ve experienced a particular scenario before but, in fact, it’s happening for the very first time. \"Déjà-vu\" has more to do with neuroscience, as opposed to the general fatigue we’re describing here.",
+            "clue": "\"New is always better!\" - Barney Stinson",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ6bpVZ24": "\"Hey, that reminds me of the case we worked on last week...\"",
+            "choice_EyLfa4W3V": "\"Where are you going for lunch?\"",
+            "choice_N1AGaNWhN": "“Yes, fine, in fact, that’s just the same as on Monday…”",
+            "choice_V1wmTV~nN": "C’est la même rengaine ",
+            "choice_41J4aE~2V": "“Work? Oh no, nothing new…”",
+            "choice_E1o4pVZnE": "“It costs nothing to try!”",
+            "choice_4kxHa4b3V": "C’est engageant"
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-18T14:22:36.481Z",
+            "updatedAt": "2018-06-21T07:51:49.400Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkFNoNx2E",
+        "universalRef": "sli_EkFNoNx2E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkFNoNx2E.choice_NyHCEB-2N.id",
+                        "label": "choice_NyHCEB-2N",
+                        "value": "choice_NyHCEB-2N"
+                    },
+                    {
+                        "id": "sli_EkFNoNx2E.choice_EJQeBr-34.id",
+                        "label": "choice_EJQeBr-34",
+                        "value": "choice_EJQeBr-34"
+                    },
+                    {
+                        "id": "sli_EkFNoNx2E.choice_4Jz~rHdnV.id",
+                        "label": "choice_4Jz~rHdnV",
+                        "value": "choice_4Jz~rHdnV"
+                    },
+                    {
+                        "id": "sli_EkFNoNx2E.choice_NJ0ZSSu3E.id",
+                        "label": "choice_NJ0ZSSu3E",
+                        "value": "choice_NJ0ZSSu3E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyHCEB-2N",
+                        "choice_EJQeBr-34"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La plupart du temps, nous agissons en \"pilote automatique\" par habitude ou par réflexe. Saurez-vous retrouver ces comportements mécaniques qui nous empoisonnent ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Notre passé s’invite dans notre présent par la répétition d’habitudes ancrées et le futur s’invite par anticipation constante. Nous vivons rarement au présent et pensons peu à remettre en question notre conduite quotidienne, ce qui favorise nos comportements « en pilote automatique » et dépouille nos actes de leur sens.",
+            "tips": "Le philosophe Martin Heidegger soutenait que l'homme vit nécessairement dans le temps et que sa capacité à se souvenir et à se projeter définissent sa nature. La pleine conscience ne cherche pas à nous aliéner de cette condition, mais elle consiste simplement à percevoir, dans l'instant, ses sensations, émotions et activités mentales, plutôt qu'à les subir de façon automatique.",
+            "clue": "Plus qu'hier et moins que demain...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ9J1Hg2V": "Nous répétons les mêmes comportements ",
+            "choice_EyzeJBx2V": "Nous sommes présents à nous-mêmes",
+            "choice_4k8ekSehV": "Nous pensons à tout ce qui reste à faire ",
+            "choice_411~1Hxn4": "Nous vivons ici et maintenant",
+            "choice_NJLZySxhN": "Nous découvrons chaque nouvel instant",
+            "choice_NJlMkSxhE": "Nous pensons à une chose en faisant une autre ",
+            "choice_NyHCEB-2N": "Nous ressassons des erreurs de la veille en s'imaginant comment les choses auraient pu se dérouler autrement",
+            "choice_EJQeBr-34": "Nous passons notre journée à rêver d'une situation future plus favorable",
+            "choice_4Jz~rHdnV": "Nous passons tous les matins dire bonjour à nos collègues",
+            "choice_NJ0ZSSu3E": "Nous tenons notre agenda particulièrement bien organisé"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Most of the time, we do things on “auto pilot” whether through instinct or habit. Which of the following automatic habits are problematic?",
+            "klf": "Our past appears in our present through the repetition of established patterns of behaviour. And our future appears in our present as we’re constantly in a state of anticipation. We rarely live in the present and hardly think to question our daily behaviour. So, more often than not, we’re on “auto pilot” and our actions lose much of their meaning.",
+            "tips": "Philosopher, Martin Heidegger maintains that our lives are necessarily time-bound, and our ability to remember the past and project into the future define our character. Mindfulness doesn’t try to distance us from this reality. Instead, it helps us recognise our feelings, emotions and thoughts at a particular moment in time, as opposed to routinely enduring them.",
+            "clue": "Beyond and before today…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ9J1Hg2V": "Nous répétons les mêmes comportements ",
+            "choice_EyzeJBx2V": "Nous sommes présents à nous-mêmes",
+            "choice_4k8ekSehV": "Nous pensons à tout ce qui reste à faire ",
+            "choice_411~1Hxn4": "Nous vivons ici et maintenant",
+            "choice_NJLZySxhN": "Nous découvrons chaque nouvel instant",
+            "choice_NJlMkSxhE": "Nous pensons à une chose en faisant une autre ",
+            "choice_NyHCEB-2N": "We keep going over mistakes we’ve made and imagining how things could have been done differently",
+            "choice_EJQeBr-34": "We spend our whole daydreaming of a better future",
+            "choice_4Jz~rHdnV": "Every morning, we say hello to our colleagues",
+            "choice_NJ0ZSSu3E": "We keep a very well-organised diary"
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:24:16.675Z",
+            "updatedAt": "2018-06-21T09:07:50.638Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyJkKRM3N",
+        "universalRef": "sli_VyJkKRM3N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyJkKRM3N.choice_V1-gYRzn4.id",
+                        "label": "choice_V1-gYRzn4",
+                        "value": "choice_V1-gYRzn4"
+                    },
+                    {
+                        "id": "sli_VyJkKRM3N.choice_NylZKRznV.id",
+                        "label": "choice_NylZKRznV",
+                        "value": "choice_NylZKRznV"
+                    },
+                    {
+                        "id": "sli_VyJkKRM3N.choice_41Dbt0f2E.id",
+                        "label": "choice_41Dbt0f2E",
+                        "value": "choice_41Dbt0f2E"
+                    },
+                    {
+                        "id": "sli_VyJkKRM3N.choice_NJ0~KCfn4.id",
+                        "label": "choice_NJ0~KCfn4",
+                        "value": "choice_NJ0~KCfn4"
+                    },
+                    {
+                        "id": "sli_VyJkKRM3N.choice_4J4GYCM3V.id",
+                        "label": "choice_4J4GYCM3V",
+                        "value": "choice_4J4GYCM3V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NylZKRznV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "L’exercice de check physique permet d’accéder plus facilement à la pleine conscience.  En quoi consiste-t-il ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Le check physique consiste à ressentir son corps de la tête aux pieds et détendre les tensions physiques au fur et à mesure.",
+            "tips": "La détente des tensions permet de mieux faire circuler l’énergie dans notre corps et notre esprit.",
+            "clue": "Un scan corporel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1-gYRzn4": "Juger toutes les parties de son corps",
+            "choice_NylZKRznV": "Détendre ses points de tensions ",
+            "choice_41Dbt0f2E": "Se tenir droit par sessions de 15 minutes",
+            "choice_NJ0~KCfn4": "Harmoniser ses mouvements",
+            "choice_4J4GYCM3V": "Modéliser ses gestes"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "The physical check-in exercise makes it easier to be mindful at work.  What does it involve?",
+            "klf": "The aim of the physical check-in exercise is to relax any physical tension as you focus on different parts of your body, moving from head to toe.",
+            "tips": "Releasing this tension makes it easier for physical and mental energy to circulate around your body.",
+            "clue": "A body scan.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1-gYRzn4": "Evaluating all parts of your body",
+            "choice_NylZKRznV": "Relaxing areas of tension ",
+            "choice_41Dbt0f2E": "Standing up straight for 15 minutes at a time",
+            "choice_NJ0~KCfn4": "Standardising your movements",
+            "choice_4J4GYCM3V": "Adapting your gestures"
+        }
+    }
+}

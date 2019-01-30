@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T13:23:30.087Z",
+            "updatedAt": "2018-06-21T10:50:34.034Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJKt6uN5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ny6WzMhnV",
+        "universalRef": "sli_Ny6WzMhnV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel27223",
+                        "label": "label_Eymr7Mnh4",
+                        "items": [
+                            {
+                                "text": "choice_Nkx7SmM234",
+                                "value": "choice_Nkx7SmM234"
+                            },
+                            {
+                                "text": "choice_N1~7rXG3nE",
+                                "value": "choice_N1~7rXG3nE"
+                            },
+                            {
+                                "text": "choice_VyELmG324",
+                                "value": "choice_VyELmG324"
+                            },
+                            {
+                                "text": "choice_NJNv7Mn3V",
+                                "value": "choice_NJNv7Mn3V"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel27223",
+                        "answers": [
+                            "choice_Nkx7SmM234"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment l'adhésion émotionnelle modifie-t-elle notre implication au travail ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Si nous sommes troublés par des émotions négatives comme l'ennui ou le désagrément, nous perdons en efficience et en motivation. Trouver la fibre intérieure qui nous permettra d'adhérer émotionnellement à ce qu'on fait change la donne et nous rend plus efficaces au travail.",
+            "tips": "En pleine conscience, on parle d’acte unitif pour exprimer l’accord entre l’adhésion émotionnelle, la clarté du projet et la mise en action.",
+            "clue": "Un maximum de résultats avec un minimum d’efforts.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En adhésion émotionnelle avec notre activité, nous sommes plus impliqués et donc plus {{sel27223}}.",
+            "label_Eymr7Mnh4": " ",
+            "choice_Nkx7SmM234": "efficients",
+            "choice_N1~7rXG3nE": "perfectionnistes",
+            "choice_VyELmG324": "dispersés",
+            "choice_NJNv7Mn3V": "joviaux"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "How does emotional attachment change the way we work? ",
+            "klf": "When we allow boredom and irritation to take over at work, we lose our motivation and become less efficient. Finding an inner emotional connection to a task will change our perception of that activity and make us more efficient at work.",
+            "tips": "In mindfulness, we talk about an “act of unity” to describe the balance between emotional connection, a clear project plan and implementation of the task at hand.",
+            "clue": "Maximum results for minimum effort.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When we emotionally connect to a task we are more engaged with it and therefore more {{sel27223}}.",
+            "label_Eymr7Mnh4": " ",
+            "choice_Nkx7SmM234": "efficient",
+            "choice_N1~7rXG3nE": "perfect",
+            "choice_VyELmG324": "chaotic",
+            "choice_NJNv7Mn3V": "jovial"
+        }
+    }
+}

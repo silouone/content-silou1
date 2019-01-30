@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:19:30.473Z",
+            "updatedAt": "2018-06-21T08:03:39.017Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kKqkrb2N",
+        "universalRef": "sli_4kKqkrb2N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kKqkrb2N.choice_N1l~pJSW2N.id",
+                        "label": "choice_N1l~pJSW2N",
+                        "value": "choice_N1l~pJSW2N",
+                        "media": "med_4y~61HZ2E"
+                    },
+                    {
+                        "id": "sli_4kKqkrb2N.choice_NylZRyrWh4.id",
+                        "label": "choice_NylZRyrWh4",
+                        "value": "choice_NylZRyrWh4",
+                        "media": "med_EkZAkr~2V"
+                    },
+                    {
+                        "id": "sli_4kKqkrb2N.choice_VJgqRJSZ3V.id",
+                        "label": "choice_VJgqRJSZ3V",
+                        "value": "choice_VJgqRJSZ3V",
+                        "media": "med_E150yBbhV"
+                    },
+                    {
+                        "id": "sli_4kKqkrb2N.choice_4yxUyerZnV.id",
+                        "label": "choice_4yxUyerZnV",
+                        "value": "choice_4yxUyerZnV",
+                        "media": "med_Vy81gBb3E"
+                    },
+                    {
+                        "id": "sli_4kKqkrb2N.choice_Ekgv~er~hE.id",
+                        "label": "choice_Ekgv~er~hE",
+                        "value": "choice_Ekgv~er~hE",
+                        "media": "med_V1DWeS~3E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1l~pJSW2N",
+                        "choice_NylZRyrWh4",
+                        "choice_4yxUyerZnV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "L’entraînement à la présence attentive nous ramène à nos perceptions. Quelles sont les différentes manifestations possibles d'un intérêt porté à nos sens externes ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "L'entraînement à la présence attentive nous ramène à nos sensations non seulement internes, mais aussi externes par le biais de la vue, l'odorat, le toucher, le goût et l'ouïe.",
+            "tips": "À défaut d'avoir un fameux \"sixième sens\", nous en avons en réalité tous 9. Au-delà des cinq sens externes classiques que nous connaissons, les scientifiques s'accordent sur le fait que nous aurions tous quatre sens internes : la proprioception (la capacité à savoir où se situent nos propres membres), l’équilibrioception (la capacité à maintenir son équilibre), la thermoception (la capacité à ressentir les températures) et la nociception (la capacité à ressentir la douleur).",
+            "clue": "Ils sont perceptibles corporellement.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1l~pJSW2N": "L'accueil des bruits alentours comme toile de fond",
+            "choice_NylZRyrWh4": "L'élargissement de son champ de vision à 180°",
+            "choice_VJgqRJSZ3V": "L'affection pour son collègue de bureau",
+            "choice_4yxUyerZnV": "L'accueil de l'odeur des croissants chauds",
+            "choice_4Jg2xxBZhE": "Le sens du goût",
+            "choice_Ekgv~er~hE": "La représentation mentale d'une île déserte",
+            "choice_EkeDGxHZh4": "Le sens lié à l'intuition"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Mindfulness training helps us refocus on our senses and how we perceive things around us. Which of the following scenarios describe possible influences on our external senses? ",
+            "klf": "Not only does mindfulness training raise awareness of our inner feelings, but it also heightens our external senses through sight, smell, hearing, touch and taste.",
+            "tips": "While we may not have a “sixth sense” as such, we do in fact have nine senses in all. Scientists agree we have four inner senses in addition to the five external senses we all know about: proprioception (ability to locate parts of our own body), equilibrioception (ability to keep our balance), thermoception (ability to feel temperatures) and nociception (ability to feel pain).",
+            "clue": "They are around us.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1l~pJSW2N": "Considering noises around you as just a backdrop",
+            "choice_NylZRyrWh4": "Widening your field of vision to 180°",
+            "choice_VJgqRJSZ3V": "Being fond of one of your colleagues",
+            "choice_4yxUyerZnV": "Recognising the smell of warm croissants",
+            "choice_4Jg2xxBZhE": "Le sens du goût",
+            "choice_Ekgv~er~hE": "Visualising a desert island in your mind",
+            "choice_EkeDGxHZh4": "Le sens lié à l'intuition"
+        }
+    }
+}

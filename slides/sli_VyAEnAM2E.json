@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:39:26.126Z",
+            "updatedAt": "2018-06-21T09:13:11.490Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyAEnAM2E",
+        "universalRef": "sli_VyAEnAM2E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VyAEnAM2E.choice_VyDw30GhN.id",
+                        "label": "choice_VyDw30GhN",
+                        "value": "choice_VyDw30GhN"
+                    },
+                    {
+                        "id": "sli_VyAEnAM2E.choice_N11uhRfnN.id",
+                        "label": "choice_N11uhRfnN",
+                        "value": "choice_N11uhRfnN"
+                    },
+                    {
+                        "id": "sli_VyAEnAM2E.choice_EkDu2RM2V.id",
+                        "label": "choice_EkDu2RM2V",
+                        "value": "choice_EkDu2RM2V"
+                    },
+                    {
+                        "id": "sli_VyAEnAM2E.choice_4JaOhRzhE.id",
+                        "label": "choice_4JaOhRzhE",
+                        "value": "choice_4JaOhRzhE"
+                    },
+                    {
+                        "id": "sli_VyAEnAM2E.choice_NJatnRMn4.id",
+                        "label": "choice_NJatnRMn4",
+                        "value": "choice_NJatnRMn4"
+                    },
+                    {
+                        "id": "sli_VyAEnAM2E.choice_EJL5hCMhN.id",
+                        "label": "choice_EJL5hCMhN",
+                        "value": "choice_EJL5hCMhN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyDw30GhN",
+                        "choice_N11uhRfnN",
+                        "choice_EkDu2RM2V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les différents moyens de détendre nos tensions musculaires et émotionnelles ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Nous pouvons détendre nos crispations musculaires par quelques petits mouvements, nos tensions émotionnelles par une grande et lente respiration et nos tensions mentales en laissant passer nos pensées sans s'y attarder.",
+            "tips": "La tendance de l’être humain est de tendre tout son corps alors qu’une seule partie est sollicitée. En détendant les parties non sollicitées, nous gagnons en énergie.",
+            "clue": "Presque invisibles à l'oeil nu...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyDw30GhN": "Desserrer les mâchoires ",
+            "choice_N11uhRfnN": "Relâcher les épaules ",
+            "choice_EkDu2RM2V": "Respirer lentement et profondément ",
+            "choice_4JaOhRzhE": "Regarder fixement quelqu'un",
+            "choice_NJatnRMn4": "Figer sa posture",
+            "choice_EJL5hCMhN": "Demander un massage du dos à son manager",
+            "choice_4JA53Cf34": "Déplisser son front "
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "Which of the following techniques help you release physical and emotional tension?",
+            "klf": "You can relax muscular tension through small movements, emotional tension through deep, slow breathing, and mental tension by allowing thoughts to drift through your mind without paying much attention to them.",
+            "tips": "Human beings have a tendency to strain their whole bodies when they only need to use one area. We can save energy by relaxing areas we don’t need.",
+            "clue": "Almost invisible to the naked eye…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyDw30GhN": "Unclenching your jaw ",
+            "choice_N11uhRfnN": "Relaxing your shoulders ",
+            "choice_EkDu2RM2V": "Breathing slowly and deeply ",
+            "choice_4JaOhRzhE": "Staring at someone",
+            "choice_NJatnRMn4": "Pretending to be a statue",
+            "choice_EJL5hCMhN": "Asking your manager for a back massage",
+            "choice_4JA53Cf34": "Déplisser son front "
+        }
+    }
+}

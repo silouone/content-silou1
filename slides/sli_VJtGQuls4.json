@@ -1,0 +1,103 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-06T14:30:24.004Z",
+            "updatedAt": "2018-06-21T07:42:29.975Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJtGQuls4",
+        "universalRef": "sli_VJtGQuls4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_VydGu-esE"
+            ],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel29302",
+                        "label": "label_V1ZB7-gjE",
+                        "items": [
+                            {
+                                "text": "choice_EklZrQ-li4",
+                                "value": "choice_EklZrQ-li4"
+                            },
+                            {
+                                "text": "choice_Vk~WrXdxjE",
+                                "value": "choice_Vk~WrXdxjE"
+                            },
+                            {
+                                "text": "choice_VyUF7OgiE",
+                                "value": "choice_VyUF7OgiE"
+                            },
+                            {
+                                "text": "choice_E1b9Queo4",
+                                "value": "choice_E1b9Queo4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel29302",
+                        "answers": [
+                            "choice_EklZrQ-li4"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment peut-on accéder à la pleine conscience ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les rappels à soi sont une méditation instantanée. Ils permettent de retrouver la sensation de soi par une pratique quotidienne.",
+            "tips": "Invisible de l'extérieur, le rappel à soi est particulièrement utile dans les situations de stress ou de blocage.",
+            "clue": "Maintenant est le meilleur moment !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "On peut accéder à la pleine conscience {{sel29302}}",
+            "label_V1ZB7-gjE": " ",
+            "choice_EklZrQ-li4": "par une pratique quotidienne",
+            "choice_Vk~WrXdxjE": "en lisant les textes hindous",
+            "choice_VyUF7OgiE": "en suivant les conseils d'un expert",
+            "choice_E1b9Queo4": "par un état positif permanent"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "How do you reach a state of mindfulness?",
+            "klf": "Self-remembering is a form of instant meditation. When you practice it daily, it helps you refocus on your inner self.",
+            "tips": "Self-remembering is invisible to others, making it particularly useful in stressful situations or when you have major obstacles to overcome.",
+            "clue": "Now’s the best time!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can reach a state of mindfulness {{sel29302}}",
+            "label_V1ZB7-gjE": " ",
+            "choice_EklZrQ-li4": "through daily practice",
+            "choice_Vk~WrXdxjE": "by reading Hindu texts",
+            "choice_VyUF7OgiE": "by following expert advice",
+            "choice_E1b9Queo4": "by adopting a permanent positive mental attitude"
+        }
+    }
+}

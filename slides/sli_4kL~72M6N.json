@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-02T13:59:13.218Z",
+            "updatedAt": "2018-05-09T08:33:19.129Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ1STuNc4"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kL~72M6N",
+        "universalRef": "sli_4kL~72M6N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kL~72M6N.choice_VyAmQ3GpV.id",
+                        "label": "choice_VyAmQ3GpV",
+                        "value": "choice_VyAmQ3GpV"
+                    },
+                    {
+                        "id": "sli_4kL~72M6N.choice_N1EEm2Gp4.id",
+                        "label": "choice_N1EEm2Gp4",
+                        "value": "choice_N1EEm2Gp4"
+                    },
+                    {
+                        "id": "sli_4kL~72M6N.choice_VkcV73MpV.id",
+                        "label": "choice_VkcV73MpV",
+                        "value": "choice_VkcV73MpV"
+                    },
+                    {
+                        "id": "sli_4kL~72M6N.choice_VJVSXnGTN.id",
+                        "label": "choice_VJVSXnGTN",
+                        "value": "choice_VJVSXnGTN"
+                    },
+                    {
+                        "id": "sli_4kL~72M6N.choice_Vk9rQnMaV.id",
+                        "label": "choice_Vk9rQnMaV",
+                        "value": "choice_Vk9rQnMaV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk9rQnMaV",
+                        "choice_VyAmQ3GpV",
+                        "choice_N1EEm2Gp4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Nous pouvons être perturbés par des voleurs d’attention de type physique, lesquels par exemple ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Sans le savoir ni le vouloir ces tensions physiques absorbent notre énergie. En les surmontant, nous retrouvons cette énergie perdue.",
+            "tips": "Utiliser le mouvement nous permet de redistribuer notre énergie dans notre corps et de gagner ainsi en efficience. En changeant de posture, s'étirant ou pratiquant une activité sportive, nous nous libérons d'un trop-plein de tensions et recouvrons un état interne plus calme.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyAmQ3GpV": "Tensions musculaires ",
+            "choice_N1EEm2Gp4": "Position inconfortable ",
+            "choice_VkcV73MpV": "Détente musculaire",
+            "choice_VJVSXnGTN": "Perception de sa respiration",
+            "choice_Vk9rQnMaV": "Mouvements mécaniques "
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Nous pouvons être perturbés par des voleurs d’attention de type physique, lesquels par exemple ?",
+            "klf": "Sans le savoir ni le vouloir ces tensions physiques absorbent notre énergie. En les surmontant, nous retrouvons cette énergie perdue.",
+            "tips": "Utiliser le mouvement nous permet de redistribuer notre énergie dans notre corps et de gagner ainsi en efficience. En changeant de posture, s'étirant ou pratiquant une activité sportive, nous nous libérons d'un trop-plein de tensions et recouvrons un état interne plus calme.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyAmQ3GpV": "Tensions musculaires ",
+            "choice_N1EEm2Gp4": "Position inconfortable ",
+            "choice_VkcV73MpV": "Détente musculaire",
+            "choice_VJVSXnGTN": "Perception de sa respiration",
+            "choice_Vk9rQnMaV": "Mouvements mécaniques "
+        }
+    }
+}

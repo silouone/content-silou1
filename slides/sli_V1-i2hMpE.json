@@ -1,0 +1,90 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-02T14:56:05.571Z",
+            "updatedAt": "2018-06-21T08:20:18.662Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ1STuNc4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1-i2hMpE",
+        "universalRef": "sli_V1-i2hMpE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1-i2hMpE.choice_VkGTnhG64.id",
+                        "label": "choice_VkGTnhG64",
+                        "value": "choice_VkGTnhG64"
+                    },
+                    {
+                        "id": "sli_V1-i2hMpE.choice_VJTTn2GaV.id",
+                        "label": "choice_VJTTn2GaV",
+                        "value": "choice_VJTTn2GaV"
+                    },
+                    {
+                        "id": "sli_V1-i2hMpE.choice_VymAhnzaV.id",
+                        "label": "choice_VymAhnzaV",
+                        "value": "choice_VymAhnzaV"
+                    },
+                    {
+                        "id": "sli_V1-i2hMpE.choice_4JAR2hGaV.id",
+                        "label": "choice_4JAR2hGaV",
+                        "value": "choice_4JAR2hGaV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJTTn2GaV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la pleine conscience peut-elle nous aider à retrouver de l'énergie ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Par la pleine conscience, il est possible de développer un état de moindre tension tout en étant plus présent à soi-même.",
+            "tips": "Parfois appelé Yoga chinois ou Yoga taoïste, le Qi Gong est un ensemble de gestes et d’exercices physiques effectués en pleine conscience et rythmés par la respiration. Au fil de la répétition de gestes et de la respiration consciente, il permet de vivre l'expérience d’une énergie appelée Qi.",
+            "clue": "Lâcher la soupape...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGTnhG64": "Par une analyse méthodique",
+            "choice_VJTTn2GaV": "Par une perception et détente des tensions ",
+            "choice_VymAhnzaV": "Par la spontanéité de nos réponses",
+            "choice_4JAR2hGaV": "Par une attention focalisée sur les tensions"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "How can mindfulness help improve your energy levels?",
+            "klf": "Mindfulness can help you release tension and live in the present moment.",
+            "tips": "Qi Gong (also called Chinese Yoga or Taoist Yoga) is a set of mindful poses and physical exercises that you do in time with your breath. As you breathe consciously and repeat the poses and exercises, you experience a type of energy called Qi.",
+            "clue": "Release the valve…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGTnhG64": "Through methodical analysis",
+            "choice_VJTTn2GaV": "By recognising then letting go of tension ",
+            "choice_VymAhnzaV": "By helping you to answer spontaneously",
+            "choice_4JAR2hGaV": "By raising awareness of any tension you have"
+        }
+    }
+}

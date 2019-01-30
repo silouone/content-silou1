@@ -1,0 +1,105 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:37:20.610Z",
+            "updatedAt": "2018-06-21T09:11:17.396Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkJYjCGhN",
+        "universalRef": "sli_EkJYjCGhN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel75198",
+                        "label": "label_VkkzPyhpN",
+                        "items": [
+                            {
+                                "text": "choice_EkxkGwJn64",
+                                "value": "choice_EkxkGwJn64"
+                            },
+                            {
+                                "text": "choice_VJWyzwy364",
+                                "value": "choice_VJWyzwy364"
+                            },
+                            {
+                                "text": "choice_EyCiPJ3TV",
+                                "value": "choice_EyCiPJ3TV"
+                            },
+                            {
+                                "text": "choice_N1QnvynpV",
+                                "value": "choice_N1QnvynpV"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel75198",
+                        "answers": [
+                            "choice_EyCiPJ3TV"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel bienfait de la pleine conscience illustre la métaphore du \"maître du Je\" ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le maître du Je est notre corps et l’ensemble des sensations qu’il éprouve. Cette métaphore illustre l’état interne d’accord avec soi-même en pleine conscience.",
+            "tips": "Le \"maître du Je\" est à ne pas confondre avec notre volonté ou notre raison. Le \"maître du Je\" est notre corps entièrement sensoriel, en pleine conscience.",
+            "clue": "On en fait des tableaux.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le \"maître du Je\" illustre le fait que la pleine conscience nous permet de retrouver une {{sel75198}} intérieure.",
+            "label_EygiooAzhE": " ",
+            "placeholder_N1ZooiCz2E": " ",
+            "label_VkkzPyhpN": " ",
+            "choice_EkxkGwJn64": "satiété",
+            "choice_VJWyzwy364": "responsabilité",
+            "choice_EyCiPJ3TV": "unité",
+            "choice_N1QnvynpV": "réalité"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "“Master of Self is a metaphor explaining which benefit of mindfulness?",
+            "klf": "“Master of Self” is a term used to describe your body and all the sensations it feels. As a metaphor, it describes mindfulness and inner harmony within yourself.",
+            "tips": "“Master of Self” shouldn’t be confused with “will” or “reason”. “Master of Self” is about being mindful of your body, which is made up of many different sensations.",
+            "clue": "Togetherness.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "“Master of Self” highlights how mindfulness allows us to rediscover our inner {{sel75198}}.",
+            "label_EygiooAzhE": " ",
+            "placeholder_N1ZooiCz2E": " ",
+            "label_VkkzPyhpN": " ",
+            "choice_EkxkGwJn64": "satisfaction",
+            "choice_VJWyzwy364": "responsibility",
+            "choice_EyCiPJ3TV": "unity",
+            "choice_N1QnvynpV": "reality"
+        }
+    }
+}

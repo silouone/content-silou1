@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T09:27:35.716Z",
+            "updatedAt": "2018-06-21T09:02:46.522Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkcX~szh4",
+        "universalRef": "sli_EkcX~szh4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EkcX~szh4.field_EkwdZjzn4.id",
+                        "type": "text",
+                        "name": "inp17905",
+                        "label": "label_EylvuboGhN",
+                        "placeholder": "placeholder_VJbv-bif2E"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp17905",
+                        "answers": [
+                            "choice_4kGv-biM3E",
+                            "choice_41ntWsf34",
+                            "choice_4kfcZsM2E",
+                            "choice_VJD5boz2V",
+                            "choice_EyS5mN60E",
+                            "choice_NJ4T74T04"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'élément-clé qui permet d'effectuer son travail avec ferveur et efficacité ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L'adhésion émotionnelle est le moteur qui nous pousse à nous impliquer à tous les niveaux dans les tâches que nous entreprenons.",
+            "tips": "Notre mental a tendance à prendre le dessus au détriment de nos ressentis émotionnels. La pleine conscience nous amène à une perception plus fine et plus sereine de nos émotions.",
+            "clue": "Le contraire du rejet.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sans {{inp17905}} émotionnelle ni mentale, le travail se fait difficilement.",
+            "label_Eygyv~iG2N": " ",
+            "placeholder_Nk~JPZozhN": " ",
+            "label_EylvuboGhN": " ",
+            "placeholder_VJbv-bif2E": " ",
+            "choice_4kGv-biM3E": "adhésion",
+            "choice_41ntWsf34": "acceptation",
+            "choice_4kfcZsM2E": "intégration",
+            "choice_VJD5boz2V": "approbation",
+            "choice_EyS5mN60E": "attache",
+            "choice_NJ4T74T04": "conviction"
+        },
+        "en": {
+            "explanation": "Enter your answer.",
+            "header": "What key concept helps us work more efficiently?",
+            "klf": "Emotional attachment is what drives us to get involved with tasks at all levels.",
+            "tips": "Our mind often takes over, to the detriment of our emotional feelings. Mindfulness gives us a calmer and more astute sense of our emotions.",
+            "clue": "The opposite of rejection.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Work is difficult without emotional or mental {{inp17905}}.",
+            "label_Eygyv~iG2N": " ",
+            "placeholder_Nk~JPZozhN": " ",
+            "label_EylvuboGhN": " ",
+            "placeholder_VJbv-bif2E": " ",
+            "choice_4kGv-biM3E": "support",
+            "choice_41ntWsf34": "acceptance",
+            "choice_4kfcZsM2E": "integration",
+            "choice_VJD5boz2V": "approval",
+            "choice_EyS5mN60E": "attachment",
+            "choice_NJ4T74T04": "belief"
+        }
+    }
+}

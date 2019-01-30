@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T09:44:38.772Z",
+            "updatedAt": "2018-06-21T10:29:42.974Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41Y-6uV54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkjvRRs34",
+        "universalRef": "sli_EkjvRRs34",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EkjvRRs34.field_412WeJ2hV.id",
+                        "type": "text",
+                        "name": "inp76860",
+                        "label": "label_Eyl2bgJ22N",
+                        "placeholder": "placeholder_EJ~2ZlknhN"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp76860",
+                        "answers": [
+                            "choice_VyfnbxJ3hV",
+                            "choice_Vy9flJ3n4",
+                            "choice_Nkxmly22N",
+                            "choice_4ysQKuMRN"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que nous permet d'observer la pleine conscience ? ",
+            "explanation": "Saisissez votre texte.",
+            "klf": "C’est le simple fait de porter attention à soi et à la sensation de soi, dans l’instant même, qui nous amène à prendre conscience de nos automatismes comportementaux.",
+            "tips": "Le sage et penseur d'origine indienne Jiddu Krishnamurti (1895-1986) a mis en évidence les habitudes mécaniques et les automatismes humains en proposant de « se libérer du connu » par la présence attentive.",
+            "clue": "\"Comme d'habitude\", aurait dit Claude François...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La pleine conscience nous permet d’observer nos {{inp76860}} de comportement, dans l’instant-même.",
+            "label_NkBA00snV": " ",
+            "choice_EyeSRAAj34": "fonctionnements",
+            "choice_EyZrCARinE": "automatismes",
+            "choice_4y2JkJhnE": "habitudes",
+            "choice_Vk~e1y2h4": "engrenages",
+            "label_Eyl2bgJ22N": " ",
+            "placeholder_EJ~2ZlknhN": " ",
+            "choice_VyfnbxJ3hV": "automatismes",
+            "choice_Vy9flJ3n4": "engrenages",
+            "choice_Nkxmly22N": "habitudes",
+            "choice_4ysQKuMRN": "mécanismes"
+        },
+        "en": {
+            "explanation": "Grab your text.",
+            "header": "Mindfulness makes us aware of what kind of behaviour? ",
+            "klf": "When you refocus your attention on yourself and your feelings in the present moment, you become more mindful and aware of your habitual behaviour.",
+            "tips": "Indian philosopher and writer, Jiddu Krishnamurti (1895-1986) spoke about human beings’ habitual behaviour and automatic reflexes, suggesting we seek “freedom from the known” through mindfulness.",
+            "clue": "“It’s not unusual,” Tom Jones would say…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Mindfulness helps us observe {{inp76860}} while living in the moment.",
+            "label_NkBA00snV": " ",
+            "choice_EyeSRAAj34": "fonctionnements",
+            "choice_EyZrCARinE": "automatismes",
+            "choice_4y2JkJhnE": "habitudes",
+            "choice_Vk~e1y2h4": "engrenages",
+            "label_Eyl2bgJ22N": " ",
+            "placeholder_EJ~2ZlknhN": " ",
+            "choice_VyfnbxJ3hV": "our automatic reflexes",
+            "choice_Vy9flJ3n4": "chains of events",
+            "choice_Nkxmly22N": "our habits",
+            "choice_4ysQKuMRN": "our natural mechanisms"
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T10:00:24.754Z",
+            "updatedAt": "2018-05-14T13:24:18.964Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41Y-6uV54"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Eyc6lkn2V",
+        "universalRef": "sli_Eyc6lkn2V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Eyc6lkn2V.choice_4yzTbk2hE.id",
+                        "label": "choice_4yzTbk2hE",
+                        "value": "choice_4yzTbk2hE"
+                    },
+                    {
+                        "id": "sli_Eyc6lkn2V.choice_419a~Jn24.id",
+                        "label": "choice_419a~Jn24",
+                        "value": "choice_419a~Jn24"
+                    },
+                    {
+                        "id": "sli_Eyc6lkn2V.choice_V1z0b1h24.id",
+                        "label": "choice_V1z0b1h24",
+                        "value": "choice_V1z0b1h24"
+                    },
+                    {
+                        "id": "sli_Eyc6lkn2V.choice_EkKAbJhnN.id",
+                        "label": "choice_EkKAbJhnN",
+                        "value": "choice_EkKAbJhnN"
+                    },
+                    {
+                        "id": "sli_Eyc6lkn2V.choice_4JlJGyn3E.id",
+                        "label": "choice_4JlJGyn3E",
+                        "value": "choice_4JlJGyn3E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yzTbk2hE",
+                        "choice_419a~Jn24"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les assertions suivantes, saurez-vous identifier celles où ce mécanisme de projection est à l’œuvre ? ",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Par le mécanisme de projection, nous attribuons à ceux qui nous entourent nos propres contenus   : traits de personnalité, émotions, intentions, etc.",
+            "tips": "Platon fait déjà référence à ce mécanisme, dans <i>La République</i>, livre VII, lorsqu’il décrit le monde comme une caverne où les hommes prennent leur ombre pour la réalité extérieure.",
+            "clue": "Ce que je pense de l’autre est en moi",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yzTbk2hE": "Je n’aime pas chez l’autre ce que je n’aime pas chez moi ",
+            "choice_419a~Jn24": "J’admire chez autrui ce que j’aimerais être ",
+            "choice_V1z0b1h24": "Je pense que j’ai raison",
+            "choice_EkKAbJhnN": "J’imagine que je peux m’améliorer",
+            "choice_4JlJGyn3E": "J’espère que je ferais mieux la prochaine fois"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Parmi les assertions suivantes, saurez-vous identifier celles où ce mécanisme de projection est à l’œuvre ? ",
+            "klf": "Par le mécanisme de projection, nous attribuons à ceux qui nous entourent nos propres contenus   : traits de personnalité, émotions, intentions, etc.",
+            "tips": "Platon fait déjà référence à ce mécanisme, dans <i>La République</i>, livre VII, lorsqu’il décrit le monde comme une caverne où les hommes prennent leur ombre pour la réalité extérieure.",
+            "clue": "Ce que je pense de l’autre est en moi",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yzTbk2hE": "Je n’aime pas chez l’autre ce que je n’aime pas chez moi ",
+            "choice_419a~Jn24": "J’admire chez autrui ce que j’aimerais être ",
+            "choice_V1z0b1h24": "Je pense que j’ai raison",
+            "choice_EkKAbJhnN": "J’imagine que je peux m’améliorer",
+            "choice_4JlJGyn3E": "J’espère que je ferais mieux la prochaine fois"
+        }
+    }
+}
