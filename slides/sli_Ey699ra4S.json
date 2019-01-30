@@ -1,0 +1,102 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T13:43:44.139Z",
+            "updatedAt": "2018-10-08T14:08:11.500Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ey699ra4S",
+        "universalRef": "sli_Ey699ra4S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_Ey699ra4S.choice_EyuR5HpVr.id",
+                        "label": "choice_EyuR5HpVr",
+                        "value": "choice_EyuR5HpVr"
+                    },
+                    {
+                        "id": "sli_Ey699ra4S.choice_4ypCcr64S.id",
+                        "label": "choice_4ypCcr64S",
+                        "value": "choice_4ypCcr64S"
+                    },
+                    {
+                        "id": "sli_Ey699ra4S.choice_418ksB64S.id",
+                        "label": "choice_418ksB64S",
+                        "value": "choice_418ksB64S"
+                    },
+                    {
+                        "id": "sli_Ey699ra4S.choice_NJFeor6EB.id",
+                        "label": "choice_NJFeor6EB",
+                        "value": "choice_NJFeor6EB"
+                    },
+                    {
+                        "id": "sli_Ey699ra4S.choice_VygbsSpVH.id",
+                        "label": "choice_VygbsSpVH",
+                        "value": "choice_VygbsSpVH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VygbsSpVH",
+                        "choice_EyuR5HpVr",
+                        "choice_418ksB64S",
+                        "choice_4ypCcr64S",
+                        "choice_NJFeor6EB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Sélectionnez dans l'ordre les différentes étapes de la méthode Getting Things Done.",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La méthode GTD recommande de commencer par noter tout ce qui nous passe par la tête pour libérer son esprit, et de clarifier ensuite cette to-do list en se demandant si chaque tâche correspond à une action concrète à réaliser. Pour chaque tâche à actionner, la méthode préconise ensuite une organisation par contexte de réalisation, avant de définir les actions concrètes à entreprendre. Enfin, il s'agit en dernier lieu de prendre un recul suffisant sur sa to-do list pour s'assurer qu'elle reste pertinente au fil du temps, et d'être proactif dessus.",
+            "tips": "En analysant l’activité des lobes frontaux de 32 étudiants, les neurologues français Étienne Koechlin et Sylvain Charron, du Laboratoire de neurosciences cognitives de l’Inserm, ont montré que le cerveau n’était en mesure de coordonner que deux tâches simultanées. Selon eux, le cerveau semble incapable de se concentrer sur trois activités simultanées, sans que des erreurs soient commises.",
+            "clue": "Commençons par la profusion… et terminons par la grande vision.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuR5HpVr": "Clarifier votre to-do list",
+            "choice_4ypCcr64S": "Définir les prochaines actions concrètes",
+            "choice_418ksB64S": "S'organiser par contexte",
+            "choice_NJFeor6EB": "Prendre du recul et passer à l'action",
+            "choice_VygbsSpVH": "Tout noter pour libérer son esprit"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "There are a number of different steps in the GTD method. Select the order in which they should be carried out.",
+            "klf": "The GTD method suggests you free your mind by “capturing” everything as it comes into your head. In other words, you need to write it all down. Then you need to “clarify” your To Do list by working out if each item corresponds to an action that needs to be carried out. Next, you should “organise” each actionable task by categorising each item according to the context in which it needs to be achieved. Then you “reflect” on your list and work out the exact action that needs to be taken. Finally, take a good step back from your To Do list to make sure everything on it is still relevant. Then you can “engage” and start working through the list.",
+            "tips": "French Neuroscientists, Étienne Koechlin and Sylvain Charron from the INSERM Biomedical Research Agency, analysed the frontal lobe activity of 32 students. Their research revealed that the brain was unable to coordinate two tasks at the same time. They also found that the brain appeared to be completely incapable of focusing on three simultaneous activities without making mistakes.",
+            "clue": "Let’s begin with abundance… and finish with the bigger picture.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuR5HpVr": "Clarifying your To Do list",
+            "choice_4ypCcr64S": "Reflecting on your To Do list and identifying actions",
+            "choice_418ksB64S": "Organising your work according to context",
+            "choice_NJFeor6EB": "Taking a step back and engaging",
+            "choice_VygbsSpVH": "Capturing everything in your mind by writing it down"
+        }
+    }
+}

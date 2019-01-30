@@ -1,0 +1,75 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T14:55:42.856Z",
+            "updatedAt": "2018-08-29T07:53:27.000Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJegzjzBH",
+        "universalRef": "sli_VJegzjzBH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_VJegzjzBH.id",
+                "min": 0,
+                "max": 5,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de temps est-il nécessaire en moyenne pour traiter 50 mails ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Pour s’apercevoir de la quantité de temps que nous prennent certaines tâches liées aux outils digitaux, on peut noter que traiter 50 mails prend jusqu'à 3 heures.",
+            "tips": "Un cadre reçoit environ 88 mails par jour, il en envoie 33.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "3",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "en": {
+            "explanation": "Drag the slider.",
+            "header": "Combien de temps est-il nécessaire en moyenne pour traiter 50 mails ?",
+            "klf": "Pour s’apercevoir de la quantité de temps que nous prennent certaines tâches liées aux outils digitaux, on peut noter que traiter 50 mails prend jusqu'à 3 heures.",
+            "tips": "Un cadre reçoit environ 88 mails par jour, il en envoie 33.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "3",
+            "answerMin": 0,
+            "answerMax": 0
+        }
+    }
+}

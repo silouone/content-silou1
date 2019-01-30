@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:25:43.856Z",
+            "updatedAt": "2018-10-08T14:16:18.610Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ek5X1CI7r",
+        "universalRef": "sli_Ek5X1CI7r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek5X1CI7r.choice_NyDLJCLXH.id",
+                        "label": "choice_NyDLJCLXH",
+                        "value": "choice_NyDLJCLXH"
+                    },
+                    {
+                        "id": "sli_Ek5X1CI7r.choice_NJpLy08QH.id",
+                        "label": "choice_NJpLy08QH",
+                        "value": "choice_NJpLy08QH"
+                    },
+                    {
+                        "id": "sli_Ek5X1CI7r.choice_NyJD10Imr.id",
+                        "label": "choice_NyJD10Imr",
+                        "value": "choice_NyJD10Imr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyJD10Imr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le critère proposé par la méthode LIMITER pour prioriser ses tâches ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La méthode LIMITER incite à prioriser ses tâches en fonction de leur importance pour la mission globale.",
+            "tips": "A en croire l’étude menée en avril 2012 par Sciforma, les to-do listes de 78 % des salariés se révèlent peu efficaces puisqu'à la fin de la journée, ils reconnaissent avoir accompli seulement 43v% des tâches prévues.",
+            "clue": "Pensez \"global picture\" !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyDLJCLXH": "Attrait : les plus plaisantes d'abord",
+            "choice_NJpLy08QH": "Temps alloué : les plus rapides d'abord",
+            "choice_NyJD10Imr": "Importance : celles-ci viennent en premier"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Which criterion does the LIMITER method use for prioritising tasks?",
+            "klf": "The LIMITER method suggests you prioritise tasks by importance in relation to your overall work objectives.",
+            "tips": "A Sciforma study carried out in April 2012 found that 78% of employee To Do lists weren’t very effective because members of staff were only achieving 43% of planned tasks by the end of each day.",
+            "clue": "Think about the complete picture!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyDLJCLXH": "Appeal: the most pleasant first",
+            "choice_NJpLy08QH": "Allotted time: the quickest first",
+            "choice_NyJD10Imr": "Importance: the most important tasks should be done first"
+        }
+    }
+}

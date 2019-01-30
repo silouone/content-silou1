@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:22:54.425Z",
+            "updatedAt": "2018-10-08T14:14:01.239Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1BrCpLmS",
+        "universalRef": "sli_N1BrCpLmS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel79869",
+                        "items": [
+                            {
+                                "text": "choice_E1lqr06L7S",
+                                "value": "choice_E1lqr06L7S"
+                            },
+                            {
+                                "text": "choice_NkWqBC6LQS",
+                                "value": "choice_NkWqBC6LQS"
+                            },
+                            {
+                                "text": "choice_Ey2LCpLmB",
+                                "value": "choice_Ey2LCpLmB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel79869",
+                        "answers": [
+                            "choice_E1lqr06L7S"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment bien lister les tâches de sa to-do list LIMITER ? ",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une fois que vous avez fixé une limite à l’amplitude de votre journée de travail, vous devez lister toutes vos tâches, tous temps confondus : réunions, réflexion de fond, lecture de votre boîte mail, coups de fil, mails à envoyer, temps de pause, déjeuner…sans oublier les imprévus !",
+            "tips": "Travailler de longues heures ne garantit pas une augmentation de productivité. Comme le rappelle Chris Dillow dans son étude de 2017 basée sur les données de l’OCDE, il existe une corrélation négative entre la durée du travail et la productivité. Par exemple, la France se caractérise par une faible durée du travail, mais aussi par une forte productivité.",
+            "clue": "Un beau mélange !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La veille d’une journée dense, vous décidez de bien préparer votre to-do liste grâce à la méthode LIMITER. Après avoir fixé une limite de la durée de votre journée de travail, vous {{sel79869}}.",
+            "choice_E1lqr06L7S": "listez toutes tâches, quelle que soit leur nature et leur durée ",
+            "choice_NkWqBC6LQS": "listez les tâches selon leur attrait",
+            "choice_Ey2LCpLmB": "listez uniquement les tâches urgentes"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "What’s the best way to itemise tasks on your LIMITER To Do list? ",
+            "klf": "Once you’ve set a time limit for all the work that needs to be done that day, you then list all your tasks and related timings. Tasks may include meetings, things you need to think about, reading and sending emails, making phone calls, having lunch, taking breaks… and don’t forget that something unexpected always crops up!",
+            "tips": "Long hours at work don’t necessarily lead to increased productivity. In 2017, Chris Dillow conducted a study based on data from the Organisation for Economic Cooperation and Development (OECD). He said there’s a negative correlation between productivity and the period of time you spend working. For example, France is known for having a short working week, but also for being highly productive.",
+            "clue": "A good mix!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The evening before you have a busy day, you decide to draft a good To Do list using the LIMITER method. Once you’ve set an overall time limit for your working day, you {{sel79869}}.",
+            "choice_E1lqr06L7S": "list all the tasks you need to do, whatever they are and however long they take ",
+            "choice_NkWqBC6LQS": "list all your tasks in order of how appealing they are",
+            "choice_Ey2LCpLmB": "list only the tasks that are urgent"
+        }
+    }
+}

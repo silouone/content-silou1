@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:24:26.610Z",
+            "updatedAt": "2018-10-08T14:15:02.862Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JuR0pLXH",
+        "universalRef": "sli_4JuR0pLXH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel71028",
+                        "items": [
+                            {
+                                "text": "choice_EyxWyRUQr",
+                                "value": "choice_EyxWyRUQr"
+                            },
+                            {
+                                "text": "choice_VyxeWk0IXr",
+                                "value": "choice_VyxeWk0IXr"
+                            },
+                            {
+                                "text": "choice_N1mG1CU7S",
+                                "value": "choice_N1mG1CU7S"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel71028",
+                        "answers": [
+                            "choice_EyxWyRUQr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la méthode LIMITER traite-t-elle les imprévus ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Puisque les imprévus font partie intégrante du quotidien au travail, il est nécessaire d’y réserver du temps pour les gérer sereinement plutôt que les subir.",
+            "tips": "Selon certaines recherches en neurosciences, nous passons plus de 12 % de notre temps à anticiper le futur, ce qui équivaut à environ une heure sur huit dans notre journée. Le stress généré par les imprévus est ainsi facilement compréhensible.",
+            "clue": "N'allons pas rajouter de la charge à la surcharge...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La méthode LIMITER {{sel71028}} les imprévus.",
+            "choice_EyxWyRUQr": "réserve du temps pour ",
+            "choice_VyxeWk0IXr": "rajoute du temps pour",
+            "choice_N1mG1CU7S": "n’inclut pas"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "How does the LIMITER method deal with unforeseen occurrences?",
+            "klf": "Unforeseen occurrences are an integral part of the working day, so you need to put some time aside to deal with them calmly. It’s so much better than allowing unexpected tasks to stress you out.",
+            "tips": "According to neuroscientific research, we spend more than 12% of our time anticipating the future. That’s the equivalent of around one hour in an eight-hour working day. So, you can easily understand why we get stressed when unexpected issues crop up.",
+            "clue": "Don’t add to the additional…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The LIMITER method {{sel71028}} unforeseen occurrences.",
+            "choice_EyxWyRUQr": "puts time aside for ",
+            "choice_VyxeWk0IXr": "adds on time for ",
+            "choice_N1mG1CU7S": "doesn’t include"
+        }
+    }
+}

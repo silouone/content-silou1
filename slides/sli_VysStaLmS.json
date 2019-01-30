@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:03:28.737Z",
+            "updatedAt": "2018-10-08T14:03:37.831Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VysStaLmS",
+        "universalRef": "sli_VysStaLmS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VysStaLmS.choice_NJW75aUQB.id",
+                        "label": "choice_NJW75aUQB",
+                        "value": "choice_NJW75aUQB"
+                    },
+                    {
+                        "id": "sli_VysStaLmS.choice_N1f75a8XB.id",
+                        "label": "choice_N1f75a8XB",
+                        "value": "choice_N1f75a8XB"
+                    },
+                    {
+                        "id": "sli_VysStaLmS.choice_VJFQcaUXr.id",
+                        "label": "choice_VJFQcaUXr",
+                        "value": "choice_VJFQcaUXr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJW75aUQB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que conseille la méthode Getting Things Done au cas où une action de votre to-do list ne peut pas être réalisée immédiatement ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si l’action n’est pas possible tout de suite, il est conseillé de la placer dans un dossier « Incubation ». Vous pourrez éventuellement y revenir lorsque vous serez amené à identifier les prochaines actions concrètes à entreprendre.",
+            "tips": "Dans une interview donnée à <i>Wired</i>, Jeff Bezos, le patron d’Amazon, a révélé qu’il gardait deux jour par semaine sans emploi du temps défini. Cette vacuité lui permet de laisser son esprit vagabonder pour générer de nouvelles idées.",
+            "clue": "La réflexion n'est pas incompatible avec l'efficacité.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJW75aUQB": "La placer dans une liste « Incubation »",
+            "choice_N1f75a8XB": "La placer dans une liste « Actions prioritaires »",
+            "choice_VJFQcaUXr": "La supprimer"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What does the Getting Things Done method suggest you do when an action on your To Do list can’t be carried out immediately?",
+            "klf": "If an action can’t be carried out right away, then it’s best to put it in a file marked “Incubation”. You can then return to it as and when you’ve identified the next concrete actions that need to be carried out in relation to that item.",
+            "tips": "In an interview for <i>Wired</i> magazine, Amazon CEO, Jeff Bezos revealed he keeps two days a week free from pre-determined tasks. Having an empty schedule on those days means his mind has time to wander and generate new ideas.",
+            "clue": "Thought and efficiency are not incompatible.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJW75aUQB": "Put it on an “incubation” list",
+            "choice_N1f75a8XB": "Put it on a “Next actions” list",
+            "choice_VJFQcaUXr": "Put it to one side"
+        }
+    }
+}

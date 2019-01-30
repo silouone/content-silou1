@@ -1,0 +1,93 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:15:03.920Z",
+            "updatedAt": "2018-10-08T15:13:18.848Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JTm3-fHB",
+        "universalRef": "sli_4JTm3-fHB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4JTm3-fHB.choice_EJyrndGrH.id",
+                        "label": "choice_EJyrndGrH",
+                        "value": "choice_EJyrndGrH"
+                    },
+                    {
+                        "id": "sli_4JTm3-fHB.choice_4JNSn-GHH.id",
+                        "label": "choice_4JNSn-GHH",
+                        "value": "choice_4JNSn-GHH"
+                    },
+                    {
+                        "id": "sli_4JTm3-fHB.choice_VyCB3OfSH.id",
+                        "label": "choice_VyCB3OfSH",
+                        "value": "choice_VyCB3OfSH"
+                    },
+                    {
+                        "id": "sli_4JTm3-fHB.choice_4k7U3dGSB.id",
+                        "label": "choice_4k7U3dGSB",
+                        "value": "choice_4k7U3dGSB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyCB3OfSH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment gagner du temps pour réaliser votre veille plus efficacement ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Une veille manuelle (tout comme la consultation quotidienne de ses favoris) prend énormément de temps et risque plutôt de vous desservir. Afin d’optimiser votre temps, pensez à automatiser votre veille grâce à des outils digitaux appropriés, comme Google Alertes, l'abonnement aux flus RSS ou les newsletter ciblées.",
+            "tips": "Certains services, comme Feedburner, permettent de transformer une newsletter en flux RSS.",
+            "clue": "On n'arrête pas le progrès...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJyrndGrH": "Consulter tous les jours vos favoris manuellement",
+            "choice_4JNSn-GHH": "Lancer des recherches quotidiennes sur Google",
+            "choice_VyCB3OfSH": "Automatiser votre veille grâce à des outils digitaux appropriés",
+            "choice_4k7U3dGSB": "Utiliser Twitter en priorité",
+            "choice_EysI2-frH": "s'abonner à des newsletters"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "How can you save time doing effective media monitoring?",
+            "klf": "Manual media monitoring (such as checking a range of relevant websites each day), can take up huge amounts of time which can then put you at a disadvantage. To save time, think about using appropriate online tools to help with the monitoring process. Google Alerts is one such tool, or you could sign up to an RSS feed or targeted newsletter.",
+            "tips": "Some services, like Feedburner, can convert newsletters into RSS feeds and vice versa.",
+            "clue": "You can’t stop progress…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJyrndGrH": "By manually checking your favourite websites each day",
+            "choice_4JNSn-GHH": "By doing Google searches every day",
+            "choice_VyCB3OfSH": "By automating your media monitoring using appropriate digital tools",
+            "choice_4k7U3dGSB": "By using Twitter above and beyond anything else",
+            "choice_EysI2-frH": "s'abonner à des newsletters"
+        }
+    }
+}

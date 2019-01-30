@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:11:51.424Z",
+            "updatedAt": "2018-10-08T15:10:42.203Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyetjuMrS",
+        "universalRef": "sli_NyetjuMrS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyetjuMrS.choice_EyxcjdMrB.id",
+                        "label": "choice_EyxcjdMrB",
+                        "value": "choice_EyxcjdMrB"
+                    },
+                    {
+                        "id": "sli_NyetjuMrS.choice_EyL5i-zSr.id",
+                        "label": "choice_EyL5i-zSr",
+                        "value": "choice_EyL5i-zSr"
+                    },
+                    {
+                        "id": "sli_NyetjuMrS.choice_Nka5idMHr.id",
+                        "label": "choice_Nka5idMHr",
+                        "value": "choice_Nka5idMHr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyxcjdMrB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu’est-ce que la veille ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Utile pour tous les métiers et secteurs d’activité, la veille représente un processus informationnel ayant pour objectif d’anticiper les évolutions et les innovations de son secteur d'activité.",
+            "tips": "La veille est une discipline à part entière qui demande régularité et patience. C'est un travail qui ne porte ses fruits que s’il s’inscrit dans une perspective de long-terme : il faut donc avoir une idée assez définie de la direction dans laquelle on souhaite aller, tout en sachant rester agile...",
+            "clue": "Au goût du jour !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxcjdMrB": "Un processus informationnel pour anticiper les évolutions de son secteur",
+            "choice_EyL5i-zSr": "Une demi-journée par semaine dédiée à l'innovation en entreprise",
+            "choice_Nka5idMHr": "Un modèle marketing pour attirer de nouveaux clients"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "What is media monitoring?",
+            "klf": "Media monitoring is useful in all jobs and across all sectors. It’s the process of capturing relevant media information to make you aware of the latest developments and innovations in your industry.",
+            "tips": "Media monitoring is a field in its own right and needs to be done regularly and patiently. It’s a job that only pays dividends when you take a long-term approach. You have to have a clear idea of the direction you want to go in and remember to be agile and flexible in the way you deal with the information.",
+            "clue": "Stay up-to-date!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxcjdMrB": "The process of collating media information so you’re aware of the latest industry developments",
+            "choice_EyL5i-zSr": "Devoting half a day each week to business innovation",
+            "choice_Nka5idMHr": "A marketing model for attracting new clients"
+        }
+    }
+}

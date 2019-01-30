@@ -1,0 +1,78 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T15:01:10.314Z",
+            "updatedAt": "2018-10-08T14:58:04.837Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1s5ZU~SS",
+        "universalRef": "sli_E1s5ZU~SS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1s5ZU~SS.choice_EyxL2W8ZSB.id",
+                        "label": "choice_EyxL2W8ZSB",
+                        "value": "choice_EyxL2W8ZSB",
+                        "media": "med_N182WIbrr"
+                    },
+                    {
+                        "id": "sli_E1s5ZU~SS.choice_V1eXa~8WSB.id",
+                        "label": "choice_V1eXa~8WSB",
+                        "value": "choice_V1eXa~8WSB",
+                        "media": "med_Ek7TZUWHr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyxL2W8ZSB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le télétravail permet de mieux se concentrer sur les tâches à accomplir. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Moyen efficace de se protéger contre les sollicitations indésirables, le télétravail permet aux salariés de mieux se concentrer sur leur travail, notamment celui de fond.",
+            "tips": "Selon les recherches de la société Jabra, en 2018, son chez-soi est considéré comme le lieu où l’on est le plus productif pour travailler.",
+            "clue": "Se tenir loin du tourbillon géant !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxL2W8ZSB": "Vrai",
+            "choice_V1eXa~8WSB": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Remote working means you can really focus on the task at hand. True or false?",
+            "klf": "Remote working is a great way to distance yourself from unwanted workplace demands. Employees can focus more on their work, especially if it requires more in-depth thinking.",
+            "tips": "A 2018 study conducted by Jabra revealed that we’re most productive when working from home.",
+            "clue": "Keep away from the crazy whirlwind!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxL2W8ZSB": "True",
+            "choice_V1eXa~8WSB": "False"
+        }
+    }
+}

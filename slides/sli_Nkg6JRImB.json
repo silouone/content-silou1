@@ -1,0 +1,86 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:29:12.742Z",
+            "updatedAt": "2018-10-08T14:18:36.224Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nkg6JRImB",
+        "universalRef": "sli_Nkg6JRImB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nkg6JRImB.choice_41eiHu6RVr.id",
+                        "label": "choice_41eiHu6RVr",
+                        "value": "choice_41eiHu6RVr",
+                        "media": "med_VkoSuT0VH"
+                    },
+                    {
+                        "id": "sli_Nkg6JRImB.choice_VyxiIupRVB.id",
+                        "label": "choice_VyxiIupRVB",
+                        "value": "choice_VyxiIupRVB",
+                        "media": "med_4koU-6ANr"
+                    },
+                    {
+                        "id": "sli_Nkg6JRImB.choice_E1gIDOTR4B.id",
+                        "label": "choice_E1gIDOTR4B",
+                        "value": "choice_E1gIDOTR4B",
+                        "media": "med_EyIw-pR4B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41eiHu6RVr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "A quoi correspond la lettre T dans l’acronyme LIMITER ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En préparant votre to-do liste avec la méthode LIMITER, une fois que vous avez indiqué la durée réaliste des tâches, vient le moment de totaliser les heures en prenant vos tâches dans l’ordre de priorité. Les heures d’imprévus sont à prendre en compte dès le départ !",
+            "tips": "L'usine d'assemblage Toyota de Göteborg (Suède) pratique les journées de six heures pour ses mécaniciens et ses employés de bureau depuis 16 ans. Selon les managers, le personnel se sent mieux, il y a moins de turn-over et le recrutement est plus facile. De surcroît, les profits du site ont ainsi augmenté de 25 % et les salaires des employés se maintiennent au-dessus de la moyenne dans le secteur.",
+            "clue": "1+1 =",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eiHu6RVr": "Totaliser les heures",
+            "choice_VyxiIupRVB": "Trouver les tâches à réaliser",
+            "choice_E1gIDOTR4B": "Traiter l'urgence d'abord"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What does the T stand for in LIMITER?",
+            "klf": "Once you’ve put together a To Do list using the LIMITER method and also set a realistic time-frame for each of your tasks, you then need to tot up the total number of hours in order of task priority. From the outset, you need to take into account the time you’ll spend on unforeseen occurrences.",
+            "tips": "For sixteen years now, mechanics and office workers at Toyota’s Gothenburg assembly plant in Sweden have worked just six-hour days. According to managers, employees feel better, the staff turnover rate is lower, and it’s easier to recruit. What’s more, site profits have increased by 25% as a result, and employee salaries remain above the industry average.",
+            "clue": "1+1 =",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eiHu6RVr": "Tot up the total number of hours",
+            "choice_VyxiIupRVB": "Talk about the tasks you need to do",
+            "choice_E1gIDOTR4B": "Take care of anything urgent first"
+        }
+    }
+}

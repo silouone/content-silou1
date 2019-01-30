@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T13:03:52.323Z",
+            "updatedAt": "2018-10-08T14:52:17.980Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1dNZHaEr",
+        "universalRef": "sli_V1dNZHaEr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel58543",
+                        "items": [
+                            {
+                                "text": "choice_EyetcbS64B",
+                                "value": "choice_EyetcbS64B"
+                            },
+                            {
+                                "text": "choice_EJWKcWHT4H",
+                                "value": "choice_EJWKcWHT4H"
+                            },
+                            {
+                                "text": "choice_Ey8h~BaES",
+                                "value": "choice_Ey8h~BaES"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel58543",
+                        "answers": [
+                            "choice_EJWKcWHT4H"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous définir la règle à suivre pour bien appliquer le Kanban ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La méthode Kanban se base sur les règles suivantes : commencez toujours par vos tâches prévues pour le jour-même, notez les changements au fur et à mesure et respectez les rôles et les processus en place.",
+            "tips": "Il est fortement conseillé de limiter le nombre de tâches (idéalement à trois maximum) dans la colonne en cours.",
+            "clue": "Demain est un autre jour.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour bien réaliser votre Kanban, il faut toujours commencer par les tâches {{sel58543}}.",
+            "choice_EyetcbS64B": "à faire en équipe",
+            "choice_EJWKcWHT4H": "prévues pour le jour même",
+            "choice_Ey8h~BaES": "les plus chronophages"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "Complete the following Kanban rule.",
+            "klf": "The Kanban rules are as follows: always start with tasks that need to be carried out that day, stay abreast of any changes, and respect individual roles and established processes.",
+            "tips": "One key recommendation is to limit the number of tasks in the Doing column (ideally a maximum of three).",
+            "clue": "Tomorrow is another day.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "If you want to run a successful Kanban system, you should always begin with tasks {{sel58543}}.",
+            "choice_EyetcbS64B": " that need to be done as a team ",
+            "choice_EJWKcWHT4H": "that need to be done that day ",
+            "choice_Ey8h~BaES": "that will take the most time"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T08:18:08.724Z",
+            "updatedAt": "2018-10-08T14:34:49.210Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJ7x0dR7H",
+        "universalRef": "sli_VJ7x0dR7H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJ7x0dR7H.choice_NJvQ0uA7S.id",
+                        "label": "choice_NJvQ0uA7S",
+                        "value": "choice_NJvQ0uA7S"
+                    },
+                    {
+                        "id": "sli_VJ7x0dR7H.choice_VJFm0dCXS.id",
+                        "label": "choice_VJFm0dCXS",
+                        "value": "choice_VJFm0dCXS"
+                    },
+                    {
+                        "id": "sli_VJ7x0dR7H.choice_NkgN0-A7r.id",
+                        "label": "choice_NkgN0-A7r",
+                        "value": "choice_NkgN0-A7r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJvQ0uA7S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'objectif de la méthode LEAN ? ",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La méthode LEAN vise à mettre en place une meilleure gestion de la production. Elle a pour objectif de fournir un travail de grande qualité avec un minimum d'argent, de ressources et de temps.",
+            "tips": "Proche de la méthode LEAN, le Six Sigma est une méthodologie d’amélioration continue et de la conduite du changement visant à accroître la performance de l’entreprise. L’efficacité de cette méthode repose sur l’implication de toutes les ressources humaines de l’entreprise reparties en strates en fonction de leurs savoir-faire croissant en matière de la conduite du changement : le White, Yellow, Green, Black ou Master Black Belt.",
+            "clue": "L'administratif relève d'un autre domaine.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJvQ0uA7S": "Une meilleure gestion de la production",
+            "choice_VJFm0dCXS": "Une gestion administrative",
+            "choice_NkgN0-A7r": "Une gestion des flux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What’s the main aim of the Lean method? ",
+            "klf": "The aim of the LEAN method is to establish better production management techniques. LEAN helps you focus on supplying high-quality work at the lowest possible cost using minimum resources and time.",
+            "tips": "Six Sigma is similar to the LEAN method. It focuses on continuous improvement and change management with the aim of increasing a company’s performance. This method is particularly effective as it involves all members of staff across an organisation. Employees are allocated different levels according to their increasing knowledge of change management. The levels are represented by different colour belts: White, Yellow, Green, Black or Master Black Belt.",
+            "clue": "Administration is something quite different.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJvQ0uA7S": "Better production management",
+            "choice_VJFm0dCXS": "Administrative management",
+            "choice_NkgN0-A7r": "Work flow management"
+        }
+    }
+}

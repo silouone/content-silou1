@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T15:06:48.307Z",
+            "updatedAt": "2018-10-08T15:07:28.083Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1t1mU~SS",
+        "universalRef": "sli_V1t1mU~SS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel63321",
+                        "items": [
+                            {
+                                "text": "choice_VJlkyPHywB",
+                                "value": "choice_VJlkyPHywB"
+                            },
+                            {
+                                "text": "choice_EyW11DByDB",
+                                "value": "choice_EyW11DByDB"
+                            },
+                            {
+                                "text": "choice_VyGewHkDH",
+                                "value": "choice_VyGewHkDH"
+                            },
+                            {
+                                "text": "choice_4kGWvHywS",
+                                "value": "choice_4kGWvHywS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel63321",
+                        "answers": [
+                            "choice_VyGewHkDH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la condition essentielle pour réussir votre télétravail ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La condition essentielle du télétravail réussi est de pouvoir accéder à tous ses documents de travail depuis chez soi.",
+            "tips": "La réduction du temps passé sur le lieu de travail force à l’efficacité des séances collectives.",
+            "clue": "Clés en main, et c'est parti !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "S'assurer de pouvoir {{sel63321}}.",
+            "choice_VJlkyPHywB": "séparer les tâches par créneaux d'une heure",
+            "choice_EyW11DByDB": "travailler uniquement sur des tâches individuelles",
+            "choice_VyGewHkDH": "accéder à tous vos documents de travail depuis chez vous",
+            "choice_4kGWvHywS": "copier vos fichiers sur votre portable"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "Which of the following situations is essential when working from home?",
+            "klf": "If you want to work successfully from home, you must be able to access all the work documents you need.",
+            "tips": "Less time in the office means that group meetings have to be more efficient and effective.",
+            "clue": "Get what you need, and you’re ready to go!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You need to make sure you {{sel63321}}.",
+            "choice_VJlkyPHywB": "separate tasks into one hour time slots",
+            "choice_EyW11DByDB": "work only on individual as opposed to collaborative tasks",
+            "choice_VyGewHkDH": "can access all your work documents from home",
+            "choice_4kGWvHywS": "copy your files onto your laptop"
+        }
+    }
+}

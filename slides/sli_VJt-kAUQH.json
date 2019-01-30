@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:26:57.446Z",
+            "updatedAt": "2018-10-08T14:17:07.818Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJt-kAUQH",
+        "universalRef": "sli_VJt-kAUQH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJt-kAUQH.choice_N14oyCLXH.id",
+                        "label": "choice_N14oyCLXH",
+                        "value": "choice_N14oyCLXH"
+                    },
+                    {
+                        "id": "sli_VJt-kAUQH.choice_EkHsk0LXB.id",
+                        "label": "choice_EkHsk0LXB",
+                        "value": "choice_EkHsk0LXB"
+                    },
+                    {
+                        "id": "sli_VJt-kAUQH.choice_VJqiyAL7B.id",
+                        "label": "choice_VJqiyAL7B",
+                        "value": "choice_VJqiyAL7B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N14oyCLXH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En cas de doute, comment être sûr d'allouer assez de temps à chaque tâche ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Selon la méthode LIMITER, c’est votre expérience qui vous permettra d’indiquer une durée réaliste pour chaque tâche. Dans le doute, multipliez par 1,2 votre première estimation.",
+            "tips": "Il est fortement recommandé de commencer votre journée par votre toute première tâche, sans regarder vos mails au préalable, pour rester dans une dynamique de concentration optimale pour votre tâche prioritaire.",
+            "clue": "Restons réaliste.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N14oyCLXH": "Multiplier par 1,2 votre première estimation",
+            "choice_EkHsk0LXB": "Commencer votre journée plus tôt et finir plus tard",
+            "choice_VJqiyAL7B": "Multiplier par 5 le temps prévu"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "If in doubt, how can you be sure you’ve allotted enough time to do each task?",
+            "klf": "According to the LIMITER method, your own past experience will help you judge how much time you should realistically allow for each task. If in doubt, multiply your initial estimation by 1.2.",
+            "tips": "The LIMITER method says you should begin your day with your first task rather than looking at your emails first thing. That way you’ll be as focused as possible when you do your highest-priority task.",
+            "clue": "Be realistic.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N14oyCLXH": "Multiply your first estimation by 1.2",
+            "choice_EkHsk0LXB": "Begin your day earlier and finish later",
+            "choice_VJqiyAL7B": "Multiply your time estimation by 5"
+        }
+    }
+}

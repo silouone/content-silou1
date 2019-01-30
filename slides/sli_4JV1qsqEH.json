@@ -1,0 +1,74 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-01T13:51:42.051Z",
+            "updatedAt": "2018-10-08T13:56:22.459Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JV1qsqEH",
+        "universalRef": "sli_4JV1qsqEH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4JV1qsqEH.id",
+                "min": 1,
+                "max": 8,
+                "step": 1,
+                "defaultValue": 1,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de types de tâches différents sont identifiés par la matrice Eisenhower ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "La matrice Eisenhower identifie 4 types de tâches : les tâches importantes et urgentes, les tâches non urgentes mais importantes, les tâches urgentes mais pas importantes, et enfin les tâches qui ne sont ni urgentes ni importantes.",
+            "tips": "Elon Musk divise ses journées en mini-créneaux de 5 minutes pour réaliser le maximum de tâches urgentes et importantes.",
+            "clue": "Les saisons...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "4",
+            "answerMin": 4,
+            "answerMax": 4
+        },
+        "en": {
+            "explanation": "Move the cursor.",
+            "header": "How many different types of tasks are described in the Eisenhower Matrix?",
+            "klf": "There are 4 types of tasks in the Eisenhower Matrix: important and urgent tasks, non-urgent but important tasks, urgent tasks that are not important, and finally tasks that are neither urgent nor important.",
+            "tips": "Elon Musk divides his days up into mini-time slots of 5 minutes to achieve the maximum number of urgent, important tasks.",
+            "clue": "The seasons…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "4",
+            "answerMin": 4,
+            "answerMax": 4
+        }
+    }
+}

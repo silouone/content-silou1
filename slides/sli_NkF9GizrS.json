@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T14:59:10.236Z",
+            "updatedAt": "2018-08-29T07:53:34.300Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkF9GizrS",
+        "universalRef": "sli_NkF9GizrS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel49969",
+                        "items": [
+                            {
+                                "text": "choice_V1eKjGsGrS",
+                                "value": "choice_V1eKjGsGrS"
+                            },
+                            {
+                                "text": "choice_VyWtoMozrS",
+                                "value": "choice_VyWtoMozrS"
+                            },
+                            {
+                                "text": "choice_Vkj3MofHr",
+                                "value": "choice_Vkj3MofHr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel49969",
+                        "answers": [
+                            "choice_Vkj3MofHr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "De quelle manière est-il conseillé de consulter ses sources d’informations ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pour mieux gérer son temps et ainsi booster son efficacité, il est conseillé de consulter ses sources d’information de façon rituelle et organisée. En établissant un certain rituel de consultation, vous serez plus concentré le reste du temps. Ce genre de rituel est préférable à la situation où notre attention est constamment détournée par les notifications et alertes et nous sommes tentés de les consulter de suite.",
+            "tips": "Dans un article « Google nous rend-il bêtes ? » datant de 2011, l’auteur américain Nicholas Carr s’alarmait de sa difficulté de plus en plus grande à se concentrer sur des textes longs, soulignant la difficulté de la lecture sur écran constamment distraite par de nouveaux liens, notification ou publicités.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour une plus grande efficacité et meilleure gestion de votre temps, il est recommandé de consulter vos sources d’information {{sel49969}}.",
+            "choice_V1eKjGsGrS": "le plus souvent possible",
+            "choice_VyWtoMozrS": "quand vous recevez une notification",
+            "choice_Vkj3MofHr": "de façon rituelle"
+        },
+        "en": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "De quelle manière est-il conseillé de consulter ses sources d’informations ?",
+            "klf": "Pour mieux gérer son temps et ainsi booster son efficacité, il est conseillé de consulter ses sources d’information de façon rituelle et organisée. En établissant un certain rituel de consultation, vous serez plus concentré le reste du temps. Ce genre de rituel est préférable à la situation où notre attention est constamment détournée par les notifications et alertes et nous sommes tentés de les consulter de suite.",
+            "tips": "Dans un article « Google nous rend-il bêtes ? » datant de 2011, l’auteur américain Nicholas Carr s’alarmait de sa difficulté de plus en plus grande à se concentrer sur des textes longs, soulignant la difficulté de la lecture sur écran constamment distraite par de nouveaux liens, notification ou publicités.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour une plus grande efficacité et meilleure gestion de votre temps, il est recommandé de consulter vos sources d’information {{sel49969}}.",
+            "choice_V1eKjGsGrS": "le plus souvent possible",
+            "choice_VyWtoMozrS": "quand vous recevez une notification",
+            "choice_Vkj3MofHr": "de façon rituelle"
+        }
+    }
+}

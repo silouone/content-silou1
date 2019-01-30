@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T08:50:41.266Z",
+            "updatedAt": "2018-10-08T15:02:11.468Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJvDcebrB",
+        "universalRef": "sli_VJvDcebrB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJvDcebrB.choice_NJ4p9lWBH.id",
+                        "label": "choice_NJ4p9lWBH",
+                        "value": "choice_NJ4p9lWBH"
+                    },
+                    {
+                        "id": "sli_VJvDcebrB.choice_4y5p5xZHr.id",
+                        "label": "choice_4y5p5xZHr",
+                        "value": "choice_4y5p5xZHr"
+                    },
+                    {
+                        "id": "sli_VJvDcebrB.choice_EknRcgZHH.id",
+                        "label": "choice_EknRcgZHH",
+                        "value": "choice_EknRcgZHH"
+                    },
+                    {
+                        "id": "sli_VJvDcebrB.choice_4y~1jg~rH.id",
+                        "label": "choice_4y~1jg~rH",
+                        "value": "choice_4y~1jg~rH"
+                    },
+                    {
+                        "id": "sli_VJvDcebrB.choice_NkegsebHS.id",
+                        "label": "choice_NkegsebHS",
+                        "value": "choice_NkegsebHS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ4p9lWBH",
+                        "choice_4y5p5xZHr",
+                        "choice_EknRcgZHH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment peut-on répondre autrement à une demande de réunion qu'avec une présence physique classique ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Dans le cas où la réunion à laquelle vous êtes invité n’est pas indispensable, vous pouvez tenter de négocier votre présence en suggérant d’y envoyer un remplaçant, de participer par visioconférence ou de n’être que partiellement présent.",
+            "tips": "Concernant les réunions dont vous n'êtes pas l'organisateur, l’écrivain et entrepreneur américain Tim Ferriss conseille de négocier votre présence si elle n'est pas indispensable et de plutôt demander par la suite informellement à un collègue de vous raconter son contenu. Vous gagnerez ainsi du temps en réduisant une réunion d’une heure à une synthèse agréable de cinq minutes qui vous permettra d'en dégager les grandes lignes.",
+            "clue": "Différentes versions de moi.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ4p9lWBH": "Je peux envoyer un remplaçant",
+            "choice_4y5p5xZHr": "Je peux être partiellement présent ",
+            "choice_EknRcgZHH": "Je serai là par visioconférence",
+            "choice_4y~1jg~rH": "Je peux demander aux autres de s'adapter à mes préférences",
+            "choice_NkegsebHS": "Je peux faire savoir que cette réunion ne m’intéresse pas"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "What are the different ways of responding to a meeting request other than actually attending the meeting?",
+            "klf": "When you’ve been invited to a meeting but your attendance isn’t essential, you could suggest sending someone on your behalf, joining the meeting via Skype or just attending the meeting for part of the time.",
+            "tips": "American Writer and Entrepreneur, Tim Ferriss suggests you negotiate your presence at non-essential meetings organised by other people. Instead, you can ask a colleague to update you on a meeting after it takes place. You’ll buy yourself more time by reducing an hour-long meeting to a nice five-minute summary that pulls out key points from the session.",
+            "clue": "Different versions of me.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ4p9lWBH": "I could send someone on my behalf",
+            "choice_4y5p5xZHr": "I could attend just part of the meeting ",
+            "choice_EknRcgZHH": "I could attend via Skype",
+            "choice_4y~1jg~rH": "I could ask the others to fit in with what I want to do",
+            "choice_NkegsebHS": "I could let everyone know that I don’t think the meeting is that interesting"
+        }
+    }
+}

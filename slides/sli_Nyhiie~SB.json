@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T08:54:54.252Z",
+            "updatedAt": "2018-10-08T15:05:09.137Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nyhiie~SB",
+        "universalRef": "sli_Nyhiie~SB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel53493",
+                        "items": [
+                            {
+                                "text": "choice_NyekAilWBr",
+                                "value": "choice_NyekAilWBr"
+                            },
+                            {
+                                "text": "choice_Nyb1RixZrB",
+                                "value": "choice_Nyb1RixZrB"
+                            },
+                            {
+                                "text": "choice_4kty3gWSH",
+                                "value": "choice_4kty3gWSH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel53493",
+                        "answers": [
+                            "choice_4kty3gWSH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il communiquer aux participants avant la réunion ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Avant la réunion, il est fortement recommandé d’envoyer l'ordre du jour de la réunion à tous les participants de la réunion afin que ceux-ci puissent s’y préparer et comprendre clairement ses objectifs.",
+            "tips": "De plus en plus d’entreprises organisent des réunions debout afin d’éviter qu’elles ne s’éternisent. Cela permet aussi de leur donner plus d’énergie.",
+            "clue": "Que tout le monde suive !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Avant la réunion, il est recommandé de communiquer {{sel53493}} aux participants afin qu’ils puissent mieux comprendre ses objectifs.",
+            "choice_NyekAilWBr": "la liste des absents",
+            "choice_Nyb1RixZrB": "le compte rendu de la réunion précédente",
+            "choice_4kty3gWSH": "l'ordre du jour"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "What should you communicate to attendees before a meeting?",
+            "klf": "Before a meeting, it’s a really good idea to send an agenda out to all participants so they have a clear idea of the meeting’s objectives and can also prepare in advance.",
+            "tips": "An increasing number of businesses are organising stand-up meetings so sessions don’t go on forever. It’s also a good way of bringing more energy to a meeting.",
+            "clue": "Everyone must follow!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Before a meeting takes place, you should pass on {{sel53493}} to all participants so they know the meeting’s objectives in advance.",
+            "choice_NyekAilWBr": "a list of absentees ",
+            "choice_Nyb1RixZrB": "the minutes of the previous meeting ",
+            "choice_4kty3gWSH": "the agenda"
+        }
+    }
+}

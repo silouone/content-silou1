@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:45:57.776Z",
+            "updatedAt": "2018-10-08T13:52:14.768Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyiIHaLmS",
+        "universalRef": "sli_VyiIHaLmS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VyiIHaLmS.choice_EkrKQAA4S.id",
+                        "label": "choice_EkrKQAA4S",
+                        "value": "choice_EkrKQAA4S"
+                    },
+                    {
+                        "id": "sli_VyiIHaLmS.choice_NycF70RNB.id",
+                        "label": "choice_NycF70RNB",
+                        "value": "choice_NycF70RNB"
+                    },
+                    {
+                        "id": "sli_VyiIHaLmS.choice_4kM9m00EH.id",
+                        "label": "choice_4kM9m00EH",
+                        "value": "choice_4kM9m00EH"
+                    },
+                    {
+                        "id": "sli_VyiIHaLmS.choice_Vy2qm0CVH.id",
+                        "label": "choice_Vy2qm0CVH",
+                        "value": "choice_Vy2qm0CVH"
+                    },
+                    {
+                        "id": "sli_VyiIHaLmS.choice_NJKimCANH.id",
+                        "label": "choice_NJKimCANH",
+                        "value": "choice_NJKimCANH"
+                    },
+                    {
+                        "id": "sli_VyiIHaLmS.choice_E1WhQC0Vr.id",
+                        "label": "choice_E1WhQC0Vr",
+                        "value": "choice_E1WhQC0Vr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkrKQAA4S",
+                        "choice_4kM9m00EH",
+                        "choice_Vy2qm0CVH",
+                        "choice_NJKimCANH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les bénéfices d'une bonne identification de ses priorités ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Savoir définir ses priorités est une compétence essentielle pour concentrer son énergie sur ses objectifs, mieux gérer les imprévus et mener ses projets à bien dans les temps.",
+            "tips": "Selon l’auteure et conférencière américaine Laura Vanderkam, « Vous ne construisez pas la vie que vous voulez en gagnant du temps. Vous construisez la vie que vous voulez, puis le temps s'économise tout seul. Reconnaître cela rend le succès possible. »",
+            "clue": "Les relations interpersonnelles relèvent d'un autre domaine.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyOHRs9NH": "les imprévus",
+            "choice_EJTH0s9NB": "vos relations avec vos collègues",
+            "choice_Vyi80jqVH": "les résultats de votre équipe",
+            "choice_EkrKQAA4S": "Garder ses objectifs à l'esprit",
+            "choice_NycF70RNB": "Améliorer sa relation avec ses collègues",
+            "choice_4kM9m00EH": "Mieux gérer les imprévus",
+            "choice_Vy2qm0CVH": "Tenir les délais",
+            "choice_NJKimCANH": "Ne pas disperser son énergie",
+            "choice_E1WhQC0Vr": "Gagner la reconnaissance de son manager"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "What are the benefits of good prioritisation?",
+            "klf": "Knowing how to prioritise is essential if you want to focus your energy on achieving your objectives. Good prioritisation will also help you manage any unforeseen occurrences and successfully complete your projects on time.",
+            "tips": "According to Writer and Speaker, Laura Vanderkam, “we don’t build the lives we want by saving time. We build the lives we want, and then time saves itself. Recognising that is what makes success possible.”",
+            "clue": "Interpersonal relationships are a different type of skill.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyOHRs9NH": "les imprévus",
+            "choice_EJTH0s9NB": "vos relations avec vos collègues",
+            "choice_Vyi80jqVH": "les résultats de votre équipe",
+            "choice_EkrKQAA4S": "It helps you keep your objectives at the forefront of your mind",
+            "choice_NycF70RNB": "It improves your relationships with colleagues",
+            "choice_4kM9m00EH": "You manage unforeseen occurrences far better",
+            "choice_Vy2qm0CVH": "You stick more closely to deadlines",
+            "choice_NJKimCANH": "You waste far less energy",
+            "choice_E1WhQC0Vr": "You’re more likely to be praised by your manager"
+        }
+    }
+}
