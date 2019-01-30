@@ -1,0 +1,90 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-14T13:03:21.484Z",
+            "updatedAt": "2018-06-21T10:07:07.473Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkoPpuVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkEx8-z0V",
+        "universalRef": "sli_NkEx8-z0V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkEx8-z0V.choice_NyKJddfCV.id",
+                        "label": "choice_NyKJddfCV",
+                        "value": "choice_NyKJddfCV"
+                    },
+                    {
+                        "id": "sli_NkEx8-z0V.choice_V1MxuOzR4.id",
+                        "label": "choice_V1MxuOzR4",
+                        "value": "choice_V1MxuOzR4"
+                    },
+                    {
+                        "id": "sli_NkEx8-z0V.choice_EJ7bO-G0N.id",
+                        "label": "choice_EJ7bO-G0N",
+                        "value": "choice_EJ7bO-G0N"
+                    },
+                    {
+                        "id": "sli_NkEx8-z0V.choice_41Xfu-fRN.id",
+                        "label": "choice_41Xfu-fRN",
+                        "value": "choice_41Xfu-fRN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1MxuOzR4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la pleine conscience nous permet-elle de focaliser notre attention ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "La pleine conscience nous permet d'appréhender notre environnement global pour ensuite choisir consciemment sur quoi focaliser ou non notre attention.",
+            "tips": "Selon le philosophe Alain, \"L’art de faire attention, qui est le grand art, suppose l’art de ne pas faire attention, qui est l’art royal.\"",
+            "clue": "Pensez à la mise au point d'un appareil photo.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyKJddfCV": "En faisant abstraction totale du monde environnant pour rester obnubilé par un seul objet d'attention ",
+            "choice_V1MxuOzR4": "En prenant conscience de notre environnement global pour ensuite l'accepter en toile de fond",
+            "choice_EJ7bO-G0N": "En prêtant attention à chaque stimulus de manière égale",
+            "choice_41Xfu-fRN": "En se déconnectant entièrement de l'intégralité de nos sensations"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "How can mindfulness help you focus your attention?",
+            "klf": "Mindfulness increases our awareness of the world around us so we can consciously choose where to focus our attention.",
+            "tips": "According to French philosopher, Émile Chartier (Alain), “The art of paying attention is a great art, implying that the art of not paying attention is a royal art.”",
+            "clue": "Think of a camera lens.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyKJddfCV": "By making you disregard the world around you and obsess over a single object ",
+            "choice_V1MxuOzR4": "By giving you a heightened awareness of the world around you so you can then accept it as a backdrop",
+            "choice_EJ7bO-G0N": "By paying attention to each stimulus in equal measure",
+            "choice_41Xfu-fRN": "By completely disconnecting you from all your feelings"
+        }
+    }
+}

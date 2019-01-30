@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T09:21:14.943Z",
+            "updatedAt": "2018-06-21T08:59:51.239Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nyy8o9fn4",
+        "universalRef": "sli_Nyy8o9fn4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel54773",
+                        "label": "label_4JCYy1nTV",
+                        "items": [
+                            {
+                                "text": "choice_EkeAFyynp4",
+                                "value": "choice_EkeAFyynp4"
+                            },
+                            {
+                                "text": "choice_EJb0tJ1h64",
+                                "value": "choice_EJb0tJ1h64"
+                            },
+                            {
+                                "text": "choice_VkAqkyh6V",
+                                "value": "choice_VkAqkyh6V"
+                            },
+                            {
+                                "text": "choice_EkMskyhpE",
+                                "value": "choice_EkMskyhpE"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel54773",
+                        "answers": [
+                            "choice_VkAqkyh6V"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel principe consiste à ralentir son rythme trépidant au travail ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La slow attitude ne consiste pas à travailler plus lentement, mais à aborder les choses de manière plus sereine et plus tempérée, pour ne pas se laisser écraser par les pressions extérieures.",
+            "tips": "Les situations émotionnelles fortes, par exemple une négociation commerciale à fort enjeu ou la pression sur les délais, sont plus susceptibles de gagner en efficacité par la slow attitude.",
+            "clue": "Il y a urgence à ralentir.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le principe de la {{sel54773}} attitude permet d'aborder les événements de façon plus sereine.",
+            "label_4y7msCja4": " ",
+            "choice_4kl77s0j6N": "positive",
+            "choice_V1WQ7iRo6V": "slow",
+            "choice_VyPNo0oaV": "hippie",
+            "choice_EkZroRsaV": "new wave",
+            "choice_E1wHo0i6N": "",
+            "choice_VJVO1y2pE": "",
+            "label_4JCYy1nTV": " ",
+            "choice_EkeAFyynp4": "positive",
+            "choice_EJb0tJ1h64": "hippie",
+            "choice_VkAqkyh6V": "slow",
+            "choice_EkMskyhpE": "new wave"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What concept refers to slowing down the hectic speed you do things at work?",
+            "klf": "A no-rush attitude doesn’t mean working more slowly but taking a calmer, more moderate approach to tasks. This will prevent external pressures from overwhelming you.",
+            "tips": "Highly emotional situations benefit most from a no-rush attitude and see a higher increase in efficiency. Examples include high-risk commercial negotiations and working to tight deadlines.",
+            "clue": "There’s a real need to slow down.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "A {{sel54773}} attitude helps you approach events in a calmer way.",
+            "label_4y7msCja4": " ",
+            "choice_4kl77s0j6N": "positive",
+            "choice_V1WQ7iRo6V": "slow",
+            "choice_VyPNo0oaV": "hippie",
+            "choice_EkZroRsaV": "new wave",
+            "choice_E1wHo0i6N": "",
+            "choice_VJVO1y2pE": "",
+            "label_4JCYy1nTV": " ",
+            "choice_EkeAFyynp4": "positive",
+            "choice_EJb0tJ1h64": "hippie",
+            "choice_VkAqkyh6V": "no-rush",
+            "choice_EkMskyhpE": "new wave"
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:26:44.493Z",
+            "updatedAt": "2018-06-21T08:04:48.855Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kTx~r~nE",
+        "universalRef": "sli_4kTx~r~nE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50121",
+                        "label": "label_41PhpTchV",
+                        "items": [
+                            {
+                                "text": "choice_NkxD3aT9nV",
+                                "value": "choice_NkxD3aT9nV"
+                            },
+                            {
+                                "text": "choice_4yWvnT652V",
+                                "value": "choice_4yWvnT652V"
+                            },
+                            {
+                                "text": "choice_NJtTaT9h4",
+                                "value": "choice_NJtTaT9h4"
+                            },
+                            {
+                                "text": "choice_Vy0aapqnE",
+                                "value": "choice_Vy0aapqnE"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50121",
+                        "answers": [
+                            "choice_NkxD3aT9nV"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": null
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel effet la pratique de la pleine conscience a-t-elle sur l’amygdale cérébrale ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "On constate chez les personnes qui s’entraînent à la pleine conscience un rétrécissement de l’amygdale cérébrale et un développement des zones neuronales propices au bien-être.",
+            "tips": "Le Dr Daniel Tranel, professeur de neurologie et psychologie à l'Université d'Iowa, explique dans une étude parue dans la revue américaine Current Biology que le rôle majeur joué par l'amygdale cérébrale dans le déclenchement de la peur et de l'anxiété pourrait ouvrir la voie à de nouveaux traitements pour les personnes souffrant de troubles consécutifs à des traumatismes psychologiques, comme les soldats revenant du combat.",
+            "clue": "Amélioration.",
+            "context_title": "Pleine conscience et notre cerveau",
+            "context_description": "L’amygdale cérébrale est une partie du cerveau responsable de l’activation de la peur, du stress et de l’anxiété.",
+            "context_media_description": "",
+            "template": "La pratique de la pleine conscience permet de {{sel50121}} l'amygdale cérébrale.",
+            "label_41PhpTchV": " ",
+            "choice_NkxD3aT9nV": "rétrécir",
+            "choice_4yWvnT652V": "augmenter",
+            "choice_NJtTaT9h4": "stabiliser",
+            "choice_Vy0aapqnE": "supprimer"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What effect does mindfulness have on the amygdala in the brain?",
+            "klf": "In mindfulness, the amygdala often reduces in size, and neural areas supporting well-being will frequently develop.",
+            "tips": "Dr Daniel Tranel is a Professor of neurology and psychology at the University of Iowa. In the American journal, Current Biology, he explains the amygdala’s function when it comes to triggering fear and anxiety. He says this key function could open the way to new treatments for individuals suffering from long-term disorders or psychological trauma. One such individual could be a soldier returning from war.",
+            "clue": "Improvement.",
+            "context_title": "Pleine conscience et notre cerveau",
+            "context_description": "L’amygdale cérébrale est une partie du cerveau responsable de l’activation de la peur, du stress et de l’anxiété.",
+            "context_media_description": "",
+            "template": "Practising mindfulness helps to {{sel50121}} the cerebral amygdala.",
+            "label_41PhpTchV": " ",
+            "choice_NkxD3aT9nV": "shrink",
+            "choice_4yWvnT652V": "increase",
+            "choice_NJtTaT9h4": "stabilise",
+            "choice_Vy0aapqnE": "remove"
+        }
+    }
+}

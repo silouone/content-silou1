@@ -1,0 +1,98 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T07:35:06.328Z",
+            "updatedAt": "2018-04-19T07:49:02.097Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EyVrr4bhE",
+        "universalRef": "sli_EyVrr4bhE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EyVrr4bhE.field_EJiOrNbnE.id",
+                        "type": "text",
+                        "name": "inp50250",
+                        "label": "label_41lsdrEbn4",
+                        "placeholder": "placeholder_NJboOBN~2V"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp50250",
+                        "answers": [
+                            "choice_Vyzs-HN~n4",
+                            "choice_NJKjr4Z2E",
+                            "choice_VJlhS4bn4",
+                            "choice_VyBhrEb2E",
+                            "choice_EycnHE~34",
+                            "choice_Eyk6HEZn4"
+                        ]
+                    }
+                ],
+                "disableFuzzyMatching": false
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le mécanisme d'attachement",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "C’est un fort attachement à nos idées, convictions, façons de faire… qui crée des tensions avec nos collègues, dès lors que nous ne partageons pas les mêmes points de vue.",
+            "tips": "Le détachement ne veut pas dire ne plus ressentir d’émotions ni de sensations. C’est une prise de recul qui permet d’englober aussi le point de vue de l’autre.",
+            "clue": "Se détacher",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le mécanisme d’attachement nous empêche de {{inp50250}} et il peut être source de tensions.",
+            "label_41lsdrEbn4": " ",
+            "placeholder_NJboOBN~2V": " ",
+            "choice_Vyzs-HN~n4": "prendre du recul",
+            "choice_NJKjr4Z2E": "lâcher prise",
+            "choice_VJlhS4bn4": "se détendre",
+            "choice_VyBhrEb2E": "se libérer",
+            "choice_EycnHE~34": "s'ouvrir",
+            "choice_Eyk6HEZn4": "être présent"
+        },
+        "en": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "Le mécanisme d'attachement",
+            "klf": "C’est un fort attachement à nos idées, convictions, façons de faire… qui crée des tensions avec nos collègues, dès lors que nous ne partageons pas les mêmes points de vue.",
+            "tips": "Le détachement ne veut pas dire ne plus ressentir d’émotions ni de sensations. C’est une prise de recul qui permet d’englober aussi le point de vue de l’autre.",
+            "clue": "Se détacher",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le mécanisme d’attachement nous empêche de {{inp50250}} et il peut être source de tensions.",
+            "label_41lsdrEbn4": " ",
+            "placeholder_NJboOBN~2V": " ",
+            "choice_Vyzs-HN~n4": "prendre du recul",
+            "choice_NJKjr4Z2E": "lâcher prise",
+            "choice_VJlhS4bn4": "se détendre",
+            "choice_VyBhrEb2E": "se libérer",
+            "choice_EycnHE~34": "s'ouvrir",
+            "choice_Eyk6HEZn4": "être présent"
+        }
+    }
+}

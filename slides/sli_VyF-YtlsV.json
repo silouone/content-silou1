@@ -1,0 +1,113 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-06T16:11:23.392Z",
+            "updatedAt": "2018-04-24T13:54:06.631Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VyF-YtlsV",
+        "universalRef": "sli_VyF-YtlsV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyF-YtlsV.choice_E1log5tgiE.id",
+                        "label": "choice_E1log5tgiE",
+                        "value": "choice_E1log5tgiE",
+                        "media": "med_NJjx9YxiN"
+                    },
+                    {
+                        "id": "sli_VyF-YtlsV.choice_41ew55YloN.id",
+                        "label": "choice_41ew55YloN",
+                        "value": "choice_41ew55YloN",
+                        "media": "med_V1Dq5FeiN"
+                    },
+                    {
+                        "id": "sli_VyF-YtlsV.choice_V1goRcFgsE.id",
+                        "label": "choice_V1goRcFgsE",
+                        "value": "choice_V1goRcFgsE",
+                        "media": "med_V1iCqFxi4"
+                    },
+                    {
+                        "id": "sli_VyF-YtlsV.choice_VJxhyjFgiN.id",
+                        "label": "choice_VJxhyjFgiN",
+                        "value": "choice_VJxhyjFgiN",
+                        "media": "med_VJhyoYeoE"
+                    },
+                    {
+                        "id": "sli_VyF-YtlsV.choice_EygjloYlsE.id",
+                        "label": "choice_EygjloYlsE",
+                        "value": "choice_EygjloYlsE",
+                        "media": "med_VJiesYljV"
+                    },
+                    {
+                        "id": "sli_VyF-YtlsV.choice_E1g5bsKxjV.id",
+                        "label": "choice_E1g5bsKxjV",
+                        "value": "choice_E1g5bsKxjV",
+                        "media": "med_4kqZoKgjV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1log5tgiE",
+                        "choice_41ew55YloN",
+                        "choice_V1goRcFgsE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous définir les moments les plus propices pour commencer à pratiquer la pleine conscience au travail ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Au travail, on peut choisir trois moments clés qui permettent de pratiquer sans rupture dans ses activités.",
+            "tips": "C’est la multiplication de courts instants de présence attentive qui développe petit à petit un état de pleine conscience en nous.",
+            "clue": "La pratique de la pleine conscience est très simple.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1log5tgiE": "En poussant la porte du bureau",
+            "choice_41ew55YloN": "En buvant un verre d’eau ",
+            "choice_V1goRcFgsE": "En changeant de posture ",
+            "choice_VJxhyjFgiN": "En discutant avec un collègue ",
+            "choice_EygjloYlsE": "En prenant la parole en comité de direction ",
+            "choice_E1g5bsKxjV": "En planifiant un projet complexe "
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Saurez-vous définir les moments les plus propices pour commencer à pratiquer la pleine conscience au travail ?",
+            "klf": "Au travail, on peut choisir trois moments clés qui permettent de pratiquer sans rupture dans ses activités.",
+            "tips": "C’est la multiplication de courts instants de présence attentive qui développe petit à petit un état de pleine conscience en nous.",
+            "clue": "La pratique de la pleine conscience est très simple.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1log5tgiE": "En poussant la porte du bureau",
+            "choice_41ew55YloN": "En buvant un verre d’eau ",
+            "choice_V1goRcFgsE": "En changeant de posture ",
+            "choice_VJxhyjFgiN": "En discutant avec un collègue ",
+            "choice_EygjloYlsE": "En prenant la parole en comité de direction ",
+            "choice_E1g5bsKxjV": "En planifiant un projet complexe "
+        }
+    }
+}

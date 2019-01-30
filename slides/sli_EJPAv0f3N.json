@@ -1,0 +1,97 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:22:56.872Z",
+            "updatedAt": "2018-06-21T09:05:52.160Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJPAv0f3N",
+        "universalRef": "sli_EJPAv0f3N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJPAv0f3N.choice_E1QoO0M3N.id",
+                        "label": "choice_E1QoO0M3N",
+                        "value": "choice_E1QoO0M3N"
+                    },
+                    {
+                        "id": "sli_EJPAv0f3N.choice_41oi-RG3E.id",
+                        "label": "choice_41oi-RG3E",
+                        "value": "choice_41oi-RG3E"
+                    },
+                    {
+                        "id": "sli_EJPAv0f3N.choice_VJW3ORz2N.id",
+                        "label": "choice_VJW3ORz2N",
+                        "value": "choice_VJW3ORz2N"
+                    },
+                    {
+                        "id": "sli_EJPAv0f3N.choice_4Juhu0fh4.id",
+                        "label": "choice_4Juhu0fh4",
+                        "value": "choice_4Juhu0fh4"
+                    },
+                    {
+                        "id": "sli_EJPAv0f3N.choice_E1gpuRz2N.id",
+                        "label": "choice_E1gpuRz2N",
+                        "value": "choice_E1gpuRz2N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1gpuRz2N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En pleine conscience, on peut se détendre tout en travaillant. Quels secteurs professionnels sont concernés ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Se détendre au travail en pleine conscience n'est pas réservé à un secteur professionnel en particulier. Le retour à soi et l'attention au moment présent se matérialiseront différemment selon les exigences de chaque métier, mais tout le monde peut en apprécier les bénéfices.",
+            "tips": "En entreprise, la méditation de pleine conscience est de plus en plus reconnue comme une pratique pouvant devenir le fil rouge d'un management au service de l'épanouissement des personnes, des équipes et de la performance. Promouvoir cette pratique peut-être une clé pour devenir un manager éthique et inspirant.",
+            "clue": "Pas de jaloux.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1QoO0M3N": "Les métiers manuels uniquement",
+            "choice_41oi-RG3E": "Seulement les cadres et les ingénieurs ",
+            "choice_VJW3ORz2N": "Seuls les métiers du social et de la santé",
+            "choice_4Juhu0fh4": "Les métiers qui recrutent le plus",
+            "choice_E1gpuRz2N": "Tous les secteurs de métier "
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Mindfulness means you can relax while you work. What types of job can benefit from mindfulness?",
+            "klf": "Relaxation and mindfulness at work aren’t restricted to a particular industry or job-type. Everyone can benefit from mindfulness, although the demands of different jobs mean that refocusing on yourself and drawing attention to the present can take different forms.",
+            "tips": "Increasingly now, management teams in businesses are making the most of mindful meditation techniques to improve performance and help individuals and teams to flourish. It helps to encourage mindfulness at work if you want to be an ethical and inspiring manager.",
+            "clue": "No jealousy.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1QoO0M3N": "Only manual jobs",
+            "choice_41oi-RG3E": "Only office workers and engineers ",
+            "choice_VJW3ORz2N": "Only health and social workers",
+            "choice_4Juhu0fh4": "Jobs that recruit the most people",
+            "choice_E1gpuRz2N": "All types of jobs "
+        }
+    }
+}

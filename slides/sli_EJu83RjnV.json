@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T09:30:19.723Z",
+            "updatedAt": "2018-06-21T09:46:52.042Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkoPpuVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJu83RjnV",
+        "universalRef": "sli_EJu83RjnV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJu83RjnV.choice_VJX93Rj3N.id",
+                        "label": "choice_VJX93Rj3N",
+                        "value": "choice_VJX93Rj3N"
+                    },
+                    {
+                        "id": "sli_EJu83RjnV.choice_4199nAshE.id",
+                        "label": "choice_4199nAshE",
+                        "value": "choice_4199nAshE"
+                    },
+                    {
+                        "id": "sli_EJu83RjnV.choice_N1Vo2CsnN.id",
+                        "label": "choice_N1Vo2CsnN",
+                        "value": "choice_N1Vo2CsnN"
+                    },
+                    {
+                        "id": "sli_EJu83RjnV.choice_EJjih0o2N.id",
+                        "label": "choice_EJjih0o2N",
+                        "value": "choice_EJjih0o2N"
+                    },
+                    {
+                        "id": "sli_EJu83RjnV.choice_E1f3hCs24.id",
+                        "label": "choice_E1f3hCs24",
+                        "value": "choice_E1f3hCs24"
+                    },
+                    {
+                        "id": "sli_EJu83RjnV.choice_V1-h2As2N.id",
+                        "label": "choice_V1-h2As2N",
+                        "value": "choice_V1-h2As2N"
+                    },
+                    {
+                        "id": "sli_EJu83RjnV.choice_Vy~4YPG0N.id",
+                        "label": "choice_Vy~4YPG0N",
+                        "value": "choice_Vy~4YPG0N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vy~4YPG0N",
+                        "choice_VJX93Rj3N",
+                        "choice_4199nAshE",
+                        "choice_N1Vo2CsnN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi cette sélection, quels stimuli sont susceptibles de perturber inutilement notre attention ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L'attention en pleine conscience ne cherche pas à nous faire perdre nos réflexes utiles ni à nous couper du monde extérieur. Elle nous aide à accepter l'activité de ce monde extérieur tout en restant concentrés sur l'objet de notre choix.",
+            "tips": "Nous avons tous parfois de la difficulté à nous concentrer. Cependant, cela est bien différent du trouble du déficit de l'attention, qui est un trouble neurologique. Sa prévalence en France a été évaluée en 2011 entre 3 % et 5 % chez les enfants d'âge scolaire, et continue dans l'adolescence et l'âge adulte dans 65% des cas.",
+            "clue": "Garder l'instinct !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJX93Rj3N": "Une pensée éloignée du lieu où je suis ",
+            "choice_4199nAshE": "Une sonnerie intempestive ",
+            "choice_N1Vo2CsnN": "Un sentiment de culpabilité ",
+            "choice_EJjih0o2N": "Une sensation de détente",
+            "choice_E1f3hCs24": "Une forte odeur de brûlé",
+            "choice_V1-h2As2N": "La sensation de ma respiration",
+            "choice_Vy~4YPG0N": "Un regard insistant sur ma personne"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "Which of the following stimuli are most likely to divert your attention for no good use?",
+            "klf": "Attention in mindfulness isn’t about losing our natural instincts or cutting off from the outside world. It helps us accept what’s happening around us while staying focused on the activity or object of our choice.",
+            "tips": "We all find it difficult to concentrate sometimes. But that’s not the same as suffering from attention deficit hyperactivity disorder (ADHD), which is a neurological condition. In 2011, 3 to 5% of school children in France suffered from ADHD, which continues on into adolescence and into adulthood in 65% of cases.",
+            "clue": "Go with your instinct!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJX93Rj3N": "A daydream about where you are ",
+            "choice_4199nAshE": "A bell ringing at an inappropriate time ",
+            "choice_N1Vo2CsnN": "Feeling guilty ",
+            "choice_EJjih0o2N": "Feeling relaxed",
+            "choice_E1f3hCs24": "A strong burning smell",
+            "choice_V1-h2As2N": "Being aware of your own breath",
+            "choice_Vy~4YPG0N": "Someone looking insistently at you"
+        }
+    }
+}

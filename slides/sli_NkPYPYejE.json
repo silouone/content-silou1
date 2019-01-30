@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-06T15:56:45.210Z",
+            "updatedAt": "2018-06-21T07:48:32.278Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-06T15:56:45.210Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkPYPYejE",
+        "universalRef": "sli_NkPYPYejE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkPYPYejE.choice_N1chDKgoN.id",
+                        "label": "choice_N1chDKgoN",
+                        "value": "choice_N1chDKgoN"
+                    },
+                    {
+                        "id": "sli_NkPYPYejE.choice_EyWawKlsN.id",
+                        "label": "choice_EyWawKlsN",
+                        "value": "choice_EyWawKlsN"
+                    },
+                    {
+                        "id": "sli_NkPYPYejE.choice_NkdpPtgjN.id",
+                        "label": "choice_NkdpPtgjN",
+                        "value": "choice_NkdpPtgjN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1chDKgoN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Laquelle de ces pratiques peut permettre de commencer en douceur la pleine conscience en milieu professionnel ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il suffit de choisir un élément extérieur comme rappel à soi et, à la vue de cet élément, de prêter attention à ses ressentis, ses perceptions et sa respiration.",
+            "tips": "Tout élément peut servir de rappel à soi : une couleur, une bouteille d’eau, un son sur son smartphone, une plante, un post-it…",
+            "clue": "Travailler en pleine conscience, c'est possible !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1chDKgoN": "Choisir une couleur comme rappel à soi et prêter attention à sa respiration, tout en continuant son activité ",
+            "choice_EyWawKlsN": "Arriver plus tard sur son lieu de travail et prendre du temps pour méditer tranquillement",
+            "choice_NkdpPtgjN": "Faire des pauses régulièrement pour s’isoler quelques minutes et pratiquer des exercices de respiration"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Which of the following activities can help you slowly introduce mindfulness in the workplace?",
+            "klf": "You just need to choose an external element (an activity or item, for example) that will trigger self-remembering. So, on seeing that item, you then refocus on your feelings, perceptions and breathing.",
+            "tips": "Any element or item can help you self-remember: a colour, bottle of water, a sound on your smartphone, a plant, post-it note etc.",
+            "clue": "Working mindfully is possible!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1chDKgoN": "Choose a colour for self-remembering and when you see it, focus your attention on your breathing. And as you do so, continue your normal activity",
+            "choice_EyWawKlsN": "Getting to work late and taking time to quietly meditate",
+            "choice_NkdpPtgjN": "Taking regular breaks so you’re alone for a few minutes to do breathing exercises"
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:42:42.522Z",
+            "updatedAt": "2018-05-09T13:51:20.456Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJ8R20z3E",
+        "universalRef": "sli_NJ8R20z3E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel21457",
+                        "label": "label_VJEI6RzhE",
+                        "items": [
+                            {
+                                "text": "choice_VklN8aCM2V",
+                                "value": "choice_VklN8aCM2V"
+                            },
+                            {
+                                "text": "choice_Nkb4UaCz3N",
+                                "value": "choice_Nkb4UaCz3N"
+                            },
+                            {
+                                "text": "choice_EkzvaCGnE",
+                                "value": "choice_EkzvaCGnE"
+                            },
+                            {
+                                "text": "choice_NyKw6RM24",
+                                "value": "choice_NyKw6RM24"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel21457",
+                        "answers": [
+                            "choice_VklN8aCM2V"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Relax flash",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "Prendre une grande inspiration en sentant l’air frais qui entre puis l’air chaud qui sort à l’expire permet une détente immédiate.",
+            "tips": "La respiration nous installe dans le moment présent, à chaque souffle et c’est cela qui apaise. Il est facile de se sentir respirer tout en étant à sa tâche.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le relax flash est une relaxation rapide, parfois assimilé à une micro-sieste. Il consiste à détendre ses tensions physiques et à {{sel21457}}.",
+            "label_VJEI6RzhE": " ",
+            "choice_VklN8aCM2V": "respirer amplement",
+            "choice_Nkb4UaCz3N": "sourire de béatitude",
+            "choice_EkzvaCGnE": "bailler ouvertement",
+            "choice_NyKw6RM24": "souffler très fort"
+        },
+        "en": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "Relax flash",
+            "klf": "Prendre une grande inspiration en sentant l’air frais qui entre puis l’air chaud qui sort à l’expire permet une détente immédiate.",
+            "tips": "La respiration nous installe dans le moment présent, à chaque souffle et c’est cela qui apaise. Il est facile de se sentir respirer tout en étant à sa tâche.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le relax flash est une relaxation rapide, parfois assimilé à une micro-sieste. Il consiste à détendre ses tensions physiques et à {{sel21457}}.",
+            "label_VJEI6RzhE": " ",
+            "choice_VklN8aCM2V": "respirer amplement",
+            "choice_Nkb4UaCz3N": "sourire de béatitude",
+            "choice_EkzvaCGnE": "bailler ouvertement",
+            "choice_NyKw6RM24": "souffler très fort"
+        }
+    }
+}

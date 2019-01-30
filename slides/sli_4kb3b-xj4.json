@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-06T14:26:05.174Z",
+            "updatedAt": "2018-06-21T07:40:31.136Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kb3b-xj4",
+        "universalRef": "sli_4kb3b-xj4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kb3b-xj4.choice_VyNzG-li4.id",
+                        "label": "choice_VyNzG-li4",
+                        "value": "choice_VyNzG-li4"
+                    },
+                    {
+                        "id": "sli_4kb3b-xj4.choice_41CGzugiV.id",
+                        "label": "choice_41CGzugiV",
+                        "value": "choice_41CGzugiV"
+                    },
+                    {
+                        "id": "sli_4kb3b-xj4.choice_NyQXfOxjV.id",
+                        "label": "choice_NyQXfOxjV",
+                        "value": "choice_NyQXfOxjV"
+                    },
+                    {
+                        "id": "sli_4kb3b-xj4.choice_Nk6Xz-ljE.id",
+                        "label": "choice_Nk6Xz-ljE",
+                        "value": "choice_Nk6Xz-ljE"
+                    },
+                    {
+                        "id": "sli_4kb3b-xj4.choice_41VVzuxiN.id",
+                        "label": "choice_41VVzuxiN",
+                        "value": "choice_41VVzuxiN"
+                    },
+                    {
+                        "id": "sli_4kb3b-xj4.choice_Ek6EzdlsN.id",
+                        "label": "choice_Ek6EzdlsN",
+                        "value": "choice_Ek6EzdlsN"
+                    },
+                    {
+                        "id": "sli_4kb3b-xj4.choice_VyWrM-xi4.id",
+                        "label": "choice_VyWrM-xi4",
+                        "value": "choice_VyWrM-xi4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41CGzugiV",
+                        "choice_NyQXfOxjV",
+                        "choice_41VVzuxiN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels autres termes utilise-t-on pour désigner la pleine conscience ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les termes \"méditation\", \"présence attentive\" ou \"attention consciente\" peuvent tous les trois faire référence à cette pratique de la pleine conscience qui permet de redevenir présent à soi-même.",
+            "tips": "Les termes \"pleine conscience\" ou \"présence attentive\" sont des traductions du mot \"pali sati\" qui provient de l’enseignement de Bouddha.",
+            "clue": "La pleine conscience est un acte d’attention.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyNzG-li4": "Psychologie positive",
+            "choice_41CGzugiV": "Méditation",
+            "choice_NyQXfOxjV": "Présence attentive",
+            "choice_Nk6Xz-ljE": "Relaxation",
+            "choice_41VVzuxiN": "Attention consciente",
+            "choice_Ek6EzdlsN": "Empathie",
+            "choice_VyWrM-xi4": "Détachement"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "What other terms can be used to refer to mindfulness?",
+            "klf": "The terms “meditation”, “reflective awareness” or “concentrated attention” can all refer to the mindfulness. It’s a practice that helps you live in the present moment.",
+            "tips": "The terms “mindfulness” and “reflective awareness” are translations of the pali word “sati,” which is used in Buddhist teachings.",
+            "clue": "Mindfulness is an act of awareness.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyNzG-li4": "Positive psychology",
+            "choice_41CGzugiV": "Meditation",
+            "choice_NyQXfOxjV": "Reflective awareness",
+            "choice_Nk6Xz-ljE": "Relaxation",
+            "choice_41VVzuxiN": "Concentrated attention",
+            "choice_Ek6EzdlsN": "Empathy",
+            "choice_VyWrM-xi4": "Detachment"
+        }
+    }
+}

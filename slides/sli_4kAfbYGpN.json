@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-02T10:38:11.507Z",
+            "updatedAt": "2018-06-21T08:12:54.922Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ1STuNc4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kAfbYGpN",
+        "universalRef": "sli_4kAfbYGpN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kAfbYGpN.choice_EkjLfCXRN.id",
+                        "label": "choice_EkjLfCXRN",
+                        "value": "choice_EkjLfCXRN"
+                    },
+                    {
+                        "id": "sli_4kAfbYGpN.choice_4J28G0Q0N.id",
+                        "label": "choice_4J28G0Q0N",
+                        "value": "choice_4J28G0Q0N"
+                    },
+                    {
+                        "id": "sli_4kAfbYGpN.choice_4y6UGC7AV.id",
+                        "label": "choice_4y6UGC7AV",
+                        "value": "choice_4y6UGC7AV"
+                    },
+                    {
+                        "id": "sli_4kAfbYGpN.choice_410IzR7AN.id",
+                        "label": "choice_410IzR7AN",
+                        "value": "choice_410IzR7AN"
+                    },
+                    {
+                        "id": "sli_4kAfbYGpN.choice_EkJDzRQRE.id",
+                        "label": "choice_EkJDzRQRE",
+                        "value": "choice_EkJDzRQRE"
+                    },
+                    {
+                        "id": "sli_4kAfbYGpN.choice_NyQvMRXR4.id",
+                        "label": "choice_NyQvMRXR4",
+                        "value": "choice_NyQvMRXR4"
+                    },
+                    {
+                        "id": "sli_4kAfbYGpN.choice_41NwzR704.id",
+                        "label": "choice_41NwzR704",
+                        "value": "choice_41NwzR704"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkjLfCXRN",
+                        "choice_410IzR7AN",
+                        "choice_EkJDzRQRE",
+                        "choice_NyQvMRXR4",
+                        "choice_41NwzR704"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans la vie quotidienne, notre attention est constamment sollicitée par des voleurs d’attention. Quels sont les cinq types de voleurs d’attention ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Notre énergie est absorbée en permanence par des voleurs d'attention de type mental, corporel,  moteur, émotionnel, ou environnemental. La pratique de la pleine conscience aide à limiter l'impact de ces voleurs d'attention.",
+            "tips": "Les émotions exercent une influence importante sur notre attention. Le système limbique situé au cœur de notre cerveau enregistre en permanence des associations entre ce que nous faisons/percevons et ce que nous ressentons. En fonction du ressenti, il donne une certaine valeur à cette association. C’est ainsi que fonctionne le circuit de récompense dont le rôle consiste à verrouiller notre attention sur ce qui nous est agréable. Ces mécanismes sont bien connus du secteur de la publicité, lequel associe des images ou des mots agréablement connotés à des produits et services pour rendre les marques attirantes.",
+            "clue": "M-E-S-M-E",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkjLfCXRN": "Mental",
+            "choice_4J28G0Q0N": "Lunatique",
+            "choice_4y6UGC7AV": "Artistique",
+            "choice_410IzR7AN": "Moteur",
+            "choice_EkJDzRQRE": "Environnemental",
+            "choice_NyQvMRXR4": "Sensoriel",
+            "choice_41NwzR704": "Emotionnel"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "In daily life, “attention thieves” are always distracting us. What are the five different types of attention thief?",
+            "klf": "Our energy is constantly drained by mental, emotional, physical, movement-based or environmental attention thieves. Mindfulness can limit the impact of attention thieves.",
+            "tips": "Emotions have a significant impact on our attention. The limbic system in the brain is constantly logging associations between what we do/perceive and what we feel.\n Depending on that feeling, the limbic system will assign a certain value to each association. That’s how the reward circuit works; our attention will lock on to what’s most agreeable to us. The advertising industry makes good use of these processes by using agreeable images or words to refer to certain products or services to make brands more attractive.",
+            "clue": "M-E-P-M-E",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkjLfCXRN": "Mental",
+            "choice_4J28G0Q0N": "Volatile",
+            "choice_4y6UGC7AV": "Artistic",
+            "choice_410IzR7AN": "Movement-based",
+            "choice_EkJDzRQRE": "Environmental",
+            "choice_NyQvMRXR4": "Physical",
+            "choice_41NwzR704": "Emotional"
+        }
+    }
+}

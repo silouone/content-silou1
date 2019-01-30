@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T09:14:39.783Z",
+            "updatedAt": "2018-06-21T09:44:07.980Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkoPpuVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJI3ORj3E",
+        "universalRef": "sli_VJI3ORj3E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJI3ORj3E.choice_Nko7TXG04.id",
+                        "label": "choice_Nko7TXG04",
+                        "value": "choice_Nko7TXG04"
+                    },
+                    {
+                        "id": "sli_VJI3ORj3E.choice_NycNpQGRE.id",
+                        "label": "choice_NycNpQGRE",
+                        "value": "choice_NycNpQGRE"
+                    },
+                    {
+                        "id": "sli_VJI3ORj3E.choice_Ey~Bpmz04.id",
+                        "label": "choice_Ey~Bpmz04",
+                        "value": "choice_Ey~Bpmz04"
+                    },
+                    {
+                        "id": "sli_VJI3ORj3E.choice_NyXra7G04.id",
+                        "label": "choice_NyXra7G04",
+                        "value": "choice_NyXra7G04"
+                    },
+                    {
+                        "id": "sli_VJI3ORj3E.choice_4J5HTmM0V.id",
+                        "label": "choice_4J5HTmM0V",
+                        "value": "choice_4J5HTmM0V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyXra7G04",
+                        "choice_Nko7TXG04"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "L’entraînement à la pleine conscience modifie positivement le fonctionnement de nos neurones, qui passe ainsi du mode marionnette au mode attention pleine. Comment peut-on déclencher ce processus ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "L’attention pleine est une attention élargie à toutes nos perceptions externes et internes qui permet une perception globale de notre être dans son environnement, sans passer par l’intellect. Tous les humains ont cette capacité, mais peu d’entre eux s’entraînent.",
+            "tips": "En étudiant l’attention des sportifs,  le chercheur Robert Nideffer a démontré que l’attention fonctionnait en deux dimensions : l'étendue (large ou étroite selon qu'elle est focalisée sur un seul ou plusieurs éléments) et la direction (interne ou externe selon qu'elle est centrée sur les ressentis ou sur un événement/objet extérieur).",
+            "clue": "Lâcher prise.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nko7TXG04": "En écoutant les bruits du plus proche au plus lointain",
+            "choice_NycNpQGRE": "En listant chaque objet de la pièce où nous sommes",
+            "choice_Ey~Bpmz04": "En identifiant et cartographiant tous les bruits",
+            "choice_NyXra7G04": "En accueillant les sons et les sensations tels qu’ils sont ",
+            "choice_4J5HTmM0V": "En inspectant chaque recoin du bureau"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Mindfulness training has a positive effect on how our neurons function: we become fully aware rather than acting like puppets. How can you start this process?",
+            "klf": "Mindfulness gives you a greater awareness of everything within and around you. It gives you a much broader sense of where you are in relation to your surroundings, and you don’t need to use any brainpower. All humans have this ability, but few of us use it.",
+            "tips": "Researcher, Robert Nideffer studied the attention of athletes and discovered that attention has two separate dimensions: width (broad or narrow depending on whether it’s focused on one single factor or several different ones), and direction (internal or external depending on whether it’s focused on inner feelings or something outside the body such as an object or event).",
+            "clue": "Letting go.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nko7TXG04": "By listening to a range of noises, some close by, others further away",
+            "choice_NycNpQGRE": "By making a list of objects in our room",
+            "choice_Ey~Bpmz04": "By identifying and mapping out all the noises we can hear",
+            "choice_NyXra7G04": "By embracing sounds and sensations, whatever they are ",
+            "choice_4J5HTmM0V": "By inspecting each corner of the office"
+        }
+    }
+}

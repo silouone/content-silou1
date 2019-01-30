@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T07:46:20.000Z",
+            "updatedAt": "2018-06-21T07:54:38.131Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1m5UVb34",
+        "universalRef": "sli_V1m5UVb34",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel51797",
+                        "label": "label_E1W8KS-2V",
+                        "items": [
+                            {
+                                "text": "choice_EkxZItB-2E",
+                                "value": "choice_EkxZItB-2E"
+                            },
+                            {
+                                "text": "choice_4JZZIKr-3N",
+                                "value": "choice_4JZZIKr-3N"
+                            },
+                            {
+                                "text": "choice_N1ADYrO2V",
+                                "value": "choice_N1ADYrO2V"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel51797",
+                        "answers": [
+                            "choice_4JZZIKr-3N"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'écueil principal du mécanisme d'attachement ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "C’est un fort attachement à nos idées, convictions, façons de faire… qui peut créer des tensions avec nos collègues, dès lors que nous ne partageons pas les mêmes points de vue.",
+            "tips": "Le détachement ne veut pas dire ne plus ressentir d’émotions ni de sensations. C’est une prise de recul qui permet d’englober aussi le point de vue de l’autre.",
+            "clue": "Pensez \"panorama\"...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le mécanisme d’attachement nous empêche de {{sel51797}} et il peut être source de tensions.",
+            "label_E1xk4-E~h4": " ",
+            "placeholder_4kZy4-V~nE": " ",
+            "label_E1W8KS-2V": " ",
+            "choice_EkxZItB-2E": "réussir professionnellement",
+            "choice_4JZZIKr-3N": "prendre du recul",
+            "choice_N1ADYrO2V": "développer des affinités avec nos collègues"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What is the main problem with our “attachment mechanism”?",
+            "klf": "The “attachment mechanism” describes our strong affiliation to certain ideas, beliefs and ways of doing things. It can create tension between colleagues who don’t share the same point of view.",
+            "tips": "Detachment is not about rejecting emotions or feelings. It’s just a matter of taking a step back so you can embrace someone else’s point of view.",
+            "clue": "Think “overview.”",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The attachment mechanism prevents us from {{sel51797}}, and can be a source of tension.",
+            "label_E1xk4-E~h4": " ",
+            "placeholder_4kZy4-V~nE": " ",
+            "label_E1W8KS-2V": " ",
+            "choice_EkxZItB-2E": "being successful at work",
+            "choice_4JZZIKr-3N": "taking a step back",
+            "choice_N1ADYrO2V": "developing good relationships with colleagues"
+        }
+    }
+}
