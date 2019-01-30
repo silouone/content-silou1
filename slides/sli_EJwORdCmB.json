@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T08:19:36.671Z",
+            "updatedAt": "2018-10-08T14:35:39.722Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJwORdCmB",
+        "universalRef": "sli_EJwORdCmB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJwORdCmB.choice_N1Is0-Cmr.id",
+                        "label": "choice_N1Is0-Cmr",
+                        "value": "choice_N1Is0-Cmr"
+                    },
+                    {
+                        "id": "sli_EJwORdCmB.choice_NkioAuRQr.id",
+                        "label": "choice_NkioAuRQr",
+                        "value": "choice_NkioAuRQr"
+                    },
+                    {
+                        "id": "sli_EJwORdCmB.choice_V1W20u07B.id",
+                        "label": "choice_V1W20u07B",
+                        "value": "choice_V1W20u07B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1Is0-Cmr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel principe suit la méthode LEAN ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La méthode LEAN suit le principe d'amélioration continue. À la base de sa philosophie, on trouve du respect, de la volonté de considérer les problèmes comme sources d’amélioration et d'entraîner tout le personnel dans leur résolution.",
+            "tips": "Basée sur la méthode de gestion de la qualité PDCA (plan-do-check-act), la roue de Deming représente le cercle vertueux de l’amélioration continue.",
+            "clue": "Kaizen.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1Is0-Cmr": "L’amélioration continue",
+            "choice_NkioAuRQr": "Premier arrivé premier sorti",
+            "choice_V1W20u07B": "De chacun selon ses moyens, à chacun selon ses besoins"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "The LEAN method is based on which principle? ",
+            "klf": "The LEAN method is centred on the theory of continuous improvement. A LEAN philosophy is based on respect, a desire to see problems as sources of improvement and an opportunity to train all members of staff in how to resolve any such problems.",
+            "tips": "It’s based on the PDCA (plan-do-check-act) quality management method, also called the Deming Cycle, which represents a virtuous circle of continuous improvement.",
+            "clue": "Kaizen.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1Is0-Cmr": "Continuous improvement",
+            "choice_NkioAuRQr": "First in, first out",
+            "choice_V1W20u07B": "From each according to his ability, to each according to his needs"
+        }
+    }
+}

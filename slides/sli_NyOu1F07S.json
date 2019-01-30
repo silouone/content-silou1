@@ -1,0 +1,91 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T08:24:28.451Z",
+            "updatedAt": "2018-10-08T14:38:10.072Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyOu1F07S",
+        "universalRef": "sli_NyOu1F07S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyOu1F07S.choice_Nke6Jt07S.id",
+                        "label": "choice_Nke6Jt07S",
+                        "value": "choice_Nke6Jt07S"
+                    },
+                    {
+                        "id": "sli_NyOu1F07S.choice_Nk4ayF0mH.id",
+                        "label": "choice_Nk4ayF0mH",
+                        "value": "choice_Nk4ayF0mH"
+                    },
+                    {
+                        "id": "sli_NyOu1F07S.choice_NJcTJtA7r.id",
+                        "label": "choice_NJcTJtA7r",
+                        "value": "choice_NJcTJtA7r"
+                    },
+                    {
+                        "id": "sli_NyOu1F07S.choice_EJgAkFCQS.id",
+                        "label": "choice_EJgAkFCQS",
+                        "value": "choice_EJgAkFCQS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJcTJtA7r",
+                        "choice_EJgAkFCQS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les actions répondant au principe « Situer des choses » de la méthodes 5S ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Dans la méthode des 5S, situer des choses (ou <i>Seiton</i>) signifie allouer une place bien identifiée pour chaque objet, les ranger en fonction de leur fréquence d’utilisation, dans des conditions ergonomiques, et disposer les objets à portée de main pour rendre visible ce qui manque.",
+            "tips": "Selon le <i>Wall Street Journal</i>, le temps passé au bureau en recherche d'outils ou d'informations qui auraient dû être stockées plus clairement représente 13 % du temps de travail, ce qui en fait une source très importante du gaspillage de temps.",
+            "clue": "On parle bien ici d'organisation visuelle.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nke6Jt07S": "Définir des standards de rangement",
+            "choice_Nk4ayF0mH": "Nettoyer les lieux",
+            "choice_NJcTJtA7r": "Disposer les objets nécessaires à portée de main",
+            "choice_EJgAkFCQS": "Rendre visibles les objets manquants"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "In the 5S method, which actions should be carried out as part of the “Set in order” process?",
+            "klf": "In the 5S method, setting things in order (or <i>Seiton</i>) means you need to identify a place for each item, arrange all items ergonomically and according to how often they’re used, and then keep them within easy reach so you can see if anything is missing.",
+            "tips": "According to the <i>Wall Street Journal</i>, we spend 13% of our time at work looking for tools or information that should be easy to find. What a waste of time!",
+            "clue": "We’re talking about visual organisation here.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nke6Jt07S": "Establish standards for sorting and ordering",
+            "choice_Nk4ayF0mH": "Clean the workplace",
+            "choice_NJcTJtA7r": "Keep items you need within easy reach",
+            "choice_EJgAkFCQS": "Make it easy to see if anything is missing"
+        }
+    }
+}

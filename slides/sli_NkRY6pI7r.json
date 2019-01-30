@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:18:42.245Z",
+            "updatedAt": "2018-10-08T14:11:53.470Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkRY6pI7r",
+        "universalRef": "sli_NkRY6pI7r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkRY6pI7r.choice_41RiapLXS.id",
+                        "label": "choice_41RiapLXS",
+                        "value": "choice_41RiapLXS"
+                    },
+                    {
+                        "id": "sli_NkRY6pI7r.choice_NJgnTaUQB.id",
+                        "label": "choice_NJgnTaUQB",
+                        "value": "choice_NJgnTaUQB"
+                    },
+                    {
+                        "id": "sli_NkRY6pI7r.choice_VkwnppI7r.id",
+                        "label": "choice_VkwnppI7r",
+                        "value": "choice_VkwnppI7r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41RiapLXS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu’est-ce que la méthode LIMITER ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Inspirée par le coach François Delivré, la méthode LIMITER  est une to-do list détaillée qui permet de gérer plus efficacement les journées surchargées.",
+            "tips": "David Heinemeier, créateur du framework web Ruby on Rails et du wiki Instiki, conseille de planifier seulement 4 à 5 heures de travail réel par jour.",
+            "clue": "To do or not to do, telle est la question.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41RiapLXS": "Une to-do list améliorée à utiliser lors des journées surchargées",
+            "choice_NJgnTaUQB": "Une méthode pour dépasser ses limites",
+            "choice_VkwnppI7r": "Une méthode d'organisation du temps qui laisse l'après-midi libre pour générer de nouvelles idées"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What is the LIMITER method?",
+            "klf": "The LIMITER method is a detailed To Do list for effectively managing heavy work days. It was inspired by the work of coach, François Delivré.",
+            "tips": "David Heinemeier is the creator of the web development framework, Ruby on Rails, and also the Instiki Wiki app. He suggests you plan just 4 or 5 hours of actual work each day.",
+            "clue": "To do or not to do, that is the question.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41RiapLXS": "An enhanced To Do list for days when you’re overloaded at work",
+            "choice_NJgnTaUQB": "A method to help you surpass your limitations",
+            "choice_VkwnppI7r": "A method that helps you organise your time so that afternoons are free for generating new ideas "
+        }
+    }
+}

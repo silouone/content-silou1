@@ -1,0 +1,90 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T08:30:36.827Z",
+            "updatedAt": "2018-10-08T14:40:16.254Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkbGWYA7H",
+        "universalRef": "sli_EkbGWYA7H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkbGWYA7H.choice_V1lVZtCQB.id",
+                        "label": "choice_V1lVZtCQB",
+                        "value": "choice_V1lVZtCQB"
+                    },
+                    {
+                        "id": "sli_EkbGWYA7H.choice_NJS4bF07B.id",
+                        "label": "choice_NJS4bF07B",
+                        "value": "choice_NJS4bF07B"
+                    },
+                    {
+                        "id": "sli_EkbGWYA7H.choice_V1cNWYRXH.id",
+                        "label": "choice_V1cNWYRXH",
+                        "value": "choice_V1cNWYRXH"
+                    },
+                    {
+                        "id": "sli_EkbGWYA7H.choice_N1VBWY0mS.id",
+                        "label": "choice_N1VBWY0mS",
+                        "value": "choice_N1VBWY0mS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1VBWY0mS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment consulter sa messagerie pour être efficace selon la méthode LEAN ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La démarche LEAN appliquée à la gestion de ses mails consiste à consulter sa messagerie par périodes, à horaires fixes. 3 à 4 périodes par jour suffisent pour assurer une réponse dans un temps correct.",
+            "tips": "L’information-mapping est une technique pour standardiser les échanges écrits au sein d’une organisation, par souci de clarté et d’efficacité.",
+            "clue": "Régularité.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1lVZtCQB": "Seulement le matin",
+            "choice_NJS4bF07B": "Seulement le soir",
+            "choice_V1cNWYRXH": "À la réception de chaque nouveau mail",
+            "choice_N1VBWY0mS": "Par périodes, à horaires fixes "
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "According to the LEAN method, when should you check your emails if you want to be efficient? ",
+            "klf": "A LEAN approach to email management means checking your inbox at set times and for limited periods each day. 3 or 4 times a day should be enough to guarantee you always respond to emails within a reasonable time-frame.",
+            "tips": "Information mapping is a technique for standardising written exchanges in an organisation for the purpose of clarity and efficiency.",
+            "clue": "Regularity.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1lVZtCQB": "Only in the morning",
+            "choice_NJS4bF07B": "Only in the evening",
+            "choice_V1cNWYRXH": "Every time you receive a new email",
+            "choice_N1VBWY0mS": "At set times and for limited periods"
+        }
+    }
+}

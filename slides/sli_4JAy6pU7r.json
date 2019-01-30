@@ -1,0 +1,91 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:15:59.831Z",
+            "updatedAt": "2018-08-07T16:55:46.798Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JAy6pU7r",
+        "universalRef": "sli_4JAy6pU7r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JAy6pU7r.choice_41tZapUmH.id",
+                        "label": "choice_41tZapUmH",
+                        "value": "choice_41tZapUmH"
+                    },
+                    {
+                        "id": "sli_4JAy6pU7r.choice_EJxfT6L7S.id",
+                        "label": "choice_EJxfT6L7S",
+                        "value": "choice_EJxfT6L7S"
+                    },
+                    {
+                        "id": "sli_4JAy6pU7r.choice_V1BzaTUXr.id",
+                        "label": "choice_V1BzaTUXr",
+                        "value": "choice_V1BzaTUXr"
+                    },
+                    {
+                        "id": "sli_4JAy6pU7r.choice_E1-faaU7H.id",
+                        "label": "choice_E1-faaU7H",
+                        "value": "choice_E1-faaU7H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1BzaTUXr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier l’étape ultime de la méthode GTD ? ",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La méthode GTD incite à consulter régulièrement ce que vous avez à faire et surtout à passer à l’acte !",
+            "tips": "La méthode GTD conseille de réaliser une revue hebdomadaire de votre système d’organisation.",
+            "clue": "Clap de cinéma",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41tZapUmH": "réaction",
+            "choice_EJxfT6L7S": "proaction",
+            "choice_V1BzaTUXr": "action",
+            "choice_E1-faaU7H": "procrastination"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Saurez-vous identifier l’étape ultime de la méthode GTD ? ",
+            "klf": "La méthode GTD incite à consulter régulièrement ce que vous avez à faire et surtout à passer à l’acte !",
+            "tips": "La méthode GTD conseille de réaliser une revue hebdomadaire de votre système d’organisation.",
+            "clue": "Clap de cinéma",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41tZapUmH": "réaction",
+            "choice_EJxfT6L7S": "proaction",
+            "choice_V1BzaTUXr": "action",
+            "choice_E1-faaU7H": "procrastination"
+        }
+    }
+}

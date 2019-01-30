@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:06:29.602Z",
+            "updatedAt": "2018-08-07T16:46:28.887Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJ0U568QH",
+        "universalRef": "sli_VJ0U568QH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel26430",
+                        "items": [
+                            {
+                                "text": "choice_E1eLwcTI7r",
+                                "value": "choice_E1eLwcTI7r"
+                            },
+                            {
+                                "text": "choice_VJ~LD56IXr",
+                                "value": "choice_VJ~LD56IXr"
+                            },
+                            {
+                                "text": "choice_Ey3i9TImB",
+                                "value": "choice_Ey3i9TImB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel26430",
+                        "answers": [
+                            "choice_E1eLwcTI7r"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment passer efficacement à la réalisation des tâches de votre to-do list ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Quelle que soit la tâche que vous avez à faire, il est nécessaire de se demander quelle est la première action à entreprendre pour faciliter son organisation. Par exemple, vous pouvez avoir pour tâche d’écrire un article pour le site de votre entreprise, mais, selon la méthode GTD, l’action concrète à entreprendre dans un premier temps peut consister simplement à rédiger un sujet.",
+            "tips": "De nombreuses personnes utilisent le mind mapping pour appliquer la méthode GTD.  En effet, le mind mapping offre la possibilité de découper facilement un projet en tâches élémentaires.",
+            "clue": "Action Man",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Parmi les éléments que vous avez notés dans votre to-do list, vous avez identifié ceux qui sont actionnables. Pour procéder à leur réalisation efficace, vous {{sel26430}}.",
+            "choice_E1eLwcTI7r": "déterminez les actions concrètes",
+            "choice_VJ~LD56IXr": "les placez dans une liste à réaliser",
+            "choice_Ey3i9TImB": "les placez dans une liste à incuber"
+        },
+        "en": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "Comment passer efficacement à la réalisation des tâches de votre to-do list ?",
+            "klf": "Quelle que soit la tâche que vous avez à faire, il est nécessaire de se demander quelle est la première action à entreprendre pour faciliter son organisation. Par exemple, vous pouvez avoir pour tâche d’écrire un article pour le site de votre entreprise, mais, selon la méthode GTD, l’action concrète à entreprendre dans un premier temps peut consister simplement à rédiger un sujet.",
+            "tips": "De nombreuses personnes utilisent le mind mapping pour appliquer la méthode GTD.  En effet, le mind mapping offre la possibilité de découper facilement un projet en tâches élémentaires.",
+            "clue": "Action Man",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Parmi les éléments que vous avez notés dans votre to-do list, vous avez identifié ceux qui sont actionnables. Pour procéder à leur réalisation efficace, vous {{sel26430}}.",
+            "choice_E1eLwcTI7r": "déterminez les actions concrètes",
+            "choice_VJ~LD56IXr": "les placez dans une liste à réaliser",
+            "choice_Ey3i9TImB": "les placez dans une liste à incuber"
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T15:05:36.775Z",
+            "updatedAt": "2018-10-08T15:06:37.020Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EyftfIZSH",
+        "universalRef": "sli_EyftfIZSH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EyftfIZSH.choice_4kU3M8~SB.id",
+                        "label": "choice_4kU3M8~SB",
+                        "value": "choice_4kU3M8~SB"
+                    },
+                    {
+                        "id": "sli_EyftfIZSH.choice_EJ76MU~Br.id",
+                        "label": "choice_EJ76MU~Br",
+                        "value": "choice_EJ76MU~Br"
+                    },
+                    {
+                        "id": "sli_EyftfIZSH.choice_4196MI~Hr.id",
+                        "label": "choice_4196MI~Hr",
+                        "value": "choice_4196MI~Hr"
+                    },
+                    {
+                        "id": "sli_EyftfIZSH.choice_4yApzU~rB.id",
+                        "label": "choice_4yApzU~rB",
+                        "value": "choice_4yApzU~rB"
+                    },
+                    {
+                        "id": "sli_EyftfIZSH.choice_4kqRzI~Sr.id",
+                        "label": "choice_4kqRzI~Sr",
+                        "value": "choice_4kqRzI~Sr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4196MI~Hr",
+                        "choice_4yApzU~rB",
+                        "choice_4kqRzI~Sr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels outils de communication peuvent se révéler de véritables atouts pour être efficace dans le cadre du télétravail ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour être réellement efficace, vous devez disposer des différents outils de communication adaptés à vos différents besoins : une messagerie instantanée de groupe (comme Slack), un logiciel pour les vidéo-conférences (comme Skype), voire un réseau social privatif d'entreprise.",
+            "tips": "Le concept du \"workation\", mélange de <i>work</i> et <i>vacation</i>, est né il y a une dizaine d’années en Californie. Il existe aujourd'hui plus de 130 lieux de la sorte dans le monde, particulièrement des hôtels et des résidences privées, qui proposent de passer une partie de sa journée à travailler, et une autre à se détendre et se divertir comme on le ferait en congés. Bien que le concept fasse polémique, force est de constater qu'il fait des adeptes...",
+            "clue": "\"PowerPoint est mort, vive PowerPoint !\"",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kU3M8~SB": "PowerPoint",
+            "choice_EJ76MU~Br": "Un logiciel de mindmapping",
+            "choice_4196MI~Hr": "Un réseau social privatif d'entreprise",
+            "choice_4yApzU~rB": "Un logiciel pour passer des appels téléphoniques ou vidéo",
+            "choice_4kqRzI~Sr": "Une messagerie instantanée de groupe"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "Which communication tools can make you more efficient when working remotely?",
+            "klf": "To be really efficient, you need to use different communication tools for different needs: a group instant messaging service (like Slack), video conferencing software (like Skype), and even a private social network set up for your business.",
+            "tips": "The idea of a “workation” (derived from <i>work</i> and <i>vacation</i>) was developed around a decade ago in California. Today there are over 130 workation venues around the world, many in hotels and private residences. You can spend part of your day working and the other part of your day relaxing and enjoying yourself as you would do on holiday. Although the concept might be controversial, it clearly has quite a few supporters…",
+            "clue": "\"PowerPoint is dead, long live PowerPoint!\"",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kU3M8~SB": "PowerPoint",
+            "choice_EJ76MU~Br": "Mind mapping software",
+            "choice_4196MI~Hr": "A private social network set up specifically for your business",
+            "choice_4yApzU~rB": "Teleconferencing or videoconferencing software",
+            "choice_4kqRzI~Sr": "A group instant messaging service"
+        }
+    }
+}

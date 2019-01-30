@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-01T13:53:44.605Z",
+            "updatedAt": "2018-10-08T13:57:26.181Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41iG5sc4B",
+        "universalRef": "sli_41iG5sc4B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel14861",
+                        "items": [
+                            {
+                                "text": "choice_EkeSw9s9VB",
+                                "value": "choice_EkeSw9s9VB"
+                            },
+                            {
+                                "text": "choice_VyWBDcs9NS",
+                                "value": "choice_VyWBDcs9NS"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel76916",
+                        "items": [
+                            {
+                                "text": "choice_VkgrO9j9VH",
+                                "value": "choice_VkgrO9j9VH"
+                            },
+                            {
+                                "text": "choice_Nkbrdqs9VH",
+                                "value": "choice_Nkbrdqs9VH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel14861",
+                        "answers": [
+                            "choice_EkeSw9s9VB"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel76916",
+                        "answers": [
+                            "choice_Nkbrdqs9VH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment distinguer l'importance de l'urgence ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Les tâches importantes sont en lien direct avec nos objectifs de vie, qu'ils soient professionnels ou personnels. Les tâches urgentes, elles, n'ont pas forcément d'impact sur ces objectifs, mais doivent toutefois être réalisées rapidement.",
+            "tips": "En privilégiant les tâches importantes, vous pouvez également les découper en sous-objectifs atteignables en une séquence de 2 heures maximum pour à la fois augmenter vos chances de les réaliser et booster votre efficacité globale.",
+            "clue": "Qui dit urgence dit promptitude...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les tâches {{sel14861}} ont un impact sur nos objectifs de vie, tandis que les tâches {{sel76916}} n'en ont pas nécessairement mais demandent cependant à être réalisées rapidement.",
+            "choice_EkeSw9s9VB": "importantes",
+            "choice_VyWBDcs9NS": "urgentes",
+            "choice_VkgrO9j9VH": "importantes",
+            "choice_Nkbrdqs9VH": "urgentes"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menus.",
+            "header": "How do you differentiate between importance and urgency?",
+            "klf": "Important tasks are directly linked to our primary objectives, whether professional or personal. On the other hand, urgent tasks don’t necessarily have an impact on our main objectives, but they need to be done quickly.",
+            "tips": "When you’re prioritising important tasks, try breaking them up into several smaller tasks with attainable sub-objectives. You should then give yourself a maximum of 2 hours to achieve each sub-objective. This will increase your chances of accomplishing your main objective and boost your overall efficiency.",
+            "clue": "Urgency is about speed…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel14861}} tasks have an impact on our primary objectives. {{sel76916}} tasks don’t necessarily contribute to our main objectives but still need to be carried out quickly.",
+            "choice_EkeSw9s9VB": "important ",
+            "choice_VyWBDcs9NS": "urgent",
+            "choice_VkgrO9j9VH": "important",
+            "choice_Nkbrdqs9VH": "urgent"
+        }
+    }
+}

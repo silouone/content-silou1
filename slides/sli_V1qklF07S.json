@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T08:29:11.219Z",
+            "updatedAt": "2018-10-08T14:39:23.645Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1qklF07S",
+        "universalRef": "sli_V1qklF07S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1qklF07S.choice_EyNCgKRXr.id",
+                        "label": "choice_EyNCgKRXr",
+                        "value": "choice_EyNCgKRXr"
+                    },
+                    {
+                        "id": "sli_V1qklF07S.choice_Vk6Aet0XH.id",
+                        "label": "choice_Vk6Aet0XH",
+                        "value": "choice_Vk6Aet0XH"
+                    },
+                    {
+                        "id": "sli_V1qklF07S.choice_41QJWKCmH.id",
+                        "label": "choice_41QJWKCmH",
+                        "value": "choice_41QJWKCmH"
+                    },
+                    {
+                        "id": "sli_V1qklF07S.choice_V19JZFR7B.id",
+                        "label": "choice_V19JZFR7B",
+                        "value": "choice_V19JZFR7B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41QJWKCmH",
+                        "choice_Vk6Aet0XH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier quels principes font partie de la méthode des 5S ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La méthode des 5S représente les principes suivis dans les méthodes LEAN de Toyota : supprimer l'inutile ; situer les choses ; soigner son espace ; standardiser les règles ; suivre et progresser.",
+            "tips": "Les principes des 5S viennent des termes japonais <i>Seiri</i> (ranger), <i>Seiton</i> (ordre), <i>Seiso</i> (nettoyage), <i>Seiketsu</i> (propre), <i>Shitsuke</i> (éducation).",
+            "clue": "L'urgent et l'important, c'est plutôt Eisenhower.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyNCgKRXr": "Établir des to-do listes quotidiennes",
+            "choice_Vk6Aet0XH": "Standardiser les règles",
+            "choice_41QJWKCmH": "Suivre et progresser",
+            "choice_V19JZFR7B": "Privilégier l’important à l’urgent"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "Which of the following processes are part of the 5S method?",
+            "klf": "Toyota uses 5S as part of its LEAN manufacturing approach. The phases of 5S are: “Sort” and remove unnecessary items, “set in order” all that’s remaining, “shine” and clean the workplace, “standardise” processes and rules and “sustain” by ensuring the 5S approach is followed.",
+            "tips": "The 5S principles come from the Japanese terms <i>Seiri</i> (tidiness), <i>Seiton</i> (orderliness), <i>Seiso</i> (cleanliness), <i>Seiketsu</i> (standardisation), and <i>Shitsuke</i> (discipline).",
+            "clue": "It was Eisenhower who spoke about urgency and importance.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyNCgKRXr": "Write To Do lists every day",
+            "choice_Vk6Aet0XH": "Standardise the rules",
+            "choice_41QJWKCmH": "Sustain and follow the approach",
+            "choice_V19JZFR7B": "Prioritise anything important over anything urgent"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T15:03:47.590Z",
+            "updatedAt": "2018-10-08T15:05:44.590Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E157GLbHH",
+        "universalRef": "sli_E157GLbHH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E157GLbHH.choice_VywBGU~rH.id",
+                        "label": "choice_VywBGU~rH",
+                        "value": "choice_VywBGU~rH"
+                    },
+                    {
+                        "id": "sli_E157GLbHH.choice_4J-HMUZSS.id",
+                        "label": "choice_4J-HMUZSS",
+                        "value": "choice_4J-HMUZSS"
+                    },
+                    {
+                        "id": "sli_E157GLbHH.choice_EkF8zUbSB.id",
+                        "label": "choice_EkF8zUbSB",
+                        "value": "choice_EkF8zUbSB"
+                    },
+                    {
+                        "id": "sli_E157GLbHH.choice_EJCUGIZrS.id",
+                        "label": "choice_EJCUGIZrS",
+                        "value": "choice_EJCUGIZrS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VywBGU~rH",
+                        "choice_4J-HMUZSS",
+                        "choice_EJCUGIZrS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment bien préparer une journée en télétravail ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le télétravail nécessite une préparation. Avant tout, il est nécessaire de s’engager sur un objectif précis. Pensez bien à indiquer dans votre agenda digital partagé les tâches sur lesquelles vous allez travailler et vérifiez que vous disposez de tout ce qu’il faut pour les accomplir. Isolez vous des perturbations extérieures pour optimiser votre concentration : n'hésitez pas à sensibiliser votre entourage aux exigences de cette organisation de travail particulière !",
+            "tips": "Selon une étude menée par l’ARSEG, 58 % des entreprises auraient recours au partage des postes de travail, aussi appelé le flex-office.",
+            "clue": "Pour les tâches de la maison, une autre organisation s'impose !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VywBGU~rH": "Avoir un objectif précis",
+            "choice_4J-HMUZSS": "Disposer du matériel nécessaire pour travailler",
+            "choice_EkF8zUbSB": "Faire sa to-do list en y incluant ses tâches ménagères",
+            "choice_EJCUGIZrS": "S’isoler des perturbations ou tentations de sa vie privée"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "What’s the best way to prepare for a day working from home?",
+            "klf": "Remote working requires preparation. First and foremost, you need to have a specific objective. Have a think about noting down the tasks you’ll be working on in your shared digital calendar and check you have everything you need to complete your chosen tasks. To stay focused, make sure you minimise potential disruptions. It’s also a good idea to make your family aware of the particular challenges that come with working from home!",
+            "tips": "According to a study carried out by ARSEG, 58% of businesses have operated flex offices (flexible working environments) at some point or another.",
+            "clue": "In terms of housework, you may need to involve another organisation!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VywBGU~rH": "Make sure you have a clear objective",
+            "choice_4J-HMUZSS": "Make sure you have all the documents you need to work remotely  ",
+            "choice_EkF8zUbSB": "Put together a To Do list which includes your household chores",
+            "choice_EJCUGIZrS": "Keep a distance from disruptions or temptations in your private life"
+        }
+    }
+}

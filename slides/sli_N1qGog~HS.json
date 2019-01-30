@@ -1,0 +1,91 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T08:52:12.679Z",
+            "updatedAt": "2018-10-08T15:03:05.652Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1qGog~HS",
+        "universalRef": "sli_N1qGog~HS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1qGog~HS.choice_VJ5BjxWrB.id",
+                        "label": "choice_VJ5BjxWrB",
+                        "value": "choice_VJ5BjxWrB"
+                    },
+                    {
+                        "id": "sli_N1qGog~HS.choice_4kl8sgZBS.id",
+                        "label": "choice_4kl8sgZBS",
+                        "value": "choice_4kl8sgZBS"
+                    },
+                    {
+                        "id": "sli_N1qGog~HS.choice_VJ8UixWBS.id",
+                        "label": "choice_VJ8UixWBS",
+                        "value": "choice_VJ8UixWBS"
+                    },
+                    {
+                        "id": "sli_N1qGog~HS.choice_4k19UuIrS.id",
+                        "label": "choice_4k19UuIrS",
+                        "value": "choice_4k19UuIrS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kl8sgZBS",
+                        "choice_VJ8UixWBS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Par quoi certaines réunions peuvent-elles être remplacées ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Certaines réunions peuvent aussi être remplacées par certains outils en ligne comme une messagerie instantanée, voire par un mail si on a simplement besoin de diffuser des informations en une seule fois.",
+            "tips": "Pour booster l’engagement des participants et les faire réagir tout au long de la réunion, on peut lancer plusieurs activités à l'aide des outils digitaux. Il peut s’agir d’un quiz ou d’un sondage dans lesquels chaque participant va pouvoir voter ou \"liker\" une proposition en directe.",
+            "clue": "Outils digitaux.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ5BjxWrB": "Du bon sens",
+            "choice_4kl8sgZBS": "Une messagerie instantanée",
+            "choice_VJ8UixWBS": "Un mail",
+            "choice_4k19UuIrS": "Un teambuilding"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What can we use to replace some meetings?",
+            "klf": "Some meetings can also be replaced with online tools. You could have a discussion using an instant messaging service, for example, or you could just use email if all you need to do is circulate one lot of information.",
+            "tips": "To improve levels of participation and engagement throughout a meeting, you could set up some innovative activities using digital tools. You could set up a quiz or survey where attendees have to vote there and then on whether they “like” a particular suggestion.",
+            "clue": "Digital tools.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ5BjxWrB": "Our common sense",
+            "choice_4kl8sgZBS": "Instant messaging",
+            "choice_VJ8UixWBS": "Emails",
+            "choice_4k19UuIrS": "Team building"
+        }
+    }
+}

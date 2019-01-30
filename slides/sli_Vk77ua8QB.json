@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:55:53.460Z",
+            "updatedAt": "2018-08-01T14:15:37.788Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vk77ua8QB",
+        "universalRef": "sli_Vk77ua8QB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vk77ua8QB.choice_NyKI-6I7S.id",
+                        "label": "choice_NyKI-6I7S",
+                        "value": "choice_NyKI-6I7S"
+                    },
+                    {
+                        "id": "sli_Vk77ua8QB.choice_Nys8O6IQr.id",
+                        "label": "choice_Nys8O6IQr",
+                        "value": "choice_Nys8O6IQr"
+                    },
+                    {
+                        "id": "sli_Vk77ua8QB.choice_V1Mw-6IQB.id",
+                        "label": "choice_V1Mw-6IQB",
+                        "value": "choice_V1Mw-6IQB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyKI-6I7S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l’objectif que propose de se donner la méthode de la matrice d’Eisenhower ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le but de la matrice d'Eisenhower est de réaliser le plus grand nombre de tâches importantes.",
+            "tips": "Elon Musk divise ses journées en mini-créneaux de 5 minutes pour réaliser le maximum de tâches urgentes et importantes.",
+            "clue": "gros cailloux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyKI-6I7S": "réaliser le plus grand nombre de tâches importantes",
+            "choice_Nys8O6IQr": "réaliser le plus grand nombre de tâches urgentes",
+            "choice_V1Mw-6IQB": "réaliser le plus grand nombre de tâches"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Quel est l’objectif que propose de se donner la méthode de la matrice d’Eisenhower ?",
+            "klf": "Le but de la matrice d'Eisenhower est de réaliser le plus grand nombre de tâches importantes.",
+            "tips": "Elon Musk divise ses journées en mini-créneaux de 5 minutes pour réaliser le maximum de tâches urgentes et importantes.",
+            "clue": "gros cailloux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyKI-6I7S": "réaliser le plus grand nombre de tâches importantes",
+            "choice_Nys8O6IQr": "réaliser le plus grand nombre de tâches urgentes",
+            "choice_V1Mw-6IQB": "réaliser le plus grand nombre de tâches"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T08:22:13.108Z",
+            "updatedAt": "2018-10-08T14:36:40.633Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1c0CdRXH",
+        "universalRef": "sli_N1c0CdRXH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel85564",
+                        "items": [
+                            {
+                                "text": "choice_EJem4JKAXS",
+                                "value": "choice_EJem4JKAXS"
+                            },
+                            {
+                                "text": "choice_4ywBytCmB",
+                                "value": "choice_4ywBytCmB"
+                            },
+                            {
+                                "text": "choice_N10B1FCmS",
+                                "value": "choice_N10B1FCmS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel85564",
+                        "answers": [
+                            "choice_EJem4JKAXS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "À quel problème principal nuisant à l’efficacité la méthode LEAN s’attaque-t-elle ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La méthode LEAN propose de lutter contre les sources de gaspillage. Appliquer la démarche LEAN à la gestion du temps consiste à détecter ce qui vous fait perdre du temps et ce qui diminue ainsi votre performance pour obtenir un gain important et immédiat en efficacité.",
+            "tips": "Dans le système de production de Toyota qui nous a donné la méthode LEAN, un \"muda\" est une forme de gaspillage. C’est par son identification et son élimination que les processus deviennent plus riches en valeur ajoutée. En ajoutant aux \"muda\" les \"mura\" (irrégularités, variabilité) et \"muri\" (pénibilités, surcharges), on arrive aux 3M, trois formes de « gâchis » à chasser.",
+            "clue": "Point de perte.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour booster la performance, la méthode LEAN vise à réduire les {{sel85564}}.",
+            "choice_EJem4JKAXS": "gaspillages",
+            "choice_4ywBytCmB": "urgences",
+            "choice_N10B1FCmS": "imprévus"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "LEAN pays particular attention to resolving one issue that has a negative impact on efficiency. What is it?",
+            "klf": "The LEAN method says you should reduce sources of waste. Adopting a LEAN approach to time management means focusing your attention on what causes time to be wasted. This will lead to significant and immediate improvement in efficiency and effectiveness.",
+            "tips": "LEAN was developed for the Toyota Production System (TPS) where “muda” refers to a form of waste. By identifying and eliminating process waste, you’ll see increased added value. There are 3 types of waste overall. “Muda”, and also “mura” (irregularities, unevenness) and “muri” (difficulties, overload).",
+            "clue": "Point of loss.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The aim of LEAN is to boost performance by reducing {{sel85564}}.",
+            "choice_EJem4JKAXS": "waste ",
+            "choice_4ywBytCmB": "urgent issues ",
+            "choice_N10B1FCmS": "unforeseen occurrences"
+        }
+    }
+}

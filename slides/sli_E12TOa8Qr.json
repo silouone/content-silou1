@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:58:27.683Z",
+            "updatedAt": "2018-10-08T14:01:20.406Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E12TOa8Qr",
+        "universalRef": "sli_E12TOa8Qr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E12TOa8Qr.choice_EJ3yF6L7r.id",
+                        "label": "choice_EJ3yF6L7r",
+                        "value": "choice_EJ3yF6L7r"
+                    },
+                    {
+                        "id": "sli_E12TOa8Qr.choice_VJllFaLQB.id",
+                        "label": "choice_VJllFaLQB",
+                        "value": "choice_VJllFaLQB"
+                    },
+                    {
+                        "id": "sli_E12TOa8Qr.choice_EJqgKT8XB.id",
+                        "label": "choice_EJqgKT8XB",
+                        "value": "choice_EJqgKT8XB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJ3yF6L7r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel conseil donne la méthode Getting Things Done pour libérer son esprit ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Selon la méthode GTD, pour libérer son esprit et par conséquent devenir plus efficace, il faut noter systématiquement tout ce qui vous passe par la tête, sur un support accessible en toutes circonstances.",
+            "tips": "Les méthodes d’auto-pointage proposent de noter les événements au fur et à mesure qu’ils arrivent afin de mieux analyser nos dépenses de temps pour détecter le temps consacré à des tâches inutiles ou à faible valeur ajoutée.",
+            "clue": "Le pouvoir de la plume...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ3yF6L7r": "Noter systématiquement tout ce qui vous passe par la tête",
+            "choice_VJllFaLQB": "Passer à l’action",
+            "choice_EJqgKT8XB": "Faire confiance à sa mémoire"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "According to the Getting Things Done method, what should you do to free your mind?",
+            "klf": "The GTD method suggests writing everything down that comes into your head, no matter where or when that happens. This will help free your mind and as a result, you’ll be more efficient.",
+            "tips": "Self-monitoring methods say the best way to analyse how you spend time is by writing down what you do as and when you do it. You’ll then be able to work out if you’re devoting time to tasks that aren’t very useful or add little value.",
+            "clue": "The power of the pen…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ3yF6L7r": "Write down everything that comes into your head straight away",
+            "choice_VJllFaLQB": "Start doing your tasks",
+            "choice_EJqgKT8XB": "Trust your memory"
+        }
+    }
+}

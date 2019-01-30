@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:47:40.230Z",
+            "updatedAt": "2018-10-08T13:53:24.660Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JyHIpUmH",
+        "universalRef": "sli_4JyHIpUmH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4JyHIpUmH.choice_EyVL8pU7B.id",
+                        "label": "choice_EyVL8pU7B",
+                        "value": "choice_EyVL8pU7B"
+                    },
+                    {
+                        "id": "sli_4JyHIpUmH.choice_Vyc8LaUmB.id",
+                        "label": "choice_Vyc8LaUmB",
+                        "value": "choice_Vyc8LaUmB"
+                    },
+                    {
+                        "id": "sli_4JyHIpUmH.choice_NJ1vLTI7r.id",
+                        "label": "choice_NJ1vLTI7r",
+                        "value": "choice_NJ1vLTI7r"
+                    },
+                    {
+                        "id": "sli_4JyHIpUmH.choice_EyEwL6LXS.id",
+                        "label": "choice_EyEwL6LXS",
+                        "value": "choice_EyEwL6LXS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyVL8pU7B",
+                        "choice_NJ1vLTI7r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les deux critères proposés par la matrice Eisenhower pour prioriser ses tâches ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La matrice d'Eisenhower est un outil qui propose de trier ses tâches en fonction de leur importance et de leur urgence. Son usage permet de redonner la primauté aux tâches importantes sans se laisser distraire par les sirènes de l’urgence.",
+            "tips": "La matrice des priorités, dite d’Eisenhower, aurait été inspirée d’une citation de Dwight D. Eisenhower, le 34e président des Etats-Unis : « Ce qui est important est rarement urgent et ce qui est urgent rarement important. »",
+            "clue": "Tout est dans la rime...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVL8pU7B": "Importance",
+            "choice_Vyc8LaUmB": "Temps disponible",
+            "choice_NJ1vLTI7r": "Urgence",
+            "choice_EyEwL6LXS": "Énergie"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "The Eisenhower Matrix can help you prioritise tasks at work. It’s based on two criteria, what are they?",
+            "klf": "The Eisenhower Matrix is a tool that suggests classifying your tasks according to their importance and urgency. The matrix helps you focus on achieving important tasks without being too distracted by activities that are said to be urgent.",
+            "tips": "The Eisenhower matrix (also called the priority matrix) was inspired by a quote from the 34th US President, Dwight D. Eisenhower:  “What is important is seldom urgent and what is urgent is seldom important”.",
+            "clue": "One word each…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVL8pU7B": "Importance",
+            "choice_Vyc8LaUmB": "Free time",
+            "choice_NJ1vLTI7r": "Urgency",
+            "choice_EyEwL6LXS": "Energy levels"
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T14:59:57.509Z",
+            "updatedAt": "2018-10-08T14:56:07.628Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1Nz~UZBS",
+        "universalRef": "sli_E1Nz~UZBS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel19488",
+                        "items": [
+                            {
+                                "text": "choice_4Jen4~IbBS",
+                                "value": "choice_4Jen4~IbBS"
+                            },
+                            {
+                                "text": "choice_N1~3VZI~BH",
+                                "value": "choice_N1~3VZI~BH"
+                            },
+                            {
+                                "text": "choice_N1CLW8brS",
+                                "value": "choice_N1CLW8brS"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel94224",
+                        "items": [
+                            {
+                                "text": "choice_4kl4rb8~Hr",
+                                "value": "choice_4kl4rb8~Hr"
+                            },
+                            {
+                                "text": "choice_EJW4BZ8brH",
+                                "value": "choice_EJW4BZ8brH"
+                            },
+                            {
+                                "text": "choice_EySF~IbHS",
+                                "value": "choice_EySF~IbHS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel19488",
+                        "answers": [
+                            "choice_4Jen4~IbBS"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel94224",
+                        "answers": [
+                            "choice_EySF~IbHS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En quoi le digital et les technologies mobiles ont-ils profondément modifié le rapport des salariés à leur lieu de travail ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "La révolution digitale a rendu possible un nouvel espace-temps de travail : il est désormais possible pour les salariés de travailler n'importe quand et depuis n'importe où.",
+            "tips": "Selon une étude menée en 2014 par le sociologue Cristobal Young à l’Université de Stanford, « pour être satisfaisant, notre temps libre doit être aligné, coordonné, avec celui de nos amis et proches. »",
+            "clue": "Shakira l'a chanté en 2001...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Grâce aux technologies mobiles, beaucoup de salariés peuvent désormais travailler {{sel19488}} et {{sel94224}} en étant très efficaces dans leurs tâches.",
+            "choice_4Jen4~IbBS": "n'importe où",
+            "choice_N1~3VZI~BH": "à n'importe quel prix",
+            "choice_4kl4rb8~Hr": "avec n'importe quelles équipes",
+            "choice_EJW4BZ8brH": "avec un minimum de connaissances opérationnelles",
+            "choice_N1CLW8brS": "avec n'importe quelles ressources",
+            "choice_EySF~IbHS": "n'importe quand"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menus.",
+            "header": "How have digital and mobile technologies changed the way employees connect with their workplace?",
+            "klf": "A new way of working has come about as a result of the digital revolution. Employees now have opportunities to work whenever and wherever they wish.",
+            "tips": "According to a 2014 study by Stanford Sociologist, Cristobal Young, our free time must be aligned and coordinated with that of our friends and family.",
+            "clue": "Shakira sung about this in 2001…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Thanks to mobile technology, many employees can now work {{sel19488}} and {{sel94224}} they choose by being highly efficient in what they do.",
+            "choice_4Jen4~IbBS": "wherever",
+            "choice_N1~3VZI~BH": "for any salary",
+            "choice_4kl4rb8~Hr": "with any team",
+            "choice_EJW4BZ8brH": " with a minimum level of operational knowledge",
+            "choice_N1CLW8brS": "with any resources",
+            "choice_EySF~IbHS": "whenever"
+        }
+    }
+}

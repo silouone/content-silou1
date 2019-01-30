@@ -1,0 +1,91 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T15:09:07.672Z",
+            "updatedAt": "2018-10-08T15:08:56.328Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41a-X8~rB",
+        "universalRef": "sli_41a-X8~rB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41a-X8~rB.choice_E11jmUWrr.id",
+                        "label": "choice_E11jmUWrr",
+                        "value": "choice_E11jmUWrr"
+                    },
+                    {
+                        "id": "sli_41a-X8~rB.choice_4kEjX8~Sr.id",
+                        "label": "choice_4kEjX8~Sr",
+                        "value": "choice_4kEjX8~Sr"
+                    },
+                    {
+                        "id": "sli_41a-X8~rB.choice_4yds7L~BS.id",
+                        "label": "choice_4yds7L~BS",
+                        "value": "choice_4yds7L~BS"
+                    },
+                    {
+                        "id": "sli_41a-X8~rB.choice_4koiQI~rr.id",
+                        "label": "choice_4koiQI~rr",
+                        "value": "choice_4koiQI~rr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E11jmUWrr",
+                        "choice_4yds7L~BS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels outils permettent de créer des murs digitaux collaboratifs pour gérer ses projets d'équipe ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Il est tout à fait possible de gérer les projets et de récolter les idées de ses collaborateurs à distance. Pour les centraliser, il est recommandé d’utiliser des \"murs collaboratifs\" en ligne. Il est possible de les créer, en y ajoutant des notes, des vidéos et des images, grâce à des outils comme Trello ou Padlet.",
+            "tips": "Trello est l'incarnation-même du télétravail réussi : sur les 100 collaborateurs de la start-up basée à New York, 60 % travaillent depuis différents continents.",
+            "clue": "Ils sont deux.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E11jmUWrr": "Trello",
+            "choice_4kEjX8~Sr": "Evernote",
+            "choice_4yds7L~BS": "Padlet",
+            "choice_4koiQI~rr": "Zotero"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Which tools help you create digital collaborative “boards” for managing team projects?",
+            "klf": "When you’re working remotely, it’s pretty easy these days to manage projects and collate ideas from employees. When you’re trying to pull ideas together, it’s best to use an online “collaborative wall”. You can create collaborative walls using online tools such as Trello or Padlet which allow you to add written text, videos or images to any wall you build.",
+            "tips": "And Trello itself is a perfect example of successful remote working. The New York-based company has around 100 staff and 60% of them work on different continents.",
+            "clue": "There are two in all.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E11jmUWrr": "Trello",
+            "choice_4kEjX8~Sr": "Evernote",
+            "choice_4yds7L~BS": "Padlet",
+            "choice_4koiQI~rr": "Zotero"
+        }
+    }
+}
