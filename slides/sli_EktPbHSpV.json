@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:34:36.869Z",
+            "updatedAt": "2018-06-22T15:30:29.866Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EktPbHSpV",
+        "universalRef": "sli_EktPbHSpV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EktPbHSpV.choice_41xmJMrBTN.id",
+                        "label": "choice_41xmJMrBTN",
+                        "value": "choice_41xmJMrBTN",
+                        "media": "med_41QyMrBa4"
+                    },
+                    {
+                        "id": "sli_EktPbHSpV.choice_E1eQgfSH6E.id",
+                        "label": "choice_E1eQgfSH6E",
+                        "value": "choice_E1eQgfSH6E",
+                        "media": "med_NJ7eGSBpV"
+                    },
+                    {
+                        "id": "sli_EktPbHSpV.choice_VyevZzrH6E.id",
+                        "label": "choice_VyevZzrH6E",
+                        "value": "choice_VyevZzrH6E",
+                        "media": "med_NJwZMSrT4"
+                    },
+                    {
+                        "id": "sli_EktPbHSpV.choice_N1xSzMHraV.id",
+                        "label": "choice_N1xSzMHraV",
+                        "value": "choice_N1xSzMHraV",
+                        "media": "med_4JSGzSHTN"
+                    },
+                    {
+                        "id": "sli_EktPbHSpV.choice_EJeTQfSH64.id",
+                        "label": "choice_EJeTQfSH64",
+                        "value": "choice_EJeTQfSH64",
+                        "media": "med_VJ6QGSS6E"
+                    },
+                    {
+                        "id": "sli_EktPbHSpV.choice_NJl-EfBr6E.id",
+                        "label": "choice_NJl-EfBr6E",
+                        "value": "choice_NJl-EfBr6E",
+                        "media": "med_41d4frrpN"
+                    },
+                    {
+                        "id": "sli_EktPbHSpV.choice_Nyx2HMrHaE.id",
+                        "label": "choice_Nyx2HMrHaE",
+                        "value": "choice_Nyx2HMrHaE",
+                        "media": "med_Vk2BMSrTN"
+                    },
+                    {
+                        "id": "sli_EktPbHSpV.choice_41ecPzHS6N.id",
+                        "label": "choice_41ecPzHS6N",
+                        "value": "choice_41ecPzHS6N",
+                        "media": "med_V1cwMBHpE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1xSzMHraV",
+                        "choice_Nyx2HMrHaE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi ces questions, lesquelles ne font pas partie de la checklist SCAMPER ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les questions du SCAMPER sont : substituer, combiner, adapter, magnifier, proposer, éliminer, réorganiser. Il est à noter que, comme la majorité des techniques de créativité, la méthode SCAMPER n’est pas une méthode « logique » au sens où les questions posées n’ont pas nécessairement de réponses mais servent principalement à générer des idées.",
+            "tips": "Alex Osborn, le « père » du brainstorming, est à l’origine de certaines questions de la méthode SCAMPER. Toutefois, c’est Bob Eberle qui a organisé ces questions sous la forme de cet acronyme en 1971.",
+            "clue": "Ne rien dissimuler.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41xmJMrBTN": "Adapter",
+            "choice_E1eQgfSH6E": "Combiner",
+            "choice_VyevZzrH6E": "Substituer",
+            "choice_N1xSzMHraV": "Sélectionner",
+            "choice_EkgCGzBrT4": "proposer",
+            "choice_EJeTQfSH64": "Magnifier",
+            "choice_NJl-EfBr6E": "Réorganiser",
+            "choice_Nyx2HMrHaE": "Cacher",
+            "choice_41ecPzHS6N": "Proposer"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Which of these questions is not on the SCAMPER checklist?",
+            "klf": "The SCAMPER actions are: substitute, combine, adapt, modify, put to another use, eliminate and reverse. It’s also worth remembering that, like most techniques for boosting creativity, the SCAMPER method is not structured around logic, in that the questions it brings up don’t necessarily require an answer. Instead, they serve mainly to generate ideas.",
+            "tips": "Brainstorming’s founding father, Alex Osborn, is behind some of the SCAMPER method’s actions. However, it was Bob Eberle who organised the seven into an acronym in 1971.",
+            "clue": "Don’t sweep anything under the rug.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41xmJMrBTN": "Adapt",
+            "choice_E1eQgfSH6E": "Combine",
+            "choice_VyevZzrH6E": "Substitute",
+            "choice_N1xSzMHraV": "Select",
+            "choice_EkgCGzBrT4": "proposer",
+            "choice_EJeTQfSH64": "Modify",
+            "choice_NJl-EfBr6E": "Reverse",
+            "choice_Nyx2HMrHaE": "Hide",
+            "choice_41ecPzHS6N": "Put to another use"
+        }
+    }
+}

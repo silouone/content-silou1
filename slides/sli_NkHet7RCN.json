@@ -1,0 +1,90 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-23T09:55:16.683Z",
+            "updatedAt": "2018-06-22T15:40:25.650Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkHet7RCN",
+        "universalRef": "sli_NkHet7RCN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkHet7RCN.choice_EkHqYmCCV.id",
+                        "label": "choice_EkHqYmCCV",
+                        "value": "choice_EkHqYmCCV"
+                    },
+                    {
+                        "id": "sli_NkHet7RCN.choice_V19cYQ0RE.id",
+                        "label": "choice_V19cYQ0RE",
+                        "value": "choice_V19cYQ0RE"
+                    },
+                    {
+                        "id": "sli_NkHet7RCN.choice_4kA9FQACN.id",
+                        "label": "choice_4kA9FQACN",
+                        "value": "choice_4kA9FQACN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkHqYmCCV"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NJoPbqEZS",
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le fondateur du restaurant trouve plusieurs réponses, notamment \"créer des hamburgers végétariens de qualité\". À quelle question du SCAMPER cette réponse correspond-elle ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Substituer est le fait de remplacer, d’échanger un élément par un autre afin de favoriser un changement, une idée inattendue, un renouvellement. Le principe est donc de se demander ce qui peut être remplacé pour apporter une amélioration : puis-je utiliser d’autres ingrédients ou matériaux à la place de ceux utilisés actuellement ? Peut-on utiliser une autre approche ?",
+            "tips": "Selon l’entrepreneur Elon Musk, le meilleur conseil qu’on puisse suivre en matière de créativité est de penser constamment à la façon dont nous pouvons mener nos projets d’une meilleure manière, et de toujours nous remettre en question.",
+            "clue": "Notre fabricant d'imprimantes aurait remplacé l'encre par du plastique.",
+            "context_title": "Cas pratique",
+            "context_description": "Un restaurant spécialisé dans la confection de hamburgers faits maison à base de poulet décide de diversifier ses produits. Pour ce faire, le fondateur choisit d'utiliser la méthode SCAMPER sous la forme du mind mapping. Il note donc son idée à concasser au centre de sa carte et développe les questions du SCAMPER sous forme de branches principales.",
+            "context_media_description": "",
+            "choice_EkHqYmCCV": "Substituer",
+            "choice_V19cYQ0RE": "Magnifier",
+            "choice_4kA9FQACN": "Réorganiser"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "The restaurateur hits on lots of responses, including “make top-quality veggie burgers”. Which SCAMPER action does this response correspond to?",
+            "klf": "Substituting means swapping or exchanging something for another to bring about a change or unexpected idea or to rejuvenate something. The key is to ask what element can be replaced to improve things – is there a way of using other components or materials? Could I use a different approach?",
+            "tips": "According to entrepreneur Elon Musk, the best advice anyone can give you as regards creativity is that you constantly think about how you can lead your projects better and never stop asking yourself questions.",
+            "clue": "A switch has been made.",
+            "context_title": "Case study",
+            "context_description": "A handmade chicken burger restaurant has decided to diversify its product range. To do this, the founder opts to mind map using the SCAMPER method. He writes down the idea he wants to drill down into in the centre of his map, then he develops his SCAMPER actions as branches.",
+            "context_media_description": "",
+            "choice_EkHqYmCCV": "Substitute",
+            "choice_V19cYQ0RE": "Modify",
+            "choice_4kA9FQACN": "Reverse"
+        }
+    }
+}

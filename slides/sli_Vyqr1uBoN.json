@@ -1,0 +1,77 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T09:37:03.527Z",
+            "updatedAt": "2018-06-22T08:22:21.831Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T09:37:03.527Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vyqr1uBoN",
+        "universalRef": "sli_Vyqr1uBoN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_VkQO8uSo4"
+            ],
+            "content": {
+                "id": "sli_Vyqr1uBoN.id",
+                "min": 0,
+                "max": 50,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de temps libre Google laisse-t-il à ses employés pour développer leurs propres projets ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Google laisse à ses employés la possibilité de disposer de 20 % de leur temps de travail pour se consacrer à des projets autres que les tâches qui leur sont assignées. Ce principe rendrait les employés plus créatifs et innovants.",
+            "tips": "Cette liberté a permis de faire naître des idées comme Gmail ou AdSense (régie publicitaire de Google).",
+            "clue": "Système vicésimal.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "%",
+            "description": "20 %",
+            "answerMin": 15,
+            "answerMax": 25
+        },
+        "en": {
+            "explanation": "Move the cursor.",
+            "header": "How much free time does Google give its employees to develop their own projects?",
+            "klf": "Google allows its workforce to spend 20% of their time working on projects of their own choosing. The idea behind the 20% principle is that it makes employees more creative and innovative.",
+            "tips": "Having this freedom has led to the development of ideas such as Gmail and AdSense, Google’s advertising program.",
+            "clue": "Four less than a couple of dozen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "%",
+            "description": "20%",
+            "answerMin": 15,
+            "answerMax": 25
+        }
+    }
+}

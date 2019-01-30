@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T12:53:57.413Z",
+            "updatedAt": "2018-06-22T15:57:54.786Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T12:53:57.413Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJLE5PU0E",
+        "universalRef": "sli_EJLE5PU0E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJLE5PU0E.choice_EJdO9wL0V.id",
+                        "label": "choice_EJdO9wL0V",
+                        "value": "choice_EJdO9wL0V"
+                    },
+                    {
+                        "id": "sli_EJLE5PU0E.choice_EkKucw8CE.id",
+                        "label": "choice_EkKucw8CE",
+                        "value": "choice_EkKucw8CE"
+                    },
+                    {
+                        "id": "sli_EJLE5PU0E.choice_E11t9PLCN.id",
+                        "label": "choice_E11t9PLCN",
+                        "value": "choice_E11t9PLCN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJdO9wL0V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle qualité  particulière est nécessaire pour réussir son brainstorming ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour réussir un brainstorming, il ne faut pas avoir peur de casser ce que vous venez d’établir. Une flexibilité mentale est indispensable pour rester créatif !",
+            "tips": "En psychologie, le test de Stroop permet de tester la flexibilité mentale. Il est constitué de noms de couleurs écrits avec les différentes couleurs (bleu, rouge, vert, etc.) Vous devez dire la couleur et non pas lire le mot.",
+            "clue": "Roseau.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJdO9wL0V": "La flexibilité mentale",
+            "choice_EkKucw8CE": "La rigueur",
+            "choice_E11t9PLCN": "L’extraversion"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "One particular quality is required to make a brainstorming session successful – what is it?",
+            "klf": "To make your brainstorming session a success, you mustn’t be afraid to dismantle everything you’ve just established. It’s essential your mind stays flexible if you want to stay creative.",
+            "tips": "The Stroop test is psychology’s way of assessing mental flexibility. It uses a list of colour words written in a whole variety of non-corresponding shades (blue, red, green and so on). The person under examination has to say the name of the font colour, rather than reading the word.",
+            "clue": "Like a reed in the wind.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJdO9wL0V": "Mental flexibility",
+            "choice_EkKucw8CE": "Thoroughness",
+            "choice_E11t9PLCN": "Extroversion"
+        }
+    }
+}

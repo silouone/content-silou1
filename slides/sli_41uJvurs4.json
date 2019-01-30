@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T12:43:42.986Z",
+            "updatedAt": "2018-06-22T08:24:33.604Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T12:43:42.986Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41uJvurs4",
+        "universalRef": "sli_41uJvurs4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41uJvurs4.choice_N1smMRm0E.id",
+                        "label": "choice_N1smMRm0E",
+                        "value": "choice_N1smMRm0E"
+                    },
+                    {
+                        "id": "sli_41uJvurs4.choice_4ydEfCXR4.id",
+                        "label": "choice_4ydEfCXR4",
+                        "value": "choice_4ydEfCXR4"
+                    },
+                    {
+                        "id": "sli_41uJvurs4.choice_4klrMAXRN.id",
+                        "label": "choice_4klrMAXRN",
+                        "value": "choice_4klrMAXRN"
+                    },
+                    {
+                        "id": "sli_41uJvurs4.choice_V1wrfRXAV.id",
+                        "label": "choice_V1wrfRXAV",
+                        "value": "choice_V1wrfRXAV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1smMRm0E",
+                        "choice_V1wrfRXAV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les fausses idées reçues sur la créativité ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les idées reçues selon lesquelles la créativité est innée ou ne peut s'épanouir que dans la liberté totale sont fausses : la créativité peut tout à fait s'apprendre et certains types de cadres ou de contraintes peuvent la favoriser.",
+            "tips": "Adepte de l'idée selon laquelle les contraintes formelles sont un puissant stimulant pour la créativité, Georges Perec a écrit en 1969 un livre entier sans la lettre e, <i>La Disparition<i>.</i></i>",
+            "clue": "Poète maudit.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1smMRm0E": "La créativité ne peut pas s’apprendre",
+            "choice_4ydEfCXR4": "La créativité n’existe pas",
+            "choice_4klrMAXRN": "La créativité n’a rien à voir avec l’innovation",
+            "choice_V1wrfRXAV": "La créativité est incompatible avec la contrainte"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What are some of our misconceptions about creativity?",
+            "klf": "Received ideas about creativity being innate or only flourishing when a person is given absolute freedom are false. It’s totally possible to learn how to be creative, and some types of restrictions (such as tight budgets) can even encourage creative thinking.",
+            "tips": "The French writer Georges Perec was a firm believer that formal constraints stimulate creativity, and in 1969 he wrote an entire novel without once using the letter E. In French it’s known as <i>La Disparition<i> (which literally translates as “The Disappearance”), while in English it goes by the title A Void. </i></i>",
+            "clue": "Think of the cliché of a doomed poet.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1smMRm0E": "Creativity can’t be learnt.",
+            "choice_4ydEfCXR4": "Creativity doesn’t exist.",
+            "choice_4klrMAXRN": "Creativity has nothing to do with innovation.",
+            "choice_V1wrfRXAV": "Creativity is incompatible with rules and limitations."
+        }
+    }
+}

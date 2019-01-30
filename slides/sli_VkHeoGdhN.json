@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-24T13:10:40.137Z",
+            "updatedAt": "2018-06-22T12:33:07.734Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-24T13:10:40.137Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkHeoGdhN",
+        "universalRef": "sli_VkHeoGdhN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkHeoGdhN.choice_4JH8szu34.id",
+                        "label": "choice_4JH8szu34",
+                        "value": "choice_4JH8szu34"
+                    },
+                    {
+                        "id": "sli_VkHeoGdhN.choice_EJ~DizdhN.id",
+                        "label": "choice_EJ~DizdhN",
+                        "value": "choice_EJ~DizdhN"
+                    },
+                    {
+                        "id": "sli_VkHeoGdhN.choice_Ek5wof-34.id",
+                        "label": "choice_Ek5wof-34",
+                        "value": "choice_Ek5wof-34"
+                    },
+                    {
+                        "id": "sli_VkHeoGdhN.choice_NyK9jz-2V.id",
+                        "label": "choice_NyK9jz-2V",
+                        "value": "choice_NyK9jz-2V"
+                    },
+                    {
+                        "id": "sli_VkHeoGdhN.choice_V1fsszuh4.id",
+                        "label": "choice_V1fsszuh4",
+                        "value": "choice_V1fsszuh4"
+                    },
+                    {
+                        "id": "sli_VkHeoGdhN.choice_EJRooMd3N.id",
+                        "label": "choice_EJRooMd3N",
+                        "value": "choice_EJRooMd3N"
+                    },
+                    {
+                        "id": "sli_VkHeoGdhN.choice_E1Xnifun4.id",
+                        "label": "choice_E1Xnifun4",
+                        "value": "choice_E1Xnifun4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JH8szu34",
+                        "choice_V1fsszuh4",
+                        "choice_EJRooMd3N",
+                        "choice_Ek5wof-34"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les règles que tout brainstorming efficace doit suivre ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour être efficace, un bon brainstorming doit suivre les règles synthétisées par l’acronyme CQFD : Censure Interdite, Quantité demandée, Farfelu bienvenu et Développement des idées.",
+            "tips": "Pour Alex Osborn, le fondement du principe \"farfelu bienvenu\" s'explique ainsi : \"Il est plus facile d'extrapoler une idée du haut vers le bas que du bas vers le haut.\"",
+            "clue": "Mitraillette à idées.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JH8szu34": "Censure interdite",
+            "choice_EJ~DizdhN": "Se limiter",
+            "choice_Ek5wof-34": "Quantité demandée",
+            "choice_NyK9jz-2V": "Questions souhaitées",
+            "choice_V1fsszuh4": "Farfelu bienvenu",
+            "choice_EJRooMd3N": "Développement des idées",
+            "choice_E1Xnifun4": "Faire durer la session"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Can you identify the rules that every good brainstorming session needs to follow?",
+            "klf": "To be effective, a brainstorming session has to follow four principles: withhold criticism, go for quantity, welcome wild ideas and develop ideas.",
+            "tips": "Alex Osborn explained the “wild ideas welcome” concept by noting that “it’s easier to build on an idea from the top down than from the bottom up”.",
+            "clue": "All ideas welcome",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JH8szu34": "Withhold criticism",
+            "choice_EJ~DizdhN": "Limit your thinking",
+            "choice_Ek5wof-34": "Go for quantity",
+            "choice_NyK9jz-2V": "Welcome questions",
+            "choice_V1fsszuh4": "Welcome wild ideas",
+            "choice_EJRooMd3N": "Develop your ideas",
+            "choice_E1Xnifun4": "Keep it going as long as possible"
+        }
+    }
+}

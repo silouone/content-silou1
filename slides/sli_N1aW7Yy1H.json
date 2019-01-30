@@ -1,0 +1,91 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-24T10:32:30.805Z",
+            "updatedAt": "2018-06-22T16:13:02.206Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-24T10:32:30.805Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1aW7Yy1H",
+        "universalRef": "sli_N1aW7Yy1H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1aW7Yy1H.choice_E1DDQt1kB.id",
+                        "label": "choice_E1DDQt1kB",
+                        "value": "choice_E1DDQt1kB"
+                    },
+                    {
+                        "id": "sli_N1aW7Yy1H.choice_VyT6mtykB.id",
+                        "label": "choice_VyT6mtykB",
+                        "value": "choice_VyT6mtykB"
+                    },
+                    {
+                        "id": "sli_N1aW7Yy1H.choice_E1rCXFyJr.id",
+                        "label": "choice_E1rCXFyJr",
+                        "value": "choice_E1rCXFyJr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1DDQt1kB"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la première chose à faire pour bien préparer votre présentation ? ",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est indispensable d’adapter le contenu de votre présentation à votre cible. Pour faire cela, vous pouvez commencer par réaliser une carte mentale rien que pour vous, qui vous permettra de mieux définir votre cible et le message que vous voulez faire passer.",
+            "tips": "Pour le philosophe des médias Mc Luhan, le médium c’est le message. Cela signifie que selon lui, la nature d'un média est plus importante que le sens ou le contenu du message.",
+            "clue": "Ménagez-vous.",
+            "context_title": "Vendre vos idées avec succès à de nouveaux clients",
+            "context_description": "Vous devez préparer une présentation de votre nouvelle gamme de produits pour de potentiels clients. Habitué(e) à travailler sur un marché différent, vous percevez la nécessité de modifier votre discours face à ce nouveau type de clients.",
+            "context_media_description": "",
+            "choice_E1DDQt1kB": "Réaliser une carte mentale rien que pour vous pour mieux vous adapter à votre public",
+            "choice_VyT6mtykB": "Intégrer les informations sur les potentiels clients dans votre mind map de présentation",
+            "choice_E1rCXFyJr": "Faire des photocopies d'une mind map sur votre entreprise pour les distribuer aux prospects"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What do you need to do first to prepare your presentation? ",
+            "klf": "It’s vital you adapt your presentation’s content to suit your audience. To do this, you might start by making a mind map that will only ever be seen by you. This will help you better define your audience and the message you want to get across.",
+            "tips": "For Marshall McLuhan, a philosopher who looked closely at the media, the medium is the message. This means that the type of medium you choose to use is more important than your message’s content or meaning.",
+            "clue": "To find your audience, focus on yourself first.",
+            "context_title": "Successfully selling your ideas to new customers",
+            "context_description": "You need to prepare a presentation for a new product range, with potential customers as your audience. You’re used to working in a different market, so you know you need to change the way you get across information for this new set of customers.",
+            "context_media_description": "",
+            "choice_E1DDQt1kB": "Make a mind map for yourself to help you adapt your presentation to your audience",
+            "choice_VyT6mtykB": "Integrate information about potential customers into your presentation mind map",
+            "choice_E1rCXFyJr": "Create mind maps about your company for customers to see"
+        }
+    }
+}

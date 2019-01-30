@@ -1,0 +1,78 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T12:39:12.358Z",
+            "updatedAt": "2018-06-22T09:25:45.610Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJ43UrUAE",
+        "universalRef": "sli_EJ43UrUAE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJ43UrUAE.choice_4keApIBL0N.id",
+                        "label": "choice_4keApIBL0N",
+                        "value": "choice_4keApIBL0N",
+                        "media": "med_NJC6LB8AV"
+                    },
+                    {
+                        "id": "sli_EJ43UrUAE.choice_EylPCUrLCN.id",
+                        "label": "choice_EylPCUrLCN",
+                        "value": "choice_EylPCUrLCN",
+                        "media": "med_NkwALrIC4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EylPCUrLCN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le mind mapping permet uniquement de générer de nouvelles idées sur des sujets sans grand enjeu. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le mind mapping peut aussi bien être utilisé pour trouver de nouvelles idées sur des sujets triviaux et ordinaires que sur des sujets complexes aux enjeux importants. C'est là toute sa force !",
+            "tips": "Le mind mapping nous permet de répondre à un besoin simultané de vision globale et de détails, ou encore de conjuguer le raisonnement logico-déductif et l’imagination pour trouver une solution à un problème.",
+            "clue": "Quelle polyvalence !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4keApIBL0N": "Vrai",
+            "choice_EylPCUrLCN": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Mind mapping only lets you generate new ideas about topics which aren’t that important. True or false?",
+            "klf": "Mind mapping is as good for coming up with new ideas about trivial, run-of-the-mill subjects as it is for complex issues that will have a much greater impact. That’s what makes it so useful.",
+            "tips": "Mind mapping allows you to deal with overarching themes and tiny details at the same time, but it also lets you combine logical reasoning with imaginative thinking to hit on solutions to a problem.",
+            "clue": "It’s multi-use!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4keApIBL0N": "True",
+            "choice_EylPCUrLCN": "False"
+        }
+    }
+}

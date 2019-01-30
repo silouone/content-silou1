@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:14:01.084Z",
+            "updatedAt": "2018-06-22T15:20:07.435Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJzQRdE54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JgvTNHTE",
+        "universalRef": "sli_4JgvTNHTE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JgvTNHTE.choice_Nyv9T4ra4.id",
+                        "label": "choice_Nyv9T4ra4",
+                        "value": "choice_Nyv9T4ra4"
+                    },
+                    {
+                        "id": "sli_4JgvTNHTE.choice_Eya5T4Sp4.id",
+                        "label": "choice_Eya5T4Sp4",
+                        "value": "choice_Eya5T4Sp4"
+                    },
+                    {
+                        "id": "sli_4JgvTNHTE.choice_Nyki6NBTE.id",
+                        "label": "choice_Nyki6NBTE",
+                        "value": "choice_Nyki6NBTE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nyv9T4ra4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier la deuxième phase du brainstorming inversé ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Après un lancement en mode négatif, la deuxième phase du brainstorming inversé consiste à jouer l’avocat de l’ange. Les participants se demandent quelles mesures doivent être envisagées pour éviter que le pire se produise. Pour chaque scénario négatif, ils doivent essayer de trouver une ou plusieurs solutions.",
+            "tips": "La technique de l’avocat de l’ange ne se limite pas à la créativité et peut s'appliquer au management. Au lieu d’ignorer les remarques d’un collaborateur, inintéressantes à vos yeux, essayez plutôt de vous demander \"Qu'est-ce qu'il y a d'intéressant dans cette idée ?\". C'est un moyen simple et efficace de reconnaître la contribution des collaborateurs, qui accepteront d'autant mieux la critique qu'ils auront aussi été valorisés.",
+            "clue": "Gabriel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyv9T4ra4": "Jouer l’avocat de l’ange",
+            "choice_Eya5T4Sp4": "Déterminer de nouveaux problèmes à résoudre",
+            "choice_Nyki6NBTE": "Trouver toujours plus d'idées négatives "
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Can you identify the second stage of a reverse brainstorming session?",
+            "klf": "Once you’ve started by looking at the negatives, the second part of a reverse brainstorming session is to focus on the upside. Participants should examine what steps need to be taken to stop the worst from coming about. They will look for at least one solution for each negative scenario.",
+            "tips": "Playing angel’s advocate isn’t just a way of encouraging creativity – it can be applied to management roles too. Instead of ignoring what to you appears to be an inane comment from a colleague, try to ask “what’s good about this idea?” This is a simple and effective way to acknowledge contributions from work mates, who will find it much easier to accept criticism when they have seen their work valued.",
+            "clue": "Gabriel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyv9T4ra4": "Play angel’s advocate.",
+            "choice_Eya5T4Sp4": "Identify new problems to resolve.",
+            "choice_Nyki6NBTE": "Keep finding more and more negative ideas. "
+        }
+    }
+}

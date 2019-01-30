@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T09:02:47.185Z",
+            "updatedAt": "2018-06-22T08:12:52.883Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T09:02:47.185Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N10yWPBjN",
+        "universalRef": "sli_N10yWPBjN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_4JYa3wBj4"
+            ],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel85446",
+                        "label": "label_VycBivBoE",
+                        "items": [
+                            {
+                                "text": "choice_4kxcriwSo4",
+                                "value": "choice_4kxcriwSo4"
+                            },
+                            {
+                                "text": "choice_Vk~5riPBoV",
+                                "value": "choice_Vk~5riPBoV"
+                            },
+                            {
+                                "text": "choice_NJCUoPHsV",
+                                "value": "choice_NJCUoPHsV"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel85446",
+                        "answers": [
+                            "choice_4kxcriwSo4"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Où en est la créativité dans notre monde actuel ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "À en croire les résultats des tests de créativité de Torrance menés depuis 1958, la créativité serait en déclin dans le monde (le test de Torrance mesure le potentiel créatif dans divers domaines tels que l’art, la littérature, les sciences, les mathématiques et les relations avec les autres).",
+            "tips": "Le test de Torrance est un test classique en créativité. Il évalue notamment la fluidité (capacité à produire de nombreuses idées), l’originalité (capacité à produire des idées qui diffèrent des réponses habituelles) et la composition (aptitude à développer les idées).",
+            "clue": "Soyez pessimiste !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Dans notre monde ultra-technologique et en constant changement, la créativité est en {{sel85446}}",
+            "label_VycBivBoE": " ",
+            "choice_4kxcriwSo4": "déclin",
+            "choice_Vk~5riPBoV": "stagnation",
+            "choice_NJCUoPHsV": "augmentation"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "How creative are we today?",
+            "klf": "If the results of Torrance tests of creative thinking dating back to 1958 are to be believed, creativity is declining worldwide. (These quizzes measure a person’s creative potential in areas such as art, literature, science, maths and personal relationships.)",
+            "tips": "The Torrance test is classic way of assessing creativity. Some of the key areas it examines are: fluency (the ability to produce lots of ideas); originality (the ability to produce non-standard responses); elaboration (the ability to develop ideas).",
+            "clue": "Don’t be too optimistic!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "In our hyper-technological world that never stops changing, creativity is {{sel85446}}",
+            "label_VycBivBoE": " ",
+            "choice_4kxcriwSo4": "declining",
+            "choice_Vk~5riPBoV": "stagnating",
+            "choice_NJCUoPHsV": "increasing"
+        }
+    }
+}

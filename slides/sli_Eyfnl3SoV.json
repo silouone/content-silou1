@@ -1,0 +1,91 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T13:53:10.050Z",
+            "updatedAt": "2018-06-22T08:56:50.812Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T13:53:10.050Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Eyfnl3SoV",
+        "universalRef": "sli_Eyfnl3SoV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Eyfnl3SoV.choice_NkOae2rs4.id",
+                        "label": "choice_NkOae2rs4",
+                        "value": "choice_NkOae2rs4"
+                    },
+                    {
+                        "id": "sli_Eyfnl3SoV.choice_Eynpx2SsV.id",
+                        "label": "choice_Eynpx2SsV",
+                        "value": "choice_Eynpx2SsV"
+                    },
+                    {
+                        "id": "sli_Eyfnl3SoV.choice_4kI0e3rj4.id",
+                        "label": "choice_4kI0e3rj4",
+                        "value": "choice_4kI0e3rj4"
+                    },
+                    {
+                        "id": "sli_Eyfnl3SoV.choice_EyPe~H8CN.id",
+                        "label": "choice_EyPe~H8CN",
+                        "value": "choice_EyPe~H8CN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Eynpx2SsV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que contient le centre d’une carte mentale ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La carte mentale possède un centre unique qui contient sa thématique. Par exemple, \"réduire les délais de livraison\", \"augmenter les ventes en lignes\" ou \"intelligence artificielle\".",
+            "tips": "La thématique d’une carte mentale se trouve au centre car l’être humain dispose d’une meilleure vision centrale que périphérique.",
+            "clue": "Ne brûlez pas les étapes...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkOae2rs4": "Le nom du chef de projet",
+            "choice_Eynpx2SsV": "La thématique",
+            "choice_4kI0e3rj4": "La date ",
+            "choice_EyPe~H8CN": "Une proposition de solution au problème posé"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What’s at the centre of a mind map?",
+            "klf": "Mind maps have a single centre, and this contains your theme. This might be, for instance, “cutting down delivery timeframes”, “increasing online sales” or “artificial intelligence”.",
+            "tips": "A mind map’s theme needs to be in the centre because our central vision is stronger than our peripheral vision.",
+            "clue": "No need to rush",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkOae2rs4": "The project manager’s name",
+            "choice_Eynpx2SsV": "The theme",
+            "choice_4kI0e3rj4": "The date ",
+            "choice_EyPe~H8CN": "A suggestion for how to resolve your issue"
+        }
+    }
+}

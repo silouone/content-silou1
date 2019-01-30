@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T12:48:58.776Z",
+            "updatedAt": "2018-06-22T15:55:04.436Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T12:48:58.776Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V10zKwI0E",
+        "universalRef": "sli_V10zKwI0E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V10zKwI0E.choice_EkJHYwIAE.id",
+                        "label": "choice_EkJHYwIAE",
+                        "value": "choice_EkJHYwIAE"
+                    },
+                    {
+                        "id": "sli_V10zKwI0E.choice_NJ8SFvICV.id",
+                        "label": "choice_NJ8SFvICV",
+                        "value": "choice_NJ8SFvICV"
+                    },
+                    {
+                        "id": "sli_V10zKwI0E.choice_VkjSYDI04.id",
+                        "label": "choice_VkjSYDI04",
+                        "value": "choice_VkjSYDI04"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkJHYwIAE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Après avoir noté la question de votre brainstorming au centre de votre carte mentale, que faut-il faire ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Vous notez dans votre carte mentale toutes les idées qui vous passent par la tête pour résoudre le problème défini.",
+            "tips": "Le brainstorming permet souvent de pratiquer la sérendipité, c’est-à-dire une découverte par un heureux hasard.",
+            "clue": "Profusion !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkJHYwIAE": "Noter toutes les idées qui vous passent par la tête ",
+            "choice_NJ8SFvICV": "Attendre quelques minutes pour faite le tri dans vos idées",
+            "choice_VkjSYDI04": "Reformuler plusieurs fois la question"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "What do you need to do once you have written your session’s central question in the middle of your mind map?",
+            "klf": "On your mind map, write all the ideas that pop into your head for solving your problem.",
+            "tips": "Brainstorming often opens up the way for serendipity, or chancing upon a great discovery.",
+            "clue": "Think growth.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkJHYwIAE": "Note down all the ideas that come into your head",
+            "choice_NJ8SFvICV": "Wait a few minutes before sifting through all your ideas",
+            "choice_VkjSYDI04": "Write the question down several times"
+        }
+    }
+}

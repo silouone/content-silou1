@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T13:08:10.558Z",
+            "updatedAt": "2018-06-22T15:59:26.353Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T13:08:10.558Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJio6DLRN",
+        "universalRef": "sli_VJio6DLRN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJio6DLRN.choice_VJN6TvUCV.id",
+                        "label": "choice_VJN6TvUCV",
+                        "value": "choice_VJN6TvUCV"
+                    },
+                    {
+                        "id": "sli_VJio6DLRN.choice_Vk8TaPI0V.id",
+                        "label": "choice_Vk8TaPI0V",
+                        "value": "choice_Vk8TaPI0V"
+                    },
+                    {
+                        "id": "sli_VJio6DLRN.choice_V1iaavLRN.id",
+                        "label": "choice_V1iaavLRN",
+                        "value": "choice_V1iaavLRN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1iaavLRN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "A la fin d’une séance de brainstorming, que faut-il faire pour pouvoir définir les idées à mettre en œuvre ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Grâce au brainstorming, il est possible de générer un grand nombre d’idées. Cependant, il est impossible de toutes les mettre en place. Pour sélectionner les idées à mettre en œuvre, répartissez-les en niveaux de priorité. Ainsi, vous serez plus à même de définir les idées à actionner.",
+            "tips": "Selon l’étude de Kramer (1997), les séances répétées de brainstorming favorisent l’égalité entre les membres du groupe ainsi que le respect et l’écoute des idées de tous les participants. Elles permettent ainsi d’améliorer le climat social au sein des organisations. D'une manière plus générale, ces expériences de brainstorming peuvent faire prendre conscience que l’efficacité des groupes s’améliore lorsque la domination de certains membres diminue.",
+            "clue": "1, 2, 3",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJN6TvUCV": "Piocher au hasard une idée",
+            "choice_Vk8TaPI0V": "Suivre l’ordre des idées",
+            "choice_V1iaavLRN": "Définir des priorités"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "What do you need to do at the end of a brainstorming session to set out the ideas you’re going to implement?",
+            "klf": "It’s possible to generate a huge number of ideas during a brainstorming session - but it’s never possible to implement them all. To select the ideas you want to implement, prioritise them. This will make it easier to define which ideas need to be converted into action.",
+            "tips": "According to research by Kramer (1997), repeated brainstorming sessions create greater parity between members of your group and ensure that every participant’s ideas are listened to and respected. They also foster greater social cohesion within organisations. More generally, brainstorming in this way helps people to realise that groups are more effective when certain members are not allowed to dominate them.",
+            "clue": "1, 2, 3",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJN6TvUCV": "Pick an idea at random",
+            "choice_Vk8TaPI0V": "Go through all the ideas in order",
+            "choice_V1iaavLRN": "Define your priorities"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:53:56.326Z",
+            "updatedAt": "2018-05-28T08:57:57.142Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "taggedNewUntil": 1530708836326,
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EyBa8SS64",
+        "universalRef": "sli_EyBa8SS64",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyBa8SS64.choice_N1rePSS64.id",
+                        "label": "choice_N1rePSS64",
+                        "value": "choice_N1rePSS64"
+                    },
+                    {
+                        "id": "sli_EyBa8SS64.choice_VkDgvSSaN.id",
+                        "label": "choice_VkDgvSSaN",
+                        "value": "choice_VkDgvSSaN"
+                    },
+                    {
+                        "id": "sli_EyBa8SS64.choice_41l~DBr64.id",
+                        "label": "choice_41l~DBr64",
+                        "value": "choice_41l~DBr64"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1rePSS64"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle précaution faut-il prendre durant la séance d’un brainstorming de groupe ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Brainstormer en groupe nécessite de laisser à chacun la possibilité de s’exprimer. Il faut éviter que les plus bavards monopolisent toute la séance.",
+            "tips": "Selon l’étude de Kramer (1997), les séances répétées de brainstorming favorisant l’égalité entre les membres du groupe ainsi que le respect et l’écoute des idées de tous les participants ont permis d’améliorer le climat social au sein des organisations. D'une manière plus générale, ces expériences de brainstorming peuvent faire prendre conscience que l’efficacité des groupes  s’améliore lorsque la domination de certains membres diminue.",
+            "clue": "Liberté d’expression",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rePSS64": "laisser à chacun la possibilité de s’exprimer",
+            "choice_VkDgvSSaN": "faire parler le plus possible",
+            "choice_41l~DBr64": "prévoir une grande salle"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Quelle précaution faut-il prendre durant la séance d’un brainstorming de groupe ?",
+            "klf": "Brainstormer en groupe nécessite de laisser à chacun la possibilité de s’exprimer. Il faut éviter que les plus bavards monopolisent toute la séance.",
+            "tips": "Selon l’étude de Kramer (1997), les séances répétées de brainstorming favorisant l’égalité entre les membres du groupe ainsi que le respect et l’écoute des idées de tous les participants ont permis d’améliorer le climat social au sein des organisations. D'une manière plus générale, ces expériences de brainstorming peuvent faire prendre conscience que l’efficacité des groupes  s’améliore lorsque la domination de certains membres diminue.",
+            "clue": "Liberté d’expression",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rePSS64": "laisser à chacun la possibilité de s’exprimer",
+            "choice_VkDgvSSaN": "faire parler le plus possible",
+            "choice_41l~DBr64": "prévoir une grande salle"
+        }
+    }
+}

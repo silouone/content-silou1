@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:12:37.149Z",
+            "updatedAt": "2018-06-22T15:19:14.947Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJzQRdE54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vk6GTEHaE",
+        "universalRef": "sli_Vk6GTEHaE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vk6GTEHaE.choice_NymHaNS6N.id",
+                        "label": "choice_NymHaNS6N",
+                        "value": "choice_NymHaNS6N"
+                    },
+                    {
+                        "id": "sli_Vk6GTEHaE.choice_4J3BpNBTN.id",
+                        "label": "choice_4J3BpNBTN",
+                        "value": "choice_4J3BpNBTN"
+                    },
+                    {
+                        "id": "sli_Vk6GTEHaE.choice_N16rpVrTN.id",
+                        "label": "choice_N16rpVrTN",
+                        "value": "choice_N16rpVrTN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NymHaNS6N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la première phase du brainstorming inversé ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour lancer votre brainstorming en mode négatif, posez des questions comme : « Qu'est-ce qui pourrait nous arriver de pire ? », « Quels seraient les résultats les plus catastrophiques ? ».",
+            "tips": "Le portrait en creux ou antiportrait est une méthode de créativité consistant à préciser un problème à résoudre par la définition de ce qu’il n’est pas. Jouant sur la capacité du cerveau humain à déterminer plus facilement le contraire d’une problématique que la problématique elle-même, cette méthode permet de sortir des sentiers battus et de générer de nouvelles idées.",
+            "clue": "Paniquez !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NymHaNS6N": "Poser des questions-catastrophes",
+            "choice_4J3BpNBTN": "Démarrer en étant le plus neutre possible",
+            "choice_N16rpVrTN": "Démarrez par une hypothèse de solution"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What’s the first stage of a reverse brainstorming session?",
+            "klf": "To get your reverse brainstorming session off on the right negative foot, ask questions such as ”what’s the worst thing that could happen to us?” and “what would the most disastrous outcomes be?” ».",
+            "tips": "A creative way to pinpoint a problem is to define it in terms of what it isn’t. This method takes advantage of our brains’ ease at picturing an issue’s opposite rather than the issue itself and it helps you get off the beaten track to generate new ideas during, for example, a brainstorming session.",
+            "clue": "Panic!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NymHaNS6N": "Asking for worst-case scenarios",
+            "choice_4J3BpNBTN": "Starting off with the most neutral outlook possible",
+            "choice_N16rpVrTN": "Starting by proposing a solution"
+        }
+    }
+}
