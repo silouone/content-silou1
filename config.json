@@ -10,16 +10,16 @@
     "s3Bucket": "static.coorpacademy.com/content/faust-champion",
     "videoProvider": "vimeo",
     "coreBranches": [
-        "partner-au-feminin",
+        "catalog",
         "devTrad",
         "dunod",
-        "catalog",
-        "demo-thibault"
+        "demo-thibault",
+        "partner-au-feminin"
     ],
     "catalogBranches": [
         "catalog",
+        "devTrad",
         "dunod",
-        "devTrad",       
         "demo-thibault",
         "partner-au-feminin"
     ],
