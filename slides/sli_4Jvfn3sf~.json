@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_4Jvfn3sf~",
         "position": 0,
@@ -43,17 +43,60 @@
     },
     "locales": {
         "fr": {
-            "header": "Selon plusieurs études, quelle proportion de votre crédibilité repose sur ce que vous dites ?",
-            "explanation": "Déplacez le curseur.",
-            "klf": "Les études démontrent que la crédibilité d'une personne repose à 55% sur la façon dont elle se présente, à 38% sur sa voix et à 7% seulement sur ses propos.",
-            "tips": "Selon le psychologue Paul Ekman, lorsque nous parlons, nous avons des \"micro-expressions\" : des manifestations physiques d'émotions (que l'on cherche à cacher) qui ne durent que quelques centièmes de seconde.",
-            "unitLabel": "%",
+            "header": "Selon plusieurs études, dans quelle mesure votre crédibilité est-elle basée sur ce que vous dites?",
+            "explanation": "Déplace le curseur.",
+            "klf": "Des études montrent que la crédibilité d'une personne est de 55% sur la base de sa présentation, 38% sur sa voix et seulement 7% sur ses mots.",
+            "tips": "Selon le psychologue Paul Ekman, lorsque nous parlons, nous avons des \"micro-expressions\": manifestations physiques d'émotions (que nous essayons de cacher) qui ne durent que quelques centièmes de seconde.",
+            "clue": "Moins d'un dixième.",
             "description": "7%",
+            "unitLabel": "%",
+            "choice_1": "4",
+            "choice_2": "5",
+            "choice_3": "6",
+            "choice_4": "7",
+            "choice_5": "8",
+            "choice_6": "9",
+            "choice_7": "dix",
             "answerMin": 4,
-            "answerMax": 10,
-            "clue": "Moins d'un dixième."
+            "answerMax": 10
         },
         "en": {
+            "header": "According to several studies, how much of your credibility is based on what you say?",
+            "explanation": "Move the cursor.",
+            "klf": "Studies show that a person's credibility is 55% based on the way they present themselves, 38% on their voice and only 7% on their words.",
+            "tips": "According to the psychologist Paul Ekman, when we speak, we have \"micro-expressions\": physical manifestations of emotions (that we try to hide) that last only a few hundredths of a second.",
+            "clue": "Less than a tenth.",
+            "description": "7%",
+            "unitLabel": "%",
+            "choice_1": "4",
+            "choice_2": "5",
+            "choice_3": "6",
+            "choice_4": "7",
+            "choice_5": "8",
+            "choice_6": "9",
+            "choice_7": "10",
+            "answerMin": 4,
+            "answerMax": 10
+        },
+        "de": {
+            "header": "Wie viel von Ihrer Glaubwürdigkeit hängt laut mehreren Studien davon ab, was Sie sagen?",
+            "explanation": "Bewegen Sie den Cursor.",
+            "klf": "Studien belegen, dass die Glaubwürdigkeit einer Person bei 55% liegt, je nachdem, wie sie sich präsentieren, 38% bei ihrer Stimme und nur 7% bei ihren Worten.",
+            "tips": "Laut dem Psychologen Paul Ekman haben wir, wenn wir sprechen, \"Mikroausdrücke\": körperliche Manifestationen von Emotionen (die wir zu verbergen versuchen), die nur wenige Hundertstel Sekunden dauern.",
+            "clue": "Weniger als ein Zehntel.",
+            "description": "7%",
+            "unitLabel": "%",
+            "choice_1": "4",
+            "choice_2": "5",
+            "choice_3": "6",
+            "choice_4": "7",
+            "choice_5": "8",
+            "choice_6": "9",
+            "choice_7": "10",
+            "answerMin": 4,
+            "answerMax": 10
+        },
+        "es": {
             "header": "According to several studies, what proportion of your credibility is based on what you say?",
             "explanation": "Drag the slider.",
             "klf": "Studies show that the credibility of a person is based 55% on the way they present themselves, 38% on their voice and only 7% on their remarks.",
@@ -63,6 +106,24 @@
             "answerMin": 4,
             "answerMax": 10,
             "clue": "Less than a tenth."
+        },
+        "zh": {
+            "header": "根据几项研究，您的可信度中有多少是基于您所说的？",
+            "explanation": "拖动滑块。",
+            "klf": "研究表明，一个人的可信度基于他们出现的方式的55％，他们的声音为38％，他们的言论只有7％。",
+            "tips": "根据心理学家Paul Ekman的说法，当我们说话时，我们有“微观表达”：情绪的物理表现（我们试图隐藏）只持续几百分之一秒。",
+            "clue": "不到十分之一。",
+            "description": "7％",
+            "unitLabel": " ",
+            "choice_1": "4",
+            "choice_2": "五",
+            "choice_3": "6",
+            "choice_4": "7",
+            "choice_5": "8",
+            "choice_6": "9",
+            "choice_7": "10",
+            "answerMin": 4,
+            "answerMax": 10
         }
     }
 }

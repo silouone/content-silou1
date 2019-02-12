@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "ThereseG",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NJahjeQqe",
         "position": 0,
@@ -66,19 +66,45 @@
     },
     "locales": {
         "fr": {
-            "header": "Quel était l'écart salarial entre hommes et femmes aux États-Unis en 2014 ?",
+            "header": "Quel était l'écart de rémunération entre hommes et femmes aux États-Unis en 2014?",
             "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
-            "klf": "Tous les pays sont concernés par les inégalités salariales entre hommes et femmes. Aux États-Unis, le recensement gouvernemental de 2014 a révélé un écart de 21%.",
-            "tips": "Le mauvais élève européen, c'est l'Estonie. Les hommes y sont payés près de 30% de plus que les femmes (source : Eurostat, 2015).",
-            "template": "{{sel80540}}",
+            "klf": "Tous les pays sont concernés par les inégalités de salaires entre hommes et femmes. Aux États-Unis, le recensement gouvernemental de 2014 a révélé un écart de 21%.",
+            "tips": "Le mauvais élève européen est l'Estonie. Les hommes sont payés près de 30% de plus que les femmes (source: Eurostat, 2015).",
             "clue": "Comme l'âge de la majorité.",
-            "label_EkirnxXql": " ",
+            "template": "{{sel80540}}",
+            "label_EkirnxXql": " ",
             "choice_NJlsB2xXqg": "9%",
             "choice_4kWsBheQqx": "15%",
             "choice_NyyIhgm9x": "21%",
             "choice_41lyIhl75g": "39%"
         },
         "en": {
+            "header": "What was the pay gap between men and women in the United States in 2014?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "All countries are concerned with wage inequalities between men and women. In the United States, the 2014 government census revealed a gap of 21%.",
+            "tips": "The bad European student is Estonia. Men are paid almost 30% more than women (source: Eurostat, 2015).",
+            "clue": "Like the age of majority.",
+            "template": "{{sel80540}}",
+            "label_EkirnxXql": " ",
+            "choice_NJlsB2xXqg": "9%",
+            "choice_4kWsBheQqx": "15%",
+            "choice_NyyIhgm9x": "21%",
+            "choice_41lyIhl75g": "39%"
+        },
+        "de": {
+            "header": "Was war das Lohngefälle zwischen Männern und Frauen in den USA im Jahr 2014?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Alle Länder befassen sich mit Lohnunterschieden zwischen Männern und Frauen. In den Vereinigten Staaten ergab die Regierungszählung von 2014 eine Differenz von 21%.",
+            "tips": "Der schlechte europäische Student ist Estland. Männer erhalten fast 30% mehr als Frauen (Quelle: Eurostat, 2015).",
+            "clue": "Wie das Alter der Mehrheit.",
+            "template": "{{sel80540}}",
+            "label_EkirnxXql": " ",
+            "choice_NJlsB2xXqg": "9%",
+            "choice_4kWsBheQqx": "fünfzehn%",
+            "choice_NyyIhgm9x": "21%",
+            "choice_41lyIhl75g": "39%"
+        },
+        "es": {
             "header": "What was the wage gap between men and women in the United States in 2014?",
             "explanation": "Select the correct answer in the drop-down menu.",
             "klf": "All countries are affected by wage inequalities between men and women. In the United States, the government census in 2014 revealed a 21% gap.",
@@ -90,6 +116,19 @@
             "choice_NyyIhgm9x": "21%",
             "choice_41lyIhl75g": "39%",
             "clue": "Same as the age of majority."
+        },
+        "zh": {
+            "header": "2014年美国男女工资差距是多少？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "所有国家都受到男女工资不平等的影响。在美国，2014年的政府人口普查显示出21％的差距。",
+            "tips": "最糟糕的欧洲国家是爱沙尼亚。男性的薪水比女性高出约30％。 （资料来源：欧盟统计局，2015年）",
+            "clue": "与成年年龄相同。",
+            "template": "{{sel80540}}",
+            "label_EkirnxXql": " ",
+            "choice_NJlsB2xXqg": "9％",
+            "choice_4kWsBheQqx": "15％",
+            "choice_NyyIhgm9x": "21％",
+            "choice_41lyIhl75g": "39％"
         }
     }
 }

@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NJ-cG5V0x",
         "position": 0,
@@ -59,17 +59,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Pourquoi certains employeurs préfèrent-ils embaucher un homme plutôt qu'une femme, selon le Centre d'études et de recherches sur les qualifications ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "Dans une étude du Cereq, des recruteurs affirment que les mères ou futures mères sont moins disponibles. Ils préfèrent donc embaucher un homme.",
-            "tips": "Le responsable RH d'une grande entreprise interrogé par le Cereq témoigne : \"On se renseigne sur quelle organisation met en place la personne pour récupérer ses enfants le soir, sur l'âge des enfants, sur ce que fait l'époux…\"",
+            "header": "Pourquoi certains employeurs préfèrent-ils embaucher un homme plutôt qu'une femme, selon le Centre d'études et de recherche sur les qualifications?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Dans une étude Cereq, les recruteurs affirment que les mères ou les futures mères sont moins disponibles. Ils préfèrent embaucher un homme.",
+            "tips": "Le responsable des ressources humaines d’une grande entreprise interrogée par Cereq a déclaré: \"Nous apprenons quelle organisation organise la personne pour récupérer ses enfants la nuit, leur âge, ce que fait leur mari ...\"",
+            "clue": "8h30-19h30?",
             "choice_4yXQ79VRx": "Les hommes seraient plus compétents",
             "choice_4kp47qECx": "Les femmes seraient moins disponibles à cause des enfants",
-            "clue": "8h30-19h30 ?",
-            "choice_4Jo575E0l": "Il n'y a pas de préférence entre hommes et femmes à l'embauche",
-            "choice_VyDoX5NAe": "Les femmes mettraient une mauvaise ambiance dans les équipes"
+            "choice_4Jo575E0l": "Il n'y a pas de préférence entre les hommes et les femmes pour l'embauche",
+            "choice_VyDoX5NAe": "Les femmes mettraient la mauvaise humeur dans les équipes"
         },
         "en": {
+            "header": "Why do some employers prefer to hire a man rather than a woman, according to the Center for Studies and Research on Qualifications?",
+            "explanation": "Select the correct answer.",
+            "klf": "In a Cereq study, recruiters claim that mothers or future mothers are less available. They prefer to hire a man.",
+            "tips": "The HR manager of a large company interviewed by the Cereq testifies: \"We learn what organization sets up the person to pick up his children at night, the age of the children, what the husband does ...\"",
+            "clue": "8h30-19h30 ?",
+            "choice_4yXQ79VRx": "Men would be more competent",
+            "choice_4kp47qECx": "Women would be less available because of children",
+            "choice_4Jo575E0l": "There is no preference between men and women for hiring",
+            "choice_VyDoX5NAe": "Women would put a bad mood in the teams"
+        },
+        "de": {
+            "header": "Warum stellen manche Arbeitgeber nach Ansicht des Zentrums für Studien und Qualifikationsforschung lieber einen Mann als eine Frau ein?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In einer Cereq-Studie behaupten Recruiter, dass Mütter oder zukünftige Mütter weniger verfügbar sind. Sie ziehen es vor, einen Mann einzustellen.",
+            "tips": "Der HR-Manager eines großen Unternehmens, das vom Cereq interviewt wurde, sagt aus: \"Wir erfahren, welche Organisation die Person dazu aufruft, ihre Kinder nachts abzuholen, das Alter der Kinder, was der Ehemann tut ...\"",
+            "clue": "8h30-19h30?",
+            "choice_4yXQ79VRx": "Männer wären kompetenter",
+            "choice_4kp47qECx": "Frauen wären aufgrund von Kindern weniger verfügbar",
+            "choice_4Jo575E0l": "Es gibt keine Präferenz zwischen Männern und Frauen für die Einstellung",
+            "choice_VyDoX5NAe": "Frauen würden schlechte Laune in die Teams bringen"
+        },
+        "es": {
             "header": "Why do some employers prefer to hire a man rather than a woman, according to the Centre for Studies and Research on Qualifications?",
             "explanation": "Select the correct answer.",
             "klf": "In a Cereq study, recruiters say that mothers or future mothers are less available. They therefore prefer to hire a man.",
@@ -79,6 +101,17 @@
             "choice_4Jo575E0l": "There is no preference between men and women in hiring",
             "choice_VyDoX5NAe": "Women create a bad atmosphere in teams",
             "clue": "8.30am - 7.30pm?"
+        },
+        "zh": {
+            "header": "根据资格研究和研究中心的说法，为什么有些雇主更愿意雇用男性而不是女性？",
+            "explanation": "选择正确的答案。",
+            "klf": "在Cereq研究中，招聘人员表示母亲或未来母亲的可用性较低。因此，他们更愿意雇用一名男子。",
+            "tips": "Cereq采访的一家大公司的人力资源经理说：“公司想知道晚上接孩子的安排，孩子的年龄，丈夫的行为等等。”",
+            "clue": "上午8:30  - 晚上7:30？",
+            "choice_4yXQ79VRx": "男人更有能力",
+            "choice_4kp47qECx": "由于孩子，妇女的可用性较低",
+            "choice_4Jo575E0l": "男性和女性在招聘方面没有偏好",
+            "choice_VyDoX5NAe": "女性在团队中营造了糟糕的氛围"
         }
     }
 }

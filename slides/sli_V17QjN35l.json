@@ -14,7 +14,7 @@
             "status": "draft",
             "modifiedBy": "Hortensel",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_V17QjN35l",
         "position": 0,
@@ -39,16 +39,36 @@
     },
     "locales": {
         "fr": {
-            "header": "Que pouvez-vous tenir sur Internet pour travailler votre image en ligne ?",
-            "explanation": "Saisissez votre réponse.",
-            "klf": "Il est important de soigner son image en ligne car on est presque toujours \"googlelisé\" par ses interlocuteurs. Ce peut être à travers les réseaux sociaux ou bien par la tenue d'un blog professionnel.",
-            "tips": "Pour tenir un blog efficace dans votre communication, pensez à en planifier le contenu, à publier régulièrement, mais pas sur des sujets trop répétitifs.",
-            "label": " ",
-            "placeholder": " ",
-            "clue": "Un \"bloc-notes\".",
-            "choice_N12Fi435x": "blog"
+            "header": "Que pouvez-vous garder sur Internet pour travailler sur votre image en ligne?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "Il est important de soigner votre image en ligne car vous êtes presque toujours \"googlélisé\" par vos interlocuteurs. Cela peut être via les réseaux sociaux ou en tenant un blog professionnel.",
+            "tips": "Pour conserver un blog efficace dans votre communication, pensez à planifier le contenu, à publier régulièrement, mais pas sur des sujets trop répétitifs.",
+            "clue": "Un bloc-notes \".",
+            "choice_N12Fi435x": "Blog",
+            "label": " ",
+            "placeholder": " "
         },
         "en": {
+            "header": "What can you keep on the internet to work on your image online?",
+            "explanation": "Enter your answer.",
+            "klf": "It is important to look after your image online because you are almost always \"googlelised\" by your interlocutors. It can be through social networks or by holding a professional blog.",
+            "tips": "To keep an effective blog in your communication, think about planning the content, to publish regularly, but not on too repetitive topics.",
+            "clue": "A note pad\".",
+            "choice_N12Fi435x": "blog",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Was können Sie im Internet behalten, um online an Ihrem Image zu arbeiten?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Es ist wichtig, dass Sie sich online um Ihr Image kümmern, da Sie von Ihren Gesprächspartnern fast immer \"googlelisiert\" werden. Dies kann durch soziale Netzwerke oder durch ein professionelles Blog erfolgen.",
+            "tips": "Um ein effektives Blog in Ihrer Kommunikation zu behalten, sollten Sie über die Planung des Inhalts nachdenken, regelmäßig veröffentlichen, jedoch nicht zu häufig wiederkehrende Themen.",
+            "clue": "Ein Notizblock \".",
+            "choice_N12Fi435x": "Blog",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
             "header": "Que pouvez-vous tenir sur Internet pour travailler votre image en ligne ?",
             "explanation": "Type your answer.",
             "klf": "Il est important de soigner son image en ligne car on est presque toujours \"googlelisé\" par ses interlocuteurs. Ce peut être à travers les réseaux sociaux ou bien par la tenue d'un blog professionnel.",
@@ -57,6 +77,16 @@
             "placeholder": " ",
             "choice_N12Fi435x": "blog",
             "clue": "Un \"bloc-notes\"."
+        },
+        "zh": {
+            "header": "您可以通过互联网在线保存图像吗？",
+            "explanation": "输入你的答案。",
+            "klf": "在线照顾您的图像非常重要，因为您几乎总是被对话者“googlelised”。它可以通过社交网络或通过举办专业博客。",
+            "tips": "要在您的沟通中保持有效的博客，请考虑规划内容，定期发布，但不要考虑过于重复的主题。",
+            "clue": "一个“笔记本”。",
+            "choice_N12Fi435x": "博客",
+            "label": " ",
+            "placeholder": " "
         }
     }
 }

@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": true,
             "createdAt": "2016-02-09T10:31:57.703Z",
-            "updatedAt": "2019-02-04T17:30:00.636Z",
+            "updatedAt": "2017-08-30T10:56:41.354Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -11,10 +11,9 @@
                 "mod_EyrZRoMql"
             ],
             "status": "draft",
-            "modifiedBy": "esa-coorp",
+            "modifiedBy": "ValentineMichaud",
             "createdBy": "LaurenceMD",
-            "taggedNewUntil": "2016-04-09T09:31:57.703Z",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "cha_4yVzRifcx",
         "name": "name",
@@ -24,15 +23,23 @@
         "freeRun": true,
         "poster": "med_VyGxKFyKQ",
         "universalRef": "cha_4yVzRifcx",
-        "draft": true,
         "thematiques": []
     },
     "locales": {
         "fr": {
-            "name": "Les obstacles qui empêchent les femmes d’avancer"
+            "name": "Obstacles empêchant les femmes de progresser"
         },
         "en": {
+            "name": "Barriers that prevent women from advancing"
+        },
+        "de": {
+            "name": "Hindernisse, die Frauen daran hindern, weiterzukommen"
+        },
+        "es": {
             "name": "The obstacles that prevent women from advancing"
+        },
+        "zh": {
+            "name": "阻碍妇女前进的障碍"
         }
     }
 }

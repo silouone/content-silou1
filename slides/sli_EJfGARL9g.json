@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_EJfGARL9g",
         "position": 0,
@@ -39,17 +39,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Comment appelle-t-on la peur de parler en public ?",
-            "explanation": "Saisissez votre réponse.",
-            "klf": "La peur de parler en public s'appelle la \"glossophobie\". Elle touche beaucoup de femmes. Sans doute parce que l'art de l'éloquence a été pendant des siècles l'apanage des hommes, comme l'explique l'académicien Marc Fumaroli.",
-            "tips": "Selon une étude menée auprès de 3.000 Américains leur demandant de classer leurs principales peurs, c'est celle de parler en public qui arrive en premier, avant celles des hauteurs (2e) ou de la mort (6e).",
-            "label": " ",
-            "placeholder": " ",
-            "clue": "En grec, la langue se dit \"glossa\".",
-            "choice_NJfGkkD5l": "La glossophobie",
-            "choice_EJZvl8r5W": "glossophobie"
+            "header": "Quel est le nom de la peur de parler en public?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "La peur de parler en public s'appelle \"glossophobie\". Elle touche beaucoup de femmes. Sans doute parce que l'art de l'éloquence est depuis des siècles l'apanage des hommes, comme l'explique l'académicien Marc Fumaroli.",
+            "tips": "Selon une étude de 3 000 Américains leur demandant de classer leurs principales peurs, c'est celle de parler en public qui prime, avant celles d'altitude (2e) ou de mort (6e).",
+            "clue": "En grec, la langue s'appelle \"glossa\".",
+            "choice_NJfGkkD5l": "Glossophobi à",
+            "choice_EJZvl8r5W": "glossophobie",
+            "label": " ",
+            "placeholder": " "
         },
         "en": {
+            "header": "What is the name of the fear of public speaking?",
+            "explanation": "Enter your answer.",
+            "klf": "The fear of speaking in public is called \"glossophobia\". She touches a lot of women. No doubt because the art of eloquence has been for centuries the preserve of men, as the academician Marc Fumaroli explains.",
+            "tips": "According to a study of 3,000 Americans asking them to classify their main fears, it is that of public speaking that comes first, before those of heights (2nd) or death (6th).",
+            "clue": "In Greek, the language is called \"glossa\".",
+            "choice_NJfGkkD5l": "Glossophobia",
+            "choice_EJZvl8r5W": "glossophobie",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Wie heißt die Angst vor öffentlichem Reden?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Die Angst vor dem Reden in der Öffentlichkeit wird als \"Glossophobie\" bezeichnet. Sie berührt viele Frauen. Zweifellos, weil die Kunst der Beredsamkeit schon seit Jahrhunderten den Männern vorbehalten war, wie der Akademiker Marc Fumaroli erklärt.",
+            "tips": "Laut einer Studie von 3.000 Amerikanern, die sie aufforderten, ihre Hauptängste zu klassifizieren, ist es das Reden der Öffentlichkeit, das vor den Höhen (2.) oder Tod (6.) steht.",
+            "clue": "Im Griechischen heißt die Sprache \"Glossa\".",
+            "choice_NJfGkkD5l": "Glossophobi zu",
+            "choice_EJZvl8r5W": "Glossophobie",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
             "header": "What is the fear of public speaking called?",
             "explanation": "Type your answer.",
             "klf": "The fear of public speaking is called \"glossophobia\". It affects many women. No doubt because the art of eloquence has for centuries been reserved for men, explains academician Marc Fumaroli",
@@ -59,6 +81,17 @@
             "choice_NJfGkkD5l": "Glossophobia",
             "clue": "In Greek, language is called \"glossa\".",
             "choice_EJZvl8r5W": "glossophobia"
+        },
+        "zh": {
+            "header": "对公开演讲的恐惧叫什么？",
+            "explanation": "输入你的答案。",
+            "klf": "对公开演讲的恐惧被称为“光泽恐惧症”。它影响了许多女性。毫无疑问，因为口才艺术几个世纪以来一直被保留给男性，院士Marc Fumaroli解释道",
+            "tips": "根据对3,000名美国人要求他们对主要恐惧进行排名的调查，公开演讲首先出现在高峰（第2名）和死亡（第6名）之前。",
+            "clue": "在希腊语中，语言被称为“glossa”。",
+            "choice_NJfGkkD5l": "Glossophobi到",
+            "choice_EJZvl8r5W": "glossophobi到",
+            "label": " ",
+            "placeholder": " "
         }
     }
 }

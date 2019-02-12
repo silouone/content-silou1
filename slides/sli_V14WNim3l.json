@@ -14,7 +14,7 @@
             "status": "draft",
             "modifiedBy": "ThereseG",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_V14WNim3l",
         "position": 0,
@@ -39,16 +39,36 @@
     },
     "locales": {
         "fr": {
-            "header": "Que faut-il préparer avant de commencer une négociation afin de pouvoir rebondir si la première demande est refusée ? (acronyme)",
-            "explanation": "Saisissez votre réponse.",
-            "klf": "Avant de débuter une négociation, il faut préparer des MESORE, c'est-à-dire de \"MEilleures SOlutions de REchange\". Autrement dit, il faut déterminer la solution à laquelle on veut aboutir mais aussi des plans B, si la première option ne peut être atteinte.",
-            "tips": "Les MESORE permettent aussi d'éviter le piège de la solution à tout prix. Si aucune n'est acceptable, c'est que la négociation ne pouvait pas aboutir de façon satisfaisante pour les deux parties.",
-            "label": " ",
-            "placeholder": " ",
-            "clue": "Un acronyme qui ressemble à ce qu'on fait avec un mètre.",
-            "choice_41UfSsmnl": "MESORE"
+            "header": "Que devriez-vous faire avant de commencer une négociation pour pouvoir rebondir si la première demande est refusée? (acronyme)",
+            "explanation": "Entrez votre réponse.",
+            "klf": "Avant de commencer une négociation, vous devez préparer MESORE, c’est-à-dire les \"meilleures solutions d’échange\". En d’autres termes, nous devons déterminer la solution à atteindre, mais aussi les plans B, si la première option ne peut pas être atteinte.",
+            "tips": "Le MESORE évite également le piège de la solution à tout prix. Si aucun n'est acceptable, c'est que la négociation n'a pas pu aboutir de manière satisfaisante pour les deux parties.",
+            "clue": "Un acronyme qui ressemble à ce que vous faites avec un compteur.",
+            "choice_41UfSsmnl": "MESORAH",
+            "label": " ",
+            "placeholder": " "
         },
         "en": {
+            "header": "What should you do before starting a negotiation so you can bounce back if the first application is refused? (acronym)",
+            "explanation": "Enter your answer.",
+            "klf": "Before starting a negotiation, you have to prepare MESORE, ie \"Best Exchange Solutions\". In other words, we must determine the solution we want to achieve but also plans B, if the first option can not be reached.",
+            "tips": "The MESORE also avoid the trap of the solution at any price. If none is acceptable, it is because the negotiation could not succeed satisfactorily for both parties.",
+            "clue": "An acronym that looks like what you do with a meter.",
+            "choice_41UfSsmnl": "MESORAH",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Was sollten Sie vor dem Beginn einer Verhandlung tun, damit Sie zurückkehren können, wenn der erste Antrag abgelehnt wird? (Akronym)",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Bevor Sie eine Verhandlung beginnen, müssen Sie MESORE vorbereiten, dh \"Best Exchange Solutions\". Mit anderen Worten, wir müssen die Lösung bestimmen, die wir erreichen wollen, aber auch die Pläne B, falls die erste Option nicht erreicht werden kann.",
+            "tips": "Der MESORE vermeidet auch die Falle der Lösung um jeden Preis. Wenn keine akzeptabel ist, liegt dies daran, dass die Verhandlungen für beide Parteien nicht zufriedenstellend sein konnten.",
+            "clue": "Ein Akronym, das aussieht, was Sie mit einem Messgerät machen.",
+            "choice_41UfSsmnl": "MESORAH",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
             "header": "What should you prepare before starting a negotiation in order to bounce back if the first request is denied? (acronym)",
             "explanation": "Type your answer.",
             "klf": "Before starting negotiations, you must prepare your BATNA, that is to say \"best alternative to a negotiated agreement.\". In other words, determine the solution to which is to be achieved but also a plan B if the first option cannot be achieved.",
@@ -57,6 +77,16 @@
             "placeholder": " ",
             "choice_41UfSsmnl": "BATNA",
             "clue": "An acronym"
+        },
+        "zh": {
+            "header": "在开始谈判之前你应该准备什么，以便在第一个请求被拒绝时反弹？ （缩写）",
+            "explanation": "输入你的答案。",
+            "klf": "在开始谈判之前，你必须准备好你的BATNA，也就是说“最好的替代谈判协议”。换句话说，确定要实现的解决方案，但如果无法实现第一个选项，还要确定计划B.",
+            "tips": "BATNA还允许您避免不惜一切代价找到解决方案的陷阱。如果没有一个是可以接受的，那是因为谈判无法给双方带来满意的结果。",
+            "clue": "首字母缩略词",
+            "choice_41UfSsmnl": "BATNA",
+            "label": " ",
+            "placeholder": " "
         }
     }
 }

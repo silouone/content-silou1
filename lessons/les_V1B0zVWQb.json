@@ -21,7 +21,7 @@
             "status": "draft",
             "modifiedBy": "amandinelemoult21",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "les_V1B0zVWQb",
         "position": 0,
@@ -31,10 +31,19 @@
     },
     "locales": {
         "fr": {
-            "description": "Se rendre audible"
+            "description": "Faites-vous entendre"
         },
         "en": {
+            "description": "Make yourself audible"
+        },
+        "de": {
+            "description": "Machen Sie sich hörbar"
+        },
+        "es": {
             "description": "Making yourself heard"
+        },
+        "zh": {
+            "description": "让自己听到"
         }
     }
 }

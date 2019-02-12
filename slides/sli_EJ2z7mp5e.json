@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T08:51:55.944Z",
+            "updatedAt": "2016-09-05T15:03:42.806Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJ2z7mp5e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel25076",
+                        "label": "label_Nkd2mmp9e",
+                        "items": [
+                            {
+                                "text": "choice_NJx-hmm69x",
+                                "value": "choice_NJx-hmm69x"
+                            },
+                            {
+                                "text": "choice_NyW-3mX6qg",
+                                "value": "choice_NyW-3mX6qg"
+                            },
+                            {
+                                "text": "choice_NyphXXacx",
+                                "value": "choice_NyphXXacx"
+                            },
+                            {
+                                "text": "choice_VyA3XX6cx",
+                                "value": "choice_VyA3XX6cx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel25076",
+                        "answers": [
+                            "choice_NyW-3mX6qg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EJ2z7mp5e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de conventions de l'Organisation internationale du travail existent pour protéger la maternité?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il existe trois conventions de l’Organisation internationale du Travail visant à protéger la maternité. Ils remontent à 1919, 1952 et 2000. Le dernier prévoit un congé de maternité de 14 semaines au cours duquel les femmes enceintes ont droit à des prestations financières.",
+            "tips": "Entre 2001 et 2014, 30 pays ont ratifié la dernière convention internationale sur la maternité de l'OIT.",
+            "clue": "Les mousquetaires…",
+            "template": "{{sel25076}}",
+            "label_Nkd2mmp9e": " ",
+            "choice_NJx-hmm69x": "1",
+            "choice_NyW-3mX6qg": "3",
+            "choice_NyphXXacx": "7",
+            "choice_VyA3XX6cx": "15"
+        },
+        "en": {
+            "header": "How many International Labor Organization Conventions exist to protect maternity?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "There are three conventions of the International Labor Organization to protect maternity. They date back to 1919, 1952 and 2000. The last provides for a 14-week maternity leave, during which pregnant women are entitled to financial benefits.",
+            "tips": "Between 2001 and 2014, 30 countries ratified the latest ILO International Maternity Convention.",
+            "clue": "The Musketeers…",
+            "template": "{{sel25076}}",
+            "label_Nkd2mmp9e": " ",
+            "choice_NJx-hmm69x": "1",
+            "choice_NyW-3mX6qg": "3",
+            "choice_NyphXXacx": "7",
+            "choice_VyA3XX6cx": "15"
+        },
+        "de": {
+            "header": "Wie viele internationale Arbeitsorganisationen bestehen zum Schutz der Mutterschaft?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Es gibt drei Konventionen der Internationalen Arbeitsorganisation zum Schutz der Mutterschaft. Sie stammen aus den Jahren 1919, 1952 und 2000. Die letzte Regelung sieht einen 14-wöchigen Mutterschaftsurlaub vor, in dem Schwangere Anspruch auf finanzielle Leistungen haben.",
+            "tips": "Zwischen 2001 und 2014 haben 30 Länder die jüngste Internationale Mutterschaftskonvention der IAO ratifiziert.",
+            "clue": "Die Musketiere…",
+            "template": "{{sel25076}}",
+            "label_Nkd2mmp9e": " ",
+            "choice_NJx-hmm69x": "1",
+            "choice_NyW-3mX6qg": "3",
+            "choice_NyphXXacx": "7",
+            "choice_VyA3XX6cx": "fünfzehn"
+        },
+        "es": {
+            "header": "How many maternity protection conventions has the International Labour Organization set up?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The International Labour Organization has set up three maternity protection conventions. They date respectively from 1919, 1952 and 2000. The last provides for maternity leave of 14 weeks, during which pregnant women are entitled to financial benefits.",
+            "tips": "Between 2001 and 2014, 30 countries ratified the latest maternity protection convention of the International Labour Organization.",
+            "template": "{{sel25076}}",
+            "label_Nkd2mmp9e": " ",
+            "choice_NJx-hmm69x": "1",
+            "choice_NyW-3mX6qg": "3",
+            "choice_NyphXXacx": "7",
+            "choice_VyA3XX6cx": "15",
+            "clue": "The musketeers..."
+        },
+        "zh": {
+            "header": "国际劳工组织设立了多少个生育保护公约？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "国际劳工组织制定了三项生育保护公约。它们的日期分别为1919年，1952年和2000年。最后一次规定了14周的产假，在此期间孕妇有权获得经济利益。",
+            "tips": "2001年至2014年期间，30个国家批准了国际劳工组织最新的生育保护公约。",
+            "clue": "火枪手......",
+            "template": "{{sel25076}}",
+            "label_Nkd2mmp9e": " ",
+            "choice_NJx-hmm69x": "1",
+            "choice_NyW-3mX6qg": "3",
+            "choice_NyphXXacx": "7",
+            "choice_VyA3XX6cx": "15"
+        }
+    }
+}

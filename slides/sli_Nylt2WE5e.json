@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_Nylt2WE5e",
         "position": 0,
@@ -62,22 +62,54 @@
     },
     "locales": {
         "fr": {
-            "header": "Comment appelle-t-on le phénomène par lequel un(e) élève se conforme à ce que pense son instituteur, y compris si c'est négatif ?",
+            "header": "Quel est le nom du phénomène par lequel un élève se conforme à ce que son professeur pense, même s'il est négatif?",
             "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
-            "klf": "L'école a un impact sur les élèves. Citons par exemple l'effet pygmalion, démontré par les professeurs Robert Rosenthal et Lenore Jacobson. Un instituteur persuadé qu'une fille est moins bonne en maths va inconsciemment agir de façon différente à son égard. L'élève va alors se conformer à ce que pense son maître… et être moins bonne.",
-            "tips": "On parlera aussi de prophétie autoréalisatrice.",
-            "template": "L'effet   {{sel93887}}   .",
-            "clue": "Pas d'ailes.",
-            "label_VkefNTWVqg": " ",
-            "placeholder_41bf46bE5x": " ",
-            "label_VJpjl1Fcx": " ",
+            "klf": "L'école a un impact sur les élèves. Par exemple, l'effet pygmalion, démontré par les professeurs Robert Rosenthal et Lenore Jacobson. Un enseignant convaincu qu'une fille est moins bonne en maths agira inconsciemment différemment. L'élève va alors se conformer à ce que son professeur pense ... et être moins bon.",
+            "tips": "Nous parlerons également de prophétie auto-réalisatrice.",
+            "clue": "Pas d'ailes",
+            "template": "L'effet {{sel93887}}.",
+            "label_VJpjl1Fcx": " ",
             "choice_Vkgpsg1t5l": "papillon",
             "choice_4kbaslkKqg": "rebond",
             "choice_Ey3ngkFqx": "pygmalion",
+            "label_VkefNTWVqg": " ",
+            "placeholder_41bf46bE5x": " ",
             "label_EylDpeytce": " ",
             "placeholder_4JWDpxkY5l": " "
         },
         "en": {
+            "header": "What is the name of the phenomenon by which a student conforms to what his teacher thinks, even if it is negative?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "School has an impact on students. For example, the pygmalion effect, demonstrated by professors Robert Rosenthal and Lenore Jacobson. A teacher convinced that a girl is less good at maths will subconsciously act differently. The student will then comply with what his teacher thinks ... and be less good.",
+            "tips": "We will also speak of self-fulfilling prophecy.",
+            "clue": "No wings.",
+            "template": "The effect {{sel93887}}.",
+            "label_VJpjl1Fcx": " ",
+            "choice_Vkgpsg1t5l": "butterfly",
+            "choice_4kbaslkKqg": "rebound",
+            "choice_Ey3ngkFqx": "pygmalion",
+            "label_VkefNTWVqg": " ",
+            "placeholder_41bf46bE5x": " ",
+            "label_EylDpeytce": " ",
+            "placeholder_4JWDpxkY5l": " "
+        },
+        "de": {
+            "header": "Wie heißt das Phänomen, durch das sich ein Schüler dem annimmt, was sein Lehrer denkt, auch wenn er negativ ist?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Die Schule hat Auswirkungen auf die Schüler. Zum Beispiel der Pygmalion-Effekt, der von den Professoren Robert Rosenthal und Lenore Jacobson demonstriert wurde. Ein Lehrer, der überzeugt ist, dass ein Mädchen weniger gut in Mathematik ist, wird unbewusst anders handeln. Der Schüler wird dann dem nachkommen, was sein Lehrer denkt ... und weniger gut sein.",
+            "tips": "Wir werden auch von sich selbst erfüllenden Prophezeiungen sprechen.",
+            "clue": "Keine Flügel.",
+            "template": "Der Effekt {{sel93887}}.",
+            "label_VJpjl1Fcx": " ",
+            "choice_Vkgpsg1t5l": "Schmetterling",
+            "choice_4kbaslkKqg": "Rebound",
+            "choice_Ey3ngkFqx": "pygmalion",
+            "label_VkefNTWVqg": " ",
+            "placeholder_41bf46bE5x": " ",
+            "label_EylDpeytce": " ",
+            "placeholder_4JWDpxkY5l": " "
+        },
+        "es": {
             "header": "What do you call the phenomenon by which a student conforms to what their teacher thinks, even if it is negative?",
             "explanation": "Select the correct answer in the drop-down menu.",
             "klf": "School has an impact on its pupils. One example is the Pygmalion effect, demonstrated by professors Robert Rosenthal and Lenore Jacobson. A teacher convinced that a girl is not as good at maths will unconsciously act differently towards her. The pupil will then comply with what the teacher thinks and perform less well.",
@@ -92,6 +124,22 @@
             "label_EylDpeytce": " ",
             "placeholder_4JWDpxkY5l": " ",
             "clue": "No wings."
+        },
+        "zh": {
+            "header": "你怎么称呼学生符合他们老师的想法，即使是负面的？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "学校对学生有影响。一个例子是皮格马利翁效应，教授罗伯特罗森塔尔和莱诺雷雅各布森证明了这一点。一位老师确信一个女孩不擅长数学，会无意识地对她采取不同的行动。然后，学生将遵守老师的想法并且表现不佳。",
+            "tips": "我们还谈到了一个自我实现的预言。",
+            "clue": "没有翅膀。",
+            "template": "{{sel93887}}效果。",
+            "label_VJpjl1Fcx": " ",
+            "choice_Vkgpsg1t5l": "蝴蝶",
+            "choice_4kbaslkKqg": "篮板球",
+            "choice_Ey3ngkFqx": "皮格马利翁",
+            "label_VkefNTWVqg": " ",
+            "placeholder_41bf46bE5x": " ",
+            "label_EylDpeytce": " ",
+            "placeholder_4JWDpxkY5l": " "
         }
     }
 }

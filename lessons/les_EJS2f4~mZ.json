@@ -21,7 +21,7 @@
             "status": "draft",
             "modifiedBy": "amandinelemoult21",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "les_EJS2f4~mZ",
         "position": 0,
@@ -31,10 +31,19 @@
     },
     "locales": {
         "fr": {
-            "description": "Travailler sa posture"
+            "description": "Travaillez sur votre posture"
         },
         "en": {
+            "description": "Work on your posture"
+        },
+        "de": {
+            "description": "Arbeite an deiner Haltung"
+        },
+        "es": {
             "description": "Working on your posture"
+        },
+        "zh": {
+            "description": "努力锻炼你的姿势"
         }
     }
 }

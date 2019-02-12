@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_V1r5ccNRg",
         "position": 0,
@@ -66,19 +66,45 @@
     },
     "locales": {
         "fr": {
-            "header": "Dans les manuels scolaires, parmi les personnes faisant le ménage, quelle est la proportion de femmes ?",
+            "header": "Dans les manuels scolaires, parmi les personnes effectuant les travaux ménagers, quelle est la proportion de femmes?",
             "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
-            "klf": "Le centre Hubertine Auclert (centre francilien de ressources pour l'égalité femmes-hommes) a étudié les manuels scolaires. L'une des conclusions : 70% des personnages qui font le ménage sont des femmes.",
+            "klf": "Le centre Hubertine Auclert (centre de la région parisienne pour les ressources en faveur de l'égalité des sexes) a étudié les manuels scolaires. Une des conclusions: 70% des personnages qui font le ménage sont des femmes.",
             "tips": "L'étude montre également que dans les manuels scolaires, seulement 22% des personnes qui travaillent sont des femmes.",
-            "template": "{{sel80752}}",
             "clue": "Plus de la moitié.",
-            "label_V1S6cqE0g": " ",
+            "template": "{{sel80752}}",
+            "label_V1S6cqE0g": " ",
             "choice_VJeSa9cECx": "32%",
             "choice_VyZSaq94Cg": "49%",
             "choice_E1D655NRe": "63%",
             "choice_V1O65c4Rg": "70%"
         },
         "en": {
+            "header": "In school textbooks, among the people doing the housework, what is the proportion of women?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The Hubertine Auclert center (center of the Paris Region for resources for gender equality) studied textbooks. One of the conclusions: 70% of the characters who do the housework are women.",
+            "tips": "The study also shows that in textbooks, only 22% of those who work are women.",
+            "clue": "More than half.",
+            "template": "{{sel80752}}",
+            "label_V1S6cqE0g": " ",
+            "choice_VJeSa9cECx": "32%",
+            "choice_VyZSaq94Cg": "49%",
+            "choice_E1D655NRe": "63%",
+            "choice_V1O65c4Rg": "70%"
+        },
+        "de": {
+            "header": "Wie hoch ist der Frauenanteil in Schulbüchern, unter den Hausarbeitern?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Das Hubertine-Auclert-Zentrum (Zentrum der Pariser Region für Ressourcen zur Gleichstellung der Geschlechter) untersuchte Lehrbücher. Eine der Schlussfolgerungen: 70% der Figuren, die die Hausarbeit erledigen, sind Frauen.",
+            "tips": "Die Studie zeigt auch, dass in Lehrbüchern nur 22% der Erwerbstätigen Frauen sind.",
+            "clue": "Mehr als die Hälfte.",
+            "template": "{{sel80752}}",
+            "label_V1S6cqE0g": " ",
+            "choice_VJeSa9cECx": "32%",
+            "choice_VyZSaq94Cg": "49%",
+            "choice_E1D655NRe": "63%",
+            "choice_V1O65c4Rg": "70%"
+        },
+        "es": {
             "header": "In textbooks, what proportion of those doing the housework are women?",
             "explanation": "Select the correct answer in the drop-down menu.",
             "klf": "The Hubertine Auclert centre (French resource centre for gender equality) has studied school textbooks. One conclusion: 70% of characters who do the housework are women.",
@@ -90,6 +116,19 @@
             "choice_E1D655NRe": "63%",
             "choice_V1O65c4Rg": "70%",
             "clue": "More than half."
+        },
+        "zh": {
+            "header": "在教科书中，做家务的人中有多少是女性？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "Hubertine Auclert中心（法国性别平等资源中心）研究了学校教科书。一个结论：做家务的人中有70％是女性。",
+            "tips": "该研究还表明，在教科书中，只有22％的女性是女性。",
+            "clue": "超过一半。",
+            "template": "{{Sel80752}}",
+            "label_V1S6cqE0g": " ",
+            "choice_VJeSa9cECx": "32％",
+            "choice_VyZSaq94Cg": "49％",
+            "choice_E1D655NRe": "63％",
+            "choice_V1O65c4Rg": "70％"
         }
     }
 }

@@ -21,7 +21,7 @@
             "status": "draft",
             "modifiedBy": "amandinelemoult21",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "les_NkGgXEZ7Z",
         "position": 0,
@@ -31,10 +31,19 @@
     },
     "locales": {
         "fr": {
-            "description": "Travailler sa marque personnelle"
+            "description": "Travaillez sur votre marque personnelle"
         },
         "en": {
+            "description": "Work on your personal brand"
+        },
+        "de": {
+            "description": "Arbeiten Sie an Ihrer persönlichen Marke"
+        },
+        "es": {
             "description": "Leaving your personal mark"
+        },
+        "zh": {
+            "description": "留下你的个人印记"
         }
     }
 }

@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_V1u75Vhqg",
         "position": 0,
@@ -61,17 +61,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Quelles sont les étapes pour construire son réseau relationnel ?",
+            "header": "Quelles sont les étapes pour construire votre réseau relationnel?",
             "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
-            "klf": "Pour construire son réseau relationnel, il faut commencer par identifier les personnes qui ont un intérêt pour votre évolution professionnelle. Ensuite, il faut se présenter à elles, à la fois à l'oral et par un CV retravaillé.",
-            "tips": "Vous pouvez vous entraîner à \"l'elevator pitch\" ou la \"présentation ascenseur\" : une présentation ou une argumentation qui dure entre 30 secondes et 2 minutes maximum.",
+            "klf": "Pour construire votre réseau relationnel, vous devez commencer par identifier les personnes qui s'intéressent à votre développement professionnel. Ensuite, vous devez vous présenter à eux, oralement et avec un CV retravaillé.",
+            "tips": "Vous pouvez vous entraîner au \"pitch pitch\" ou à la \"présentation ascenseur\": une présentation ou un argument qui dure entre 30 secondes et 2 minutes maximum.",
             "clue": "Savoir à qui parler.",
-            "choice_VyZRcV3ce": "Définir ses objectifs",
-            "choice_NkXC542qg": "Travailler sa présentation",
-            "choice_VkE09425l": "Identifier ses atouts",
-            "choice_41BRqEn9e": "Identifier ses interlocuteurs"
+            "choice_VyZRcV3ce": "Fixer des objectifs",
+            "choice_NkXC542qg": "Travaillez sur votre présentation",
+            "choice_VkE09425l": "Identifiez vos atouts",
+            "choice_41BRqEn9e": "Identifiez vos interlocuteurs"
         },
         "en": {
+            "header": "What are the steps to build your network relational?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To build your relationship network, you have to start by identifying the people who have an interest in your professional development. Then you have to introduce yourself to them, both orally and with a reworked CV.",
+            "tips": "You can practice \"elevator pitch\" or \"elevator presentation\": a presentation or argument that lasts between 30 seconds and 2 minutes maximum.",
+            "clue": "Know who to talk to.",
+            "choice_VyZRcV3ce": "Set goals",
+            "choice_NkXC542qg": "Work on your presentation",
+            "choice_VkE09425l": "Identify your assets",
+            "choice_41BRqEn9e": "Identify your interlocutors"
+        },
+        "de": {
+            "header": "Was sind die Schritte, um Ihr Netzwerk relational aufzubauen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Um Ihr Beziehungsnetzwerk aufzubauen, müssen Sie zunächst die Personen identifizieren, die an Ihrer beruflichen Entwicklung interessiert sind. Dann musst du dich ihnen mündlich und mit einem überarbeiteten Lebenslauf vorstellen.",
+            "tips": "Sie können \"Elevator-Pitch\" oder \"Elevator-Präsentation\" üben: eine Präsentation oder ein Argument, das zwischen 30 Sekunden und maximal 2 Minuten dauert.",
+            "clue": "Wissen Sie, mit wem Sie sprechen sollen.",
+            "choice_VyZRcV3ce": "Ziele setzen",
+            "choice_NkXC542qg": "Arbeiten Sie an Ihrer Präsentation",
+            "choice_VkE09425l": "Identifizieren Sie Ihre Vermögenswerte",
+            "choice_41BRqEn9e": "Identifizieren Sie Ihre Gesprächspartner"
+        },
+        "es": {
             "header": "What are the stages involved in building your own network of contacts?",
             "explanation": "Select the correct answers below.",
             "klf": "To build your network of contacts, you must first identify people who have an interest in your professional growth. Then, you need to approach them in person and provide an up-to-date CV.",
@@ -81,6 +103,17 @@
             "choice_VkE09425l": "Identify your strengths",
             "choice_41BRqEn9e": "Identify your colleagues",
             "clue": "Know who to talk to."
+        },
+        "zh": {
+            "header": "建立自己的联系人网络涉及哪些阶段？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "要建立您的联系人网络，您必须首先确定对您的职业发展感兴趣的人。然后，您需要亲自接触并提供最新的简历。",
+            "tips": "你可以练习你的“电梯间距”：一个持续30秒到2分钟的演示或参数。",
+            "clue": "知道跟谁说话。",
+            "choice_VyZRcV3ce": "定义您的目标",
+            "choice_NkXC542qg": "处理您的演示文稿",
+            "choice_VkE09425l": "确定你的优势",
+            "choice_41BRqEn9e": "确定你的同事"
         }
     }
 }

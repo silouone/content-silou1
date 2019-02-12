@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_E1S7yGEqg",
         "position": 0,
@@ -51,16 +51,36 @@
     },
     "locales": {
         "fr": {
-            "header": "La théorie du genre affirme que rien n'est biologique car tout est culturel. Vrai ou faux ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "Le concept de genre ne nie pas la réalité biologique. Il vise à repérer ce qui est social, et donc arbitraire, dans les différences entre les sexes. C'est avant tout un outil conceptuel et plusieurs théories existent sur le sujet.",
-            "tips": "De nombreux chercheurs contestent l'expression \"théorie du genre\", très utilisée par les adversaires du concept, qui le décrivent comme une idéologie et non comme un outil, fruit d'études issues des sciences humaines.",
-            "clue": "Même le corps ?",
+            "header": "La théorie du genre dit que rien n'est biologique car tout est culturel. Vrai ou faux ?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Le concept de genre ne nie pas la réalité biologique. Son objectif est d'identifier ce qui est social, et donc arbitraire, dans les différences entre les sexes. C'est avant tout un outil conceptuel et plusieurs théories existent sur le sujet.",
+            "tips": "De nombreux spécialistes contestent le terme de \"théorie du genre\", largement utilisé par les opposants au concept, qui le décrit comme une idéologie et non comme un outil, fruit d'études en sciences humaines.",
+            "clue": "Même le corps?",
             "choice_Nyl6KkMVqx": "Vrai",
             "choice_EyxAF1G45e": "Faux",
             "choice_4yec4rZdVW": ""
         },
         "en": {
+            "header": "The gender theory says nothing is biological because everything is cultural. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "The concept of gender does not deny the biological reality. It aims to identify what is social, and therefore arbitrary, in the differences between the sexes. It is above all a conceptual tool and several theories exist on the subject.",
+            "tips": "Many scholars dispute the term \"gender theory\", which is widely used by opponents of the concept, who describe it as an ideology and not as a tool, the fruit of studies from the human sciences.",
+            "clue": "Even the body?",
+            "choice_Nyl6KkMVqx": "True",
+            "choice_EyxAF1G45e": "False",
+            "choice_4yec4rZdVW": ""
+        },
+        "de": {
+            "header": "Die Gender-Theorie besagt, dass nichts biologisch ist, weil alles kulturell ist. Richtig oder falsch ?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Der Begriff des Geschlechts leugnet nicht die biologische Realität. Ziel ist es, herauszufinden, was in den Geschlechtsunterschieden sozial und damit willkürlich ist. Es ist vor allem ein konzeptionelles Werkzeug, und es gibt mehrere Theorien zu diesem Thema.",
+            "tips": "Viele Gelehrte streiten den Begriff \"Gendertheorie\", der von Gegnern des Konzepts häufig verwendet wird, die ihn als Ideologie und nicht als Werkzeug, als Frucht von Studien aus den Humanwissenschaften, bezeichnen.",
+            "clue": "Sogar der Körper?",
+            "choice_Nyl6KkMVqx": "Wahr",
+            "choice_EyxAF1G45e": "Falsch",
+            "choice_4yec4rZdVW": ""
+        },
+        "es": {
             "header": "Gender theory says that nothing is biological because everything is cultural. True or false?",
             "explanation": "Select the correct answer.",
             "klf": "The concept of gender does not deny biological reality. It aims to identify what is social, and therefore arbitrary, in the differences between the sexes. It is primarily a conceptual tool and there are several theories on the subject.",
@@ -68,6 +88,16 @@
             "choice_Nyl6KkMVqx": "True",
             "choice_EyxAF1G45e": "False",
             "clue": "Even the body?",
+            "choice_4yec4rZdVW": ""
+        },
+        "zh": {
+            "header": "性别理论认为没有什么是生物学因素，因为一切都是文对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "性别概念并不否认生物现实。它旨在确定两性之间的差异是社会的，因而是任意的。它主要是一个概念工具，关于这个主题有几个理论。",
+            "tips": "许多研究人员对“性别理论”这一表达提出质疑，这种表达被这一概念的反对者广泛挑战，他们将其描述为一种意识形态，而不是一种工具，是人文科学研究的结果。",
+            "clue": "连身体？",
+            "choice_Nyl6KkMVqx": "真正",
+            "choice_EyxAF1G45e": "假",
             "choice_4yec4rZdVW": ""
         }
     }

@@ -14,7 +14,7 @@
             "status": "draft",
             "modifiedBy": "Hortensel",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NJoI4Rm3l",
         "position": 0,
@@ -39,15 +39,35 @@
     },
     "locales": {
         "fr": {
-            "header": "Quel est le quatrième pilier de l'intelligence émotionnelle ?",
-            "explanation": "Saisissez votre réponse.",
-            "klf": "Le quatrième pilier de l'intelligence émotionnelle est l'empathie. Cette faculté émotionnelle est indispensable pour nouer des relations harmonieuses avec ses collaborateurs.",
-            "label": " ",
-            "placeholder": " ",
-            "clue": "\"Faculté intuitive de se mettre à la place d'autrui\", dit le Larousse.",
-            "choice_V1waVAX3g": "empathie"
+            "header": "Quel est le quatrième pilier de l'intelligence émotionnelle?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "Le quatrième pilier de l'intelligence émotionnelle est l'empathie. Cette faculté émotionnelle est essentielle pour établir des relations harmonieuses avec ses collaborateurs.",
+            "clue": "\"Faculté intuitive de se mettre à la place des autres\", dit Larousse.",
+            "choice_V1waVAX3g": "empathie",
+            "label": " ",
+            "placeholder": " "
         },
         "en": {
+            "header": "What is the fourth pillar of emotional intelligence?",
+            "explanation": "Enter your answer.",
+            "klf": "The fourth pillar of emotional intelligence is empathy. This emotional faculty is essential to establish harmonious relations with its collaborators.",
+            "clue": "\"Intuitive faculty to put oneself in the shoes of others,\" says Larousse.",
+            "choice_V1waVAX3g": "empathy",
+            "label": " ",
+            "placeholder": " ",
+            "tips": ""
+        },
+        "de": {
+            "header": "Was ist die vierte Säule der emotionalen Intelligenz?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Die vierte Säule der emotionalen Intelligenz ist Empathie. Diese emotionale Fähigkeit ist wichtig, um harmonische Beziehungen zu ihren Mitarbeitern herzustellen.",
+            "clue": "\"Intuitive Fähigkeit, sich in die Lage anderer zu versetzen\", sagt Larousse.",
+            "choice_V1waVAX3g": "Empathie",
+            "label": " ",
+            "placeholder": " ",
+            "tips": ""
+        },
+        "es": {
             "header": "Quel est le quatrième pilier de l'intelligence émotionnelle ?",
             "explanation": "Type your answer.",
             "klf": "Le quatrième pilier de l'intelligence émotionnelle est l'empathie. Cette faculté émotionnelle est indispensable pour nouer des relations harmonieuses avec ses collaborateurs.",
@@ -56,6 +76,16 @@
             "placeholder": " ",
             "choice_V1waVAX3g": "empathie",
             "clue": "\"Faculté intuitive de se mettre à la place d'autrui\", dit le Larousse."
+        },
+        "zh": {
+            "header": "情绪智力的第四个支柱是什么？",
+            "explanation": "输入你的答案。",
+            "klf": "情绪智力的第四个支柱是同理心。这种情感能力对于与合作者建立和谐关系至关重要。",
+            "clue": "拉鲁塞斯说：“直觉上的教师能够把自己放在别人的手中。”",
+            "choice_V1waVAX3g": "同情",
+            "label": " ",
+            "placeholder": " ",
+            "tips": ""
         }
     }
 }

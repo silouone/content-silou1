@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "ThereseG",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_EJDb6HTq~",
         "position": 0,
@@ -81,14 +81,14 @@
     },
     "locales": {
         "fr": {
-            "header": "Physiquement, quelle est la gestuelle à adopter pour montrer sa volonté de partage ?",
+            "header": "Physiquement, quel est le geste à adopter pour montrer sa volonté de partager?",
             "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
-            "klf": "Les postures de partage se caractérisent par un corps penché vers l'avant et des mains ouvertes.",
-            "tips": "On appelle \"communication incidente\" les informations parallèles données sans s'en rendre compte.",
-            "clue": "Soyez tourné vers les autres…",
-            "choice_Ny57pra9b": "Debout",
-            "choice_41yV6Sp9Z": "Penché en arrière",
-            "choice_NJUEarpc~": "Penché en avant",
+            "klf": "Les postures de partage se caractérisent par un corps penché en avant et des mains ouvertes.",
+            "tips": "La communication incidente est l'information parallèle donnée sans s'en rendre compte.",
+            "clue": "Se tourner vers les autres ...",
+            "choice_Ny57pra9b": "Permanent",
+            "choice_41yV6Sp9Z": "Se penchant en arrière",
+            "choice_NJUEarpc~": "Se penchant en avant",
             "choice_4ygraSp5Z": "Assis dans le public",
             "choice_NJIHaBpc~": "Mains contre le corps",
             "choice_VJ3BpBTqW": "Mains ouvertes",
@@ -96,6 +96,36 @@
             "choice_VJuI6Sa9W": "Mains fermées"
         },
         "en": {
+            "header": "Physically, what is the gesture to adopt to show his willingness to share?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
+            "tips": "Incidental communication is the parallel information given without realizing it.",
+            "clue": "Be turned to others ...",
+            "choice_Ny57pra9b": "Standing",
+            "choice_41yV6Sp9Z": "Leaning back",
+            "choice_NJUEarpc~": "Leaning forward",
+            "choice_4ygraSp5Z": "Sitting in the audience",
+            "choice_NJIHaBpc~": "Hands against the body",
+            "choice_VJ3BpBTqW": "Hands open",
+            "choice_V1ZLTHaqW": "Hands joined",
+            "choice_VJuI6Sa9W": "Hands closed"
+        },
+        "de": {
+            "header": "Was ist die Geste, die man nehmen muss, um seine Bereitschaft zum Teilen zu zeigen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Gemeinsame Körperhaltungen zeichnen sich durch einen nach vorne gebeugten Körper und offene Hände aus.",
+            "tips": "Zufällige Kommunikation ist die parallele Information, die ohne es zu merken ist.",
+            "clue": "Wende dich an andere ...",
+            "choice_Ny57pra9b": "Stehen",
+            "choice_41yV6Sp9Z": "Zurücklehnen",
+            "choice_NJUEarpc~": "Nach vorne lehnen",
+            "choice_4ygraSp5Z": "Im Publikum sitzen",
+            "choice_NJIHaBpc~": "Hände gegen den Körper",
+            "choice_VJ3BpBTqW": "Hände öffnen sich",
+            "choice_V1ZLTHaqW": "Hände schlossen sich an",
+            "choice_VJuI6Sa9W": "Hände geschlossen"
+        },
+        "es": {
             "header": "Physically, what posture should you adopt to show you’re eager to share?",
             "explanation": "Select the correct answers below.",
             "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
@@ -109,6 +139,21 @@
             "choice_V1ZLTHaqW": "Closed hands",
             "choice_VJuI6Sa9W": "Joined hands",
             "clue": "Turn towards the others…"
+        },
+        "zh": {
+            "header": "身体上，你应采取什么姿势表明你渴望分享？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "分享姿势的特点是身体前倾和张开双手。",
+            "tips": "我们称之为“偶然通信”并行信息而没有意识到。",
+            "clue": "转向其他人......",
+            "choice_Ny57pra9b": "常设",
+            "choice_41yV6Sp9Z": "向后倾斜",
+            "choice_NJUEarpc~": "向前倾斜",
+            "choice_4ygraSp5Z": "坐在观众席上",
+            "choice_NJIHaBpc~": "双手贴在身上",
+            "choice_VJ3BpBTqW": "张开双手",
+            "choice_V1ZLTHaqW": "闭合的手",
+            "choice_VJuI6Sa9W": "加入了手"
         }
     }
 }

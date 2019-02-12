@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T08:38:40.154Z",
+            "updatedAt": "2016-09-05T15:01:14.950Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyH-17Tqg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EyH-17Tqg.field_VyK9lXpqg.id",
+                        "type": "text",
+                        "name": "inp44133",
+                        "label": "label_NklFqe76qx",
+                        "placeholder": "placeholder_Vk~Y5emp5x"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp44133",
+                        "answers": [
+                            "choice_VJGYqg7p9e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EyH-17Tqg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Certaines femmes se retrouvent coincées dans leur carrière car leur employeur craint une éventuelle grossesse. Quel est le nom de ce phénomène?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "Avant même que la femme songe à avoir un enfant, son employeur peut s'inquiéter d'une éventuelle grossesse. C'est ce que l'on appelle \"la suspicion de l'employeur\": pour des raisons familiales, les femmes risquent de sortir du marché du travail.",
+            "tips": "Cette suspicion arrive vers l'âge de trente ans, c'est-à-dire l'âge auquel des hauts potentiels sont détectés dans de grands groupes. D'où un ralentissement de la carrière des femmes.",
+            "clue": "Selon le dictionnaire, \"Supposons, sur la base de quelques indices, l'existence d'un crime\".",
+            "template": "Le {{inp44133}} de l'employeur.",
+            "label_NklFqe76qx": " ",
+            "choice_VJGYqg7p9e": "soupçon",
+            "placeholder_Vk~Y5emp5x": " "
+        },
+        "en": {
+            "header": "Some women find themselves stuck in their careers because their employer is worried about a possible pregnancy. What is the name of this phenomenon?",
+            "explanation": "Enter your answer.",
+            "klf": "Even before the woman thinks of having a child, her employer may be worried about a possible pregnancy. This is called \"suspicion of the employer\": for family reasons, women seem likely to exit the labor market.",
+            "tips": "This suspicion arrives around the age of thirty, that is to say the age at which high potentials are detected in large groups. Hence a career slowdown for women.",
+            "clue": "According to the dictionary, \"Assume, based on some clues, the existence of a crime\".",
+            "template": "The {{inp44133}} of the employer.",
+            "label_NklFqe76qx": " ",
+            "choice_VJGYqg7p9e": "suspicion",
+            "placeholder_Vk~Y5emp5x": " "
+        },
+        "de": {
+            "header": "Einige Frauen stecken in ihrer Karriere fest, weil ihr Arbeitgeber sich Sorgen vor einer möglichen Schwangerschaft macht. Wie heißt dieses Phänomen?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Noch bevor die Frau an ein Kind denkt, könnte sich ihr Arbeitgeber um eine mögliche Schwangerschaft Sorgen machen. Dies wird als \"Verdacht des Arbeitgebers\" bezeichnet: Aus familiären Gründen scheinen Frauen den Arbeitsmarkt zu verlassen.",
+            "tips": "Dieser Verdacht kommt etwa im Alter von dreißig Jahren, also dem Alter, in dem in großen Gruppen Hochpotenziale entdeckt werden. Daher eine Karriereverlangsamung für Frauen.",
+            "clue": "Nach dem Wörterbuch \"Nehmen Sie an, basierend auf einigen Hinweisen, die Existenz eines Verbrechens\".",
+            "template": "Die {{inp44133}} des Arbeitgebers.",
+            "label_NklFqe76qx": " ",
+            "choice_VJGYqg7p9e": "Verdacht",
+            "placeholder_Vk~Y5emp5x": " "
+        },
+        "es": {
+            "header": "Some women find their careers stagnate because their employers are worried about a possible pregnancy. What is this phenomenon called?",
+            "explanation": "Type your answer (one word).",
+            "klf": "Before a woman has even began to consider the possibility of having a child, her employer may be worried about a potential pregnancy. This is called the \"employer's suspicion\": for family reasons, it seems likely that women will leave the labour market.",
+            "tips": "This suspicion arises when women reach their thirties, which is precisely the age when high achievers are detected in large groups. Hence a career downturn for women.",
+            "template": "The employer's  {{inp44133}}",
+            "label_NklFqe76qx": " ",
+            "placeholder_Vk~Y5emp5x": " ",
+            "choice_VJGYqg7p9e": "suspicion",
+            "clue": "From the dictionary: \"The act of supposing, from a limited number of clues, the existence of an offence\"."
+        },
+        "zh": {
+            "header": "一些女性发现他们的职业生涯停滞不前，因为他们的雇主担心可能怀孕。这种现象叫什么？",
+            "explanation": "输入你的答案（一个字）。",
+            "klf": "在女性开始考虑生孩子的可能性之前，她的雇主可能会担心可能怀孕。这被称为“雇主的怀疑”：出于家庭原因，女性似乎可能会离开劳动力市场。",
+            "tips": "当女性达到三十岁时，就会出现这种怀疑，这正是大群体中成年人被发现的年龄。因此，女性职业生涯低迷。",
+            "clue": "从字典：“从有限数量的线索中假设存在进攻的行为”。",
+            "template": "雇主的{{inp44133}}",
+            "label_NklFqe76qx": " ",
+            "choice_VJGYqg7p9e": "怀疑",
+            "placeholder_Vk~Y5emp5x": " "
+        }
+    }
+}

@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "CharlotteRitzmann",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_V17BKEn9l",
         "position": 0,
@@ -50,17 +50,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Lorsque l'on construit sa marque personnelle, que faut-il faire pour \"se faire connaître\" ?",
-            "explanation": "Saisissez votre réponse.",
-            "klf": "La coach Pascale Baumeister définit trois grandes étapes dans la construction de sa marque personnelle : définir ses objectifs, se connaître (identification de ses atouts, talents) et enfin \"se faire connaître\". Autrement dit, c'est le moment où l'on définit et met en place une stratégie de communication.",
-            "tips": "Il existe une multiplicité d'outils de communication : des cartes de visite, une charte graphique, un blog, les réseaux sociaux ou encore le message de votre répondeur. Le choix des outils varie en fonction de vos objectifs.",
-            "template": "Mettre en place une stratégie de {{inp39591}}",
-            "clue": "Façons d'interagir.",
-            "label_NkgbG5E35l": " ",
-            "placeholder_EyWWzqV3qg": " ",
-            "choice_VkMZz9En5x": "communication"
+            "header": "Lorsque vous construisez votre marque personnelle, que devriez-vous faire pour vous \"faire connaître\"?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "Pascale Baumeister, entraîneuse, définit trois grandes étapes dans la construction de sa marque personnelle: définir ses objectifs, se connaître (identifier ses forces, ses talents) et enfin \"se faire connaître\". En d’autres termes, c’est le moment où nous définissons et mettons en œuvre une stratégie de communication.",
+            "tips": "Les outils de communication sont multiples: cartes de visite, charte graphique, blog, réseaux sociaux ou message de votre répondeur. Le choix des outils varie en fonction de vos objectifs.",
+            "clue": "Manières d'interagir",
+            "template": "Mettre en place une stratégie {{inp39591}}",
+            "label_NkgbG5E35l": " ",
+            "choice_VkMZz9En5x": "la communication",
+            "placeholder_EyWWzqV3qg": " "
         },
         "en": {
+            "header": "When building your personal brand, what should you do to \"make yourself known\"?",
+            "explanation": "Enter your answer.",
+            "klf": "Coach Pascale Baumeister defines three major steps in the construction of her personal brand: defining her goals, getting to know herself (identifying her strengths, talents) and finally \"making herself known\". In other words, this is the moment when we define and implement a communication strategy.",
+            "tips": "There is a multiplicity of communication tools: business cards, a graphic charter, a blog, social networks or the message of your answering machine. The choice of tools varies according to your objectives.",
+            "clue": "Ways to interact",
+            "template": "Set up a {{inp39591}} strategy",
+            "label_NkgbG5E35l": " ",
+            "choice_VkMZz9En5x": "communication",
+            "placeholder_EyWWzqV3qg": " "
+        },
+        "de": {
+            "header": "Was sollten Sie beim Aufbau Ihrer persönlichen Marke tun, um sich \"bekannt zu machen\"?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Trainer Pascale Baumeister definiert drei wichtige Schritte beim Aufbau ihrer persönlichen Marke: Definition ihrer Ziele, Selbsterkennen (Identifizieren ihrer Stärken und Talente) und schließlich \"Bekanntmachen\". Mit anderen Worten, in diesem Moment definieren und implementieren wir eine Kommunikationsstrategie.",
+            "tips": "Es gibt eine Vielzahl von Kommunikationsmitteln: Visitenkarten, eine grafische Charta, ein Blog, soziale Netzwerke oder die Nachricht Ihres Anrufbeantworters. Die Auswahl der Tools hängt von Ihren Zielen ab.",
+            "clue": "Möglichkeiten zur Interaktion",
+            "template": "Richten Sie eine {{inp39591}} - Strategie ein",
+            "label_NkgbG5E35l": " ",
+            "choice_VkMZz9En5x": "Kommunikation",
+            "placeholder_EyWWzqV3qg": " "
+        },
+        "es": {
             "header": "When building your own personal mark, what can you do to \"get yourself known\"?",
             "explanation": "Type your answer (one word).",
             "klf": "The coach Pascale Baumeister defines three main steps to build  your personal mark: define your objectives, know yourself (identify your strengths, talents) and finally \"get yourself known.\"  In other words, this is when you need to define and implement a communication strategy.",
@@ -70,6 +92,17 @@
             "placeholder_EyWWzqV3qg": " ",
             "choice_VkMZz9En5x": "communication",
             "clue": "Ways to interact."
+        },
+        "zh": {
+            "header": "在建立自己的个人标记时，您可以做些什么来“让自己知道”？",
+            "explanation": "输入你的答案（一个字）。",
+            "klf": "教练Pascale Baumeister定义了构建个人标记的三个主要步骤：确定目标，了解自己（确定自己的优势，才能），最后“让自己知道”。换句话说，这是您需要定义和实现通信策略的时候。",
+            "tips": "有各种各样的通信工具：名片，图表，博客，社交网络甚至是答录机上的消息。工具的选择取决于您的目标。",
+            "clue": "互动的方式。",
+            "template": "实施{{inp39591}}策略。",
+            "label_NkgbG5E35l": " ",
+            "choice_VkMZz9En5x": "通讯",
+            "placeholder_EyWWzqV3qg": " "
         }
     }
 }

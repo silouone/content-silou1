@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T08:48:44.590Z",
+            "updatedAt": "2016-07-22T13:45:53.193Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "leosiegel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VyXWfQT5l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyXWfQT5l.choice_E12nf7p5l.id",
+                        "label": "choice_E12nf7p5l",
+                        "value": "choice_E12nf7p5l"
+                    },
+                    {
+                        "id": "sli_VyXWfQT5l.choice_4k5pMm65e.id",
+                        "label": "choice_4k5pMm65e",
+                        "value": "choice_4k5pMm65e"
+                    },
+                    {
+                        "id": "sli_VyXWfQT5l.choice_NJjafXa9x.id",
+                        "label": "choice_NJjafXa9x",
+                        "value": "choice_NJjafXa9x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJjafXa9x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VyXWfQT5l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le délit de maternité?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "L'inspecteur des affaires sociales Brigitte Grésy parle de \"crime de maternité\". C'est le fait qu'une mère est considérée comme moins efficace et moins disponible en raison d'un congé parental, d'un manque de mobilité géographique ou même d'obligations en début et en fin de journée. Pour ces raisons, réelles ou supposées, les femmes ont moins de responsabilités.",
+            "tips": "En France, en 2014, le Défenseur des droits a révélé que la grossesse était la troisième cause de discrimination dans les plaintes qu’il avait traitées (5%), derrière l’origine (23,7%) et le handicap (20%). 8%).",
+            "clue": "Rien de strictement criminel.",
+            "choice_E12nf7p5l": "La propension des femmes enceintes à enfreindre les règles de l'entreprise",
+            "choice_4k5pMm65e": "Infractions à la loi au nom des femmes enceintes",
+            "choice_NJjafXa9x": "Le fait qu'une future mère ait moins de responsabilités à cause de sa maternité"
+        },
+        "en": {
+            "header": "What is the offense of maternity?",
+            "explanation": "Select the correct answer.",
+            "klf": "Inspector of Social Affairs Brigitte Grésy speaks of \"crime of maternity\". It is the fact that a mother is considered less effective and less available because of parental leave, lack of geographical mobility or even obligations at the beginning and end of the day. For these reasons, real or supposed, women are given less responsibility.",
+            "tips": "In France, in 2014, the Defender of Rights revealed that pregnancy was the third cause of discrimination in the complaints he handled (5%), behind the origin (23.7%) and the disability (20%). 8%).",
+            "clue": "Nothing strictly criminal.",
+            "choice_E12nf7p5l": "The propensity of pregnant women to break the rules of the company",
+            "choice_4k5pMm65e": "Offenses against the law on behalf of pregnant women",
+            "choice_NJjafXa9x": "The fact that a future mother has less responsibility because of her maternity"
+        },
+        "de": {
+            "header": "Was ist die Straftat der Mutterschaft?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Die Inspektorin für soziale Angelegenheiten, Brigitte Grésy, spricht von \"Mutterschaftsverbrechen\". Es ist die Tatsache, dass eine Mutter aufgrund von Elternurlaub, fehlender geografischer Mobilität oder sogar Verpflichtungen zu Beginn und am Ende des Tages als weniger wirksam und weniger verfügbar gilt. Aus diesen Gründen wird den Frauen tatsächlich oder vermutet, dass sie weniger Verantwortung übernehmen.",
+            "tips": "In Frankreich zeigte der Defender of Rights im Jahr 2014, dass die Schwangerschaft die dritte Diskriminierungsursache in den von ihm behandelten Beschwerden (5%) war, hinter dem Ursprung (23,7%) und der Behinderung (20%). 8%).",
+            "clue": "Nichts streng kriminell.",
+            "choice_E12nf7p5l": "Die Neigung schwangerer Frauen, gegen die Regeln des Unternehmens zu verstoßen",
+            "choice_4k5pMm65e": "Verstöße gegen das Gesetz im Namen schwangerer Frauen",
+            "choice_NJjafXa9x": "Die Tatsache, dass eine zukünftige Mutter aufgrund ihrer Mutterschaft weniger Verantwortung trägt"
+        },
+        "es": {
+            "header": "What is \"maternity discrimination\"?",
+            "explanation": "Select the correct answer.",
+            "klf": "The Inspector of Social Affairs Brigitte Grésy calls it \"maternity discrimination\". This is when a mother is considered less effective and less available due to parental leave, lack of geographic mobility or obligations at the beginning and end of the day. For these reasons, real or imagined, women are given less responsibility.",
+            "tips": "In France in 2014, the Defender of Rights revealed that pregnancy was the third cause of discrimination in the complaints that it processed (5%), behind origin (23.7%) and disability (20, 8%).",
+            "choice_E12nf7p5l": "The propensity of pregnant women to violate company rules",
+            "choice_4k5pMm65e": "Breaches of the law by companies against pregnant women",
+            "choice_NJjafXa9x": "The fact that an expectant mother has less responsibility because of her maternity",
+            "clue": "Nothing strictly criminal."
+        },
+        "zh": {
+            "header": "什么是“产妇歧视”？",
+            "explanation": "选择正确的答案。",
+            "klf": "社会事务检查员Br​​igitteGrésy称之为“产妇歧视”。这是因为由于育儿假，缺乏地理流动性或在一天开始和结束时的义务，母亲被认为效率较低且可用性较低。由于这些原因，无论是真实的还是想象的，女性的责任都较少。",
+            "tips": "在2014年的法国，权利维护者透露，怀孕是其处理（5％），原籍（23.7％）和残疾（20％，8％）的投诉中歧视的第三个原因。",
+            "clue": "没有严格的罪行。",
+            "choice_E12nf7p5l": "孕妇违反公司规定的倾向",
+            "choice_4k5pMm65e": "公司违反孕妇的法律",
+            "choice_NJjafXa9x": "由于产妇的原因，准妈妈的责任较少"
+        }
+    }
+}

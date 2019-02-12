@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_Vy52l0m2x",
         "position": 0,
@@ -60,17 +60,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Quelles sont les caractéristiques de l'intelligence émotionnelle ?",
+            "header": "Quelles sont les caractéristiques de l'intelligence émotionnelle?",
             "explanation": "Sélectionnez les bonnes réponses.",
-            "klf": "Les psychologues Salovey et Mayer définissent l'intelligence émotionnelle comme \"l'habileté à percevoir et à exprimer ses émotions, à les intégrer pour faciliter la pensée\" ainsi que la capacité à \"réguler les émotions chez soi et chez les autres\".",
-            "tips": "Le premier article de Salovey et Mayer (1990) donnait une définition différente, qui évoquait davantage le \"contrôle\" et moins l'expression des émotions.",
-            "clue": "Soyez attentif aux termes.",
-            "choice_41cBWAm3g": "L'impassibilité face aux situations",
-            "choice_NkkUZAmne": "La capacité d'abstraction",
+            "klf": "Les psychologues Salovey et Mayer définissent l'intelligence émotionnelle comme \"la capacité de percevoir et d'exprimer des émotions, de les intégrer pour faciliter la réflexion\" et la capacité de \"réguler les émotions à la maison et chez les autres\".",
+            "tips": "Le premier article de Salovey et Mayer (1990) donnait une définition différente, qui concernait davantage le \"contrôle\" et moins l'expression des émotions.",
+            "clue": "Faites attention aux termes.",
+            "choice_41cBWAm3g": "L'impassibilité dans les situations",
+            "choice_NkkUZAmne": "La capacité à l'abstraction",
             "choice_4JV8W0X2l": "La perception et l'expression des émotions",
-            "choice_NJBI~072x": "La capacité à réguler ses émotions et celles des autres"
+            "choice_NJBI~072x": "La capacité de réguler ses émotions et celles des autres"
         },
         "en": {
+            "header": "What are the characteristics of emotional intelligence?",
+            "explanation": "Select the correct answers.",
+            "klf": "Psychologists Salovey and Mayer define emotional intelligence as \"the ability to perceive and express emotions, to integrate them to facilitate thinking\" and the ability to \"regulate emotions at home and in others\".",
+            "tips": "The first article by Salovey and Mayer (1990) gave a different definition, which was more about \"control\" and less the expression of emotions.",
+            "clue": "Pay attention to the terms.",
+            "choice_41cBWAm3g": "The impassibility in the situations",
+            "choice_NkkUZAmne": "The ability to abstraction",
+            "choice_4JV8W0X2l": "The perception and expression of emotions",
+            "choice_NJBI~072x": "The ability to regulate one's emotions and those of others"
+        },
+        "de": {
+            "header": "Was zeichnet emotionale Intelligenz aus?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Die Psychologen Salovey und Mayer definieren emotionale Intelligenz als \"die Fähigkeit, Emotionen wahrzunehmen und auszudrücken, sie zu integrieren, um das Denken zu erleichtern\" und die Fähigkeit, \"Emotionen zu Hause und in anderen zu regulieren\".",
+            "tips": "Der erste Artikel von Salovey und Mayer (1990) enthielt eine andere Definition, die sich mehr auf \"Kontrolle\" als auf den Ausdruck von Emotionen bezog.",
+            "clue": "Beachten Sie die Bedingungen.",
+            "choice_41cBWAm3g": "Die Unmöglichkeit in den Situationen",
+            "choice_NkkUZAmne": "Die Fähigkeit zur Abstraktion",
+            "choice_4JV8W0X2l": "Die Wahrnehmung und der Ausdruck von Emotionen",
+            "choice_NJBI~072x": "Die Fähigkeit, die eigenen Gefühle und die anderer zu regulieren"
+        },
+        "es": {
             "header": "What are the characteristics of emotional intelligence?",
             "explanation": "Select the correct answers.",
             "klf": "The psychologists Salovey and Mayer define emotional intelligence as \"the ability to perceive and express your emotions, and to use them to facilitate thinking\" and the ability to \"regulate emotions in oneself and others.\"",
@@ -80,6 +102,17 @@
             "choice_4JV8W0X2l": "The perception and expression of emotions",
             "choice_NJBI~072x": "The ability to regulate emotions and those of others",
             "clue": "Pay attention to the terms."
+        },
+        "zh": {
+            "header": "情商的特点是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "心理学家Salovey和Mayer将情商定义为“感知和表达情绪的能力，并用它们来促进思考”以及“调节自己和他人情绪”的能力。",
+            "tips": "Salovey和Mayer（1990）的第一篇文章给出了一个不同的定义，它更多地关注“控制”而不是情感表达。",
+            "clue": "注意条款。",
+            "choice_41cBWAm3g": "面对情况时的平等",
+            "choice_NkkUZAmne": "抽象的能力",
+            "choice_4JV8W0X2l": "情感的感知和表达",
+            "choice_NJBI~072x": "调节情绪和他人情绪的能力"
         }
     }
 }
