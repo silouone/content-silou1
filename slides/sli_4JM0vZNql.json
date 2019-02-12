@@ -1,0 +1,85 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:05:12.000Z",
+            "updatedAt": "2016-09-03T16:04:06.486Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4JM0vZNql",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4JM0vZNql.choice_V1RDdWEqx.id",
+                        "label": "choice_V1RDdWEqx",
+                        "value": "choice_V1RDdWEqx"
+                    },
+                    {
+                        "id": "sli_4JM0vZNql.choice_4yyddZ4qg.id",
+                        "label": "choice_4yyddZ4qg",
+                        "value": "choice_4yyddZ4qg"
+                    },
+                    {
+                        "id": "sli_4JM0vZNql.choice_EylyOuWV5x.id",
+                        "label": "choice_EylyOuWV5x",
+                        "value": "choice_EylyOuWV5x"
+                    },
+                    {
+                        "id": "sli_4JM0vZNql.choice_Vyb1uOZEql.id",
+                        "label": "choice_Vyb1uOZEql",
+                        "value": "choice_Vyb1uOZEql"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yyddZ4qg"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4JM0vZNql"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel type d'œuvres véhiculerait largement l'image d'une femme passive sauvée par un homme actif ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Depuis Charles Perrault, les contes de fées montrent une femme passive sauvée par un homme actif. \"La Belle au bois dormant\" en est un des meilleurs exemples. Cette représentation est familière des enfants et aurait probablement un impact sur eux.",
+            "tips": "Ironie de l'histoire, Charles Perrault a écrit une \"Apologie des femmes\" en réponse à une satire de l'écrivain et critique Nicolas Boileau.",
+            "clue": "Citrouille, loup et marraine…",
+            "choice_V1RDdWEqx": "Les peintures romantiques",
+            "choice_4yyddZ4qg": "Les contes de fées",
+            "choice_EylyOuWV5x": "Les nouvelles fantastiques",
+            "choice_Vyb1uOZEql": "Les romans réalistes"
+        },
+        "en": {
+            "header": "What style of artistic work largely convey the image of a passive woman being saved by an active man?",
+            "explanation": "Select the correct answer.",
+            "klf": "Since Charles Perrault, fairy tales show a passive woman being saved by an active man. \"Sleeping Beauty\" is one of the best examples. This representation is familiar to children and would probably have an impact on them.",
+            "tips": "Ironically, Charles Perrault wrote an \"Apology for women\" in response to a satire by the writer and critic Nicolas Boileau.",
+            "choice_V1RDdWEqx": "Romantic paintings",
+            "choice_4yyddZ4qg": "Fairy tales",
+            "choice_EylyOuWV5x": "Fantasy novels",
+            "choice_Vyb1uOZEql": "Realistic novels",
+            "clue": "Pumpkin, wolf and fairy godmother, etc."
+        }
+    }
+}

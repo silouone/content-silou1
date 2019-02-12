@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:40:01.637Z",
+            "updatedAt": "2017-12-04T17:55:31.659Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VJPfUoXhg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel84816",
+                        "label": "label_V1PzjMOzZ",
+                        "items": [
+                            {
+                                "text": "choice_NJgPziGOMZ",
+                                "value": "choice_NJgPziGOMZ"
+                            },
+                            {
+                                "text": "choice_41~PzjMOz~",
+                                "value": "choice_41~PzjMOz~"
+                            },
+                            {
+                                "text": "choice_EJmXoMdMW",
+                                "value": "choice_EJmXoMdMW"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel30129",
+                        "label": "label_4JdGjGuGb",
+                        "items": [
+                            {
+                                "text": "choice_Ekgdfjz-z~",
+                                "value": "choice_Ekgdfjz-z~"
+                            },
+                            {
+                                "text": "choice_4kbOfjfOz~",
+                                "value": "choice_4kbOfjfOz~"
+                            },
+                            {
+                                "text": "choice_4y~viMuM~",
+                                "value": "choice_4y~viMuM~"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel84816",
+                        "answers": [
+                            "choice_41~PzjMOz~"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel30129",
+                        "answers": [
+                            "choice_Ekgdfjz-z~"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VJPfUoXhg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appelle-t-on la stratégie de négociation développée par les chercheurs de Harvard ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Il est important de voir votre interlocuteur non pas comme un adversaire mais comme un partenaire. En effet, le but d'une négociation est d'aboutir à une conclusion bénéfique à tous les deux, \"gagnant-gagnant\". On parle de stratégie des gains mutuels. Pour cela, vous devez aussi ressentir de l'empathie envers l'autre.",
+            "tips": "Une autre expression est parfois utilisée, celle de \"négociation raisonnée\".",
+            "template": "La stratégie des {{sel84816}}  {{sel30129}}",
+            "clue": "Chacun y trouve son compte.",
+            "label_Ekx5cLiQhl": " ",
+            "placeholder_Vybc58iX3e": " ",
+            "label_V1PzjMOzZ": " ",
+            "choice_NJgPziGOMZ": "avantages",
+            "choice_41~PzjMOz~": "gains",
+            "label_4JdGjGuGb": " ",
+            "choice_Ekgdfjz-z~": "mutuels",
+            "choice_4kbOfjfOz~": "gagnants",
+            "choice_EJmXoMdMW": "résultats",
+            "choice_4y~viMuM~": "réussis"
+        },
+        "en": {
+            "header": "What is the negotiation strategy developed by Harvard researchers called?",
+            "explanation": "Select the correct answer in the drop-down menus.",
+            "klf": "It is important to see your colleague, not as an adversary but as a partner. Indeed, the goal of negotiations is to reach a positive \"win-win\" conclusion for both. This is known as the strategy of mutual gains. For this, you must also feel empathy towards others.",
+            "tips": "Another term sometimes used is \"rational negotiation\".",
+            "template": "The strategy of {{sel84816}}  {{sel30129}}",
+            "label_Ekx5cLiQhl": " ",
+            "placeholder_Vybc58iX3e": " ",
+            "label_V1PzjMOzZ": " ",
+            "choice_NJgPziGOMZ": "winners",
+            "choice_41~PzjMOz~": "mutual",
+            "label_4JdGjGuGb": " ",
+            "choice_Ekgdfjz-z~": "gains",
+            "choice_4kbOfjfOz~": "advantages",
+            "choice_EJmXoMdMW": "successful",
+            "choice_4y~viMuM~": "results",
+            "clue": "Everyone benefits."
+        }
+    }
+}

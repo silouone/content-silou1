@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-15T08:48:15.065Z",
+            "updatedAt": "2016-09-03T14:42:54.546Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4ky~kFqcg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel88103",
+                        "label": "label_4yqAkY9cg",
+                        "items": [
+                            {
+                                "text": "choice_Vyl5RkY5qe",
+                                "value": "choice_Vyl5RkY5qe"
+                            },
+                            {
+                                "text": "choice_EJbqC1F55g",
+                                "value": "choice_EJbqC1F55g"
+                            },
+                            {
+                                "text": "choice_NJhRyFcqe",
+                                "value": "choice_NJhRyFcqe"
+                            },
+                            {
+                                "text": "choice_NkpRkt55e",
+                                "value": "choice_NkpRkt55e"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel88103",
+                        "answers": [
+                            "choice_EJbqC1F55g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4ky~kFqcg"
+    },
+    "locales": {
+        "fr": {
+            "header": "En France, laquelle de ces filières post-bac compte seulement 30% de filles ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En France, les filières scientifiques post-bac ne comptent que 30% de filles. Parmi les éléments d'explication, on peut citer les jouets, selon un rapport du Sénat (2014) : les filles reçoivent peu de jouets qui développent leurs aptitudes scientifiques ou qui leur permettent de se projeter dans ce type de métiers.",
+            "tips": "À l'intérieur des filières scientifiques, les écarts sont importants : les écoles de mécanique comptent moins de 20% de filles alors qu'elles représentent 65% des étudiants en agronomie (L'Étudiant, 2014).",
+            "template": "{{sel88103}}",
+            "clue": "Plus d'infirmiers que d'ingénieures ?",
+            "label_4yqAkY9cg": " ",
+            "choice_Vyl5RkY5qe": "Les filières paramédicales",
+            "choice_EJbqC1F55g": "Les filières scientifiques",
+            "choice_NJhRyFcqe": "Les sciences humaines",
+            "choice_NkpRkt55e": "Le droit"
+        },
+        "en": {
+            "header": "In France, which of the following post-baccalaureate courses only 30% of the students are female?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In France, only 30 % of students completing post-baccalaureate scientific courses are female. Part of the explanation includes toys, according to a Senate report (2014): girls receive few toys that develop their scientific skills or that enable them to plan for a certain type of business.",
+            "tips": "In scientific studies, the differences are significant: engineering schools have fewer than 20% women while they represent 65% of agronomy. (L'Étudiant, 2014)",
+            "template": "{{sel88103}}",
+            "label_4yqAkY9cg": " ",
+            "choice_Vyl5RkY5qe": "Paramedic courses",
+            "choice_EJbqC1F55g": "Scientific courses",
+            "choice_NJhRyFcqe": "Humanities",
+            "choice_NkpRkt55e": "Law",
+            "clue": "More nurses than engineers?"
+        }
+    }
+}

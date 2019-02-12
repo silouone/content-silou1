@@ -1,0 +1,69 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:21:37.768Z",
+            "updatedAt": "2016-03-30T10:33:18.387Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VkpLibN9l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_VkpLibN9l.id",
+                "min": 1,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 50,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_VkpLibN9l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans les manuels scolaires, parmi les personnes faisant le ménage, quelle est la proportion de femmes ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Le centre Hubertine Auclert (centre francilien de ressources pour l'égalité femmes-hommes) a étudié les manuels scolaires. L'une des conclusions : 70% des personnages qui font le ménage sont des femmes.",
+            "tips": "L'étude montre également que dans les manuels scolaires, seulement 22% des personnes qui travaillent sont des femmes.",
+            "unitLabel": "%",
+            "description": "70%",
+            "answerMin": 65,
+            "answerMax": 75,
+            "clue": "Plus de la moitié."
+        },
+        "en": {
+            "header": "Dans les manuels scolaires, parmi les personnes faisant le ménage, quelle est la proportion de femmes ?",
+            "explanation": "Drag the slider.",
+            "klf": "Le centre Hubertine Auclert (centre francilien de ressources pour l'égalité femmes-hommes) a étudié les manuels scolaires. L'une des conclusions : 70% des personnages qui font le ménage sont des femmes.",
+            "tips": "L'étude montre également que dans les manuels scolaires, seulement 22% des personnes qui travaillent sont des femmes.",
+            "unitLabel": " ",
+            "description": "70%",
+            "answerMin": 65,
+            "answerMax": 75,
+            "clue": "Plus de la moitié."
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:17:08.767Z",
+            "updatedAt": "2016-09-03T16:05:51.820Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NJpcub49e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJpcub49e.choice_N1Zko~E5x.id",
+                        "label": "choice_N1Zko~E5x",
+                        "value": "choice_N1Zko~E5x"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_EkM1jZEql.id",
+                        "label": "choice_EkM1jZEql",
+                        "value": "choice_EkM1jZEql"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_Nk7yi~Ece.id",
+                        "label": "choice_Nk7yi~Ece",
+                        "value": "choice_Nk7yi~Ece"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_EJ4kobE5x.id",
+                        "label": "choice_EJ4kobE5x",
+                        "value": "choice_EJ4kobE5x"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_NkxNysZEqe.id",
+                        "label": "choice_NkxNysZEqe",
+                        "value": "choice_NkxNysZEqe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nk7yi~Ece",
+                        "choice_NkxNysZEqe"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NJpcub49e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Lesquelles de ces affirmations sont justes à propos des filles et des garçons dans les livres jeunesse francophones ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La docteur en psychologie Anne Dafflon Novelle a montré que seuls 25% des livres jeunesse francophones racontaient l'histoire d'une héroïne. Et selon l'association Adéquations, celles-ci sont surtout représentées à l'intérieur de la maison.",
+            "tips": "Autre phénomène notable selon l'auteur et chercheuse Clémentine Beauvais : \"Jamais les héroïnes [jeunesse] n'ont été aussi girly\".",
+            "clue": "Quel est le titre de ce chapitre, au fait ?",
+            "choice_N1Zko~E5x": "Il y a 60% de héros garçons",
+            "choice_EkM1jZEql": "Les enfants sont surtout représentés à l'intérieur de la maison",
+            "choice_Nk7yi~Ece": "25% des personnages principaux sont des héroïnes",
+            "choice_EJ4kobE5x": "Les garçons et les filles y pratiquent les mêmes activités",
+            "choice_NkxNysZEqe": "Les filles sont souvent à l'intérieur de la maison"
+        },
+        "en": {
+            "header": "Which of these statements about the girls and boys in French youth literature are correct?",
+            "explanation": "Select the correct answers.",
+            "klf": "Doctor of psychology Anne Dafflon Novelle demonstrated that only 25% of French children's books told the story of a heroine. And according to the association Adéquations these are primarily represented within the house.",
+            "tips": "Another notable phenomenon according to author and researcher Clementine Beauvais : \"Never have [young] heroines been so girly\".",
+            "choice_N1Zko~E5x": "60% of heroes are male",
+            "choice_EkM1jZEql": "Children are especially represented within the house",
+            "choice_Nk7yi~Ece": "25% of the main characters are heroines",
+            "choice_EJ4kobE5x": "Boys and girls carry out the same activities",
+            "choice_NkxNysZEqe": "Girls are often inside the house",
+            "clue": "What is the title of this chapter, in fact?"
+        }
+    }
+}

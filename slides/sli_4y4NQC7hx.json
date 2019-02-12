@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:52:47.074Z",
+            "updatedAt": "2016-06-14T06:34:10.056Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4y4NQC7hx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4y4NQC7hx.choice_41Bi7C7nx.id",
+                        "label": "choice_41Bi7C7nx",
+                        "value": "choice_41Bi7C7nx"
+                    },
+                    {
+                        "id": "sli_4y4NQC7hx.choice_NkKjQCXhl.id",
+                        "label": "choice_NkKjQCXhl",
+                        "value": "choice_NkKjQCXhl"
+                    },
+                    {
+                        "id": "sli_4y4NQC7hx.choice_V15sX0Xhx.id",
+                        "label": "choice_V15sX0Xhx",
+                        "value": "choice_V15sX0Xhx"
+                    },
+                    {
+                        "id": "sli_4y4NQC7hx.choice_4yoiQAmhl.id",
+                        "label": "choice_4yoiQAmhl",
+                        "value": "choice_4yoiQAmhl"
+                    },
+                    {
+                        "id": "sli_4y4NQC7hx.choice_N1njQ073x.id",
+                        "label": "choice_N1njQ073x",
+                        "value": "choice_N1njQ073x"
+                    },
+                    {
+                        "id": "sli_4y4NQC7hx.choice_4k6iXCmng.id",
+                        "label": "choice_4k6iXCmng",
+                        "value": "choice_4k6iXCmng"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yoiQAmhl",
+                        "choice_NkKjQCXhl",
+                        "choice_4k6iXCmng"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4y4NQC7hx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment bien gérer ses émotions ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L'intelligence émotionnelle est composée de cinq piliers. Le premier est l'identification des émotions, préalable au deuxième pilier, leur gestion. Pour cela, il faut d'abord accepter son ressenti avant d'en trouver la cause.",
+            "tips": "Selon le psychologue Robert Plutchik, il existe huit émotions primaires (peur, surprise, tristesse, dégoût, colère, anticipation, joie, acceptation) qui peuvent se combiner pour donner des ressentis plus complexes.",
+            "clue": "Comme pour un problème à résoudre.",
+            "choice_41Bi7C7nx": "Ne plus y penser",
+            "choice_NkKjQCXhl": "Les accepter",
+            "choice_V15sX0Xhx": "Les partager avec tout le monde",
+            "choice_4yoiQAmhl": "Les identifier",
+            "choice_N1njQ073x": "Les ignorer",
+            "choice_4k6iXCmng": "Chercher leurs causes"
+        },
+        "en": {
+            "header": "How can you manage your emotions?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Emotional intelligence consists of five pillars. The first is the identification of emotions, a preliminary to the second pillar, how to manage them. For this, we must first accept our feelings before finding the cause of them.",
+            "tips": "According to psychologist Robert Plutchik there are eight primary emotions (fear, surprise, sadness, disgust, anger, anticipation, joy, acceptance) that can be combined to provide more complex feelings.",
+            "choice_41Bi7C7nx": "Don't think about them any more",
+            "choice_NkKjQCXhl": "Accept them",
+            "choice_V15sX0Xhx": "Share them with everyone",
+            "choice_4yoiQAmhl": "Identify them",
+            "choice_N1njQ073x": "Ignore them",
+            "choice_4k6iXCmng": "Find their causes",
+            "clue": "Like a problem to be solved."
+        }
+    }
+}

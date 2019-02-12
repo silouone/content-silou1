@@ -1,0 +1,130 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:59:08.602Z",
+            "updatedAt": "2016-09-03T14:30:16.347Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VJC-N2M9l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel45165",
+                        "label": "label_4krNQTPG~",
+                        "items": [
+                            {
+                                "text": "choice_4keBEXaPGW",
+                                "value": "choice_4keBEXaPGW"
+                            },
+                            {
+                                "text": "choice_4k~SNQpwG~",
+                                "value": "choice_4k~SNQpwG~"
+                            },
+                            {
+                                "text": "choice_NkSrmpDGb",
+                                "value": "choice_NkSrmpDGb"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel74861",
+                        "label": "label_EJI4QpDfW",
+                        "items": [
+                            {
+                                "text": "choice_4kgLNX6wfZ",
+                                "value": "choice_4kgLNX6wfZ"
+                            },
+                            {
+                                "text": "choice_4kZL4QTDf~",
+                                "value": "choice_4kZL4QTDf~"
+                            },
+                            {
+                                "text": "choice_EyXD7pwGZ",
+                                "value": "choice_EyXD7pwGZ"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel45165",
+                        "answers": [
+                            "choice_4k~SNQpwG~"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel74861",
+                        "answers": [
+                            "choice_4kgLNX6wfZ"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VJC-N2M9l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le grand texte publié par Olympe de Gouges en faveur de l'égalité entre hommes et femmes ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Au XVIIIe siècle, la femme de lettres et féministe Olympe de Gouges lutta en faveur de l'égalité des droits entre hommes et femmes. Elle publia notamment la Déclaration des droits de la femme et de la citoyenne en 1791. Elle sera guillotinée deux ans plus tard.",
+            "tips": "Outre ses textes politiques, Olympe de Gouges a écrit de nombreuses pièces de théâtre, généralement engagées, comme \"La Nécessité du divorce\".",
+            "template": "La Déclaration  {{sel45165}}  de la femme et de la  {{sel74861}}",
+            "clue": "Comme un autre texte très connu.",
+            "label_NkxpwS3M5x": " ",
+            "placeholder_NyZ6PB2M5g": " ",
+            "label_NylNdSnMcx": " ",
+            "placeholder_N1bVOH3f5e": " ",
+            "label_4krNQTPG~": " ",
+            "choice_4keBEXaPGW": "des libertés",
+            "choice_4k~SNQpwG~": "des droits",
+            "label_EJI4QpDfW": " ",
+            "choice_4kgLNX6wfZ": "citoyenne",
+            "choice_4kZL4QTDf~": "travailleuse",
+            "choice_NkSrmpDGb": "de l'égalité",
+            "choice_EyXD7pwGZ": "mère"
+        },
+        "en": {
+            "header": "What is the famous text published by Olympe de Gouges in favour of equality between men and women?",
+            "explanation": "Select the correct answer in the drop-down menus.",
+            "klf": "In the eighteenth century, the woman of letters and feminist Olympe de Gouges campaigned for equal rights between men and women. She published the Declaration of the Rights of Woman and the Female Citizen in 1791. She was guillotined two years later.",
+            "tips": "Besides her political texts, Olympe de Gouges wrote numerous, generally engaged plays, such as \"The Necessity of Divorce\".",
+            "template": "The Declaration of the  {{sel45165}}  of Woman and the  {{sel74861}}",
+            "label_NkxpwS3M5x": " ",
+            "placeholder_NyZ6PB2M5g": " ",
+            "label_NylNdSnMcx": " ",
+            "placeholder_N1bVOH3f5e": " ",
+            "label_4krNQTPG~": " ",
+            "choice_4keBEXaPGW": "freedom",
+            "choice_4k~SNQpwG~": "rights",
+            "label_EJI4QpDfW": " ",
+            "choice_4kgLNX6wfZ": "female citizen",
+            "choice_4kZL4QTDf~": "female worker",
+            "choice_NkSrmpDGb": "equality",
+            "choice_EyXD7pwGZ": "mother",
+            "clue": "Similar to another very well-known text."
+        }
+    }
+}

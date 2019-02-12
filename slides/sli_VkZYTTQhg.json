@@ -1,0 +1,80 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:29:34.982Z",
+            "updatedAt": "2016-05-20T15:14:03.854Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VkZYTTQhg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkZYTTQhg.choice_4JlGVATm2l.id",
+                        "label": "choice_4JlGVATm2l",
+                        "value": "choice_4JlGVATm2l",
+                        "media": "med_4kMERa7ne"
+                    },
+                    {
+                        "id": "sli_VkZYTTQhg.choice_NylYERaQnl.id",
+                        "label": "choice_NylYERaQnl",
+                        "value": "choice_NylYERaQnl",
+                        "media": "med_NyYN0Tmhe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NylYERaQnl"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        },
+        "universalRef": "sli_VkZYTTQhg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qui sera le mieux perçu en cas de colère au travail ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Des études ont montré qu'un homme en colère au travail sera beaucoup mieux perçu qu'une femme. Celle-ci sera soupçonnée de ne pas savoir gérer certaines situations professionnelles.",
+            "tips": "Eric Uhlmann, qui a mené une étude sur le sujet, explique que les hommes qui se sont énervés sans explication étaient même souvent mieux payés que ceux qui n'ont pas exprimé d'émotion ou qui l'ont expliquée. (source : HEC Paris)",
+            "clue": "À qui associe-t-on généralement cette émotion ?",
+            "choice_4JlGVATm2l": "Une femme",
+            "choice_NylYERaQnl": "Un homme"
+        },
+        "en": {
+            "header": "Qui sera le mieux perçu en cas de colère au travail ?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Des études ont montré qu'un homme en colère au travail sera beaucoup mieux perçu qu'une femme. Celle-ci sera soupçonnée de ne pas savoir gérer certaines situations professionnelles.",
+            "tips": "Eric Uhlmann, qui a mené une étude sur le sujet, explique que les hommes qui se sont énervés sans explication étaient même souvent mieux payés que ceux qui n'ont pas exprimé d'émotion ou qui l'ont expliquée. (source : HEC Paris)",
+            "choice_4JlGVATm2l": "Une femme",
+            "choice_NylYERaQnl": "Un homme",
+            "clue": "À qui associe-t-on généralement cette émotion ?"
+        }
+    }
+}

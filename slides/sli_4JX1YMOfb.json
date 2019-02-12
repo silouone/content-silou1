@@ -1,0 +1,81 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-20T15:15:56.336Z",
+            "updatedAt": "2017-12-01T17:30:01.320Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "amandinelemoult21",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4JX1YMOfb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JX1YMOfb.choice_NJJrtGuz~.id",
+                        "label": "choice_NJJrtGuz~",
+                        "value": "choice_NJJrtGuz~"
+                    },
+                    {
+                        "id": "sli_4JX1YMOfb.choice_EJlkSFzuf~.id",
+                        "label": "choice_EJlkSFzuf~",
+                        "value": "choice_EJlkSFzuf~"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJlkSFzuf~"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NykitVR5Z",
+            "poster": null
+        },
+        "universalRef": "sli_4JX1YMOfb"
+    },
+    "locales": {
+        "fr": {
+            "header": "D’après vous, qui de Vanessa ou de Frédéric sera le mieux perçu par ses collègues et leur hiérarchie suite à cet épisode ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Des études ont montré qu'un homme en colère au travail sera beaucoup mieux perçu qu'une femme. Celle-ci sera soupçonnée de ne pas savoir gérer certaines situations professionnelles.",
+            "tips": "Le professeur Eric Uhlmann, qui a mené une étude sur le sujet, explique que les hommes qui se sont énervés sans explication étaient même souvent mieux payés que ceux qui n'ont pas exprimé d'émotion ou qui l'ont expliquée (source : HEC Paris).",
+            "context_title": "La colère",
+            "clue": "Associe-t-on la colère plutôt aux hommes ou aux femmes ?",
+            "choice_NJJrtGuz~": "Vanessa",
+            "choice_EJlkSFzuf~": "Frédéric",
+            "context_description": "Vanessa et Frédéric travaillent ensemble dans le même service. Lors d’une réunion, ils s’opposent à propos d’un projet. Le ton monte et chacun se met en colère."
+        },
+        "en": {
+            "header": "In your opinion, who out of Vanessa or Frederick will be better perceived by their colleagues and superiors after this episode?",
+            "explanation": "Select the correct answer.",
+            "klf": "Studies have shown that an angry man at work will be much better perceived than a woman. The woman will be accused of not knowing how to handle certain business situations.",
+            "tips": "Professor Eric Uhlmann, who led a study on the subject, explains that men who were irritated without explanation were often even better paid than those who did not express emotion or who explained it. (source : HEC Paris)",
+            "choice_NJJrtGuz~": "Vanessa",
+            "choice_EJlkSFzuf~": "Frederic",
+            "context_title": "Anger",
+            "clue": "Do you tend to associate anger with men or with women?",
+            "context_description": "Vanessa and Frederic work together in the same department. During a meeting, they confront each other about a project. The conversation becomes heated, each of them getting angrier."
+        }
+    }
+}

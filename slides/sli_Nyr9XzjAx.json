@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-04-04T08:28:58.113Z",
+            "updatedAt": "2017-12-01T17:27:00.978Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_Nyr9XzjAx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_EJ324MsAx.id",
+                        "label": "choice_EJ324MsAx",
+                        "value": "choice_EJ324MsAx"
+                    },
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_4163Nzs0l.id",
+                        "label": "choice_4163Nzs0l",
+                        "value": "choice_4163Nzs0l"
+                    },
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_EJR3VMiCx.id",
+                        "label": "choice_EJR3VMiCx",
+                        "value": "choice_EJR3VMiCx"
+                    },
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_EkkpNGoCl.id",
+                        "label": "choice_EkkpNGoCl",
+                        "value": "choice_EkkpNGoCl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJR3VMiCx"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4JcV84R9~",
+            "poster": null
+        },
+        "universalRef": "sli_Nyr9XzjAx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les différentes caractéristiques de l'intelligence émotionnelle, laquelle fait défaut à Sarah ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Parmi les piliers de l'intelligence émotionnelle, on trouve l'empathie. Il s'agit notamment de la capacité à se mettre à la place des autres, à les comprendre, malgré nos différences. Cette faculté émotionnelle est indispensable pour nouer des relations harmonieuses avec ses collaborateurs.",
+            "tips": "L'empathie est la faculté de se mettre à la place d'autrui, de percevoir ce qu'il ressent.",
+            "context_description": "Marie est en conflit avec sa collègue Sarah à propos d'un dossier qui les concerne toutes les deux. Arrivée depuis peu, Sarah occupe un poste qui intéressait Marie. Celle-ci se rend compte qu'au-delà de ses désaccords sur le dossier, elle souffre surtout d'un manque de reconnaissance. Elle en parle à sa collègue. Mais Sarah lui affirme que ce sentiment n'a rien à voir avec leur conflit et continue d'argumenter sur les différents points du dossier.",
+            "context_title": "En conflit",
+            "clue": "Le plus court…",
+            "choice_EJ324MsAx": "L'automotivation",
+            "choice_4163Nzs0l": "La gestion de ses émotions",
+            "choice_EJR3VMiCx": "L'empathie",
+            "choice_EkkpNGoCl": "L'identification de ses propres émotions"
+        },
+        "en": {
+            "header": "Among the different characteristics of emotional intelligence, which is lacking in Sarah?",
+            "explanation": "Select the correct answer.",
+            "klf": "The pillars of emotional intelligence include empathy. These include the ability to step into the shoes of others, to understand them, despite our differences. This emotional faculty is essential to establish harmonious relations with your colleagues.",
+            "tips": "Empathy is the ability to put yourself in the place of others, to perceive what they feel.",
+            "choice_EJ324MsAx": "Self-motivation",
+            "choice_4163Nzs0l": "Managing your emotions",
+            "choice_EJR3VMiCx": "Empathy",
+            "choice_EkkpNGoCl": "Identification of your own emotions",
+            "context_description": "Marie is in disagreement with her co-worker Sarah, about a case that concerns them both. Sarah has joined the company recently in a position Marie was interested in. Marie realizes that as well as her disagreements about the case, she mainly suffers from a lack of acknowledgement. She opens up to her colleague about it. But Sarah tells her that this feeling has nothing to do about their dispute and keeps arguing about the case.",
+            "context_title": "Conflict",
+            "clue": "To put oneself in someone's shoes."
+        }
+    }
+}

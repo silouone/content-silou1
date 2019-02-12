@@ -1,0 +1,80 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:14:46.938Z",
+            "updatedAt": "2016-09-05T14:37:13.673Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NyfQHkPqx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyfQHkPqx.choice_VJxo1I1wcl.id",
+                        "label": "choice_VJxo1I1wcl",
+                        "value": "choice_VJxo1I1wcl",
+                        "media": "med_V1syUkw9e"
+                    },
+                    {
+                        "id": "sli_NyfQHkPqx.choice_Nyxp1LkDce.id",
+                        "label": "choice_Nyxp1LkDce",
+                        "value": "choice_Nyxp1LkDce",
+                        "media": "med_4ypyU1Pqg"
+                    },
+                    {
+                        "id": "sli_NyfQHkPqx.choice_4yl0yLJPcx.id",
+                        "label": "choice_4yl0yLJPcx",
+                        "value": "choice_4yl0yLJPcx",
+                        "media": "med_41C18JD5e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nyxp1LkDce"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NyfQHkPqx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Lequel de ces objets peut vous aider à travailler votre diction ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Plusieurs exercices existent pour travailler sa diction et donc moins bafouiller. Par exemple, mettez un crayon à l'horizontale dans le fond de votre bouche, entre vos lèvres et lisez un texte. Chaque mot doit être compréhensible.",
+            "tips": "Vous pouvez aussi vous entraîner sur des phrases compliquées comme la fameuse \"Les chaussettes de l'archiduchesse sont-elles sèches, archisèches ?\".",
+            "clue": "Initialement, il n'a rien à voir avec le son.",
+            "choice_VJxo1I1wcl": "Métronome",
+            "choice_Nyxp1LkDce": "Stylo",
+            "choice_4yl0yLJPcx": "Smartphone"
+        },
+        "en": {
+            "header": "Which of these items can help you work on your diction?",
+            "explanation": "Select the correct answer.",
+            "klf": "Many exercises exist to improve your diction and therefore stammer less. For example, put a pencil horizontally in the bottom of your mouth, between your lips and read a text. Every word needs to be comprehensible.",
+            "tips": "You can also train using complicated phrases like the famous \"She sells seashells on the seashore\".",
+            "choice_VJxo1I1wcl": "Metronome",
+            "choice_Nyxp1LkDce": "Biro",
+            "choice_4yl0yLJPcx": "Smartphone",
+            "clue": "Initially, it has nothing to do with sound."
+        }
+    }
+}

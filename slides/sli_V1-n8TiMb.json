@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T10:16:00.016Z",
+            "updatedAt": "2017-12-04T20:52:07.350Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V1-n8TiMb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_V1-n8TiMb.field_VyuGD6ifZ.id",
+                        "type": "text",
+                        "name": "inp89185",
+                        "label": "label_E1xOGP6jzb",
+                        "placeholder": "placeholder_4yb-fwTofb"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp89185",
+                        "answers": [
+                            "choice_EkzuzPasMZ"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_V1-n8TiMb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment s'appelle, en français, la posture la plus puissante chez les yogis ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Chez les yogis, la posture de la montagne (tadasana) consiste à rester debout sans bouger. C'est la position la plus puissante.",
+            "tips": "Cette position est conseillée pour soulager différentes tensions du corps. Elle peut donc aussi servir d'exercice de délassement chez soi.",
+            "template": "La posture de la {{inp89185}}",
+            "clue": "Le mont Blanc ou le K2…",
+            "label_Nkg3gDTjGW": " ",
+            "placeholder_N1Z3xwTjzW": " ",
+            "label_Nkgpev6ofW": " ",
+            "placeholder_EkbpgwpofZ": " ",
+            "label_E1xOGP6jzb": " ",
+            "placeholder_4yb-fwTofb": " ",
+            "choice_EkzuzPasMZ": "montagne"
+        },
+        "en": {
+            "header": "What is the most powerful position of the yogis called?",
+            "explanation": "Type your answer (one word).",
+            "klf": "For yogis, the posture of the mountain (tadasana) is to stand still. This is the most powerful position.",
+            "tips": "This position is recommended to relieve various tensions of the body. It can therefore also be used as a relaxation exercise at home.",
+            "template": "The posture of the {{inp89185}}",
+            "label_Nkg3gDTjGW": " ",
+            "placeholder_N1Z3xwTjzW": " ",
+            "label_Nkgpev6ofW": " ",
+            "placeholder_EkbpgwpofZ": " ",
+            "label_E1xOGP6jzb": " ",
+            "placeholder_4yb-fwTofb": " ",
+            "choice_EkzuzPasMZ": "mountain",
+            "clue": "Mont Blanc or K2..."
+        }
+    }
+}

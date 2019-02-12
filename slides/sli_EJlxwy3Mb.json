@@ -1,0 +1,79 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T12:31:15.578Z",
+            "updatedAt": "2017-12-01T16:38:17.667Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "amandinelemoult21",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_EJlxwy3Mb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJlxwy3Mb.choice_4yPGwy2Gb.id",
+                        "label": "choice_4yPGwy2Gb",
+                        "value": "choice_4yPGwy2Gb"
+                    },
+                    {
+                        "id": "sli_EJlxwy3Mb.choice_Vy-zwy2Mb.id",
+                        "label": "choice_Vy-zwy2Mb",
+                        "value": "choice_Vy-zwy2Mb"
+                    },
+                    {
+                        "id": "sli_EJlxwy3Mb.choice_NJxOMDy3fb.id",
+                        "label": "choice_NJxOMDy3fb",
+                        "value": "choice_NJxOMDy3fb"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vy-zwy2Mb"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EJlxwy3Mb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi faut-il rester authentique dans la construction de sa marque personnelle ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Quand vous définissez votre marque personnelle, ne cherchez pas à endosser un rôle trop éloigné de votre personnalité. Vous devez rester authentique.  Jean-Noël Kapferer, professeur à HEC, rappelle que le manque de sincérité ne plaît pas à un employeur. Et tôt ou tard, cette absence d'authenticité se verra.",
+            "tips": "Même authentique, la construction d'une marque personnelle aboutie prend du temps : environ deux ans selon Peter Montoya, l'un des pionniers du personal branding.",
+            "clue": "On ne peut pas jouer un rôle tout le temps…",
+            "choice_4yPGwy2Gb": "Par principe moral",
+            "choice_Vy-zwy2Mb": "Ne pas l'être peut se retourner contre vous",
+            "choice_NJxOMDy3fb": "Pour faire plaisir à ses proches",
+            "choice_NkFiiJKEW": ""
+        },
+        "en": {
+            "header": "Why should you stay true to yourself when making your personal mark?",
+            "explanation": "Select the correct answer.",
+            "klf": "When you define your personal mark, do not try to take on a role that does not suit your personality. You need to stay true to yourself. HEC (The famous French Business School) professor Jean-Noël Kapferer reminds us that a lack of sincerity is not something that employees appreciate. And sooner or later, they will discover the real you.",
+            "tips": "Even when being yourself, making a successful personal mark takes time: about two years according to Peter Montoya, a pioneer of personal branding.",
+            "choice_4yPGwy2Gb": "By moral principle",
+            "choice_Vy-zwy2Mb": "Can't be used against you",
+            "choice_NJxOMDy3fb": "To please your family",
+            "clue": "You can not pretend to be someone you are are not all the time",
+            "choice_NkFiiJKEW": ""
+        }
+    }
+}

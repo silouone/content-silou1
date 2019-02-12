@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:30:17.863Z",
+            "updatedAt": "2016-09-05T15:14:26.701Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_EkaHp~4cg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel69581",
+                        "label": "label_Nk0BR~Vcl",
+                        "items": [
+                            {
+                                "text": "choice_V1lArCWVqx",
+                                "value": "choice_V1lArCWVqx"
+                            },
+                            {
+                                "text": "choice_NybArC~E5g",
+                                "value": "choice_NybArC~E5g"
+                            },
+                            {
+                                "text": "choice_N1W80bV9e",
+                                "value": "choice_N1W80bV9e"
+                            },
+                            {
+                                "text": "choice_NJebLR~4qx",
+                                "value": "choice_NJebLR~4qx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel69581",
+                        "answers": [
+                            "choice_N1W80bV9e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EkaHp~4cg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Amélie a toujours été la première à l'école. Pourtant, elle peine à évoluer professionnellement. Quel nom porte ce phénomène ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le \"syndrome de la bonne élève\" peut pénaliser la vie professionnelle des femmes. On leur a appris à être sages et appliquées, surtout à l'école, comme les petites filles modèles de la comtesse de Ségur. Or, pour évoluer professionnellement, le risque est plus valorisé que le conformisme.",
+            "tips": "Les petites filles modèles de la comtesse de Ségur ont vraiment existé ! Elle avait deux petites-filles, Camille et Madeleine, qui l'ont inspirée pour ses histoires.",
+            "template": "{{sel69581}}",
+            "clue": "20/20.",
+            "label_Nk0BR~Vcl": " ",
+            "choice_V1lArCWVqx": "La faille de transition",
+            "choice_NybArC~E5g": "L'effet pygmalion",
+            "choice_N1W80bV9e": "Le syndrome de la bonne élève",
+            "choice_NJebLR~4qx": "Le complexe de la n°1"
+        },
+        "en": {
+            "header": "Amélie was always top of the class at school. Yet she now struggles to develop her career. What is the name this phenomenon?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The \"good pupil syndrome\" may penalise the working lives of women. They are taught to be well-behaved and to apply themselves, especially at school, such as the model little girls of the Comtesse de Segur. Today, to grow professionally, risk is more valued than conformism.",
+            "tips": "The model little girls of the countess of Segur really existed! She had two granddaughters, Camille and Madeleine, who inspired her stories.",
+            "template": "{{sel69581}}",
+            "label_Nk0BR~Vcl": " ",
+            "choice_V1lArCWVqx": "The transition fault",
+            "choice_NybArC~E5g": "The pygmalion effect",
+            "choice_N1W80bV9e": "The good pupil syndrome",
+            "choice_NJebLR~4qx": "The complex of no. 1",
+            "clue": "20/20."
+        }
+    }
+}

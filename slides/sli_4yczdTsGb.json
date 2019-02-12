@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T10:20:32.342Z",
+            "updatedAt": "2017-12-04T20:55:49.750Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4yczdTsGb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel61899",
+                        "label": "label_EyRB-6iG~",
+                        "items": [
+                            {
+                                "text": "choice_E1xRHuTjfW",
+                                "value": "choice_E1xRHuTjfW"
+                            },
+                            {
+                                "text": "choice_NkZRBOasMZ",
+                                "value": "choice_NkZRBOasMZ"
+                            },
+                            {
+                                "text": "choice_NkVvuTofb",
+                                "value": "choice_NkVvuTofb"
+                            },
+                            {
+                                "text": "choice_EJy-upjf~",
+                                "value": "choice_EJy-upjf~"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel61899",
+                        "answers": [
+                            "choice_NkZRBOasMZ"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4yczdTsGb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans une salle de réunion, où devez-vous vous placer idéalement ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il faut savoir occuper l'espace. Dans une salle de réunion, privilégiez une place d'où vous pourrez facilement bouger. Évitez de vous mettre dans un coin ou dos au mur car c'est l'image que les autres pourraient garder de vous.",
+            "tips": "Cette question est réellement importante. La coach Lois P. Frankel en a même fait le titre de son ouvrage : \"Nice Girls Don't Get the Corner Office\".",
+            "template": "{{sel61899}}",
+            "clue": "Votre chef se place souvent dans un coin ?",
+            "label_EyRB-6iG~": " ",
+            "choice_E1xRHuTjfW": "N'importe où",
+            "choice_NkZRBOasMZ": "Une place d'où vous pouvez bouger",
+            "choice_NkVvuTofb": "Dos contre le mur",
+            "choice_EJy-upjf~": "Assis sur le bord d'un bureau"
+        },
+        "en": {
+            "header": "In a meeting room, where ideally should you position yourself?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "You should know how to occupy space. In a meeting room, choose a place where you have enough space to move around. Avoid putting yourself in a corner or your back against a wall because this is the image that others could have of you.",
+            "tips": "This question is really important. Coach Lois P. Frankel has even named the title of her book : \"Nice Girls Don't Get the Corner Office\".",
+            "template": "{{sel61899}}",
+            "label_EyRB-6iG~": " ",
+            "choice_E1xRHuTjfW": "Anywhere",
+            "choice_NkZRBOasMZ": "Somewhere where you can move",
+            "choice_NkVvuTofb": "Back against the wall",
+            "choice_EJy-upjf~": "Sit on the edge of a desk",
+            "clue": "Does your boss often place themselves in a corner?"
+        }
+    }
+}

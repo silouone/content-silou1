@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T14:48:36.025Z",
+            "updatedAt": "2016-09-05T14:31:44.840Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NyW4kJw9e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyW4kJw9e.choice_VkBhy1wcl.id",
+                        "label": "choice_VkBhy1wcl",
+                        "value": "choice_VkBhy1wcl"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_4JlH3yJwce.id",
+                        "label": "choice_4JlH3yJwce",
+                        "value": "choice_4JlH3yJwce"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_Ek8n1Jw5x.id",
+                        "label": "choice_Ek8n1Jw5x",
+                        "value": "choice_Ek8n1Jw5x"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_VyvnJyv5g.id",
+                        "label": "choice_VyvnJyv5g",
+                        "value": "choice_VyvnJyv5g"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_EyxwhyyD5g.id",
+                        "label": "choice_EyxwhyyD5g",
+                        "value": "choice_EyxwhyyD5g"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkBhy1wcl",
+                        "choice_VyvnJyv5g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NyW4kJw9e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les causes du trac ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Selon la coach Chine Lanzmann, le trac vient notamment de la peur d'être jugé mais aussi de l'envie d'être aimé.",
+            "tips": "Selon la professionnelle de la voix Elizabeth Fresnel, les peurs sous-jacentes au trac déclenchent une \"anxiété d'anticipation\" : on imagine un scénario catastrophe où l'on ne saura pas gérer la situation.",
+            "clue": "Deux raisons complémentaires.",
+            "choice_VkBhy1wcl": "La peur d'être jugé",
+            "choice_4JlH3yJwce": "La motivation",
+            "choice_Ek8n1Jw5x": "La déshydratation",
+            "choice_VyvnJyv5g": "L'envie d'être aimé",
+            "choice_EyxwhyyD5g": "L'intérêt pour le sujet",
+            "choice_V1pJOnOEb": ""
+        },
+        "en": {
+            "header": "What causes the jitters?",
+            "explanation": "Select the correct answers below.",
+            "klf": "According to the coach Chine Lanzmann, it includes the fear of being judged but also the desire to be liked.",
+            "tips": "According to vocal professional Elizabeth Fresnel, the underlying fear of stage fright triggers \"anticipatory anxiety\": we imagine a nightmare scenario where we will not know how to handle the situation.",
+            "choice_VkBhy1wcl": "The fear of being judged",
+            "choice_4JlH3yJwce": "Motivation",
+            "choice_Ek8n1Jw5x": "Dehydration",
+            "choice_VyvnJyv5g": "The desire to be liked",
+            "choice_EyxwhyyD5g": "Interest for the subject",
+            "clue": "Two complementary reasons.",
+            "choice_V1pJOnOEb": ""
+        }
+    }
+}

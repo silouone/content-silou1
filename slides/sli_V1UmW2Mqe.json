@@ -1,0 +1,61 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:42:59.401Z",
+            "updatedAt": "2016-09-03T14:15:50.459Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V1UmW2Mqe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_V1UmW2Mqe.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_V1s3b3Gcl"
+                ]
+            }
+        },
+        "universalRef": "sli_V1UmW2Mqe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel célèbre philosophe grec pensait que les femmes étaient inférieures aux hommes ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Dès l'Antiquité, certains philosophes, comme Aristote, considèrent la femme comme inférieure à l'homme. On la cantonne à la tenue du foyer et à l'enfantement.",
+            "tips": "Aristote estime que \"l'esclave est absolument privé de volonté ; la femme en a une, mais en sous-ordre ; l'enfant n'en a qu'une incomplète\".",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Disciple de Platon.",
+            "choice_V1s3b3Gcl": "Aristote"
+        },
+        "en": {
+            "header": "Which famous Greek philosopher believed that women were inferior to men?",
+            "explanation": "Type your answer.",
+            "klf": "Since ancient times, certain philosophers such as Aristotle  considered women to be inferior to men. They were confined to homemaking and childbirth.",
+            "tips": "Aristotle wrote \"the slave is wholly lacking the deliberative element; the female has it but it lacks authority; the child has it but it is incomplete.\"",
+            "label": " ",
+            "placeholder": " ",
+            "choice_V1s3b3Gcl": "Aristotle",
+            "clue": "Plato's disciple."
+        }
+    }
+}

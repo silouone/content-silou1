@@ -1,0 +1,85 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:43:54.728Z",
+            "updatedAt": "2016-09-03T16:14:32.092Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_Vy52l0m2x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy52l0m2x.choice_41cBWAm3g.id",
+                        "label": "choice_41cBWAm3g",
+                        "value": "choice_41cBWAm3g"
+                    },
+                    {
+                        "id": "sli_Vy52l0m2x.choice_NkkUZAmne.id",
+                        "label": "choice_NkkUZAmne",
+                        "value": "choice_NkkUZAmne"
+                    },
+                    {
+                        "id": "sli_Vy52l0m2x.choice_4JV8W0X2l.id",
+                        "label": "choice_4JV8W0X2l",
+                        "value": "choice_4JV8W0X2l"
+                    },
+                    {
+                        "id": "sli_Vy52l0m2x.choice_NJBI~072x.id",
+                        "label": "choice_NJBI~072x",
+                        "value": "choice_NJBI~072x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JV8W0X2l",
+                        "choice_NJBI~072x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Vy52l0m2x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les caractéristiques de l'intelligence émotionnelle ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les psychologues Salovey et Mayer définissent l'intelligence émotionnelle comme \"l'habileté à percevoir et à exprimer ses émotions, à les intégrer pour faciliter la pensée\" ainsi que la capacité à \"réguler les émotions chez soi et chez les autres\".",
+            "tips": "Le premier article de Salovey et Mayer (1990) donnait une définition différente, qui évoquait davantage le \"contrôle\" et moins l'expression des émotions.",
+            "clue": "Soyez attentif aux termes.",
+            "choice_41cBWAm3g": "L'impassibilité face aux situations",
+            "choice_NkkUZAmne": "La capacité d'abstraction",
+            "choice_4JV8W0X2l": "La perception et l'expression des émotions",
+            "choice_NJBI~072x": "La capacité à réguler ses émotions et celles des autres"
+        },
+        "en": {
+            "header": "What are the characteristics of emotional intelligence?",
+            "explanation": "Select the correct answers.",
+            "klf": "The psychologists Salovey and Mayer define emotional intelligence as \"the ability to perceive and express your emotions, and to use them to facilitate thinking\" and the ability to \"regulate emotions in oneself and others.\"",
+            "tips": "The first article by Salovey and Mayer (1990) gave a different definition, which looked more at \"control\" and less at emotional expression.",
+            "choice_41cBWAm3g": "Equanimity when facing situations",
+            "choice_NkkUZAmne": "The capacity of abstraction",
+            "choice_4JV8W0X2l": "The perception and expression of emotions",
+            "choice_NJBI~072x": "The ability to regulate emotions and those of others",
+            "clue": "Pay attention to the terms."
+        }
+    }
+}

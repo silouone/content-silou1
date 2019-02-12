@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T11:04:07.127Z",
+            "updatedAt": "2016-05-23T11:04:27.464Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VyxtGAoMb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VyxtGAoMb.choice_EyjiG0if~.id",
+                        "label": "choice_EyjiG0if~",
+                        "value": "choice_EyjiG0if~"
+                    },
+                    {
+                        "id": "sli_VyxtGAoMb.choice_4yGnMRizZ.id",
+                        "label": "choice_4yGnMRizZ",
+                        "value": "choice_4yGnMRizZ"
+                    },
+                    {
+                        "id": "sli_VyxtGAoMb.choice_E1qnMCoMW.id",
+                        "label": "choice_E1qnMCoMW",
+                        "value": "choice_E1qnMCoMW"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1qnMCoMW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VyxtGAoMb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Laquelle de ces positions est à éviter ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La coach Chine Lanzmann conseille d'éviter les jambes \"à la cowboy\". Cette position peut effectivement renvoyer une impression d'arrogance, ce qui est rarement bien perçu par un auditoire.",
+            "tips": "Autre écueil à éviter, selon la conseillère en communication Béatrice Toulon, le sautillement, qui donne un sentiment d'instabilité.",
+            "clue": "Ne pas en faire trop.",
+            "choice_EyjiG0if~": "Avoir les pieds écartés",
+            "choice_4yGnMRizZ": "Ouvrir les mains",
+            "choice_E1qnMCoMW": "Avoir les jambes écartées \"à la cowboy\""
+        },
+        "en": {
+            "header": "Laquelle de ces positions est à éviter ?",
+            "explanation": "Select the correct answer.",
+            "klf": "La coach Chine Lanzmann conseille d'éviter les jambes \"à la cowboy\". Cette position peut effectivement renvoyer une impression d'arrogance, ce qui est rarement bien perçu par un auditoire.",
+            "tips": "Autre écueil à éviter, selon la conseillère en communication Béatrice Toulon, le sautillement, qui donne un sentiment d'instabilité.",
+            "choice_EyjiG0if~": "Avoir les pieds écartés",
+            "choice_4yGnMRizZ": "Ouvrir les mains",
+            "choice_E1qnMCoMW": "Avoir les jambes écartées \"à la cowboy\"",
+            "clue": "Ne pas en faire trop."
+        }
+    }
+}

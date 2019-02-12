@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:02:50.690Z",
+            "updatedAt": "2016-09-05T14:34:32.816Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_N184MJw9l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel88616",
+                        "label": "label_NyNG7yPce",
+                        "items": [
+                            {
+                                "text": "choice_EkgNf71v9g",
+                                "value": "choice_EkgNf71v9g"
+                            },
+                            {
+                                "text": "choice_Ey~4M7yPcl",
+                                "value": "choice_Ey~4M7yPcl"
+                            },
+                            {
+                                "text": "choice_NJvfmyv9g",
+                                "value": "choice_NJvfmyv9g"
+                            },
+                            {
+                                "text": "choice_N1lvG7yvcg",
+                                "value": "choice_N1lvG7yvcg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel88616",
+                        "answers": [
+                            "choice_Ey~4M7yPcl"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N184MJw9l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel type de voix est associé à un caractère dominant, selon le chercheur Rosario Signorello ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Selon le chercheur Rosario Signorello, une voix basse est associée à un caractère dominant. Malheureusement, le stress peut faire monter la voix dans les aigus, il faut donc la travailler.",
+            "tips": "Selon une étude des universités de Miami et Duke (2015), 60 à 70% des personnes interrogées ont déclaré qu'elles voteraient plus volontiers pour l'homme ou la femme politique ayant la voix la plus grave de l'échantillon.",
+            "template": "{{sel88616}}",
+            "clue": "Vous avez plus peur du rugissement d'un lion ou du piaillement d'un oiseau ?",
+            "label_NyNG7yPce": " ",
+            "choice_EkgNf71v9g": "Une voix cassée",
+            "choice_Ey~4M7yPcl": "Une voix basse",
+            "choice_NJvfmyv9g": "Une voix aiguë",
+            "choice_N1lvG7yvcg": "Une voix éthérée"
+        },
+        "en": {
+            "header": "What kind of voice is associated with a dominant character, according to researcher Rosario Signorello?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "According to researcher Rosario Signorello, a low voice is associated with a dominant character. Unfortunately, stress can cause the voice to become higher pitched, so it must be worked on.",
+            "tips": "According to a study from the universities of Miami and Duke (2015), 60% to 70% of respondents said they would vote more willingly for the male or female politician with the most serious voice in the sample.",
+            "template": "{{sel88616}}",
+            "label_NyNG7yPce": " ",
+            "choice_EkgNf71v9g": "A broken voice",
+            "choice_Ey~4M7yPcl": "A low voice",
+            "choice_NJvfmyv9g": "A shrill voice",
+            "choice_N1lvG7yvcg": "An ethereal voice",
+            "clue": "Are you more afraid of the roar of a lion or the chirping of a bird?"
+        }
+    }
+}

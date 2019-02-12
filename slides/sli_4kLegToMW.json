@@ -1,0 +1,92 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T09:45:42.970Z",
+            "updatedAt": "2016-08-23T13:26:02.299Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4kLegToMW",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kLegToMW.choice_V1hExTofZ.id",
+                        "label": "choice_V1hExTofZ",
+                        "value": "choice_V1hExTofZ"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_NymrepjM~.id",
+                        "label": "choice_NymrepjM~",
+                        "value": "choice_NymrepjM~"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_Vk5Sx6oGZ.id",
+                        "label": "choice_Vk5Sx6oGZ",
+                        "value": "choice_Vk5Sx6oGZ"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_EkeUg6jM~.id",
+                        "label": "choice_EkeUg6jM~",
+                        "value": "choice_EkeUg6jM~"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_VydUg6izb.id",
+                        "label": "choice_VydUg6izb",
+                        "value": "choice_VydUg6izb"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NymrepjM~",
+                        "choice_Vk5Sx6oGZ"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4kLegToMW"
+    },
+    "locales": {
+        "fr": {
+            "header": "La position idéale quand on parle à un auditoire est d'avoir les deux pieds ancrés au sol. Pour quelle raison ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Lorsqu'on se présente devant un auditoire, l'idéal est d'avoir les deux pieds bien ancrés au sol. En effet, cela donne une image de solidité et de confiance.",
+            "tips": "Selon la journaliste et formatrice en communication Béatrice Toulon, \"le charisme, c'est aussi une histoire de posture\".",
+            "clue": "Force et robustesse.",
+            "choice_V1hExTofZ": "Elle permet de dominer l'auditoire",
+            "choice_NymrepjM~": "Elle donne une image de solidité",
+            "choice_Vk5Sx6oGZ": "Elle donne une image de confiance",
+            "choice_EkeUg6jM~": "Elle force les personnes à regarder l'orateur",
+            "choice_VydUg6izb": "Elle est moins fatigante"
+        },
+        "en": {
+            "header": "The ideal position when speaking to an audience is to have both feet firmly on the ground. Why?",
+            "explanation": "Select the correct answers.",
+            "klf": "When appearing before an audience, the ideal is to have both feet firmly on the ground. This gives an image of strength and confidence.",
+            "tips": "According to journalist and trainer in communication Béatrice Toulon, \"charisma is also about posture.\"",
+            "choice_V1hExTofZ": "It allows you to dominate the audience.",
+            "choice_NymrepjM~": "It reflects an image of solidity.",
+            "choice_Vk5Sx6oGZ": "It reflects an image of confidence.",
+            "choice_EkeUg6jM~": "It forces people to look at the speaker.",
+            "choice_VydUg6izb": "It is less tiring.",
+            "clue": "Strength and robustness."
+        }
+    }
+}

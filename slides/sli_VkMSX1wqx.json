@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:05:54.065Z",
+            "updatedAt": "2017-12-01T16:14:11.934Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VkMSX1wqx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkMSX1wqx.choice_417JNyP9e.id",
+                        "label": "choice_417JNyP9e",
+                        "value": "choice_417JNyP9e"
+                    },
+                    {
+                        "id": "sli_VkMSX1wqx.choice_VyxQJ4JDcx.id",
+                        "label": "choice_VyxQJ4JDcx",
+                        "value": "choice_VyxQJ4JDcx"
+                    },
+                    {
+                        "id": "sli_VkMSX1wqx.choice_V1V1VkD5g.id",
+                        "label": "choice_V1V1VkD5g",
+                        "value": "choice_V1V1VkD5g"
+                    },
+                    {
+                        "id": "sli_VkMSX1wqx.choice_4kSyVkP5x.id",
+                        "label": "choice_4kSyVkP5x",
+                        "value": "choice_4kSyVkP5x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1V1VkD5g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VkMSX1wqx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quand on parle, où l'air doit-il résonner pour donner une voix basse ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En parlant, nous expulsons de l'air qui vibre sur nos cordes vocales avant de résonner à divers endroits. Au niveau du nez, la voix sera nasillarde. Au niveau de la poitrine, elle sera plus basse.",
+            "tips": "Toutes les cavités au-dessus des cordes vocales où l'air peut circuler avant de rejoindre l'extérieur sont appelées les \"résonateurs\".",
+            "clue": "Au plus près des poumons.",
+            "choice_417JNyP9e": "Les fosses nasales",
+            "choice_VyxQJ4JDcx": "La bouche",
+            "choice_V1V1VkD5g": "La poitrine",
+            "choice_4kSyVkP5x": "Le palais"
+        },
+        "en": {
+            "header": "When we speak, where does the air need to resonate to have a low voice?",
+            "explanation": "Select the correct answer.",
+            "klf": "When we speak, we expel air that vibrates our vocal cords before resonating in different areas. At the nose, the voice is nasal.  At the chest, it will be lower.",
+            "tips": "All cavities above the vocal cords where air can circulate before reaching the outside are called \"resonators\".",
+            "choice_417JNyP9e": "Nasal cavity",
+            "choice_VyxQJ4JDcx": "Mouth",
+            "choice_V1V1VkD5g": "Chest",
+            "choice_4kSyVkP5x": "Palate",
+            "clue": "Closest to the lungs."
+        }
+    }
+}

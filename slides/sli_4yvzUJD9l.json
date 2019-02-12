@@ -1,0 +1,75 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:18:27.586Z",
+            "updatedAt": "2016-08-31T13:19:36.686Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4yvzUJD9l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4yvzUJD9l.field_EysRUyP5l.id",
+                        "type": "text",
+                        "name": "inp38424",
+                        "label": "label_NJei0IJw5e",
+                        "placeholder": "placeholder_4kbjCUJDcl"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp38424",
+                        "answers": [
+                            "choice_EJzj0IJwqe"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4yvzUJD9l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment s'appelle l'exercice où l'on gonfle son ventre d'air avant d'expulser longuement et doucement en formant un rond avec sa bouche ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Au moment de prendre la parole, il faut respirer correctement pour mieux oxygéner son cerveau et réguler son système nerveux. Pour cela, l'exercice de la paille peut être utile. Il s'agit de gonfler son ventre d'air puis d'expirer comme si le souffle passait à travers une paille.",
+            "tips": "De nombreux exercices conseillent de visualiser le souffle qui circule à l'intérieur du corps ou bien de compter, car cela aide la respiration et permet également de se détendre.",
+            "template": "L'exercice de la {{inp38424}}   .",
+            "clue": "Normalement, ça sert plutôt à aspirer.",
+            "label_NJei0IJw5e": " ",
+            "placeholder_4kbjCUJDcl": " ",
+            "choice_EJzj0IJwqe": "paille"
+        },
+        "en": {
+            "header": "What is the exercise called where you inflate your stomach with air before expelling at length and slowly, forming a circle with your mouth?",
+            "explanation": "Type your answer (one word).",
+            "klf": "At the time of speaking, we must breathe properly to better oxygenate the brain and regulate the nervous system. You can practise the straw exercise: inflate your belly and exhale slowly, as if your were blowing through a straw.",
+            "tips": "Many exercises advise visualising the air that circulates in your body or to count, because this helps with breathing and also allows you to relax.",
+            "template": "The  {{inp38424}}  exercise.",
+            "label_NJei0IJw5e": " ",
+            "placeholder_4kbjCUJDcl": " ",
+            "choice_EJzj0IJwqe": "straw",
+            "clue": "Normally, it is used for inhaling."
+        }
+    }
+}

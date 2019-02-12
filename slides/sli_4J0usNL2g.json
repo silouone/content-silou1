@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-07T09:40:30.534Z",
+            "updatedAt": "2019-02-07T15:56:02.514Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "esa-coorp",
+            "createdBy": "LaurenceMD",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4J0usNL2g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel96476",
+                        "label": "label_Nk4qjVU3x",
+                        "items": [
+                            {
+                                "text": "choice_NJgE5i4Ihg",
+                                "value": "choice_NJgE5i4Ihg"
+                            },
+                            {
+                                "text": "choice_NyZ4ciVUnl",
+                                "value": "choice_NyZ4ciVUnl"
+                            },
+                            {
+                                "text": "choice_4ysqsVUhe",
+                                "value": "choice_4ysqsVUhe"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel96476",
+                        "answers": [
+                            "choice_NyZ4ciVUnl"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4J0usNL2g",
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Selon l'Observatoire des inégalités, en France, les hommes gagnent plus que les femmes, tous temps de travail confondus. Dans quelle proportion ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Tous temps de travail confondus, l'Observatoire des inégalités pointait en 2015 que les hommes gagnaient 24% de plus que les femmes.",
+            "tips": "Selon l'Insee, en 2013, une femme cadre gagnait en France en moyenne 19,8% de moins qu'un homme cadre.",
+            "template": "{{sel96476}}",
+            "clue": "Comme une célèbre série d'action.",
+            "label_Nk4qjVU3x": " ",
+            "choice_NJgE5i4Ihg": "9%",
+            "choice_NyZ4ciVUnl": "24%",
+            "choice_4ysqsVUhe": "36%",
+            "context_title": "sjkndjk uishdiu s",
+            "context_description": "uhiu uhiud dsd"
+        },
+        "en": {
+            "header": "According to the Observatory of Inequalities, in France, men earn more than women, all working time included. In what proportion?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "All working time included, the Observatory of Inequality pointed out that in 2015 men earned 24% more than women.",
+            "tips": "According to Insee, in 2013, a female executive in France earned on average 19.8% less than a male executive.",
+            "template": "{{sel96476}}",
+            "label_Nk4qjVU3x": " ",
+            "choice_NJgE5i4Ihg": "9%",
+            "choice_NyZ4ciVUnl": "24%",
+            "choice_4ysqsVUhe": "36%",
+            "clue": "Same as a famous action series."
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:47:04.516Z",
+            "updatedAt": "2016-03-07T09:46:59.245Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_Ey30WhG5l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_Ey30WhG5l.id",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 50,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_Ey30WhG5l"
+    },
+    "locales": {
+        "fr": {
+            "header": "NON Selon l'Observatoire des inégalités, en France, les hommes gagnent plus que les femmes, tous temps de travail confondus. Dans quelle proportion ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Tous temps de travail confondus, l'Observatoire des inégalités pointait en 2015 que les hommes gagnaient 24% de plus que les femmes.",
+            "tips": "Selon l'Insee, en 2013, une femme cadre gagne en France en moyenne 19,8% de moins qu'un homme cadre.",
+            "unitLabel": "%",
+            "description": "24%",
+            "answerMin": 20,
+            "answerMax": 28,
+            "clue": "Plus du quart, moins de la moitié."
+        },
+        "en": {
+            "header": "NON Selon l'Observatoire des inégalités, en France, les hommes gagnent plus que les femmes, tous temps de travail confondus. Dans quelle proportion ?",
+            "explanation": "Drag the slider.",
+            "klf": "Tous temps de travail confondus, l'Observatoire des inégalités pointait en 2015 que les hommes gagnaient 24% de plus que les femmes.",
+            "tips": "Selon l'Insee, en 2013, une femme cadre gagne en France en moyenne 19,8% de moins qu'un homme cadre.",
+            "unitLabel": " ",
+            "description": "24%",
+            "answerMin": 20,
+            "answerMax": 28,
+            "clue": "Plus du quart, moins de la moitié."
+        }
+    }
+}

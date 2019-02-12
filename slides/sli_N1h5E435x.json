@@ -1,0 +1,73 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-16T15:56:45.652Z",
+            "updatedAt": "2016-05-20T15:32:58.080Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_N1h5E435x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1h5E435x.choice_Eylr5HN29x.id",
+                        "label": "choice_Eylr5HN29x",
+                        "value": "choice_Eylr5HN29x",
+                        "media": "med_EyrcBE25g"
+                    },
+                    {
+                        "id": "sli_N1h5E435x.choice_VyeAcrEh9e.id",
+                        "label": "choice_VyeAcrEh9e",
+                        "value": "choice_VyeAcrEh9e",
+                        "media": "med_N1A5B43ce"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyeAcrEh9e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_N1h5E435x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Seule votre expertise métier compte dans la définition de vos atouts. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Parmi les atouts que vous pouvez mettre en avant, il y a évidemment le savoir-faire professionnel. Mais pas que : le savoir-être importe aussi. Ce peut être l'empathie, la faculté d'écoute ou le charisme.",
+            "tips": "En 1958, le spécialiste de la formation professionnelle Raymond Vatier définit les compétences comme la conjonction des savoirs (connaissances), savoir-faire (pratique) et savoir-être (attitudes).",
+            "clue": "Le relationnel est-il une expertise métier ?",
+            "choice_Eylr5HN29x": "Vrai",
+            "choice_VyeAcrEh9e": "Faux"
+        },
+        "en": {
+            "header": "Seule votre expertise métier compte dans la définition de vos atouts. Vrai ou faux ?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Parmi les atouts que vous pouvez mettre en avant, il y a évidemment le savoir-faire professionnel. Mais pas que : le savoir-être importe aussi. Ce peut être l'empathie, la faculté d'écoute ou le charisme.",
+            "tips": "En 1958, le spécialiste de la formation professionnelle Raymond Vatier définit les compétences comme la conjonction des savoirs (connaissances), savoir-faire (pratique) et savoir-être (attitudes).",
+            "choice_Eylr5HN29x": "Vrai",
+            "choice_VyeAcrEh9e": "Faux",
+            "clue": "Le relationnel est-il une expertise métier ?"
+        }
+    }
+}

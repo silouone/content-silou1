@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T10:47:51.081Z",
+            "updatedAt": "2017-12-04T21:01:07.671Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VklZApiGb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VklZApiGb.choice_VJUD06jfb.id",
+                        "label": "choice_VJUD06jfb",
+                        "value": "choice_VJUD06jfb"
+                    },
+                    {
+                        "id": "sli_VklZApiGb.choice_4yvjR6jMW.id",
+                        "label": "choice_4yvjR6jMW",
+                        "value": "choice_4yvjR6jMW"
+                    },
+                    {
+                        "id": "sli_VklZApiGb.choice_EJg2AaifW.id",
+                        "label": "choice_EJg2AaifW",
+                        "value": "choice_EJg2AaifW"
+                    },
+                    {
+                        "id": "sli_VklZApiGb.choice_4yr3RpoGW.id",
+                        "label": "choice_4yr3RpoGW",
+                        "value": "choice_4yr3RpoGW"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yvjR6jMW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VklZApiGb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous devez faire une présentation devant une vingtaine de personnes. Laquelle de ces positions privilégiez-vous ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La posture idéale, c'est d'être debout, les bras le long du corps et les pieds écartés de la largeur du bassin. À partir de cette posture de base, vous pouvez occuper l'espace en faisant quelques pas et en bougeant raisonnablement les mains.",
+            "tips": "Selon le site Speedevelopment, il y a trois erreurs à ne pas commettre avec vos mains : les mettre dans vos poches, les tordre et les laisser traîner mollement le long du corps.",
+            "clue": "Laquelle vous donne le plus confiance ?",
+            "choice_VJUD06jfb": "Adossé contre un mur, les mains sur les hanches",
+            "choice_4yvjR6jMW": "Debout, les pieds écartés de la largeur du bassin",
+            "choice_EJg2AaifW": "Debout, les pieds écartés et les bras croisés",
+            "choice_4yr3RpoGW": "Assis, les jambes croisées et les mains sous les cuisses"
+        },
+        "en": {
+            "header": "You need to give a presentation to twenty people. Which of these positions should you use?",
+            "explanation": "Select the correct answer.",
+            "klf": "The ideal posture is to stand, arms at your sides and your feet hip-width apart. From this basic posture, you can occupy space by taking a few steps and gesturing with your hands within reason.",
+            "tips": "According to the site Speedevelopment, there are three mistakes you should not make with your hands: put them in your pocket, twist them or let them hang limply at your sides.",
+            "choice_VJUD06jfb": "Leaning against a wall, hands on hips",
+            "choice_4yvjR6jMW": "Stand with feet hip-width apart",
+            "choice_EJg2AaifW": "Stand with feet apart and arms folded",
+            "choice_4yr3RpoGW": "Sitting with legs crossed and hands on thighs",
+            "clue": "Which one gives you the most confidence?"
+        }
+    }
+}

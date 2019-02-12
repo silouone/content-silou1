@@ -1,0 +1,72 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:16:59.807Z",
+            "updatedAt": "2016-08-23T10:18:07.871Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4yGIJbXql",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yGIJbXql.choice_41xjgxbX5x.id",
+                        "label": "choice_41xjgxbX5x",
+                        "value": "choice_41xjgxbX5x",
+                        "media": "med_4Jsgl~Xcg"
+                    },
+                    {
+                        "id": "sli_4yGIJbXql.choice_EJxpegZ79e.id",
+                        "label": "choice_EJxpegZ79e",
+                        "value": "choice_EJxpegZ79e",
+                        "media": "med_Ekaelb7cl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJxpegZ79e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4yGIJbXql"
+    },
+    "locales": {
+        "fr": {
+            "header": "En France, la parité commence à être atteinte dans la majorité des métiers. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En France, les femmes restent encore cantonnées à certaines catégories de métiers. En 2011, les conducteurs d'engins de travaux publics étaient à 99% des hommes et les aides à domicile, à 98% des femmes.",
+            "tips": "Parmi les mesures en faveur de l'égalité hommes-femmes, le gouvernement français se fixe comme objectif un tiers de métiers mixtes en 2025.",
+            "clue": "Vous voyez beaucoup de femmes conduire des bus ?",
+            "choice_41xjgxbX5x": "Vrai",
+            "choice_EJxpegZ79e": "Faux"
+        },
+        "en": {
+            "header": "In France, parity is beginning to be reached in the majority of professions. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Women are still confined to certain categories of profession in France. In 2011, 99% of construction machinery drivers were men and 98% of carers were women.",
+            "tips": "Among the measures in favour of gender equality, the French government's goal is a third mixed professions by 2025.",
+            "choice_41xjgxbX5x": "True",
+            "choice_EJxpegZ79e": "False",
+            "clue": "Do you see many women driving a bus?"
+        }
+    }
+}
