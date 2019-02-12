@@ -1,0 +1,104 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:37:44.479Z",
+            "updatedAt": "2016-09-06T11:31:39.810Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4Jz2WTX3x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4Jz2WTX3x.choice_NJlAfMamnl.id",
+                        "label": "choice_NJlAfMamnl",
+                        "value": "choice_NJlAfMamnl",
+                        "media": "med_EJRfG6m2e"
+                    },
+                    {
+                        "id": "sli_4Jz2WTX3x.choice_4ke8QGTQhg.id",
+                        "label": "choice_4ke8QGTQhg",
+                        "value": "choice_4ke8QGTQhg",
+                        "media": "med_NJImfpm2e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4ke8QGTQhg"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4Jz2WTX3x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Les femmes ont une façon de diriger très différente de celle des hommes. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Sarah Saint-Michel, chercheuse au CNRS, a compilé 25 enquêtes sur le leadership des hommes et des femmes. Elle en a conclu qu'il n'existe pas de différence de management liée au sexe du dirigeant.",
+            "tips": "Pour la chercheuse, ce qui est en jeu, ce sont les \"effets des stéréotypes\", qui obligent les individus \"à se comporter différemment de ce que leurs valeurs leur dictent par devoir de se conformer aux injonctions sociales\" (source : Eve le blog).",
+            "clue": "Cela revient au même.",
+            "choice_NJlAfMamnl": "Vrai",
+            "choice_4ke8QGTQhg": "Faux",
+            "choice_EylLJR62Vb": ""
+        },
+        "en": {
+            "header": "Women have a way of directing that is very different from that of men. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Sarah Saint-Michel, a CNRS researcher, has compiled 25 surveys on men's and women's leadership. She concluded that there is no difference in management related to the sex of the leader.",
+            "tips": "For the researcher, what is at stake is the \"effects of stereotypes\", which force individuals \"to behave differently from what their values ​​dictate to them by having to comply with social injunctions\" (source: Eve le blog ).",
+            "clue": "It's the same thing.",
+            "choice_NJlAfMamnl": "True",
+            "choice_4ke8QGTQhg": "False",
+            "choice_EylLJR62Vb": ""
+        },
+        "de": {
+            "header": "Frauen haben einen ganz anderen Weg als Männer. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Sarah Saint-Michel, Wissenschaftlerin am CNRS, hat 25 Studien zur Führung von Männern und Frauen zusammengestellt. Sie kam zu dem Schluss, dass es keine Unterschiede im Management gibt, die mit dem Geschlecht des Führers zusammenhängen.",
+            "tips": "Für den Forscher stehen die \"Auswirkungen von Stereotypen\" auf dem Spiel, die die Menschen zwingen, \"sich aufgrund ihrer Pflicht, sich an soziale Standards zu halten, in Bezug auf ihre Werte anders zu verhalten\". (Quelle: Eves Blog)",
+            "clue": "Das ist gleich.",
+            "choice_NJlAfMamnl": "Wahr",
+            "choice_4ke8QGTQhg": "Falsch",
+            "choice_EylLJR62Vb": ""
+        },
+        "es": {
+            "header": "Women have a very different way of directing to that of men. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Sarah Saint-Michel, a researcher at CNRS, has compiled 25 studies into the leadership of men and women. It concluded that there is no difference in management linked to the gender of the leader.",
+            "tips": "For the researcher, what is at stake are the \"effects of stereotypes\" that force people \"to behave differently in relation to their values because of a duty to conform to social standards.\" (Source: Eve's blog)",
+            "choice_NJlAfMamnl": "True",
+            "choice_4ke8QGTQhg": "False",
+            "clue": "Its the same thing.",
+            "choice_EylLJR62Vb": ""
+        },
+        "zh": {
+            "header": "女性与男性的指导方式截然不同。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "CNRS的研究员Sarah Saint-Michel编写了25项关于男性和女性领导力的研究。它的结论是，与领导者的性别相关的管理没有区别。",
+            "tips": "对于研究人员而言，关键在于“刻板印象的影响”迫使人们“因为有责任遵守社会标准而与其价值观行为不同”。 （来源：Eve的博客）",
+            "clue": "这是同一件事。",
+            "choice_NJlAfMamnl": "真正",
+            "choice_4ke8QGTQhg": "假",
+            "choice_EylLJR62Vb": ""
+        }
+    }
+}

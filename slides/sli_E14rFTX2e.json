@@ -1,0 +1,170 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:11:03.137Z",
+            "updatedAt": "2016-08-31T14:14:00.828Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E14rFTX2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel60900",
+                        "label": "label_N1PJcpQhe",
+                        "items": [
+                            {
+                                "text": "choice_Vkev19p7hl",
+                                "value": "choice_Vkev19p7hl"
+                            },
+                            {
+                                "text": "choice_4JZD1qpQ3g",
+                                "value": "choice_4JZD1qpQ3g"
+                            },
+                            {
+                                "text": "choice_V14x5Tmhx",
+                                "value": "choice_V14x5Tmhx"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel11409",
+                        "label": "label_Vykg9pmhl",
+                        "items": [
+                            {
+                                "text": "choice_4kgJxcp7hg",
+                                "value": "choice_4kgJxcp7hg"
+                            },
+                            {
+                                "text": "choice_V1Zyxq672l",
+                                "value": "choice_V1Zyxq672l"
+                            },
+                            {
+                                "text": "choice_EJHg5TQhg",
+                                "value": "choice_EJHg5TQhg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel60900",
+                        "answers": [
+                            "choice_4JZD1qpQ3g"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel11409",
+                        "answers": [
+                            "choice_EJHg5TQhg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_E14rFTX2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Certains PDG ont été remerciés sans que ce soit prévu ou explicable par une fusion au cours des dix dernières années. Quelles proportions d'hommes et de femmes ont rencontré cette situation ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "38% des femmes à la tête de grandes entreprises durant les dix dernières années ont été remerciées sans que cela ait été prévu à l'avance ou que cela ait découlé d'une acquisition par une entreprise. Contre seulement 27% des hommes (source : Strategy&, 2014).",
+            "tips": "En 2013, les femmes ne représentent que 3% des nouveaux CEO ayant pris leurs fonctions dans l'année (source : Strategy&).",
+            "template": "{{sel60900}}   de femmes, contre   {{sel11409}}   d'hommes.",
+            "clue": "Environ dix points d'écarts",
+            "label_N1PJcpQhe": " ",
+            "choice_Vkev19p7hl": "15%",
+            "choice_4JZD1qpQ3g": "38%",
+            "label_Vykg9pmhl": " ",
+            "choice_4kgJxcp7hg": "8%",
+            "choice_V1Zyxq672l": "13%",
+            "choice_V14x5Tmhx": "55%",
+            "choice_EJHg5TQhg": "27%"
+        },
+        "en": {
+            "header": "Some CEOs have been thanked without being foreseen or explained by a merger in the last ten years. What proportions of men and women have encountered this situation?",
+            "explanation": "Select the correct answer from the drop-down menus.",
+            "klf": "38% of women heads of large companies in the last ten years have been thanked without being planned in advance or because of an acquisition by a company. Against only 27% of men (source: Strategy &, 2014).",
+            "tips": "In 2013, women represent only 3% of the new CEOs who took office during the year (source: Strategy &).",
+            "clue": "About ten points of difference",
+            "template": "{{sel60900}} of women, versus {{sel11409}} of men.",
+            "label_N1PJcpQhe": " ",
+            "choice_Vkev19p7hl": "15%",
+            "choice_4JZD1qpQ3g": "38%",
+            "choice_V14x5Tmhx": "55%",
+            "label_Vykg9pmhl": " ",
+            "choice_4kgJxcp7hg": "8%",
+            "choice_V1Zyxq672l": "13%",
+            "choice_EJHg5TQhg": "27%"
+        },
+        "de": {
+            "header": "In den letzten zehn Jahren wurden einige CEOs ohne vorherige Ankündigung oder aufgrund einer Fusion entlassen. Welcher Anteil von Männern und Frauen hat das erlebt?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "38% der Frauen, die in den letzten zehn Jahren an der Spitze großer Unternehmen standen, wurden ohne vorherige Ankündigung oder aufgrund einer Akquisition eines Unternehmens entlassen. Im Vergleich zu nur 27% der Männer. (Quelle: Strategie &, 2014)",
+            "tips": "2013 machten Frauen nur 3% der neuen CEOs aus, die ihre Funktion in diesem Jahr übernahmen. (Quelle: Strategie &)",
+            "clue": "Ungefähr zehn Punkte Abstand.",
+            "template": "{{sel60900}} bei Frauen, verglichen mit {{sel11409} bei Männern.",
+            "label_N1PJcpQhe": " ",
+            "choice_Vkev19p7hl": "fünfzehn%",
+            "choice_4JZD1qpQ3g": "38%",
+            "choice_V14x5Tmhx": "55%",
+            "label_Vykg9pmhl": " ",
+            "choice_4kgJxcp7hg": "8%",
+            "choice_V1Zyxq672l": "13%",
+            "choice_EJHg5TQhg": "27%"
+        },
+        "es": {
+            "header": "Over the past decade some CEOs were dismissed without being told in advance or due to a merger. What proportion of men and women have experienced this?",
+            "explanation": "Select the correct answer in the drop-down menus.",
+            "klf": "38% of women heading large companies during the last decade were dismissed without having been told in advance or as a result of an acquisition by a company. Compared to only 27% of men. (Source: Strategy &, 2014)",
+            "tips": "In 2013, women represented only 3% of new CEOs who took over their function that year. (Source: Strategy&)",
+            "template": "{{sel60900}}  of women, compared to  {{sel11409}}  of men.",
+            "label_N1PJcpQhe": " ",
+            "choice_Vkev19p7hl": "15%",
+            "choice_4JZD1qpQ3g": "38%",
+            "label_Vykg9pmhl": " ",
+            "choice_4kgJxcp7hg": "8%",
+            "choice_V1Zyxq672l": "13%",
+            "choice_V14x5Tmhx": "55%",
+            "choice_EJHg5TQhg": "27%",
+            "clue": "Approximately a ten point gap."
+        },
+        "zh": {
+            "header": "在过去的十年中，一些首席执行官被解雇而没有事先被告知或因合并而被解雇。有多少男女经​​历过这种情况？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在过去十年中，38％的大型公司女性在未事先被告知或被公司收购的情况下被解雇。相比之下只有27％的男性。 （来源：Strategy＆，2014）",
+            "tips": "2013年，女性仅占当年接管职能的新CEO的3％。 （来源：战略与）",
+            "clue": "大约十点差距。",
+            "template": "与{{sel11409}}男性相比，女性{{sel60900}}。",
+            "label_N1PJcpQhe": " ",
+            "choice_Vkev19p7hl": "15％",
+            "choice_4JZD1qpQ3g": "38％",
+            "choice_V14x5Tmhx": "55％",
+            "label_Vykg9pmhl": " ",
+            "choice_4kgJxcp7hg": "8％",
+            "choice_V1Zyxq672l": "13％",
+            "choice_EJHg5TQhg": "27％"
+        }
+    }
+}

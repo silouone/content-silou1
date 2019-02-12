@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:20:41.569Z",
+            "updatedAt": "2016-05-20T15:54:58.045Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Ey4niam2x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ey4niam2x.choice_NJlsmhaXhl.id",
+                        "label": "choice_NJlsmhaXhl",
+                        "value": "choice_NJlsmhaXhl",
+                        "media": "med_NJiQ3pX3x"
+                    },
+                    {
+                        "id": "sli_Ey4niam2x.choice_V1x3Nh6m2e.id",
+                        "label": "choice_V1x3Nh6m2e",
+                        "value": "choice_V1x3Nh6m2e",
+                        "media": "med_NyhV3pQ2x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJlsmhaXhl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Ey4niam2x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Un leader doit fixer des objectifs intermédiaires. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Avoir une vision est essentiel mais il ne faut pas voir que cet objectif. Vous devez construire le chemin pour y arriver. Fixez des objectifs intermédiaires des étapes à franchir pour vous et vos équipes.",
+            "tips": "Ces objectifs intermédiaires doivent bien sûr s'accompagner d'évaluations pour vérifier que les collaborateurs se dirigent bien dans la bonne direction. (source : Thomas Juli, dirigeant d'Empowerment Partners)",
+            "clue": "Des petits pas pour une longue distance.",
+            "choice_NJlsmhaXhl": "Vrai",
+            "choice_V1x3Nh6m2e": "Faux"
+        },
+        "en": {
+            "header": "A leader must set intermediate goals. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Having a vision is essential but we must not see that goal. You must build the path to get there. Set intermediate milestones for you and your teams.",
+            "tips": "These intermediate objectives must of course be accompanied by assessments to ensure that employees are moving in the right direction. (source: Thomas Juli, Head of Empowerment Partners)",
+            "clue": "Small steps for a long distance.",
+            "choice_NJlsmhaXhl": "True",
+            "choice_V1x3Nh6m2e": "False"
+        },
+        "de": {
+            "header": "Ein Führer muss Zwischenziele setzen. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort (en) aus.",
+            "klf": "Eine Vision zu haben ist wichtig, aber dieses Ziel dürfen wir nicht sehen. Sie müssen den Pfad aufbauen, um dorthin zu gelangen. Legen Sie Zwischenziele für Sie und Ihre Teams fest.",
+            "tips": "Diese Zwischenziele müssen natürlich von Beurteilungen begleitet werden, um sicherzustellen, dass sich die Mitarbeiter in die richtige Richtung bewegen. (Quelle: Thomas Juli, Leiter von Empowerment Partners)",
+            "clue": "Kleine Schritte für eine lange Strecke.",
+            "choice_NJlsmhaXhl": "real",
+            "choice_V1x3Nh6m2e": "falsch"
+        },
+        "es": {
+            "header": "Un leader doit fixer des objectifs intermédiaires. Vrai ou faux ?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Avoir une vision est essentiel mais il ne faut pas voir que cet objectif. Vous devez construire le chemin pour y arriver. Fixez des objectifs intermédiaires des étapes à franchir pour vous et vos équipes.",
+            "tips": "Ces objectifs intermédiaires doivent bien sûr s'accompagner d'évaluations pour vérifier que les collaborateurs se dirigent bien dans la bonne direction. (source : Thomas Juli, dirigeant d'Empowerment Partners)",
+            "choice_NJlsmhaXhl": "Vrai",
+            "choice_V1x3Nh6m2e": "Faux",
+            "clue": "Des petits pas pour une longue distance."
+        },
+        "zh": {
+            "header": "领导者必须设定中间目标。对还是错？",
+            "explanation": "选择正确的答案。",
+            "klf": "有远见是必不可少的，但我们不能看到这个目标。你必须建立到达那里的路径。为您和您的团队设置中间里程碑。",
+            "tips": "当然，这些中间目标必须伴随着评估，以确保员工朝着正确的方向前进。 （来源：Empowerment Partners负责人Thomas Juli）",
+            "clue": "长距离的小步骤。",
+            "choice_NJlsmhaXhl": "实",
+            "choice_V1x3Nh6m2e": "假"
+        }
+    }
+}

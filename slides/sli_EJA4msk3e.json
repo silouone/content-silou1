@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T09:39:13.375Z",
+            "updatedAt": "2016-09-05T16:55:33.839Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJA4msk3e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel53035",
+                        "label": "label_4Jl0msJhg",
+                        "items": [
+                            {
+                                "text": "choice_NJgeCQoyhl",
+                                "value": "choice_NJgeCQoyhl"
+                            },
+                            {
+                                "text": "choice_VJWlCQsJ2l",
+                                "value": "choice_VJWlCQsJ2l"
+                            },
+                            {
+                                "text": "choice_VyZRmoyne",
+                                "value": "choice_VyZRmoyne"
+                            },
+                            {
+                                "text": "choice_E1M0Xiyhx",
+                                "value": "choice_E1M0Xiyhx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel53035",
+                        "answers": [
+                            "choice_VyZRmoyne"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EJA4msk3e"
+    },
+    "locales": {
+        "fr": {
+            "header": "En quelle année la France inscrit-elle dans la loi l'idée d'un salaire égal pour un travail égal ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La loi du 22 décembre 1972 relative à l'égalité de rémunération entre les hommes et les femmes a introduit le principe \"à travail égal, salaire égal\".",
+            "tips": "En 1983, la loi Roudy complète le texte de 1972 en précisant les critères qui permettent d'apprécier la valeur égale du travail.",
+            "template": "{{sel53035}}",
+            "clue": "L'année de Jeux olympiques tristement célèbres.",
+            "label_4Jl0msJhg": " ",
+            "choice_NJgeCQoyhl": "1919",
+            "choice_VJWlCQsJ2l": "1946",
+            "choice_VyZRmoyne": "1972",
+            "choice_E1M0Xiyhx": "1999"
+        },
+        "en": {
+            "header": "In which year does France inscribe in the law the idea of ​​equal pay for equal work?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The law of 22 December 1972 on equal pay for men and women introduced the principle of equal pay for equal work.",
+            "tips": "In 1983, the Roudy Act completed the 1972 text by specifying the criteria for assessing the equal value of work.",
+            "clue": "The year of the infamous Olympics.",
+            "template": "{{sel53035}}",
+            "label_4Jl0msJhg": " ",
+            "choice_NJgeCQoyhl": "1919",
+            "choice_VJWlCQsJ2l": "1946",
+            "choice_VyZRmoyne": "1972",
+            "choice_E1M0Xiyhx": "1999"
+        },
+        "de": {
+            "header": "In welchem ​​Jahr hat Frankreich ein Gesetz über den gleichen Lohn für gleiche Arbeit erlassen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Mit dem Gesetz vom 22. Dezember 1972 über das gleiche Entgelt zwischen Männern und Frauen wurde der Grundsatz \"gleiche Arbeit, gleiches Entgelt\" eingeführt.",
+            "tips": "1983 wurde das Gesetz von Roudy zu dem Text von 1972 hinzugefügt, in dem die Kriterien für die Bewertung der Gleichwertigkeit der Arbeit festgelegt wurden.",
+            "clue": "Das Jahr der berüchtigten Olympischen Spiele.",
+            "template": "{{sel53035}}",
+            "label_4Jl0msJhg": " ",
+            "choice_NJgeCQoyhl": "1919",
+            "choice_VJWlCQsJ2l": "1946",
+            "choice_VyZRmoyne": "1972",
+            "choice_E1M0Xiyhx": "1999"
+        },
+        "es": {
+            "header": "In what year did France legislate on the idea of equal pay for equal work?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The law of 22 December 1972 on equal pay between men and women introduced the principle of \"equal work, equal pay\".",
+            "tips": "In 1983, the Roudy law was added to the 1972 text specifying the criteria for assessing the equal value of work.",
+            "template": "{{sel53035}}",
+            "label_4Jl0msJhg": " ",
+            "choice_NJgeCQoyhl": "1919",
+            "choice_VJWlCQsJ2l": "1946",
+            "choice_VyZRmoyne": "1972",
+            "choice_E1M0Xiyhx": "1999",
+            "clue": "The year of the infamous Olympics."
+        },
+        "zh": {
+            "header": "法国在哪一年立法同工同酬？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "1972年12月22日关于男女同工同酬的法律引入了“同工同酬”的原则。",
+            "tips": "1983年，Roudy法律被添加到1972年的文本中，其中规定了评估工作平等价值的标准。",
+            "clue": "臭名昭着的奥运年。",
+            "template": "{{Sel53035}}",
+            "label_4Jl0msJhg": " ",
+            "choice_NJgeCQoyhl": "1919年",
+            "choice_VJWlCQsJ2l": "1946年",
+            "choice_VyZRmoyne": "1972年",
+            "choice_E1M0Xiyhx": "1999年"
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T11:08:31.859Z",
+            "updatedAt": "2016-06-15T19:19:13.234Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJVH4212e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJVH4212e.choice_VkJ3O2J2l.id",
+                        "label": "choice_VkJ3O2J2l",
+                        "value": "choice_VkJ3O2J2l"
+                    },
+                    {
+                        "id": "sli_EJVH4212e.choice_VJgh-3J3l.id",
+                        "label": "choice_VJgh-3J3l",
+                        "value": "choice_VJgh-3J3l"
+                    },
+                    {
+                        "id": "sli_EJVH4212e.choice_Ny~2u2Jnl.id",
+                        "label": "choice_Ny~2u2Jnl",
+                        "value": "choice_Ny~2u2Jnl"
+                    },
+                    {
+                        "id": "sli_EJVH4212e.choice_4yz3OnJ2x.id",
+                        "label": "choice_4yz3OnJ2x",
+                        "value": "choice_4yz3OnJ2x"
+                    },
+                    {
+                        "id": "sli_EJVH4212e.choice_Nkef3un12x.id",
+                        "label": "choice_Nkef3un12x",
+                        "value": "choice_Nkef3un12x"
+                    },
+                    {
+                        "id": "sli_EJVH4212e.choice_VkHndnJne.id",
+                        "label": "choice_VkHndnJne",
+                        "value": "choice_VkHndnJne"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkHndnJne",
+                        "choice_Nkef3un12x",
+                        "choice_VJgh-3J3l",
+                        "choice_Ny~2u2Jnl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EJVH4212e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous désirez vous autoévaluer afin d'estimer vos prétentions salariales. Sur quels critères pouvez-vous vous appuyer ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Avant de demander un salaire, pensez à vous autoévaluer pour identifier vos points forts et points faibles. La formatrice Delphine Poggioli conseille quatre critères : votre niveau de technicité, d'autonomie, d'expérience et d'études. Notez-vous de 1 à 5 sur chacun d'eux pour dégager vos atouts et faiblesses.",
+            "tips": "La consultante indépendante Tessa Dagnely explique que ce processus d'autoévaluation permet aussi de gagner en crédibilité auprès de l'employeur, en montrant qu'on est à la fois conscient de ses capacités et capable de se remettre en question.",
+            "clue": "Sur quoi baseriez-vous votre analyse si vous deviez recruter ?",
+            "choice_VkJ3O2J2l": "Premier salaire",
+            "choice_VJgh-3J3l": "Autonomie",
+            "choice_Ny~2u2Jnl": "Technicité",
+            "choice_4yz3OnJ2x": "Capacité à négocier",
+            "choice_Nkef3un12x": "Niveau d'expérience",
+            "choice_VkHndnJne": "Diplômes"
+        },
+        "en": {
+            "header": "You want to self-evaluate to estimate your salary expectations. What criteria can you rely on?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Before applying for a salary, consider self-assessing to identify your strengths and weaknesses. The trainer Delphine Poggioli advises four criteria: your level of technicality, autonomy, experience and studies. Note 1 to 5 on each of them to identify your strengths and weaknesses.",
+            "tips": "Independent consultant Tessa Dagnely explains that this self-assessment process also brings credibility to the employer, showing that one is both aware of one's abilities and able to question oneself.",
+            "clue": "What would you base your analysis on if you were to recruit?",
+            "choice_VkJ3O2J2l": "First salary",
+            "choice_VJgh-3J3l": "Autonomy",
+            "choice_Ny~2u2Jnl": "technicality",
+            "choice_4yz3OnJ2x": "Ability to negotiate",
+            "choice_Nkef3un12x": "level of experience",
+            "choice_VkHndnJne": "qualifications"
+        },
+        "de": {
+            "header": "Sie möchten sich selbst einschätzen, um Ihr Gehalt einzuschätzen. Nach welchen Kriterien solltest du darauf aufbauen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Bevor Sie ein Gehalt beantragen, sollten Sie sich selbst einschätzen, um Ihre Stärken und Schwächen zu ermitteln. Der Trainer Delphine Poggioli berät vier Kriterien: Ihr technisches Fachwissen, Autonomie, Erfahrung und Ausbildung. Machen Sie sich Notizen von 1 bis 5, um Ihre Stärken und Schwächen herauszufinden.",
+            "tips": "Die unabhängige Beraterin Tessa Dagnely erklärt, dass Sie durch dieses Selbstbewertungsverfahren auch gegenüber dem Arbeitgeber Glaubwürdigkeit erlangen und zeigen, dass Sie sowohl über Ihre Fähigkeiten als auch über Ihre Fähigkeiten Bescheid wissen.",
+            "clue": "Worauf würden Sie Ihre Analyse stützen, wenn Sie rekrutieren müssten?",
+            "choice_VkJ3O2J2l": "Erstes Gehalt",
+            "choice_VJgh-3J3l": "Autonomie",
+            "choice_Ny~2u2Jnl": "Technik",
+            "choice_4yz3OnJ2x": "Verhandlungsfähigkeit",
+            "choice_Nkef3un12x": "Erfahrungslevel",
+            "choice_VkHndnJne": "Qualifikationen"
+        },
+        "es": {
+            "header": "You want to assess yourself to estimate your salary. What criteria should you base this on?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Before requesting a salary, consider assessing yourself in order to identify your strengths and weaknesses. The trainer Delphine Poggioli advises four criteria: your level of technical expertise, autonomy, experience and education. Make notes from 1 to 5 of each to identify your strengths and weaknesses.",
+            "tips": "The independent consultant Tessa Dagnely explains that this self-assessment process also allows you to gain credibility with the employer, showing that you are both aware of your abilities and able to challenge.",
+            "choice_VkJ3O2J2l": "First salary",
+            "choice_VJgh-3J3l": "Autonomy",
+            "choice_Ny~2u2Jnl": "Technicality",
+            "choice_4yz3OnJ2x": "Ability to negotiate",
+            "choice_Nkef3un12x": "Level of experience",
+            "choice_VkHndnJne": "Qualifications",
+            "clue": "On what would you base your analysis if you had to recruit?"
+        },
+        "zh": {
+            "header": "你想评估自己估计你的薪水。你应该以什么标准为基础？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "在申请薪水之前，请考虑评估自己，以确定自己的优势和劣势。培训师Delphine Poggioli建议四个标准：您的技术专长，自主性，经验和教育水平。记下每个1到5个笔记，以确定您的优点和缺点。",
+            "tips": "独立顾问Tessa Dagnely解释说，这种自我评估过程还可以让您获得雇主的信任，表明您既了解自己的能力又能够挑战。",
+            "clue": "如果你不得不招募，你的分析基础是什么？",
+            "choice_VkJ3O2J2l": "第一份工资",
+            "choice_VJgh-3J3l": "自治",
+            "choice_Ny~2u2Jnl": "技术性",
+            "choice_4yz3OnJ2x": "能够谈判",
+            "choice_Nkef3un12x": "经验等级",
+            "choice_VkHndnJne": "资格"
+        }
+    }
+}

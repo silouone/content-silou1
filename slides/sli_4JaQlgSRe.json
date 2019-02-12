@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-30T16:45:52.279Z",
+            "updatedAt": "2017-12-08T11:35:08.240Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4JaQlgSRe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel94816",
+                        "label": "label_EJb2WxB0l",
+                        "items": [
+                            {
+                                "text": "choice_4Jgbn~gB0g",
+                                "value": "choice_4Jgbn~gB0g"
+                            },
+                            {
+                                "text": "choice_Ey~~nblB0x",
+                                "value": "choice_Ey~~nblB0x"
+                            },
+                            {
+                                "text": "choice_VyQn~eHRe",
+                                "value": "choice_VyQn~eHRe"
+                            },
+                            {
+                                "text": "choice_VJN2bgSCe",
+                                "value": "choice_VJN2bgSCe"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel94816",
+                        "answers": [
+                            "choice_Ey~~nblB0x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4JaQlgSRe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour les femmes, avec quoi rime argent en tout premier lieu ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En 2013, pour 85% des femmes interrogées par le réseau professionnel EPWN, l'argent rime avant tout avec sécurité. Le salaire n'est donc pas forcément synonyme d'épanouissement professionnel ou de succès. Ce qui peut expliquer qu'elles le négocient moins.",
+            "tips": "Constatant que les hommes négociaient plus leur salaire que les femmes, Ellen Pao, PDG par interim de Reddit, a supprimé les négociations salariales à l'embauche pour favoriser l'égalité des salaires.",
+            "template": "{{sel94816}}",
+            "clue": "Alimentaire, matérielle...",
+            "label_EJb2WxB0l": " ",
+            "choice_4Jgbn~gB0g": "Liberté",
+            "choice_Ey~~nblB0x": "Sécurité",
+            "choice_VyQn~eHRe": "Épanouissement",
+            "choice_VJN2bgSCe": "Succès"
+        },
+        "en": {
+            "header": "For women, what does money mean in the first place?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In 2013, for 85% of women surveyed by the EPWN professional network, money rhymes above all with security. The salary is not necessarily synonymous with professional fulfillment or success. Which may explain why they negotiate it less.",
+            "tips": "Noting that men bargain more for pay than women, Ellen Pao, Acting CEO of Reddit, abolished wage bargaining on hiring to promote equal pay.",
+            "clue": "Food, material ...",
+            "template": "{{sel94816}}",
+            "label_EJb2WxB0l": " ",
+            "choice_4Jgbn~gB0g": "Freedom",
+            "choice_Ey~~nblB0x": "security",
+            "choice_VyQn~eHRe": "blossoming",
+            "choice_VJN2bgSCe": "Success"
+        },
+        "de": {
+            "header": "Wofür steht Geld in erster Linie für Frauen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Im Jahr 2013 steht für 85% der Frauen, die vom professionellen Netzwerk EPWN befragt werden, Geld hauptsächlich für Sicherheit. Das Gehalt ist nicht unbedingt gleichbedeutend mit beruflicher Entwicklung oder Erfolg. Dies kann erklären, warum sie weniger verhandeln.",
+            "tips": "Ellen Pao, stellvertretender Vorstandsvorsitzender von Reddit, stellte fest, dass mehr Männer ihre Gehälter als Frauen aushandelten, und unterdrückte die Lohnverhandlungen über die Einstellung von Mitarbeitern, um das gleiche Entgelt zu fördern.",
+            "clue": "Essen, materialistisch usw.",
+            "template": "{{sel94816}}",
+            "label_EJb2WxB0l": " ",
+            "choice_4Jgbn~gB0g": "Freiheit",
+            "choice_Ey~~nblB0x": "Sicherheit",
+            "choice_VyQn~eHRe": "Erfüllung",
+            "choice_VJN2bgSCe": "Erfolg"
+        },
+        "es": {
+            "header": "What is money synonymous with for women first and foremost? ",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In 2013, for 85% of women questioned by the professional network EPWN, money is primarily synonymous with security. The salary is not necessarily synonymous with professional development or success. This may explain why they negotiate less.",
+            "tips": "Having noticed that more men negotiated their salaries than women, Ellen Pao, Acting CEO of Reddit, suppressed wage negotiations on hiring in order to promote equal pay.",
+            "template": "{{sel94816}}",
+            "label_EJb2WxB0l": " ",
+            "choice_4Jgbn~gB0g": "Freedom",
+            "choice_Ey~~nblB0x": "Security",
+            "choice_VyQn~eHRe": "Fulfilment",
+            "choice_VJN2bgSCe": "Succes",
+            "clue": "Food, materialistic, etc."
+        },
+        "zh": {
+            "header": "什么是钱首先是女性的代名词？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "2013年，85％的女性受到专业网络EPWN的质疑，资金主要是安全性的代名词。薪水不一定是职业发展或成功的代名词。这可以解释为什么他们谈判较少。",
+            "tips": "Reddit代理首席执行官Ellen Pao注意到有更多的男性谈判他们的工资而不是女性，他们为了促进同工同酬而抑制了招聘工资谈判。",
+            "clue": "食物，物质等",
+            "template": "{{sel94816}}",
+            "label_EJb2WxB0l": " ",
+            "choice_4Jgbn~gB0g": "自由",
+            "choice_Ey~~nblB0x": "安全",
+            "choice_VyQn~eHRe": "履行",
+            "choice_VJN2bgSCe": "成功"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:43:35.205Z",
+            "updatedAt": "2016-06-01T16:19:23.675Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkMbtU0og"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG3",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1wxX6Xnl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_V1wxX6Xnl.id",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_V1wxX6Xnl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle proportion de dirigeants estime que le développement du leadership est une priorité pour l'entreprise ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Selon l'étude Global Leadership Forecast 2008/2009 de Development Dimensions International, 75% des cadres supérieurs placent le développement du leadership en tête des priorités pour l'entreprise.",
+            "tips": "L'étude montre également que moins de la moitié des entreprises européennes mettent en place des actions pour pérenniser les initiatives de développement du leadership.",
+            "unitLabel": "%",
+            "description": "75%",
+            "answerMin": 70,
+            "answerMax": 80,
+            "clue": "Moins de 8 sur 10."
+        },
+        "en": {
+            "header": "How many leaders believe that leadership development is a priority for the company?",
+            "explanation": "Move the cursor.",
+            "klf": "According to the Global Leadership Forecast Forecast 2008/2009 by Development Dimensions International, 75% of executives place leadership development at the top of the company's agenda.",
+            "tips": "The study also shows that less than half of European companies put in place actions to sustain leadership development initiatives.",
+            "clue": "Less than 8 out of 10",
+            "description": "75%",
+            "unitLabel": "%",
+            "choice_1": "70",
+            "choice_2": "71",
+            "choice_3": "72",
+            "choice_4": "73",
+            "choice_5": "74",
+            "choice_6": "75",
+            "choice_7": "76",
+            "choice_8": "77",
+            "choice_9": "78",
+            "choice_10": "79",
+            "choice_11": "80",
+            "answerMin": 70,
+            "answerMax": 80
+        },
+        "de": {
+            "header": "Welcher Anteil der Führungskräfte glaubt, dass die Entwicklung von Führungskräften für das Unternehmen eine Priorität ist?",
+            "explanation": "Ziehen Sie den Schieberegler.",
+            "klf": "Laut der Studie von Development Dimensions International von Global Leadership Forecast 2008/2009 stellen 75% der Führungskräfte die Entwicklung von Führungskräften an oberster Stelle der Prioritäten des Unternehmens.",
+            "tips": "Die Studie zeigt auch, dass weniger als die Hälfte der europäischen Unternehmen Maßnahmen zur Unterstützung von Führungsentwicklungsinitiativen umsetzen.",
+            "clue": "Weniger als 8 von 10.",
+            "description": "75%",
+            "unitLabel": " ",
+            "choice_1": "70",
+            "choice_2": "71",
+            "choice_3": "72",
+            "choice_4": "73",
+            "choice_5": "74",
+            "choice_6": "75",
+            "choice_7": "76",
+            "choice_8": "77",
+            "choice_9": "78",
+            "choice_10": "79",
+            "choice_11": "80",
+            "answerMin": 70,
+            "answerMax": 80
+        },
+        "es": {
+            "header": "What proportion of executives believe that leadership development is a priority for the company?",
+            "explanation": "Drag the slider.",
+            "klf": "According to the study by Global Leadership Forecast 2008/2009 of Development Dimensions International, 75% of executives place leadership development at the top of the company's priorities.",
+            "tips": "The study also shows that less than half of European companies are implementing actions to sustain leadership development initiatives.",
+            "unitLabel": " ",
+            "description": "75%",
+            "answerMin": 70,
+            "answerMax": 80,
+            "clue": "Less than 8 out of 10."
+        },
+        "zh": {
+            "header": "有多少高管认为领导力发展是公司的首要任务？",
+            "explanation": "拖动滑块。",
+            "klf": "根据Development Dimensions International的2008/2009全球领导力预测研究，75％的高管将领导力发展置于公司优先考虑的首位。",
+            "tips": "该研究还表明，只有不到一半的欧洲公司正在采取行动来维持领导力发展计划。",
+            "clue": "不到8分。",
+            "description": "75％",
+            "unitLabel": " ",
+            "choice_1": "70",
+            "choice_2": "71",
+            "choice_3": "72",
+            "choice_4": "73",
+            "choice_5": "74",
+            "choice_6": "75",
+            "choice_7": "76",
+            "choice_8": "77",
+            "choice_9": "78",
+            "choice_10": "79",
+            "choice_11": "80",
+            "answerMin": 70,
+            "answerMax": 80
+        }
+    }
+}

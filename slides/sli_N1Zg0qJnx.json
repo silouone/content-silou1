@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T09:18:59.477Z",
+            "updatedAt": "2016-09-05T16:50:15.254Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1Zg0qJnx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_N1Zg0qJnx.id",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_N1Zg0qJnx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'écart salarial entre hommes et femmes en France, pour un même poste et les mêmes compétences ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Une fois éliminés les facteurs comme la différence de poste ou le taux d'activité, les écarts de salaire persistent. En France, à poste égal et compétences égales, la différence s'élève à 9% début 2015.",
+            "tips": "Cet écart double quand on s'intéresse aux cadres dans le privé : 23% de rémunération supplémentaire pour les hommes.",
+            "unitLabel": "%",
+            "description": "9% d'écart",
+            "answerMin": 7,
+            "answerMax": 11,
+            "clue": "Le nombre de symphonies écrites (et achevées) par Beethoven."
+        },
+        "en": {
+            "header": "What is the pay gap between men and women in France, for the same job and the same skills?",
+            "explanation": "Move the cursor.",
+            "klf": "Once the factors such as the job difference or the activity rate are eliminated, the wage gaps persist. In France, with equal position and equal qualifications, the difference is 9% at the beginning of 2015.",
+            "tips": "This gap doubles when one deals with executives in the private sector: 23% of additional remuneration for men.",
+            "clue": "The number of symphonies written (and completed) by Beethoven.",
+            "description": "9% apart",
+            "unitLabel": "%",
+            "choice_1": "7",
+            "choice_2": "8",
+            "choice_3": "9",
+            "choice_4": "10",
+            "choice_5": "11",
+            "answerMin": 7,
+            "answerMax": 11
+        },
+        "de": {
+            "header": "Was ist das Lohngefälle zwischen Männern und Frauen in Frankreich für dieselbe Position und dieselben Fähigkeiten?",
+            "explanation": "Ziehen Sie den Schieberegler.",
+            "klf": "Sobald Faktoren wie Positionsunterschiede oder Aktivitätsraten beseitigt sind, bestehen nach wie vor Lohnlücken. In Frankreich betrug die Differenz für eine ähnliche Position und ähnliche Fähigkeiten Anfang 2015 9%.",
+            "tips": "Diese Lücke wurde für Manager im privaten Sektor verdoppelt: 23% zusätzliche Vergütung für Männer.",
+            "clue": "Die Anzahl der von Beethoven geschriebenen (und abgeschlossenen) Sinfonien.",
+            "description": "9% Lücke",
+            "unitLabel": " ",
+            "choice_1": "7",
+            "choice_2": "8",
+            "choice_3": "9",
+            "choice_4": "10",
+            "choice_5": "11",
+            "answerMin": 7,
+            "answerMax": 11
+        },
+        "es": {
+            "header": "What is the wage gap between men and women in France, for the same position and the same skills?",
+            "explanation": "Drag the slider.",
+            "klf": "Once factors such as the difference in position or activity rates are eliminated, wage gaps still persist. In France, for a similar position and similar skills, the difference amounted to 9% at the beginning of 2015.",
+            "tips": "This gap was doubled for managers in the private sector: 23% additional remuneration for men.",
+            "unitLabel": " ",
+            "description": "9% gap",
+            "answerMin": 7,
+            "answerMax": 11,
+            "clue": "The number of symphonies written (and completed) by Beethoven."
+        },
+        "zh": {
+            "header": "对于相同的职位和相同的技能，法国的男女工资差距是多少？",
+            "explanation": "拖动滑块。",
+            "klf": "一旦消除了诸如头寸或活动率差异等因素，工资差距仍然存在。在法国，由于类似职位和类似技能，2015年初差异达9％。",
+            "tips": "私营部门管理人员的这一差距翻了一番：男性的薪酬增加了23％。",
+            "clue": "贝多芬写的（和完成的）交响乐的数量。",
+            "description": "差距为9％",
+            "unitLabel": " ",
+            "choice_1": "7",
+            "choice_2": "8",
+            "choice_3": "9",
+            "choice_4": "10",
+            "choice_5": "11",
+            "answerMin": 7,
+            "answerMax": 11
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T11:21:42.518Z",
+            "updatedAt": "2016-09-06T09:11:35.491Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJugih13l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_NJugih13l.id",
+                "min": 4,
+                "max": 24,
+                "step": 1,
+                "defaultValue": 5,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_NJugih13l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de temps est-il conseillé d'attendre avant de négocier une augmentation ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Pour avoir une chance d'obtenir son augmentation, il faut déjà la demander au bon moment. Par exemple lors de l'entretien annuel, ou bien à la date anniversaire d'arrivée dans l'entreprise. Dans tous les cas, il est conseillé d'attendre un an d'ancienneté.",
+            "tips": "Le site Cadremploi liste \"les pires moments pour demander une augmentation salariale\" : peu de temps après une sous-performance, en cas de grosses difficultés économiques de l'entreprise, quand votre manager a la tête sous l'eau ou si vous avez été augmenté dans les six mois précédents.",
+            "unitLabel": "mois",
+            "description": "12 mois",
+            "answerMin": 10,
+            "answerMax": 14,
+            "clue": "Joyeux anniversaire !"
+        },
+        "en": {
+            "header": "How long is it advisable to wait before negotiating an increase?",
+            "explanation": "Move the cursor.",
+            "klf": "To have a chance to get an increase, you have to ask for it at the right time. For example during the annual interview, or on the anniversary date of arrival in the company. In all cases, it is advisable to wait one year of seniority.",
+            "tips": "The Cadremploi site lists \"the worst times to ask for a salary increase\": shortly after an underperformance, in case of great economic difficulties of the company, when your manager has his head under water or if you have been increased in the previous six months.",
+            "clue": "Happy Birthday !",
+            "description": "12 months",
+            "unitLabel": "month",
+            "choice_1": "10",
+            "choice_2": "11",
+            "choice_3": "12",
+            "choice_4": "13",
+            "choice_5": "14",
+            "answerMin": 10,
+            "answerMax": 14
+        },
+        "de": {
+            "header": "Wie lange ist es ratsam zu warten, bevor Sie eine Gehaltserhöhung verhandeln?",
+            "explanation": "Ziehen Sie den Schieberegler.",
+            "klf": "Um eine Chance auf eine Erhöhung zu haben, müssen Sie zum richtigen Zeitpunkt nachfragen. Zum Beispiel bei Ihrer jährlichen Beurteilung oder am Jubiläum der Unternehmensgründung. In jedem Fall ist es ratsam, ein Jahr der Betriebszugehörigkeit abzuwarten.",
+            "tips": "Die Site Cadremploi listet \"die schlechtesten Zeiten für eine Gehaltserhöhung\": Kurz nach einer Underperformance, wenn das Unternehmen in ernsthafte finanzielle Schwierigkeiten gerät, wenn Ihr Manager versucht, den Kopf über Wasser zu halten, oder wenn Sie eine Gehaltserhöhung hatten letzte sechs Monate.",
+            "clue": "Frohes Jubiläum!",
+            "description": "12 Monate",
+            "unitLabel": " ",
+            "choice_1": "10",
+            "choice_2": "11",
+            "choice_3": "12",
+            "choice_4": "13",
+            "choice_5": "14",
+            "answerMin": 10,
+            "answerMax": 14
+        },
+        "es": {
+            "header": "How long is it advisable to wait before negotiating a raise?",
+            "explanation": "Drag the slider.",
+            "klf": "To have a chance of getting a raise, you need to ask at the right time. For example during your annual appraisal, or on the anniversary of joining the company. In all cases, it is advisable to wait one year of seniority.",
+            "tips": "The site Cadremploi lists \"the worst times to ask for a raise\": shortly after an underperformance, if the company is experiencing serious financial difficulties, when your manager is trying to keep their head above water, or if you have had a raise in the last six months.",
+            "unitLabel": " ",
+            "description": "12 months",
+            "answerMin": 10,
+            "answerMax": 14,
+            "clue": "Happy anniversary!"
+        },
+        "zh": {
+            "header": "在谈判加薪前等待多长时间？",
+            "explanation": "拖动滑块。",
+            "klf": "要有机会获得加薪，您需要在合适的时间提出要求。例如，在您的年度评估期间，或在加入公司的周年纪念日。在所有情况下，建议等待一年的资历。",
+            "tips": "Cadremploi网站列出了“要求加薪的最糟糕时期”：表现不佳后不久，如果公司遇到严重的经济困难，当您的经理试图保持头脑清醒，或者您的加油过去六个月。",
+            "clue": "周年快乐！",
+            "description": "12个月",
+            "unitLabel": " ",
+            "choice_1": "10",
+            "choice_2": "11",
+            "choice_3": "12",
+            "choice_4": "13",
+            "choice_5": "14",
+            "answerMin": 10,
+            "answerMax": 14
+        }
+    }
+}

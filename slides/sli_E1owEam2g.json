@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:51:11.932Z",
+            "updatedAt": "2016-07-22T16:23:19.499Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkMbtU0og"
+            ],
+            "status": "draft",
+            "modifiedBy": "leosiegel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E1owEam2g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1owEam2g.choice_VygsHrT7hx.id",
+                        "label": "choice_VygsHrT7hx",
+                        "value": "choice_VygsHrT7hx",
+                        "media": "med_4JsSr673l"
+                    },
+                    {
+                        "id": "sli_E1owEam2g.choice_E1l2BHT7hx.id",
+                        "label": "choice_E1l2BHT7hx",
+                        "value": "choice_E1l2BHT7hx",
+                        "media": "med_Ny2Br6Q2l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1l2BHT7hx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E1owEam2g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour être un bon leader, il faut absolument développer son expertise métier. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Développer son expertise n'est pas forcément synonyme de leadership dans sa fonction. Or, c'est ce dernier qui importe. Sinon, on risque d'être cantonné au rôle de bon professionnel mais pas forcément vu comme un meneur.",
+            "tips": "Selon Éléna Fourès, lorsqu'on développe son leadership métier, cela signie \"seulement\" \"être le meilleur expert, le plus reconnu\".",
+            "clue": "Compétences techniques ne riment pas toujours avec compétences humaines.",
+            "choice_VygsHrT7hx": "Vrai",
+            "choice_E1l2BHT7hx": "Faux"
+        },
+        "en": {
+            "header": "To be a good leader, you have to develop your business expertise. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Developing your expertise is not necessarily synonymous with leadership in your function. But it is the latter that matters. Otherwise, we risk being confined to the role of good professional but not necessarily seen as a leader.",
+            "tips": "According to Éléna Fourès, when one develops one's professional leadership, it means \"only\" \"to be the best expert, the most recognized\".",
+            "clue": "Technical skills do not always rhyme with human skills.",
+            "choice_VygsHrT7hx": "True",
+            "choice_E1l2BHT7hx": "False"
+        },
+        "de": {
+            "header": "Um eine gute Führungskraft zu sein, ist es unerlässlich, Ihre Geschäftskenntnisse zu entwickeln. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Kompetenzentwicklung ist nicht zwangsläufig gleichbedeutend mit Führung. Aber letztere ist wichtig. Andernfalls riskieren wir, auf die Rolle eines guten Profis zu verzichten, aber nicht unbedingt als Führungskraft gesehen zu werden.",
+            "tips": "Laut Elena Fourès bedeutet es bei der Entwicklung Ihrer Unternehmensführung, \"nur\" der \"beste Experte, der anerkannteste\" zu sein.",
+            "clue": "Technische Fähigkeiten gehen nicht immer mit menschlichen Fähigkeiten einher.",
+            "choice_VygsHrT7hx": "Wahr",
+            "choice_E1l2BHT7hx": "Falsch"
+        },
+        "es": {
+            "header": "To be a good leader, it is essential to develop your business expertise. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Developing expertise is not necessarily synonymous with leadership. Yet it is the latter that matters. Otherwise, we risk being relegated to the role of a good professional but not necessarily seen as a leader.",
+            "tips": "According to Elena Fourès, when developing your business leadership, it means \"only\" being \"the best expert, the most recognised\".",
+            "choice_VygsHrT7hx": "True",
+            "choice_E1l2BHT7hx": "False",
+            "clue": "Technical skills do not always go with human skills."
+        },
+        "zh": {
+            "header": "要成为一名优秀的领导者，必须发展您的业务专长。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "发展专业知识不一定是领导力的同义词。然而后者才是重要的。否则，我们有可能被降级为良好职业的角色，但不一定被视为领导者。",
+            "tips": "根据ElenaFourès的说法，在发展您的业务领导力时，它意味着“仅”是“最好的专家，最受认可的”。",
+            "clue": "技术技能并不总是与人类技能相关。",
+            "choice_VygsHrT7hx": "真正",
+            "choice_E1l2BHT7hx": "假"
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:19:42.389Z",
+            "updatedAt": "2017-12-01T11:03:34.597Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yHV-8Cje"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E10x1hXhx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E10x1hXhx.choice_V14aJ2m3e.id",
+                        "label": "choice_V14aJ2m3e",
+                        "value": "choice_V14aJ2m3e"
+                    },
+                    {
+                        "id": "sli_E10x1hXhx.choice_NySaJ3m3g.id",
+                        "label": "choice_NySaJ3m3g",
+                        "value": "choice_NySaJ3m3g"
+                    },
+                    {
+                        "id": "sli_E10x1hXhx.choice_V1LpJnXnx.id",
+                        "label": "choice_V1LpJnXnx",
+                        "value": "choice_V1LpJnXnx"
+                    },
+                    {
+                        "id": "sli_E10x1hXhx.choice_EkPTJ2m3g.id",
+                        "label": "choice_EkPTJ2m3g",
+                        "value": "choice_EkPTJ2m3g"
+                    },
+                    {
+                        "id": "sli_E10x1hXhx.choice_4ygvp1273g.id",
+                        "label": "choice_4ygvp1273g",
+                        "value": "choice_4ygvp1273g"
+                    },
+                    {
+                        "id": "sli_E10x1hXhx.choice_EyOa13mnl.id",
+                        "label": "choice_EyOa13mnl",
+                        "value": "choice_EyOa13mnl"
+                    },
+                    {
+                        "id": "sli_E10x1hXhx.choice_41Yp1h7he.id",
+                        "label": "choice_41Yp1h7he",
+                        "value": "choice_41Yp1h7he"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NySaJ3m3g",
+                        "choice_V1LpJnXnx",
+                        "choice_4ygvp1273g",
+                        "choice_EyOa13mnl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E10x1hXhx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans la liste suivante, sélectionnez les critères sur lesquels peut se fonder un réseau professionnel.",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les réseaux peuvent s'organiser autour d'un même secteur d'activité ou d'une même fonction, comme les chefs d'entreprise. Ils peuvent aussi rassembler les anciennes élèves d'une école ou d'une université ou bien les salariées d'une entreprise. S'y ajoute parfois un critère géographique.",
+            "tips": "Le réseau Entreprendre au féminin Bretagne rassemble des femmes bretonnes entrepreneures. Il a accompagné la création de plus d'une centaine d'entreprises.",
+            "clue": "On a dit “professionnel”.",
+            "choice_V14aJ2m3e": "L'âge",
+            "choice_NySaJ3m3g": "Le secteur d'activité",
+            "choice_V1LpJnXnx": "L'école ou l'université",
+            "choice_EkPTJ2m3g": "La confession religieuse",
+            "choice_4ygvp1273g": "La fonction",
+            "choice_EyOa13mnl": "L'entreprise",
+            "choice_41Yp1h7he": "Le métier du conjoint"
+        },
+        "en": {
+            "header": "In the following list, select the criteria on which to base a professional network.",
+            "explanation": "Select the correct answers below.",
+            "klf": "Networks can be organized around the same sector of activity or the same function, as business leaders. They can also bring together former students from a school or university or the employees of a company. There is sometimes a geographical criterion.",
+            "tips": "The network Entreprendre au féminin Bretagne brings together Breton women entrepreneurs. He has accompanied the creation of more than a hundred companies.",
+            "clue": "We said \"professional\".",
+            "choice_V14aJ2m3e": "The age",
+            "choice_NySaJ3m3g": "The area of ​​the activity",
+            "choice_V1LpJnXnx": "School or university",
+            "choice_EkPTJ2m3g": "Religious confession",
+            "choice_4ygvp1273g": "Function",
+            "choice_EyOa13mnl": "The company",
+            "choice_41Yp1h7he": "The job of the spouse"
+        },
+        "de": {
+            "header": "Wählen Sie in der folgenden Liste die Kriterien aus, auf die sich ein professionelles Netzwerk stützen kann.",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Netzwerke können sich auf eine einzelne Branche oder eine einzige Funktion, wie z. B. Führungskräfte, konzentrieren. Sie können auch die Alumni einer Schule oder Universität oder die Mitarbeiter eines Unternehmens sein. Manchmal wird ein geografisches Kriterium hinzugefügt.",
+            "tips": "Das Netzwerk Entreprendre au féminin Bretagne fasst bretonische Unternehmerinnen zusammen. Es hat bei der Gründung von über hundert Unternehmen geholfen.",
+            "clue": "Es sagte \"professionell\".",
+            "choice_V14aJ2m3e": "Alter",
+            "choice_NySaJ3m3g": "Der Tätigkeitsbereich",
+            "choice_V1LpJnXnx": "Schule oder Universität",
+            "choice_EkPTJ2m3g": "Religiöses Geständnis",
+            "choice_4ygvp1273g": "Funktion",
+            "choice_EyOa13mnl": "Das Unternehmen",
+            "choice_41Yp1h7he": "Der Beruf des Ehepartners"
+        },
+        "es": {
+            "header": "In the following list, select the criteria a professional network can be based on.",
+            "explanation": "Select the correct answers below.",
+            "klf": "Networks can be organised around a single industry or a single function, such as business leaders. They can also include the alumni of a school or university or the employees of a company. Sometimes a geographic criterion is added.",
+            "tips": "The network Entreprendre au féminin Bretagne groups together female Breton entrepreneurs.  It has helped with the creation of over one hundred companies.",
+            "choice_V14aJ2m3e": "Age",
+            "choice_NySaJ3m3g": "The sector of activity",
+            "choice_V1LpJnXnx": "School or university",
+            "choice_EkPTJ2m3g": "Religious confession",
+            "choice_4ygvp1273g": "Function",
+            "choice_EyOa13mnl": "The company",
+            "choice_41Yp1h7he": "The spouse's profession",
+            "clue": "It said \"professional\"."
+        },
+        "zh": {
+            "header": "在以下列表中，选择专业网络可以基于的条件。",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "网络可以围绕单个行业或单个功能组织，例如商业领袖。他们还可以包括学校或大学的校友或公司的员工。有时会添加地理标准。",
+            "tips": "网络EntreprendreaufémininBretagne将女性布列塔尼企业家聚集在一起。它帮助创建了一百多家公司。",
+            "clue": "它说“专业”。",
+            "choice_V14aJ2m3e": "年龄",
+            "choice_NySaJ3m3g": "活动部门",
+            "choice_V1LpJnXnx": "学校或大学",
+            "choice_EkPTJ2m3g": "宗教忏悔",
+            "choice_4ygvp1273g": "功能",
+            "choice_EyOa13mnl": "公司",
+            "choice_41Yp1h7he": "配偶的职业"
+        }
+    }
+}

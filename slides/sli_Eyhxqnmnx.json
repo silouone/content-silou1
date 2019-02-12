@@ -1,0 +1,123 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:04:05.159Z",
+            "updatedAt": "2017-12-01T11:29:24.725Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Eyhxqnmnx",
+        "universalRef": "sli_Eyhxqnmnx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_Eyhxqnmnx.field_4Jj73Q5gE.id",
+                        "type": "text",
+                        "name": "inp10670",
+                        "label": "label_4kgjmnmqxV",
+                        "placeholder": "placeholder_4kZsmnXcxE"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp10670",
+                        "answers": [
+                            "choice_VkGi72m5xV"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Initialement, le terme de mentor désigne l'ami de quel personnage mythologique ?",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "À l'origine, Mentor est un personnage mythologique ami d'Ulysse. Ce dernier lui confie la tâche d'élever son fils Télémaque pendant qu'il part faire la guerre à Troie.",
+            "tips": "Le terme passe dans la langue courante à partir du début du XVIIIe siècle.",
+            "clue": "Un long voyage, des sirènes…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp10670}}",
+            "label_4kgjmnmqxV": " ",
+            "placeholder_4kZsmnXcxE": " ",
+            "choice_VkGi72m5xV": "Ulysse"
+        },
+        "en": {
+            "header": "Initially, the term mentor refers to the friend of which mythological character?",
+            "explanation": "Enter your answer or select the correct answer in the drop-down menu (s).",
+            "klf": "Originally, Mentor is a mythological character friend of Ulysses. The latter entrusts him with the task of raising his son Telemachus while he goes to war in Troy.",
+            "tips": "The term is used in everyday language from the beginning of the 18th century.",
+            "clue": "A long trip, sirens ...",
+            "template": "{{inp10670}}",
+            "label_4kgjmnmqxV": " ",
+            "choice_VkGi72m5xV": "Ulysses",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "placeholder_4kZsmnXcxE": " "
+        },
+        "de": {
+            "header": "Ursprünglich war der Begriff Mentor der Freund eines mythologischen Charakters, welcher?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Der ursprüngliche Mentor ist eine mythologische Figur und ein Freund von Ulysses. Dieser beauftragte ihn mit der Aufgabe, seinen Sohn Telemachos aufzuziehen, als er ging, um gegen Troja Krieg zu führen.",
+            "tips": "Der Begriff trat in die heutige Sprache vom frühen achtzehnten Jahrhundert ein.",
+            "clue": "Eine lange Reise, Meerjungfrauen usw.",
+            "template": "{{inp10670}}",
+            "label_4kgjmnmqxV": " ",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "placeholder_4kZsmnXcxE": " ",
+            "choice_VkGi72m5xV": ""
+        },
+        "es": {
+            "header": "Originally the term mentor was the friend of a mythological character, which one?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "The original Mentor is a mythological character and friend of Ulysses. The latter entrusted him with the task of raising his son Telemachus as he left to make war on Troy.",
+            "tips": "The term entered into current language from the early eighteenth century.",
+            "clue": "A long journey, mermaids, etc.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp10670}}",
+            "label_4kgjmnmqxV": " ",
+            "placeholder_4kZsmnXcxE": " ",
+            "choice_VkGi72m5xV": ""
+        },
+        "zh": {
+            "header": "最初的导师这个词是神话人物的朋友，哪一个？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "最初的导师是尤利西斯的神话人物和朋友。后者委托他抚养他的儿子Telemachus，因为他离开时要对特洛伊发动战争。",
+            "tips": "该术语从十八世纪初开始用于当前语言。",
+            "clue": "漫长的旅程，美人鱼等",
+            "template": "{{inp10670}}",
+            "label_4kgjmnmqxV": " ",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "placeholder_4kZsmnXcxE": " ",
+            "choice_VkGi72m5xV": ""
+        }
+    }
+}

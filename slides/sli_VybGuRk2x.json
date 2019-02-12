@@ -1,0 +1,128 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T13:36:28.167Z",
+            "updatedAt": "2017-11-29T09:36:56.713Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VybGuRk2x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VybGuRk2x.choice_VkfUsRynx.id",
+                        "label": "choice_VkfUsRynx",
+                        "value": "choice_VkfUsRynx"
+                    },
+                    {
+                        "id": "sli_VybGuRk2x.choice_Vk4IiRk2x.id",
+                        "label": "choice_Vk4IiRk2x",
+                        "value": "choice_Vk4IiRk2x"
+                    },
+                    {
+                        "id": "sli_VybGuRk2x.choice_EkLIoAknx.id",
+                        "label": "choice_EkLIoAknx",
+                        "value": "choice_EkLIoAknx"
+                    },
+                    {
+                        "id": "sli_VybGuRk2x.choice_41eLIsR12e.id",
+                        "label": "choice_41eLIsR12e",
+                        "value": "choice_41eLIsR12e"
+                    },
+                    {
+                        "id": "sli_VybGuRk2x.choice_N1D8iCJhx.id",
+                        "label": "choice_N1D8iCJhx",
+                        "value": "choice_N1D8iCJhx"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1D8iCJhx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VybGuRk2x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qui gagnerait à un meilleur partage des tâches domestiques et parentales ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Tout le monde gagnerait à un meilleur partage des tâches. À commencer par les enfants, qui souffrent si leur père est trop préoccupé par son travail. Quant aux parents, chacun pourra trouver un meilleur équilibre entre temps de travail, temps pour soi et temps domestique.",
+            "tips": "Selon une étude anglaise, chez les hommes européens qui assurent l'essentiel des revenus d'un ménage, 58% des pères de familles aimeraient travailler moins, même si cela signifie gagner moins d'argent.",
+            "clue": "Un vrai progrès.",
+            "choice_VkfUsRynx": "Les enfants et les mères",
+            "choice_Vk4IiRk2x": "Les enfants",
+            "choice_EkLIoAknx": "Les pères et les enfants",
+            "choice_41eLIsR12e": "Les parents",
+            "choice_N1D8iCJhx": "Les parents et les enfants"
+        },
+        "en": {
+            "header": "Who would benefit from better sharing of domestic and parental tasks?",
+            "explanation": "Select the correct answer.",
+            "klf": "Everyone would benefit from better job sharing. Starting with the children, who suffer if their father is too concerned about his work. As for parents, everyone can find a better balance between working time, time for themselves and domestic time.",
+            "tips": "According to an English study, among European men who provide the bulk of household income, 58% of fathers would like to work less, even if it means earning less money.",
+            "clue": "A real progress.",
+            "choice_VkfUsRynx": "Children and mothers",
+            "choice_Vk4IiRk2x": "Children",
+            "choice_EkLIoAknx": "Fathers and children",
+            "choice_41eLIsR12e": "The parents",
+            "choice_N1D8iCJhx": "Parents and children"
+        },
+        "de": {
+            "header": "Wer würde von einer besseren Aufteilung von Haus- und Elternaufgaben profitieren?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Jeder würde von einer besseren Aufgabenverteilung profitieren. Angefangen bei Kindern, die leiden, wenn der Vater zu sehr mit seiner Arbeit beschäftigt ist. Bei den Eltern könnte jeder ein besseres Gleichgewicht zwischen Arbeit, Zeit für sich und Familienzeit finden.",
+            "tips": "Laut einer englischen Studie würden 58% der Familienväter unter den europäischen Männern, die den größten Teil des Haushaltseinkommens bereitstellen, es vorziehen, weniger zu arbeiten, auch wenn dies weniger Geld bedeuten würde.",
+            "clue": "Echter Fortschritt.",
+            "choice_VkfUsRynx": "Kinder und Mütter",
+            "choice_Vk4IiRk2x": "Kinder",
+            "choice_EkLIoAknx": "Väter und Kinder",
+            "choice_41eLIsR12e": "Eltern",
+            "choice_N1D8iCJhx": "Eltern und Kinder"
+        },
+        "es": {
+            "header": "Who would benefit from a better sharing of domestic and parental tasks?",
+            "explanation": "Select the correct answer.",
+            "klf": "Everyone would benefit from the better sharing of tasks. Starting with children who suffer if their father is too preoccupied with his work. As for the parents, everyone would be able to find a better balance between work, time for themselves and family time.",
+            "tips": "According to an English study, among European men who provide the bulk of household income, 58% of fathers of families would prefer to work less, even if it meant making less money.",
+            "choice_VkfUsRynx": "Children and mothers",
+            "choice_Vk4IiRk2x": "Children",
+            "choice_EkLIoAknx": "Fathers and children",
+            "choice_41eLIsR12e": "Parents",
+            "choice_N1D8iCJhx": "Parents and children",
+            "clue": "Real progress."
+        },
+        "zh": {
+            "header": "谁能从更好地分享家庭和父母任务中受益？",
+            "explanation": "选择正确的答案。",
+            "klf": "每个人都可以从更好地分享任务中受益。从父亲过于专注于工作的孩子开始。至于父母，每个人都能够在工作，时间和家庭时间之间找到更好的平衡。",
+            "tips": "根据一项英国研究，在提供大部分家庭收入的欧洲男性中，58％的家庭父亲宁愿少工作，即使这意味着赚钱少。",
+            "clue": "真正的进步。",
+            "choice_VkfUsRynx": "儿童和母亲",
+            "choice_Vk4IiRk2x": "孩子",
+            "choice_EkLIoAknx": "父亲和孩子",
+            "choice_41eLIsR12e": "父母",
+            "choice_N1D8iCJhx": "父母和孩子"
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T10:49:02.723Z",
+            "updatedAt": "2016-09-06T08:58:38.762Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4k6t~3y3x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4k6t~3y3x.choice_VkOg4hkhg.id",
+                        "label": "choice_VkOg4hkhg",
+                        "value": "choice_VkOg4hkhg"
+                    },
+                    {
+                        "id": "sli_4k6t~3y3x.choice_Vk8~42Jhe.id",
+                        "label": "choice_Vk8~42Jhe",
+                        "value": "choice_Vk8~42Jhe"
+                    },
+                    {
+                        "id": "sli_4k6t~3y3x.choice_EkDbE3J2g.id",
+                        "label": "choice_EkDbE3J2g",
+                        "value": "choice_EkDbE3J2g"
+                    },
+                    {
+                        "id": "sli_4k6t~3y3x.choice_4kO~431hl.id",
+                        "label": "choice_4kO~431hl",
+                        "value": "choice_4kO~431hl"
+                    },
+                    {
+                        "id": "sli_4k6t~3y3x.choice_VkedZEnJ2x.id",
+                        "label": "choice_VkedZEnJ2x",
+                        "value": "choice_VkedZEnJ2x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk8~42Jhe",
+                        "choice_EkDbE3J2g",
+                        "choice_VkedZEnJ2x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4k6t~3y3x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous êtes en bonne voie pour obtenir un poste. Comment réaliser votre étude pour préparer votre négociation salariale ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour réaliser une étude afin de négocier votre salaire, il faut recouper les informations que vous pouvez recueillir à partir d'offres similaires à votre poste, de personnes de votre réseau ayant un profil proche du vôtre, ou bien en utilisant des outils en ligne. Lejustesalaire.com, par exemple, estime les salaires en fonction des types de postes.",
+            "tips": "Renseignez-vous aussi sur la politique salariale de l'entreprise. Certaines ont une grille de salaire alors que d'autres \"attendent une réelle discussion autour de la question salariale\", explique Christian Darautière, de l'Association pour faciliter l'insertion professionnelle des jeunes diplômés.",
+            "clue": "Parler salaire avant même la négociation ?",
+            "choice_VkOg4hkhg": "Je me renseigne auprès de mon futur chef",
+            "choice_Vk8~42Jhe": "Je regarde les offres proches de mon poste",
+            "choice_EkDbE3J2g": "Je fais appel à mon réseau",
+            "choice_4kO~431hl": "Je fais un sondage auprès de mes futurs collègues",
+            "choice_VkedZEnJ2x": "J'utilise des outils en ligne"
+        },
+        "en": {
+            "header": "You are on track to get a job. How to carry out your study to prepare your salary negotiation?",
+            "explanation": "Select the correct answers.",
+            "klf": "To do a study to negotiate your salary, you need to cross-check the information you can collect from similar job offers, people in your network with a profile close to yours, or by using online tools. Lejustesalaire.com, for example, estimates wages by job type.",
+            "tips": "Find out more about the company's salary policy. Some have a salary grid while others \"expect a real discussion around the wage issue,\" says Christian Darautière, the Association to facilitate the professional integration of young graduates.",
+            "clue": "Talking about salary even before the negotiation?",
+            "choice_VkOg4hkhg": "I inquire with my future boss",
+            "choice_Vk8~42Jhe": "I look at the offers close to my post",
+            "choice_EkDbE3J2g": "I call my network",
+            "choice_4kO~431hl": "I am doing a survey of my future colleagues",
+            "choice_VkedZEnJ2x": "I use online tools"
+        },
+        "de": {
+            "header": "Es klingt, als würden Sie den Job bekommen. Wie sollten Sie Ihre Gehaltsverhandlungen vorbereiten?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Um sich auf die Aushandlung Ihres Gehalts vorzubereiten, müssen Sie die Informationen, die Sie aus ähnlichen Angeboten zu Ihrer Position entnehmen können, sowie Personen in Ihrem Netzwerk, die ein ähnliches Profil haben, oder Online-Tools verwenden. Lejustesalaire.com schätzt beispielsweise Gehälter für verschiedene Arten von Positionen.",
+            "tips": "Fragen Sie auch nach der Gehaltspolitik des Unternehmens. Einige haben einen Gehaltsplan, während andere \"eine echte Diskussion über die Entlohnung erwarten\", sagt Christian Darautière von der Vereinigung, die die Beschäftigung junger Absolventen erleichtert.",
+            "clue": "Sprechen Sie noch vor Verhandlungen über das Gehalt?",
+            "choice_VkOg4hkhg": "Ich werde mit meinem zukünftigen Chef nachfragen",
+            "choice_Vk8~42Jhe": "Ich schaue Angebote an, die meiner Position ähneln",
+            "choice_EkDbE3J2g": "Ich appelliere an mein Netzwerk",
+            "choice_4kO~431hl": "Ich besuche meine zukünftigen Kollegen",
+            "choice_VkedZEnJ2x": "Ich benutze Online-Tools"
+        },
+        "es": {
+            "header": "It sounds like you are going to get the job. How should you prepare your salary negotiation?",
+            "explanation": "Select the correct answers.",
+            "klf": "To prepare for negotiating your salary, you have to cross-check information you can gather from similar offers to your position, people in your network with a similar profile to yours, or using online tools. Lejustesalaire.com, for example, estimates salaries for different types of positions.",
+            "tips": "Also ask about the salary policy of the company. Some have a salary schedule while others \"expect a real discussion on remuneration,\" says Christian Darautière, from the association that facilitates the employment of young graduates.",
+            "choice_VkOg4hkhg": "I will make enquiries with my future boss",
+            "choice_Vk8~42Jhe": "I look at offers similar to my position",
+            "choice_EkDbE3J2g": "I appeal to my network",
+            "choice_4kO~431hl": "I survey my future colleagues",
+            "choice_VkedZEnJ2x": "I use online tools",
+            "clue": "Talk about the salary even before negotiation?"
+        },
+        "zh": {
+            "header": "听起来你会得到这份工作。你应该如何准备工资谈判？",
+            "explanation": "选择正确的答案。",
+            "klf": "为了准备谈判您的薪水，您必须交叉检查您可以从类似的优惠到您的职位收集的信息，您的网络中的人与您的类似的个人资料，或使用在线工具。例如，Lejustesalaire.com估计不同类型职位的工资。",
+            "tips": "还要询问公司的薪资政策。有些人有薪水安排，而其他人“希望就薪酬进行真正的讨论，”促进年轻毕业生就业的协会的ChristianDarautière说。",
+            "clue": "谈判之前谈论薪水？",
+            "choice_VkOg4hkhg": "我会跟我未来的老板询问",
+            "choice_Vk8~42Jhe": "我看看与我的位置相似的报价",
+            "choice_EkDbE3J2g": "我呼吁我的网络",
+            "choice_4kO~431hl": "我调查了我未来的同事",
+            "choice_VkedZEnJ2x": "我使用在线工具"
+        }
+    }
+}

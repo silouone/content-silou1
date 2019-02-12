@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:51:35.562Z",
+            "updatedAt": "2017-12-01T11:09:43.715Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E1FoI2X2g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1FoI2X2g.choice_EkrBv2Q2x.id",
+                        "label": "choice_EkrBv2Q2x",
+                        "value": "choice_EkrBv2Q2x"
+                    },
+                    {
+                        "id": "sli_E1FoI2X2g.choice_Vk8Hw2m2x.id",
+                        "label": "choice_Vk8Hw2m2x",
+                        "value": "choice_Vk8Hw2m2x"
+                    },
+                    {
+                        "id": "sli_E1FoI2X2g.choice_VkxUBPhX3e.id",
+                        "label": "choice_VkxUBPhX3e",
+                        "value": "choice_VkxUBPhX3e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkxUBPhX3e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E1FoI2X2g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'est-ce qu'une “flash news”, selon la coach Chine Lanzmann ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lors de discussions ou quand vous vous présentez, vous pouvez utiliser ce que Chine Lanzmann appelle les “flash news”. Il s'agit d'une bonne nouvelle à propos de votre travail comme, par exemple, l'aboutissement d'un projet ou le gain de nouveaux budgets.",
+            "tips": "Chine Lanzmann construit ainsi ses “flash news” : les faits, la façon dont vous vous sentez par rapport à eux (fier, comblé…) et, enfin, les besoins satisfaits, intéressants pour votre interlocuteur.",
+            "clue": "Moins anxiogène qu'aux infos.",
+            "choice_EkrBv2Q2x": "Un bilan rapide de vos activités comptables",
+            "choice_Vk8Hw2m2x": "Une présentation condensée de vos difficultés professionnelles",
+            "choice_VkxUBPhX3e": "Une bonne nouvelle concernant votre travail"
+        },
+        "en": {
+            "header": "What is a \"flash news\", according to coach China Lanzmann?",
+            "explanation": "Select the correct answer.",
+            "klf": "In discussions or when you introduce yourself, you can use what China Lanzmann calls \"flash news\". This is good news about your work, such as completing a project or gaining new budgets.",
+            "tips": "China Lanzmann thus builds its \"flash news\": the facts, the way you feel about them (proud, satisfied ...) and, finally, the needs met, interesting for your interlocutor.",
+            "clue": "Less anxiety than information.",
+            "choice_EkrBv2Q2x": "A quick review of your accounting activities",
+            "choice_Vk8Hw2m2x": "A condensed presentation of your professional difficulties",
+            "choice_VkxUBPhX3e": "Good news about your work"
+        },
+        "de": {
+            "header": "Was ist nach Ansicht von Trainer Chine Lanzmann ein \"News-Flash\"?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In Diskussionen oder bei der Präsentation können Sie das verwenden, was Chine Lanzmann \"Nachrichtenblitze\" nennt. Dies kann eine gute Nachricht über Ihre Arbeit sein, z. B. die Fertigstellung eines Projekts oder die Gewinnung neuer Konten.",
+            "tips": "Chine Lanzmann präsentiert ihre Neuigkeiten wie folgt: Die Fakten, wie Sie sich darüber fühlen (stolz, erfüllt usw.) und schließlich die Bedürfnisse, die Sie erfüllt haben, was für Ihre Kollegen interessant ist.",
+            "clue": "Weniger Angst, mehr Informationen",
+            "choice_EkrBv2Q2x": "Eine schnelle Überprüfung Ihrer Buchhaltungstätigkeiten",
+            "choice_Vk8Hw2m2x": "Eine komprimierte Darstellung Ihrer beruflichen Schwierigkeiten",
+            "choice_VkxUBPhX3e": "Gute Nachrichten über Ihre Arbeit"
+        },
+        "es": {
+            "header": "What is a \"news flash\", according to coach Chine Lanzmann?",
+            "explanation": "Select the correct answer.",
+            "klf": "In discussions or when presenting yourself, you can use what Chine Lanzmann calls \"news flashes\". This could be good news about your work, such as the completion of a project or the gaining of new accounts.",
+            "tips": "Chine Lanzmann presents her news flash as follows: the facts, the way you feel about them (proud, fulfilled, etc.) and finally the needs you have met, which is interesting for your colleague.",
+            "choice_EkrBv2Q2x": "A quick check of your accounting activities",
+            "choice_Vk8Hw2m2x": "A condensed presentation of your professional difficulties",
+            "choice_VkxUBPhX3e": "Good news about your work",
+            "clue": "Less anxiety, more information"
+        },
+        "zh": {
+            "header": "根据教练Chine Lanzmann的说法，什么是“新闻报道”？",
+            "explanation": "选择正确的答案。",
+            "klf": "在讨论或展示自己时，你可以使用Chine Lanzmann所说的“新闻闪光”。这可能是关于您的工作的好消息，例如项目的完成或获得新帐户。",
+            "tips": "Chine Lanzmann的新闻报道如下：事实，你对他们的感受（自豪，满足等），最后是你遇到的需求，这对你的同事来说很有意思。",
+            "clue": "减少焦虑，提供更多信息",
+            "choice_EkrBv2Q2x": "快速检查您的会计活动",
+            "choice_Vk8Hw2m2x": "简明扼要地介绍您的职业困难",
+            "choice_VkxUBPhX3e": "关于你工作的好消息"
+        }
+    }
+}

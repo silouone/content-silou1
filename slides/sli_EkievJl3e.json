@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T14:27:31.359Z",
+            "updatedAt": "2017-12-11T13:23:07.854Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EkievJl3e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkievJl3e.choice_VkeGwvJeng.id",
+                        "label": "choice_VkeGwvJeng",
+                        "value": "choice_VkeGwvJeng",
+                        "media": "med_NyfvwJxng"
+                    },
+                    {
+                        "id": "sli_EkievJl3e.choice_NyxQvPJxhl.id",
+                        "label": "choice_NyxQvPJxhl",
+                        "value": "choice_NyxQvPJxhl",
+                        "media": "med_EJXPw1e2x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyxQvPJxhl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EkievJl3e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Les femmes consacrent moins de 3 heures par jour aux tâches ménagères. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les femmes passent 3 h 26 par jour à s'occuper des tâches ménagères. Les hommes n'y passent que 2 heures.",
+            "tips": "L'écart se retrouve dans le temps libre : 2 h 45 pour les femmes, contre 3 h 20 pour les hommes.",
+            "clue": "Et la double journée, alors ?",
+            "choice_VkeGwvJeng": "Vrai",
+            "choice_NyxQvPJxhl": "Faux"
+        },
+        "en": {
+            "header": "Women spend less than 3 hours a day doing housework. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Women spend 3 to 26 hours a day doing housework. Men spend only 2 hours there.",
+            "tips": "The gap is found in free time: 2:45 for women, against 3:20 for men.",
+            "clue": "And the double day, then?",
+            "choice_VkeGwvJeng": "True",
+            "choice_NyxQvPJxhl": "False"
+        },
+        "de": {
+            "header": "Frauen verbringen weniger als 3 Stunden pro Tag mit Hausarbeit. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Frauen verbringen 3 Stunden und 26 Minuten pro Tag damit, sich um die Hausarbeit zu kümmern. Männer verbringen nur zwei Stunden.",
+            "tips": "Der Unterschied liegt in der Freizeit: 2 Stunden 45 Minuten für Frauen, verglichen mit 3 Stunden 20 Minuten für Männer.",
+            "clue": "Und dann den doppelten Tag?",
+            "choice_VkeGwvJeng": "Wahr",
+            "choice_NyxQvPJxhl": "Falsch"
+        },
+        "es": {
+            "header": "Women spend less than 3 hours per day on housework. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Women spend 3 hrs 26 mins a day taking care of household chores. Men only spend two hours.",
+            "tips": "The difference is found in the free time: 2 hrs 45 mins for women, compared to 3 hrs 20 mins for men.",
+            "choice_VkeGwvJeng": "True",
+            "choice_NyxQvPJxhl": "False",
+            "clue": "And the double day, then?"
+        },
+        "zh": {
+            "header": "女性每天花在家务上的时间不到3小时。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "女性每天花费3小时26分钟照顾家务。男人只花了两个小时。",
+            "tips": "差异在于自由时间：女性为2小时45分钟，而男性为3小时20分钟。",
+            "clue": "那么双重日呢？",
+            "choice_VkeGwvJeng": "真正",
+            "choice_NyxQvPJxhl": "假"
+        }
+    }
+}

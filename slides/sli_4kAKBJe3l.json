@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T14:22:29.601Z",
+            "updatedAt": "2016-09-06T09:53:46.320Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kAKBJe3l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel62263",
+                        "label": "label_NkENIklne",
+                        "items": [
+                            {
+                                "text": "choice_N1xNE81g2l",
+                                "value": "choice_N1xNE81g2l"
+                            },
+                            {
+                                "text": "choice_4JW4NLyg2e",
+                                "value": "choice_4JW4NLyg2e"
+                            },
+                            {
+                                "text": "choice_EJr4Ukgng",
+                                "value": "choice_EJr4Ukgng"
+                            },
+                            {
+                                "text": "choice_418EUJe3x",
+                                "value": "choice_418EUJe3x"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel62263",
+                        "answers": [
+                            "choice_418EUJe3x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4kAKBJe3l"
+    },
+    "locales": {
+        "fr": {
+            "header": "En France, depuis 2014, la durée du congé parental augmente si le deuxième parent le prend. De combien de temps ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En France, le congé parental était de six mois. Depuis 2014, il est possible de l'allonger de six mois à condition que l'autre parent prenne ces semaines supplémentaires.",
+            "tips": "La réforme a transformé le nom officiel du congé parental en \"prestation partagée d'éducation de l'enfant\".",
+            "template": "{{sel62263}}",
+            "clue": "Il double.",
+            "label_NkENIklne": " ",
+            "choice_N1xNE81g2l": "4 semaines",
+            "choice_4JW4NLyg2e": "1,5 mois",
+            "choice_EJr4Ukgng": "3 mois",
+            "choice_418EUJe3x": "6 mois"
+        },
+        "en": {
+            "header": "In France, since 2014, the duration of parental leave increases if the second parent takes it. How long?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In France parental leave was six months. Since 2014, it is possible to extend it by six months provided that the other parent takes these extra weeks.",
+            "tips": "The reform transformed the official name of parental leave into a \"shared child-rearing benefit\".",
+            "clue": "He doubles.",
+            "template": "{{sel62263}}",
+            "label_NkENIklne": " ",
+            "choice_N1xNE81g2l": "4 weeks",
+            "choice_4JW4NLyg2e": "1.5 months",
+            "choice_EJr4Ukgng": "3 months",
+            "choice_418EUJe3x": "6 months"
+        },
+        "de": {
+            "header": "In Frankreich verlängert sich die Dauer des Elternurlaubs seit 2014, wenn der zweite Elternteil in Anspruch nimmt. Wie lange dauert diese Zeit?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "In Frankreich betrug der Elternurlaub sechs Monate. Seit 2014 ist eine Verlängerung um sechs Monate möglich, sofern der andere Elternteil die zusätzlichen Wochen in Anspruch nimmt.",
+            "tips": "Die Reform hat den offiziellen Namen des Elternurlaubs in \"gemeinsame Bereitstellung von Kindererziehung\" geändert.",
+            "clue": "Die doppelte Menge.",
+            "template": "{{sel62263}}",
+            "label_NkENIklne": " ",
+            "choice_N1xNE81g2l": "4 Wochen",
+            "choice_4JW4NLyg2e": "1,5 Monate",
+            "choice_EJr4Ukgng": "3 Monate",
+            "choice_418EUJe3x": "6 Monate"
+        },
+        "es": {
+            "header": "In France, since 2014, the duration of parental leave increases if the second parent takes it. How long is this period?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In France, parental leave was six months. Since 2014, it is possible to extend it for six months provided that the other parent takes the extra weeks.",
+            "tips": "The reform has changed the official name of parental leave to \"shared provision of children's education.\"",
+            "template": "{{sel62263}}",
+            "label_NkENIklne": " ",
+            "choice_N1xNE81g2l": "4 weeks",
+            "choice_4JW4NLyg2e": "1.5 months",
+            "choice_EJr4Ukgng": "3 months",
+            "choice_418EUJe3x": "6 months",
+            "clue": "Double the amount."
+        },
+        "zh": {
+            "header": "在法国，自2014年以来，如果第二个父母接受育儿假，则育儿假的持续时间会增加。这个时期有多长？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在法国，育儿假是六个月。自2014年起，如果另一方父母需要额外的一周，则可以将其延长六个月。",
+            "tips": "改革将育儿假的正式名称改为“共同提供儿童教育”。",
+            "clue": "金额加倍。",
+            "template": "{{sel62263}}",
+            "label_NkENIklne": " ",
+            "choice_N1xNE81g2l": "4周",
+            "choice_4JW4NLyg2e": "1.5个月",
+            "choice_EJr4Ukgng": "3个月",
+            "choice_418EUJe3x": "6个月"
+        }
+    }
+}

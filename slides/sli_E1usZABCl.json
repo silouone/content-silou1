@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-31T08:44:06.372Z",
+            "updatedAt": "2016-06-17T09:13:46.024Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E1usZABCl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1usZABCl.choice_N1ryf0B0l.id",
+                        "label": "choice_N1ryf0B0l",
+                        "value": "choice_N1ryf0B0l"
+                    },
+                    {
+                        "id": "sli_E1usZABCl.choice_VyC1fAH0x.id",
+                        "label": "choice_VyC1fAH0x",
+                        "value": "choice_VyC1fAH0x"
+                    },
+                    {
+                        "id": "sli_E1usZABCl.choice_VJZlfRSCl.id",
+                        "label": "choice_VJZlfRSCl",
+                        "value": "choice_VJZlfRSCl"
+                    },
+                    {
+                        "id": "sli_E1usZABCl.choice_EkSgMCrAe.id",
+                        "label": "choice_EkSgMCrAe",
+                        "value": "choice_EkSgMCrAe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyC1fAH0x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E1usZABCl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que doit proposer un leader pour assurer un leadership pérenne ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour pérenniser son leadership, il ne faut pas oublier qu'un leader, c'est celui qui a une vision, c'est-à-dire un objectif global et à long terme.",
+            "tips": "Spécialisé dans le management et le leadership, Franck Joseph-Maurin explique qu'une vision \"se bâtit avant tout sur des éléments de votre personnalité\", comme vos valeurs, vos croyances ou votre estime de vous-même.",
+            "clue": "Elle peut être \"des choses\", \"du monde\"...",
+            "choice_N1ryf0B0l": "Un projet",
+            "choice_VyC1fAH0x": "Une vision",
+            "choice_VJZlfRSCl": "Une méthode",
+            "choice_EkSgMCrAe": "Des critères d'évaluation"
+        },
+        "en": {
+            "header": "What should a leader propose to ensure lasting leadership?",
+            "explanation": "Select the correct answer.",
+            "klf": "To sustain its leadership, we must not forget that a leader is one who has a vision, that is to say, a global and long-term goal.",
+            "tips": "Specialized in management and leadership, Franck Joseph-Maurin explains that a vision \"is built primarily on elements of your personality\", such as your values, your beliefs or your self-esteem.",
+            "clue": "It can be \"things\", \"the world\" ...",
+            "choice_N1ryf0B0l": "A project",
+            "choice_VyC1fAH0x": "A vision",
+            "choice_VJZlfRSCl": "A method",
+            "choice_EkSgMCrAe": "Evaluation criteria"
+        },
+        "de": {
+            "header": "Was sollte ein Führer anbieten, um die beständige Führung aufrecht zu erhalten?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Um Ihre Führung aufrechtzuerhalten, denken Sie daran, dass eine Führungskraft eine Vision hat, dh ein globales und langfristiges Ziel.",
+            "tips": "Franck Joseph Maurin ist auf Management und Führung spezialisiert und erklärt, dass die Vision \"in erster Linie auf den Elementen Ihrer Persönlichkeit\" wie Ihren Werten, Ihren Überzeugungen oder Ihrem Selbstwertgefühl aufbaut.",
+            "clue": "Dies können \"Dinge\", \"Menschen\" usw. sein.",
+            "choice_N1ryf0B0l": "Ein Projekt",
+            "choice_VyC1fAH0x": "Eine Vision",
+            "choice_VJZlfRSCl": "Eine Methode",
+            "choice_EkSgMCrAe": "Evaluationskriterien"
+        },
+        "es": {
+            "header": "What should a leader offer to sustain perennial leadership?",
+            "explanation": "Select the correct answer.",
+            "klf": "To sustain your leadership, remember that a leader is one who has a vision, that is to say a global and long term objective.",
+            "tips": "Specialising in management and leadership, Franck Joseph Maurin explains that vision \"is built primarily on the elements of your personality,\" such as your values, your beliefs or your self-esteem.",
+            "choice_N1ryf0B0l": "A project",
+            "choice_VyC1fAH0x": "A vision",
+            "choice_VJZlfRSCl": "A method",
+            "choice_EkSgMCrAe": "Evaluation criteria",
+            "clue": "This can be \"things\", \"people\", etc."
+        },
+        "zh": {
+            "header": "领导者应该如何保持长期领导力？",
+            "explanation": "选择正确的答案。",
+            "klf": "为了维持领导力，请记住，领导者是有远见的人，也就是全球长期目标。",
+            "tips": "Franck Joseph Maurin专注于管理和领导力，他解释说，这个愿景“主要建立在你个性的元素上”，例如你的价值观，你的信仰或你的自尊。",
+            "clue": "这可以是“事物”，“人”等。",
+            "choice_N1ryf0B0l": "一个专案",
+            "choice_VyC1fAH0x": "愿景",
+            "choice_VJZlfRSCl": "一个方法",
+            "choice_EkSgMCrAe": "评估标准"
+        }
+    }
+}

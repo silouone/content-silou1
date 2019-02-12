@@ -1,0 +1,103 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T10:37:09.225Z",
+            "updatedAt": "2016-09-06T08:54:56.371Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJYjJnJhg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_VJYjJnJhg.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_NkHQgnyhl",
+                    "choice_NJ5-W212l",
+                    "choice_4ylnAUUzZ"
+                ]
+            }
+        },
+        "universalRef": "sli_VJYjJnJhg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel terme anglais est utilisé pour désigner le fait de se renseigner sur les salaires habituellement pratiqués pour un poste auquel on postule ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Pour négocier son salaire à l'embauche, il faut réaliser un benchmark en amont. Autrement dit, il s'agit d'évaluer le salaire auquel prétendre en se renseignant sur les rémunérations pratiquées dans le même secteur d'activité, la même région et le même poste.",
+            "tips": "Selon l'Insee, les salaires parisiens sont supérieurs de 20 à 25% à ceux de la province en 2015.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Un terme marketing.",
+            "choice_NkHQgnyhl": "Un benchmark",
+            "choice_NJ5-W212l": "benchmarking",
+            "choice_4ylnAUUzZ": "benchmark"
+        },
+        "en": {
+            "header": "What English term is used to refer to the fact of inquiring about the wages usually applied for a position to which one is postulated?",
+            "explanation": "Enter your answer.",
+            "klf": "In order to negotiate your salary on hiring, you need to perform a benchmark upstream. In other words, it is a question of evaluating the salary to be claimed by inquiring into the remunerations practiced in the same sector of activity, the same region and the same position.",
+            "tips": "According to INSEE, Paris salaries are 20 to 25% higher than those in the province in 2015.",
+            "clue": "A marketing term.",
+            "choice_NkHQgnyhl": "A benchmark",
+            "choice_NJ5-W212l": "benchmarking",
+            "choice_4ylnAUUzZ": "benchmark",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Mit welchem ​​Begriff wird die Frage nach dem üblichen Gehalt für die Stelle, für die Sie sich bewerben, beschrieben?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Um bei der Einstellung über Ihr Gehalt zu verhandeln, müssen Sie zuvor einen Benchmark festlegen. Mit anderen Worten, Sie sollten das Gehalt, nach dem Sie streben, einschätzen, indem Sie sich nach der in derselben Branche, derselben Region und derselben Position gezahlten Vergütung erkundigen.",
+            "tips": "Laut Insee sind die Gehälter in Paris im Vergleich zu 2015 in den Provinzen um 20-25% höher.",
+            "clue": "Ein Marketingbegriff.",
+            "choice_NkHQgnyhl": "Ein Benchmark",
+            "choice_NJ5-W212l": "Benchmarking",
+            "choice_4ylnAUUzZ": "Benchmark",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "Which term is used to describe the act of asking what the usual salary is for the position you are applying for?",
+            "explanation": "Type your answer.",
+            "klf": "To negotiate your salary when being hired, you have to establish a benchmark beforehand. In other words, you should assess the salary to which you aspire by enquiring about the remuneration paid in the same industry, the same region and the same position.",
+            "tips": "According to Insee, Paris salaries are 20-25% higher compared with those of the provinces in 2015.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_NkHQgnyhl": "A benchmark",
+            "choice_NJ5-W212l": "benchmarking",
+            "choice_4ylnAUUzZ": "benchmark",
+            "clue": "A marketing term."
+        },
+        "zh": {
+            "header": "哪个术语用于描述询问您申请职位的通常薪水的行为？",
+            "explanation": "输入你的答案。",
+            "klf": "要在雇佣时谈判你的薪水，你必须事先建立一个基准。换句话说，您应该通过查询同一行业，同一地区和同一职位所支付的薪酬来评估您所希望的薪水。",
+            "tips": "根据Insee的数据，巴黎的工资比2015年的省份高出20-25％。",
+            "clue": "营销术语。",
+            "choice_NkHQgnyhl": "基准",
+            "choice_NJ5-W212l": "标杆",
+            "choice_4ylnAUUzZ": "基准",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

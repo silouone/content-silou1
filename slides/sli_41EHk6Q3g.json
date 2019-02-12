@@ -1,0 +1,130 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:28:01.917Z",
+            "updatedAt": "2016-09-06T11:24:58.562Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_41EHk6Q3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_41EHk6Q3g.choice_Ny92k6Q2x.id",
+                        "label": "choice_Ny92k6Q2x",
+                        "value": "choice_Ny92k6Q2x"
+                    },
+                    {
+                        "id": "sli_41EHk6Q3g.choice_VkihkTm2x.id",
+                        "label": "choice_VkihkTm2x",
+                        "value": "choice_VkihkTm2x"
+                    },
+                    {
+                        "id": "sli_41EHk6Q3g.choice_Vyt6ypm3g.id",
+                        "label": "choice_Vyt6ypm3g",
+                        "value": "choice_Vyt6ypm3g"
+                    },
+                    {
+                        "id": "sli_41EHk6Q3g.choice_NyoTkpm3g.id",
+                        "label": "choice_NyoTkpm3g",
+                        "value": "choice_NyoTkpm3g"
+                    },
+                    {
+                        "id": "sli_41EHk6Q3g.choice_412akp7he.id",
+                        "label": "choice_412akp7he",
+                        "value": "choice_412akp7he"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkihkTm2x",
+                        "choice_Vyt6ypm3g",
+                        "choice_412akp7he"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_41EHk6Q3g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment reconnaît-on un leader ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le leadership se définit comme l'influence d'un individu sur un groupe avec un objectif organisationnel, et non personnel. Le leader est reconnu par les membres du groupe qu'il mène.",
+            "tips": "Le conférencier Antonin Gaunand explique que si leader et manager ne sont pas synonymes, ce sont \"les deux faces d'une même pièce\" et ils \"sont indispensables au bon fonctionnement d'une entreprise\".",
+            "clue": "Pas d'organisation hiérarchique ni trop d'égo.",
+            "choice_Ny92k6Q2x": "Il a une fonction hiérarchique",
+            "choice_VkihkTm2x": "Il a de l'influence sur un groupe",
+            "choice_Vyt6ypm3g": "Il a la reconnaissance de ses pairs",
+            "choice_NyoTkpm3g": "Il vise des postes à responsabilités",
+            "choice_412akp7he": "Il suit un objectif organisationnel"
+        },
+        "en": {
+            "header": "How do you recognize a leader?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Leadership is defined as the influence of an individual on a group with an organizational purpose, not a personal one. The leader is recognized by the members of the group he leads.",
+            "tips": "The speaker Antonin Gaunand explains that if leader and manager are not synonymous, they are \"two sides of the same coin\" and they \"are essential for the proper functioning of a company\".",
+            "clue": "No hierarchical organization or too much ego.",
+            "choice_Ny92k6Q2x": "It has a hierarchical function",
+            "choice_VkihkTm2x": "He has influence on a group",
+            "choice_Vyt6ypm3g": "He has the recognition of his peers",
+            "choice_NyoTkpm3g": "It targets positions of responsibility",
+            "choice_412akp7he": "It follows an organizational goal"
+        },
+        "de": {
+            "header": "Wie erkennt man einen Führer?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Führung ist definiert als der Einfluss einer Person auf eine Gruppe mit einem organisatorischen, nicht einem persönlichen Ziel. Der Führer wird von den Mitgliedern der Gruppe, die er leitet, anerkannt.",
+            "tips": "Der Moderator Antonin Gaunand erklärte, dass, wenn die Wörter \"Anführer\" und \"Manager\" nicht gleichbedeutend sind, sie \"zwei Seiten derselben Medaille\" sind und sie \"für ein Unternehmen unerlässlich sind\".",
+            "clue": "Keine hierarchische Organisation oder zu viel Ego.",
+            "choice_Ny92k6Q2x": "Sie haben eine hierarchische Funktion",
+            "choice_VkihkTm2x": "Sie können Gruppen beeinflussen",
+            "choice_Vyt6ypm3g": "Sie haben die Anerkennung ihrer Altersgenossen",
+            "choice_NyoTkpm3g": "Sie streben nach verantwortungsvollen Positionen",
+            "choice_412akp7he": "Sie verfolgen ein organisatorisches Ziel"
+        },
+        "es": {
+            "header": "How do you recognise a leader?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Leadership is defined as the influence of an individual on a group with an organisational objective, not a personal one. The leader is recognised by the members of the group they lead.",
+            "tips": "The presenter Antonin Gaunand explained that if the words 'leader' and 'manager' are not synonymous, they are \"two sides of the same coin\" and they \"are essential to running a business.\"",
+            "choice_Ny92k6Q2x": "They have a hierarchical function",
+            "choice_VkihkTm2x": "They can influence groups",
+            "choice_Vyt6ypm3g": "They have the recognition of their peers",
+            "choice_NyoTkpm3g": "They aim for positions of responsibility",
+            "choice_412akp7he": "They follow an organisational goal",
+            "clue": "No hierarchical organisation nor too much ego."
+        },
+        "zh": {
+            "header": "你如何认识领导者？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "领导力被定义为个人对具有组织目标而非个人目标的群体的影响。领导者由他们领导的小组成员认可。",
+            "tips": "主持人Antonin Gaunand解释说，如果“领导者”和“经理”这两个词不是同义词，那么它们就是“同一枚硬币的两面”，而且“对于经营企业至关重要”。",
+            "clue": "没有等级制度，也没有太多的自我。",
+            "choice_Ny92k6Q2x": "它们具有分层功能",
+            "choice_VkihkTm2x": "他们可以影响群体",
+            "choice_Vyt6ypm3g": "他们得到了同龄人的认可",
+            "choice_NyoTkpm3g": "他们的目标是责任",
+            "choice_412akp7he": "他们遵循组织目标"
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T09:47:42.751Z",
+            "updatedAt": "2017-12-08T11:32:47.778Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EkqhVjk2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EkqhVjk2e.field_Vy2pBsynx.id",
+                        "type": "text",
+                        "name": "inp43950",
+                        "label": "label_Nkln6So1he",
+                        "placeholder": "placeholder_Ny~2TBoJhx"
+                    },
+                    {
+                        "id": "sli_EkqhVjk2e.field_4yW0Ssyng.id",
+                        "type": "text",
+                        "name": "inp34477",
+                        "label": "label_E1xbRBjkhx",
+                        "placeholder": "placeholder_N1W~0Soyhg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp43950",
+                        "answers": [
+                            "choice_NJMnprs12x"
+                        ]
+                    },
+                    {
+                        "fieldName": "inp34477",
+                        "answers": [
+                            "choice_E1MWABs1hl"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EkqhVjk2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appelle-t-on le fait qu'une femme ne réclame pas d'augmentation parce qu'elle attend qu'on en lui propose comme récompense de son travail ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Beaucoup de femmes souffrent du \"syndrome de la bonne élève\" : elles attendent qu'on leur propose une augmentation car elles ont bien travaillé, plutôt que de la demander. En outre, près de la moitié des femmes interrogées par le réseau EPWN ne se sentent pas armées pour négocier leur salaire.",
+            "tips": "D'après Sophie Maretto, consultante en gestion des ressources humaines, au-delà du salaire, le syndrome de la bonne élève peut provoquer des burn out. Les femmes attendent des signes de reconnaissance et accentuent leurs efforts jusqu'à les recevoir... quitte à craquer si elles ne les reçoivent pas.",
+            "template": "Le {{inp43950}} de la bonne {{inp34477}}.",
+            "clue": "Avoir 20/20, cette maladie.",
+            "label_Nkln6So1he": " ",
+            "placeholder_Ny~2TBoJhx": " ",
+            "choice_NJMnprs12x": "syndrome",
+            "label_E1xbRBjkhx": " ",
+            "placeholder_N1W~0Soyhg": " ",
+            "choice_E1MWABs1hl": "élève"
+        },
+        "en": {
+            "header": "What is the name of the fact that a woman does not claim an increase because she is waiting to be offered a reward for her work?",
+            "explanation": "Enter your answer.",
+            "klf": "Many women suffer from the \"good student syndrome\": they are waiting for an increase because they have worked well, rather than asking for it. In addition, almost half of the women interviewed by the EPWN network do not feel empowered to negotiate their salary.",
+            "tips": "According to Sophie Maretto, consultant in human resources management, beyond the salary, the syndrome of the good student can cause burn out. Women are waiting for signs of recognition and are increasing their efforts to receive them ... even if they do not receive them.",
+            "clue": "Have 20/20, this disease.",
+            "template": "The {{inp43950}} of the good {{inp34477}}.",
+            "label_Nkln6So1he": " ",
+            "label_E1xbRBjkhx": " ",
+            "choice_NJMnprs12x": "syndrome",
+            "choice_E1MWABs1hl": "high",
+            "placeholder_Ny~2TBoJhx": " ",
+            "placeholder_N1W~0Soyhg": " "
+        },
+        "de": {
+            "header": "Wie lautet der Begriff für eine Frau, die keine Gehaltserhöhung verlangt, weil sie erwartet, dass sie als Belohnung für ihre Arbeit vergeben wird?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Viele Frauen leiden unter dem \"guten Pupillensyndrom\": Sie erwarten, dass eine Gehaltserhöhung angeboten wird, weil sie gut gearbeitet haben, anstatt um eine zu bitten. Außerdem fühlte sich fast die Hälfte der vom EPWN-Netzwerk befragten Frauen nicht in der Lage, über ihr Gehalt zu verhandeln.",
+            "tips": "Laut Sophie Maretto, Beraterin für Personalmanagement, kann das gute Pupillensyndrom über das Gehalt hinaus Burnout verursachen. Frauen erwarten Anzeichen von Anerkennung und verstärken ihre Anstrengungen, um sie zu bekommen, auch wenn dies bedeutet, dass sie nachgeben, wenn sie sie nicht bekommen.",
+            "clue": "Mit 20/20 diese Krankheit.",
+            "template": "Die guten {{inp43950}} {{inp34477}}",
+            "label_Nkln6So1he": " ",
+            "label_E1xbRBjkhx": " ",
+            "choice_NJMnprs12x": "Schüler",
+            "choice_E1MWABs1hl": "Syndrom",
+            "placeholder_Ny~2TBoJhx": " ",
+            "placeholder_N1W~0Soyhg": " "
+        },
+        "es": {
+            "header": "What is the term used for a woman who does not demand a raise because she expects it to be given to her as a reward for her work?",
+            "explanation": "Type your answer.",
+            "klf": "Many women suffer from \"the good pupil syndrome\": they expect to be offered a raise because they have worked well, rather than to ask for one. In addition, nearly half of women questioned by the EPWN network did not feel capable of negotiating their salary.",
+            "tips": "According to Sophie Maretto, human resources management consultant, beyond the salary, the good pupil syndrome can cause burn out. Women expect signs of recognition and step up their efforts in order to get them, even if it means giving in if they don't get them.",
+            "template": "The good  {{inp43950}}  {{inp34477}}",
+            "label_Nkln6So1he": " ",
+            "placeholder_Ny~2TBoJhx": " ",
+            "choice_NJMnprs12x": "pupil",
+            "label_E1xbRBjkhx": " ",
+            "placeholder_N1W~0Soyhg": " ",
+            "choice_E1MWABs1hl": "syndrome",
+            "clue": "Having 20/20, this disease."
+        },
+        "zh": {
+            "header": "对于一个不要求加薪的女性来说，这个词是什么用的，因为她希望将它作为对她工作的奖励给予她？",
+            "explanation": "输入你的答案。",
+            "klf": "许多女性患有“好学生综合症”：她们希望获得加薪，因为他们运作良好，而不是要求一名。此外，接受EPWN网络询问的女性中有将近一半的人没有能力谈判他们的薪水。",
+            "tips": "据人力资源管理顾问Sophie Maretto称，超过薪水，好的学生综合症可能会导致倦怠。女性期待获得认可的迹象，并加强努力以获得它们，即使这意味着如果他们没有得到它们就会放弃。",
+            "clue": "有20/20，这种疾病。",
+            "template": "好{{inp43950}} {{inp34477}}",
+            "label_Nkln6So1he": " ",
+            "label_E1xbRBjkhx": " ",
+            "choice_NJMnprs12x": "瞳孔",
+            "choice_E1MWABs1hl": "综合征",
+            "placeholder_Ny~2TBoJhx": " ",
+            "placeholder_N1W~0Soyhg": " "
+        }
+    }
+}

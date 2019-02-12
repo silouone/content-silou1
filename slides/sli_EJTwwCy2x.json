@@ -1,0 +1,135 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T13:21:13.162Z",
+            "updatedAt": "2016-09-06T09:31:58.489Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJTwwCy2x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel94707",
+                        "label": "label_NkGtkCDz~",
+                        "items": [
+                            {
+                                "text": "choice_4klzFyCPf~",
+                                "value": "choice_4klzFyCPf~"
+                            },
+                            {
+                                "text": "choice_VJbMtkAwM~",
+                                "value": "choice_VJbMtkAwM~"
+                            },
+                            {
+                                "text": "choice_E16s1RvfW",
+                                "value": "choice_E16s1RvfW"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel94707",
+                        "answers": [
+                            "choice_E16s1RvfW"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EJTwwCy2x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle expression désigne le cumul du travail et des tâches domestiques pour les femmes actives ? ",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les femmes continuent d'assumer la majorité des tâches parentales et domestiques, y compris celles qui travaillent. Les femmes actives subissent donc une \"double journée\" : au travail, puis à la maison.",
+            "tips": "\"Le récit de journées de femmes qui travaillent (...) ne laisse apparaître aucun moment flou dès lors qu'elles sont chargées d'époux ou d'enfants\", écrit la sociologue Anne-Marie Devreux.",
+            "template": "{{sel94707}}",
+            "clue": "48h en une journée…",
+            "label_4klTADR13l": " ",
+            "placeholder_NJ~aADAynx": " ",
+            "label_NkGtkCDz~": " ",
+            "choice_4klzFyCPf~": "Journée marathon",
+            "choice_VJbMtkAwM~": "Métro-boulot-ménage",
+            "choice_E16s1RvfW": "Double journée"
+        },
+        "en": {
+            "header": "What expression refers to the combination of work and domestic tasks for working women?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Women continue to carry out the majority of parental and domestic tasks, including those who work. Active women thus undergo a \"double day\": at work, then at home.",
+            "tips": "\"The story of days of working women (...) does not reveal any vague moment when they are loaded with husbands or children,\" writes sociologist Anne-Marie Devreux.",
+            "clue": "48h in one day ...",
+            "template": "{{sel94707}}",
+            "label_NkGtkCDz~": " ",
+            "choice_4klzFyCPf~": "Marathon day",
+            "choice_VJbMtkAwM~": "Metro-job-household",
+            "choice_E16s1RvfW": "Double day",
+            "label_4klTADR13l": " ",
+            "placeholder_NJ~aADAynx": " "
+        },
+        "de": {
+            "header": "Welcher Begriff bezieht sich auf die Kombination von Arbeit und häuslichen Pflichten für berufstätige Frauen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Frauen übernehmen auch weiterhin die Mehrheit der Eltern- und Haushaltsaufgaben, auch für die, die arbeiten. Aktive Frauen ertragen deshalb einen \"doppelten Tag\" bei der Arbeit und zu Hause.",
+            "tips": "\"Die Geschichte der Arbeitstage von Frauen (...) lässt keinen einzigen unkonzentrierten Moment zu, wenn sie für ihren Ehepartner oder ihre Kinder verantwortlich sind\", schreibt die Soziologin Anne-Marie Devreux.",
+            "clue": "48 Stunden an einem Tag ...",
+            "template": "{{sel94707}}",
+            "label_NkGtkCDz~": " ",
+            "choice_4klzFyCPf~": "Marathon-Tag",
+            "choice_VJbMtkAwM~": "Metro-Job-Hausarbeit",
+            "choice_E16s1RvfW": "Doppelter Tag",
+            "label_4klTADR13l": " ",
+            "placeholder_NJ~aADAynx": " "
+        },
+        "es": {
+            "header": "What term refers to the combination of work and domestic duties for working women? ",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Women continue to take on the majority of parenting and household tasks, even for those who work. Active women therefore endure a \"double day\" at work and at home.",
+            "tips": "\"The story of working women's days (...) does not allow a single unfocused moment once they are responsible for their spouse or children,\" writes the sociologist Anne-Marie Devreux.",
+            "template": "{{sel94707}}",
+            "label_4klTADR13l": " ",
+            "placeholder_NJ~aADAynx": " ",
+            "label_NkGtkCDz~": " ",
+            "choice_4klzFyCPf~": "Marathon day",
+            "choice_VJbMtkAwM~": "Metro-job-housework",
+            "choice_E16s1RvfW": "Double day",
+            "clue": "48 hours in one day..."
+        },
+        "zh": {
+            "header": "什么术语是指职业女性的工作和家务责任的结合？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "妇女继续承担大部分的养育和家务，即使是工作的人也是如此。因此，活跃的女性在工作和家庭中度过了“双重日子”。",
+            "tips": "社会学家Anne-Marie Devreux写道：“职业女性的日子（...）的故事，一旦他们对其配偶或孩子负责，就不允许有一个不专心的时刻。”",
+            "clue": "一天48小时......",
+            "template": "{{Sel94707}}",
+            "label_NkGtkCDz~": " ",
+            "choice_4klzFyCPf~": "马拉松日",
+            "choice_VJbMtkAwM~": "地铁工作，家务",
+            "choice_E16s1RvfW": "双天",
+            "label_4klTADR13l": " ",
+            "placeholder_NJ~aADAynx": " "
+        }
+    }
+}
