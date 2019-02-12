@@ -1,0 +1,150 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:46:21.644Z",
+            "updatedAt": "2017-12-01T11:08:38.162Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJ2oV2Xnl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJ2oV2Xnl.choice_N1xAQBhQng.id",
+                        "label": "choice_N1xAQBhQng",
+                        "value": "choice_N1xAQBhQng",
+                        "media": "med_N1C7BhQ2e"
+                    },
+                    {
+                        "id": "sli_VJ2oV2Xnl.choice_Eyx1rS2Qhl.id",
+                        "label": "choice_Eyx1rS2Qhl",
+                        "value": "choice_Eyx1rS2Qhl",
+                        "media": "med_N1ySHnmne"
+                    },
+                    {
+                        "id": "sli_VJ2oV2Xnl.choice_41xlHB3Xng.id",
+                        "label": "choice_41xlHB3Xng",
+                        "value": "choice_41xlHB3Xng",
+                        "media": "med_41xSS3m2g"
+                    },
+                    {
+                        "id": "sli_VJ2oV2Xnl.choice_NJzeSH37ne.id",
+                        "label": "choice_NJzeSH37ne",
+                        "value": "choice_NJzeSH37ne",
+                        "media": "med_V1~err3mne"
+                    },
+                    {
+                        "id": "sli_VJ2oV2Xnl.choice_N1xVHr2m2x.id",
+                        "label": "choice_N1xVHr2m2x",
+                        "value": "choice_N1xVHr2m2x",
+                        "media": "med_EyNBHnQ2l"
+                    },
+                    {
+                        "id": "sli_VJ2oV2Xnl.choice_V1xX3B3Q2g.id",
+                        "label": "choice_V1xX3B3Q2g",
+                        "value": "choice_V1xX3B3Q2g",
+                        "media": "med_VJm3B2Xnx"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41xlHB3Xng",
+                        "choice_N1xVHr2m2x",
+                        "choice_V1xX3B3Q2g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VJ2oV2Xnl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Lesquels de ces réseaux sont dédiés aux professionnels ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Internet est utile pour développer son réseau. En effet, il existe des réseaux sociaux professionnels, comme LinkedIn, Viadeo ou Xing. Mais attention, ne vous contentez pas du virtuel, il est important de rencontrer vos nouvelles relations.",
+            "tips": "En 2015, 34,5% des Français déclaraient utiliser les réseaux sociaux pour chercher du travail, moins que la moyenne des 43 pays étudiés (49%) (source : étude Randstard Award 2015).",
+            "clue": "Sur lesquels ne postez-vous jamais de photo de vos soirées ?",
+            "choice_N1xAQBhQng": "Facebook",
+            "choice_Eyx1rS2Qhl": "Instagram",
+            "choice_41xlHB3Xng": "LinkedIn",
+            "choice_NJzeSH37ne": "Snapchat",
+            "choice_N1xVHr2m2x": "Viadeo",
+            "choice_V1xX3B3Q2g": "Xing",
+            "choice_NJlJQOY8o~": ""
+        },
+        "en": {
+            "header": "Which of these networks are dedicated to professionals?",
+            "explanation": "Select the correct answers.",
+            "klf": "Internet is useful for developing your network. Indeed, there are professional social networks, like LinkedIn, Viadeo or Xing. But be careful, do not settle for the virtual, it is important to meet your new relationships.",
+            "tips": "In 2015, 34.5% of French people said they used social networks to look for work, less than the average of the 43 countries studied (49%) (source: Randstard Award 2015).",
+            "clue": "Where do you never post pictures of your parties?",
+            "choice_N1xAQBhQng": "Facebook",
+            "choice_Eyx1rS2Qhl": "Instagram",
+            "choice_41xlHB3Xng": "LinkedIn",
+            "choice_NJzeSH37ne": "snapchat",
+            "choice_N1xVHr2m2x": "Viadeo",
+            "choice_V1xX3B3Q2g": "Xing",
+            "choice_NJlJQOY8o~": ""
+        },
+        "de": {
+            "header": "Welches dieser Netzwerke ist für Profis gedacht?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Das Internet ist nützlich für die Entwicklung Ihres Netzwerks. In der Tat gibt es professionelle soziale Netzwerke wie LinkedIn, Xing oder Viadeo. Aber seien Sie vorsichtig, beschränken Sie sich nicht darauf, sie online zu treffen. Sie müssen tatsächlich Ihre neuen Geschäftskontakte treffen.",
+            "tips": "Im Jahr 2015 gaben 34,5% der Franzosen an, dass sie soziale Netzwerke nutzen, um Arbeit zu finden, weniger als der Durchschnitt der 43 untersuchten Länder (49%). (Quelle: Studie Randstard Award 2015)",
+            "clue": "Netzwerke, auf denen Sie niemals Ihre Partyfotos posten würden.",
+            "choice_N1xAQBhQng": "Facebook",
+            "choice_Eyx1rS2Qhl": "Instagram",
+            "choice_41xlHB3Xng": "LinkedIn",
+            "choice_NJzeSH37ne": "Snapchat",
+            "choice_N1xVHr2m2x": "Viadeo",
+            "choice_V1xX3B3Q2g": "Xing",
+            "choice_NJlJQOY8o~": ""
+        },
+        "es": {
+            "header": "Which of these networks are dedicated to professionals?",
+            "explanation": "Select the correct answers.",
+            "klf": "The internet is useful for developing your network. In fact, there are professional social networks like LinkedIn, Xing or Viadeo. But be careful, do not limit yourself to meeting them on-line, you need to actually meet your new business contacts.",
+            "tips": "In 2015, 34.5% of French people stated that they use social networks to find work, less than the average of the 43 countries included in the study (49%). (Source: study Randstard Award 2015)",
+            "choice_N1xAQBhQng": "Facebook",
+            "choice_Eyx1rS2Qhl": "Instagram",
+            "choice_41xlHB3Xng": "LinkedIn",
+            "choice_NJzeSH37ne": "Snapchat",
+            "choice_N1xVHr2m2x": "Viadeo",
+            "choice_V1xX3B3Q2g": "Xing",
+            "clue": "Networks on which you would never post your party photos.",
+            "choice_NJlJQOY8o~": ""
+        },
+        "zh": {
+            "header": "这些网络中哪些专用于专业人士？",
+            "explanation": "选择正确的答案。",
+            "klf": "互联网对于开发网络非常有用。事实上，有LinkedIn，Xing或Viadeo等专业社交网络。但要小心，不要限制自己在网上与他们见面，你需要真正满足你的新业务联系。",
+            "tips": "2015年，34.5％的法国人表示他们使用社交网络寻找工作，低于研究中包括的43个国家的平均值（49％）。 （来源：研究Randstard Award 2015）",
+            "clue": "您永远不会发布派对照片的网络。",
+            "choice_N1xAQBhQng": "Facebook的",
+            "choice_Eyx1rS2Qhl": "Instagram的",
+            "choice_41xlHB3Xng": "LinkedIn",
+            "choice_NJzeSH37ne": "snapchat",
+            "choice_N1xVHr2m2x": "Viadeo",
+            "choice_V1xX3B3Q2g": "Xing",
+            "choice_NJlJQOY8o~": ""
+        }
+    }
+}

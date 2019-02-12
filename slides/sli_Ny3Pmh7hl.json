@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:37:14.112Z",
+            "updatedAt": "2017-12-01T11:07:54.217Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Ny3Pmh7hl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ny3Pmh7hl.choice_4k21Vh73e.id",
+                        "label": "choice_4k21Vh73e",
+                        "value": "choice_4k21Vh73e"
+                    },
+                    {
+                        "id": "sli_Ny3Pmh7hl.choice_VypkVnmhl.id",
+                        "label": "choice_VypkVnmhl",
+                        "value": "choice_VypkVnmhl"
+                    },
+                    {
+                        "id": "sli_Ny3Pmh7hl.choice_NJRk42Q2x.id",
+                        "label": "choice_NJRk42Q2x",
+                        "value": "choice_NJRk42Q2x"
+                    },
+                    {
+                        "id": "sli_Ny3Pmh7hl.choice_Nykx437nl.id",
+                        "label": "choice_Nykx437nl",
+                        "value": "choice_Nykx437nl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJRk42Q2x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Ny3Pmh7hl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la bonne zone géographique à définir pour un réseau professionnel ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour bien choisir votre réseau professionnel, vous devez réfléchir à plusieurs critères, dont la zone géographique. Votre réseau peut couvrir votre ville, votre région, un pays ou même un continent. Par exemple, l'<i>European Professional Women's Network</i> (EPWN) rassemble 3.500 membres à travers l'Europe. Tout dépend de vos besoins.",
+            "tips": "L'EPWN organise plus de 600 événements par an à travers les 25 villes dans lesquelles il est implanté.",
+            "clue": "À chacun son réseau idéal.",
+            "choice_4k21Vh73e": "La région où l'on travaille",
+            "choice_VypkVnmhl": "Le continent",
+            "choice_NJRk42Q2x": "Tout dépend de mes besoins",
+            "choice_Nykx437nl": "Notre ville d'origine"
+        },
+        "en": {
+            "header": "What is the good geographical area to define for a professional network?",
+            "explanation": "Select the correct answer.",
+            "klf": "To choose your professional network, you must think about several criteria, including the geographical area. Your network may cover your city, your region, a country or even a continent. For example, the <i>European Professional Women&#39;s Network</i> (EPWN) brings together 3,500 members across Europe. It all depends on your needs.",
+            "tips": "The EPWN organizes more than 600 events a year through the 25 cities in which it operates.",
+            "clue": "To each his ideal network.",
+            "choice_4k21Vh73e": "The region where we work",
+            "choice_VypkVnmhl": "The continent",
+            "choice_NJRk42Q2x": "Everything depends on my needs",
+            "choice_Nykx437nl": "Our hometown"
+        },
+        "de": {
+            "header": "Was kann als das richtige geografische Gebiet für ein professionelles Netzwerk definiert werden?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Um Ihr professionelles Netzwerk auszuwählen, müssen Sie mehrere Kriterien berücksichtigen, einschließlich des geografischen Bereichs. Ihr Netzwerk kann Ihre Stadt, Region, Land oder sogar einen Kontinent abdecken. Das European Professional Women's Network (EPWN) vereint beispielsweise 3.500 Mitglieder in ganz Europa. Es hängt alles von Ihren spezifischen Bedürfnissen ab.",
+            "tips": "EPWN organisiert jährlich mehr als 600 Veranstaltungen in den 25 Städten, in denen EPWN tätig ist.",
+            "clue": "Jeder hat ein eigenes ideales Netzwerk.",
+            "choice_4k21Vh73e": "Die Region, in der Sie arbeiten",
+            "choice_VypkVnmhl": "Der Kontinent",
+            "choice_NJRk42Q2x": "Es hängt alles davon ab, was Sie brauchen",
+            "choice_Nykx437nl": "Stadt des Ursprungs"
+        },
+        "es": {
+            "header": "What can be defined as the right geographical area for a professional network?",
+            "explanation": "Select the correct answer.",
+            "klf": "To choose your professional network, you need to consider several criteria, including the geographic area. Your network can cover your city, region, country or even a continent. For example, the European Professional Women's Network (EPWN) brings together 3,500 members across Europe. It all depends on your specific needs.",
+            "tips": "EPWN organises more than 600 events a year across the 25 towns in which it operates.",
+            "choice_4k21Vh73e": "The region where you work",
+            "choice_VypkVnmhl": "The continent",
+            "choice_NJRk42Q2x": "It all depends on what you need",
+            "choice_Nykx437nl": "Town of origin",
+            "clue": "Everyone has their own ideal network."
+        },
+        "zh": {
+            "header": "什么可以被定义为专业网络的正确地理区域？",
+            "explanation": "选择正确的答案。",
+            "klf": "要选择专业网络，您需要考虑几个标准，包括地理区域。您的网络可以覆盖您的城市，地区，国家甚至是大陆。例如，欧洲职业女性网络（EPWN）汇集了欧洲的3,500名会员。这一切都取决于您的具体需求。",
+            "tips": "EPWN每年在其经营的25个城镇组织600多场活动。",
+            "clue": "每个人都有自己理想的网络。",
+            "choice_4k21Vh73e": "你工作的地区",
+            "choice_VypkVnmhl": "大陆",
+            "choice_NJRk42Q2x": "这一切都取决于你需要什么",
+            "choice_Nykx437nl": "原产地"
+        }
+    }
+}

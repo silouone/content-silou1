@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-20T15:53:34.595Z",
+            "updatedAt": "2016-09-05T16:20:42.570Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "amandinelemoult21",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1vgZXuMZ",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1vgZXuMZ.choice_410abm-zZ.id",
+                        "label": "choice_410abm-zZ",
+                        "value": "choice_410abm-zZ"
+                    },
+                    {
+                        "id": "sli_N1vgZXuMZ.choice_Vy1AZ7uzZ.id",
+                        "label": "choice_Vy1AZ7uzZ",
+                        "value": "choice_Vy1AZ7uzZ"
+                    },
+                    {
+                        "id": "sli_N1vgZXuMZ.choice_4yg0WmOzb.id",
+                        "label": "choice_4yg0WmOzb",
+                        "value": "choice_4yg0WmOzb"
+                    },
+                    {
+                        "id": "sli_N1vgZXuMZ.choice_VklxC~7dGZ.id",
+                        "label": "choice_VklxC~7dGZ",
+                        "value": "choice_VklxC~7dGZ"
+                    },
+                    {
+                        "id": "sli_N1vgZXuMZ.choice_4y6Zf7-MW.id",
+                        "label": "choice_4y6Zf7-MW",
+                        "value": "choice_4y6Zf7-MW"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yg0WmOzb",
+                        "choice_4y6Zf7-MW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_N1vgZXuMZ"
+    },
+    "locales": {
+        "fr": {
+            "header": "En France, à qui s’adresse le réseau Cyberelles ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les réseaux peuvent être internes aux entreprises, comme Elles@Coke chez Coca ou Women in Networking chez Engie. Mais ils peuvent aussi regrouper les anciens élèves d’une même école ou bien les membres d’un même secteur. C’est le cas de Cyberelles, qui cible les femmes des métiers du numérique et des nouveaux médias.",
+            "tips": "L’un des plus anciens réseaux féminins d’entreprise est né dans un groupe informatique : les Elles d’IBM.",
+            "clue": "Assez large.",
+            "choice_410abm-zZ": "Les salariées de Google",
+            "choice_Vy1AZ7uzZ": "Les développeuses",
+            "choice_4yg0WmOzb": "Les femmes des métiers du numérique",
+            "choice_VklxC~7dGZ": "Les salariées de start-up",
+            "choice_4y6Zf7-MW": "Les femmes travaillant dans les nouveaux médias"
+        },
+        "en": {
+            "header": "In France, who is the Cyberelles network aimed at?",
+            "explanation": "Select the correct answers.",
+            "klf": "Networks can be internal to companies, like Elles @ Coke at Coca or Women in Networking at Engie. But they can also bring together former students from the same school or members of the same sector. This is the case of Cyberelles, which targets women in the digital and new media professions.",
+            "tips": "One of the oldest women's business networks was born in a computer group: the Elles of IBM.",
+            "clue": "Pretty wide.",
+            "choice_410abm-zZ": "Employees of Google",
+            "choice_Vy1AZ7uzZ": "The processors",
+            "choice_4yg0WmOzb": "Women in the digital professions",
+            "choice_VklxC~7dGZ": "The employees of start-ups",
+            "choice_4y6Zf7-MW": "Women working in new media"
+        },
+        "de": {
+            "header": "An wen richtet sich das Netzwerk Cyberelles in Frankreich?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Netzwerke können unternehmensintern sein, wie Elles @ Coke bei Coca Cola oder Women in Networking bei Engie. Sie können aber auch ehemalige Schüler derselben Schule oder Mitglieder derselben Branche zusammenbringen. Dies ist der Fall bei Cyberelles, die sich an Frauen in digitalen und neuen Medienunternehmen richtet.",
+            "tips": "Innerhalb einer Computergruppe wurde eines der ältesten Frauennetzwerke für Frauen gegründet: les Elles d'IBM.",
+            "clue": "Ziemlich groß.",
+            "choice_410abm-zZ": "Die Mitarbeiter von Google",
+            "choice_Vy1AZ7uzZ": "Softwareentwickler",
+            "choice_4yg0WmOzb": "Frauen im digitalen Geschäft",
+            "choice_VklxC~7dGZ": "Die Mitarbeiter von Start-ups",
+            "choice_4y6Zf7-MW": "Frauen arbeiten in neuen Medien"
+        },
+        "es": {
+            "header": "In France, who does the network Cyberelles target?",
+            "explanation": "Select the correct answers.",
+            "klf": "Networks can be internal to enterprises, such as Elles@Coke at Coca Cola or Women in Networking at Engie. But they can also bring together former students from the same school or members of the same sector. This is the case with Cyberelles, which targets women in digital and new media businesses.",
+            "tips": "One of the oldest women's business networks was established within a computer group: les Elles d'IBM.",
+            "choice_410abm-zZ": "The employees of Google",
+            "choice_Vy1AZ7uzZ": "Software developers",
+            "choice_4yg0WmOzb": "Women in the digital business",
+            "choice_VklxC~7dGZ": "The employees of start-ups",
+            "choice_4y6Zf7-MW": "Women working in new media",
+            "clue": "Quite large."
+        },
+        "zh": {
+            "header": "在法国，Cyber​​elles网络的目标是谁？",
+            "explanation": "选择正确的答案。",
+            "klf": "网络可以是企业的内部网络，例如可口可乐的Elles @ Coke或Engie的网络女性。但他们也可以将来自同一所学校的前学生或同一部门的成员聚集在一起。 Cyber​​elles就是这种情况，它针对数字和新媒体业务中的女性。",
+            "tips": "最古老的女性商业网络之一是在一个计算机集团内建立的：les Elles d'IBM。",
+            "clue": "相当大。",
+            "choice_410abm-zZ": "Google的员工",
+            "choice_Vy1AZ7uzZ": "软件开发者",
+            "choice_4yg0WmOzb": "妇女在数字业务",
+            "choice_VklxC~7dGZ": "初创企业的员工",
+            "choice_4y6Zf7-MW": "在新媒体工作的妇女"
+        }
+    }
+}

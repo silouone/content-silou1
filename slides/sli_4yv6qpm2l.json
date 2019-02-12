@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:15:58.251Z",
+            "updatedAt": "2016-03-31T08:40:19.047Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yv6qpm2l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4yv6qpm2l.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_4kims6mng"
+                ]
+            }
+        },
+        "universalRef": "sli_4yv6qpm2l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Un manager doit avoir un objectif global à long terme. Autrement dit, il doit proposer une ...",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Pour pérenniser son leadership, il ne faut pas oublier qu'un leader, c'est celui qui a une vision, c'est-à-dire un objectif global et à long terme.",
+            "tips": "Spécialisé dans le management et le leadership, Franck Joseph-Maurin explique qu'une vision \"se bâtit avant tout sur des éléments de votre personnalité\", comme vos valeurs, vos croyances ou votre estime de vous-même.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Elle peut être \"des choses\", \"du monde\"...",
+            "choice_4kims6mng": "vision"
+        },
+        "en": {
+            "header": "A manager must have a long-term overall goal. In other words, he must propose a ...",
+            "explanation": "Enter your answer.",
+            "klf": "To sustain its leadership, we must not forget that a leader is one who has a vision, that is to say, a global and long-term goal.",
+            "tips": "Specialized in management and leadership, Franck Joseph-Maurin explains that a vision \"is built primarily on elements of your personality\", such as your values, your beliefs or your self-esteem.",
+            "clue": "It can be \"things\", \"the world\" ...",
+            "choice_4kims6mng": "vision",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Ein Manager muss ein langfristiges Gesamtziel haben. Mit anderen Worten, er muss einen Vorschlag machen ...",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Um seine Führung zu behaupten, dürfen wir nicht vergessen, dass eine Führungskraft eine Vision hat, dh ein globales und langfristiges Ziel.",
+            "tips": "Franck Joseph-Maurin ist auf Management und Führung spezialisiert und erklärt, dass eine Vision \"in erster Linie auf Elementen Ihrer Persönlichkeit aufbaut\", wie Ihren Werten, Ihrem Glauben oder Ihrem Selbstwertgefühl.",
+            "clue": "Es kann \"Dinge\" sein, \"die Welt\" ...",
+            "choice_4kims6mng": "Vision",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "Un manager doit avoir un objectif global à long terme. Autrement dit, il doit proposer une ...",
+            "explanation": "Type your answer.",
+            "klf": "Pour pérenniser son leadership, il ne faut pas oublier qu'un leader, c'est celui qui a une vision, c'est-à-dire un objectif global et à long terme.",
+            "tips": "Spécialisé dans le management et le leadership, Franck Joseph-Maurin explique qu'une vision \"se bâtit avant tout sur des éléments de votre personnalité\", comme vos valeurs, vos croyances ou votre estime de vous-même.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_4kims6mng": "vision",
+            "clue": "Elle peut être \"des choses\", \"du monde\"..."
+        },
+        "zh": {
+            "header": "经理必须有一个长期的总体目标。换句话说，他必须提出......",
+            "explanation": "输入你的答案。",
+            "klf": "为了保持领导地位，我们不能忘记，领导者是有远见的人，也就是说，是一个全球性的长期目标。",
+            "tips": "Franck Joseph-Maurin专注于管理和领导力，他解释说“愿景主要建立在你的个性元素上”，例如你的价值观，你的信仰或你的自尊。",
+            "clue": "它可以是“事物”，“世界”......",
+            "choice_4kims6mng": "视力",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

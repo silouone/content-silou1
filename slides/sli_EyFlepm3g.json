@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:31:04.753Z",
+            "updatedAt": "2016-09-06T11:27:02.992Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyFlepm3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel84616",
+                        "label": "label_NkU5lTmhe",
+                        "items": [
+                            {
+                                "text": "choice_41gUcx6Qnl",
+                                "value": "choice_41gUcx6Qnl"
+                            },
+                            {
+                                "text": "choice_E1ZU5lTQ2g",
+                                "value": "choice_E1ZU5lTQ2g"
+                            },
+                            {
+                                "text": "choice_VJOcl6Qhx",
+                                "value": "choice_VJOcl6Qhx"
+                            },
+                            {
+                                "text": "choice_VyKqeaQhg",
+                                "value": "choice_VyKqeaQhg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel84616",
+                        "answers": [
+                            "choice_E1ZU5lTQ2g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EyFlepm3g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans notre culture, quels types de schémas sont liés au commandement ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pendant longtemps, le leadership a été considéré comme l'apanage des hommes. Selon le coach Pierre Blanc-Sahnoun, \"le référentiel culturel du management est masculin\" et \"les schémas liés au commandement sont des schémas guerriers\".",
+            "tips": "Certains dirigeants développent même ce que Marie Pezé appelle \"le management par la peur\", ce qui peut produire des résultats à court terme mais \"disloque les compétences\" (source : Psychologies).",
+            "template": "Des schémas   {{sel84616}}   .",
+            "clue": "Arès, Mars...",
+            "label_NkU5lTmhe": " ",
+            "choice_41gUcx6Qnl": "féminins",
+            "choice_E1ZU5lTQ2g": "guerriers",
+            "choice_VJOcl6Qhx": "compréhensifs",
+            "choice_VyKqeaQhg": "libertaires"
+        },
+        "en": {
+            "header": "In our culture, what types of patterns are related to command?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "For a long time, leadership has been considered as the preserve of men. According to coach Pierre Blanc-Sahnoun, \"the cultural referential of management is masculine\" and \"the schemas linked to the command are warrior schemes\".",
+            "tips": "Some leaders even develop what Marie Pezé calls \"management by fear\", which can produce results in the short term but \"dislocates skills\" (source: Psychologies).",
+            "clue": "Arès, Mars ...",
+            "template": "Diagrams {{sel84616}}.",
+            "label_NkU5lTmhe": " ",
+            "choice_41gUcx6Qnl": "female",
+            "choice_E1ZU5lTQ2g": "warriors",
+            "choice_VJOcl6Qhx": "understanding",
+            "choice_VyKqeaQhg": "libertarians"
+        },
+        "de": {
+            "header": "Welche Haltung hat in unserer Kultur mit Führung zu tun?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Die Führung galt lange Zeit als Männerdomäne. Dem Trainer Pierre Blanc-Sahnoun zufolge \"ist der kulturelle Bezugsrahmen für das Management männlich\" und die \"Haltung, die mit dem Kommandieren verbunden ist, sind die Einstellungen der Krieger\".",
+            "tips": "Einige Führungskräfte entwickeln sogar das, was Mary Pezé als \"Management durch Angst\" bezeichnet, was kurzfristige Ergebnisse bringen kann, aber \"Fähigkeiten demontiert\". (Quelle: Psychologien)",
+            "clue": "Ares, Mars usw.",
+            "template": "{{sel84616}} Einstellungen",
+            "label_NkU5lTmhe": " ",
+            "choice_41gUcx6Qnl": "Weiblich",
+            "choice_E1ZU5lTQ2g": "Krieger",
+            "choice_VJOcl6Qhx": "Tolerant",
+            "choice_VyKqeaQhg": "Libertarian"
+        },
+        "es": {
+            "header": "In our culture, what types of attitude are related to leadership?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "For a long time leadership was considered a man's domain. According to the coach Pierre Blanc-Sahnoun, \"the cultural frame of reference for management is masculine\" and the \"attitudes linked to commanding are warrior attitudes\".",
+            "tips": "Some leaders even develop what Mary Pezé calls \"management by fear\" which can produce short-term results but \"dismantles skills.\" (Source: Psychologies)",
+            "template": "{{sel84616}}  attitudes",
+            "label_NkU5lTmhe": " ",
+            "choice_41gUcx6Qnl": "Female",
+            "choice_E1ZU5lTQ2g": "Warrior",
+            "choice_VJOcl6Qhx": "Tolerant",
+            "choice_VyKqeaQhg": "Libertarian",
+            "clue": "Ares, Mars, etc."
+        },
+        "zh": {
+            "header": "在我们的文化中，什么类型的态度与领导力有关？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "很长一段时间，领导被认为是男人的领域。根据教练Pierre Blanc-Sahnoun的说法，“管理的文化参考框架是男性化的”，“与指挥相关的态度是战士的态度”。",
+            "tips": "一些领导人甚至发展了玛丽·佩齐所说的“恐惧管理”，这可以产生短期结果，但“摧毁技能”。 （来源：心理学）",
+            "clue": "战神，火星等",
+            "template": "{{sel84616}}态度",
+            "label_NkU5lTmhe": " ",
+            "choice_41gUcx6Qnl": "女",
+            "choice_E1ZU5lTQ2g": "战士",
+            "choice_VJOcl6Qhx": "宽容",
+            "choice_VyKqeaQhg": "自由意志"
+        }
+    }
+}

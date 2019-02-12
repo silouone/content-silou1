@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:48:18.150Z",
+            "updatedAt": "2016-08-29T16:14:35.788Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJB4I3Qhg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_VJB4I3Qhg.field_41q98hXhe.id",
+                        "type": "text",
+                        "name": "inp82519",
+                        "label": "label_E1eqc8hX2e",
+                        "placeholder": "placeholder_4y~c5Uh7hg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp82519",
+                        "answers": [
+                            "choice_4yG9cIn72l"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VJB4I3Qhg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Il existe de nombreux lieux où faire des rencontres professionnelles. Un exemple ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Vous pouvez élargir votre réseau à de nombreuses occasions, par exemple lors d'afterwork ou de conférences. Ce peut aussi être dans des espaces de coworking.",
+            "tips": "En 2013, on comptait 120 espaces de coworking dans toute la France (source : Challenge, 2013).",
+            "template": "Les espaces de   {{inp82519}}   .",
+            "clue": "Dans la langue de Shakespeare.",
+            "label_E1eqc8hX2e": " ",
+            "placeholder_4y~c5Uh7hg": " ",
+            "choice_4yG9cIn72l": "coworking"
+        },
+        "en": {
+            "header": "There are many places to meet professionals. An example ?",
+            "explanation": "Enter your answer.",
+            "klf": "You can expand your network on many occasions, for example afterwork or conferences. It can also be in coworking spaces.",
+            "tips": "In 2013, there were 120 coworking spaces throughout France (source: Challenge, 2013).",
+            "clue": "In the language of Shakespeare.",
+            "template": "The spaces of {{inp82519}}.",
+            "label_E1eqc8hX2e": " ",
+            "choice_4yG9cIn72l": "coworking",
+            "placeholder_4y~c5Uh7hg": " "
+        },
+        "de": {
+            "header": "Es gibt viele Orte, an denen Sie professionelle Meetings abhalten können. Ein Beispiel?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Es gibt viele Möglichkeiten, Ihr Netzwerk zu erweitern, zum Beispiel nach der Arbeit oder auf Konferenzen. Es kann sich auch in Arbeitsräumen befinden.",
+            "tips": "Im Jahr 2013 gab es in ganz Frankreich 120 Arbeitsplätze. (Quelle: Herausforderung 2013)",
+            "clue": "In der Sprache von Shakespeare.",
+            "template": "{{inp82519}}",
+            "label_E1eqc8hX2e": " ",
+            "choice_4yG9cIn72l": "zusammenarbeiten",
+            "placeholder_4y~c5Uh7hg": " "
+        },
+        "es": {
+            "header": "There are many places where you can have professional meetings. An example?",
+            "explanation": "Type your answer.",
+            "klf": "There are plenty of opportunities to expand your network, for example after work or at conferences. It may also be in co-working spaces.",
+            "tips": "In 2013, there were 120 co-working spaces throughout France. (Source: Challenge, 2013)",
+            "template": "{{inp82519}}",
+            "label_E1eqc8hX2e": " ",
+            "placeholder_4y~c5Uh7hg": " ",
+            "choice_4yG9cIn72l": "co-working",
+            "clue": "In the language of Shakespeare."
+        },
+        "zh": {
+            "header": "有很多地方可以举办专业会议。一个例子？",
+            "explanation": "输入你的答案。",
+            "klf": "有很多机会可以扩展您的网络，例如在工作或会议之后。它也可能在共同工作的空间。",
+            "tips": "2013年，法国共有120个共同工作空间。 （资料来源：Challenge，2013）",
+            "clue": "用莎士比亚的语言。",
+            "template": "{{Inp82519}}",
+            "label_E1eqc8hX2e": " ",
+            "choice_4yG9cIn72l": "工作伙伴",
+            "placeholder_4y~c5Uh7hg": " "
+        }
+    }
+}

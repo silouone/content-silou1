@@ -1,0 +1,146 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:59:18.376Z",
+            "updatedAt": "2017-12-30T14:22:44.682Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkMbtU0og"
+            ],
+            "status": "draft",
+            "modifiedBy": "ValentineMichaud",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Nk6jUpmhx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Nk6jUpmhx.choice_EJvzD67ng.id",
+                        "label": "choice_EJvzD67ng",
+                        "value": "choice_EJvzD67ng"
+                    },
+                    {
+                        "id": "sli_Nk6jUpmhx.choice_NkTfwamnx.id",
+                        "label": "choice_NkTfwamnx",
+                        "value": "choice_NkTfwamnx"
+                    },
+                    {
+                        "id": "sli_Nk6jUpmhx.choice_4k~Qva7ng.id",
+                        "label": "choice_4k~Qva7ng",
+                        "value": "choice_4k~Qva7ng"
+                    },
+                    {
+                        "id": "sli_Nk6jUpmhx.choice_NJ8QwTm2x.id",
+                        "label": "choice_NJ8QwTm2x",
+                        "value": "choice_NJ8QwTm2x"
+                    },
+                    {
+                        "id": "sli_Nk6jUpmhx.choice_Vy3mDp72x.id",
+                        "label": "choice_Vy3mDp72x",
+                        "value": "choice_Vy3mDp72x"
+                    },
+                    {
+                        "id": "sli_Nk6jUpmhx.choice_NJiNPa73l.id",
+                        "label": "choice_NJiNPa73l",
+                        "value": "choice_NJiNPa73l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkTfwamnx",
+                        "choice_4k~Qva7ng",
+                        "choice_Vy3mDp72x",
+                        "choice_NJiNPa73l"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Nk6jUpmhx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les quatre styles de leadership selon les experts en management Hersey et Blanchard ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Tous les leadership ne se ressemblent pas. Les experts en management Hersey et Blanchard distinguent quatre principaux profils : le directif, le persuasif, le participatif et le délégatif.",
+            "tips": "Les différents auteurs ne sont pas d'accord sur le nombre de profils : six chez Daniel Goleman ; trois selon Elliot Fox. Mais les grandes lignes sont les mêmes.",
+            "clue": "Un même suffixe.",
+            "choice_EJvzD67ng": "Autoritaire",
+            "choice_NkTfwamnx": "Participatif",
+            "choice_4k~Qva7ng": "Délégatif",
+            "choice_NJ8QwTm2x": "Émotionnel",
+            "choice_Vy3mDp72x": "Directif",
+            "choice_EyBEwam2e": "Déclaratif",
+            "choice_NJiNPa73l": "Persuasif"
+        },
+        "en": {
+            "header": "What are the four leadership styles according to management experts Hersey and Blanchard?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Not all leadership is alike. The management experts Hersey and Blanchard distinguish four main profiles: the directive, the persuasive, the participative and the delegative.",
+            "tips": "The different authors do not agree on the number of profiles: six at Daniel Goleman; three according to Elliot Fox. But the main lines are the same.",
+            "clue": "The same suffix.",
+            "choice_EJvzD67ng": "Authoritarian",
+            "choice_NkTfwamnx": "Participatory",
+            "choice_4k~Qva7ng": "delegative",
+            "choice_NJ8QwTm2x": "Emotional",
+            "choice_Vy3mDp72x": "directive",
+            "choice_NJiNPa73l": "Persuasive",
+            "choice_EyBEwam2e": "Déclaratif"
+        },
+        "de": {
+            "header": "Was sind die vier Führungsstile nach Ansicht der Managementexperten Hersey und Blanchard?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Nicht jede Führung ist gleich. Die Managementexperten Hersey und Blanchard identifizieren vier Hauptstile: richtungsweisend, überzeugend, partizipativ und delegierend.",
+            "tips": "Verschiedene Autoren sind sich nicht einig über die Anzahl der Profile: sechs für Daniel Goleman; drei für Elliot Fox. Aber die Ideen sind die gleichen.",
+            "clue": "Das gleiche Suffix.",
+            "choice_EJvzD67ng": "Autoritär",
+            "choice_NkTfwamnx": "Partizipativ",
+            "choice_4k~Qva7ng": "Delegieren",
+            "choice_NJ8QwTm2x": "Emotional",
+            "choice_Vy3mDp72x": "Richtlinie",
+            "choice_NJiNPa73l": "Überzeugend",
+            "choice_EyBEwam2e": "Déclaratif"
+        },
+        "es": {
+            "header": "What are the four leadership styles according to management experts Hersey and Blanchard?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Not all leadership is the same. Management experts Hersey and Blanchard identify four main styles: directive, persuasive, participatory and delegating.",
+            "tips": "Different authors do not agree on the number of profiles: six for Daniel Goleman; three for Elliot Fox. But the ideas are the same.",
+            "choice_EJvzD67ng": "Authoritarian",
+            "choice_NkTfwamnx": "Participatory",
+            "choice_4k~Qva7ng": "Delegating",
+            "choice_NJ8QwTm2x": "Emotional",
+            "choice_Vy3mDp72x": "Directive",
+            "choice_EyBEwam2e": "Déclaratif",
+            "choice_NJiNPa73l": "Persuasive",
+            "clue": "The same suffix."
+        },
+        "zh": {
+            "header": "根据管理专家Hersey和Blanchard的说法，四种领导风格是什么？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "并非所有领导都是一样的。管理专家Hersey和Blanchard确定了四种主要风格：指导，说服，参与和委派。",
+            "tips": "不同的作者不同意配置文件的数量：Daniel Goleman的六个;三个为艾略特福克斯。但这些想法是一样的。",
+            "clue": "相同的后缀。",
+            "choice_EJvzD67ng": "独裁的",
+            "choice_NkTfwamnx": "参与",
+            "choice_4k~Qva7ng": "委派",
+            "choice_NJ8QwTm2x": "情绪化",
+            "choice_Vy3mDp72x": "指示",
+            "choice_NJiNPa73l": "有说服力",
+            "choice_EyBEwam2e": "Déclaratif"
+        }
+    }
+}

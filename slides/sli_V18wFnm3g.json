@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:02:28.886Z",
+            "updatedAt": "2017-12-01T11:28:17.244Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V18wFnm3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel49560",
+                        "label": "label_4yP1q3m3e",
+                        "items": [
+                            {
+                                "text": "choice_EkePyq272l",
+                                "value": "choice_EkePyq272l"
+                            },
+                            {
+                                "text": "choice_EJWwy5hQ3l",
+                                "value": "choice_EJWwy5hQ3l"
+                            },
+                            {
+                                "text": "choice_4JFych72l",
+                                "value": "choice_4JFych72l"
+                            },
+                            {
+                                "text": "choice_4ygF19hXng",
+                                "value": "choice_4ygF19hXng"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel49560",
+                        "answers": [
+                            "choice_4JFych72l"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_V18wFnm3g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle proportion de PDG cite le mentorat comme outil d'avancement professionnel des femmes ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Selon Catalyst, 44% des PDG citent le mentorat dans le top 3 des stratégies favorisant l'avancement professionnel des femmes.",
+            "tips": "À l'inverse, l'absence de soutien proactif de la part des hauts dirigeants est un obstacle à l'accès des femmes aux postes de haute direction (source : The Sponsor Effect, Center for Work-Life Policy).",
+            "template": "{{sel49560}}",
+            "clue": "Moins de la moitié.",
+            "label_4yP1q3m3e": " ",
+            "choice_EkePyq272l": "21%",
+            "choice_EJWwy5hQ3l": "33%",
+            "choice_4JFych72l": "44%",
+            "choice_4ygF19hXng": "52%"
+        },
+        "en": {
+            "header": "What proportion of CEOs refer to mentoring as a career advancement tool for women?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "According to Catalyst, 44% of CEOs cited mentorship as one of the top 3 strategies for women's career advancement.",
+            "tips": "Conversely, the lack of proactive support from senior management is a barrier to women's access to senior management positions (source: The Sponsor Effect, Center for Work-Life Policy).",
+            "clue": "Less than half.",
+            "template": "{{sel49560}}",
+            "label_4yP1q3m3e": " ",
+            "choice_EkePyq272l": "21%",
+            "choice_EJWwy5hQ3l": "33%",
+            "choice_4JFych72l": "44%",
+            "choice_4ygF19hXng": "52%"
+        },
+        "de": {
+            "header": "Welcher Anteil der CEOs hält Mentoring für die Karriereförderung von Frauen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Laut Catalyst bewerten 44% der CEOs Mentoring in den Top-3-Strategien zur Förderung von Frauen.",
+            "tips": "Umgekehrt ist das Fehlen einer proaktiven Unterstützung durch die Geschäftsleitung ein Hindernis für den Zugang von Frauen zu Führungspositionen. (Quelle: Sponsor-Effekt, Zentrum für Work-Life-Policy)",
+            "clue": "Weniger als die Hälfte.",
+            "template": "{{sel49560}}",
+            "label_4yP1q3m3e": " ",
+            "choice_EkePyq272l": "21%",
+            "choice_EJWwy5hQ3l": "33%",
+            "choice_4JFych72l": "44%",
+            "choice_4ygF19hXng": "52%"
+        },
+        "es": {
+            "header": "What proportion of CEOs consider mentoring as a tool for the career advancement of women?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "44% of CEOs place mentoring in the top 3 strategies to promote the advancement of women, according to Catalyst.",
+            "tips": "Conversely, the absence of proactive support from senior management is a barrier to women's access to senior management positions. (Source: The Sponsor Effect, Center for Work-Life Policy)",
+            "template": "{{sel49560}}",
+            "label_4yP1q3m3e": " ",
+            "choice_EkePyq272l": "21%",
+            "choice_EJWwy5hQ3l": "33%",
+            "choice_4JFych72l": "44%",
+            "choice_4ygF19hXng": "52%",
+            "clue": "Less than half."
+        },
+        "zh": {
+            "header": "有多少CEO认为辅导是女性职业发展的工具？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "Catalyst表示，44％的首席执行官将指导纳入促进女性进步的前三大战略。",
+            "tips": "相反，高级管理层缺乏积极主动的支持是妇女获得高级管理职位的障碍。 （来源：赞助商效应，工作 - 生活政策中心）",
+            "clue": "少于一半。",
+            "template": "{{Sel49560}}",
+            "label_4yP1q3m3e": " ",
+            "choice_EkePyq272l": "21％",
+            "choice_EJWwy5hQ3l": "33％",
+            "choice_4JFych72l": "44％",
+            "choice_4ygF19hXng": "52％"
+        }
+    }
+}

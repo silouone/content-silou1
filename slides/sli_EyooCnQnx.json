@@ -1,0 +1,135 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:25:00.081Z",
+            "updatedAt": "2016-09-06T11:21:23.561Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyooCnQnx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel20279",
+                        "label": "label_4kponTrAg",
+                        "items": [
+                            {
+                                "text": "choice_41g6j26HAl",
+                                "value": "choice_41g6j26HAl"
+                            },
+                            {
+                                "text": "choice_EkZpjn6H0x",
+                                "value": "choice_EkZpjn6H0x"
+                            },
+                            {
+                                "text": "choice_NyZy6Tr0x",
+                                "value": "choice_NyZy6Tr0x"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel20279",
+                        "answers": [
+                            "choice_EkZpjn6H0x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EyooCnQnx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Par quelle expression la psychologue Virginia Schein résumait-elle la pensée de son époque, dans les années 1970 ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Dans les années 1970, l'idée dominante était qu'un leader ne pouvait être qu'un homme. Ce que la psychologue Virginia Schein résumait, en 1973, avec l'expression : \"Pensez dirigeant, pensez mâle\". C'est l'une des premières à avoir identifié ce phénomène.",
+            "tips": "Son étude publiée en 1973 a été répliquée sur les cinq continents pour aboutir à chaque fois à la même conclusion.",
+            "template": "Pensez dirigeant, pensez   {{sel20279}}   .",
+            "clue": "Presque le contraire de \"bien\".",
+            "label_NygvVk6m2g": " ",
+            "placeholder_Vy~wEkTmhe": " ",
+            "label_4kponTrAg": " ",
+            "choice_41g6j26HAl": "féminin",
+            "choice_EkZpjn6H0x": "mâle",
+            "choice_NyZy6Tr0x": "équilibré"
+        },
+        "en": {
+            "header": "By what expression did the psychologist Virginia Schein summarize the thinking of her time, in the 1970s?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In the 1970s, the dominant idea was that a leader could only be a man. What the psychologist Virginia Schein summed up, in 1973, with the expression: \"Think director, think male\". This is one of the first to have identified this phenomenon.",
+            "tips": "His study, published in 1973, has been replicated on five continents, each time leading to the same conclusion.",
+            "clue": "Almost the opposite of \"good\".",
+            "template": "Think leader, think {{sel20279}}.",
+            "label_4kponTrAg": " ",
+            "choice_41g6j26HAl": "female",
+            "choice_EkZpjn6H0x": "male",
+            "choice_NyZy6Tr0x": "balanced",
+            "label_NygvVk6m2g": " ",
+            "placeholder_Vy~wEkTmhe": " "
+        },
+        "de": {
+            "header": "Mit welchem ​​Ausdruck fasste die Psychologin Virginia Schein das Denken ihrer Zeit in den 70er Jahren zusammen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "In den 70er Jahren bestand die vorherrschende Idee darin, dass ein Führer ein Mann sein musste. Die Psychologin Virginia Schein fasste dies 1973 mit dem Satz \"Think manager, think male\" zusammen. Sie war eine der ersten, die dieses Phänomen identifizierte.",
+            "tips": "Ihre 1973 veröffentlichte Studie wurde auf fünf Kontinenten wiederholt, was zu derselben Schlussfolgerung führte.",
+            "clue": "Fast wie ein Einkaufszentrum.",
+            "template": "Denken Sie Manager, denken Sie {{sel20279}}",
+            "label_4kponTrAg": " ",
+            "choice_41g6j26HAl": "weiblich",
+            "choice_EkZpjn6H0x": "männlich",
+            "choice_NyZy6Tr0x": "ausgewogen",
+            "label_NygvVk6m2g": " ",
+            "placeholder_Vy~wEkTmhe": " "
+        },
+        "es": {
+            "header": "With which expression did the psychologist Virginia Schein summarise the thinking of her time in the 1970s?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In the 1970s, the dominant idea was that a leader had to be a man. The psychologist Virginia Schein summed this up in 1973 with the phrase: \"Think manager, think male\". She was one of the first to identify this phenomenon.",
+            "tips": "Her study published in 1973 was replicated on five continents, which all led to the same conclusion.",
+            "template": "Think manager, think  {{sel20279}}",
+            "label_NygvVk6m2g": " ",
+            "placeholder_Vy~wEkTmhe": " ",
+            "label_4kponTrAg": " ",
+            "choice_41g6j26HAl": "female",
+            "choice_EkZpjn6H0x": "male",
+            "choice_NyZy6Tr0x": "balanced",
+            "clue": "Almost like a shopping centre."
+        },
+        "zh": {
+            "header": "心理学家弗吉尼亚·沙因用哪种表达方式总结了她在20世纪70年代的思考？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在20世纪70年代，主导思想是领导者必须是男人。心理学家弗吉尼亚·谢因（Virginia Schein）在1973年总结了这句话：“思考经理，思考男性”。她是第一个发现这种现象的人之一。",
+            "tips": "她在1973年发表的研究报告在五大洲被复制，这些研究都得出了同样的结论。",
+            "clue": "几乎像一个购物中心。",
+            "template": "想想经理，想想{{sel20279}}",
+            "label_4kponTrAg": " ",
+            "choice_41g6j26HAl": "女",
+            "choice_EkZpjn6H0x": "男",
+            "choice_NyZy6Tr0x": "均衡",
+            "label_NygvVk6m2g": " ",
+            "placeholder_Vy~wEkTmhe": " "
+        }
+    }
+}

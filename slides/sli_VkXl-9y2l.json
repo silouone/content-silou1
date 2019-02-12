@@ -1,0 +1,143 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T09:01:33.714Z",
+            "updatedAt": "2016-09-05T16:46:56.345Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VkXl-9y2l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkXl-9y2l.choice_V1xuKYcJ2x.id",
+                        "label": "choice_V1xuKYcJ2x",
+                        "value": "choice_V1xuKYcJ2x",
+                        "media": "med_4yOtt5Jnx"
+                    },
+                    {
+                        "id": "sli_VkXl-9y2l.choice_41gaYK9kng.id",
+                        "label": "choice_41gaYK9kng",
+                        "value": "choice_41gaYK9kng",
+                        "media": "med_EyTtY5yhe"
+                    },
+                    {
+                        "id": "sli_VkXl-9y2l.choice_EJGTYF5k3l.id",
+                        "label": "choice_EJGTYF5k3l",
+                        "value": "choice_EJGTYF5k3l",
+                        "media": "med_NJZ6Ytqkhx"
+                    },
+                    {
+                        "id": "sli_VkXl-9y2l.choice_Vyx0tKc1ne.id",
+                        "label": "choice_Vyx0tKc1ne",
+                        "value": "choice_Vyx0tKc1ne",
+                        "media": "med_4y0KtcJhe"
+                    },
+                    {
+                        "id": "sli_VkXl-9y2l.choice_4JgJ9Kqk3l.id",
+                        "label": "choice_4JgJ9Kqk3l",
+                        "value": "choice_4JgJ9Kqk3l",
+                        "media": "med_Vk1qtqyhl"
+                    },
+                    {
+                        "id": "sli_VkXl-9y2l.choice_N1GJcF9J3g.id",
+                        "label": "choice_N1GJcF9J3g",
+                        "value": "choice_N1GJcF9J3g",
+                        "media": "med_Ey~J5K5yng"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1GJcF9J3g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VkXl-9y2l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le pays dans lequel l'écart de salaire entre hommes et femmes est le moins important ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les inégalités de salaire entre hommes et femmes concernent tous les pays. La Slovénie est le meilleur élève avec 4% de différence. Mais en Zambie, elle s'élève à 46%.",
+            "tips": "Selon une étude du Forum économique mondial, au rythme où vont les choses, il faudrait attendre 2095 pour qu'hommes et femmes soient \"peut-être\" égaux en entreprise.",
+            "clue": "Membre de l'Union européenne depuis 2004.",
+            "choice_V1xuKYcJ2x": "Afrique du Sud",
+            "choice_41gaYK9kng": "Argentine",
+            "choice_EJGTYF5k3l": "Belgique",
+            "choice_Vyx0tKc1ne": "Bhoutan",
+            "choice_4JgJ9Kqk3l": "France",
+            "choice_N1GJcF9J3g": "Slovénie"
+        },
+        "en": {
+            "header": "What is the country in which the pay gap between men and women is the least important?",
+            "explanation": "Select the correct answer.",
+            "klf": "Gender pay inequalities affect all countries. Slovenia is the best student with 4% difference. But in Zambia it is 46%.",
+            "tips": "According to a study by the World Economic Forum, at the rate things are going, it would be necessary to wait until 2095 for men and women to be \"perhaps\" equal in business.",
+            "clue": "Member of the European Union since 2004.",
+            "choice_V1xuKYcJ2x": "South Africa",
+            "choice_41gaYK9kng": "Argentine",
+            "choice_EJGTYF5k3l": "Belgium",
+            "choice_Vyx0tKc1ne": "Bhutan",
+            "choice_4JgJ9Kqk3l": "France",
+            "choice_N1GJcF9J3g": "Slovenia"
+        },
+        "de": {
+            "header": "Welches Land hat das geringste Lohngefälle zwischen Männern und Frauen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Lohnunterschiede zwischen Männern und Frauen betreffen alle Länder. Slowenien ist mit einem Unterschied von 4% das beste Beispiel. In Sambia sind es 46%.",
+            "tips": "Laut einer vom World Economic Forum durchgeführten Studie würde es bei laufendem Tempo bis 2095 dauern, bis Männer und Frauen \"möglicherweise\" gleichberechtigt sind.",
+            "clue": "Seit 2004 Mitglied der Europäischen Union.",
+            "choice_V1xuKYcJ2x": "Südafrika",
+            "choice_41gaYK9kng": "Argentinien",
+            "choice_EJGTYF5k3l": "Belgien",
+            "choice_Vyx0tKc1ne": "Bhutan",
+            "choice_4JgJ9Kqk3l": "Frankreich",
+            "choice_N1GJcF9J3g": "Slowenien"
+        },
+        "es": {
+            "header": "Which country has the smallest wage gap between men and women?",
+            "explanation": "Select the correct answer.",
+            "klf": "Wage inequalities between men and women affect all countries. Slovenia sets the best example with a 4% difference. While in Zambia, it is 46%.",
+            "tips": "According to a study carried out by the World Economic Forum, at the rate things are going, it would take until 2095 for men and women to \"possibly\" be equal in business.",
+            "choice_V1xuKYcJ2x": "South Africa",
+            "choice_41gaYK9kng": "Argentina",
+            "choice_EJGTYF5k3l": "Belgium",
+            "choice_Vyx0tKc1ne": "Bhutan",
+            "choice_4JgJ9Kqk3l": "France",
+            "choice_N1GJcF9J3g": "Slovenia",
+            "clue": "A member of the European Union since 2004."
+        },
+        "zh": {
+            "header": "哪个国家的男女工资差距最小？",
+            "explanation": "选择正确的答案。",
+            "klf": "男女之间的工资不平等影响到所有国家。斯洛文尼亚以4％的差异树立了最好的榜样。而在赞比亚，这一比例为46％。",
+            "tips": "根据世界经济论坛开展的一项研究，按照目前正在进行的研究，男性和女性在2095年之间“可能”在商业上是平等的。",
+            "clue": "自2004年以来一直是欧盟成员国。",
+            "choice_V1xuKYcJ2x": "南非",
+            "choice_41gaYK9kng": "阿根廷",
+            "choice_EJGTYF5k3l": "比利时",
+            "choice_Vyx0tKc1ne": "不丹",
+            "choice_4JgJ9Kqk3l": "法国",
+            "choice_N1GJcF9J3g": "斯洛文尼亚"
+        }
+    }
+}

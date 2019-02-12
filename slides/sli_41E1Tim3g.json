@@ -1,0 +1,121 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:11:43.111Z",
+            "updatedAt": "2017-12-01T10:57:45.881Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yHV-8Cje"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_41E1Tim3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41E1Tim3g.choice_VkgZD6o7hl.id",
+                        "label": "choice_VkgZD6o7hl",
+                        "value": "choice_VkgZD6o7hl",
+                        "media": "med_N1ZPaoXng"
+                    },
+                    {
+                        "id": "sli_41E1Tim3g.choice_41eSw6om3g.id",
+                        "label": "choice_41eSw6om3g",
+                        "value": "choice_41eSw6om3g",
+                        "media": "med_NyrvaiQhg"
+                    },
+                    {
+                        "id": "sli_41E1Tim3g.choice_VkxPvTsQnl.id",
+                        "label": "choice_VkxPvTsQnl",
+                        "value": "choice_VkxPvTsQnl",
+                        "media": "med_4kDD6s7hg"
+                    },
+                    {
+                        "id": "sli_41E1Tim3g.choice_VkfDDToXhe.id",
+                        "label": "choice_VkfDDToXhe",
+                        "value": "choice_VkfDDToXhe",
+                        "media": "med_NybDwpjm3e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41eSw6om3g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_41E1Tim3g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Où sont nés les premiers réseaux professionnels féminins ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les premiers réseaux professionnels féminins naissent aux États-Unis à la fin de la Première Guerre mondiale. L'idée est importée en France dans les années 1930.",
+            "tips": "Les premiers clubs ont un aspect professionnel mais aussi philanthropique, comme le <i>Soroptimist Club</i>, équivalent féminin du Rotary Club, initialement exclusivement masculin.",
+            "clue": "Aigle et oncle.",
+            "choice_VkgZD6o7hl": "Allemagne",
+            "choice_41eSw6om3g": "États-Unis",
+            "choice_VkxPvTsQnl": "France",
+            "choice_VkfDDToXhe": "Royaume-Uni"
+        },
+        "en": {
+            "header": "Where were the first women's professional networks born?",
+            "explanation": "Select the correct answer.",
+            "klf": "The first women's professional networks were born in the United States at the end of the First World War. The idea is imported in France in the 1930s.",
+            "tips": "The first clubs have a professional but also philanthropic aspect, like the <i>Soroptimist Club</i> , a female equivalent of the Rotary Club, initially exclusively male.",
+            "clue": "Eagle and uncle.",
+            "choice_VkgZD6o7hl": "Germany",
+            "choice_41eSw6om3g": "United States",
+            "choice_VkxPvTsQnl": "France",
+            "choice_VkfDDToXhe": "United Kingdom"
+        },
+        "de": {
+            "header": "Wo wurden die ersten professionellen Netzwerke für Frauen gegründet?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Die ersten professionellen Netzwerke für Frauen wurden am Ende des Ersten Weltkrieges in den Vereinigten Staaten gegründet. Die Idee wurde in den 1930er Jahren nach Frankreich importiert.",
+            "tips": "Die ersten Clubs waren professionell, hatten aber auch einen philanthropischen Aspekt, wie etwa den Soroptimist Club, die weibliche Entsprechung des Rotary Clubs, der ursprünglich ausschließlich männlich war.",
+            "clue": "Adler und Onkel.",
+            "choice_VkgZD6o7hl": "Deutschland",
+            "choice_41eSw6om3g": "Vereinigte Staaten",
+            "choice_VkxPvTsQnl": "Frankreich",
+            "choice_VkfDDToXhe": "Großbritannien"
+        },
+        "es": {
+            "header": "Where were the first professional networks for women established? ",
+            "explanation": "Select the correct answer.",
+            "klf": "The first professional networks for women were established in the United States at the end of the First World War. The idea was imported to France in the 1930s.",
+            "tips": "The first clubs were professional but they also had a philanthropic aspect, such as the Soroptimist Club, the female equivalent of the Rotary Club, which was originally exclusively male.",
+            "choice_VkgZD6o7hl": "Germany",
+            "choice_41eSw6om3g": "United States",
+            "choice_VkxPvTsQnl": "France",
+            "choice_VkfDDToXhe": "United Kingdom",
+            "clue": "Eagle and uncle."
+        },
+        "zh": {
+            "header": "第一批妇女专业网络在哪里成立？",
+            "explanation": "选择正确的答案。",
+            "klf": "第一次世界大战结束时，第一批妇女专业网络在美国成立。这个想法是在20世纪30年代进口到法国的。",
+            "tips": "第一批俱乐部是专业的，但他们也有慈善方面，例如职业妇女福利俱乐部，女性相当于扶轮社，最初只是男性。",
+            "clue": "鹰与叔叔。",
+            "choice_VkgZD6o7hl": "德国",
+            "choice_41eSw6om3g": "美国",
+            "choice_VkxPvTsQnl": "法国",
+            "choice_VkfDDToXhe": "英国"
+        }
+    }
+}

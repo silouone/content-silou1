@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-20T15:56:54.631Z",
+            "updatedAt": "2016-08-26T14:31:39.615Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "amandinelemoult21",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Nku-MQ-Mb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nku-MQ-Mb.choice_EJZTG7Ofb.id",
+                        "label": "choice_EJZTG7Ofb",
+                        "value": "choice_EJZTG7Ofb"
+                    },
+                    {
+                        "id": "sli_Nku-MQ-Mb.choice_N1fpz7uz~.id",
+                        "label": "choice_N1fpz7uz~",
+                        "value": "choice_N1fpz7uz~"
+                    },
+                    {
+                        "id": "sli_Nku-MQ-Mb.choice_N1ezazmOf~.id",
+                        "label": "choice_N1ezazmOf~",
+                        "value": "choice_N1ezazmOf~"
+                    },
+                    {
+                        "id": "sli_Nku-MQ-Mb.choice_4yQTzQ-MW.id",
+                        "label": "choice_4yQTzQ-MW",
+                        "value": "choice_4yQTzQ-MW"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1fpz7uz~"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Nku-MQ-Mb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Un leader doit-il fixer des objectifs intermédiaires ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Avoir une vision est essentiel mais il ne faut pas voir que cet objectif. Vous devez construire le chemin pour y arriver. Fixez des objectifs intermédiaires des étapes à franchir pour vous et vos équipes.",
+            "tips": "Ces objectifs intermédiaires doivent bien sûr s'accompagner d'évaluations pour vérifier que les collaborateurs se dirigent bien dans la bonne direction (source : Thomas Juli, dirigeant d'Empowerment Partners).",
+            "clue": "Le but ne suffit pas.",
+            "choice_EJZTG7Ofb": "Non, il doit se concentrer sur sa vision",
+            "choice_N1fpz7uz~": "Oui, il doit définir les étapes pour atteindre son objectif",
+            "choice_N1ezazmOf~": "Oui, cela permet à ses collaborateurs de se sentir plus proches de lui",
+            "choice_4yQTzQ-MW": "Non, c’est à ses collaborateurs de le faire"
+        },
+        "en": {
+            "header": "Should a leader set intermediate goals?",
+            "explanation": "Select the correct answer.",
+            "klf": "Having a vision is essential but we must not see that goal. You must build the path to get there. Set intermediate milestones for you and your teams.",
+            "tips": "These intermediate objectives must of course be accompanied by assessments to ensure that employees are moving in the right direction (source: Thomas Juli, Head of Empowerment Partners).",
+            "clue": "The goal is not enough.",
+            "choice_EJZTG7Ofb": "No, he needs to focus on his vision",
+            "choice_N1fpz7uz~": "Yes, he must define the steps to reach his goal",
+            "choice_N1ezazmOf~": "Yes, it allows his colleagues to feel closer to him",
+            "choice_4yQTzQ-MW": "No, it's up to his associates to do it"
+        },
+        "de": {
+            "header": "Sollte ein Führer Zwischenziele setzen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Eine Vision zu haben ist wichtig, aber dies sollte nicht Ihr einziges Ziel sein. Sie müssen auch den Weg dafür schaffen, um dorthin zu gelangen, indem Sie Zwischenziele und Etappen festlegen, die Sie und Ihr Team erreichen müssen.",
+            "tips": "Diese Zwischenziele sollten natürlich bewertet werden, um zu überprüfen, ob sich die Mitarbeiter in die richtige Richtung bewegen. (Quelle: Juli Thomas, Direktor von Empowerment Partners)",
+            "clue": "Das Ziel ist nicht genug.",
+            "choice_EJZTG7Ofb": "Nein, sie müssen sich auf ihre Vision konzentrieren",
+            "choice_N1fpz7uz~": "Ja, sie müssen die Schritte definieren, um ihr Ziel zu erreichen",
+            "choice_N1ezazmOf~": "Ja, es erlaubt ihren Kollegen, sich ihnen näher zu fühlen",
+            "choice_4yQTzQ-MW": "Nein, es liegt an ihren Kollegen, dies zu tun"
+        },
+        "es": {
+            "header": "Should a leader set intermediate targets?",
+            "explanation": "Select the correct answer.",
+            "klf": "Having a vision is essential but this should not be your only objective. You also have to build the path to get there by setting intermediate objectives and stages for you and your team to get through.",
+            "tips": "These intermediate goals should of course be assessed to check that employees are moving in the correct direction. (Source: Juli Thomas, director of Empowerment Partners)",
+            "choice_EJZTG7Ofb": "No, they must focus on their vision",
+            "choice_N1fpz7uz~": "Yes, they must define the steps to achieve their goal",
+            "choice_N1ezazmOf~": "Yes, it allows their colleagues to feel closer to them",
+            "choice_4yQTzQ-MW": "No, it's up to their colleagues to do this",
+            "clue": "The goal is not enough."
+        },
+        "zh": {
+            "header": "领导者应该设定中间目标吗？",
+            "explanation": "选择正确的答案。",
+            "klf": "有远见是必不可少的，但这不应该是你唯一的目标。您还必须通过为您和您的团队设定中间目标和阶段来建立实现目标的途径。",
+            "tips": "当然应评估这些中间目标，以检查员工是否朝着正确的方向前进。 （资料来源：Empowerment Partners董事Juli Thomas）",
+            "clue": "目标还不够。",
+            "choice_EJZTG7Ofb": "不，他们必须关注他们的愿景",
+            "choice_N1fpz7uz~": "是的，他们必须定义实现目标的步骤",
+            "choice_N1ezazmOf~": "是的，它让他们的同事感觉更接近他们",
+            "choice_4yQTzQ-MW": "不，这取决于他们的同事"
+        }
+    }
+}

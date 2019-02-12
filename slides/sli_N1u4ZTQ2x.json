@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:35:23.207Z",
+            "updatedAt": "2016-09-06T11:29:43.947Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1u4ZTQ2x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel43518",
+                        "label": "label_Ek3qbTX3l",
+                        "items": [
+                            {
+                                "text": "choice_E1x35ZaQ3x",
+                                "value": "choice_E1x35ZaQ3x"
+                            },
+                            {
+                                "text": "choice_E1~n9~6Xhl",
+                                "value": "choice_E1~n9~6Xhl"
+                            },
+                            {
+                                "text": "choice_VkA9~TQ3e",
+                                "value": "choice_VkA9~TQ3e"
+                            },
+                            {
+                                "text": "choice_Vkli~a7nl",
+                                "value": "choice_Vkli~a7nl"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel43518",
+                        "answers": [
+                            "choice_VkA9~TQ3e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N1u4ZTQ2x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Depuis quand parle-t-on de leadership féminin ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Avec la féminisation du monde du travail et, progressivement, des hautes fonctions, on commence à parler d'un leadership féminin depuis une trentaine d'années.",
+            "tips": "La féminisation des hautes fonctions continue à prendre du temps malgré une évolution positive : ce n'est qu'en 2014 que le taux de femmes dans les conseils d'administration des entreprises du CAC40 a passé la barre des 30%, sous l'impulsion de la loi sur les quotas.",
+            "template": "{{sel43518}}",
+            "clue": "La décennie Thatcher.",
+            "label_Ek3qbTX3l": " ",
+            "choice_E1x35ZaQ3x": "1940",
+            "choice_E1~n9~6Xhl": "1960",
+            "choice_VkA9~TQ3e": "1980",
+            "choice_Vkli~a7nl": "2000"
+        },
+        "en": {
+            "header": "Since when are we talking about female leadership?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "With the feminization of the world of work and, gradually, high office, we start talking about female leadership for thirty years.",
+            "tips": "The feminisation of high office continues to take time despite a positive trend: it is only in 2014 that the rate of women on the boards of directors of CAC40 companies has passed the threshold of 30%, under the impulse of the Quota Act.",
+            "clue": "The Thatcher decade.",
+            "template": "{{sel43518}}",
+            "label_Ek3qbTX3l": " ",
+            "choice_E1x35ZaQ3x": "1940",
+            "choice_E1~n9~6Xhl": "1960",
+            "choice_VkA9~TQ3e": "1980",
+            "choice_Vkli~a7nl": "2000"
+        },
+        "de": {
+            "header": "Wann wurde die weibliche Führung zuerst in Betracht gezogen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Mit der Feminisierung des Arbeitsplatzes und zunehmend in wichtigen Positionen sprechen wir seit etwa dreißig Jahren von weiblicher Führungsrolle.",
+            "tips": "Die Feminisierung hoher Bürojobs dauert trotz positiver Entwicklung immer noch einige Zeit: Erst 2014 hat die Frauenquote in den Vorständen von CAC40-Unternehmen die 30% -Marke überschritten, getrieben vom Quotengesetz.",
+            "clue": "Das Thatcher-Jahrzehnt.",
+            "template": "{{sel43518}}",
+            "label_Ek3qbTX3l": " ",
+            "choice_E1x35ZaQ3x": "1940",
+            "choice_E1~n9~6Xhl": "1960",
+            "choice_VkA9~TQ3e": "1980",
+            "choice_Vkli~a7nl": "2000"
+        },
+        "es": {
+            "header": "When was female leadership first considered?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "With the feminisation of the workplace and increasingly in important positions, we have been talking about female leadership for about thirty years.",
+            "tips": "The feminisation of high office jobs continues to take time despite a positive development: it was only in 2014 that the rate of women on the boards of CAC40 companies passed the 30% mark, driven by the quota law.",
+            "template": "{{sel43518}}",
+            "label_Ek3qbTX3l": " ",
+            "choice_E1x35ZaQ3x": "1940",
+            "choice_E1~n9~6Xhl": "1960",
+            "choice_VkA9~TQ3e": "1980",
+            "choice_Vkli~a7nl": "2000",
+            "clue": "The Thatcher decade."
+        },
+        "zh": {
+            "header": "什么时候首先考虑女性领导？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "随着工作场所的女性化和越来越重要的职位，我们一直在谈论女性领导力大约三十年。",
+            "tips": "尽管取得了积极的发展，高职位工作的女性化仍然需要时间：仅在2014年，在配额法的推动下，CAC40公司董事会中女性的比例超过了30％。",
+            "clue": "撒切尔十年。",
+            "template": "{{sel43518}}",
+            "label_Ek3qbTX3l": " ",
+            "choice_E1x35ZaQ3x": "1940年",
+            "choice_E1~n9~6Xhl": "1960年",
+            "choice_VkA9~TQ3e": "1980年",
+            "choice_Vkli~a7nl": "2000"
+        }
+    }
+}

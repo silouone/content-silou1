@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:18:04.670Z",
+            "updatedAt": "2016-08-29T16:32:15.273Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4ySVoaQ3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel48213",
+                        "label": "label_NyIcjTXhx",
+                        "items": [
+                            {
+                                "text": "choice_4JlIqsamhx",
+                                "value": "choice_4JlIqsamhx"
+                            },
+                            {
+                                "text": "choice_Ek~8qo6m2e",
+                                "value": "choice_Ek~8qo6m2e"
+                            },
+                            {
+                                "text": "choice_N199o6Qhx",
+                                "value": "choice_N199o6Qhx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel48213",
+                        "answers": [
+                            "choice_N199o6Qhx"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4ySVoaQ3g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi faut-il partager sa vision avec ses collaborateurs ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Un leader doit partager sa vision avec ses équipes. En effet, vos collaborateurs seront plus motivés s'ils connaissent l'objectif final et s'ils ont le sentiment de participer à quelque chose de \"grand\".",
+            "tips": "La communication de la vision du leader est d'autant plus importante que les équipes sont éclatées et que la communication à distance se développe, selon le conférencier Antonin Gaunand.",
+            "template": "{{sel48213}}",
+            "clue": "Stimulation, enthousiasme.",
+            "label_NyIcjTXhx": " ",
+            "choice_4JlIqsamhx": "Pour faciliter le suivi des projets",
+            "choice_Ek~8qo6m2e": "Pour les motiver",
+            "choice_N199o6Qhx": "Pour qu'ils se fixent des objectifs"
+        },
+        "en": {
+            "header": "Why do you have to share your vision with your collaborators?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "A leader must share his vision with his teams. Indeed, your employees will be more motivated if they know the end goal and if they feel they are participating in something \"big\".",
+            "tips": "Communication of the leader's vision is all the more important as the teams are split up and the distance communication develops, according to the lecturer Antonin Gaunand.",
+            "clue": "Stimulation, enthusiasm.",
+            "template": "{{sel48213}}",
+            "label_NyIcjTXhx": " ",
+            "choice_4JlIqsamhx": "To facilitate the monitoring of projects",
+            "choice_Ek~8qo6m2e": "To motivate them",
+            "choice_N199o6Qhx": "For them to set goals"
+        },
+        "de": {
+            "header": "Warum sollten Sie Ihre Vision mit Ihren Mitarbeitern teilen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Ein Führer muss seine Vision mit seinem Team teilen. Ihre Mitarbeiter werden motivierter, wenn sie das ultimative Ziel kennen und sich als Teil von etwas \"Großem\" fühlen.",
+            "tips": "Die Kommunikation der Vision des Führers ist besonders wichtig, wenn Teams fragmentiert sind und die Kommunikation per Fernkommunikation häufiger wird, so der Dozent Antonin Gaunand.",
+            "clue": "Anregung, Begeisterung.",
+            "template": "{{sel48213}}",
+            "label_NyIcjTXhx": " ",
+            "choice_4JlIqsamhx": "Erleichterung der Überwachung von Projekten",
+            "choice_Ek~8qo6m2e": "Um sie zu motivieren",
+            "choice_N199o6Qhx": "So können sie ihre Ziele festlegen"
+        },
+        "es": {
+            "header": "Why should you share your vision with your employees?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "A leader must share their vision with their team. Your employees will be more motivated if they know the ultimate goal and they feel part of something \"big\".",
+            "tips": "The communication of the leader's vision is particularly important when teams are fragmented and remote communication becomes more frequent, according to the lecturer Antonin Gaunand.",
+            "template": "{{sel48213}}",
+            "label_NyIcjTXhx": " ",
+            "choice_4JlIqsamhx": "Facilitate the monitoring of projects",
+            "choice_Ek~8qo6m2e": "To motivate them",
+            "choice_N199o6Qhx": "So they can fix their objectives",
+            "clue": "Stimulation, enthusiasm."
+        },
+        "zh": {
+            "header": "为什么要与员工分享您的愿景？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "领导者必须与他们的团队分享他们的愿景。如果他们了解最终目标并且他们感觉自己是“大”的一部分，那么您的员工将会更有动力。",
+            "tips": "根据讲师Antonin Gaunand的说法，当团队分散，远程沟通变得更加频繁时，领导者愿景的沟通尤为重要。",
+            "clue": "刺激，热情。",
+            "template": "{{sel48213}}",
+            "label_NyIcjTXhx": " ",
+            "choice_4JlIqsamhx": "促进项目监测",
+            "choice_Ek~8qo6m2e": "激励他们",
+            "choice_N199o6Qhx": "所以他们可以修复他们的目标"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:54:07.619Z",
+            "updatedAt": "2017-12-30T14:20:12.747Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkMbtU0og"
+            ],
+            "status": "draft",
+            "modifiedBy": "ValentineMichaud",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1ftrpX3e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1ftrpX3e.choice_Ey2CBT7nl.id",
+                        "label": "choice_Ey2CBT7nl",
+                        "value": "choice_Ey2CBT7nl"
+                    },
+                    {
+                        "id": "sli_N1ftrpX3e.choice_EkWkI6Xng.id",
+                        "label": "choice_EkWkI6Xng",
+                        "value": "choice_EkWkI6Xng"
+                    },
+                    {
+                        "id": "sli_N1ftrpX3e.choice_NJMkL6Q3l.id",
+                        "label": "choice_NJMkL6Q3l",
+                        "value": "choice_NJMkL6Q3l"
+                    },
+                    {
+                        "id": "sli_N1ftrpX3e.choice_Vk4yITX2e.id",
+                        "label": "choice_Vk4yITX2e",
+                        "value": "choice_Vk4yITX2e"
+                    },
+                    {
+                        "id": "sli_N1ftrpX3e.choice_EyrkLp7hg.id",
+                        "label": "choice_EyrkLp7hg",
+                        "value": "choice_EyrkLp7hg"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ey2CBT7nl",
+                        "choice_NJMkL6Q3l",
+                        "choice_Vk4yITX2e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_N1ftrpX3e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les caractéristiques du leader persuasif ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Parmi les principaux profils de leader, on trouve le \"persuasif\". Tourné vers le relationnel, il donne des instructions très précises mais explique généralement ses choix.",
+            "tips": "Tout comme le leader directif, le persuasif est celui qui prend les décisions (source : Antonin Gaunand).",
+            "clue": "Moins autoritaire que le \"directif\".",
+            "choice_Ey2CBT7nl": "Bon relationnel",
+            "choice_EkWkI6Xng": "Autorité",
+            "choice_NJMkL6Q3l": "Instructions précises",
+            "choice_Vk4yITX2e": "Explication des choix",
+            "choice_EyrkLp7hg": "Collaboration dans la décision",
+            "choice_NyU1UaQ3g": "En retrait"
+        },
+        "en": {
+            "header": "What are the characteristics of the persuasive leader?",
+            "explanation": "Select the correct answers.",
+            "klf": "Among the main profiles of leaders, we find the \"persuasive\". Focused on the relationship, he gives very precise instructions but generally explains his choices.",
+            "tips": "Just like the directive leader, the persuasive is the one who makes the decisions (source: Antonin Gaunand).",
+            "clue": "Less authoritarian than the \"directive\".",
+            "choice_Ey2CBT7nl": "Good communication skills",
+            "choice_EkWkI6Xng": "Authority",
+            "choice_NJMkL6Q3l": "Precise instructions",
+            "choice_Vk4yITX2e": "Explanation of the choices",
+            "choice_EyrkLp7hg": "Collaboration in the decision",
+            "choice_NyU1UaQ3g": "Takes a back seat"
+        },
+        "de": {
+            "header": "Was zeichnet einen überzeugenden Führer aus?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Unter den wichtigsten Führungsprofilen gibt es die \"überzeugende\" Zahl. Auf Beziehungen ausgerichtet, geben sie sehr genaue Anweisungen, erklären aber meistens ihre Wahl.",
+            "tips": "Die überzeugende Figur ist wie der Weisungsführer derjenige, der die Entscheidungen trifft. (Quelle: Antonin Gaunand)",
+            "clue": "Weniger autoritär als \"Weisung\".",
+            "choice_Ey2CBT7nl": "Gute Beziehung",
+            "choice_EkWkI6Xng": "Behörde",
+            "choice_NJMkL6Q3l": "Präzise Anweisungen",
+            "choice_Vk4yITX2e": "Erklärt die Auswahl",
+            "choice_EyrkLp7hg": "Zusammenarbeit bei der Entscheidungsfindung",
+            "choice_NyU1UaQ3g": "Takes a back seat"
+        },
+        "es": {
+            "header": "What are the characteristics of a persuasive leader?",
+            "explanation": "Select the correct answers.",
+            "klf": "Among the main leader profiles, there is the \"persuasive\" figure. Directed towards relationships, they give very precise instructions but usually explain their choice.",
+            "tips": "Just like the directive leader, the persuasive figure is the one who makes the decisions. (Source: Antonin Gaunand)",
+            "choice_Ey2CBT7nl": "Good relationship",
+            "choice_EkWkI6Xng": "Authority",
+            "choice_NJMkL6Q3l": "Precise instructions",
+            "choice_Vk4yITX2e": "Explains choices",
+            "choice_EyrkLp7hg": "Collaboration in decision-making",
+            "choice_NyU1UaQ3g": "Takes a back seat",
+            "clue": "Less authoritarian than \"directive\"."
+        },
+        "zh": {
+            "header": "有说服力的领导者有什么特点？",
+            "explanation": "选择正确的答案。",
+            "klf": "在主要的领导者简介中，有“有说服力”的数字。针对关系，他们提供非常精确的指示，但通常解释他们的选择。",
+            "tips": "就像指令领导者一样，有说服力的人物就是做出决定的人。 （来源：Antonin Gaunand）",
+            "clue": "比“指令”更少专制。",
+            "choice_Ey2CBT7nl": "好的关系",
+            "choice_EkWkI6Xng": "权威",
+            "choice_NJMkL6Q3l": "准确的说明",
+            "choice_Vk4yITX2e": "解释选择",
+            "choice_EyrkLp7hg": "协作决策",
+            "choice_NyU1UaQ3g": "Takes a back seat"
+        }
+    }
+}

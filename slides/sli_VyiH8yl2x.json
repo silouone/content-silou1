@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T14:25:16.560Z",
+            "updatedAt": "2016-03-16T12:39:04.964Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VyiH8yl2x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_VyiH8yl2x.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_NkkA8Jx2l"
+                ]
+            }
+        },
+        "universalRef": "sli_VyiH8yl2x"
+    },
+    "locales": {
+        "fr": {
+            "header": "En France, le gouvernement soutient une initiative concernant 500 entreprises. Il s'agit de la Charte de la... (un mot)",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Le gouvernement soutient la Charte de la parentalité en entreprise. Initiée par l'Observatoire de l'équilibre des temps et de la parentalité en entreprise et L'Oréal, elle est signée par 500 entreprises aujourd'hui, dont Allianz ou Renault. Elles s'engagent à favoriser l'articulation entre vie professionnelle et personnelle à travers des actions concrètes.",
+            "tips": "La moitié des signataire est composée de TPE-PME et l'autre, d'entreprises de plus de 1000 salariés. En tout, 15% de la population active française est concernée.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Notre sujet.",
+            "choice_NkkA8Jx2l": "parentalité"
+        },
+        "en": {
+            "header": "In France, the government supports an initiative concerning 500 companies. This is the Charter of the ... (a word)",
+            "explanation": "Enter your answer.",
+            "klf": "The government supports the Charter of parenthood in business. Initiated by the Observatory of the balance of time and parenthood in companies and L'Oréal, it is signed by 500 companies today, including Allianz or Renault. They undertake to promote the link between professional and personal life through concrete actions.",
+            "tips": "Half of the signatories are SMEs and the other half are companies with more than 1,000 employees. In all, 15% of the French workforce is concerned.",
+            "clue": "Our subject.",
+            "choice_NkkA8Jx2l": "parenthood",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "In Frankreich unterstützt die Regierung eine Initiative von 500 Unternehmen. Dies ist die Charta der ... (ein Wort)",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Die Regierung unterstützt die Charta der Elternschaft in der Wirtschaft. Es wurde von der Beobachtungsstelle für die Balance zwischen Zeit und Elternschaft in Unternehmen und L'Oréal initiiert und wird heute von 500 Unternehmen unterzeichnet, darunter die Allianz oder Renault. Sie verpflichten sich, die Verbindung zwischen beruflichem und persönlichem Leben durch konkrete Maßnahmen zu fördern.",
+            "tips": "Die Hälfte der Unterzeichner sind KMU und die andere Hälfte sind Unternehmen mit mehr als 1.000 Beschäftigten. Insgesamt sind 15% der französischen Arbeitskräfte betroffen.",
+            "clue": "Unser Thema",
+            "choice_NkkA8Jx2l": "Elternschaft schaft~~POS=HEADCOMP",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "En France, le gouvernement soutient une initiative concernant 500 entreprises. Il s'agit de la Charte de la... (un mot)",
+            "explanation": "Type your answer.",
+            "klf": "Le gouvernement soutient la Charte de la parentalité en entreprise. Initiée par l'Observatoire de l'équilibre des temps et de la parentalité en entreprise et L'Oréal, elle est signée par 500 entreprises aujourd'hui, dont Allianz ou Renault. Elles s'engagent à favoriser l'articulation entre vie professionnelle et personnelle à travers des actions concrètes.",
+            "tips": "La moitié des signataire est composée de TPE-PME et l'autre, d'entreprises de plus de 1000 salariés. En tout, 15% de la population active française est concernée.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_NkkA8Jx2l": "parentalité",
+            "clue": "Notre sujet."
+        },
+        "zh": {
+            "header": "在法国，政府支持有关500家公司的倡议。这是...的宪章（一个字）",
+            "explanation": "输入你的答案。",
+            "klf": "政府支持商业中的父母身份宪章。由天文台发起的公司和欧莱雅的时间和父母的平衡，今天由500家公司签署，包括安联或雷诺。他们承诺通过具体行动促进职业和个人生活之间的联系。",
+            "tips": "签署者中有一半是中小企业，另一半是雇员超过1,000人的公司。总体而言，15％的法国劳动力受到关注。",
+            "clue": "我们的主题。",
+            "choice_NkkA8Jx2l": "父母",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T14:15:56.931Z",
+            "updatedAt": "2016-09-06T09:46:59.752Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJw57Je3e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJw57Je3e.choice_V1--Nye2x.id",
+                        "label": "choice_V1--Nye2x",
+                        "value": "choice_V1--Nye2x"
+                    },
+                    {
+                        "id": "sli_EJw57Je3e.choice_VkYuN1e2l.id",
+                        "label": "choice_VkYuN1e2l",
+                        "value": "choice_VkYuN1e2l"
+                    },
+                    {
+                        "id": "sli_EJw57Je3e.choice_NJq-Vyxhl.id",
+                        "label": "choice_NJq-Vyxhl",
+                        "value": "choice_NJq-Vyxhl"
+                    },
+                    {
+                        "id": "sli_EJw57Je3e.choice_41sOVJg2l.id",
+                        "label": "choice_41sOVJg2l",
+                        "value": "choice_41sOVJg2l"
+                    },
+                    {
+                        "id": "sli_EJw57Je3e.choice_Eye2-Nyg3g.id",
+                        "label": "choice_Eye2-Nyg3g",
+                        "value": "choice_Eye2-Nyg3g"
+                    },
+                    {
+                        "id": "sli_EJw57Je3e.choice_NJpqTXG6x.id",
+                        "label": "choice_NJpqTXG6x",
+                        "value": "choice_NJpqTXG6x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1--Nye2x",
+                        "choice_NJq-Vyxhl",
+                        "choice_41sOVJg2l",
+                        "choice_NJpqTXG6x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EJw57Je3e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment les entreprises peuvent-elles aider les parents à mieux équilibrer vie professionnelle et personnelle ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les entreprises peuvent aider les parents à être plus disponibles, par exemple en limitant les réunions avant 9 heures ou après 18 heures, en permettant le télétravail ou en luttant contre l'idée qu'on ne peut bien travailler qu'en étant présent le plus possible au bureau.",
+            "tips": "Présence n'est pas synonyme d'efficacité. On parle alors de \"présentéisme\", c'est-à-dire une présence excessive sur le lieu de travail mais sans investissement, ou bien être présent même en mauvaise santé, souvent par peur de perdre son emploi ou par solidarité avec ses collègues.",
+            "clue": "Sans en faire trop non plus !",
+            "choice_V1--Nye2x": "Pas de réunion avant 9 heures",
+            "choice_VkYuN1e2l": "Pas de réunion le midi",
+            "choice_NJq-Vyxhl": "Pas de réunion après 18 heures ",
+            "choice_Nkec-Ekx2e": "Temps partiel pour les jeunes parents",
+            "choice_41sOVJg2l": "Autorisation du télétravail",
+            "choice_Nk2u4Jenl": "Lutte contre le culte de la présence",
+            "choice_Eye2-Nyg3g": "Jours de congés supplémentaires",
+            "choice_NJpqTXG6x": "Lutte contre le culte de la présence"
+        },
+        "en": {
+            "header": "How can businesses help parents better balance work and personal life?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Companies can help parents be more available, for example by limiting meetings before 9 am or after 6 pm, allowing teleworking or fighting the idea that one can only work well by being present most possible at the office.",
+            "tips": "Presence is not synonymous with efficiency. This is called \"presenteeism\", that is to say, an excessive presence in the workplace but without investment, or be present even in poor health, often for fear of losing one's job or in solidarity with one's colleagues.",
+            "clue": "Without doing too much either!",
+            "choice_V1--Nye2x": "No meeting before 9 am",
+            "choice_VkYuN1e2l": "No meeting at noon",
+            "choice_NJq-Vyxhl": "No meeting after 18 hours",
+            "choice_41sOVJg2l": "Authorization of teleworking",
+            "choice_Eye2-Nyg3g": "Extra days off",
+            "choice_NJpqTXG6x": "Fight against the cult of presence",
+            "choice_Nkec-Ekx2e": "Temps partiel pour les jeunes parents",
+            "choice_Nk2u4Jenl": "Lutte contre le culte de la présence"
+        },
+        "de": {
+            "header": "Wie können Unternehmen Eltern helfen, Beruf und Privatleben besser in Einklang zu bringen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Unternehmen können Eltern dabei helfen, mehr zur Verfügung zu stehen, indem sie beispielsweise die Besprechung vor 9 Uhr oder nach 18 Uhr einschränken. Dies lässt Telearbeit zu oder fordert die Idee heraus, dass wir nur dann gut arbeiten können, wenn wir im Büro so viel wie möglich anwesend sind.",
+            "tips": "Präsenz ist nicht gleichbedeutend mit Effizienz. Dies wird als \"Präsentismus\" bezeichnet, d. H. Eine übermäßige Präsenz am Arbeitsplatz, jedoch ohne Investitionen oder sogar bei schlechter Gesundheit, oft aus Angst, ihren Arbeitsplatz zu verlieren oder aus Solidarität mit ihren Kollegen.",
+            "clue": "Ohne dabei zu übertreffen!",
+            "choice_V1--Nye2x": "Keine Besprechungen vor 9 Uhr morgens",
+            "choice_VkYuN1e2l": "Keine Besprechungen um die Mittagszeit",
+            "choice_NJq-Vyxhl": "Keine Besprechungen nach 18 Uhr",
+            "choice_41sOVJg2l": "Genehmigung der Telearbeit",
+            "choice_Eye2-Nyg3g": "Zusätzliche Feiertage",
+            "choice_NJpqTXG6x": "Fordern Sie den Kult der Präsenz heraus",
+            "choice_Nkec-Ekx2e": "Temps partiel pour les jeunes parents",
+            "choice_Nk2u4Jenl": "Lutte contre le culte de la présence"
+        },
+        "es": {
+            "header": "How can companies help parents to better balance professional and personal life?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Companies can help parents be more available, for example by limiting meetings before 9 a.m. or after 6 p.m., allowing telecommuting or challenging the idea that we can only work well if we are present as much as possible in the office.",
+            "tips": "Presence is not synonymous with efficiency. This is called \"presenteeism\", that is to say an excessive presence in the workplace, but without investment, or being present even in poor health, often for fear of losing their jobs or out of solidarity with their colleagues.",
+            "choice_V1--Nye2x": "No meetings before 9 a.m.",
+            "choice_VkYuN1e2l": "No meetings at mid-day",
+            "choice_NJq-Vyxhl": "No meetings after 6 p.m.",
+            "choice_Nkec-Ekx2e": "Temps partiel pour les jeunes parents",
+            "choice_41sOVJg2l": "Authorisation of teleworking",
+            "choice_Nk2u4Jenl": "Lutte contre le culte de la présence",
+            "choice_Eye2-Nyg3g": "Additional holidays",
+            "choice_NJpqTXG6x": "Challenge the cult of presence",
+            "clue": "Without going over the top!"
+        },
+        "zh": {
+            "header": "公司如何帮助父母更好地平衡职业和个人生活？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "公司可以帮助父母更多地提供服务，例如在上午9点之前或下午6点之后限制会议，允许远程办公或挑战我们只有在办公室尽可能地在场时才能正常工作的想法。",
+            "tips": "存在不是效率的同义词。这被称为“出勤率”，也就是说在工作场所过度存在，但没有投资，或者即使在健康状况不佳的情况下也存在，往往是因为害怕失去工作或与同事团结一致。",
+            "clue": "没有超过顶部！",
+            "choice_V1--Nye2x": "上午9点之前没有开会。",
+            "choice_VkYuN1e2l": "中午没有会议",
+            "choice_NJq-Vyxhl": "下午6点之后没有会议",
+            "choice_41sOVJg2l": "远程工作授权",
+            "choice_Eye2-Nyg3g": "额外的假期",
+            "choice_NJpqTXG6x": "挑战存在的崇拜",
+            "choice_Nkec-Ekx2e": "Temps partiel pour les jeunes parents",
+            "choice_Nk2u4Jenl": "Lutte contre le culte de la présence"
+        }
+    }
+}

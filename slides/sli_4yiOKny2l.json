@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T11:17:37.086Z",
+            "updatedAt": "2016-09-06T09:05:43.500Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yiOKny2l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yiOKny2l.choice_VkghRq2khl.id",
+                        "label": "choice_VkghRq2khl",
+                        "value": "choice_VkghRq2khl",
+                        "media": "med_EynA9ny2l"
+                    },
+                    {
+                        "id": "sli_4yiOKny2l.choice_E1x1Ji3J3g.id",
+                        "label": "choice_E1x1Ji3J3g",
+                        "value": "choice_E1x1Ji3J3g",
+                        "media": "med_4y11s3k2x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1x1Ji3J3g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4yiOKny2l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour obtenir une bonne rémunération, mieux vaut demander un salaire avec un chiffre rond. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque vous présentez vos prétentions salariales, ne demandez pas un chiffre rond. Selon la Columbia Business School, mieux vaut réclamer 45 500 euros plutôt que 50 000. \"En étant moins extrême et plus précis, vous finissez quand même avec le meilleur deal\", explique l'auteur de l'étude.",
+            "tips": "Pour réaliser cette étude, l'auteure Malia Mason a demandé à 130 personnes de négocier le prix d'une voiture d'occasion. Les personnes ayant fixé un prix rond au départ s'en sont moins bien sorties que celles étant parties d'un chiffre précis.",
+            "clue": "Vous achetez plutôt un pull à 19,90€ ou à 20 ?",
+            "choice_VkghRq2khl": "Vrai",
+            "choice_E1x1Ji3J3g": "Faux"
+        },
+        "en": {
+            "header": "To get a good salary, it is better to ask for a salary with a round number. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "When presenting your salary requirements, do not ask for a round number. According to the Columbia Business School, it is better to claim 45,500 euros rather than 50,000. \"By being less extreme and more precise, you still end up with the best deal,\" says the author of the study.",
+            "tips": "To carry out this study, author Malia Mason asked 130 people to negotiate the price of a used car. People who set a round price initially did not do as well as those who started from a specific figure.",
+            "clue": "Do you buy a sweater at 19,90 € or 20?",
+            "choice_VkghRq2khl": "True",
+            "choice_E1x1Ji3J3g": "False"
+        },
+        "de": {
+            "header": "Um eine bessere Vergütung zu erhalten, ist es besser, ein Gehalt mit einer runden Zahl anzufordern. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wenn Sie Ihre Gehaltsanfrage stellen, fragen Sie nicht nach einer runden Zahl. Laut der Columbia Business School ist es besser, statt 50.000 45.500 Euro zu beantragen. \"Wenn Sie weniger extrem und genauer sind, erhalten Sie immer noch das beste Angebot\", sagt der Autor der Studie.",
+            "tips": "Für diese Studie bat die Autorin Malia Mason 130 Personen, den Preis eines Gebrauchtwagens auszuhandeln. Die Personen mit einem anfänglichen festen Preis erzielten weniger Leistung als diejenigen, die eine bestimmte Zahl angeboten hatten.",
+            "clue": "Möchten Sie lieber einen Pullover für 19,90 € oder 20 € kaufen?",
+            "choice_VkghRq2khl": "Wahr",
+            "choice_E1x1Ji3J3g": "Falsch"
+        },
+        "es": {
+            "header": "To obtain a better remuneration, it is better to ask for a salary with a round number. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "When you make your salary request, do not ask for a round number. According to the Columbia Business School,  it is better to request 45,500 euros instead of 50,000. \"By being less extreme and more accurate, you still end up with the best deal,\" says the author of the study.",
+            "tips": "For this study, the author Malia Mason asked 130 people to negotiate the price of a used car. The people with an initial fixed round price achieved less output than those who offered a specific figure.",
+            "choice_VkghRq2khl": "True",
+            "choice_E1x1Ji3J3g": "False",
+            "clue": "Would you rather buy a jumper for €19.90 or €20?"
+        },
+        "zh": {
+            "header": "为了获得更好的报酬，最好是要求一个带有回合数的薪水。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "当你提出工资要求时，不要要求一个整数。根据哥伦比亚商学院的说法，最好要求45,500欧元而不是50,000欧元。该研究的作者说：“通过不那么极端和更准确，你仍然可以得到最好的交易。”",
+            "tips": "在这项研究中，作者Malia Mason要求130人协商二手车的价格。具有初始固定回合价格的人获得的产出少于提供特定数字的人。",
+            "clue": "你愿意买19.90欧元或20欧元的跳投吗？",
+            "choice_VkghRq2khl": "真正",
+            "choice_E1x1Ji3J3g": "假"
+        }
+    }
+}

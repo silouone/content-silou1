@@ -1,0 +1,125 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T11:11:14.106Z",
+            "updatedAt": "2016-09-06T09:01:57.220Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJICuhJne",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel14063",
+                        "label": "label_N1LDYnJ3l",
+                        "items": [
+                            {
+                                "text": "choice_V1l8wFhJ3g",
+                                "value": "choice_V1l8wFhJ3g"
+                            },
+                            {
+                                "text": "choice_4k~IDKh13g",
+                                "value": "choice_4k~IDKh13g"
+                            },
+                            {
+                                "text": "choice_NJLmZmf6x",
+                                "value": "choice_NJLmZmf6x"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel14063",
+                        "answers": [
+                            "choice_NJLmZmf6x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_NJICuhJne"
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous allez probablement être embauché après avoir répondu à une offre qui ne précisait pas \"salaire négociable\". Que faites-vous ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Si vous souhaitez une juste rémunération à l'embauche, osez négocier votre salaire. Et ce, même si l'annonce ne précise pas \"salaire négociable\".",
+            "tips": "Le groupe d'intérim Michael Page précise tout de même qu'il vaut mieux attendre le deuxième rendez-vous avant d'aborder le sujet, si l'employeur n'en parle pas au premier entretien.",
+            "template": "{{sel14063}}",
+            "clue": "Un peu d'audace !",
+            "label_N1LDYnJ3l": " ",
+            "choice_V1l8wFhJ3g": "Je refuse le poste",
+            "choice_4k~IDKh13g": "J'accepte sans négocier",
+            "choice_NJLmZmf6x": "Je négocie le salaire"
+        },
+        "en": {
+            "header": "You will probably be hired after responding to an offer that did not specify \"negotiable pay\". What are you doing ?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "If you want a fair pay on hiring, dare to negotiate your salary. And this, even if the announcement does not specify \"negotiable salary\".",
+            "tips": "The interim group Michael Page still specifies that it is better to wait for the second appointment before addressing the subject, if the employer does not talk about the first interview.",
+            "clue": "A little daring!",
+            "template": "{{sel14063}}",
+            "label_N1LDYnJ3l": " ",
+            "choice_V1l8wFhJ3g": "I refuse the job",
+            "choice_4k~IDKh13g": "I accept without negotiating",
+            "choice_NJLmZmf6x": "I negotiate the salary"
+        },
+        "de": {
+            "header": "Sie werden zweifellos eingestellt werden, nachdem Sie auf ein Angebot geantwortet haben, in dem \"Gehalt verhandelbar\" nicht angegeben ist. Was tun?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie bei der Einstellung eine angemessene Vergütung wünschen, wagen Sie es, Ihr Gehalt auszuhandeln. Auch wenn die Werbung nicht \"Gehalt verhandelbar\" angibt.",
+            "tips": "Die Zwischengruppe Michael Page sagt, es sei immer noch besser, bis zur zweiten Befragung zu warten, bevor der Sachverhalt angesprochen werde, wenn der Arbeitgeber sie nicht in der ersten Befragung erwähnt.",
+            "clue": "Ein bisschen Kühnheit.",
+            "template": "{{sel14063}}",
+            "label_N1LDYnJ3l": " ",
+            "choice_V1l8wFhJ3g": "Position ablehnen",
+            "choice_4k~IDKh13g": "Akzeptiere ohne zu verhandeln",
+            "choice_NJLmZmf6x": "Verhandeln Sie das Gehalt"
+        },
+        "es": {
+            "header": "You are no doubt going to be hired after responding to an offer that did not specify \"salary negotiable\". What should you do?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "If you want a fair remuneration when being hired, dare to negotiate your salary.  Even if the advertisement does not specify \"salary negotiable\".",
+            "tips": "Interim group Michael Page says it is still better to wait until the second interview before addressing the issue, if the employer does not mention it in the first interview .",
+            "template": "{{sel14063}}",
+            "label_N1LDYnJ3l": " ",
+            "choice_V1l8wFhJ3g": "Refuse the position",
+            "choice_4k~IDKh13g": "Accept without negotiating",
+            "choice_NJLmZmf6x": "Negotiate the salary",
+            "clue": "A little audacity."
+        },
+        "zh": {
+            "header": "毫无疑问，在回应未指定“工资可协商”的要约后，您将被聘用。你该怎么办？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "如果你想在雇用时获得公平的报酬，敢于协商你的薪水。即使广告没有指定“工资可协商”。",
+            "tips": "临时小组迈克尔佩奇表示，如果雇主在第一次面谈中没有提及，那么在解决问题之前等待第二次面试仍然会更好。",
+            "clue": "有点大胆。",
+            "template": "{{sel14063}}",
+            "label_N1LDYnJ3l": " ",
+            "choice_V1l8wFhJ3g": "拒绝这个位置",
+            "choice_4k~IDKh13g": "不经协商就接受",
+            "choice_NJLmZmf6x": "谈判薪水"
+        }
+    }
+}

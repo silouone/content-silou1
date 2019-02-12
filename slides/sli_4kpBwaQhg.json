@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:01:13.050Z",
+            "updatedAt": "2016-03-31T08:36:59.324Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkMbtU0og"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kpBwaQhg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4kpBwaQhg.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_4JSnDaQ3g"
+                ]
+            }
+        },
+        "universalRef": "sli_4kpBwaQhg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il impérativement travailler pour devenir un vrai leader ? Son ...",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Pour devenir un leader authentique, il faut travailler son charisme : ayez un discours intelligible pour tous ; exprimez vos sentiments ; ne vous engagez que si vous pouvez tenir votre promesse. Vous pouvez également vous démarquer par une touche d'originalité.",
+            "tips": "Jean-François Moine, consultant chez Cegos, conseille de regarder notre attitude dans l'intimité. Si vous êtes leader auprès de votre famille ou de vos amis, vous pouvez vous en inspirer.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Avoir du chien.",
+            "choice_4JSnDaQ3g": "charisme"
+        },
+        "en": {
+            "header": "What does it take to work to become a true leader? His ...",
+            "explanation": "Enter your answer.",
+            "klf": "To become a genuine leader, you have to work on your charism: have an intelligible speech for all; express your feelings; only commit yourself if you can keep your promise. You can also stand out with a touch of originality.",
+            "tips": "Jean-François Moine, consultant at Cegos, advises to look at our attitude in the privacy. If you are a leader with your family or friends, you can learn from them.",
+            "clue": "Have some dog.",
+            "choice_4JSnDaQ3g": "charisma",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Was braucht es, um zu einer echten Führungskraft zu werden? Sein ...",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Um ein echter Führer zu werden, müssen Sie an Ihrem Charisma arbeiten: eine verständliche Rede für alle haben; drücken Sie Ihre Gefühle aus; verpflichten Sie sich nur, wenn Sie Ihr Versprechen halten können. Sie können auch mit einem Hauch von Originalität auffallen.",
+            "tips": "Jean-François Moine, Berater bei Cegos, empfiehlt, unsere Haltung in der Privatsphäre zu betrachten. Wenn Sie mit Ihrer Familie oder Ihren Freunden eine Führungskraft haben, können Sie von ihnen lernen.",
+            "clue": "Habe einen Hund.",
+            "choice_4JSnDaQ3g": "Charisma",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "Que faut-il impérativement travailler pour devenir un vrai leader ? Son ...",
+            "explanation": "Type your answer.",
+            "klf": "Pour devenir un leader authentique, il faut travailler son charisme : ayez un discours intelligible pour tous ; exprimez vos sentiments ; ne vous engagez que si vous pouvez tenir votre promesse. Vous pouvez également vous démarquer par une touche d'originalité.",
+            "tips": "Jean-François Moine, consultant chez Cegos, conseille de regarder notre attitude dans l'intimité. Si vous êtes leader auprès de votre famille ou de vos amis, vous pouvez vous en inspirer.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_4JSnDaQ3g": "charisme",
+            "clue": "Avoir du chien."
+        },
+        "zh": {
+            "header": "如何成为真正的领导者需要做些什么？他......",
+            "explanation": "输入你的答案。",
+            "klf": "要成为一个真正的领导者，你必须努力实现你的魅力：为所有人提供一个可理解的演讲;表达你的感受;如果你能兑现你的承诺，那就自己承诺。您还可以凭借一丝创意脱颖而出。",
+            "tips": "Cegos的顾问Jean-FrançoisMoine建议考虑我们在隐私方面的态度。如果您是家人或朋友的领导者，您可以向他们学习。",
+            "clue": "有一些狗。",
+            "choice_4JSnDaQ3g": "魅力",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

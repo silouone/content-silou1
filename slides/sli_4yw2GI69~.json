@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-08-29T16:33:23.320Z",
+            "updatedAt": "2016-08-29T16:35:05.673Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yw2GI69~",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yw2GI69~.choice_VJO0fLa9W.id",
+                        "label": "choice_VJO0fLa9W",
+                        "value": "choice_VJO0fLa9W"
+                    },
+                    {
+                        "id": "sli_4yw2GI69~.choice_VkAAGUa9Z.id",
+                        "label": "choice_VkAAGUa9Z",
+                        "value": "choice_VkAAGUa9Z"
+                    },
+                    {
+                        "id": "sli_4yw2GI69~.choice_VkGJX8Tq~.id",
+                        "label": "choice_VkGJX8Tq~",
+                        "value": "choice_VkGJX8Tq~"
+                    },
+                    {
+                        "id": "sli_4yw2GI69~.choice_E1tyXLp5Z.id",
+                        "label": "choice_E1tyXLp5Z",
+                        "value": "choice_E1tyXLp5Z"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJO0fLa9W"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4yw2GI69~"
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous lancez un projet d’envergure et organisez une réunion pour en annoncer la finalité à votre équipe. Avez-vous raison d’agir ainsi ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un leader doit partager sa vision avec ses équipes. En effet, vos collaborateurs seront plus motivés s'ils connaissent l'objectif final et s'ils ont le sentiment de participer à quelque chose de \"grand\".",
+            "tips": "La communication de la vision du leader est d'autant plus importante que les équipes sont éclatées et que la communication à distance se développe, selon le conférencier Antonin Gaunand.",
+            "clue": "Quel est l’objectif ?",
+            "choice_VJO0fLa9W": "Oui, ainsi ils vont être motivés car ils connaîtront d'emblée la finalité de leur travail",
+            "choice_VkAAGUa9Z": "Oui car cela permet une meilleure organisation",
+            "choice_VkGJX8Tq~": "Non, il vaut mieux distiller les informations au fur et à mesure du déroulé du projet pour remotiver les troupes ",
+            "choice_E1tyXLp5Z": "Non, pour rester agile et garder le contrôle, il vaut mieux donner des indications parcellaires"
+        },
+        "en": {
+            "header": "You launch a major project and organize a meeting to announce the purpose to your team. Are you right to do that?",
+            "explanation": "Select the correct answer.",
+            "klf": "A leader must share his vision with his teams. Indeed, your employees will be more motivated if they know the end goal and if they feel they are participating in something \"big\".",
+            "tips": "Communication of the leader's vision is all the more important as the teams are split up and the distance communication develops, according to the lecturer Antonin Gaunand.",
+            "clue": "What is the goal ?",
+            "choice_VJO0fLa9W": "Yes, so they will be motivated because they will immediately know the purpose of their work",
+            "choice_VkAAGUa9Z": "Yes because it allows a better organization",
+            "choice_VkGJX8Tq~": "No, it is better to distil the information as the project unfolds to motivate the troops",
+            "choice_E1tyXLp5Z": "No, to stay agile and keep control, it is better to give fragmentary indications"
+        },
+        "de": {
+            "header": "Sie starten ein groß angelegtes Projekt und beschließen, ein Meeting zu organisieren, um Ihrem Team die Ziele zu erläutern. Hast du recht damit?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Ein Führer muss seine Vision mit seinem Team teilen. Ihre Mitarbeiter werden motivierter, wenn sie das ultimative Ziel kennen und sich als Teil von etwas \"Großem\" fühlen.",
+            "tips": "Die Kommunikation der Vision des Führers ist besonders wichtig, wenn Teams fragmentiert sind und die Kommunikation per Fernkommunikation häufiger wird, so der Dozent Antonin Gaunand.",
+            "clue": "Was ist mit dem Ziel?",
+            "choice_VJO0fLa9W": "Ja, sie werden motiviert sein, die Ziele ihrer Aufgaben von Anfang an zu kennen",
+            "choice_VkAAGUa9Z": "Ja, sie werden besser organisiert sein können",
+            "choice_VkGJX8Tq~": "Nein, Informationen sollten Sie nach und nach preisgeben, um Ihr Team zu motivieren",
+            "choice_E1tyXLp5Z": "Nein, um agil zu sein und die Kontrolle zu behalten, geben Sie besser fragmentierte Informationen"
+        },
+        "es": {
+            "header": "You’re launching a large scale project and you decide to organize a meeting to explain its objectives to your team. Are you right to do so?",
+            "explanation": "Select the correct answer.",
+            "klf": "A leader must share their vision with their team. Your employees will be more motivated if they know the ultimate goal and they feel part of something \"big\".",
+            "tips": "The communication of the leader's vision is particularly important when teams are fragmented and remote communication becomes more frequent, according to the lecturer Antonin Gaunand.",
+            "choice_VJO0fLa9W": "Yes, they will be motivated by knowing from the outset the objectives of their tasks",
+            "choice_VkAAGUa9Z": "Yes, they will be able to be better organized",
+            "choice_VkGJX8Tq~": "No, better disclose information little by little in order to re-motivate your team",
+            "choice_E1tyXLp5Z": "No, in order to be agile and keep control, better give fragmented information",
+            "clue": "What about the aim?"
+        },
+        "zh": {
+            "header": "您正在启动一个大型项目，并决定组织一次会议，向您的团队解释其目标。你这样做是对的吗？",
+            "explanation": "选择正确的答案。",
+            "klf": "领导者必须与他们的团队分享他们的愿景。如果他们了解最终目标并且他们感觉自己是“大”的一部分，那么您的员工将会更有动力。",
+            "tips": "根据讲师Antonin Gaunand的说法，当团队分散，远程沟通变得更加频繁时，领导者愿景的沟通尤为重要。",
+            "clue": "目标怎么样？",
+            "choice_VJO0fLa9W": "是的，他们的动机是从一开始就了解他们的任务目标",
+            "choice_VkAAGUa9Z": "是的，他们将能够更好地组织起来",
+            "choice_VkGJX8Tq~": "不，更好地一点一点地披露信息，以便重新激励您的团队",
+            "choice_E1tyXLp5Z": "不，为了敏捷并保持控制，更好地提供零散的信息"
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:44:37.587Z",
+            "updatedAt": "2016-06-17T07:43:49.585Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E1DYCp13g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1DYCp13g.choice_EkaQkCJ2e.id",
+                        "label": "choice_EkaQkCJ2e",
+                        "value": "choice_EkaQkCJ2e"
+                    },
+                    {
+                        "id": "sli_E1DYCp13g.choice_4JAm1AJ3e.id",
+                        "label": "choice_4JAm1AJ3e",
+                        "value": "choice_4JAm1AJ3e"
+                    },
+                    {
+                        "id": "sli_E1DYCp13g.choice_V1yNkAy2x.id",
+                        "label": "choice_V1yNkAy2x",
+                        "value": "choice_V1yNkAy2x"
+                    },
+                    {
+                        "id": "sli_E1DYCp13g.choice_E1xJV10k2e.id",
+                        "label": "choice_E1xJV10k2e",
+                        "value": "choice_E1xJV10k2e"
+                    },
+                    {
+                        "id": "sli_E1DYCp13g.choice_VJxVkCy2e.id",
+                        "label": "choice_VJxVkCy2e",
+                        "value": "choice_VJxVkCy2e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1yNkAy2x",
+                        "choice_VJxVkCy2e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E1DYCp13g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'est-ce qui peut aider à passer l'étape difficile de la levée de fonds ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "D'après OpinionWay, la levée de fonds auprès des banquiers et investisseurs est difficile pour 42% des femmes. Il est alors possible de se tourner vers les fonds d'aide ou bien le microcrédit.",
+            "tips": "En 2014, la principale association française de microcrédit pour les entreprises, l'Adie, a accordé plus de 16 000 microcrédits.",
+            "clue": "Des financements sécurisés.",
+            "choice_EkaQkCJ2e": "L'emprunt auprès d'amis",
+            "choice_4JAm1AJ3e": "L'hypothèque",
+            "choice_V1yNkAy2x": "Le microcrédit",
+            "choice_E1xJV10k2e": "Le crédit individuel à la consommation",
+            "choice_VJxVkCy2e": "Les fonds d'aide"
+        },
+        "en": {
+            "header": "What can help you get through the difficult stage of fundraising?",
+            "explanation": "Select the correct answers below.",
+            "klf": "According to OpinionWay, fundraising from bankers and investors is difficult for 42% of women. It is then possible to turn to aid funds or microcredit.",
+            "tips": "In 2014, the leading French microcredit association for companies, Adie, granted more than 16,000 microloans.",
+            "clue": "Secured financing.",
+            "choice_EkaQkCJ2e": "Borrowing from friends",
+            "choice_4JAm1AJ3e": "The mortgage",
+            "choice_V1yNkAy2x": "Microcredit",
+            "choice_E1xJV10k2e": "Individual consumer credit",
+            "choice_VJxVkCy2e": "Aid funds"
+        },
+        "de": {
+            "header": "Die Finanzierung eines Unternehmens ist nicht immer einfach. Welche Finanzierungsquellen stehen zur Verfügung?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Laut OpinionWay ist die Beschaffung von Geldern bei Banken und Investoren für 42% der Frauen schwierig. Wenn sich die Finanzierung als schwierig erweist, sind Unternehmensstipendien oder Mikrokredite alternative Lösungen.",
+            "tips": "Im Jahr 2014 gewährte der französische Hauptverband für Mikrokredite für Unternehmen, Adie, mehr als 16.000 Mikrokredite.",
+            "clue": "Finanzierung sichern",
+            "choice_EkaQkCJ2e": "Ausleihen von Freunden",
+            "choice_4JAm1AJ3e": "Hypothek",
+            "choice_V1yNkAy2x": "Mikrokredit",
+            "choice_E1xJV10k2e": "Einzelner Verbraucherkredit",
+            "choice_VJxVkCy2e": "Unternehmenszuschüsse"
+        },
+        "es": {
+            "header": "Financing a business is not always easy, what sources of funding are available?",
+            "explanation": "Select the correct answers below.",
+            "klf": "According to OpinionWay, raising funds from banks and investors is difficult for 42% of women. If financing proves to be difficult, business grants or microcredit are alternative solutions.",
+            "tips": "In 2014, the main French association of microcredit for business, Adie, granted more than 16,000 microcredits.",
+            "choice_EkaQkCJ2e": "Borrowing from friends",
+            "choice_4JAm1AJ3e": "Mortgage",
+            "choice_V1yNkAy2x": "Microcredit",
+            "choice_E1xJV10k2e": "Individual consumer credit",
+            "choice_VJxVkCy2e": "Business grants",
+            "clue": "Secure funding"
+        },
+        "zh": {
+            "header": "为企业融资并不总是容易的，有哪些资金来源？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "据OpinionWay称，42％的女性难以从银行和投资者那里筹集资金。如果证明融资困难，商业补助或小额信贷是替代解决方案。",
+            "tips": "2014年，法国主要的商业小额信贷协会Adie授予超过16,000个小额信贷。",
+            "clue": "安全的资金",
+            "choice_EkaQkCJ2e": "借用朋友",
+            "choice_4JAm1AJ3e": "抵押",
+            "choice_V1yNkAy2x": "小额贷款",
+            "choice_E1xJV10k2e": "个人消费信贷",
+            "choice_VJxVkCy2e": "商业补助金"
+        }
+    }
+}
