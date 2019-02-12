@@ -1,0 +1,62 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:33:30.561Z",
+            "updatedAt": "2016-08-29T15:51:22.344Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V14WNim3l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_V14WNim3l.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_41UfSsmnl"
+                ]
+            }
+        },
+        "universalRef": "sli_V14WNim3l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il préparer avant de commencer une négociation afin de pouvoir rebondir si la première demande est refusée ? (acronyme)",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Avant de débuter une négociation, il faut préparer des MESORE, c'est-à-dire de \"MEilleures SOlutions de REchange\". Autrement dit, il faut déterminer la solution à laquelle on veut aboutir mais aussi des plans B, si la première option ne peut être atteinte.",
+            "tips": "Les MESORE permettent aussi d'éviter le piège de la solution à tout prix. Si aucune n'est acceptable, c'est que la négociation ne pouvait pas aboutir de façon satisfaisante pour les deux parties.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Un acronyme qui ressemble à ce qu'on fait avec un mètre.",
+            "choice_41UfSsmnl": "MESORE"
+        },
+        "en": {
+            "header": "What should you prepare before starting a negotiation in order to bounce back if the first request is denied? (acronym)",
+            "explanation": "Type your answer.",
+            "klf": "Before starting negotiations, you must prepare your BATNA, that is to say \"best alternative to a negotiated agreement.\". In other words, determine the solution to which is to be achieved but also a plan B if the first option cannot be achieved.",
+            "tips": "BATNA also allows you to avoid the trap of finding a solution at all costs. If none are acceptable, this is because the negotiations could not yield a satisfactory result for both parties.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_41UfSsmnl": "BATNA",
+            "clue": "An acronym"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-30T10:04:10.922Z",
+            "updatedAt": "2016-09-03T14:57:12.920Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NJ-cG5V0x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_4yXQ79VRx.id",
+                        "label": "choice_4yXQ79VRx",
+                        "value": "choice_4yXQ79VRx"
+                    },
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_4kp47qECx.id",
+                        "label": "choice_4kp47qECx",
+                        "value": "choice_4kp47qECx"
+                    },
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_4Jo575E0l.id",
+                        "label": "choice_4Jo575E0l",
+                        "value": "choice_4Jo575E0l"
+                    },
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_VyDoX5NAe.id",
+                        "label": "choice_VyDoX5NAe",
+                        "value": "choice_VyDoX5NAe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kp47qECx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NJ-cG5V0x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi certains employeurs préfèrent-ils embaucher un homme plutôt qu'une femme, selon le Centre d'études et de recherches sur les qualifications ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans une étude du Cereq, des recruteurs affirment que les mères ou futures mères sont moins disponibles. Ils préfèrent donc embaucher un homme.",
+            "tips": "Le responsable RH d'une grande entreprise interrogé par le Cereq témoigne : \"On se renseigne sur quelle organisation met en place la personne pour récupérer ses enfants le soir, sur l'âge des enfants, sur ce que fait l'époux…\"",
+            "choice_4yXQ79VRx": "Les hommes seraient plus compétents",
+            "choice_4kp47qECx": "Les femmes seraient moins disponibles à cause des enfants",
+            "clue": "8h30-19h30 ?",
+            "choice_4Jo575E0l": "Il n'y a pas de préférence entre hommes et femmes à l'embauche",
+            "choice_VyDoX5NAe": "Les femmes mettraient une mauvaise ambiance dans les équipes"
+        },
+        "en": {
+            "header": "Why do some employers prefer to hire a man rather than a woman, according to the Centre for Studies and Research on Qualifications?",
+            "explanation": "Select the correct answer.",
+            "klf": "In a Cereq study, recruiters say that mothers or future mothers are less available. They therefore prefer to hire a man.",
+            "tips": "The HR manager of a large company interviewed by Cereq says: \"Companies want to know what arrangements have been made to pick up the children in the evening, the age of children, what the husband does, etc.\"",
+            "choice_4yXQ79VRx": "Men are more competent",
+            "choice_4kp47qECx": "Women are less available because of children",
+            "choice_4Jo575E0l": "There is no preference between men and women in hiring",
+            "choice_VyDoX5NAe": "Women create a bad atmosphere in teams",
+            "clue": "8.30am - 7.30pm?"
+        }
+    }
+}

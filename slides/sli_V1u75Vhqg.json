@@ -1,0 +1,86 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-16T16:18:56.673Z",
+            "updatedAt": "2016-06-14T12:12:31.372Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V1u75Vhqg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1u75Vhqg.choice_VyZRcV3ce.id",
+                        "label": "choice_VyZRcV3ce",
+                        "value": "choice_VyZRcV3ce"
+                    },
+                    {
+                        "id": "sli_V1u75Vhqg.choice_NkXC542qg.id",
+                        "label": "choice_NkXC542qg",
+                        "value": "choice_NkXC542qg"
+                    },
+                    {
+                        "id": "sli_V1u75Vhqg.choice_VkE09425l.id",
+                        "label": "choice_VkE09425l",
+                        "value": "choice_VkE09425l"
+                    },
+                    {
+                        "id": "sli_V1u75Vhqg.choice_41BRqEn9e.id",
+                        "label": "choice_41BRqEn9e",
+                        "value": "choice_41BRqEn9e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkXC542qg",
+                        "choice_41BRqEn9e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_V1u75Vhqg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les étapes pour construire son réseau relationnel ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour construire son réseau relationnel, il faut commencer par identifier les personnes qui ont un intérêt pour votre évolution professionnelle. Ensuite, il faut se présenter à elles, à la fois à l'oral et par un CV retravaillé.",
+            "tips": "Vous pouvez vous entraîner à \"l'elevator pitch\" ou la \"présentation ascenseur\" : une présentation ou une argumentation qui dure entre 30 secondes et 2 minutes maximum.",
+            "clue": "Savoir à qui parler.",
+            "choice_VyZRcV3ce": "Définir ses objectifs",
+            "choice_NkXC542qg": "Travailler sa présentation",
+            "choice_VkE09425l": "Identifier ses atouts",
+            "choice_41BRqEn9e": "Identifier ses interlocuteurs"
+        },
+        "en": {
+            "header": "What are the stages involved in building your own network of contacts?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To build your network of contacts, you must first identify people who have an interest in your professional growth. Then, you need to approach them in person and provide an up-to-date CV.",
+            "tips": "You can practice your \"elevator pitch\": a presentation or argument which lasts from 30 seconds to 2 minutes.",
+            "choice_VyZRcV3ce": "Define your objectives",
+            "choice_NkXC542qg": "Work on your presentation",
+            "choice_VkE09425l": "Identify your strengths",
+            "choice_41BRqEn9e": "Identify your colleagues",
+            "clue": "Know who to talk to."
+        }
+    }
+}

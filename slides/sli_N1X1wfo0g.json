@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-04-04T08:43:09.586Z",
+            "updatedAt": "2017-12-01T16:35:50.080Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_N1X1wfo0g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1X1wfo0g.choice_E1ZhDGsCg.id",
+                        "label": "choice_E1ZhDGsCg",
+                        "value": "choice_E1ZhDGsCg"
+                    },
+                    {
+                        "id": "sli_N1X1wfo0g.choice_4kN2DMj0e.id",
+                        "label": "choice_4kN2DMj0e",
+                        "value": "choice_4kN2DMj0e"
+                    },
+                    {
+                        "id": "sli_N1X1wfo0g.choice_4kB2PGjAx.id",
+                        "label": "choice_4kB2PGjAx",
+                        "value": "choice_4kB2PGjAx"
+                    },
+                    {
+                        "id": "sli_N1X1wfo0g.choice_4y83wfjCl.id",
+                        "label": "choice_4y83wfjCl",
+                        "value": "choice_4y83wfjCl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1ZhDGsCg",
+                        "choice_4kB2PGjAx",
+                        "choice_4y83wfjCl"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_41oxqE0qW",
+            "poster": null
+        },
+        "universalRef": "sli_N1X1wfo0g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que peut faire Patricia pour remédier à cette situation ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Il est important de soigner son image en ligne car on est presque toujours \"googlelisé\" par ses interlocuteurs. Ce peut être à travers les réseaux sociaux ou bien par la tenue d'un blog professionnel. En cas de lien contenant des informations qui vous gênent, vous pouvez faire une demande auprès de Google pour retirer le lien en question des résultats de recherche.",
+            "tips": "Si vous décidez de tenir un blog, il faut en planifier le contenu et publier régulièrement, mais pas sur des sujets trop répétitifs, afin qu'il soit efficace pour votre communication.",
+            "context_title": "Image en ligne",
+            "context_description": "Patricia, décoratrice d'intérieur freelance, décide de s'intéresser à son image en ligne. Elle se rend compte qu'elle a un homonyme qui tient un blog sur les chihuahuas et qu'il reste un article de presse locale sur la faillite de sa précédente entreprise.",
+            "clue": "Occuper le terrain.",
+            "choice_E1ZhDGsCg": "S'inscrire sur des réseaux sociaux comme Twitter ou LinkedIn",
+            "choice_4kN2DMj0e": "Rien, ce qui est sur Internet ne peut pas disparaître",
+            "choice_4kB2PGjAx": "Demander un retrait de lien à Google",
+            "choice_4y83wfjCl": "Développer sa présence en ligne (articles, blog…)",
+            "choice_NJrLryKEW": ""
+        },
+        "en": {
+            "header": "What can Patricia do to remedy this situation ?",
+            "explanation": "Select the correct answers.",
+            "klf": "It is important to take care of your online image because you are almost always \"googled\" by your colleagues. This can be through social networks or by maintaining a professional blog. If there is a link containing information that you find embarrassing, you can ask Google to remove the link in question from the search results.",
+            "tips": "If you decide to keep a blog, for it to have a positive impact on your communication, you need to plan the content and publish regularly, avoiding subjects that are too repetitive.",
+            "choice_E1ZhDGsCg": "Register on social networks like Twitter or LinkedIn",
+            "choice_4kN2DMj0e": "Nothing that is on the internet can disappear",
+            "choice_4kB2PGjAx": "Request that Google withdraw the link",
+            "choice_4y83wfjCl": "Develop your online presence (articles, blog, etc.)",
+            "context_title": "Online image",
+            "context_description": "Patricia, a freelance interior designer, decided to focus on her online image. She realises she has a namesake who writes a blog about Chihuahuas and that a local newspaper article is still available about the bankruptcy of her previous company.",
+            "clue": "Occupy the field.",
+            "choice_NJrLryKEW": ""
+        }
+    }
+}

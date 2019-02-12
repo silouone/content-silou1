@@ -1,0 +1,83 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:50:03.979Z",
+            "updatedAt": "2017-12-01T16:49:53.351Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VykVzC72x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel71737",
+                        "label": "label_VkjGmAmne",
+                        "items": [
+                            {
+                                "text": "choice_4JgjGmRX2e",
+                                "value": "choice_4JgjGmRX2e"
+                            },
+                            {
+                                "text": "choice_NyWizXAm2e",
+                                "value": "choice_NyWizXAm2e"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel71737",
+                        "answers": [
+                            "choice_NyWizXAm2e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VykVzC72x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Votre collègue est grincheux, vous lui faites remarquer et il vous explique sèchement qu'il est triste et en colère à cause d'une mauvaise nouvelle. Que pouvez-vous dire sur son quotient émotionnel ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le docteur en psychologie Travis Bradberry a dressé une liste de 18 signes d'un quotient émotionnel élevé. Parmi eux, on peut citer un vocabulaire émotionnel diversifié, une capacité à déconnecter, une moindre susceptibilité ou tendance à être rancunier.",
+            "tips": "Certains des autres signes d'un quotient émotionnel élevé sont parfois surprenants. Par exemple : \"vous limitez votre consommation de caféine\" ou encore \"vous dormez suffisamment\".",
+            "template": "{{sel71737}}",
+            "clue": "Vous semble-t-il capable de réguler ses émotions ?",
+            "label_VkjGmAmne": " ",
+            "choice_4JgjGmRX2e": "Il est plutôt élevé",
+            "choice_NyWizXAm2e": "Il est plutôt faible"
+        },
+        "en": {
+            "header": "Your colleague is grumpy, you point this out to them and they explain coldly that some bad news has made them feel sad and angry. What can you say about their emotional intelligence?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Psychologist Dr. Travis Bradberry has developed a list of 18 signs of a high emotional quotient, such as a diverse emotional vocabulary, the capacity to disconnect, a lesser susceptibility or tendency to be resentful.",
+            "tips": "Some of the other signs of a high emotional quotient are sometimes surprising. For example : \"limiting your consumption of caffeine\" or even \"getting enough sleep\".",
+            "template": "{{sel71737}}",
+            "label_VkjGmAmne": " ",
+            "choice_4JgjGmRX2e": "It is rather high",
+            "choice_NyWizXAm2e": "It is rather low",
+            "clue": "Do they seem able to control their feelings?"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:35:29.727Z",
+            "updatedAt": "2016-09-03T15:12:25.135Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_E1S7yGEqg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1S7yGEqg.choice_Nyl6KkMVqx.id",
+                        "label": "choice_Nyl6KkMVqx",
+                        "value": "choice_Nyl6KkMVqx",
+                        "media": "med_4JpY1MNqe"
+                    },
+                    {
+                        "id": "sli_E1S7yGEqg.choice_EyxAF1G45e.id",
+                        "label": "choice_EyxAF1G45e",
+                        "value": "choice_EyxAF1G45e",
+                        "media": "med_V1CKJz4qe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyxAF1G45e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E1S7yGEqg"
+    },
+    "locales": {
+        "fr": {
+            "header": "La théorie du genre affirme que rien n'est biologique car tout est culturel. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le concept de genre ne nie pas la réalité biologique. Il vise à repérer ce qui est social, et donc arbitraire, dans les différences entre les sexes. C'est avant tout un outil conceptuel et plusieurs théories existent sur le sujet.",
+            "tips": "De nombreux chercheurs contestent l'expression \"théorie du genre\", très utilisée par les adversaires du concept, qui le décrivent comme une idéologie et non comme un outil, fruit d'études issues des sciences humaines.",
+            "clue": "Même le corps ?",
+            "choice_Nyl6KkMVqx": "Vrai",
+            "choice_EyxAF1G45e": "Faux",
+            "choice_4yec4rZdVW": ""
+        },
+        "en": {
+            "header": "Gender theory says that nothing is biological because everything is cultural. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The concept of gender does not deny biological reality. It aims to identify what is social, and therefore arbitrary, in the differences between the sexes. It is primarily a conceptual tool and there are several theories on the subject.",
+            "tips": "Many researchers contest the expression \"gender theory\", widely challenged by opponents of the concept, who describe it as an ideology, not a tool, the result of studies from humanities.",
+            "choice_Nyl6KkMVqx": "True",
+            "choice_EyxAF1G45e": "False",
+            "clue": "Even the body?",
+            "choice_4yec4rZdVW": ""
+        }
+    }
+}

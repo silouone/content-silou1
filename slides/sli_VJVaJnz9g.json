@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:39:57.058Z",
+            "updatedAt": "2016-02-15T08:31:06.243Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VJVaJnz9g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJVaJnz9g.choice_NkeJog3G5l.id",
+                        "label": "choice_NkeJog3G5l",
+                        "value": "choice_NkeJog3G5l",
+                        "media": "med_E1Joe2Gcl"
+                    },
+                    {
+                        "id": "sli_VJVaJnz9g.choice_NyxZsehfqg.id",
+                        "label": "choice_NyxZsehfqg",
+                        "value": "choice_NyxZsehfqg",
+                        "media": "med_EkZsenM9x"
+                    },
+                    {
+                        "id": "sli_VJVaJnz9g.choice_E1GbjgnM5e.id",
+                        "label": "choice_E1GbjgnM5e",
+                        "value": "choice_E1GbjgnM5e",
+                        "media": "med_41bboenM9l"
+                    },
+                    {
+                        "id": "sli_VJVaJnz9g.choice_4yxMjxhGqe.id",
+                        "label": "choice_4yxMjxhGqe",
+                        "value": "choice_4yxMjxhGqe",
+                        "media": "med_EJfjg3Mcg"
+                    },
+                    {
+                        "id": "sli_VJVaJnz9g.choice_Ekgmje3fce.id",
+                        "label": "choice_Ekgmje3fce",
+                        "value": "choice_Ekgmje3fce",
+                        "media": "med_41Xox2f5g"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyxZsehfqg",
+                        "choice_Ekgmje3fce"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VJVaJnz9g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Lesquels de ces jouets vont plutôt être offerts aux filles qu'aux garçons ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Selon l'association Adéquations, on propose principalement aux filles des jouets d'imitation, comme des chariots de ménage ou des poupées, et aux garçons des jeux plus scientifiques. Cette segmentation est nette dans les catalogues de jouets.",
+            "tips": "La segmentation filles/garçons dans les catalogues de jouets s'accentue depuis les années 1990, selon les sociologues Mona Zegaï et Christine Guionnet.",
+            "clue": "Pensez aux catalogues de jouets.",
+            "choice_NkeJog3G5l": "Camion de pompiers",
+            "choice_NyxZsehfqg": "Cuisine",
+            "choice_E1GbjgnM5e": "Jeux électroniques",
+            "choice_4yxMjxhGqe": "Jeux de construction",
+            "choice_Ekgmje3fce": "Poupée",
+            "choice_EkeIfZ3zqg": ""
+        },
+        "en": {
+            "header": "Lesquels de ces jouets vont plutôt être offerts aux filles qu'aux garçons ?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Selon l'association Adéquations, on propose principalement aux filles des jouets d'imitation, comme des chariots de ménage ou des poupées, et aux garçons des jeux plus scientifiques. Cette segmentation est nette dans les catalogues de jouets.",
+            "tips": "La segmentation filles/garçons dans les catalogues de jouets s'accentue depuis les années 1990, selon les sociologues Mona Zegaï et Christine Guionnet.",
+            "choice_NkeJog3G5l": "Camion de pompiers",
+            "choice_NyxZsehfqg": "Cuisine",
+            "choice_E1GbjgnM5e": "Jeux électroniques",
+            "choice_4yxMjxhGqe": "Jeux de construction",
+            "choice_Ekgmje3fce": "Poupée",
+            "choice_EkeIfZ3zqg": "",
+            "clue": "Pensez aux catalogues de jouets."
+        }
+    }
+}

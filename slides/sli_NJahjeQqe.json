@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:01:07.325Z",
+            "updatedAt": "2016-08-23T10:35:38.546Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NJahjeQqe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel80540",
+                        "label": "label_EkirnxXql",
+                        "items": [
+                            {
+                                "text": "choice_NJlsB2xXqg",
+                                "value": "choice_NJlsB2xXqg"
+                            },
+                            {
+                                "text": "choice_4kWsBheQqx",
+                                "value": "choice_4kWsBheQqx"
+                            },
+                            {
+                                "text": "choice_NyyIhgm9x",
+                                "value": "choice_NyyIhgm9x"
+                            },
+                            {
+                                "text": "choice_41lyIhl75g",
+                                "value": "choice_41lyIhl75g"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel80540",
+                        "answers": [
+                            "choice_NyyIhgm9x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_NJahjeQqe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel était l'écart salarial entre hommes et femmes aux États-Unis en 2014 ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Tous les pays sont concernés par les inégalités salariales entre hommes et femmes. Aux États-Unis, le recensement gouvernemental de 2014 a révélé un écart de 21%.",
+            "tips": "Le mauvais élève européen, c'est l'Estonie. Les hommes y sont payés près de 30% de plus que les femmes (source : Eurostat, 2015).",
+            "template": "{{sel80540}}",
+            "clue": "Comme l'âge de la majorité.",
+            "label_EkirnxXql": " ",
+            "choice_NJlsB2xXqg": "9%",
+            "choice_4kWsBheQqx": "15%",
+            "choice_NyyIhgm9x": "21%",
+            "choice_41lyIhl75g": "39%"
+        },
+        "en": {
+            "header": "What was the wage gap between men and women in the United States in 2014?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "All countries are affected by wage inequalities between men and women. In the United States, the government census in 2014 revealed a 21% gap.",
+            "tips": "The worst European country is Estonia. The men are paid about 30% more than women. (Source: Eurostat, 2015)",
+            "template": "{{sel80540}}",
+            "label_EkirnxXql": " ",
+            "choice_NJlsB2xXqg": "9%",
+            "choice_4kWsBheQqx": "15%",
+            "choice_NyyIhgm9x": "21%",
+            "choice_41lyIhl75g": "39%",
+            "clue": "Same as the age of majority."
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:54:45.414Z",
+            "updatedAt": "2017-12-04T18:51:10.503Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VJ~tPs7hg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel42877",
+                        "label": "label_VyQYfaNRl",
+                        "items": [
+                            {
+                                "text": "choice_EyeXKfaEAx",
+                                "value": "choice_EyeXKfaEAx"
+                            },
+                            {
+                                "text": "choice_EyZ7KGaVCg",
+                                "value": "choice_EyZ7KGaVCg"
+                            },
+                            {
+                                "text": "choice_VkHcGaEAg",
+                                "value": "choice_VkHcGaEAg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel42877",
+                        "answers": [
+                            "choice_EyZ7KGaVCg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VJ~tPs7hg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle expression utilisée par l'auteur et professeur William Ury désigne une méthode pour sortir de l'impasse ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En cas de négociation difficile, William Ury conseille de \"monter au balcon\", c'est-à-dire de prendre de la hauteur. Pour cela, analysez la situation comme une tierce personne et cherchez à adapter votre approche.",
+            "tips": "D'après le coach Olivier Pauvarel, dans cette situation, l'idée n'est pas de regarder le contenu de la négociation mais bien l'interaction qui se déroule.",
+            "template": "{{sel42877}}",
+            "clue": "Voir les choses d'en haut.",
+            "label_4Jxlz9jX2g": " ",
+            "placeholder_EkWgf9iQ2e": " ",
+            "label_NJ7-f6V0e": " ",
+            "choice_Nyx7uzaN0e": "",
+            "choice_E1~Q-za40g": "",
+            "label_VyQYfaNRl": " ",
+            "choice_EyeXKfaEAx": "Poser cartes sur table",
+            "choice_EyZ7KGaVCg": "Monter au balcon",
+            "choice_VkHcGaEAg": "Défricher le chemin"
+        },
+        "en": {
+            "header": "What expression used by author and professor William Ury refers to a method that can be used to break the deadlock?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "If negotiations prove to be difficult, William Ury advises to \"go to the balcony,\" that is to say to gain some distance. For this, analyse the situation as a third party and try to adapt your approach.",
+            "tips": "According to the coach Olivier Pauvarel, in this situation, the idea is not to look at the content of the negotiation but at the interaction that takes place.",
+            "template": "{{sel42877}}",
+            "label_4Jxlz9jX2g": " ",
+            "placeholder_EkWgf9iQ2e": " ",
+            "label_NJ7-f6V0e": " ",
+            "choice_Nyx7uzaN0e": "",
+            "choice_E1~Q-za40g": "",
+            "label_VyQYfaNRl": " ",
+            "choice_EyeXKfaEAx": "Place your cards on the table",
+            "choice_EyZ7KGaVCg": "Go to the balcony",
+            "choice_VkHcGaEAg": "Clear the way",
+            "clue": "View things from above."
+        }
+    }
+}

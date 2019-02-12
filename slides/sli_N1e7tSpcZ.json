@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-08-29T15:53:03.943Z",
+            "updatedAt": "2017-12-04T19:10:02.902Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ThereseG",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_N1e7tSpcZ",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel56761",
+                        "label": "label_4ywHtS6qb",
+                        "items": [
+                            {
+                                "text": "choice_41lvSKSacb",
+                                "value": "choice_41lvSKSacb"
+                            },
+                            {
+                                "text": "choice_4yZDrKB69~",
+                                "value": "choice_4yZDrKB69~"
+                            },
+                            {
+                                "text": "choice_VyCLFSa5Z",
+                                "value": "choice_VyCLFSa5Z"
+                            },
+                            {
+                                "text": "choice_4kNwtSacW",
+                                "value": "choice_4kNwtSacW"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel56761",
+                        "answers": [
+                            "choice_VyCLFSa5Z"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N1e7tSpcZ"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il préparer avant de commencer une négociation afin de pouvoir rebondir si la première demande est refusée ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Avant de débuter une négociation, il faut préparer des MESORE, c'est-à-dire de \"MEilleures SOlutions de REchange\". Autrement dit, il faut déterminer la solution à laquelle on veut aboutir mais aussi des plans B, si la première option ne peut être atteinte.",
+            "tips": "Les MESORE permettent aussi d'éviter le piège de la solution à tout prix. Si aucune n'est acceptable, c'est que la négociation ne pouvait pas aboutir de façon satisfaisante pour les deux parties.",
+            "template": "Des MESORE : des meilleures solutions de {{sel56761}}",
+            "clue": "Alternative.",
+            "label_4ywHtS6qb": " ",
+            "choice_41lvSKSacb": "repli",
+            "choice_4yZDrKB69~": "recrutement",
+            "choice_VyCLFSa5Z": "rechange",
+            "choice_4kNwtSacW": "remplacement"
+        },
+        "en": {
+            "header": "What should you prepare before starting a negotiation in order to bounce back if the first request is denied?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Before starting negotiations, you must prepare your BATNA, that is to say \"Best Alternative To a Negotiated Agreement\". In other words, determine the desired solution but also a plan B if the first option cannot be achieved.",
+            "tips": "BATNA also allows you to avoid the trap of finding a solution at all costs. If none are acceptable, this is because the negotiations could not yield a satisfactory result for both parties.",
+            "template": "BATNA: Best {{sel56761}} To a Negotiated Agreement.",
+            "label_4ywHtS6qb": " ",
+            "choice_41lvSKSacb": "Answer",
+            "choice_4yZDrKB69~": "Advantage",
+            "choice_VyCLFSa5Z": "Alternative",
+            "choice_4kNwtSacW": "Action",
+            "clue": "Choice."
+        }
+    }
+}

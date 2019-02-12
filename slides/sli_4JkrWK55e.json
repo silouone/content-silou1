@@ -1,0 +1,89 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-15T08:56:56.512Z",
+            "updatedAt": "2016-09-03T15:14:10.528Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4JkrWK55e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel70367",
+                        "label": "label_Nyfj~K95g",
+                        "items": [
+                            {
+                                "text": "choice_4yxfoWtq9g",
+                                "value": "choice_4yxfoWtq9g"
+                            },
+                            {
+                                "text": "choice_4yWzobY5qg",
+                                "value": "choice_4yWzobY5qg"
+                            },
+                            {
+                                "text": "choice_EyXsWF9qg",
+                                "value": "choice_EyXsWF9qg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel70367",
+                        "answers": [
+                            "choice_4yxfoWtq9g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4JkrWK55e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle expression désigne l'ensemble des discriminations subies par les femmes ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La féministe américaine Kimberlé Williams Crenshaw montre que les femmes peuvent subir d'autres oppressions simultanément, comme le racisme ou la pauvreté. C'est ce qu'elle appelle l'intersectionnalité des discriminations. Celles-ci doivent donc être appréhendées dans leur ensemble.",
+            "tips": "D'autres termes sont parfois utilisés comme \"interconnectivité\" ou \"identités multiplicatives\" pour parler de ce phénomène de cumul des handicaps.",
+            "template": "{{sel70367}}",
+            "clue": "Le rond-point des oppressions.",
+            "label_Nyfj~K95g": " ",
+            "choice_4yxfoWtq9g": "L'intersectionnalité",
+            "choice_4yWzobY5qg": "La cumulativité",
+            "choice_EyXsWF9qg": "La multi-oppressivité"
+        },
+        "en": {
+            "header": "Which term refers to all discrimination suffered by women?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The American feminist Kimberly Williams Crenshaw shows that women can suffer more oppression simultaneously, such as racism or poverty. This is what she calls the intersectionality of discrimination. These must therefore be understood as a whole.",
+            "tips": "Other terms are sometimes used such as \"interconnectivity\" or \"multiplicative identity\" to talk about this accumulated phenomenon of disadvantages.",
+            "template": "{{sel70367}}",
+            "label_Nyfj~K95g": " ",
+            "choice_4yxfoWtq9g": "Intersectionality",
+            "choice_4yWzobY5qg": "Cumulativity",
+            "choice_EyXsWF9qg": "Multi-oppressivity",
+            "clue": "The roundabout of oppression."
+        }
+    }
+}

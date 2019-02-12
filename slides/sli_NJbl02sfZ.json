@@ -1,0 +1,104 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T09:37:20.434Z",
+            "updatedAt": "2017-12-04T20:45:55.591Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NJbl02sfZ",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJbl02sfZ.choice_VkLmRhszW.id",
+                        "label": "choice_VkLmRhszW",
+                        "value": "choice_VkLmRhszW"
+                    },
+                    {
+                        "id": "sli_NJbl02sfZ.choice_EJA70njMZ.id",
+                        "label": "choice_EJA70njMZ",
+                        "value": "choice_EJA70njMZ"
+                    },
+                    {
+                        "id": "sli_NJbl02sfZ.choice_EJSNAhsGZ.id",
+                        "label": "choice_EJSNAhsGZ",
+                        "value": "choice_EJSNAhsGZ"
+                    },
+                    {
+                        "id": "sli_NJbl02sfZ.choice_416VC3oMW.id",
+                        "label": "choice_416VC3oMW",
+                        "value": "choice_416VC3oMW"
+                    },
+                    {
+                        "id": "sli_NJbl02sfZ.choice_VJvrAniMW.id",
+                        "label": "choice_VJvrAniMW",
+                        "value": "choice_VJvrAniMW"
+                    },
+                    {
+                        "id": "sli_NJbl02sfZ.choice_VkorRhozW.id",
+                        "label": "choice_VkorRhozW",
+                        "value": "choice_VkorRhozW"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkLmRhszW",
+                        "choice_EJSNAhsGZ",
+                        "choice_416VC3oMW",
+                        "choice_VkorRhozW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NJbl02sfZ"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les quatre principales postures physiques lorsque vous faites une présentation orale ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le conseiller en communication Laurent Philibert distingue quatre types de postures : les postures de domination, de partage, de rejet et de soumission.",
+            "tips": "Les différents types de postures peuvent être classés selon deux critères : le rapport à la verticalité et le mouvement induit par la position.",
+            "clue": "Des attitudes, pas des sentiments.",
+            "choice_V12MC3jzZ": "Postures de concession NON",
+            "choice_VkLmRhszW": "Postures de domination",
+            "choice_EJA70njMZ": "Postures de colère",
+            "choice_EJSNAhsGZ": "Postures de partage",
+            "choice_416VC3oMW": "Postures de rejet",
+            "choice_VJvrAniMW": "Postures d'amour",
+            "choice_VkorRhozW": "Postures de soumission"
+        },
+        "en": {
+            "header": "What are the four main physical postures when doing an oral presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "The media adviser Laurent Philibert distinguishes four types of posture: postures of domination, sharing, rejection and submission.",
+            "tips": "The different types of posture can be classified according to two criteria: the link with verticality and the movement induced by position.",
+            "choice_V12MC3jzZ": "Postures of concession",
+            "choice_VkLmRhszW": "Postures of domination",
+            "choice_EJA70njMZ": "Postures of anger",
+            "choice_EJSNAhsGZ": "Postures of sharing",
+            "choice_416VC3oMW": "Postures of rejection",
+            "choice_VJvrAniMW": "Postures of love",
+            "choice_VkorRhozW": "Postures of submission",
+            "clue": "Attitudes, not feelings."
+        }
+    }
+}

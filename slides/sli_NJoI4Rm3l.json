@@ -1,0 +1,61 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:56:59.652Z",
+            "updatedAt": "2016-04-04T08:23:08.125Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NJoI4Rm3l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_NJoI4Rm3l.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_V1waVAX3g"
+                ]
+            }
+        },
+        "universalRef": "sli_NJoI4Rm3l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le quatrième pilier de l'intelligence émotionnelle ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Le quatrième pilier de l'intelligence émotionnelle est l'empathie. Cette faculté émotionnelle est indispensable pour nouer des relations harmonieuses avec ses collaborateurs.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "\"Faculté intuitive de se mettre à la place d'autrui\", dit le Larousse.",
+            "choice_V1waVAX3g": "empathie"
+        },
+        "en": {
+            "header": "Quel est le quatrième pilier de l'intelligence émotionnelle ?",
+            "explanation": "Type your answer.",
+            "klf": "Le quatrième pilier de l'intelligence émotionnelle est l'empathie. Cette faculté émotionnelle est indispensable pour nouer des relations harmonieuses avec ses collaborateurs.",
+            "tips": "",
+            "label": " ",
+            "placeholder": " ",
+            "choice_V1waVAX3g": "empathie",
+            "clue": "\"Faculté intuitive de se mettre à la place d'autrui\", dit le Larousse."
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-08-29T16:09:37.624Z",
+            "updatedAt": "2017-12-04T21:15:48.327Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ThereseG",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_EJDb6HTq~",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJDb6HTq~.choice_Ny57pra9b.id",
+                        "label": "choice_Ny57pra9b",
+                        "value": "choice_Ny57pra9b"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_41yV6Sp9Z.id",
+                        "label": "choice_41yV6Sp9Z",
+                        "value": "choice_41yV6Sp9Z"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_NJUEarpc~.id",
+                        "label": "choice_NJUEarpc~",
+                        "value": "choice_NJUEarpc~"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_4ygraSp5Z.id",
+                        "label": "choice_4ygraSp5Z",
+                        "value": "choice_4ygraSp5Z"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_NJIHaBpc~.id",
+                        "label": "choice_NJIHaBpc~",
+                        "value": "choice_NJIHaBpc~"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_VJ3BpBTqW.id",
+                        "label": "choice_VJ3BpBTqW",
+                        "value": "choice_VJ3BpBTqW"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_V1ZLTHaqW.id",
+                        "label": "choice_V1ZLTHaqW",
+                        "value": "choice_V1ZLTHaqW"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_VJuI6Sa9W.id",
+                        "label": "choice_VJuI6Sa9W",
+                        "value": "choice_VJuI6Sa9W"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJUEarpc~",
+                        "choice_VJ3BpBTqW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EJDb6HTq~"
+    },
+    "locales": {
+        "fr": {
+            "header": "Physiquement, quelle est la gestuelle à adopter pour montrer sa volonté de partage ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les postures de partage se caractérisent par un corps penché vers l'avant et des mains ouvertes.",
+            "tips": "On appelle \"communication incidente\" les informations parallèles données sans s'en rendre compte.",
+            "clue": "Soyez tourné vers les autres…",
+            "choice_Ny57pra9b": "Debout",
+            "choice_41yV6Sp9Z": "Penché en arrière",
+            "choice_NJUEarpc~": "Penché en avant",
+            "choice_4ygraSp5Z": "Assis dans le public",
+            "choice_NJIHaBpc~": "Mains contre le corps",
+            "choice_VJ3BpBTqW": "Mains ouvertes",
+            "choice_V1ZLTHaqW": "Mains jointes",
+            "choice_VJuI6Sa9W": "Mains fermées"
+        },
+        "en": {
+            "header": "Physically, what posture should you adopt to show you’re eager to share?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
+            "tips": "We call \"incidental communication\" parallel information given without realizing it.",
+            "choice_Ny57pra9b": "Standing",
+            "choice_41yV6Sp9Z": "Leaning backward",
+            "choice_NJUEarpc~": "Leaning forward",
+            "choice_4ygraSp5Z": "Seated with the audience",
+            "choice_NJIHaBpc~": "Hands stuck to the body",
+            "choice_VJ3BpBTqW": "Open hands",
+            "choice_V1ZLTHaqW": "Closed hands",
+            "choice_VJuI6Sa9W": "Joined hands",
+            "clue": "Turn towards the others…"
+        }
+    }
+}

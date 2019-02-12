@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:24:41.720Z",
+            "updatedAt": "2017-12-04T17:37:38.563Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NkxBzoXhx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel70064",
+                        "label": "label_EJ8xmjQ2g",
+                        "items": [
+                            {
+                                "text": "choice_4ylUeQsm2x",
+                                "value": "choice_4ylUeQsm2x"
+                            },
+                            {
+                                "text": "choice_Ey~Ig7jQ3l",
+                                "value": "choice_Ey~Ig7jQ3l"
+                            },
+                            {
+                                "text": "choice_Nk9gms7nl",
+                                "value": "choice_Nk9gms7nl"
+                            },
+                            {
+                                "text": "choice_V1je7iX3l",
+                                "value": "choice_V1je7iX3l"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel70064",
+                        "answers": [
+                            "choice_Nk9gms7nl"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_NkxBzoXhx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment s'appelle la méthode de gestion de conflit des professeurs de Harvard William Ury et Roger Fisher ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le conflit n'est pas nécessairement négatif, il peut être sain. Bien géré, il peut aboutir à une collaboration gagnant-gagnant. C'est ce que développent les professeurs de Harvard Roger Fisher et William Ury dans leur méthode \"Getting to Yes\", introduite en France par Michel Ghazal, expert en négociation.",
+            "tips": "Publié en 1981, le livre \"Getting to Yes\", de Roger Fisher, William Ury et Bruce Patton, résume la méthode mise au point pendant le Harvard Negotiation Project.",
+            "template": "Getting to {{sel70064}}",
+            "clue": "… we can!",
+            "label_EJ8xmjQ2g": " ",
+            "choice_4ylUeQsm2x": "No",
+            "choice_Ey~Ig7jQ3l": "Struggle",
+            "choice_Nk9gms7nl": "Yes",
+            "choice_V1je7iX3l": "Success"
+        },
+        "en": {
+            "header": "What is the conflict management method of Harvard professors William Ury and Roger Fisher called? ",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Conflict is not necessarily negative, it can be healthy. Well managed, it can lead to a win-win co-operation. This is what Harvard professors Roger Fisher and William Ury developed in their method \"Getting to Yes\", introduced to France by negotiation expert Michel Ghazal.",
+            "tips": "Published in 1981 the book \"Getting to Yes\" by Roger Fisher, William Ury and Bruce Patton, summarises the methodology developed for the Harvard Negotiation Project.",
+            "template": "Getting to {{sel70064}}",
+            "label_EJ8xmjQ2g": " ",
+            "choice_4ylUeQsm2x": "No",
+            "choice_Ey~Ig7jQ3l": "Struggle",
+            "choice_Nk9gms7nl": "Yes",
+            "choice_V1je7iX3l": "Success",
+            "clue": "… we can!"
+        }
+    }
+}

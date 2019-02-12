@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-30T09:08:10.097Z",
+            "updatedAt": "2016-09-03T16:35:42.395Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V1UXIFV0x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel47836",
+                        "label": "label_NJtdUFECx",
+                        "items": [
+                            {
+                                "text": "choice_V1gFO8K4Cx",
+                                "value": "choice_V1gFO8K4Cx"
+                            },
+                            {
+                                "text": "choice_VJWYd8tEAg",
+                                "value": "choice_VJWYd8tEAg"
+                            },
+                            {
+                                "text": "choice_41l9Lt4Al",
+                                "value": "choice_41l9Lt4Al"
+                            },
+                            {
+                                "text": "choice_VJb5UtVCg",
+                                "value": "choice_VJb5UtVCg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel85113",
+                        "label": "label_EJkRIpPz~",
+                        "items": [
+                            {
+                                "text": "choice_Vyg10ITPG~",
+                                "value": "choice_Vyg10ITPG~"
+                            },
+                            {
+                                "text": "choice_4yb1AIpDfZ",
+                                "value": "choice_4yb1AIpDfZ"
+                            },
+                            {
+                                "text": "choice_4JJyP6PMb",
+                                "value": "choice_4JJyP6PMb"
+                            },
+                            {
+                                "text": "choice_VJQJPTPfZ",
+                                "value": "choice_VJQJPTPfZ"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel47836",
+                        "answers": [
+                            "choice_V1gFO8K4Cx"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel85113",
+                        "answers": [
+                            "choice_4JJyP6PMb"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_V1UXIFV0x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle proportion des revenus mondiaux est gagnée par les femmes ? Pour quelle proportion des heures travaillées ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Selon les Nations unies, les femmes effectuent les deux tiers des heures travaillées dans le monde. Pourtant, elles ne gagnent que 10% des revenus mondiaux. Elles produisent également 50% de la nourriture et détiennent 1% de la propriété (source : Unicef 2007).",
+            "tips": "La pauvreté rurale des femmes a même fortement augmenté dans le monde depuis 1975 : +50% (Haut Commissariat des Nations unies aux droits de l'homme).",
+            "template": "Elles touchent {{sel47836}} des revenus mondiaux et effectuent {{sel85113}} des heures travaillées.",
+            "clue": "Bien loin de la parité.",
+            "label_NJtdUFECx": " ",
+            "choice_V1gFO8K4Cx": "10%",
+            "choice_VJWYd8tEAg": "25%",
+            "choice_41l9Lt4Al": "50%",
+            "choice_VJb5UtVCg": "75%",
+            "label_EJkRIpPz~": " ",
+            "choice_Vyg10ITPG~": "1/4",
+            "choice_4yb1AIpDfZ": "1/2",
+            "choice_4JJyP6PMb": "2/3",
+            "choice_VJQJPTPfZ": "3/4"
+        },
+        "en": {
+            "header": "What proportion of global income is earned by women? For what proportion of hours worked?",
+            "explanation": "Select the correct answer in the drop-down menus.",
+            "klf": "According to the UN, women do two thirds of the hours worked in the world. Yet they earn only 10% of global income. They also produce 50% of the food and own 1% of the property (source: UNICEF 2007).",
+            "tips": "Rural poverty of women has even increased dramatically worldwide since 1975: + 50% (United Nations High Commissioner for Human Rights).",
+            "template": "Women earn  {{sel47836}}  of global income, while working  {{sel85113}}  of the hours worked in the world.",
+            "label_NJtdUFECx": " ",
+            "choice_V1gFO8K4Cx": "10%",
+            "choice_VJWYd8tEAg": "25%",
+            "choice_41l9Lt4Al": "50%",
+            "choice_VJb5UtVCg": "75%",
+            "label_EJkRIpPz~": " ",
+            "choice_Vyg10ITPG~": "1/4",
+            "choice_4yb1AIpDfZ": "1/2",
+            "choice_4JJyP6PMb": "2/3",
+            "choice_VJQJPTPfZ": "3/4",
+            "clue": "Far from equality."
+        }
+    }
+}

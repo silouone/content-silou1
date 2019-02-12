@@ -1,0 +1,93 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T11:03:07.906Z",
+            "updatedAt": "2016-09-03T14:31:34.977Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NkEjBhz9x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkEjBhz9x.choice_V1v4I2fqg.id",
+                        "label": "choice_V1v4I2fqg",
+                        "value": "choice_V1v4I2fqg"
+                    },
+                    {
+                        "id": "sli_NkEjBhz9x.choice_EJK4I3M9e.id",
+                        "label": "choice_EJK4I3M9e",
+                        "value": "choice_EJK4I3M9e"
+                    },
+                    {
+                        "id": "sli_NkEjBhz9x.choice_N1jVL2f5l.id",
+                        "label": "choice_N1jVL2f5l",
+                        "value": "choice_N1jVL2f5l"
+                    },
+                    {
+                        "id": "sli_NkEjBhz9x.choice_4kh4L2Gcg.id",
+                        "label": "choice_4kh4L2Gcg",
+                        "value": "choice_4kh4L2Gcg"
+                    },
+                    {
+                        "id": "sli_NkEjBhz9x.choice_N1CEL3fqg.id",
+                        "label": "choice_N1CEL3fqg",
+                        "value": "choice_N1CEL3fqg"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1CEL3fqg"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NkEjBhz9x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'a fait l'Organisation internationale du travail en 1919 ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En 1919, la convention n°4 de l'OIT (Organisation internationale du travail) interdit le travail de nuit pour les femmes dans l'industrie. Ce type de texte soulève une question : les femmes doivent-elles bénéficier de protections spécifiques par rapport aux hommes ou doivent-elles avoir exactement les mêmes droits qu'eux ?",
+            "tips": "Il faudra attendre 1990 pour que l'OIT autorise des dérogations, via la convention n°171 entrée en vigueur en 1995.",
+            "clue": "Pensez aux \"trois huit\"…",
+            "choice_V1v4I2fqg": "Elle a limité certains secteurs d'activité aux hommes",
+            "choice_EJK4I3M9e": "Elle a interdit le travail des enfants",
+            "choice_EkqEIhG9e": "Elle est signée en 1937",
+            "choice_N1jVL2f5l": "Elle a interdit les charges trop lourdes pour les ouvrières",
+            "choice_4kh4L2Gcg": "Elle a autorisé les femmes à travailler dans l'industrie",
+            "choice_N1CEL3fqg": "Elle a interdit le travail de nuit pour les femmes"
+        },
+        "en": {
+            "header": "What did the International Labour Organisation do in 1919?",
+            "explanation": "Select the correct answer.",
+            "klf": "In 1919, convention no. 4 of the ILO (International Labour Organisation) prohibited night work for women in industry. This type of text raises the question: should women enjoy specific protections compared to men or should they have exactly the same rights?",
+            "tips": "It was not until 1990 that the ILO permitted exceptions, via convention no. 171 which came into force in 1995.",
+            "choice_V1v4I2fqg": "It limited certain sectors of activity to men",
+            "choice_EJK4I3M9e": "It prohibited child labour",
+            "choice_EkqEIhG9e": "Elle est signée en 1937",
+            "choice_N1jVL2f5l": "It prohibited loads that are too heavy for workers",
+            "choice_4kh4L2Gcg": "It authorised women to work in industry",
+            "choice_N1CEL3fqg": "It prohibited night work for women",
+            "clue": "Think of shift work"
+        }
+    }
+}

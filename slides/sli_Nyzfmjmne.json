@@ -1,0 +1,93 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:28:23.011Z",
+            "updatedAt": "2016-09-03T16:31:11.972Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_Nyzfmjmne",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nyzfmjmne.choice_4y4nXi7hl.id",
+                        "label": "choice_4y4nXi7hl",
+                        "value": "choice_4y4nXi7hl"
+                    },
+                    {
+                        "id": "sli_Nyzfmjmne.choice_EkB27sQ3x.id",
+                        "label": "choice_EkB27sQ3x",
+                        "value": "choice_EkB27sQ3x"
+                    },
+                    {
+                        "id": "sli_Nyzfmjmne.choice_4kD37sXne.id",
+                        "label": "choice_4kD37sXne",
+                        "value": "choice_4kD37sXne"
+                    },
+                    {
+                        "id": "sli_Nyzfmjmne.choice_N1dhXjX2e.id",
+                        "label": "choice_N1dhXjX2e",
+                        "value": "choice_N1dhXjX2e"
+                    },
+                    {
+                        "id": "sli_Nyzfmjmne.choice_4yK37i7ne.id",
+                        "label": "choice_4yK37i7ne",
+                        "value": "choice_4yK37i7ne"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkB27sQ3x",
+                        "choice_4kD37sXne",
+                        "choice_4yK37i7ne"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Nyzfmjmne"
+    },
+    "locales": {
+        "fr": {
+            "header": "Bien négocier, c'est d'abord \"négocier avec soi-même\" en \"passant dans son propre camp\". Comment y parvenir ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour réussir à négocier avec vous-même, passez dans votre camp. Oubliez vos tendances à l'autocritique pour vous appuyer sur vos succès et vos atouts. Il est important d'avoir de l'empathie envers soi-même.",
+            "tips": "Selon la professeure et infirmière Marie-Françoise Collière, l'auto-empathie passe par la réponse à plusieurs questions, comme \"comment est-ce que je me sens ?\", \"quel est mon besoin ?\" ou encore \"quels sont mes schémas mentaux ?\".",
+            "clue": "Du positif !",
+            "choice_4y4nXi7hl": "Faire le bilan de ses échecs",
+            "choice_EkB27sQ3x": "Arrêter de se dénigrer",
+            "choice_4kD37sXne": "S'appuyer sur ses atouts",
+            "choice_N1dhXjX2e": "Comprendre pourquoi on n'est pas à la hauteur",
+            "choice_4yK37i7ne": "Avoir de l'empathie envers soi-même"
+        },
+        "en": {
+            "header": "To negotiate well, first you have to \"negotiate with yourself\" by \"going over to your side.\" How can you achieve this?",
+            "explanation": "Select the correct answers.",
+            "klf": "To successfully negotiate with yourself, go over to your side. Forget your tendencies to criticise yourself in order to build on your accomplishments and strengths. It is important to have self-empathy.",
+            "tips": "According to the professor and nurse Marie-Françoise Collière, self-empathy involves answering several questions, like \"how do I feel?\", \"what are my needs?\" or \"what are my mental patterns?\".",
+            "choice_4y4nXi7hl": "Take stock of your failures",
+            "choice_EkB27sQ3x": "Stop critising yourself",
+            "choice_4kD37sXne": "Build on your strengths",
+            "choice_N1dhXjX2e": "Understand your inadequacies",
+            "choice_4yK37i7ne": "Self-empathy",
+            "clue": "Be positive!"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:20:32.704Z",
+            "updatedAt": "2016-08-23T10:37:00.939Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NkUNeWXqg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NkUNeWXqg.choice_4y1Ce~7cx.id",
+                        "label": "choice_4y1Ce~7cx",
+                        "value": "choice_4y1Ce~7cx"
+                    },
+                    {
+                        "id": "sli_NkUNeWXqg.choice_N1UAeW7qe.id",
+                        "label": "choice_N1UAeW7qe",
+                        "value": "choice_N1UAeW7qe"
+                    },
+                    {
+                        "id": "sli_NkUNeWXqg.choice_VyCAgbm5l.id",
+                        "label": "choice_VyCAgbm5l",
+                        "value": "choice_VyCAgbm5l"
+                    },
+                    {
+                        "id": "sli_NkUNeWXqg.choice_4kDJZ~7qe.id",
+                        "label": "choice_4kDJZ~7qe",
+                        "value": "choice_4kDJZ~7qe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1UAeW7qe",
+                        "choice_VyCAgbm5l"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NkUNeWXqg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Un poste se libère dans une entreprise. Laura et Maxime peuvent postuler mais n'ont que 60% des compétences requises. En règle générale, comment vont-ils réagir ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les femmes sont souvent leur meilleure ennemie : par manque de confiance, elles s'autolimitent, voire se sabordent. Les statistiques montrent que pour un même poste, un homme postulera même s'il n'a que 50% des compétences requises alors qu'une femme ne répondra que si elle estime maîtriser parfaitement le poste.",
+            "tips": "Cela vaut aussi pour les concours académiques, auxquels les femmes postulent 30% à 40% de moins que les hommes (étude Sciences Po, 2014).",
+            "clue": "Autocensure.",
+            "choice_4y1Ce~7cx": "Laura postule",
+            "choice_N1UAeW7qe": "Maxime postule",
+            "choice_VyCAgbm5l": "Laura ne postule pas",
+            "choice_4kDJZ~7qe": "Maxime ne postule pas"
+        },
+        "en": {
+            "header": "A vacancy has arisen in a company. Laura and Maxime can apply but have only 60% of the required skills. In general, how will they react?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Women are often their own worst enemy: through lack of confidence, they limit themselves, or even sabotage themselves. Statistics show that for the same position, a man will apply even if he has 50% of the required skills, whereas a woman will respond if she feels she can perfectly perform the role.",
+            "tips": "This also applies to academic exams, for which 30% to 40% fewer women apply  than men. (Study Sciences Po, 2014)",
+            "choice_4y1Ce~7cx": "Laura applies",
+            "choice_N1UAeW7qe": "Maxime applies",
+            "choice_VyCAgbm5l": "Laura does not apply",
+            "choice_4kDJZ~7qe": "Maxime does not apply",
+            "clue": "Self-sabotage"
+        }
+    }
+}

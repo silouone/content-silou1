@@ -1,0 +1,78 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T11:02:19.844Z",
+            "updatedAt": "2017-12-04T21:15:03.220Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NyhGGCifZ",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyhGGCifZ.choice_NyvrzCjM~.id",
+                        "label": "choice_NyvrzCjM~",
+                        "value": "choice_NyvrzCjM~"
+                    },
+                    {
+                        "id": "sli_NyhGGCifZ.choice_N1oHf0szb.id",
+                        "label": "choice_N1oHf0szb",
+                        "value": "choice_N1oHf0szb"
+                    },
+                    {
+                        "id": "sli_NyhGGCifZ.choice_4kMLzAsfb.id",
+                        "label": "choice_4kMLzAsfb",
+                        "value": "choice_4kMLzAsfb"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kMLzAsfb"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NyhGGCifZ"
+    },
+    "locales": {
+        "fr": {
+            "header": "Laquelle de ces positions est à éviter ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La coach Chine Lanzmann conseille d'éviter les jambes \"à la cowboy\". Cette position peut effectivement renvoyer une impression d'arrogance, ce qui est rarement bien perçu par un auditoire.",
+            "tips": "Autre écueil à éviter, selon la conseillère en communication Béatrice Toulon : le sautillement, qui donne un sentiment d'instabilité.",
+            "clue": "Ne pas en faire trop.",
+            "choice_NyvrzCjM~": "Avoir les pieds écartés",
+            "choice_N1oHf0szb": "Ouvrir les mains",
+            "choice_4kMLzAsfb": "Avoir les jambes écartées \"à la cowboy\""
+        },
+        "en": {
+            "header": "Which of these postures should be avoided?",
+            "explanation": "Select the correct answer.",
+            "klf": "The coach Chine Lanzmann suggests avoiding standing \"like a cowboy\" . This posture can actually make you look arrogant., which is rarely well perceived by an audience.",
+            "tips": "Another pitfall to avoid, according to communications adviser Béatrice Toulon, is hopping about, which gives a sense of instability.",
+            "choice_NyvrzCjM~": "Have your feet apart",
+            "choice_N1oHf0szb": "Open your hands",
+            "choice_4kMLzAsfb": "Keep legs apart \"like a cowboy\"",
+            "clue": "Don't overdo it."
+        }
+    }
+}

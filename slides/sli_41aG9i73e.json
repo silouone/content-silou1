@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:01:03.593Z",
+            "updatedAt": "2017-12-04T18:54:54.720Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_41aG9i73e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_41aG9i73e.choice_VJvLjsQnx.id",
+                        "label": "choice_VJvLjsQnx",
+                        "value": "choice_VJvLjsQnx"
+                    },
+                    {
+                        "id": "sli_41aG9i73e.choice_EyK8si73x.id",
+                        "label": "choice_EyK8si73x",
+                        "value": "choice_EyK8si73x"
+                    },
+                    {
+                        "id": "sli_41aG9i73e.choice_4koIiiXne.id",
+                        "label": "choice_4koIiiXne",
+                        "value": "choice_4koIiiXne"
+                    },
+                    {
+                        "id": "sli_41aG9i73e.choice_4JloIij7hl.id",
+                        "label": "choice_4JloIij7hl",
+                        "value": "choice_4JloIij7hl"
+                    },
+                    {
+                        "id": "sli_41aG9i73e.choice_N1p8ooX2l.id",
+                        "label": "choice_N1p8ooX2l",
+                        "value": "choice_N1p8ooX2l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJvLjsQnx",
+                        "choice_4koIiiXne",
+                        "choice_4JloIij7hl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_41aG9i73e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les différents types de réaction à avoir pour sortir d'une négociation difficile ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour faire face à une négociation difficile, vous pouvez recourir à trois types d'analyse. D'abord, penchez-vous sur votre ressenti, vos réactions. Ensuite, mettez-vous à la place de l'autre. Enfin, prenez de la distance.",
+            "tips": "William Ury a consacré un ouvrage complet aux négociations compliquées en 2006 : \"Comment négocier avec les gens difficiles : de l'affrontement à la coopération\".",
+            "clue": "Il s'agit d'examiner la situation.",
+            "choice_VJvLjsQnx": "Faire son auto-analyse",
+            "choice_EyK8si73x": "Rester ferme sur ses positions",
+            "choice_4koIiiXne": "Se mettre à la place de l'autre",
+            "choice_4JloIij7hl": "Prendre de la hauteur",
+            "choice_N1p8ooX2l": "Conseiller à l'autre de se calmer",
+            "choice_VJpe9ouEb": "",
+            "choice_Eyf~co-EZ": "",
+            "choice_EJvz9iuVW": ""
+        },
+        "en": {
+            "header": "What are the different types of reaction you should have in order to get out of difficult negotiations?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To cope with difficult negotiations, you can use three types of analysis. First, consider your feelings, your reactions. Then put yourself in the other person's place. And finally, put some distance between you and the other person.",
+            "tips": "William Ury devoted an entire book to complicated negotiations in 2006: \"Getting Past No: Negotiating in Difficult Situations\".",
+            "choice_VJvLjsQnx": "Analyse yourself",
+            "choice_EyK8si73x": "Stand firm on your position",
+            "choice_4koIiiXne": "Put yourself in the other person's place",
+            "choice_4JloIij7hl": "Put some distance",
+            "choice_N1p8ooX2l": "Advise the other to calm down",
+            "clue": "You need to examine the situation.",
+            "choice_VJpe9ouEb": "",
+            "choice_Eyf~co-EZ": "",
+            "choice_EJvz9iuVW": ""
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:05:58.482Z",
+            "updatedAt": "2016-03-30T09:46:16.880Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4kJO2em5g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4kJO2em5g.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_NJcvaxX5x"
+                ]
+            }
+        },
+        "universalRef": "sli_4kJO2em5g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour 37% des femmes interrogées par Cegos en 2010, quel est le premier obstacle à leur vie professionnelle ? La…",
+            "explanation": "Saisissez votre réponse (un mot).",
+            "klf": "37% des femmes interrogées par le cabinet Cegos en 2010 déclaraient que la maternité est la première difficulté dans leur vie professionnelle. Viennent ensuite le temps consacré à leurs enfants (33%) et le retour de maternité (28%).",
+            "tips": "C'est ce que l'entrepreneuse Marlène Schiappa et le RH Cédric Bruguière appellent \"le plafond de mère\", dans un livre du même nom.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Envie de fraises…",
+            "choice_NJcvaxX5x": "maternité"
+        },
+        "en": {
+            "header": "Pour 37% des femmes interrogées par Cegos en 2010, quel est le premier obstacle à leur vie professionnelle ? La…",
+            "explanation": "Type your answer.",
+            "klf": "37% des femmes interrogées par le cabinet Cegos en 2010 déclaraient que la maternité est la première difficulté dans leur vie professionnelle. Viennent ensuite le temps consacré à leurs enfants (33%) et le retour de maternité (28%).",
+            "tips": "C'est ce que l'entrepreneuse Marlène Schiappa et le RH Cédric Bruguière appellent \"le plafond de mère\", dans un livre du même nom.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_NJcvaxX5x": "maternité",
+            "clue": "Envie de fraises…"
+        }
+    }
+}

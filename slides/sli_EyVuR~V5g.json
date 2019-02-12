@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:33:16.068Z",
+            "updatedAt": "2016-08-31T13:34:35.201Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_EyVuR~V5g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel21164",
+                        "label": "label_NkwWJfE9x",
+                        "items": [
+                            {
+                                "text": "choice_41gvWJGV5g",
+                                "value": "choice_41gvWJGV5g"
+                            },
+                            {
+                                "text": "choice_NyZwZyz45x",
+                                "value": "choice_NyZwZyz45x"
+                            },
+                            {
+                                "text": "choice_VJuWkMVcl",
+                                "value": "choice_VJuWkMVcl"
+                            },
+                            {
+                                "text": "choice_VkFWJM4cl",
+                                "value": "choice_VkFWJM4cl"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel21164",
+                        "answers": [
+                            "choice_NyZwZyz45x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EyVuR~V5g"
+    },
+    "locales": {
+        "fr": {
+            "header": "À quel moment est apparu le concept de genre ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le concept de genre est apparu dans les années 1950. Il vise à distinguer le sexe biologique des \"rôles de genre\", qui sont considérés comme des constructions culturelles.",
+            "tips": "Pionnière, l'anthropologue Margaret Mead parle dès 1935 de \"rôle sexué\", qui distingue sexe et rôle social.",
+            "template": "Dans les années   {{sel21164}}   .",
+            "clue": "Guerre froide, rockabilly et Marlon Brando.",
+            "label_NkwWJfE9x": " ",
+            "choice_41gvWJGV5g": "1930",
+            "choice_NyZwZyz45x": "1950",
+            "choice_VJuWkMVcl": "1970",
+            "choice_VkFWJM4cl": "1990"
+        },
+        "en": {
+            "header": "When did the concept of gender appear?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The concept of gender appeared in the 1950s. It aims to distinguish the biological sex of \"gender roles\", which are considered cultural constructions.",
+            "tips": "Pioneering anthropologist Margaret Mead spoke in 1935 of  the \"sexual role,\" which distinguishes gender and social role.",
+            "template": "In the  {{sel21164}}",
+            "label_NkwWJfE9x": " ",
+            "choice_41gvWJGV5g": "1930s",
+            "choice_NyZwZyz45x": "1950s",
+            "choice_VJuWkMVcl": "1970s",
+            "choice_VkFWJM4cl": "1990s",
+            "clue": "Cold War, rockabilly and Marlon Brando."
+        }
+    }
+}

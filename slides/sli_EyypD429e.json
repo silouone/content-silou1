@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-16T16:11:02.005Z",
+            "updatedAt": "2016-08-23T15:16:31.011Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_EyypD429e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyypD429e.choice_Ey9WKVn9g.id",
+                        "label": "choice_Ey9WKVn9g",
+                        "value": "choice_Ey9WKVn9g"
+                    },
+                    {
+                        "id": "sli_EyypD429e.choice_Eygq~tN2qg.id",
+                        "label": "choice_Eygq~tN2qg",
+                        "value": "choice_Eygq~tN2qg"
+                    },
+                    {
+                        "id": "sli_EyypD429e.choice_NJjWYEn9l.id",
+                        "label": "choice_NJjWYEn9l",
+                        "value": "choice_NJjWYEn9l"
+                    },
+                    {
+                        "id": "sli_EyypD429e.choice_41h~FE29g.id",
+                        "label": "choice_41h~FE29g",
+                        "value": "choice_41h~FE29g"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Eygq~tN2qg"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EyypD429e"
+    },
+    "locales": {
+        "fr": {
+            "header": "La coach Pascale Baumeister conseille de réfléchir à la tenue que vous porteriez à un bal costumé si vous n'aviez aucune contrainte. À quoi sert cet exercice ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Cet exercice vise à vous donner des pistes de réflexion sur votre vraie personnalité. Car souvent, on masque complètement notre vraie personnalité en se \"déguisant\" pour aller travailler. Et cela peut jouer sur notre confiance en nous, par exemple.",
+            "tips": "Attention, cela ne veut pas dire abandonner tout code vestimentaire de notre milieu professionnel. Pascale Baumeister invite à trouver son propre style mais toujours en cohérence avec sa personnalité et ses objectifs.",
+            "clue": "L'habit révélerait donc le moine.",
+            "choice_Ey9WKVn9g": "À refaire complètement sa garde-robe",
+            "choice_Eygq~tN2qg": "À interroger sa vraie personnalité",
+            "choice_NJjWYEn9l": "À gagner en confiance",
+            "choice_41h~FE29g": "À fixer ses objectifs de communication"
+        },
+        "en": {
+            "header": "The coach Pascale Baumeister advises you to think about the outfit you would wear to a costume party if you had no constraints. What can this tell you about yourself? ",
+            "explanation": "Select the correct answer.",
+            "klf": "This exercise aims to give you some ideas about your true personality as we often completely hide our true personality by \"disguising\" ourselves to go to work. And this can sometimes affect our self-confidence for example.",
+            "tips": "However, this does not mean abandoning the dress code for our workplace. Pascale Baumeister suggests finding your own style that matches your personality and goals.",
+            "choice_Ey9WKVn9g": "To completely redo your wardrobe",
+            "choice_Eygq~tN2qg": "To question your true personality",
+            "choice_NJjWYEn9l": "To gain confidence",
+            "choice_41h~FE29g": "To set your communication objectives",
+            "clue": "Do not judge a book by its cover."
+        }
+    }
+}

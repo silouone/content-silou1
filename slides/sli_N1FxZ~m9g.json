@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:23:45.844Z",
+            "updatedAt": "2016-09-03T14:51:26.777Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_N1FxZ~m9g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel59325",
+                        "label": "label_41COWZ7ql",
+                        "items": [
+                            {
+                                "text": "choice_Eyl0-bbmcg",
+                                "value": "choice_Eyl0-bbmcg"
+                            },
+                            {
+                                "text": "choice_EJW0-~~X9x",
+                                "value": "choice_EJW0-~~X9x"
+                            },
+                            {
+                                "text": "choice_V1FYbZQcg",
+                                "value": "choice_V1FYbZQcg"
+                            },
+                            {
+                                "text": "choice_4ksYbWX9x",
+                                "value": "choice_4ksYbWX9x"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel59325",
+                        "answers": [
+                            "choice_EJW0-~~X9x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N1FxZ~m9g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qui a déclaré : \"Le problème, c'est que les femmes n'ont pas confiance en elles\" ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Sheryl Sandberg, numéro 2 de Facebook en 2016, estime que \"le problème, c'est que les femmes n'ont pas confiance en elles\". Un constat partagé par la moitié des femmes britanniques. 48% d’entre elles pensent qu’elles auraient plus progressé dans leur parcours professionnel en ayant davantage d’estime d’elles-mêmes.",
+            "tips": "Ce discours a été critiqué : on reproche à Sheryl Sandberg de culpabiliser les femmes sans critiquer le système.",
+            "template": "{{sel59325}}",
+            "clue": "Elle a liké sa citation.",
+            "label_41COWZ7ql": " ",
+            "choice_Eyl0-bbmcg": "Anne Lauvergeon (ex-Areva)",
+            "choice_EJW0-~~X9x": "Sheryl Sandberg (Facebook)",
+            "choice_V1FYbZQcg": "Marissa Mayer (Yahoo!)",
+            "choice_4ksYbWX9x": "Mercedes Erra (Havas)"
+        },
+        "en": {
+            "header": "Who declared \"The problem is that women lack self-confidence\"?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Sheryl Sandberg, the second most important person at Facebook, believes that \"the problem is that women lack self-confidence.\". A view shared by half of British women. 48% of them think that they would be able to advance more in their careers if they had more self-esteem.",
+            "tips": "This speech was criticised: Sheryl Sandberg was reproached for making women feel guilty without criticising the system.",
+            "template": "{{sel59325}}",
+            "label_41COWZ7ql": " ",
+            "choice_Eyl0-bbmcg": "Anne Lauvergeon (formerly Areva)",
+            "choice_EJW0-~~X9x": "Sheryl Sandberg (Facebook)",
+            "choice_V1FYbZQcg": "Marissa Mayer (Yahoo!)",
+            "choice_4ksYbWX9x": "Mercedes Erra (Havas)",
+            "clue": "She 'liked' her quote"
+        }
+    }
+}

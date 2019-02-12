@@ -1,0 +1,95 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-30T10:34:28.390Z",
+            "updatedAt": "2016-09-03T15:14:57.598Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V1r5ccNRg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel80752",
+                        "label": "label_V1S6cqE0g",
+                        "items": [
+                            {
+                                "text": "choice_VJeSa9cECx",
+                                "value": "choice_VJeSa9cECx"
+                            },
+                            {
+                                "text": "choice_VyZSaq94Cg",
+                                "value": "choice_VyZSaq94Cg"
+                            },
+                            {
+                                "text": "choice_E1D655NRe",
+                                "value": "choice_E1D655NRe"
+                            },
+                            {
+                                "text": "choice_V1O65c4Rg",
+                                "value": "choice_V1O65c4Rg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel80752",
+                        "answers": [
+                            "choice_V1O65c4Rg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_V1r5ccNRg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans les manuels scolaires, parmi les personnes faisant le ménage, quelle est la proportion de femmes ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le centre Hubertine Auclert (centre francilien de ressources pour l'égalité femmes-hommes) a étudié les manuels scolaires. L'une des conclusions : 70% des personnages qui font le ménage sont des femmes.",
+            "tips": "L'étude montre également que dans les manuels scolaires, seulement 22% des personnes qui travaillent sont des femmes.",
+            "template": "{{sel80752}}",
+            "clue": "Plus de la moitié.",
+            "label_V1S6cqE0g": " ",
+            "choice_VJeSa9cECx": "32%",
+            "choice_VyZSaq94Cg": "49%",
+            "choice_E1D655NRe": "63%",
+            "choice_V1O65c4Rg": "70%"
+        },
+        "en": {
+            "header": "In textbooks, what proportion of those doing the housework are women?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The Hubertine Auclert centre (French resource centre for gender equality) has studied school textbooks. One conclusion: 70% of characters who do the housework are women.",
+            "tips": "The study also shows that in textbooks, only 22% of those working are women.",
+            "template": "{{sel80752}}",
+            "label_V1S6cqE0g": " ",
+            "choice_VJeSa9cECx": "32%",
+            "choice_VyZSaq94Cg": "49%",
+            "choice_E1D655NRe": "63%",
+            "choice_V1O65c4Rg": "70%",
+            "clue": "More than half."
+        }
+    }
+}

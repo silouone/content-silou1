@@ -1,0 +1,80 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:38:19.290Z",
+            "updatedAt": "2016-02-15T08:53:42.216Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_V1oj1MVql",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_V1oj1MVql.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_4yzQlGE5e",
+                    "choice_EJE7lMEce",
+                    "choice_VJn7efE9l",
+                    "choice_EyGEgfNcx",
+                    "choice_EJPExGE5l",
+                    "choice_4yhVxzV5e",
+                    "choice_EkNrxMEcx"
+                ]
+            }
+        },
+        "universalRef": "sli_V1oj1MVql"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appelle-t-on le cumul des discriminations que peuvent subir les femmes ?",
+            "explanation": "Saisissez votre réponse (un mot).",
+            "klf": "La féministe américaine Kimberlé Williams Crenshaw montre que les femmes subissent d'autres oppressions en même temps, comme le racisme ou la pauvreté. C'est ce qu'elle appelle l'intersectionnalité des discriminations. Celles-ci doivent donc être appréhendées dans leur ensemble.",
+            "tips": "D'autres termes sont parfois utilisés comme \"interconnectivité\" ou \"identités multiplicatives\" pour parler de ce phénomène de cumul des handicaps.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Le rond-point des oppressions.",
+            "choice_4yzQlGE5e": "intersectionnalité",
+            "choice_EJE7lMEce": "inter-sectionnalité",
+            "choice_VJn7efE9l": "intersectionalité",
+            "choice_EyGEgfNcx": "inter-sectionalité",
+            "choice_EJPExGE5l": "intersectionnalitée",
+            "choice_4yhVxzV5e": "intersectionnalitté",
+            "choice_EkNrxMEcx": "intersexionnalité"
+        },
+        "en": {
+            "header": "Comment appelle-t-on le cumul des discriminations que peuvent subir les femmes ?",
+            "explanation": "Type your answer.",
+            "klf": "La féministe américaine Kimberlé Williams Crenshaw montre que les femmes subissent d'autres oppressions en même temps, comme le racisme ou la pauvreté. C'est ce qu'elle appelle l'intersectionnalité des discriminations. Celles-ci doivent donc être appréhendées dans leur ensemble.",
+            "tips": "D'autres termes sont parfois utilisés comme \"interconnectivité\" ou \"identités multiplicatives\" pour parler de ce phénomène de cumul des handicaps.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_4yzQlGE5e": "intersectionnalité",
+            "choice_EJE7lMEce": "inter-sectionnalité",
+            "choice_VJn7efE9l": "intersectionalité",
+            "choice_EyGEgfNcx": "inter-sectionalité",
+            "choice_EJPExGE5l": "intersectionnalitée",
+            "choice_4yhVxzV5e": "intersectionnalitté",
+            "choice_EkNrxMEcx": "intersexionnalité",
+            "clue": "Le rond-point des oppressions."
+        }
+    }
+}

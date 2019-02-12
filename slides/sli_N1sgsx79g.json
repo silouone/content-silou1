@@ -1,0 +1,69 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T15:57:56.010Z",
+            "updatedAt": "2016-03-30T09:06:00.875Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_N1sgsx79g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_N1sgsx79g.id",
+                "min": 1,
+                "max": 50,
+                "step": 1,
+                "defaultValue": 1,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_N1sgsx79g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Sur la totalité des revenus mondiaux, quelle est la proportion que gagnent les femmes ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Selon les Nations unies, les femmes effectuent les deux tiers des heures travaillées dans le monde. Pourtant, elles ne gagnent que 10% des revenus mondiaux. Elles produisent également 50% de la nourriture et détiennent 1% de la propriété (source : Unicef 2007).",
+            "tips": "La pauvreté rurale des femmes a même fortement augmenté depuis 1975 : +50% (Haut Commissariat des Nations Unies aux droits de l'homme).",
+            "unitLabel": "%",
+            "description": "10%",
+            "answerMin": 5,
+            "answerMax": 15,
+            "clue": "Loin, loin, loin, loin, loin de la parité."
+        },
+        "en": {
+            "header": "Sur la totalité des revenus mondiaux, quelle est la proportion que gagnent les femmes ?",
+            "explanation": "Drag the slider.",
+            "klf": "Selon les Nations unies, les femmes effectuent les deux tiers des heures travaillées dans le monde. Pourtant, elles ne gagnent que 10% des revenus mondiaux. Elles produisent également 50% de la nourriture et détiennent 1% de la propriété (source : Unicef 2007).",
+            "tips": "La pauvreté rurale des femmes a même fortement augmenté depuis 1975 : +50% (Haut Commissariat des Nations Unies aux droits de l'homme).",
+            "unitLabel": " ",
+            "description": "10%",
+            "answerMin": 5,
+            "answerMax": 15,
+            "clue": "Loin, loin, loin, loin, loin de la parité."
+        }
+    }
+}

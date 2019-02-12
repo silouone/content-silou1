@@ -1,0 +1,90 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-16T16:04:38.946Z",
+            "updatedAt": "2016-05-23T12:30:01.538Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_EyEg8E25g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel99228",
+                        "label": "label_41CcPVnql",
+                        "items": [
+                            {
+                                "text": "choice_N1gA9vVhcl",
+                                "value": "choice_N1gA9vVhcl"
+                            },
+                            {
+                                "text": "choice_EkW05vV29g",
+                                "value": "choice_EkW05vV29g"
+                            },
+                            {
+                                "text": "choice_E1xjP435e",
+                                "value": "choice_E1xjP435e"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel99228",
+                        "answers": [
+                            "choice_EkW05vV29g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EyEg8E25g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi faut-il rester authentique dans la construction de sa marque personnelle ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Quand vous définissez votre marque personnelle, ne cherchez pas à endosser un rôle trop éloigné de votre personnalité. Vous devez rester authentique. Le professeur à HEC Jean-Noël Kapferer rappelle que le manque de sincérité ne plaît pas à un employeur. Et tôt ou tard, cette absence d'authenticité se verra.",
+            "tips": "Même authentique, la construction d'une marque personnelle aboutie prend du temps : environ deux ans selon Peter Montoya, un des pionniers du personal branding.",
+            "template": "{{sel99228}}",
+            "clue": "On ne peut pas jouer un rôle tout le temps…",
+            "label_41CcPVnql": " ",
+            "choice_N1gA9vVhcl": "Par principe moral",
+            "choice_EkW05vV29g": "Ne pas l'être est contre-productif",
+            "choice_E1xjP435e": "Pour faire plaisir à ses proches"
+        },
+        "en": {
+            "header": "Pourquoi faut-il rester authentique dans la construction de sa marque personnelle ?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "Quand vous définissez votre marque personnelle, ne cherchez pas à endosser un rôle trop éloigné de votre personnalité. Vous devez rester authentique. Le professeur à HEC Jean-Noël Kapferer rappelle que le manque de sincérité ne plaît pas à un employeur. Et tôt ou tard, cette absence d'authenticité se verra.",
+            "tips": "Même authentique, la construction d'une marque personnelle aboutie prend du temps : environ deux ans selon Peter Montoya, un des pionniers du personal branding.",
+            "template": "{{sel99228}}",
+            "label_41CcPVnql": " ",
+            "choice_N1gA9vVhcl": "Par principe moral",
+            "choice_EkW05vV29g": "Ne pas l'être est contre-productif",
+            "choice_E1xjP435e": "Pour faire plaisir à ses proches",
+            "clue": "On ne peut pas jouer un rôle tout le temps…"
+        }
+    }
+}

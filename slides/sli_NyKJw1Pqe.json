@@ -1,0 +1,89 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:21:00.376Z",
+            "updatedAt": "2017-12-01T15:58:31.802Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NyKJw1Pqe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel38393",
+                        "label": "label_41ivPJv5g",
+                        "items": [
+                            {
+                                "text": "choice_41gswPyDce",
+                                "value": "choice_41gswPyDce"
+                            },
+                            {
+                                "text": "choice_N1WivDJv9l",
+                                "value": "choice_N1WivDJv9l"
+                            },
+                            {
+                                "text": "choice_4JTvvJD5e",
+                                "value": "choice_4JTvvJD5e"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel38393",
+                        "answers": [
+                            "choice_4JTvvJD5e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_NyKJw1Pqe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi est-ce utile de compter \"1, 2\" à la fin de chaque phrase quand on fait une présentation ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il arrive que le stress nous fasse parler trop vite. Pour lutter contre cela, comptez \"1, 2\" à la fin de chaque phrase. Les silences sont importants dans un discours, ils permettent à l'auditoire d'enregistrer ce que vous dites.",
+            "tips": "Pour savoir où placer les silences dans une présentation, pensez qu'ils sont comme des signes de ponctuation à l'écrit.",
+            "template": "Pour {{sel38393}}",
+            "clue": "Comme en musique.",
+            "label_41ivPJv5g": " ",
+            "choice_41gswPyDce": "penser à autre chose",
+            "choice_N1WivDJv9l": "mieux respirer",
+            "choice_4JTvvJD5e": "parler moins vite"
+        },
+        "en": {
+            "header": "Why is it useful to count \"1, 2\" at the end of each sentence when making a presentation?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Sometimes stress makes us speak too fast.  To combat this, count \"1, 2\" at the end of each sentence. Silences are important in a speech, they allow the audience to register what you say.",
+            "tips": "To know where to place the silences in a presentation, think of them as punctuation marks in writing.",
+            "template": "To  {{sel38393}}",
+            "label_41ivPJv5g": " ",
+            "choice_41gswPyDce": "think of something else",
+            "choice_N1WivDJv9l": "breathe better",
+            "choice_4JTvvJD5e": "speak less quickly",
+            "clue": "As with music."
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:37:33.238Z",
+            "updatedAt": "2016-07-22T13:39:18.856Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "leosiegel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_VkSQroQnx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkSQroQnx.choice_NJesyUo7nx.id",
+                        "label": "choice_NJesyUo7nx",
+                        "value": "choice_NJesyUo7nx",
+                        "media": "med_VJi18oQ3e"
+                    },
+                    {
+                        "id": "sli_VkSQroQnx.choice_VkgayLjX3e.id",
+                        "label": "choice_VkgayLjX3e",
+                        "value": "choice_VkgayLjX3e",
+                        "media": "med_NkakUj7ne"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkgayLjX3e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VkSQroQnx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour mener une bonne négociation, il ne faut ressentir aucune émotion. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il ne faut pas prendre la négociation comme une affaire personnelle, afin de rester centré sur son sujet. Mais cela ne signifie pas être dépourvu de toute émotion, car celles-ci peuvent être de vrais atouts. À condition de réussir à les exprimer sans accuser l'autre d'en être à l'origine.",
+            "tips": "Pour gérer ses émotions, il faut d'abord les identifier, notamment en analysant ses ressentis physiques et en trouvant l'élément déclencheur.",
+            "clue": "Est-ce seulement possible ?",
+            "choice_NJesyUo7nx": "Vrai",
+            "choice_VkgayLjX3e": "Faux"
+        },
+        "en": {
+            "header": "To negotiate successfully, you should feel no emotion. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "You should not take negotiation as a personal matter, in order to remain focused on your subject. But that does not mean you should be devoid of any emotion, because these can be real assets. Provided you can successfully express them without accusing the other of being the origin of them.",
+            "tips": "To manage your emotions, you must first identify them, in particular by analysing your physical feelings and finding the trigger for them.",
+            "choice_NJesyUo7nx": "True",
+            "choice_VkgayLjX3e": "False",
+            "clue": "Is it even possible?"
+        }
+    }
+}

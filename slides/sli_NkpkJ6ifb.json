@@ -1,0 +1,62 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T09:40:39.759Z",
+            "updatedAt": "2016-08-29T16:06:52.218Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NkpkJ6ifb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_NkpkJ6ifb.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_N1fEJ6oz~"
+                ]
+            }
+        },
+        "universalRef": "sli_NkpkJ6ifb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment qualifie-t-on une posture où le corps est penché vers l'avant et les mains ouvertes ?",
+            "explanation": "Saisissez votre réponse (un mot).",
+            "klf": "Les postures de partage se caractérisent par un corps penché vers l'avant et des mains ouvertes.",
+            "tips": "On appelle \"communication incidente\" les informations parallèles données sans s'en rendre compte.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Don, contre don.",
+            "choice_N1fEJ6oz~": "partage"
+        },
+        "en": {
+            "header": "How would you describe a posture where the body is leaning forward and hands?",
+            "explanation": "Type your answer.",
+            "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
+            "tips": "We call \"incidental communication\" parallel information given without realizing it.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_N1fEJ6oz~": "sharing",
+            "clue": "Gift upon gift."
+        }
+    }
+}

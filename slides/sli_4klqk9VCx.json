@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-30T09:50:33.005Z",
+            "updatedAt": "2016-09-03T14:56:13.152Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_4klqk9VCx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4klqk9VCx.choice_4yYPlqECe.id",
+                        "label": "choice_4yYPlqECe",
+                        "value": "choice_4yYPlqECe"
+                    },
+                    {
+                        "id": "sli_4klqk9VCx.choice_N1oDg9NAe.id",
+                        "label": "choice_N1oDg9NAe",
+                        "value": "choice_N1oDg9NAe"
+                    },
+                    {
+                        "id": "sli_4klqk9VCx.choice_NJgiwx5VRx.id",
+                        "label": "choice_NJgiwx5VRx",
+                        "value": "choice_NJgiwx5VRx"
+                    },
+                    {
+                        "id": "sli_4klqk9VCx.choice_NJnwl54Cg.id",
+                        "label": "choice_NJnwl54Cg",
+                        "value": "choice_NJnwl54Cg"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1oDg9NAe"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4klqk9VCx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel pourcentage de femmes considère la maternité comme le premier obstacle dans la vie professionnelle, selon une étude de 2010 ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "37% des femmes interrogées par le cabinet de formation Cegos en 2010 déclaraient que la maternité est la première difficulté dans leur vie professionnelle. Viennent ensuite le temps consacré à leurs enfants (33%) et le retour de maternité (28%).",
+            "tips": "C'est ce que l'entrepreneuse Marlène Schiappa et le RH Cédric Bruguière appellent \"le plafond de mère\", dans un livre du même nom.",
+            "clue": "Un peu plus d'un tiers.",
+            "choice_4yYPlqECe": "25%",
+            "choice_N1oDg9NAe": "37%",
+            "choice_NJgiwx5VRx": "52%",
+            "choice_NJnwl54Cg": "66%"
+        },
+        "en": {
+            "header": "What percentage of women consider motherhood as the first obstacle in professional life, according to a 2010 study?",
+            "explanation": "Select the correct answer.",
+            "klf": "37% of women surveyed by the Cegos training firm in 2010 declared that motherhood is the first difficulty in their professional lives. Then comes the time devoted to their children (33%) and the return back to work (28%).",
+            "tips": "This is what the entrepreneur Marlene Schiappa and HR professional Cédric Bruguière call \"le plafond de mère\" (the ceiling of motherhood) in a book of the same name.",
+            "choice_4yYPlqECe": "25%",
+            "choice_N1oDg9NAe": "37%",
+            "choice_NJgiwx5VRx": "52%",
+            "choice_NJnwl54Cg": "66%",
+            "clue": "More than a third."
+        }
+    }
+}

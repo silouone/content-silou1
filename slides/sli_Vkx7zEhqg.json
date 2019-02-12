@@ -1,0 +1,84 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-16T15:46:07.014Z",
+            "updatedAt": "2016-07-22T13:43:27.460Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "leosiegel",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_Vkx7zEhqg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vkx7zEhqg.choice_4yTEXEn5x.id",
+                        "label": "choice_4yTEXEn5x",
+                        "value": "choice_4yTEXEn5x"
+                    },
+                    {
+                        "id": "sli_Vkx7zEhqg.choice_41AN7E2cx.id",
+                        "label": "choice_41AN7E2cx",
+                        "value": "choice_41AN7E2cx"
+                    },
+                    {
+                        "id": "sli_Vkx7zEhqg.choice_EJ1SmV2ql.id",
+                        "label": "choice_EJ1SmV2ql",
+                        "value": "choice_EJ1SmV2ql"
+                    },
+                    {
+                        "id": "sli_Vkx7zEhqg.choice_N1xHXEn9l.id",
+                        "label": "choice_N1xHXEn9l",
+                        "value": "choice_N1xHXEn9l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41AN7E2cx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Vkx7zEhqg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la première étape dans la gestion de sa marque personnelle ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour gérer sa marque personnelle, il faut d'abord définir ses objectifs, sur le court, moyen et long terme. Par exemple, viser une augmentation dans les six prochains mois mais aussi un changement de poste dans un an. Ce faisant, on définit sa cible, comme son manager ou le responsable RH en entreprise, ou bien son marché pour les indépendants.",
+            "tips": "Pour la coach Pascale Baumeister, définir ses objectifs, c'est aussi clarifier sa \"vision\", qui correspond \"au cap vers lequel toute votre vie s'oriente\".",
+            "clue": "Une stratégie sans but ?",
+            "choice_4yTEXEn5x": "Gérer sa communication",
+            "choice_41AN7E2cx": "Définir ses objectifs",
+            "choice_EJ1SmV2ql": "Identifier ses atouts",
+            "choice_N1xHXEn9l": "Développer son réseau"
+        },
+        "en": {
+            "header": "When planning your personal mark, what should you do first?",
+            "explanation": "Select the correct answer.",
+            "klf": "To create your personal mark, you must first define your objectives in the short, medium and long term. For example, you can aim to request a raise in three month's time but also a change in position in a year's time. In doing so, you define a specific target such as your boss or the HR manager in an organisation, or else a market if you are self-employed.",
+            "tips": "For coach Pascale Baumeister, defining your objectives also means clarifiying your \"vision\", which is \"the course towards which your life is moving\".",
+            "choice_4yTEXEn5x": "Manage your communication",
+            "choice_41AN7E2cx": "Define your objectives",
+            "choice_EJ1SmV2ql": "Identify your strengths",
+            "choice_N1xHXEn9l": "Develop your network",
+            "clue": "An aimless strategy?"
+        }
+    }
+}
