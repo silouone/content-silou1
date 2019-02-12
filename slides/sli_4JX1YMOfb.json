@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "amandinelemoult21",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_4JX1YMOfb",
         "position": 0,
@@ -56,17 +56,39 @@
     },
     "locales": {
         "fr": {
-            "header": "D’après vous, qui de Vanessa ou de Frédéric sera le mieux perçu par ses collègues et leur hiérarchie suite à cet épisode ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "Des études ont montré qu'un homme en colère au travail sera beaucoup mieux perçu qu'une femme. Celle-ci sera soupçonnée de ne pas savoir gérer certaines situations professionnelles.",
-            "tips": "Le professeur Eric Uhlmann, qui a mené une étude sur le sujet, explique que les hommes qui se sont énervés sans explication étaient même souvent mieux payés que ceux qui n'ont pas exprimé d'émotion ou qui l'ont expliquée (source : HEC Paris).",
-            "context_title": "La colère",
-            "clue": "Associe-t-on la colère plutôt aux hommes ou aux femmes ?",
+            "header": "Selon vous, qui de Vanessa ou de Frédéric sera le mieux perçu par ses collègues et leur hiérarchie après cet épisode?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Des études ont montré qu'un homme en colère au travail serait beaucoup mieux perçu qu'une femme. Celui-ci sera suspecté de ne pas être capable de gérer certaines situations professionnelles.",
+            "tips": "Le professeur Eric Uhlmann, qui a mené une étude sur le sujet, explique que les hommes irrités sans explication étaient souvent même mieux payés que ceux qui n'exprimaient pas leurs émotions ou qui les expliquaient (source: HEC Paris).",
+            "clue": "Associez-vous la colère aux hommes ou aux femmes?",
+            "context_title": "Colère",
+            "context_description": "Vanessa et Frédéric travaillent ensemble dans le même service. Lors d'une réunion, ils s'opposent à un projet. Le ton monte et tout le monde se fâche.",
             "choice_NJJrtGuz~": "Vanessa",
-            "choice_EJlkSFzuf~": "Frédéric",
-            "context_description": "Vanessa et Frédéric travaillent ensemble dans le même service. Lors d’une réunion, ils s’opposent à propos d’un projet. Le ton monte et chacun se met en colère."
+            "choice_EJlkSFzuf~": "Frédéric"
         },
         "en": {
+            "header": "According to you, who of Vanessa or Frédéric will be the best perceived by his colleagues and their hierarchy following this episode?",
+            "explanation": "Select the correct answer.",
+            "klf": "Studies have shown that an angry man at work will be much better perceived than a woman. This one will be suspected of not being able to manage certain professional situations.",
+            "tips": "Professor Eric Uhlmann, who has conducted a study on the subject, explains that men who were irritated without explanation were often even better paid than those who did not express emotion or who explained it (source: HEC Paris).",
+            "clue": "Do you associate anger with men or women?",
+            "context_title": "Anger",
+            "context_description": "Vanessa and Frédéric work together in the same service. At a meeting, they object to a project. The tone goes up and everyone gets angry.",
+            "choice_NJJrtGuz~": "Vanessa",
+            "choice_EJlkSFzuf~": "Frédéric"
+        },
+        "de": {
+            "header": "Wer wird Ihrer Meinung nach von Vanessa oder Frédéric am besten von seinen Kollegen und ihrer Hierarchie nach dieser Episode wahrgenommen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Studien haben gezeigt, dass ein wütender Mann bei der Arbeit viel besser wahrgenommen wird als eine Frau. Dieser wird verdächtigt, bestimmte berufliche Situationen nicht bewältigen zu können.",
+            "tips": "Professor Eric Uhlmann, der eine Studie zu diesem Thema durchgeführt hat, erklärt, dass Männer, die ohne Erklärung irritiert waren, oft sogar besser bezahlt wurden als diejenigen, die keine Emotionen ausdrücken oder es erklärten (Quelle: HEC Paris).",
+            "clue": "Verbinden Sie Wut mit Männern oder Frauen?",
+            "context_title": "Zorn",
+            "context_description": "Vanessa und Frédéric arbeiten im selben Dienst zusammen. Bei einem Meeting wenden sie sich gegen ein Projekt. Der Ton geht auf und alle werden wütend.",
+            "choice_NJJrtGuz~": "Vanessa",
+            "choice_EJlkSFzuf~": "Frédéric"
+        },
+        "es": {
             "header": "In your opinion, who out of Vanessa or Frederick will be better perceived by their colleagues and superiors after this episode?",
             "explanation": "Select the correct answer.",
             "klf": "Studies have shown that an angry man at work will be much better perceived than a woman. The woman will be accused of not knowing how to handle certain business situations.",
@@ -76,6 +98,17 @@
             "context_title": "Anger",
             "clue": "Do you tend to associate anger with men or with women?",
             "context_description": "Vanessa and Frederic work together in the same department. During a meeting, they confront each other about a project. The conversation becomes heated, each of them getting angrier."
+        },
+        "zh": {
+            "header": "在您看来，在这一集之后，凡是Vanessa或Frederick的人会更好地被他们的同事和上级所感知？",
+            "explanation": "选择正确的答案。",
+            "klf": "研究表明，工作中愤怒的男人比女人更容易被察觉。该女方将被指控不知道如何处理某些商业情况。",
+            "tips": "领导一项关于这一主题的研究的埃里克·乌尔曼教授解释说，那些在没有解释的情况下烦躁不安的男性往往比那些没有表达情感或解释情绪的男性报酬更高。 （来源：巴黎HEC商学院）",
+            "clue": "你倾向于将愤怒与男人或女人联系起来吗？",
+            "context_title": "愤怒",
+            "context_description": "Vanessa和Frederic在同一个部门合作。在会议期间，他们彼此面对一个项目。谈话变得激烈，每个人都变得更加愤怒。",
+            "choice_NJJrtGuz~": "凡妮莎",
+            "choice_EJlkSFzuf~": "弗雷德里克"
         }
     }
 }

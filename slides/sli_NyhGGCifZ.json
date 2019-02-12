@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NyhGGCifZ",
         "position": 0,
@@ -55,16 +55,36 @@
     },
     "locales": {
         "fr": {
-            "header": "Laquelle de ces positions est à éviter ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "La coach Chine Lanzmann conseille d'éviter les jambes \"à la cowboy\". Cette position peut effectivement renvoyer une impression d'arrogance, ce qui est rarement bien perçu par un auditoire.",
-            "tips": "Autre écueil à éviter, selon la conseillère en communication Béatrice Toulon : le sautillement, qui donne un sentiment d'instabilité.",
-            "clue": "Ne pas en faire trop.",
+            "header": "Laquelle de ces positions devrait être évitée?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "L'entraîneur China Lanzmann recommande d'éviter les jambes \"cow-boy\". Cette position peut en réalité refléter une impression d'arrogance, qui est rarement bien accueillie par le public.",
+            "tips": "Selon la conseillère en communication, Béatrice Toulon, un autre piège à éviter est le fait de sauter, ce qui donne une impression d’instabilité.",
+            "clue": "N'en fais pas trop.",
             "choice_NyvrzCjM~": "Avoir les pieds écartés",
-            "choice_N1oHf0szb": "Ouvrir les mains",
-            "choice_4kMLzAsfb": "Avoir les jambes écartées \"à la cowboy\""
+            "choice_N1oHf0szb": "Mains ouvertes",
+            "choice_4kMLzAsfb": "Avoir les jambes écartées \"au cow-boy\""
         },
         "en": {
+            "header": "Which of these positions should be avoided?",
+            "explanation": "Select the correct answer.",
+            "klf": "Coach China Lanzmann advises to avoid \"cowboy\" legs. This position may actually reflect an impression of arrogance, which is rarely well received by an audience.",
+            "tips": "Another pitfall to avoid, according to communications advisor Béatrice Toulon: jumping, which gives a sense of instability.",
+            "clue": "Do not overdo it.",
+            "choice_NyvrzCjM~": "To have your feet apart",
+            "choice_N1oHf0szb": "Open hands",
+            "choice_4kMLzAsfb": "Having your legs apart \"to the cowboy\""
+        },
+        "de": {
+            "header": "Welche dieser Positionen sollte vermieden werden?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Coach China Lanzmann rät, \"Cowboy\" -Beinen zu vermeiden. Diese Position spiegelt möglicherweise einen Eindruck von Arroganz wider, der von einem Publikum selten gut angenommen wird.",
+            "tips": "Eine weitere Fallstricke, die laut Kommunikationsberater Béatrice Toulon vermieden werden muss: Springen, was ein Gefühl der Instabilität vermittelt.",
+            "clue": "Übertreibe es nicht.",
+            "choice_NyvrzCjM~": "Um die Füße auseinander zu halten",
+            "choice_N1oHf0szb": "Hände öffnen",
+            "choice_4kMLzAsfb": "Mit den Beinen \"zum Cowboy\""
+        },
+        "es": {
             "header": "Which of these postures should be avoided?",
             "explanation": "Select the correct answer.",
             "klf": "The coach Chine Lanzmann suggests avoiding standing \"like a cowboy\" . This posture can actually make you look arrogant., which is rarely well perceived by an audience.",
@@ -73,6 +93,16 @@
             "choice_N1oHf0szb": "Open your hands",
             "choice_4kMLzAsfb": "Keep legs apart \"like a cowboy\"",
             "clue": "Don't overdo it."
+        },
+        "zh": {
+            "header": "应该避免哪些姿势？",
+            "explanation": "选择正确的答案。",
+            "klf": "教练Chine Lanzmann建议避免像“像牛仔一样”站立。这种姿势实际上可以让你看起来很傲慢，这很少被观众所感知。",
+            "tips": "根据通信顾问贝塔特里斯·土伦（BéatriceToulon）的说法，要避免的另一个陷阱就是跳来跳去，这给人一种不稳定的感觉。",
+            "clue": "不要过头了。",
+            "choice_NyvrzCjM~": "让你的双脚分开",
+            "choice_N1oHf0szb": "张开双手",
+            "choice_4kMLzAsfb": "保持双腿“像牛仔一样”"
         }
     }
 }

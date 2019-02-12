@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "leosiegel",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_Vkx7zEhqg",
         "position": 0,
@@ -59,17 +59,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Quelle est la première étape dans la gestion de sa marque personnelle ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "Pour gérer sa marque personnelle, il faut d'abord définir ses objectifs, sur le court, moyen et long terme. Par exemple, viser une augmentation dans les six prochains mois mais aussi un changement de poste dans un an. Ce faisant, on définit sa cible, comme son manager ou le responsable RH en entreprise, ou bien son marché pour les indépendants.",
-            "tips": "Pour la coach Pascale Baumeister, définir ses objectifs, c'est aussi clarifier sa \"vision\", qui correspond \"au cap vers lequel toute votre vie s'oriente\".",
-            "clue": "Une stratégie sans but ?",
-            "choice_4yTEXEn5x": "Gérer sa communication",
-            "choice_41AN7E2cx": "Définir ses objectifs",
-            "choice_EJ1SmV2ql": "Identifier ses atouts",
-            "choice_N1xHXEn9l": "Développer son réseau"
+            "header": "Quelle est la première étape dans la gestion de votre marque personnelle?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Pour gérer votre marque personnelle, vous devez d’abord définir vos objectifs, à court, moyen et long terme. Par exemple, visez une augmentation dans les six prochains mois, mais aussi un changement de position dans un an. Ce faisant, on définit son objectif, qu'il soit son responsable ou son responsable des ressources humaines dans l'entreprise, ou son marché des travailleurs indépendants.",
+            "tips": "Pour l’entraîneur Pascale Baumeister, définir des objectifs, c’est aussi clarifier votre \"vision\", qui correspond à \"la direction vers laquelle toute votre vie est orientée\".",
+            "clue": "Une stratégie sans but?",
+            "choice_4yTEXEn5x": "Gérer votre communication",
+            "choice_41AN7E2cx": "Fixer des objectifs",
+            "choice_EJ1SmV2ql": "Identifiez vos atouts",
+            "choice_N1xHXEn9l": "Développez votre réseau"
         },
         "en": {
+            "header": "What is the first step in managing your personal brand?",
+            "explanation": "Select the correct answer.",
+            "klf": "To manage your personal brand, you must first define your goals, in the short, medium and long term. For example, aim for an increase in the next six months but also a change of position in a year. In doing so, one defines his target, as his manager or the HR manager in business, or his market for the self-employed.",
+            "tips": "For coach Pascale Baumeister, defining goals is also clarifying your \"vision\", which corresponds to \"the direction towards which your whole life is oriented\".",
+            "clue": "A goalless strategy?",
+            "choice_4yTEXEn5x": "Manage your communication",
+            "choice_41AN7E2cx": "Set goals",
+            "choice_EJ1SmV2ql": "Identify your assets",
+            "choice_N1xHXEn9l": "Develop your network"
+        },
+        "de": {
+            "header": "Was ist der erste Schritt beim Management Ihrer persönlichen Marke?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Um Ihre persönliche Marke zu managen, müssen Sie zunächst kurz-, mittel- und langfristig Ihre Ziele definieren. Angestrebt wird beispielsweise ein Anstieg in den nächsten sechs Monaten, aber auch ein Positionswechsel in einem Jahr. Man definiert dabei sein Ziel als seinen Manager oder den HR Manager in der Wirtschaft oder seinen Markt für Selbstständige.",
+            "tips": "Für Trainer Pascale Baumeister ist das Definieren von Zielen auch eine Klarstellung Ihrer \"Vision\", die der \"Richtung entspricht, in die sich Ihr ganzes Leben richtet\".",
+            "clue": "Eine torlose Strategie?",
+            "choice_4yTEXEn5x": "Verwalten Sie Ihre Kommunikation",
+            "choice_41AN7E2cx": "Ziele setzen",
+            "choice_EJ1SmV2ql": "Identifizieren Sie Ihre Vermögenswerte",
+            "choice_N1xHXEn9l": "Entwickeln Sie Ihr Netzwerk"
+        },
+        "es": {
             "header": "When planning your personal mark, what should you do first?",
             "explanation": "Select the correct answer.",
             "klf": "To create your personal mark, you must first define your objectives in the short, medium and long term. For example, you can aim to request a raise in three month's time but also a change in position in a year's time. In doing so, you define a specific target such as your boss or the HR manager in an organisation, or else a market if you are self-employed.",
@@ -79,6 +101,17 @@
             "choice_EJ1SmV2ql": "Identify your strengths",
             "choice_N1xHXEn9l": "Develop your network",
             "clue": "An aimless strategy?"
+        },
+        "zh": {
+            "header": "在计划您的个人商标时，您应该先做什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "要创建个人标记，您必须首先在短期，中期和长期定义目标。例如，您可以在三个月的时间内申请加薪，但也可以在一年的时间内更改头寸。在这样做时，您可以在组织中定义特定目标，例如您的老板或人力资源经理，如果您是自雇人士，则可以定义市场。",
+            "tips": "对于教练Pascale Baumeister来说，定义你的目标也意味着澄清你的“愿景”，即“你的生活正在向前迈进的道路”。",
+            "clue": "一个漫无目的的策略？",
+            "choice_4yTEXEn5x": "管理您的沟通",
+            "choice_41AN7E2cx": "定义您的目标",
+            "choice_EJ1SmV2ql": "确定你的优势",
+            "choice_N1xHXEn9l": "发展您的网络"
         }
     }
 }

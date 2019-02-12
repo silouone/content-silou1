@@ -14,7 +14,7 @@
             "status": "draft",
             "modifiedBy": "ThereseG",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NkpkJ6ifb",
         "position": 0,
@@ -39,16 +39,36 @@
     },
     "locales": {
         "fr": {
-            "header": "Comment qualifie-t-on une posture où le corps est penché vers l'avant et les mains ouvertes ?",
-            "explanation": "Saisissez votre réponse (un mot).",
-            "klf": "Les postures de partage se caractérisent par un corps penché vers l'avant et des mains ouvertes.",
-            "tips": "On appelle \"communication incidente\" les informations parallèles données sans s'en rendre compte.",
-            "label": " ",
-            "placeholder": " ",
-            "clue": "Don, contre don.",
-            "choice_N1fEJ6oz~": "partage"
+            "header": "Comment décrit-on une posture où le corps est penché en avant et les mains ouvertes?",
+            "explanation": "Entrez votre réponse (un mot).",
+            "klf": "Les postures de partage se caractérisent par un corps penché en avant et des mains ouvertes.",
+            "tips": "La communication incidente est l'information parallèle donnée sans s'en rendre compte.",
+            "clue": "Don, contre le don.",
+            "choice_N1fEJ6oz~": "partage",
+            "label": " ",
+            "placeholder": " "
         },
         "en": {
+            "header": "How does one describe a posture where the body is leaning forward and hands open?",
+            "explanation": "Enter your answer (a word).",
+            "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
+            "tips": "Incidental communication is the parallel information given without realizing it.",
+            "clue": "Don, against donation.",
+            "choice_N1fEJ6oz~": "sharing",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Wie beschreibt man eine Haltung, in der sich der Körper nach vorne beugt und die Hände sich öffnet?",
+            "explanation": "Geben Sie Ihre Antwort (ein Wort) ein.",
+            "klf": "Gemeinsame Körperhaltungen zeichnen sich durch einen nach vorne gebeugten Körper und offene Hände aus.",
+            "tips": "Zufällige Kommunikation ist die parallele Information, die ohne es zu merken ist.",
+            "clue": "Don gegen Spende",
+            "choice_N1fEJ6oz~": "teilen",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
             "header": "How would you describe a posture where the body is leaning forward and hands?",
             "explanation": "Type your answer.",
             "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
@@ -57,6 +77,16 @@
             "placeholder": " ",
             "choice_N1fEJ6oz~": "sharing",
             "clue": "Gift upon gift."
+        },
+        "zh": {
+            "header": "你怎么形容身体前倾和双手的姿势？",
+            "explanation": "输入你的答案。",
+            "klf": "分享姿势的特点是身体前倾和张开双手。",
+            "tips": "我们称之为“偶然通信”并行信息而没有意识到。",
+            "clue": "赠送礼物。",
+            "choice_N1fEJ6oz~": "分享",
+            "label": " ",
+            "placeholder": " "
         }
     }
 }

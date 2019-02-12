@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NJbl02sfZ",
         "position": 0,
@@ -73,20 +73,48 @@
     },
     "locales": {
         "fr": {
-            "header": "Quelles sont les quatre principales postures physiques lorsque vous faites une présentation orale ?",
+            "header": "Quelles sont les quatre principales postures physiques lors d'une présentation orale?",
             "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
-            "klf": "Le conseiller en communication Laurent Philibert distingue quatre types de postures : les postures de domination, de partage, de rejet et de soumission.",
-            "tips": "Les différents types de postures peuvent être classés selon deux critères : le rapport à la verticalité et le mouvement induit par la position.",
+            "klf": "Laurent Philibert, conseiller en communication, distingue quatre types de postures: les postures de domination, de partage, de rejet et de soumission.",
+            "tips": "Les différents types de postures peuvent être classés selon deux critères: le rapport à la verticalité et le mouvement induit par la position.",
             "clue": "Des attitudes, pas des sentiments.",
-            "choice_V12MC3jzZ": "Postures de concession NON",
             "choice_VkLmRhszW": "Postures de domination",
             "choice_EJA70njMZ": "Postures de colère",
-            "choice_EJSNAhsGZ": "Postures de partage",
+            "choice_EJSNAhsGZ": "Partage de postures",
             "choice_416VC3oMW": "Postures de rejet",
             "choice_VJvrAniMW": "Postures d'amour",
-            "choice_VkorRhozW": "Postures de soumission"
+            "choice_VkorRhozW": "Postures de soumission",
+            "choice_V12MC3jzZ": "Postures de concession NON"
         },
         "en": {
+            "header": "What are the four main physical postures when you make an oral presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Communication advisor Laurent Philibert distinguishes four types of postures: postures of domination, sharing, rejection and submission.",
+            "tips": "The different types of postures can be classified according to two criteria: the ratio to the verticality and the movement induced by the position.",
+            "clue": "Attitudes, not feelings.",
+            "choice_VkLmRhszW": "Postures of domination",
+            "choice_EJA70njMZ": "Postures of anger",
+            "choice_EJSNAhsGZ": "Sharing postures",
+            "choice_416VC3oMW": "Postures of rejection",
+            "choice_VJvrAniMW": "Postures of love",
+            "choice_VkorRhozW": "Postures of submission",
+            "choice_V12MC3jzZ": "Postures of concession"
+        },
+        "de": {
+            "header": "Was sind die vier Hauptpositionen bei einer mündlichen Präsentation?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Kommunikationsberater Laurent Philibert unterscheidet vier Arten von Haltungen: Dominanz, Teilen, Ablehnen und Unterwerfen.",
+            "tips": "Die verschiedenen Arten von Haltungen lassen sich nach zwei Kriterien einteilen: dem Verhältnis zur Vertikalität und der durch die Position induzierten Bewegung.",
+            "clue": "Einstellungen, keine Gefühle.",
+            "choice_VkLmRhszW": "Stellungen der Herrschaft",
+            "choice_EJA70njMZ": "Haltungen des Ärgers",
+            "choice_EJSNAhsGZ": "Stellungen teilen",
+            "choice_416VC3oMW": "Haltung der Ablehnung",
+            "choice_VJvrAniMW": "Haltungen der Liebe",
+            "choice_VkorRhozW": "Stellungen der Unterwerfung",
+            "choice_V12MC3jzZ": "Postures of concession"
+        },
+        "es": {
             "header": "What are the four main physical postures when doing an oral presentation?",
             "explanation": "Select the correct answers below.",
             "klf": "The media adviser Laurent Philibert distinguishes four types of posture: postures of domination, sharing, rejection and submission.",
@@ -99,6 +127,20 @@
             "choice_VJvrAniMW": "Postures of love",
             "choice_VkorRhozW": "Postures of submission",
             "clue": "Attitudes, not feelings."
+        },
+        "zh": {
+            "header": "进行口头报告时，四种主要的身体姿势是什么？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "媒体顾问Laurent Philibert区分了四种姿势：统治，分享，拒绝和屈服的姿势。",
+            "tips": "不同类型的姿势可以根据两个标准进行分类：与垂直度的关联和由位置引起的运动。",
+            "clue": "态度，而不是感情。",
+            "choice_VkLmRhszW": "统治的姿势",
+            "choice_EJA70njMZ": "愤怒的姿势",
+            "choice_EJSNAhsGZ": "分享的姿势",
+            "choice_416VC3oMW": "拒绝的姿势",
+            "choice_VJvrAniMW": "爱的姿势",
+            "choice_VkorRhozW": "提交的姿势",
+            "choice_V12MC3jzZ": "Postures of concession"
         }
     }
 }

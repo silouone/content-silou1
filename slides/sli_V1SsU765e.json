@@ -1,0 +1,125 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T09:07:57.946Z",
+            "updatedAt": "2016-09-05T15:08:25.861Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1SsU765e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel39468",
+                        "label": "label_VJuPwm6qe",
+                        "items": [
+                            {
+                                "text": "choice_NJxODPX6qe",
+                                "value": "choice_NJxODPX6qe"
+                            },
+                            {
+                                "text": "choice_4kYwvQTql",
+                                "value": "choice_4kYwvQTql"
+                            },
+                            {
+                                "text": "choice_415vvXT9g",
+                                "value": "choice_415vvXT9g"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel39468",
+                        "answers": [
+                            "choice_4kYwvQTql"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_V1SsU765e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle manière d'annoncer votre grossesse à votre employeur aide à vous protéger au mieux?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La meilleure chose à faire est d’annoncer rapidement votre grossesse à ses responsables afin qu’ils ne l’apprennent pas à travers les bruits de couloir. Cela se fait oralement mais aussi par courrier électronique, pour conserver une trace écrite. L'idéal est d'envoyer une lettre recommandée avec accusé de réception, avec si possible un certificat et la date probable de livraison.",
+            "tips": "Si une femme est licenciée sans que son employeur soit au courant de sa grossesse, elle peut être annulée en envoyant un certificat médical dans les 15 jours.",
+            "clue": "Vous devez avoir un enregistrement écrit.",
+            "template": "{{sel39468}}",
+            "label_VJuPwm6qe": " ",
+            "choice_NJxODPX6qe": "Oralement devant témoins",
+            "choice_4kYwvQTql": "Par lettre recommandée",
+            "choice_415vvXT9g": "Par email"
+        },
+        "en": {
+            "header": "What way to announce your pregnancy to your employer helps protect yourself at best?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The best thing is to announce your pregnancy quickly to its leaders so that they do not learn it through hallway noises. This is done orally but also by e-mail, to keep a written record. The ideal is to send a registered letter with acknowledgment of receipt, with, if possible, a certificate and the probable date of delivery.",
+            "tips": "If a woman is laid off without her employer being aware of her pregnancy, she can be canceled by sending a medical certificate within 15 days.",
+            "clue": "You must have a written record.",
+            "template": "{{sel39468}}",
+            "label_VJuPwm6qe": " ",
+            "choice_NJxODPX6qe": "Orally in front of witnesses",
+            "choice_4kYwvQTql": "By registered letter",
+            "choice_415vvXT9g": "By email"
+        },
+        "de": {
+            "header": "Wie kann man sich beim Arbeitgeber anmelden, um sich am besten zu schützen?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Am besten ist es, wenn Sie Ihre Schwangerschaft schnell bei den Leitern ankündigen, damit sie sie nicht durch Flurgeräusche lernt. Dies geschieht mündlich, aber auch per E-Mail, um ein schriftliches Protokoll zu führen. Ideal ist das Versenden eines Einschreibebriefs mit Empfangsbestätigung, wenn möglich mit einem Zertifikat und dem voraussichtlichen Liefertermin.",
+            "tips": "Wenn eine Frau entlassen wird, ohne dass der Arbeitgeber ihre Schwangerschaft kennt, kann sie innerhalb von 15 Tagen durch Übersendung eines ärztlichen Attests abgesagt werden.",
+            "clue": "Sie müssen eine schriftliche Aufzeichnung haben.",
+            "template": "{{sel39468}}",
+            "label_VJuPwm6qe": " ",
+            "choice_NJxODPX6qe": "Mündlich vor Zeugen",
+            "choice_4kYwvQTql": "Per Einschreiben",
+            "choice_415vvXT9g": "Per E-Mail"
+        },
+        "es": {
+            "header": "How should you announce your pregnancy to your employer to ensure the best protection?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "It is best to announce your pregnancy to your managers so they to do not learn through rumours. This can be done orally but also by e-mail, to provide a written record. Ideally a registered letter with acknowledgement of receipt should be sent and, if possible, a certificate with the probable due date.",
+            "tips": "If a woman undergoes a dismissal without the employer being aware of her pregnancy, it can be cancelled by sending a medical certificate within 15 days.",
+            "template": "{{sel39468}}",
+            "label_VJuPwm6qe": " ",
+            "choice_NJxODPX6qe": "Verbally in front of witnesses",
+            "choice_4kYwvQTql": "By registered letter",
+            "choice_415vvXT9g": "By mail",
+            "clue": "You must have a written record."
+        },
+        "zh": {
+            "header": "您应该如何向雇主宣布怀孕以确保获得最佳保护？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "最好向你的经理宣布你的怀孕，这样他们就不会通过谣言来学习。这可以通过口头方式进行，也可以通过电子邮件进行，以提供书面记录。理想情况下，应发送带有确认收据的挂号信，如果可能，还应发送可能到期日的证书。",
+            "tips": "如果女性在雇主没有意识到怀孕的情况下遭到解雇，可以在15天内通过发送医疗证明取消。",
+            "clue": "你必须有书面记录。",
+            "template": "{{Sel39468}}",
+            "label_VJuPwm6qe": " ",
+            "choice_NJxODPX6qe": "口头上的证人面前",
+            "choice_4kYwvQTql": "通过挂号信",
+            "choice_415vvXT9g": "通过邮件"
+        }
+    }
+}

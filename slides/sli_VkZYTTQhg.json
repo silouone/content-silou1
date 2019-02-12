@@ -14,7 +14,7 @@
             "status": "draft",
             "modifiedBy": "amandinelemoult21",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_VkZYTTQhg",
         "position": 0,
@@ -59,15 +59,33 @@
     },
     "locales": {
         "fr": {
-            "header": "Qui sera le mieux perçu en cas de colère au travail ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "Des études ont montré qu'un homme en colère au travail sera beaucoup mieux perçu qu'une femme. Celle-ci sera soupçonnée de ne pas savoir gérer certaines situations professionnelles.",
-            "tips": "Eric Uhlmann, qui a mené une étude sur le sujet, explique que les hommes qui se sont énervés sans explication étaient même souvent mieux payés que ceux qui n'ont pas exprimé d'émotion ou qui l'ont expliquée. (source : HEC Paris)",
-            "clue": "À qui associe-t-on généralement cette émotion ?",
+            "header": "Qui sera le mieux perçu en cas de colère au travail?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Des études ont montré qu'un homme en colère au travail serait beaucoup mieux perçu qu'une femme. Celui-ci sera suspecté de ne pas être capable de gérer certaines situations professionnelles.",
+            "tips": "Eric Uhlmann, qui a mené une étude sur le sujet, explique que les hommes contrariés sans explication étaient souvent même mieux payés que ceux qui n'exprimaient pas leurs émotions ou ne les expliquaient pas. (source: HEC Paris)",
+            "clue": "À qui associez-vous habituellement cette émotion?",
             "choice_4JlGVATm2l": "Une femme",
             "choice_NylYERaQnl": "Un homme"
         },
         "en": {
+            "header": "Who will be best perceived in case of anger at work?",
+            "explanation": "Select the correct answer.",
+            "klf": "Studies have shown that an angry man at work will be much better perceived than a woman. This one will be suspected of not being able to manage certain professional situations.",
+            "tips": "Eric Uhlmann, who has conducted a study on the subject, explains that men who got upset without explanation were often even better paid than those who did not express emotion or who explained it. (source: HEC Paris)",
+            "clue": "Who do you usually associate this emotion with?",
+            "choice_4JlGVATm2l": "A woman",
+            "choice_NylYERaQnl": "A man"
+        },
+        "de": {
+            "header": "Wer wird am besten bei Ärger am Arbeitsplatz wahrgenommen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Studien haben gezeigt, dass ein wütender Mann bei der Arbeit viel besser wahrgenommen wird als eine Frau. Dieser wird verdächtigt, bestimmte berufliche Situationen nicht bewältigen zu können.",
+            "tips": "Eric Uhlmann, der eine Studie zu diesem Thema durchgeführt hat, erklärt, dass Männer, die sich ohne Erklärung verärgert hatten, oft sogar besser bezahlt wurden als diejenigen, die keine Emotionen ausdrücken oder die sie erklären. (Quelle: HEC Paris)",
+            "clue": "Mit wem verbinden Sie diese Emotion normalerweise?",
+            "choice_4JlGVATm2l": "Eine Frau",
+            "choice_NylYERaQnl": "Ein Mann"
+        },
+        "es": {
             "header": "Qui sera le mieux perçu en cas de colère au travail ?",
             "explanation": "Select the correct answer(s).",
             "klf": "Des études ont montré qu'un homme en colère au travail sera beaucoup mieux perçu qu'une femme. Celle-ci sera soupçonnée de ne pas savoir gérer certaines situations professionnelles.",
@@ -75,6 +93,15 @@
             "choice_4JlGVATm2l": "Une femme",
             "choice_NylYERaQnl": "Un homme",
             "clue": "À qui associe-t-on généralement cette émotion ?"
+        },
+        "zh": {
+            "header": "在愤怒的情况下，谁将被最佳地看待？",
+            "explanation": "选择正确的答案。",
+            "klf": "研究表明，工作中愤怒的男人比女人更容易被察觉。这个人将被怀疑无法管理一些专业情况。",
+            "tips": "已经对这个问题进行过研究的埃里克·乌尔曼解释说，那些在没有解释的情况下心烦意乱的男性往往比那些没有表达情感或者解释情绪的人更有报酬。 （来源：巴黎HEC商学院）",
+            "clue": "你通常把这种情绪与谁联系在一起？",
+            "choice_4JlGVATm2l": "一个女人",
+            "choice_NylYERaQnl": "一个男人"
         }
     }
 }

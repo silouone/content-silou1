@@ -1,18 +1,17 @@
 {
-    "_deleted": true,
     "structure": {
         "meta": {
             "isoCore": true,
             "createdAt": "2016-02-09T10:31:57.702Z",
-            "updatedAt": "2019-02-12T09:36:35.392Z",
+            "updatedAt": "2019-02-07T14:05:00.249Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
             "status": "draft",
-            "modifiedBy": "silouone",
+            "modifiedBy": "ThibaultRic",
             "createdBy": "LaurenceMD",
-            "taggedNewUntil": "2016-04-09T09:31:57.702Z",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad",
+            "taggedNewUntil": "2016-04-09T09:31:57.702Z"
         },
         "ref": "dis_4Ji0aiG5g",
         "name": "name",
@@ -20,7 +19,7 @@
         "cover": {
             "popularity": null,
             "coverDescription": "coverDescription",
-            "resource": "med_4kQOENuvW",
+            "resource": "med_Vyg~dXSVL",
             "poster": "med_EkfO9gl7W",
             "moreInfos": []
         },
@@ -30,18 +29,29 @@
             "part_V1-3xwT17"
         ],
         "partnershipType": "paidpartner",
-        "draft": true,
-        "version": "2",
-        "thematiques": []
+        "thematiques": [],
+        "version": "2"
     },
     "locales": {
         "fr": {
-            "name": "S'affirmer au féminin",
-            "coverDescription": "Bonnes en lettres mais mauvaises en sciences, élèves studieuses mais trop disciplinées, naturellement responsables des tâches du foyer, mauvaises négociatrices… Les clichés sur les femmes ont la vie dure. Et participent inconsciemment à leur conditionnement. Mais pourquoi de tels stéréotypes ? Cette discipline, proposée par aufeminin, en décrypte les raisons et propose des pistes pour y remédier et passer à l’action."
+            "name": "Affirmez-vous au féminin",
+            "coverDescription": "Bon en lettres mais mauvais en sciences, étudiants studieux mais trop disciplinés, naturellement responsables des tâches ménagères, mauvais négociateurs ... Les clichés sur les femmes ont une vie dure. Et participer inconsciemment à leur conditionnement. Mais pourquoi de tels stéréotypes? Cette discipline, proposée par aufeminin, décrypte les raisons et suggère des solutions pour y remédier et agir."
         },
         "en": {
+            "name": "Assert yourself to the feminine",
+            "coverDescription": "Good in letters but bad in science, students studious but too disciplined, naturally responsible for household tasks, bad negotiators ... The clichés on women have a hard life. And participate unconsciously in their conditioning. But why such stereotypes? This discipline, proposed by aufeminin, decrypts the reasons and suggests ways to remedy and take action."
+        },
+        "de": {
+            "name": "Setzen Sie sich für das Weibliche ein",
+            "coverDescription": "Gut in Briefen, aber schlecht in der Wissenschaft, Studenten fleißig, aber zu diszipliniert, natürlich verantwortlich für Haushaltsaufgaben, schlechte Unterhändler ... Die Klischees über Frauen haben ein hartes Leben. Und nehmen Sie unbewusst an ihrer Konditionierung teil. Aber warum solche Klischees? Diese von aufeminin vorgeschlagene Disziplin entschlüsselt die Gründe und schlägt Wege zur Abhilfe und zum Handeln vor."
+        },
+        "es": {
             "name": "Be an assertive woman",
             "coverDescription": "Good in arts subjects but bad in science, hard-working students but too self-disciplined, naturally responsible for household tasks, bad negotiators, and so forth – the cliches about women die hard. And unconsciously contribute towards their conditioning. But do stereotypes like this exist? This subject, provided by aufeminin, deciphers the reasons why and offers ways to resolve this issue and take action."
+        },
+        "zh": {
+            "name": "做一个自信的女人",
+            "coverDescription": "擅长艺术科目，但科学不好，勤奋的学生，但过于自律，自然负责家务，坏谈判者等等 - 关于女性的陈词滥调很难。并且无意识地为他们的条件做出贡献。但这样的刻板印象是否存在？这个主题由aufeminin提供，解释了原因，并提供了解决此问题并采取措施的方法。"
         }
     }
 }

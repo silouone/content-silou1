@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_4JM0vZNql",
         "position": 0,
@@ -60,17 +60,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Quel type d'œuvres véhiculerait largement l'image d'une femme passive sauvée par un homme actif ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "Depuis Charles Perrault, les contes de fées montrent une femme passive sauvée par un homme actif. \"La Belle au bois dormant\" en est un des meilleurs exemples. Cette représentation est familière des enfants et aurait probablement un impact sur eux.",
-            "tips": "Ironie de l'histoire, Charles Perrault a écrit une \"Apologie des femmes\" en réponse à une satire de l'écrivain et critique Nicolas Boileau.",
-            "clue": "Citrouille, loup et marraine…",
-            "choice_V1RDdWEqx": "Les peintures romantiques",
-            "choice_4yyddZ4qg": "Les contes de fées",
-            "choice_EylyOuWV5x": "Les nouvelles fantastiques",
-            "choice_Vyb1uOZEql": "Les romans réalistes"
+            "header": "Quel type d'œuvres véhiculerait en grande partie l'image d'une femme passive sauvée par un homme actif?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Depuis Charles Perrault, les contes de fées montrent une femme passive sauvée par un homme actif. \"Sleeping Beauty\" est l'un des meilleurs exemples. Cette représentation est familière aux enfants et aurait probablement un impact sur eux.",
+            "tips": "Ironiquement, Charles Perrault a écrit une \"Apologie des femmes\" en réponse à une satire de l'écrivain et critique Nicolas Boileau.",
+            "clue": "Citrouille, loup et marraine ...",
+            "choice_V1RDdWEqx": "Peintures romantiques",
+            "choice_4yyddZ4qg": "Contes de fées",
+            "choice_EylyOuWV5x": "La nouvelle fantastique",
+            "choice_Vyb1uOZEql": "Romans réalistes"
         },
         "en": {
+            "header": "What kind of works would largely convey the image of a passive woman saved by an active man?",
+            "explanation": "Select the correct answer.",
+            "klf": "Since Charles Perrault, fairy tales show a passive woman saved by an active man. \"Sleeping Beauty\" is one of the best examples. This representation is familiar to children and would likely have an impact on them.",
+            "tips": "Ironically, Charles Perrault wrote an \"Apologie des femmes\" in response to a satire by the writer and critic Nicolas Boileau.",
+            "clue": "Pumpkin, wolf and godmother ...",
+            "choice_V1RDdWEqx": "Romantic paintings",
+            "choice_4yyddZ4qg": "Fairy tales",
+            "choice_EylyOuWV5x": "The fantastic news",
+            "choice_Vyb1uOZEql": "Realistic novels"
+        },
+        "de": {
+            "header": "Welche Werke würden das Bild einer passiven Frau vermitteln, die ein aktiver Mann gerettet hat?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Seit Charles Perrault zeigen Märchen eine passive Frau, die von einem aktiven Mann gerettet wurde. \"Dornröschen\" ist eines der besten Beispiele. Diese Darstellung ist Kindern bekannt und würde sich wahrscheinlich auf sie auswirken.",
+            "tips": "Ironischerweise schrieb Charles Perrault eine \"Apologie des femmes\" als Antwort auf eine Satire des Schriftstellers und Kritikers Nicolas Boileau.",
+            "clue": "Kürbis, Wolf und Patin ...",
+            "choice_V1RDdWEqx": "Romantische malereien",
+            "choice_4yyddZ4qg": "Märchen",
+            "choice_EylyOuWV5x": "Die fantastischen Neuigkeiten",
+            "choice_Vyb1uOZEql": "Realistische Romane"
+        },
+        "es": {
             "header": "What style of artistic work largely convey the image of a passive woman being saved by an active man?",
             "explanation": "Select the correct answer.",
             "klf": "Since Charles Perrault, fairy tales show a passive woman being saved by an active man. \"Sleeping Beauty\" is one of the best examples. This representation is familiar to children and would probably have an impact on them.",
@@ -80,6 +102,17 @@
             "choice_EylyOuWV5x": "Fantasy novels",
             "choice_Vyb1uOZEql": "Realistic novels",
             "clue": "Pumpkin, wolf and fairy godmother, etc."
+        },
+        "zh": {
+            "header": "什么样的艺术作品在很大程度上传达了一个被活跃的男人拯救被动女人的形象？",
+            "explanation": "选择正确的答案。",
+            "klf": "自查尔斯·佩罗（Charles Perrault）以来，童话故事表明一个被动的女人被活跃的男人拯救。 “睡美人”是最好的例子之一。这种表示对于儿童来说是熟悉的，并且可能会对他们产生影响。",
+            "tips": "具有讽刺意味的是，查尔斯·佩罗（Charles Perrault）在回应作家兼评论家尼古拉斯·博伊奥（Nicolas Boileau）的讽刺时写了一篇“为妇女道歉”。",
+            "clue": "南瓜，狼和仙女教母等",
+            "choice_V1RDdWEqx": "浪漫的画作",
+            "choice_4yyddZ4qg": "童话故事",
+            "choice_EylyOuWV5x": "幻想小说",
+            "choice_Vyb1uOZEql": "现实主义小说"
         }
     }
 }

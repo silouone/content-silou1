@@ -21,7 +21,7 @@
             "status": "draft",
             "modifiedBy": "amandinelemoult21",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "les_4ywAW4Z7Z",
         "position": 0,
@@ -31,10 +31,19 @@
     },
     "locales": {
         "fr": {
-            "description": "Les émotions au travail"
+            "description": "Émotions au travail"
         },
         "en": {
             "description": "Emotions at work"
+        },
+        "de": {
+            "description": "Emotionen bei der Arbeit"
+        },
+        "es": {
+            "description": "Emotions at work"
+        },
+        "zh": {
+            "description": "工作中的情绪"
         }
     }
 }

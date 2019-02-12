@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_VklZApiGb",
         "position": 0,
@@ -59,17 +59,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Vous devez faire une présentation devant une vingtaine de personnes. Laquelle de ces positions privilégiez-vous ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "La posture idéale, c'est d'être debout, les bras le long du corps et les pieds écartés de la largeur du bassin. À partir de cette posture de base, vous pouvez occuper l'espace en faisant quelques pas et en bougeant raisonnablement les mains.",
-            "tips": "Selon le site Speedevelopment, il y a trois erreurs à ne pas commettre avec vos mains : les mettre dans vos poches, les tordre et les laisser traîner mollement le long du corps.",
-            "clue": "Laquelle vous donne le plus confiance ?",
-            "choice_VJUD06jfb": "Adossé contre un mur, les mains sur les hanches",
-            "choice_4yvjR6jMW": "Debout, les pieds écartés de la largeur du bassin",
+            "header": "Vous devez faire une présentation devant vingt personnes. Laquelle de ces positions privilégiez-vous?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "La posture idéale consiste à être debout, les bras le long du corps et les pieds séparés de la largeur du bassin. À partir de cette posture de base, vous pouvez occuper l'espace en faisant quelques pas et en déplaçant vos mains de manière raisonnable.",
+            "tips": "Selon le site Web Speedevelopment, vous ne pouvez pas commettre trois erreurs: mettez-les dans vos poches, tordez-les et laissez-les glisser le long du corps.",
+            "clue": "Qu'est-ce qui vous donne le plus de confiance?",
+            "choice_VJUD06jfb": "Appuyé contre un mur, mains sur les hanches",
+            "choice_4yvjR6jMW": "Debout, pieds écartés de la largeur de la piscine",
             "choice_EJg2AaifW": "Debout, les pieds écartés et les bras croisés",
-            "choice_4yr3RpoGW": "Assis, les jambes croisées et les mains sous les cuisses"
+            "choice_4yr3RpoGW": "Assis, jambes croisées et mains sous les cuisses"
         },
         "en": {
+            "header": "You must make a presentation in front of twenty people. Which of these positions do you favor?",
+            "explanation": "Select the correct answer.",
+            "klf": "The ideal posture is to be standing, arms along the body and feet apart from the width of the pelvis. From this basic posture, you can occupy the space by taking a few steps and moving your hands reasonably.",
+            "tips": "According to the Speedevelopment website, there are three mistakes you can not make with your hands: put them in your pockets, twist them and let them drag along the body.",
+            "clue": "Which gives you the most confidence?",
+            "choice_VJUD06jfb": "Leaning against a wall, hands on hips",
+            "choice_4yvjR6jMW": "Standing, feet apart from the width of the pool",
+            "choice_EJg2AaifW": "Standing, feet apart and arms crossed",
+            "choice_4yr3RpoGW": "Seated, legs crossed and hands under the thighs"
+        },
+        "de": {
+            "header": "Sie müssen sich vor zwanzig Leuten präsentieren. Welche dieser Positionen bevorzugen Sie?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Die ideale Haltung ist, mit den Armen am Körper und den Füßen von der Breite des Beckens entfernt zu stehen. Von dieser Grundhaltung aus können Sie den Raum einnehmen, indem Sie einige Schritte machen und Ihre Hände einigermaßen bewegen.",
+            "tips": "Laut der Speedevelopment-Website gibt es drei Fehler, die Sie mit Ihren Händen nicht machen können: Stecken Sie sie in die Tasche, drehen Sie sie und ziehen Sie sie am Körper entlang.",
+            "clue": "Welches gibt Ihnen das größte Vertrauen?",
+            "choice_VJUD06jfb": "An einer Wand gelehnt, Hände an den Hüften",
+            "choice_4yvjR6jMW": "Stehend, Füße von der Breite des Pools entfernt",
+            "choice_EJg2AaifW": "Stehend, Füße auseinander und Arme verschränkt",
+            "choice_4yr3RpoGW": "Sitzt mit gekreuzten Beinen und Händen unter den Oberschenkeln"
+        },
+        "es": {
             "header": "You need to give a presentation to twenty people. Which of these positions should you use?",
             "explanation": "Select the correct answer.",
             "klf": "The ideal posture is to stand, arms at your sides and your feet hip-width apart. From this basic posture, you can occupy space by taking a few steps and gesturing with your hands within reason.",
@@ -79,6 +101,17 @@
             "choice_EJg2AaifW": "Stand with feet apart and arms folded",
             "choice_4yr3RpoGW": "Sitting with legs crossed and hands on thighs",
             "clue": "Which one gives you the most confidence?"
+        },
+        "zh": {
+            "header": "你需要向二十个人做一个演示。你应该使用以下哪些职位？",
+            "explanation": "选择正确的答案。",
+            "klf": "理想的姿势是站立，双臂和双脚分开。从这个基本姿势，您可以通过几步走，并在理智中用手做手势来占据空间。",
+            "tips": "根据Speedevelopment网站的说法，你手上不应该犯三个错误：将它们放在口袋里，扭曲它们或让它们在你身边轻轻地悬挂。",
+            "clue": "哪一个给你最大的信心？",
+            "choice_VJUD06jfb": "靠在墙上，双手叉腰",
+            "choice_4yvjR6jMW": "站立时臀部宽度分开",
+            "choice_EJg2AaifW": "双脚分开站立，双臂交叉",
+            "choice_4yr3RpoGW": "双腿交叉坐着，双手放在大腿上"
         }
     }
 }

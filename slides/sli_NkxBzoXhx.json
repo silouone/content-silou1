@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NkxBzoXhx",
         "position": 0,
@@ -66,19 +66,45 @@
     },
     "locales": {
         "fr": {
-            "header": "Comment s'appelle la méthode de gestion de conflit des professeurs de Harvard William Ury et Roger Fisher ?",
+            "header": "Quelle est la méthode de gestion des conflits des enseignants de Harvard William Ury et Roger Fisher?",
             "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
-            "klf": "Le conflit n'est pas nécessairement négatif, il peut être sain. Bien géré, il peut aboutir à une collaboration gagnant-gagnant. C'est ce que développent les professeurs de Harvard Roger Fisher et William Ury dans leur méthode \"Getting to Yes\", introduite en France par Michel Ghazal, expert en négociation.",
-            "tips": "Publié en 1981, le livre \"Getting to Yes\", de Roger Fisher, William Ury et Bruce Patton, résume la méthode mise au point pendant le Harvard Negotiation Project.",
-            "template": "Getting to {{sel70064}}",
+            "klf": "Le conflit n'est pas nécessairement négatif, il peut être sain. Bien géré, cela peut mener à une collaboration gagnant-gagnant. C'est ce que développent les professeurs Roger Fisher et William Ury de Harvard dans leur méthode \"Getting to Yes\", introduite en France par Michel Ghazal, expert en négociation.",
+            "tips": "Publié en 1981, le livre \"Getting to Yes\" de Roger Fisher, William Ury et Bruce Patton résume la méthode mise au point au cours du projet de négociation de Harvard.",
+            "clue": "… nous pouvons!",
+            "template": "Se rendre à {{sel70064}}",
+            "label_EJ8xmjQ2g": " ",
+            "choice_4ylUeQsm2x": "Non",
+            "choice_Ey~Ig7jQ3l": "Lutte",
+            "choice_Nk9gms7nl": "Oui",
+            "choice_V1je7iX3l": "Succès"
+        },
+        "en": {
+            "header": "What is the Harvard Teachers Conflict Management Method William Ury and Roger Fisher?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The conflict is not necessarily negative, it can be healthy. Well managed, it can lead to a win-win collaboration. This is what Harvard professors Roger Fisher and William Ury develop in their method \"Getting to Yes\", introduced in France by Michel Ghazal, expert in negotiation.",
+            "tips": "Published in 1981, the book \"Getting to Yes\" by Roger Fisher, William Ury and Bruce Patton summarizes the method developed during the Harvard Negotiation Project.",
             "clue": "… we can!",
+            "template": "Getting to {{sel70064}}",
             "label_EJ8xmjQ2g": " ",
             "choice_4ylUeQsm2x": "No",
             "choice_Ey~Ig7jQ3l": "Struggle",
             "choice_Nk9gms7nl": "Yes",
             "choice_V1je7iX3l": "Success"
         },
-        "en": {
+        "de": {
+            "header": "Was ist die Harvard Teachers Conflict Management-Methode William Ury und Roger Fisher?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Der Konflikt ist nicht unbedingt negativ, er kann gesund sein. Gut gelungen, kann dies zu einer Win-Win-Zusammenarbeit führen. Dies ist, was die Harvard-Professoren Roger Fisher und William Ury in ihrer Methode \"Getting to Yes\" entwickeln, die von Michel Ghazal, einem Verhandlungsexperten, in Frankreich eingeführt wurde.",
+            "tips": "Das 1981 erschienene Buch \"Getting to Yes\" von Roger Fisher, William Ury und Bruce Patton fasst die während des Harvard Negotiation Project entwickelte Methode zusammen.",
+            "clue": "… wir können!",
+            "template": "Anreise nach {{sel70064}}",
+            "label_EJ8xmjQ2g": " ",
+            "choice_4ylUeQsm2x": "Nein",
+            "choice_Ey~Ig7jQ3l": "Kampf",
+            "choice_Nk9gms7nl": "Ja",
+            "choice_V1je7iX3l": "Erfolg"
+        },
+        "es": {
             "header": "What is the conflict management method of Harvard professors William Ury and Roger Fisher called? ",
             "explanation": "Select the correct answer in the drop-down menu.",
             "klf": "Conflict is not necessarily negative, it can be healthy. Well managed, it can lead to a win-win co-operation. This is what Harvard professors Roger Fisher and William Ury developed in their method \"Getting to Yes\", introduced to France by negotiation expert Michel Ghazal.",
@@ -90,6 +116,19 @@
             "choice_Nk9gms7nl": "Yes",
             "choice_V1je7iX3l": "Success",
             "clue": "… we can!"
+        },
+        "zh": {
+            "header": "哈佛大学教授威廉·尤里和罗杰·费舍尔的冲突管理方法是什么？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "冲突不一定是消极的，它可以是健康的。管理得当，可以带来双赢的合作。这就是哈佛大学教授罗杰·费舍尔和威廉·尤里在谈判专家米歇尔·加扎尔（Michel Ghazal）向法国介绍的“走向正确”方法中所发展起来的。",
+            "tips": "1981年出版的Roger Fisher，William Ury和Bruce Patton的“Getting to Yes”一书总结了为哈佛谈判项目开发的方法。",
+            "clue": "… 我们可以！",
+            "template": "前往{{sel70064}}",
+            "label_EJ8xmjQ2g": " ",
+            "choice_4ylUeQsm2x": "没有",
+            "choice_Ey~Ig7jQ3l": "斗争",
+            "choice_Nk9gms7nl": "是",
+            "choice_V1je7iX3l": "成功"
         }
     }
 }

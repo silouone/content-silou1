@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "CharlotteRitzmann",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_VkRPmE39x",
         "position": 0,
@@ -63,17 +63,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Quels sont les éléments vous permettant de faire le point sur vos atouts ?",
+            "header": "Quels sont les éléments vous permettant de faire le point sur vos actifs?",
             "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
-            "klf": "Pour identifier vos atouts, faites le point sur votre formation initiale, votre parcours professionnel mais aussi votre vie de tous les jours. Vous connaîtrez ainsi vos savoirs, savoir-faire et savoir-être.",
-            "tips": "En vue d'une reconversion professionnelle, vous pouvez vous faire aider en réalisant un bilan de compétences. En France, vous avez le droit d'utiliser votre congé individuel de formation pour ce faire.",
+            "klf": "Pour identifier vos atouts, faites le bilan de votre formation initiale, de votre carrière, mais aussi de votre quotidien. Vous connaîtrez vos connaissances, votre savoir-faire et votre bien-être.",
+            "tips": "Pour une reconversion professionnelle, vous pouvez obtenir de l'aide en effectuant une évaluation des compétences. En France, vous avez le droit d'utiliser votre congé individuel de formation pour le faire.",
             "clue": "Pensez global.",
             "choice_EkQ4N43cx": "Votre formation initiale",
-            "choice_4JI4EE35l": "Votre parcours professionnel",
-            "choice_Vyv4VNnqx": "Votre activités associatives",
+            "choice_4JI4EE35l": "Votre carrière",
+            "choice_Vyv4VNnqx": "Vos activités associatives",
             "choice_NJuVNVhqe": "Votre place dans votre groupe d'amis"
         },
         "en": {
+            "header": "What are the elements allowing you to take stock of your assets?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To identify your assets, take stock of your initial training, your career, but also your everyday life. You will know your knowledge, know-how and well-being.",
+            "tips": "For a professional reconversion, you can get help by performing a skills assessment. In France, you have the right to use your individual training leave to do so.",
+            "clue": "Think global.",
+            "choice_EkQ4N43cx": "Your initial training",
+            "choice_4JI4EE35l": "Your career",
+            "choice_Vyv4VNnqx": "Your associative activities",
+            "choice_NJuVNVhqe": "Your place in your group of friends"
+        },
+        "de": {
+            "header": "Mit welchen Elementen können Sie eine Bestandsaufnahme Ihres Vermögens machen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Um Ihr Vermögen zu identifizieren, machen Sie eine Bestandsaufnahme Ihrer Erstausbildung, Ihrer Karriere, aber auch Ihres Alltags. Sie kennen Ihr Wissen, Ihr Know-how und Ihr Wohlbefinden.",
+            "tips": "Für eine professionelle Umstellung können Sie Hilfe erhalten, indem Sie eine Bewertung der Fähigkeiten durchführen. In Frankreich haben Sie das Recht, Ihren individuellen Trainingsurlaub dazu zu nutzen.",
+            "clue": "Denken Sie global.",
+            "choice_EkQ4N43cx": "Ihre erste Ausbildung",
+            "choice_4JI4EE35l": "Deine Karriere",
+            "choice_Vyv4VNnqx": "Ihre assoziativen Aktivitäten",
+            "choice_NJuVNVhqe": "Dein Platz in deiner Gruppe von Freunden"
+        },
+        "es": {
             "header": "What factors can help you to focus on your strengths?",
             "explanation": "Select the correct answers below.",
             "klf": "To identify your strengths, focus on your initial training, your career, but also your everyday life. This will enable you to identify your knowledge, skills and attitudes.",
@@ -83,6 +105,17 @@
             "choice_Vyv4VNnqx": "Community activities",
             "choice_NJuVNVhqe": "Your place in your group of friends",
             "clue": "Think globally."
+        },
+        "zh": {
+            "header": "哪些因素可以帮助您专注于自己的优势？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "要确定自己的优势，请关注您的初始培训，职业生涯以及日常生活。这将使您能够识别您的知识，技能和态度。",
+            "tips": "为了重新训练，您可以通过执行技能评估获得帮助。在法国，您有权使用您的个人假来执行此操作。",
+            "clue": "全球思考。",
+            "choice_EkQ4N43cx": "初步培训",
+            "choice_4JI4EE35l": "职业生涯",
+            "choice_Vyv4VNnqx": "社区活动",
+            "choice_NJuVNVhqe": "你在朋友圈中的位置"
         }
     }
 }

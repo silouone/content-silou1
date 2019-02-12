@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "Margaux-Schmitt",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_4yczdTsGb",
         "position": 0,
@@ -66,19 +66,45 @@
     },
     "locales": {
         "fr": {
-            "header": "Dans une salle de réunion, où devez-vous vous placer idéalement ?",
+            "header": "Dans une salle de réunion, où devriez-vous idéalement vous placer?",
             "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
-            "klf": "Il faut savoir occuper l'espace. Dans une salle de réunion, privilégiez une place d'où vous pourrez facilement bouger. Évitez de vous mettre dans un coin ou dos au mur car c'est l'image que les autres pourraient garder de vous.",
-            "tips": "Cette question est réellement importante. La coach Lois P. Frankel en a même fait le titre de son ouvrage : \"Nice Girls Don't Get the Corner Office\".",
+            "klf": "Il faut savoir occuper l'espace. Dans une salle de réunion, choisissez un endroit où vous pourrez facilement vous déplacer. Évitez de vous mettre dans un coin ou contre le mur, car c’est l’image que les autres pourraient vous garder.",
+            "tips": "Cette question est vraiment importante. L'entraîneur Lois P. Frankel a même pris le titre de son livre: \"Les jolies filles ne font pas le coin du bureau\".",
+            "clue": "Votre patron est souvent dans un coin?",
             "template": "{{sel61899}}",
-            "clue": "Votre chef se place souvent dans un coin ?",
-            "label_EyRB-6iG~": " ",
-            "choice_E1xRHuTjfW": "N'importe où",
-            "choice_NkZRBOasMZ": "Une place d'où vous pouvez bouger",
-            "choice_NkVvuTofb": "Dos contre le mur",
+            "label_EyRB-6iG~": " ",
+            "choice_E1xRHuTjfW": "Nulle part",
+            "choice_NkZRBOasMZ": "Un endroit d'où tu peux déménager",
+            "choice_NkVvuTofb": "Dos au mur",
             "choice_EJy-upjf~": "Assis sur le bord d'un bureau"
         },
         "en": {
+            "header": "In a meeting room, where should you ideally place yourself?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "You have to know how to occupy the space. In a meeting room, choose a place from where you can easily move. Avoid putting yourself in a corner or back to the wall as this is the image that others could keep from you.",
+            "tips": "This question is really important. The coach Lois P. Frankel has even made the title of his book: \"Nice Girls Do not Get the Corner Office\".",
+            "clue": "Your boss is often in a corner?",
+            "template": "{{sel61899}}",
+            "label_EyRB-6iG~": " ",
+            "choice_E1xRHuTjfW": "Anywhere",
+            "choice_NkZRBOasMZ": "A place from where you can move",
+            "choice_NkVvuTofb": "Back against the wall",
+            "choice_EJy-upjf~": "Sitting on the edge of a desk"
+        },
+        "de": {
+            "header": "Wo sollten Sie sich in einem Besprechungsraum ideal platzieren?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Man muss wissen, wie man den Raum besetzt. Wählen Sie in einem Besprechungsraum einen Ort aus, von dem aus Sie sich leicht bewegen können. Setzen Sie sich nicht in eine Ecke oder zurück an die Wand, da dies das Bild ist, das andere von Ihnen behalten könnten.",
+            "tips": "Diese Frage ist wirklich wichtig. Der Trainer Lois P. Frankel hat sogar den Titel seines Buches gemacht: \"Schöne Mädchen bekommen nicht das Eckbüro\".",
+            "clue": "Ihr Chef ist oft in einer Ecke?",
+            "template": "{{sel61899}}",
+            "label_EyRB-6iG~": " ",
+            "choice_E1xRHuTjfW": "Irgendwo",
+            "choice_NkZRBOasMZ": "Ein Ort, von dem aus Sie sich bewegen können",
+            "choice_NkVvuTofb": "Zurück gegen die Wand",
+            "choice_EJy-upjf~": "Auf der Schreibtischkante sitzen"
+        },
+        "es": {
             "header": "In a meeting room, where ideally should you position yourself?",
             "explanation": "Select the correct answer in the drop-down menu.",
             "klf": "You should know how to occupy space. In a meeting room, choose a place where you have enough space to move around. Avoid putting yourself in a corner or your back against a wall because this is the image that others could have of you.",
@@ -90,6 +116,19 @@
             "choice_NkVvuTofb": "Back against the wall",
             "choice_EJy-upjf~": "Sit on the edge of a desk",
             "clue": "Does your boss often place themselves in a corner?"
+        },
+        "zh": {
+            "header": "在会议室，理想情况下你应该在哪里定位自己？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "你应该知道如何占用空间。在会议室中，选择一个有足够空间移动的地方。避免将自己置于角落或背靠墙上，因为这是其他人可能拥有的形象。",
+            "tips": "这个问题非常重要。 Lois P. Frankel教练甚至将她的书名称为“好女孩不要去角落办公室”。",
+            "clue": "你的老板经常把自己放在角落里吗？",
+            "template": "{{Sel61899}}",
+            "label_EyRB-6iG~": " ",
+            "choice_E1xRHuTjfW": "随地",
+            "choice_NkZRBOasMZ": "你可以移动的地方",
+            "choice_NkVvuTofb": "靠在墙上",
+            "choice_EJy-upjf~": "坐在桌子的边缘"
         }
     }
 }

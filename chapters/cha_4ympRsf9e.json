@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": true,
             "createdAt": "2016-02-09T10:31:58.270Z",
-            "updatedAt": "2019-02-04T17:30:00.638Z",
+            "updatedAt": "2017-08-30T17:46:12.984Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -11,10 +11,9 @@
                 "mod_VJqZAiM9x"
             ],
             "status": "draft",
-            "modifiedBy": "esa-coorp",
+            "modifiedBy": "ValentineMichaud",
             "createdBy": "LaurenceMD",
-            "taggedNewUntil": "2016-04-09T09:31:58.270Z",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "cha_4ympRsf9e",
         "name": "name",
@@ -24,15 +23,23 @@
         "freeRun": true,
         "poster": "med_4ktxFyeKm",
         "universalRef": "cha_4ympRsf9e",
-        "draft": true,
         "thematiques": []
     },
     "locales": {
         "fr": {
-            "name": "Travailler sa marque personnelle"
+            "name": "Travaillez sur votre marque personnelle"
         },
         "en": {
+            "name": "Work on your personal brand"
+        },
+        "de": {
+            "name": "Arbeiten Sie an Ihrer persönlichen Marke"
+        },
+        "es": {
             "name": "Leaving your personal mark"
+        },
+        "zh": {
+            "name": "留下你的个人印记"
         }
     }
 }

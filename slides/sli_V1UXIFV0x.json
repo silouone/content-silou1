@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_V1UXIFV0x",
         "position": 0,
@@ -95,12 +95,30 @@
     },
     "locales": {
         "fr": {
-            "header": "Quelle proportion des revenus mondiaux est gagnée par les femmes ? Pour quelle proportion des heures travaillées ?",
+            "header": "Quelle proportion du revenu mondial est gagnée par les femmes? Pour quelle proportion d'heures travaillées?",
             "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
-            "klf": "Selon les Nations unies, les femmes effectuent les deux tiers des heures travaillées dans le monde. Pourtant, elles ne gagnent que 10% des revenus mondiaux. Elles produisent également 50% de la nourriture et détiennent 1% de la propriété (source : Unicef 2007).",
-            "tips": "La pauvreté rurale des femmes a même fortement augmenté dans le monde depuis 1975 : +50% (Haut Commissariat des Nations unies aux droits de l'homme).",
-            "template": "Elles touchent {{sel47836}} des revenus mondiaux et effectuent {{sel85113}} des heures travaillées.",
-            "clue": "Bien loin de la parité.",
+            "klf": "Selon les Nations Unies, les femmes travaillent dans les deux tiers des heures travaillées dans le monde. Pourtant, ils ne gagnent que 10% du revenu mondial. Ils produisent également 50% de la nourriture et détiennent 1% de la propriété (source: Unicef ​​2007).",
+            "tips": "La pauvreté des femmes rurales a même fortement augmenté dans le monde depuis 1975: + 50% (Haut Commissariat des Nations Unies aux droits de l'homme).",
+            "clue": "Loin de la parité.",
+            "template": "Ils gagnent des {{sel47836}} salaires mondiaux et des {{sel85113}} heures de travail.",
+            "label_NJtdUFECx": " ",
+            "choice_V1gFO8K4Cx": "dix%",
+            "choice_VJWYd8tEAg": "25%",
+            "choice_41l9Lt4Al": "50%",
+            "choice_VJb5UtVCg": "75%",
+            "label_EJkRIpPz~": " ",
+            "choice_Vyg10ITPG~": "1/4",
+            "choice_4yb1AIpDfZ": "1/2",
+            "choice_4JJyP6PMb": "2/3",
+            "choice_VJQJPTPfZ": "3/4"
+        },
+        "en": {
+            "header": "What proportion of global income is earned by women? For what proportion of hours worked?",
+            "explanation": "Select the correct answer from the drop-down menus.",
+            "klf": "According to the United Nations, women work two-thirds of the hours worked in the world. Yet they earn only 10% of global income. They also produce 50% of the food and hold 1% of the property (source: Unicef ​​2007).",
+            "tips": "Rural women's poverty has even risen sharply in the world since 1975: + 50% (Office of the United Nations High Commissioner for Human Rights).",
+            "clue": "Far from parity.",
+            "template": "They earn {{sel47836}} worldwide earnings and work {{sel85113}} hours worked.",
             "label_NJtdUFECx": " ",
             "choice_V1gFO8K4Cx": "10%",
             "choice_VJWYd8tEAg": "25%",
@@ -112,7 +130,25 @@
             "choice_4JJyP6PMb": "2/3",
             "choice_VJQJPTPfZ": "3/4"
         },
-        "en": {
+        "de": {
+            "header": "Welchen Anteil des globalen Einkommens verdienen Frauen? Für welchen Anteil der geleisteten Arbeitsstunden?",
+            "explanation": "Wählen Sie die richtige Antwort aus den Dropdown-Menüs.",
+            "klf": "Nach Angaben der Vereinten Nationen arbeiten Frauen zu zwei Dritteln der Arbeitsstunden in der Welt. Sie verdienen jedoch nur 10% des Welteinkommens. Sie produzieren auch 50% der Nahrungsmittel und halten 1% der Immobilie (Quelle: Unicef ​​2007).",
+            "tips": "Die Armut ländlicher Frauen ist seit 1975 sogar weltweit stark gestiegen: + 50% (Amt des Hohen Kommissars der Vereinten Nationen für Menschenrechte).",
+            "clue": "Weit weg von der Parität.",
+            "template": "Sie verdienen weltweit {{sel47836}} und arbeiten {{sel85113}} Arbeitsstunden.",
+            "label_NJtdUFECx": " ",
+            "choice_V1gFO8K4Cx": "10%",
+            "choice_VJWYd8tEAg": "25%",
+            "choice_41l9Lt4Al": "50%",
+            "choice_VJb5UtVCg": "75%",
+            "label_EJkRIpPz~": " ",
+            "choice_Vyg10ITPG~": "1/4",
+            "choice_4yb1AIpDfZ": "1/2",
+            "choice_4JJyP6PMb": "2/3",
+            "choice_VJQJPTPfZ": "3/4"
+        },
+        "es": {
             "header": "What proportion of global income is earned by women? For what proportion of hours worked?",
             "explanation": "Select the correct answer in the drop-down menus.",
             "klf": "According to the UN, women do two thirds of the hours worked in the world. Yet they earn only 10% of global income. They also produce 50% of the food and own 1% of the property (source: UNICEF 2007).",
@@ -129,6 +165,24 @@
             "choice_4JJyP6PMb": "2/3",
             "choice_VJQJPTPfZ": "3/4",
             "clue": "Far from equality."
+        },
+        "zh": {
+            "header": "女性获得的全球收入比例是多少？小时工作的比例是多少？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "根据联合国的统计，女性占世界工作时间的三分之二。然而，他们只赚取全球收入的10％。他们还生产50％的食物并拥有1％的财产（来源：UNICEF 2007）。",
+            "tips": "自1975年以来，全世界妇女的农村贫困率甚至急剧上升：+ 50％（联合国人权事务高级专员）。",
+            "clue": "远非平等。",
+            "template": "女性在全球工作时间{{sel85113}}工作时获得全球收入{{sel47836}}。",
+            "label_NJtdUFECx": " ",
+            "choice_V1gFO8K4Cx": "10％",
+            "choice_VJWYd8tEAg": "25％",
+            "choice_41l9Lt4Al": "50％",
+            "choice_VJb5UtVCg": "75％",
+            "label_EJkRIpPz~": " ",
+            "choice_Vyg10ITPG~": "1/4",
+            "choice_4yb1AIpDfZ": "1/2",
+            "choice_4JJyP6PMb": "2/3",
+            "choice_VJQJPTPfZ": "3/4"
         }
     }
 }

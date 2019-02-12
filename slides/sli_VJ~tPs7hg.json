@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "LaurenceMD",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_VJ~tPs7hg",
         "position": 0,
@@ -62,23 +62,57 @@
     },
     "locales": {
         "fr": {
-            "header": "Quelle expression utilisée par l'auteur et professeur William Ury désigne une méthode pour sortir de l'impasse ?",
+            "header": "Quelle expression utilisée par l’auteur et professeur William Ury signifie un moyen de sortir de l’impasse?",
             "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
-            "klf": "En cas de négociation difficile, William Ury conseille de \"monter au balcon\", c'est-à-dire de prendre de la hauteur. Pour cela, analysez la situation comme une tierce personne et cherchez à adapter votre approche.",
-            "tips": "D'après le coach Olivier Pauvarel, dans cette situation, l'idée n'est pas de regarder le contenu de la négociation mais bien l'interaction qui se déroule.",
-            "template": "{{sel42877}}",
+            "klf": "En cas de négociation difficile, William Ury conseille de \"monter sur le balcon\", c'est-à-dire de prendre de la hauteur. Pour ce faire, analysez la situation à la troisième personne et essayez d’adapter votre approche.",
+            "tips": "Selon l'entraîneur Olivier Pauvarel, dans cette situation, il ne s'agit pas de regarder le contenu de la négociation, mais l'interaction qui se produit.",
             "clue": "Voir les choses d'en haut.",
+            "template": "{{sel42877}}",
+            "label_VyQYfaNRl": " ",
+            "choice_EyeXKfaEAx": "Lay cartes sur la table",
+            "choice_EyZ7KGaVCg": "Monter sur le balcon",
+            "choice_VkHcGaEAg": "Effacer le chemin",
             "label_4Jxlz9jX2g": " ",
             "placeholder_EkWgf9iQ2e": " ",
             "label_NJ7-f6V0e": " ",
             "choice_Nyx7uzaN0e": "",
-            "choice_E1~Q-za40g": "",
-            "label_VyQYfaNRl": " ",
-            "choice_EyeXKfaEAx": "Poser cartes sur table",
-            "choice_EyZ7KGaVCg": "Monter au balcon",
-            "choice_VkHcGaEAg": "Défricher le chemin"
+            "choice_E1~Q-za40g": ""
         },
         "en": {
+            "header": "What phrase used by author and professor William Ury means a way out of the impasse?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In case of difficult negotiation, William Ury advises to \"go up to the balcony\", that is to say to gain height. To do this, analyze the situation as a third person and try to adapt your approach.",
+            "tips": "According to the coach Olivier Pauvarel, in this situation, the idea is not to look at the content of the negotiation but the interaction that takes place.",
+            "clue": "See things from above.",
+            "template": "{{sel42877}}",
+            "label_VyQYfaNRl": " ",
+            "choice_EyeXKfaEAx": "Lay cards on table",
+            "choice_EyZ7KGaVCg": "Go up to the balcony",
+            "choice_VkHcGaEAg": "Clear the path",
+            "label_4Jxlz9jX2g": " ",
+            "placeholder_EkWgf9iQ2e": " ",
+            "label_NJ7-f6V0e": " ",
+            "choice_Nyx7uzaN0e": "",
+            "choice_E1~Q-za40g": ""
+        },
+        "de": {
+            "header": "Welcher Satz, der von Autor und Professor William Ury verwendet wird, bedeutet einen Ausweg aus der Sackgasse?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Bei schwierigen Verhandlungen rät William Ury, \"auf den Balkon zu gehen\", also an Höhe zu gewinnen. Analysieren Sie dazu die Situation als Dritte und versuchen Sie, Ihren Ansatz anzupassen.",
+            "tips": "Laut Trainer Olivier Pauvarel geht es in dieser Situation nicht darum, den Inhalt der Verhandlungen zu betrachten, sondern die Interaktion, die stattfindet.",
+            "clue": "Sehen Sie die Dinge von oben.",
+            "template": "{{sel42877}}",
+            "label_VyQYfaNRl": " ",
+            "choice_EyeXKfaEAx": "Karten auf den Tisch legen",
+            "choice_EyZ7KGaVCg": "Geh auf den Balkon",
+            "choice_VkHcGaEAg": "Weg frei machen",
+            "label_4Jxlz9jX2g": " ",
+            "placeholder_EkWgf9iQ2e": " ",
+            "label_NJ7-f6V0e": " ",
+            "choice_Nyx7uzaN0e": "",
+            "choice_E1~Q-za40g": ""
+        },
+        "es": {
             "header": "What expression used by author and professor William Ury refers to a method that can be used to break the deadlock?",
             "explanation": "Select the correct answer in the drop-down menu.",
             "klf": "If negotiations prove to be difficult, William Ury advises to \"go to the balcony,\" that is to say to gain some distance. For this, analyse the situation as a third party and try to adapt your approach.",
@@ -94,6 +128,23 @@
             "choice_EyZ7KGaVCg": "Go to the balcony",
             "choice_VkHcGaEAg": "Clear the way",
             "clue": "View things from above."
+        },
+        "zh": {
+            "header": "作者和William Ury教授使用的表达方式是指可用于打破僵局的方法？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "如果谈判证明是困难的，威廉·尤里建议“去阳台”，也就是说要争取一些距离。为此，将情况分析为第三方，并尝试调整您的方法。",
+            "tips": "根据教练Olivier Pauvarel的说法，在这种情况下，我们的想法不是看谈判的内容，而是看待发生的互动。",
+            "clue": "从上面查看事物。",
+            "template": "{{sel42877}}",
+            "label_VyQYfaNRl": " ",
+            "choice_EyeXKfaEAx": "把你的卡放在桌子上",
+            "choice_EyZ7KGaVCg": "去阳台",
+            "choice_VkHcGaEAg": "清除方式",
+            "label_4Jxlz9jX2g": " ",
+            "placeholder_EkWgf9iQ2e": " ",
+            "label_NJ7-f6V0e": " ",
+            "choice_Nyx7uzaN0e": "",
+            "choice_E1~Q-za40g": ""
         }
     }
 }

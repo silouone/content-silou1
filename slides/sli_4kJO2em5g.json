@@ -14,7 +14,7 @@
             "status": "draft",
             "modifiedBy": "Hortensel",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_4kJO2em5g",
         "position": 0,
@@ -39,16 +39,36 @@
     },
     "locales": {
         "fr": {
-            "header": "Pour 37% des femmes interrogées par Cegos en 2010, quel est le premier obstacle à leur vie professionnelle ? La…",
-            "explanation": "Saisissez votre réponse (un mot).",
-            "klf": "37% des femmes interrogées par le cabinet Cegos en 2010 déclaraient que la maternité est la première difficulté dans leur vie professionnelle. Viennent ensuite le temps consacré à leurs enfants (33%) et le retour de maternité (28%).",
-            "tips": "C'est ce que l'entrepreneuse Marlène Schiappa et le RH Cédric Bruguière appellent \"le plafond de mère\", dans un livre du même nom.",
-            "label": " ",
-            "placeholder": " ",
-            "clue": "Envie de fraises…",
-            "choice_NJcvaxX5x": "maternité"
+            "header": "Pour 37% des femmes interrogées par Cegos en 2010, quel est le premier obstacle à leur vie professionnelle? Le…",
+            "explanation": "Entrez votre réponse (un mot).",
+            "klf": "37% des femmes interrogées par Cegos en 2010 ont déclaré que la maternité était la première difficulté de leur vie professionnelle. Viennent ensuite le temps passé avec leurs enfants (33%) et le retour de la maternité (28%).",
+            "tips": "C’est ce que l’entrepreneur Marlene Schiappa et HR Cédric Bruguière appellent \"le plafond de la mère\", dans un livre du même nom.",
+            "clue": "Veulent des fraises ...",
+            "choice_NJcvaxX5x": "maternité",
+            "label": " ",
+            "placeholder": " "
         },
         "en": {
+            "header": "For 37% of the women surveyed by Cegos in 2010, what is the first obstacle to their professional life? The…",
+            "explanation": "Enter your answer (a word).",
+            "klf": "37% of women interviewed by Cegos in 2010 said that maternity is the first difficulty in their professional life. Then come the time spent with their children (33%) and the return of maternity (28%).",
+            "tips": "This is what the entrepreneur Marlene Schiappa and HR Cédric Bruguière call \"the ceiling of mother\", in a book of the same name.",
+            "clue": "Want strawberries ...",
+            "choice_NJcvaxX5x": "maternity",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Was ist für 37% der von Cegos im Jahr 2010 befragten Frauen das erste Hindernis für ihr Berufsleben? Das…",
+            "explanation": "Geben Sie Ihre Antwort (ein Wort) ein.",
+            "klf": "37% der 2010 von Cegos befragten Frauen gaben an, dass Mutterschaft die erste Schwierigkeit in ihrem Berufsleben ist. Dann kommen die Zeit mit ihren Kindern (33%) und die Rückkehr der Mutterschaft (28%).",
+            "tips": "Dies nennen die Unternehmerin Marlene Schiappa und HR Cédric Bruguière \"Decke der Mutter\" in einem gleichnamigen Buch.",
+            "clue": "Willst du Erdbeeren ...",
+            "choice_NJcvaxX5x": "Mutterschaft",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
             "header": "Pour 37% des femmes interrogées par Cegos en 2010, quel est le premier obstacle à leur vie professionnelle ? La…",
             "explanation": "Type your answer.",
             "klf": "37% des femmes interrogées par le cabinet Cegos en 2010 déclaraient que la maternité est la première difficulté dans leur vie professionnelle. Viennent ensuite le temps consacré à leurs enfants (33%) et le retour de maternité (28%).",
@@ -57,6 +77,16 @@
             "placeholder": " ",
             "choice_NJcvaxX5x": "maternité",
             "clue": "Envie de fraises…"
+        },
+        "zh": {
+            "header": "对于Cegos在2010年接受调查的女性中有37％的人来说，他们职业生涯的第一个障碍是什么？该...",
+            "explanation": "输入你的答案。",
+            "klf": "2010年Cegos采访的女性中有37％的人表示，产妇是他们职业生涯中的第一个难题。然后是与孩子一起度过的时间（33％）和产假的回归（28％）。",
+            "tips": "这就是企业家Marlene Schiappa和HRCédricBruguière在一本同名书中所说的“母亲的天花板”。",
+            "clue": "想要草莓......",
+            "choice_NJcvaxX5x": "母道",
+            "label": " ",
+            "placeholder": " "
         }
     }
 }

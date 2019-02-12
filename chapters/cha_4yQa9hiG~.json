@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": true,
             "createdAt": "2016-05-23T09:22:51.983Z",
-            "updatedAt": "2019-02-04T17:30:00.637Z",
+            "updatedAt": "2018-10-24T16:03:04.109Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -11,10 +11,10 @@
                 "mod_EJd~RjG5e"
             ],
             "status": "draft",
-            "modifiedBy": "esa-coorp",
+            "modifiedBy": "ValentineMichaud",
             "createdBy": "Margaux-Schmitt",
             "taggedNewUntil": "2016-07-23T09:22:51.983Z",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "cha_4yQa9hiG~",
         "name": "name",
@@ -28,15 +28,23 @@
         "skills": [
             "skill_Vk66IttsS"
         ],
-        "draft": true,
         "thematiques": []
     },
     "locales": {
         "fr": {
-            "name": "Travailler sa posture"
+            "name": "Travaillez sur votre posture"
         },
         "en": {
+            "name": "Work on your posture"
+        },
+        "de": {
+            "name": "Arbeite an deiner Haltung"
+        },
+        "es": {
             "name": "Working on your posture"
+        },
+        "zh": {
+            "name": "努力锻炼你的姿势"
         }
     }
 }

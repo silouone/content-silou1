@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "CharlotteRitzmann",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_VkMSX1wqx",
         "position": 0,
@@ -59,17 +59,39 @@
     },
     "locales": {
         "fr": {
-            "header": "Quand on parle, où l'air doit-il résonner pour donner une voix basse ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "En parlant, nous expulsons de l'air qui vibre sur nos cordes vocales avant de résonner à divers endroits. Au niveau du nez, la voix sera nasillarde. Au niveau de la poitrine, elle sera plus basse.",
-            "tips": "Toutes les cavités au-dessus des cordes vocales où l'air peut circuler avant de rejoindre l'extérieur sont appelées les \"résonateurs\".",
-            "clue": "Au plus près des poumons.",
+            "header": "Quand nous parlons, où l'air doit-il sonner pour donner une voix basse?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "En parlant, nous chassons l’air qui vibre sur nos cordes vocales avant de résonner à divers endroits. Au niveau du nez, la voix sera nasale. Au niveau de la poitrine, il sera plus bas.",
+            "tips": "Toutes les cavités situées au-dessus des cordes vocales où l'air peut circuler avant d'atteindre l'extérieur sont appelées \"résonateurs\".",
+            "clue": "Plus près des poumons.",
             "choice_417JNyP9e": "Les fosses nasales",
             "choice_VyxQJ4JDcx": "La bouche",
-            "choice_V1V1VkD5g": "La poitrine",
+            "choice_V1V1VkD5g": "Sein",
             "choice_4kSyVkP5x": "Le palais"
         },
         "en": {
+            "header": "When we speak, where does the air have to sound to give a low voice?",
+            "explanation": "Select the correct answer.",
+            "klf": "Speaking, we expel the air that vibrates on our vocal chords before resonating in various places. At the level of the nose, the voice will be nasal. At the level of the chest, it will be lower.",
+            "tips": "All the cavities above the vocal cords where the air can circulate before reaching the outside are called the \"resonators\".",
+            "clue": "Closer to the lungs.",
+            "choice_417JNyP9e": "The nasal fossae",
+            "choice_VyxQJ4JDcx": "The mouth",
+            "choice_V1V1VkD5g": "Breast",
+            "choice_4kSyVkP5x": "The palace"
+        },
+        "de": {
+            "header": "Wo muss die Luft klingen, wenn wir sprechen, um eine tiefe Stimme zu geben?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wenn wir sprechen, vertreiben wir die Luft, die auf unseren Stimmbändern vibriert, bevor sie an verschiedenen Orten in Resonanz treten. Auf der Ebene der Nase wird die Stimme nasal sein. In Höhe der Brust wird es niedriger sein.",
+            "tips": "Alle Hohlräume über den Stimmbändern, in denen die Luft zirkulieren kann, bevor sie nach außen gelangen, werden als \"Resonatoren\" bezeichnet.",
+            "clue": "Näher an der Lunge.",
+            "choice_417JNyP9e": "Die Nasenfossa",
+            "choice_VyxQJ4JDcx": "Der Mund",
+            "choice_V1V1VkD5g": "Brust",
+            "choice_4kSyVkP5x": "Der Palast"
+        },
+        "es": {
             "header": "When we speak, where does the air need to resonate to have a low voice?",
             "explanation": "Select the correct answer.",
             "klf": "When we speak, we expel air that vibrates our vocal cords before resonating in different areas. At the nose, the voice is nasal.  At the chest, it will be lower.",
@@ -79,6 +101,17 @@
             "choice_V1V1VkD5g": "Chest",
             "choice_4kSyVkP5x": "Palate",
             "clue": "Closest to the lungs."
+        },
+        "zh": {
+            "header": "当我们说话时，空气需要在哪里产生共鸣才能发出低声？",
+            "explanation": "选择正确的答案。",
+            "klf": "当我们说话时，我们会排出振动声带的空气，然后在不同的区域产生共鸣。在鼻子，声音是鼻腔。在胸部，它会更低。",
+            "tips": "在到达外部之前空气可以在其周围循环的声带上方的所有空腔被称为“谐振器”。",
+            "clue": "最接近肺部。",
+            "choice_417JNyP9e": "鼻腔",
+            "choice_VyxQJ4JDcx": "口",
+            "choice_V1V1VkD5g": "胸部",
+            "choice_4kSyVkP5x": "腭"
         }
     }
 }

@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "leosiegel",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_NJJlg1vcx",
         "position": 0,
@@ -70,19 +70,45 @@
     },
     "locales": {
         "fr": {
-            "header": "Vous êtes à cinq minutes d'une présentation qui vous stresse. Que pouvez-vous vous dire pour désamorcer ce trac ?",
+            "header": "Vous êtes à cinq minutes d'un exposé qui vous stresse. Que pouvez-vous dire pour désamorcer cette nervosité?",
             "explanation": "Sélectionnez les bonnes réponses.",
-            "klf": "Pour désamorcer le stress, la coach Chine Lanzmann conseille d'accepter de ne pas plaire à tout le monde. Et rappelle que ce n'est pas grave. Autre technique : gardez en tête que vous êtes légitime à intervenir.",
-            "tips": "Vous pouvez vous dire tout ça bien avant l'échéance. À force de le répéter, cela aura un impact positif sur vous. C'est la fameuse méthode Coué.",
-            "clue": "Le positif entraîne le positif.",
-            "choice_4JGYx1v5g": "\"Allez ! Plus vite j'y vais, plus vite c'est fini !\"",
-            "choice_E18tl1v5g": "\"Je vais être trop nul, mais tant pis…\"",
-            "choice_41Dtekw5e": "\"OK, je ne vais pas plaire à tout le monde, mais c'est pas grave !\"",
-            "choice_NJgPFxJwcx": "\"Maman, au secours !\"",
-            "choice_NJOtxkvqx": "\"De toute façon, je suis meilleur qu'eux\"",
-            "choice_N1YYx1w5g": "\"Si je suis là, c'est que je suis légitime\""
+            "klf": "Pour désamorcer le stress, le sélectionneur chinois Lanzmann recommande d'accepter de ne pas faire plaisir à tout le monde. Et rappelle que cela n'a pas d'importance. Autre technique: gardez à l’esprit que vous êtes légitime pour intervenir.",
+            "tips": "Vous pouvez dire tout cela bien avant la date limite. En répétant cela, cela aura un impact positif sur vous. C'est la fameuse méthode Coué.",
+            "clue": "Le positif mène au positif.",
+            "choice_4JGYx1v5g": "\"Allez, plus vite je vais, plus vite c'est fini!\"",
+            "choice_E18tl1v5g": "\"Je vais être trop mauvais, mais peu importe ...\"",
+            "choice_41Dtekw5e": "\"D'accord, je ne vais pas faire plaisir à tout le monde, mais ce n'est pas grave!\"",
+            "choice_NJgPFxJwcx": "\"Maman, à l'aide!\"",
+            "choice_NJOtxkvqx": "\"Quoi qu'il en soit, je suis meilleur qu'eux\"",
+            "choice_N1YYx1w5g": "\"Si je suis là, c'est parce que je suis légitime\""
         },
         "en": {
+            "header": "You are five minutes away from a presentation that stresses you. What can you say to defuse this jitters?",
+            "explanation": "Select the correct answers.",
+            "klf": "To defuse the stress, China coach Lanzmann advises to accept not to please everyone. And reminds that it does not matter. Another technique: keep in mind that you are legitimate to intervene.",
+            "tips": "You can tell all this well before the deadline. By repeating this, it will have a positive impact on you. This is the famous Coué method.",
+            "clue": "The positive leads to the positive.",
+            "choice_4JGYx1v5g": "\"Go, the faster I go, the faster it's over!\"",
+            "choice_E18tl1v5g": "\"I'm going to be too bad, but never mind ...\"",
+            "choice_41Dtekw5e": "\"OK, I'm not going to please everyone, but it does not matter!\"",
+            "choice_NJgPFxJwcx": "\"Mom, help!\"",
+            "choice_NJOtxkvqx": "\"Anyway, I'm better than them\"",
+            "choice_N1YYx1w5g": "\"If I'm here, it's because I'm legitimate\""
+        },
+        "de": {
+            "header": "Sie sind fünf Minuten von einer Präsentation entfernt, die Sie betont. Was kannst du sagen, um diese Jitter zu entschärfen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Um den Stress zu entschärfen, rät China-Trainer Lanzmann, nicht allen zu gefallen. Und erinnert daran, dass es keine Rolle spielt. Eine andere Technik: Denken Sie daran, dass Sie legitim eingreifen dürfen.",
+            "tips": "Sie können dies alles vor Ablauf der Frist deutlich machen. Wenn Sie dies wiederholen, wirkt sich dies positiv auf Sie aus. Dies ist die berühmte Coué-Methode.",
+            "clue": "Das Positive führt zum Positiven.",
+            "choice_4JGYx1v5g": "\"Geh, je schneller ich gehe, desto schneller ist es vorbei!\"",
+            "choice_E18tl1v5g": "\"Ich werde zu schlecht sein, aber egal ...\"",
+            "choice_41Dtekw5e": "\"OK, ich werde nicht allen gefallen, aber es spielt keine Rolle!\"",
+            "choice_NJgPFxJwcx": "\"Mama, hilf!\"",
+            "choice_NJOtxkvqx": "\"Wie auch immer, ich bin besser als sie\"",
+            "choice_N1YYx1w5g": "\"Wenn ich hier bin, ist es, weil ich legitim bin\""
+        },
+        "es": {
             "header": "You are five minutes away from a presentation that stresses you out. What can you tell yourself to alleviate the jitters?",
             "explanation": "Select the correct answers.",
             "klf": "To defuse stress, the coach Chine Lanzmann proposes accepting that we are not going to please everyone. And remembering that it does not matter. Another technique: keep in mind that you have a legitimate reason for being there.",
@@ -94,6 +120,19 @@
             "choice_NJOtxkvqx": "\"Anyway, I'm better than they are.\"",
             "choice_N1YYx1w5g": "\"If I'm here it is because I have a legitimate right to be.\"",
             "clue": "The positive results in the positive."
+        },
+        "zh": {
+            "header": "距离强调你的演讲只有五分钟的路程。你有什么能告诉自己减轻紧张情绪？",
+            "explanation": "选择正确的答案。",
+            "klf": "为了化解压力，教练Chine Lanzmann建议接受我们不会取悦所有人。并记住它并不重要。另一种技巧：请记住，你有合法的理由去那里。",
+            "tips": "你可以在截止日期前告诉自己。通过重复，它会对你产生积极的影响。这是着名的Coué方法。",
+            "clue": "积极的结果是积极的。",
+            "choice_4JGYx1v5g": "“去吧！我走得越快，越快结束！”",
+            "choice_E18tl1v5g": "“我会很可怕，但没关系......”",
+            "choice_41Dtekw5e": "“好吧，我不会取悦所有人，但那没关系！”",
+            "choice_NJgPFxJwcx": "“妈妈，救命！”",
+            "choice_NJOtxkvqx": "“无论如何，我比他们好。”",
+            "choice_N1YYx1w5g": "“如果我在这里，那是因为我有合法的权利。”"
         }
     }
 }

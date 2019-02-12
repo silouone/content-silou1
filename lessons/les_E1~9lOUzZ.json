@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": true,
             "createdAt": "2016-05-19T09:04:11.587Z",
-            "updatedAt": "2016-07-18T15:57:14.114Z",
+            "updatedAt": "2019-02-07T09:36:08.600Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -19,22 +19,31 @@
             ],
             "chapters": [],
             "status": "draft",
-            "modifiedBy": "leosiegel",
+            "modifiedBy": "ThibaultRic",
             "createdBy": "amandinelemoult21",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "les_E1~9lOUzZ",
         "position": 0,
         "poster": "med_EkUDo1Uvb",
         "description": "description",
-        "resource": "med_VyN9xuLzW"
+        "resource": "med_NkT1iySNI"
     },
     "locales": {
         "fr": {
-            "description": "Les obstacles qui empêchent les femmes d'avancer"
+            "description": "Obstacles empêchant les femmes de progresser"
         },
         "en": {
+            "description": "Barriers that prevent women from advancing"
+        },
+        "de": {
+            "description": "Hindernisse, die Frauen daran hindern, weiterzukommen"
+        },
+        "es": {
             "description": "The obstacles that prevent women from advancing"
+        },
+        "zh": {
+            "description": "阻碍妇女前进的障碍"
         }
     }
 }

@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "ThereseG",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_4yGIJbXql",
         "position": 0,
@@ -51,15 +51,33 @@
     },
     "locales": {
         "fr": {
-            "header": "En France, la parité commence à être atteinte dans la majorité des métiers. Vrai ou faux ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "En France, les femmes restent encore cantonnées à certaines catégories de métiers. En 2011, les conducteurs d'engins de travaux publics étaient à 99% des hommes et les aides à domicile, à 98% des femmes.",
-            "tips": "Parmi les mesures en faveur de l'égalité hommes-femmes, le gouvernement français se fixe comme objectif un tiers de métiers mixtes en 2025.",
-            "clue": "Vous voyez beaucoup de femmes conduire des bus ?",
+            "header": "En France, la parité commence à être atteinte dans la plupart des professions. Vrai ou faux ?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "En France, les femmes sont encore limitées à certaines catégories de professions. En 2011, 99% des opérateurs de machines de travaux publics étaient des hommes et 98% des femmes étaient des aides à domicile.",
+            "tips": "Parmi les mesures en faveur de l'égalité des sexes, le gouvernement français s'est fixé pour objectif un tiers des emplois mixtes en 2025.",
+            "clue": "Voyez-vous beaucoup de femmes conduire des bus?",
             "choice_41xjgxbX5x": "Vrai",
             "choice_EJxpegZ79e": "Faux"
         },
         "en": {
+            "header": "In France, parity is beginning to be reached in most professions. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "In France, women are still restricted to certain categories of occupations. In 2011, 99% of public works machinery operators were men and 98% of women were home helpers.",
+            "tips": "Among the measures in favor of gender equality, the French government sets a target of one third of mixed jobs in 2025.",
+            "clue": "Do you see a lot of women driving buses?",
+            "choice_41xjgxbX5x": "True",
+            "choice_EJxpegZ79e": "False"
+        },
+        "de": {
+            "header": "In Frankreich beginnt die Gleichstellung in den meisten Berufen. Richtig oder falsch ?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In Frankreich sind Frauen immer noch auf bestimmte Kategorien von Berufen beschränkt. Im Jahr 2011 waren 99% der Betreiber öffentlicher Arbeitsmaschinen Männer und 98% der Frauen Haushelfer.",
+            "tips": "Unter den Maßnahmen zur Förderung der Gleichstellung der Geschlechter legt die französische Regierung im Jahr 2025 ein Drittel der gemischten Arbeitsplätze fest.",
+            "clue": "Sehen Sie viele Frauen, die Busse fahren?",
+            "choice_41xjgxbX5x": "Wahr",
+            "choice_EJxpegZ79e": "Falsch"
+        },
+        "es": {
             "header": "In France, parity is beginning to be reached in the majority of professions. True or false?",
             "explanation": "Select the correct answer.",
             "klf": "Women are still confined to certain categories of profession in France. In 2011, 99% of construction machinery drivers were men and 98% of carers were women.",
@@ -67,6 +85,15 @@
             "choice_41xjgxbX5x": "True",
             "choice_EJxpegZ79e": "False",
             "clue": "Do you see many women driving a bus?"
+        },
+        "zh": {
+            "header": "在法国，大多数职业都开始实现平等。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "在法国，妇女仍局限于某些类别的职业。 2011年，99％的建筑机械司机是男性，98％的护理人员是女性。",
+            "tips": "在支持性别平等的措施中，法国政府的目标是到2025年实现第三个混合职业。",
+            "clue": "你看到很多女人开公共汽车吗？",
+            "choice_41xjgxbX5x": "真正",
+            "choice_EJxpegZ79e": "假"
         }
     }
 }

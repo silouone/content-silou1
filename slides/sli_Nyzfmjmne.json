@@ -13,7 +13,7 @@
             "status": "draft",
             "modifiedBy": "TOLENG1",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_Nyzfmjmne",
         "position": 0,
@@ -66,18 +66,42 @@
     },
     "locales": {
         "fr": {
-            "header": "Bien négocier, c'est d'abord \"négocier avec soi-même\" en \"passant dans son propre camp\". Comment y parvenir ?",
+            "header": "Bien négocier, c'est d'abord \"négocier avec soi-même\" en \"allant dans son propre camp\". Comment y arriver?",
             "explanation": "Sélectionnez les bonnes réponses.",
-            "klf": "Pour réussir à négocier avec vous-même, passez dans votre camp. Oubliez vos tendances à l'autocritique pour vous appuyer sur vos succès et vos atouts. Il est important d'avoir de l'empathie envers soi-même.",
-            "tips": "Selon la professeure et infirmière Marie-Françoise Collière, l'auto-empathie passe par la réponse à plusieurs questions, comme \"comment est-ce que je me sens ?\", \"quel est mon besoin ?\" ou encore \"quels sont mes schémas mentaux ?\".",
-            "clue": "Du positif !",
-            "choice_4y4nXi7hl": "Faire le bilan de ses échecs",
-            "choice_EkB27sQ3x": "Arrêter de se dénigrer",
-            "choice_4kD37sXne": "S'appuyer sur ses atouts",
-            "choice_N1dhXjX2e": "Comprendre pourquoi on n'est pas à la hauteur",
-            "choice_4yK37i7ne": "Avoir de l'empathie envers soi-même"
+            "klf": "Pour négocier avec vous-même, allez à vos côtés. Oubliez vos tendances autocritiques pour tirer parti de vos succès et de vos forces. Il est important d'avoir de l'empathie pour vous-même.",
+            "tips": "Selon Marie-Françoise Collière, professeure et infirmière, l’auto-empathie répond à plusieurs questions, telles que: \"Comment je me sens?\", \"Quel est mon besoin?\" ou \"quels sont mes modèles mentaux?\"",
+            "clue": "Positif!",
+            "choice_4y4nXi7hl": "Faites le bilan de vos échecs",
+            "choice_EkB27sQ3x": "Cesser d'être dénigré",
+            "choice_4kD37sXne": "Miser sur ses atouts",
+            "choice_N1dhXjX2e": "Comprendre pourquoi nous ne sommes pas à la hauteur",
+            "choice_4yK37i7ne": "Avoir de l'empathie pour vous-même"
         },
         "en": {
+            "header": "To negotiate well is to first \"negotiate with oneself\" by \"going into one's own camp\". How to achieve it?",
+            "explanation": "Select the correct answers.",
+            "klf": "To negotiate with yourself, go to your side. Forget your self-critical tendencies to build on your successes and your strengths. It is important to have empathy for yourself.",
+            "tips": "According to professor and nurse Marie-Françoise Collière, self-empathy goes through the answer to several questions, such as \"how do I feel?\", \"What is my need?\" or \"what are my mental patterns?\"",
+            "clue": "Positive!",
+            "choice_4y4nXi7hl": "Take stock of your failures",
+            "choice_EkB27sQ3x": "Stop being denigrated",
+            "choice_4kD37sXne": "Rely on its strengths",
+            "choice_N1dhXjX2e": "Understand why we are not up to par",
+            "choice_4yK37i7ne": "Have empathy for yourself"
+        },
+        "de": {
+            "header": "Gut verhandeln heißt, zuerst \"mit sich selbst verhandeln\", indem man \"ins eigene Lager geht\". Wie kann ich das erreichen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Um mit sich selbst zu verhandeln, gehen Sie auf Ihre Seite. Vergessen Sie Ihre selbstkritischen Tendenzen, um auf Ihren Erfolgen und Ihren Stärken aufzubauen. Es ist wichtig, Empathie für sich selbst zu haben.",
+            "tips": "Laut Professorin und Krankenschwester Marie-Françoise Collière geht die Selbsteinfühlung auf die Beantwortung mehrerer Fragen zurück, wie zum Beispiel \"Wie fühle ich mich?\", \"Was ist mein Bedürfnis?\" oder \"Was sind meine Denkmuster?\"",
+            "clue": "Positiv!",
+            "choice_4y4nXi7hl": "Machen Sie eine Bestandsaufnahme Ihrer Fehler",
+            "choice_EkB27sQ3x": "Hört auf, verunglimpft zu werden",
+            "choice_4kD37sXne": "Verlassen Sie sich auf seine Stärken",
+            "choice_N1dhXjX2e": "Verstehe, warum wir nicht auf dem neuesten Stand sind",
+            "choice_4yK37i7ne": "Habe Empathie für dich"
+        },
+        "es": {
             "header": "To negotiate well, first you have to \"negotiate with yourself\" by \"going over to your side.\" How can you achieve this?",
             "explanation": "Select the correct answers.",
             "klf": "To successfully negotiate with yourself, go over to your side. Forget your tendencies to criticise yourself in order to build on your accomplishments and strengths. It is important to have self-empathy.",
@@ -88,6 +112,18 @@
             "choice_N1dhXjX2e": "Understand your inadequacies",
             "choice_4yK37i7ne": "Self-empathy",
             "clue": "Be positive!"
+        },
+        "zh": {
+            "header": "为了好好谈判，首先你必须“走到你身边”，“与自己谈判”。你怎么能实现这个目标？",
+            "explanation": "选择正确的答案。",
+            "klf": "要成功与自己谈判，请转到您的身边。忘记你的批评自己的倾向，以巩固你的成就和优势。拥有自我同情是很重要的。",
+            "tips": "根据教授和护士Marie-FrançoiseCollière的说法，自我同理心包括回答几个问题，比如“我感觉如何？”，“我的需求是什么？”或“我的心理模式是什么？”。",
+            "clue": "要乐观！",
+            "choice_4y4nXi7hl": "评估你的失败",
+            "choice_EkB27sQ3x": "不要批评自己",
+            "choice_4kD37sXne": "建立自己的优势",
+            "choice_N1dhXjX2e": "了解你的不足之处",
+            "choice_4yK37i7ne": "自我同情"
         }
     }
 }

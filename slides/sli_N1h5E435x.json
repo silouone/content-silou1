@@ -14,7 +14,7 @@
             "status": "draft",
             "modifiedBy": "amandinelemoult21",
             "createdBy": "Hortensel",
-            "coreBranch": "partner-au-feminin"
+            "coreBranch": "test-trad"
         },
         "ref": "sli_N1h5E435x",
         "position": 0,
@@ -52,15 +52,33 @@
     },
     "locales": {
         "fr": {
-            "header": "Seule votre expertise métier compte dans la définition de vos atouts. Vrai ou faux ?",
-            "explanation": "Sélectionnez la bonne réponse.",
-            "klf": "Parmi les atouts que vous pouvez mettre en avant, il y a évidemment le savoir-faire professionnel. Mais pas que : le savoir-être importe aussi. Ce peut être l'empathie, la faculté d'écoute ou le charisme.",
-            "tips": "En 1958, le spécialiste de la formation professionnelle Raymond Vatier définit les compétences comme la conjonction des savoirs (connaissances), savoir-faire (pratique) et savoir-être (attitudes).",
-            "clue": "Le relationnel est-il une expertise métier ?",
+            "header": "Seule votre expertise métier compte dans la définition de vos actifs. Vrai ou faux ?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Parmi les atouts que vous pouvez mettre en avant, il y a évidemment le savoir-faire professionnel. Mais pas que: le bien-être compte aussi. Cela peut être l'empathie, la capacité d'écoute ou le charisme.",
+            "tips": "En 1958, Raymond Vatier, spécialiste de la formation professionnelle, définit les compétences comme la combinaison de connaissances (connaissances), de savoir-faire (pratique) et d'attitudes (attitudes).",
+            "clue": "Est-ce que l'expertise relationnelle en affaires?",
             "choice_Eylr5HN29x": "Vrai",
             "choice_VyeAcrEh9e": "Faux"
         },
         "en": {
+            "header": "Only your business expertise counts in the definition of your assets. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Among the assets that you can put forward, there is obviously the professional know-how. But not that: the well-being also matters. It can be empathy, the ability to listen or the charisma.",
+            "tips": "In 1958, Vocational Training Specialist Raymond Vatier defined competencies as the combination of knowledge (knowledge), know-how (practice) and attitudes (attitudes).",
+            "clue": "Is relational business expertise?",
+            "choice_Eylr5HN29x": "True",
+            "choice_VyeAcrEh9e": "False"
+        },
+        "de": {
+            "header": "Bei der Definition Ihrer Vermögenswerte zählt nur Ihr unternehmerisches Know-how. Richtig oder falsch ?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Zu den Vorzügen, die Sie einbringen können, gehört natürlich auch das fachliche Know-how. Aber nicht das: Auch das Wohlbefinden zählt. Es kann Empathie sein, Zuhören oder Charisma.",
+            "tips": "Im Jahr 1958 definierte der Berufsbildungsspezialist Raymond Vatier Kompetenzen als die Kombination von Wissen (Wissen), Know-how (Praxis) und Einstellungen (Einstellungen).",
+            "clue": "Ist relationales Geschäftswissen?",
+            "choice_Eylr5HN29x": "Wahr",
+            "choice_VyeAcrEh9e": "Falsch"
+        },
+        "es": {
             "header": "Seule votre expertise métier compte dans la définition de vos atouts. Vrai ou faux ?",
             "explanation": "Select the correct answer(s).",
             "klf": "Parmi les atouts que vous pouvez mettre en avant, il y a évidemment le savoir-faire professionnel. Mais pas que : le savoir-être importe aussi. Ce peut être l'empathie, la faculté d'écoute ou le charisme.",
@@ -68,6 +86,15 @@
             "choice_Eylr5HN29x": "Vrai",
             "choice_VyeAcrEh9e": "Faux",
             "clue": "Le relationnel est-il une expertise métier ?"
+        },
+        "zh": {
+            "header": "只有您的业务专长才能计入您的资产定义。对还是错？",
+            "explanation": "选择正确的答案。",
+            "klf": "在您提出的资产中，显然有专业的技术诀窍。但不是那样：福祉也很重要。它可以是同理心，倾听能力或魅力。",
+            "tips": "1958年，职业培训专家Raymond Vatier将能力定义为知识（知识），技能（实践）和态度（态度）的结合。",
+            "clue": "关系业务专长吗？",
+            "choice_Eylr5HN29x": "实",
+            "choice_VyeAcrEh9e": "假"
         }
     }
 }
