@@ -1,0 +1,194 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T14:06:02.769Z",
+            "updatedAt": "2018-08-10T09:55:45.439Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKwqQVj4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4y6nnf23V",
+        "universalRef": "sli_4y6nnf23V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel93545",
+                        "label": "label_4kn02f224",
+                        "items": [
+                            {
+                                "text": "choice_Nyl2R3G3n4",
+                                "value": "choice_Nyl2R3G3n4"
+                            },
+                            {
+                                "text": "choice_4JZnAnG33V",
+                                "value": "choice_4JZnAnG33V"
+                            },
+                            {
+                                "text": "choice_4yR03G3hN",
+                                "value": "choice_4yR03G3hN"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel93545",
+                        "answers": [
+                            "choice_4yR03G3hN"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who is responsible in the event of an error during a delegated task?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Delegation implies dual responsibility for both the delegating manager and the delegatee.",
+            "tips": "If you want to hire an assistant, ask yourself the following questions: Do you want to share your authority? Can you imagine someone other than yourself giving instructions to your employees? How much autonomy should he/she have in relation to you?",
+            "clue": "No scapegoats.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel93545}}",
+            "label_4kn02f224": "",
+            "choice_Nyl2R3G3n4": "The delegatee",
+            "choice_4JZnAnG33V": "The delegating manager",
+            "choice_4yR03G3hN": "The delegatee and the delegating manager"
+        },
+        "fr": {
+            "header": "Qui est responsable de l'erreur lors de la mission?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La délégation a une double responsabilité à la fois pour le responsable et la personne en charge.",
+            "tips": "Si vous souhaitez engager un assistant, posez-vous la question suivante: Souhaitez-vous partager vos autorisations? Pouvez-vous imaginer d'autres personnes en dehors de vous pour donner des instructions à vos employés? Quelle autonomie a-t-il / elle avec vous?",
+            "clue": "Il n'y a pas de bouc émissaire.",
+            "template": "{{Sel93545}}",
+            "choice_Nyl2R3G3n4": "Agent",
+            "choice_4JZnAnG33V": "Gestionnaire délégué",
+            "choice_4yR03G3hN": "Représentant et responsable délégué",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_4kn02f224": ""
+        },
+        "es": {
+            "header": "¿Quién es responsable en caso de error durante una tarea delegada?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "La delegación implica doble responsabilidad tanto para el gerente delegante como para el delegado.",
+            "tips": "Si desea contratar un asistente, hágase las siguientes preguntas: ¿quiere compartir su autoridad? ¿Se imagina a alguien que no sea usted dando instrucciones a sus empleados? ¿Cuánta autonomía debería tener él en relación con usted?",
+            "clue": "No hay chivos expiatorios.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel93545}}",
+            "label_4kn02f224": " ",
+            "choice_Nyl2R3G3n4": "El delegado",
+            "choice_4JZnAnG33V": "El gerente delegante",
+            "choice_4yR03G3hN": "El delegado y el gerente delegante"
+        },
+        "it": {
+            "header": "Chi è responsabile in caso di errore durante unattività delegata?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "La delega implica una doppia responsabilità sia per il delegante che per il delegato.",
+            "tips": "Se vuoi assumere un assistente, poniti le seguenti domande: Vuoi condividere la tua autorità? Riesci a immaginare qualcuno diverso da te che dia istruzioni ai tuoi dipendenti? Quanta autonomia dovrebbe avere in relazione a te?",
+            "clue": "Nessun capro espiatorio.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel93545}}",
+            "label_4kn02f224": " ",
+            "choice_Nyl2R3G3n4": "Il delegato",
+            "choice_4JZnAnG33V": "Il delegante manager",
+            "choice_4yR03G3hN": "Il delegato e il delegante"
+        },
+        "de": {
+            "header": "Who is responsible in the event of an error during a delegated task?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Delegation implies dual responsibility for both the delegating manager and the delegatee.",
+            "tips": "If you want to hire an assistant, ask yourself the following questions: Do you want to share your authority? Can you imagine someone other than yourself giving instructions to your employees? How much autonomy should he/she have in relation to you?",
+            "clue": "No scapegoats.",
+            "template": "{{sel93545}}",
+            "choice_Nyl2R3G3n4": "The delegatee",
+            "choice_4JZnAnG33V": "The delegating manager",
+            "choice_4yR03G3hN": "The delegatee and the delegating manager",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_4kn02f224": " "
+        },
+        "ko": {
+            "header": "위임 된 작업 중 오류가 발생한 경우 누가 책임 져야합니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "위임은 위임 관리자와 위임자 모두에 대한 이중 책임을 의미합니다.",
+            "tips": "조수를 고용하고 싶다면 다음 질문을 스스로에게하십시오 : 당신의 권위를 공유하고 싶습니까? 직원들에게 지침을주는 것 외의 다른 사람을 상상할 수 있습니까? 당신과 관련하여 얼마나 자치권을 가져야합니까?",
+            "clue": "희생양이 없다.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel93545}}",
+            "label_4kn02f224": " ",
+            "choice_Nyl2R3G3n4": "위임자",
+            "choice_4JZnAnG33V": "위임 관리자",
+            "choice_4yR03G3hN": "위임자와 위임 관리자"
+        },
+        "ru": {
+            "header": "Кто несет ответственность в случае ошибки во время делегированной задачи?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Делегирование подразумевает двойную ответственность как для менеджера делегирования, так и для делегата.",
+            "tips": "Если вы хотите нанять помощника, задайте себе следующие вопросы: вы хотите поделиться своими полномочиями? Можете ли вы представить, что кто-то, кроме вас, инструктирует ваших сотрудников? Сколько автономии он должен иметь по отношению к вам?",
+            "clue": "Никаких козлов отпущения.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel93545}}",
+            "label_4kn02f224": " ",
+            "choice_Nyl2R3G3n4": "Делегат",
+            "choice_4JZnAnG33V": "Делегационный менеджер",
+            "choice_4yR03G3hN": "Делегат и делегат-менеджер"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quem é responsável em caso de erro durante uma tarefa delegada?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "A delegação implica dupla responsabilidade tanto para o gerente delegante como para o delegado.",
+            "tips": "Se você quiser contratar um assistente, faça as seguintes perguntas: Você quer compartilhar sua autoridade? Você consegue imaginar alguém além de si mesmo dando instruções aos seus funcionários? Quanta autonomia ele deve ter em relação a você?",
+            "clue": "Nenhum bode expiatório",
+            "template": "{{sel93545}}",
+            "choice_Nyl2R3G3n4": "O delegado",
+            "choice_4JZnAnG33V": "O gerente delegante",
+            "choice_4yR03G3hN": "O delegado e o gerente delegante"
+        },
+        "zh": {
+            "header": "在委派任务期间发生错误时谁负责？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "代表团对委托经理和被委托人都负有双重责任。",
+            "tips": "如果您想聘请助理，请问自己以下问题：您想分享您的权限吗？你能想象除了你自己以外的其他人给你的员工指示吗？他/她与你有多少自主权？",
+            "clue": "没有替罪羊。",
+            "template": "{{Sel93545}}",
+            "choice_Nyl2R3G3n4": "代理人",
+            "choice_4JZnAnG33V": "委派经理",
+            "choice_4yR03G3hN": "代表和委派经理"
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T16:50:52.095Z",
+            "updatedAt": "2018-08-10T08:52:12.086Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4JqnJjKnE",
+        "universalRef": "sli_4JqnJjKnE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_4JqnJjKnE.choice_VyFC1jFhE.id",
+                        "label": "choice_VyFC1jFhE",
+                        "value": "choice_VyFC1jFhE"
+                    },
+                    {
+                        "id": "sli_4JqnJjKnE.choice_V1cAJoYnN.id",
+                        "label": "choice_V1cAJoYnN",
+                        "value": "choice_V1cAJoYnN"
+                    },
+                    {
+                        "id": "sli_4JqnJjKnE.choice_NyiAJoF34.id",
+                        "label": "choice_NyiAJoF34",
+                        "value": "choice_NyiAJoF34"
+                    },
+                    {
+                        "id": "sli_4JqnJjKnE.choice_4JhCkoF24.id",
+                        "label": "choice_4JhCkoF24",
+                        "value": "choice_4JhCkoF24"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyFC1jFhE",
+                        "choice_NyiAJoF34",
+                        "choice_V1cAJoYnN",
+                        "choice_4JhCkoF24"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the four steps for effective management?",
+            "explanation": "Put the following answers in order.",
+            "klf": "Effective management is divided into four steps: planning the actions to be taken, implementing them, monitoring the results and responding to any differences between the result and the desired goal.",
+            "tips": "In order to properly plan the actions to be taken, you need to outline the resources needed in terms of equipment, budget, supplies, and human resources, both internal and external to the team.",
+            "clue": "From plan to action!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyFC1jFhE": "Planning the actions to be taken",
+            "choice_V1cAJoYnN": "Monitoring",
+            "choice_NyiAJoF34": "Implementing",
+            "choice_4JhCkoF24": "Responding"
+        },
+        "fr": {
+            "header": "Quelles sont les quatre étapes pour une gestion efficace?",
+            "explanation": "Organisez les réponses suivantes dans l'ordre.",
+            "klf": "Une gestion efficace est divisée en quatre étapes: planification des actions à entreprendre, mise en œuvre, suivi des résultats et différences éventuelles entre la réponse et les objectifs attendus.",
+            "tips": "Afin de planifier correctement les actions à entreprendre, vous devez définir les ressources nécessaires pour l’équipement, le budget, les fournitures et les ressources humaines au sein et en dehors de l’équipe.",
+            "clue": "De la planification à l'action!",
+            "choice_VyFC1jFhE": "Planifier l'action à entreprendre",
+            "choice_V1cAJoYnN": "Surveillance",
+            "choice_NyiAJoF34": "Mise en œuvre",
+            "choice_4JhCkoF24": "Répondre",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuáles son los cuatro pasos para una gestión efectiva?",
+            "explanation": "Pon las siguientes respuestas en orden.",
+            "klf": "La gestión eficaz se divide en cuatro pasos: planificar las acciones que se realizarán, implementarlas, controlar los resultados y responder a las diferencias entre el resultado y el objetivo deseado.",
+            "tips": "Para planear adecuadamente las acciones a tomar, necesita delinear los recursos necesarios en términos de equipamiento, presupuesto, suministros y recursos humanos, tanto internos como externos al equipo.",
+            "clue": "¡Del plan a la acción!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyFC1jFhE": "Planificando las acciones a tomar",
+            "choice_V1cAJoYnN": "Supervisión",
+            "choice_NyiAJoF34": "Implementar",
+            "choice_4JhCkoF24": "Respondiendo"
+        },
+        "it": {
+            "header": "Quali sono i quattro passaggi per una gestione efficace?",
+            "explanation": "Metti le seguenti risposte in ordine.",
+            "klf": "La gestione efficace è suddivisa in quattro fasi: pianificazione delle azioni da intraprendere, implementazione, monitoraggio dei risultati e risposta a eventuali differenze tra il risultato e lobiettivo desiderato.",
+            "tips": "Per pianificare correttamente le azioni da intraprendere, è necessario delineare le risorse necessarie in termini di attrezzature, budget, forniture e risorse umane, sia interne che esterne al team.",
+            "clue": "Dal piano allazione!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyFC1jFhE": "Pianificazione delle azioni da intraprendere",
+            "choice_V1cAJoYnN": "Monitoraggio",
+            "choice_NyiAJoF34": "Implementazione",
+            "choice_4JhCkoF24": "rispondendo"
+        },
+        "de": {
+            "header": "What are the four steps for effective management?",
+            "explanation": "Put the following answers in order.",
+            "klf": "Effective management is divided into four steps: planning the actions to be taken, implementing them, monitoring the results and responding to any differences between the result and the desired goal.",
+            "tips": "In order to properly plan the actions to be taken, you need to outline the resources needed in terms of equipment, budget, supplies, and human resources, both internal and external to the team.",
+            "clue": "From plan to action!",
+            "choice_VyFC1jFhE": "Planning the actions to be taken",
+            "choice_V1cAJoYnN": "Monitoring",
+            "choice_NyiAJoF34": "Implementing",
+            "choice_4JhCkoF24": "Responding",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "효과적인 관리를위한 네 단계는 무엇입니까?",
+            "explanation": "다음 답을 순서대로 기재하십시오.",
+            "klf": "효과적인 관리는 수행 할 작업 계획, 구현, 결과 모니터링 및 결과와 원하는 목표 간의 차이에 응답하는 네 단계로 나뉩니다.",
+            "tips": "취해야 할 행동을 적절히 계획하려면 팀의 내외부에있는 장비, 예산, 소모품 및 인적 자원 측면에서 필요한 자원을 설명해야합니다.",
+            "clue": "계획에서 행동으로!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyFC1jFhE": "수행 할 작업 계획 수립",
+            "choice_V1cAJoYnN": "모니터링",
+            "choice_NyiAJoF34": "구현 중",
+            "choice_4JhCkoF24": "응답"
+        },
+        "ru": {
+            "header": "Каковы четыре этапа эффективного управления?",
+            "explanation": "Поставьте следующие ответы в порядке.",
+            "klf": "Эффективное управление разделено на четыре этапа: планирование действий, которые необходимо предпринять, их реализация, мониторинг результатов и реагирование на любые различия между результатом и желаемой целью.",
+            "tips": "Чтобы правильно спланировать действия, которые необходимо предпринять, вам необходимо указать ресурсы, необходимые с точки зрения оборудования, бюджета, материалов и человеческих ресурсов, как внутренних, так и внешних по отношению к команде.",
+            "clue": "От плана к действию!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyFC1jFhE": "Планирование действий, которые необходимо предпринять",
+            "choice_V1cAJoYnN": "мониторинг",
+            "choice_NyiAJoF34": "Внедрение",
+            "choice_4JhCkoF24": "Реагирование"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quais são os quatro passos para um gerenciamento eficaz?",
+            "explanation": "Coloque as seguintes respostas em ordem.",
+            "klf": "O gerenciamento eficaz é dividido em quatro etapas: planejar as ações a serem tomadas, implementá-las, monitorar os resultados e responder a quaisquer diferenças entre o resultado e o objetivo desejado.",
+            "tips": "Para planejar adequadamente as ações a serem tomadas, você precisa delinear os recursos necessários em termos de equipamento, orçamento, suprimentos e recursos humanos, internos e externos à equipe.",
+            "clue": "Do plano à ação!",
+            "choice_VyFC1jFhE": "Planejando as ações a serem tomadas",
+            "choice_V1cAJoYnN": "Monitoramento",
+            "choice_NyiAJoF34": "Implementando",
+            "choice_4JhCkoF24": "Respondendo"
+        },
+        "zh": {
+            "header": "有效管理的四个步骤是什么？",
+            "explanation": "按顺序排列以下答案。",
+            "klf": "有效的管理分为四个步骤：规划要采取的行动，实施，监测结果和应对结果与预期目标之间的任何差异。",
+            "tips": "为了正确规划要采取的行动，您需要概述团队内部和外部的设备，预算，供应和人力资源所需的资源。",
+            "clue": "从计划到行动！",
+            "choice_VyFC1jFhE": "规划要采取的行动",
+            "choice_V1cAJoYnN": "监控",
+            "choice_NyiAJoF34": "实施",
+            "choice_4JhCkoF24": "响应"
+        }
+    }
+}

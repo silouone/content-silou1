@@ -1,0 +1,207 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T14:47:39.459Z",
+            "updatedAt": "2018-07-26T15:03:09.508Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_41G3kG4a4",
+        "universalRef": "sli_41G3kG4a4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel45825",
+                        "label": "label_NyrCJMVTE",
+                        "items": [
+                            {
+                                "text": "choice_VkeHR1M4pN",
+                                "value": "choice_VkeHR1M4pN"
+                            },
+                            {
+                                "text": "choice_Ek~SAkz4TV",
+                                "value": "choice_Ek~SAkz4TV"
+                            },
+                            {
+                                "text": "choice_V1pR1M4aV",
+                                "value": "choice_V1pR1M4aV"
+                            },
+                            {
+                                "text": "choice_EyHUhPH6E",
+                                "value": "choice_EyHUhPH6E"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel45825",
+                        "answers": [
+                            "choice_V1pR1M4aV"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who should define the team’s objectives?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Working with the team members in setting indicators enables the manager to ensure that they are more involved in the management of the project.",
+            "tips": "Be creative. For example, you can set operational objectives while also setting objectives for innovation.",
+            "clue": "Not alone.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel45825}}",
+            "label_NyrCJMVTE": "",
+            "choice_VkeHR1M4pN": "The manager",
+            "choice_Ek~SAkz4TV": "The team",
+            "choice_V1pR1M4aV": "The manager and the team",
+            "choice_EyHUhPH6E": "Management"
+        },
+        "fr": {
+            "header": "Qui devrait définir les objectifs de l'équipe?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En définissant des métriques avec les membres de l’équipe, les responsables peuvent s’impliquer davantage dans la gestion de projet.",
+            "tips": "Soyez créatif. Par exemple, vous pouvez définir un objectif opérationnel tout en fixant un objectif d'innovation.",
+            "clue": "Pas une personne.",
+            "template": "{{Sel45825}}",
+            "choice_VkeHR1M4pN": "Gestionnaire",
+            "choice_Ek~SAkz4TV": "Équipe",
+            "choice_V1pR1M4aV": "Manager et équipe",
+            "choice_EyHUhPH6E": "La gestion",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_NyrCJMVTE": ""
+        },
+        "es": {
+            "header": "¿Quién debería definir los objetivos del equipo?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "Trabajar con los miembros del equipo en el establecimiento de indicadores permite al gerente asegurarse de que estén más involucrados en la gestión del proyecto.",
+            "tips": "Ser creativo. Por ejemplo, puede establecer objetivos operativos al tiempo que establece objetivos para la innovación.",
+            "clue": "No solo.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel45825}}",
+            "label_NyrCJMVTE": " ",
+            "choice_VkeHR1M4pN": "El gerente",
+            "choice_Ek~SAkz4TV": "El equipo",
+            "choice_V1pR1M4aV": "El gerente y el equipo",
+            "choice_EyHUhPH6E": "administración"
+        },
+        "it": {
+            "header": "Chi dovrebbe definire gli obiettivi della squadra?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "Lavorare con i membri del team nella definizione degli indicatori consente al manager di assicurarsi che siano più coinvolti nella gestione del progetto.",
+            "tips": "Essere creativo. Ad esempio, è possibile definire obiettivi operativi e definire obiettivi per linnovazione.",
+            "clue": "Non da solo.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel45825}}",
+            "label_NyrCJMVTE": " ",
+            "choice_VkeHR1M4pN": "Il responsabile",
+            "choice_Ek~SAkz4TV": "Il gruppo",
+            "choice_V1pR1M4aV": "Il manager e il team",
+            "choice_EyHUhPH6E": "Gestione"
+        },
+        "de": {
+            "header": "Who should define the team’s objectives?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Working with the team members in setting indicators enables the manager to ensure that they are more involved in the management of the project.",
+            "tips": "Be creative. For example, you can set operational objectives while also setting objectives for innovation.",
+            "clue": "Not alone.",
+            "template": "{{sel45825}}",
+            "choice_VkeHR1M4pN": "The manager",
+            "choice_Ek~SAkz4TV": "The team",
+            "choice_V1pR1M4aV": "The manager and the team",
+            "choice_EyHUhPH6E": "Management",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_NyrCJMVTE": " "
+        },
+        "ko": {
+            "header": "팀의 목표를 누가 정의해야합니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "관리자는 팀원과 협력하여 프로젝트 관리에보다 적극적으로 참여할 수 있습니다.",
+            "tips": "창조적으로 행동하십시오. 예를 들어 운영 목표를 설정하고 혁신 목표를 설정할 수도 있습니다.",
+            "clue": "혼자가 아니야.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel45825}}",
+            "label_NyrCJMVTE": " ",
+            "choice_VkeHR1M4pN": "매니저",
+            "choice_Ek~SAkz4TV": "팀",
+            "choice_V1pR1M4aV": "매니저와 팀",
+            "choice_EyHUhPH6E": "조치"
+        },
+        "ru": {
+            "header": "Кто должен определять цели команды?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Работа с членами команды при настройке показателей позволяет менеджеру обеспечить, чтобы они более активно участвовали в управлении проектом.",
+            "tips": "Будь креативным. Например, вы можете установить оперативные цели, одновременно устанавливая цели для инноваций.",
+            "clue": "Не один.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel45825}}",
+            "label_NyrCJMVTE": " ",
+            "choice_VkeHR1M4pN": "Менеджер",
+            "choice_Ek~SAkz4TV": "Команда",
+            "choice_V1pR1M4aV": "Менеджер и команда",
+            "choice_EyHUhPH6E": "управление"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quem deve definir os objetivos da equipe?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "Trabalhar com os membros da equipe na definição de indicadores permite ao gerente garantir que eles estejam mais envolvidos no gerenciamento do projeto.",
+            "tips": "Seja criativo. Por exemplo, você pode definir objetivos operacionais ao mesmo tempo em que estabelece objetivos para a inovação.",
+            "clue": "Não sozinho.",
+            "template": "{{sel45825}}",
+            "choice_VkeHR1M4pN": "O gerente",
+            "choice_Ek~SAkz4TV": "O time",
+            "choice_V1pR1M4aV": "O gerente e a equipe",
+            "choice_EyHUhPH6E": "Gestão"
+        },
+        "zh": {
+            "header": "谁应该定义团队的目标？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "通过与团队成员一起设置指标，经理可以确保他们更多地参与项目的管理。",
+            "tips": "要有创意。例如，您可以设置运营目标，同时设定创新目标。",
+            "clue": "不是一个人。",
+            "template": "{{Sel45825}}",
+            "choice_VkeHR1M4pN": "管理者",
+            "choice_Ek~SAkz4TV": "团队",
+            "choice_V1pR1M4aV": "经理和团队",
+            "choice_EyHUhPH6E": "管理"
+        }
+    }
+}

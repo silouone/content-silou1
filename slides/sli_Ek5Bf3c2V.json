@@ -1,0 +1,186 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T12:20:28.056Z",
+            "updatedAt": "2018-04-26T12:24:06.257Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "ClaireAUBE",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_Ek5Bf3c2V",
+        "universalRef": "sli_Ek5Bf3c2V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek5Bf3c2V.choice_EJ-Pz2924.id",
+                        "label": "choice_EJ-Pz2924",
+                        "value": "choice_EJ-Pz2924"
+                    },
+                    {
+                        "id": "sli_Ek5Bf3c2V.choice_N1KwGhqn4.id",
+                        "label": "choice_N1KwGhqn4",
+                        "value": "choice_N1KwGhqn4"
+                    },
+                    {
+                        "id": "sli_Ek5Bf3c2V.choice_EkjDf29nE.id",
+                        "label": "choice_EkjDf29nE",
+                        "value": "choice_EkjDf29nE"
+                    },
+                    {
+                        "id": "sli_Ek5Bf3c2V.choice_4ynvf2qh4.id",
+                        "label": "choice_4ynvf2qh4",
+                        "value": "choice_4ynvf2qh4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1KwGhqn4",
+                        "choice_EkjDf29nE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Quelles questions devez-vous vous poser pour préparer une réunion dexpression ?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Pour préparer la réunion dexpression, demandez-vous comment vous aller exposer la situation et formuler vos questions afin de recueillir le plus davis pertinents possible.",
+            "tips": "d",
+            "clue": "Présentation puis questions.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ-Pz2924": "Quel style de langage faut-il privilégier ?",
+            "choice_N1KwGhqn4": "Comment dois-je exposer la situation ?",
+            "choice_EkjDf29nE": "Comment puis-je formuler mes questions pour recueillir le plus davis pertinent possible ?",
+            "choice_4ynvf2qh4": "Comment puis-je influencer ce qui va être dit ?"
+        },
+        "fr": {
+            "header": "Vous devez vous demander quelles questions vous devez préparer pour exprimer la réunion?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Afin de préparer la présentation de la réunion, comment puis-je divulguer la situation et développer un problème afin de collecter autant de retours que possible.",
+            "tips": "ré",
+            "clue": "Présentez ensuite le problème.",
+            "choice_EJ-Pz2924": "Quel genre de langue devrait être favorisée?",
+            "choice_N1KwGhqn4": "Comment puis-je décrire cette situation?",
+            "choice_EkjDf29nE": "Comment développer ma question pour recueillir le plus de commentaires pertinents possible?",
+            "choice_4ynvf2qh4": "Comment puis-je influencer ce que je vais dire?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "Quelles pregunta devez-vous vous poser pour préparer une réunion dexpression?",
+            "explanation": "Seleccione la (s) respuesta (s) correcta (s).",
+            "klf": "Pour préparer la réunion dexpression, demandez-vous comment vous aller exposer la situation et formuler vos questions afin de recueillir le plus davis pertinents possible.",
+            "tips": "re",
+            "clue": "Présentation puis preguntas.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ-Pz2924": "Quel style de langage faut-il privilégier?",
+            "choice_N1KwGhqn4": "Comenta dois-je exposer la situation?",
+            "choice_EkjDf29nE": "Comenta puis-je formuler mes preguntas pour recueillir le plus davis pertinente posible?",
+            "choice_4ynvf2qh4": "Comenta puis-je influencer ce qui va être dit?"
+        },
+        "it": {
+            "header": "Quelles domande devez-vous vous poser pour préparer une réunion dexpression?",
+            "explanation": "Seleziona la risposta corretta (s).",
+            "klf": "Pour préparer la réunion despressione, demandez-vous comment vous aller exposer la situation et formuler vos domande afin de recueillir le plus davis pertinents possible.",
+            "tips": "d",
+            "clue": "Présentation puis questions.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ-Pz2924": "Quel style de langage faut-il privilégier?",
+            "choice_N1KwGhqn4": "Commento dois-je exposer la situation?",
+            "choice_EkjDf29nE": "Commento puis-je formuler mes questions pour recueillir le plus davis pertinent possible?",
+            "choice_4ynvf2qh4": "Commento puis-je influencer ce qui va être dit?"
+        },
+        "de": {
+            "header": "Quelles questions devez-vous vous poser pour préparer une réunion dexpression ?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Pour préparer la réunion dexpression, demandez-vous comment vous aller exposer la situation et formuler vos questions afin de recueillir le plus davis pertinents possible.",
+            "tips": "d",
+            "clue": "Présentation puis questions.",
+            "choice_EJ-Pz2924": "Quel style de langage faut-il privilégier ?",
+            "choice_N1KwGhqn4": "Comment dois-je exposer la situation ?",
+            "choice_EkjDf29nE": "Comment puis-je formuler mes questions pour recueillir le plus davis pertinent possible ?",
+            "choice_4ynvf2qh4": "Comment puis-je influencer ce qui va être dit ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "Quelles의 질문은 드레 발데르를 표현하는 데 도움이됩니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "프리 페어 라 레알 식을 발표하고, 요구 사항에 부합하는 질문을 던지기 위해 필요한 질문을 던지십시오.",
+            "tips": "디",
+            "clue": "Présentation puis 질문.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ-Pz2924": "켈 스타일 드 langage faut-il privilégier?",
+            "choice_N1KwGhqn4": "상황에 대한 노출 자에게 코멘트 하시겠습니까?",
+            "choice_EkjDf29nE": "질문에 대한 질문에 적절한 답을 적어주십시오.",
+            "choice_4ynvf2qh4": "푸에요이 인플 멘서에 대한 의견을 보내주십시오."
+        },
+        "ru": {
+            "header": "Quelles вопросы devez-vous vous reer pour préparer une réunion dexpression?",
+            "explanation": "Выберите правильный ответ (ы).",
+            "klf": "Выразите предварительную формулировку, просьба высказать свое мнение по поводу ситуации и формулировки вопросов, связанных с возможными последствиями.",
+            "tips": "d",
+            "clue": "Презентация вызывает вопросы.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ-Pz2924": "Калейдовое оформление faut-il privilégier?",
+            "choice_N1KwGhqn4": "Комментарий dois-je exposer la situation?",
+            "choice_EkjDf29nE": "Комментарий puis-je formuler mes question pour recueillir le plus davis возможно?",
+            "choice_4ynvf2qh4": "Комментарий puis-je influencer ce qui va être dit?"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Que perguntas você precisa se perguntar para preparar uma Reunião de Expressão?",
+            "explanation": "Selecione a (s) resposta (s) correta (s).",
+            "klf": "Para se preparar para a Reunião de Expressão, pergunte a si mesmo como você irá expor a situação e formular suas perguntas, a fim de reunir o máximo de feedback relevante possível.",
+            "tips": "d",
+            "clue": "Apresentação então perguntas.",
+            "choice_EJ-Pz2924": "Qual estilo de linguagem deve ser favorecido?",
+            "choice_N1KwGhqn4": "Como devo descrever a situação?",
+            "choice_EkjDf29nE": "Como posso formular minhas perguntas para reunir o máximo de feedback relevante possível?",
+            "choice_4ynvf2qh4": "Como posso influenciar o que será dito?"
+        },
+        "zh": {
+            "header": "您需要问自己准备表达会议有哪些问题？",
+            "explanation": "选择正确的答案。",
+            "klf": "为了准备表达会议，请问自己如何揭露情况并制定问题，以便尽可能多地收集相关反馈。",
+            "tips": "d",
+            "clue": "然后介绍问题。",
+            "choice_EJ-Pz2924": "什么样的语言应该受到青睐？",
+            "choice_N1KwGhqn4": "我该如何描述这种情况？",
+            "choice_EkjDf29nE": "如何制定我的问题以收集尽可能多的相关反馈？",
+            "choice_4ynvf2qh4": "我怎么能影响会说些什么呢？"
+        }
+    }
+}

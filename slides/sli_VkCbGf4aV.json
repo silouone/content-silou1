@@ -1,0 +1,184 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T14:58:02.673Z",
+            "updatedAt": "2018-07-26T15:04:42.114Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_VkCbGf4aV",
+        "universalRef": "sli_VkCbGf4aV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkCbGf4aV.choice_V1X7zfVTE.id",
+                        "label": "choice_V1X7zfVTE",
+                        "value": "choice_V1X7zfVTE"
+                    },
+                    {
+                        "id": "sli_VkCbGf4aV.choice_NJNQMMEpE.id",
+                        "label": "choice_NJNQMMEpE",
+                        "value": "choice_NJNQMMEpE"
+                    },
+                    {
+                        "id": "sli_VkCbGf4aV.choice_EJSXfGV6N.id",
+                        "label": "choice_EJSXfGV6N",
+                        "value": "choice_EJSXfGV6N"
+                    },
+                    {
+                        "id": "sli_VkCbGf4aV.choice_4kImMGE6N.id",
+                        "label": "choice_4kImMGE6N",
+                        "value": "choice_4kImMGE6N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJSXfGV6N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the purpose of the SMART method?",
+            "explanation": "Select the correct answer.",
+            "klf": "The SMART method is used to help managers set clear and effective objectives.",
+            "tips": "Today, the SMART method is used in different sectors: marketing, human resources, management, project management, etc.",
+            "clue": "Goals!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1X7zfVTE": "Develop the manager’s cognitive abilities",
+            "choice_NJNQMMEpE": "Help the manager quickly resolve complex problems",
+            "choice_EJSXfGV6N": "Help the manager set clear and effective objectives",
+            "choice_4kImMGE6N": "Help the manager set a reasonable budget"
+        },
+        "fr": {
+            "header": "Quel est le but de la méthode SMART?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "L’approche SMART est utilisée pour aider les gestionnaires à définir des objectifs clairs et efficaces.",
+            "tips": "Aujourd'hui, l'approche SMART est utilisée dans différents domaines: marketing, ressources humaines, gestion, gestion de projet, etc.",
+            "clue": "Objectif!",
+            "choice_V1X7zfVTE": "Cultiver la capacité cognitive de gestion",
+            "choice_NJNQMMEpE": "Aide les gestionnaires à résoudre rapidement des problèmes complexes",
+            "choice_EJSXfGV6N": "Aidez les gestionnaires à fixer des objectifs clairs et efficaces",
+            "choice_4kImMGE6N": "Aidez les gestionnaires à établir un budget raisonnable",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuál es el propósito del método SMART?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "El método SMART se usa para ayudar a los gerentes a establecer objetivos claros y efectivos.",
+            "tips": "Hoy, el método SMART se utiliza en diferentes sectores: marketing, recursos humanos, gestión, gestión de proyectos, etc.",
+            "clue": "¡Metas!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1X7zfVTE": "Desarrollar las habilidades cognitivas del gerente",
+            "choice_NJNQMMEpE": "Ayude al administrador a resolver rápidamente problemas complejos",
+            "choice_EJSXfGV6N": "Ayude al gerente a establecer objetivos claros y efectivos",
+            "choice_4kImMGE6N": "Ayude al gerente a establecer un presupuesto razonable"
+        },
+        "it": {
+            "header": "Qual è lo scopo del metodo SMART?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Il metodo SMART viene utilizzato per aiutare i manager a definire obiettivi chiari ed efficaci.",
+            "tips": "Oggi il metodo SMART viene utilizzato in diversi settori: marketing, risorse umane, gestione, gestione dei progetti, ecc.",
+            "clue": "Goals!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1X7zfVTE": "Sviluppa le capacità cognitive del manager",
+            "choice_NJNQMMEpE": "Aiuta il gestore a risolvere rapidamente problemi complessi",
+            "choice_EJSXfGV6N": "Aiuta il gestore a stabilire obiettivi chiari ed efficaci",
+            "choice_4kImMGE6N": "Aiuta il gestore a stabilire un budget ragionevole"
+        },
+        "de": {
+            "header": "What is the purpose of the SMART method?",
+            "explanation": "Select the correct answer.",
+            "klf": "The SMART method is used to help managers set clear and effective objectives.",
+            "tips": "Today, the SMART method is used in different sectors: marketing, human resources, management, project management, etc.",
+            "clue": "Goals!",
+            "choice_V1X7zfVTE": "Develop the manager’s cognitive abilities",
+            "choice_NJNQMMEpE": "Help the manager quickly resolve complex problems",
+            "choice_EJSXfGV6N": "Help the manager set clear and effective objectives",
+            "choice_4kImMGE6N": "Help the manager set a reasonable budget",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "SMART 방법의 목적은 무엇입니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "SMART 방법은 관리자가 명확하고 효과적인 목표를 설정하는 데 도움이됩니다.",
+            "tips": "오늘날 SMART 방식은 마케팅, 인사, 경영, 프로젝트 관리 등 다양한 분야에서 사용되고 있습니다.",
+            "clue": "목표!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1X7zfVTE": "관리자의인지 능력 개발",
+            "choice_NJNQMMEpE": "관리자가 복잡한 문제를 신속하게 해결할 수 있도록 지원",
+            "choice_EJSXfGV6N": "관리자가 명확하고 효과적인 목표를 세우도록 돕습니다.",
+            "choice_4kImMGE6N": "관리자가 합리적인 예산을 책정하도록 돕습니다."
+        },
+        "ru": {
+            "header": "Какова цель метода SMART?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Метод SMART используется для того, чтобы помочь менеджерам устанавливать четкие и эффективные цели.",
+            "tips": "Сегодня метод SMART используется в разных секторах: маркетинг, человеческие ресурсы, управление, управление проектами и т. Д.",
+            "clue": "Цель!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1X7zfVTE": "Развивать когнитивные способности менеджера",
+            "choice_NJNQMMEpE": "Помогите менеджеру быстро решить сложные проблемы",
+            "choice_EJSXfGV6N": "Помогите менеджеру установить четкие и эффективные цели",
+            "choice_4kImMGE6N": "Помогите менеджеру установить разумный бюджет"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Qual é o objetivo do método SMART?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "O método SMART é usado para ajudar os gerentes a definir objetivos claros e eficazes.",
+            "tips": "Hoje, o método SMART é usado em diferentes setores: marketing, recursos humanos, gerenciamento, gerenciamento de projetos, etc.",
+            "clue": "Objetivos!",
+            "choice_V1X7zfVTE": "Desenvolver as habilidades cognitivas do gerente",
+            "choice_NJNQMMEpE": "Ajude o gerente a resolver rapidamente problemas complexos",
+            "choice_EJSXfGV6N": "Ajude o gerente a definir objetivos claros e eficazes",
+            "choice_4kImMGE6N": "Ajude o gerente a definir um orçamento razoável"
+        },
+        "zh": {
+            "header": "SMART方法的目的是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "SMART方法用于帮助管理者设定明确有效的目标。",
+            "tips": "如今，SMART方法被用于不同的领域：营销，人力资源，管理，项目管理等。",
+            "clue": "进球！",
+            "choice_V1X7zfVTE": "培养经理的认知能力",
+            "choice_NJNQMMEpE": "帮助经理快速解决复杂问题",
+            "choice_EJSXfGV6N": "帮助经理设定明确有效的目标",
+            "choice_4kImMGE6N": "帮助经理设定合理的预算"
+        }
+    }
+}

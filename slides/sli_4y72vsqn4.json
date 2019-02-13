@@ -1,0 +1,158 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T12:13:25.247Z",
+            "updatedAt": "2018-08-10T09:10:31.364Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4y72vsqn4",
+        "universalRef": "sli_4y72vsqn4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4y72vsqn4.choice_4JeU1Ooc2N.id",
+                        "label": "choice_4JeU1Ooc2N",
+                        "value": "choice_4JeU1Ooc2N",
+                        "media": "med_E18Jdo5nE"
+                    },
+                    {
+                        "id": "sli_4y72vsqn4.choice_41eDkuichE.id",
+                        "label": "choice_41eDkuichE",
+                        "value": "choice_41eDkuichE",
+                        "media": "med_NJv1-jc2E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JeU1Ooc2N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In the same meeting, there can be separate blocks. For example, there can be a block of time for presenting and a block of time for the participants to express themselves. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The same meeting can involve separate blocks. Therefore, you should clarify with the participants what is expected of them in each of these blocks and clearly indicate the beginning and end of each dedicated time period.",
+            "tips": "Over the last fifty years, the length and frequency of meetings have increased. It has reached the point where managers spend on average 23 hours per week in meetings.",
+            "clue": "Hurray for variety!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JeU1Ooc2N": "TRUE",
+            "choice_41eDkuichE": "FALSE"
+        },
+        "fr": {
+            "header": "Dans la même réunion, il peut y avoir des blocs séparés. Par exemple, il peut exister un bloc de temps pour la présentation et un bloc de temps pour s'exprimer. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "La même réunion peut impliquer des blocs séparés. Par conséquent, vous devez expliquer aux participants ce qu’ils attendent de chaque bloc et indiquer clairement le début et la fin de chaque période dédiée.",
+            "tips": "Au cours des 50 dernières années, la fréquence et la fréquence des réunions ont augmenté. Les gestionnaires consacrent en moyenne 23 heures par semaine à la réunion.",
+            "clue": "Diversité magnifique!",
+            "choice_4JeU1Ooc2N": "Vraiment",
+            "choice_41eDkuichE": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "En la misma reunión, puede haber bloques separados. Por ejemplo, puede haber un bloque de tiempo para presentar y un bloque de tiempo para que los participantes se expresen. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "La misma reunión puede involucrar bloques separados. Por lo tanto, debe aclarar con los participantes qué se espera de ellos en cada uno de estos bloques e indicar claramente el comienzo y el final de cada período de tiempo dedicado.",
+            "tips": "En los últimos cincuenta años, la duración y la frecuencia de las reuniones han aumentado. Ha llegado al punto en que los gerentes gastan un promedio de 23 horas por semana en reuniones.",
+            "clue": "¡Hurra por la variedad!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JeU1Ooc2N": "Cierto",
+            "choice_41eDkuichE": "Falso"
+        },
+        "it": {
+            "header": "Nello stesso incontro, ci possono essere blocchi separati. Ad esempio, ci può essere un blocco di tempo per la presentazione e un blocco di tempo affinché i partecipanti possano esprimersi. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Lo stesso incontro può comportare blocchi separati. Pertanto, dovresti chiarire con i partecipanti cosa ci si aspetta da loro in ciascuno di questi blocchi e indicare chiaramente linizio e la fine di ciascun periodo di tempo dedicato.",
+            "tips": "Negli ultimi cinquantanni, la durata e la frequenza degli incontri sono aumentate. Ha raggiunto il punto in cui i manager trascorrono in media 23 ore settimanali in riunioni.",
+            "clue": "Evviva la varietà!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JeU1Ooc2N": "Vero",
+            "choice_41eDkuichE": "falso"
+        },
+        "de": {
+            "header": "In the same meeting, there can be separate blocks. For example, there can be a block of time for presenting and a block of time for the participants to express themselves. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The same meeting can involve separate blocks. Therefore, you should clarify with the participants what is expected of them in each of these blocks and clearly indicate the beginning and end of each dedicated time period.",
+            "tips": "Over the last fifty years, the length and frequency of meetings have increased. It has reached the point where managers spend on average 23 hours per week in meetings.",
+            "clue": "Hurray for variety!",
+            "choice_4JeU1Ooc2N": "TRUE",
+            "choice_41eDkuichE": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "같은 모임에서 별도의 블록이있을 수 있습니다. 예를 들어, 프리젠 테이션을위한 시간과 참가자들이 스스로를 표현할 시간이있을 수 있습니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "동일한 회의는 별도의 블록을 포함 할 수 있습니다. 그러므로 각 블록에서 예상되는 것을 참가자들과 분명히하고 각 전용 시간의 시작과 끝을 명확하게 표시해야합니다.",
+            "tips": "지난 50 년 동안 회의의 길이와 빈도가 증가했습니다. 관리자가 회의 주당 평균 23 시간을 소비하는 지점에 도달했습니다.",
+            "clue": "다양성을위한 만세!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JeU1Ooc2N": "참된",
+            "choice_41eDkuichE": "그릇된"
+        },
+        "ru": {
+            "header": "На том же заседании могут быть отдельные блоки. Например, может быть блок времени для представления и блок времени для участников, чтобы выразить себя. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "На той же встрече могут быть задействованы отдельные блоки. Поэтому вы должны разъяснить участникам, что ожидается от них в каждом из этих блоков, и четко указать начало и конец каждого выделенного периода времени.",
+            "tips": "За последние пятьдесят лет продолжительность и частота встреч увеличились. Он достиг точки, где менеджеры проводят в среднем 23 часа в неделю на собраниях.",
+            "clue": "Ура для разнообразия!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JeU1Ooc2N": "Правда",
+            "choice_41eDkuichE": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Na mesma reunião, pode haver blocos separados. Por exemplo, pode haver um bloco de tempo para apresentar e um bloco de tempo para os participantes se expressarem. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "A mesma reunião pode envolver blocos separados. Portanto, você deve esclarecer com os participantes o que se espera deles em cada um desses blocos e indicar claramente o início e o fim de cada período de tempo dedicado.",
+            "tips": "Nos últimos cinquenta anos, a duração e a frequência das reuniões aumentaram. Chegou ao ponto em que os gerentes gastam, em média, 23 horas por semana em reuniões.",
+            "clue": "Viva a variedade!",
+            "choice_4JeU1Ooc2N": "VERDADE",
+            "choice_41eDkuichE": "FALSO"
+        },
+        "zh": {
+            "header": "在同一次会议中，可以有单独的块。例如，可以存在用于呈现的时间块和用于表达自己的时间块。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "同一会议可能涉及单独的块。因此，您应该向参与者说明每个块中对它们的期望，并清楚地指出每个专用时间段的开始和结束。",
+            "tips": "在过去五十年中，会议的时间和频率都有所增加。它已达到管理人员平均每周花在会议上23小时的程度。",
+            "clue": "华丽的多样性！",
+            "choice_4JeU1Ooc2N": "真正",
+            "choice_41eDkuichE": "假"
+        }
+    }
+}

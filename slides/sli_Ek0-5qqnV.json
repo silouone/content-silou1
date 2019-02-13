@@ -1,0 +1,186 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T11:19:06.152Z",
+            "updatedAt": "2018-08-10T09:08:41.738Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_Ek0-5qqnV",
+        "universalRef": "sli_Ek0-5qqnV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek0-5qqnV.choice_4kJh55924.id",
+                        "label": "choice_4kJh55924",
+                        "value": "choice_4kJh55924"
+                    },
+                    {
+                        "id": "sli_Ek0-5qqnV.choice_VJxh5993E.id",
+                        "label": "choice_VJxh5993E",
+                        "value": "choice_VJxh5993E"
+                    },
+                    {
+                        "id": "sli_Ek0-5qqnV.choice_VJM255c2E.id",
+                        "label": "choice_VJM255c2E",
+                        "value": "choice_VJM255c2E"
+                    },
+                    {
+                        "id": "sli_Ek0-5qqnV.choice_E17nc9qhE.id",
+                        "label": "choice_E17nc9qhE",
+                        "value": "choice_E17nc9qhE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kJh55924",
+                        "choice_VJxh5993E",
+                        "choice_E17nc9qhE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are good questions to ask yourself before organising a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Before organising a meeting, you need to consider whether it is relevant. To do so, ask yourself the following questions: What will its topic and objectives be? Who will the participants be, and what challenges do they face?",
+            "tips": "Once you have answered these questions, you can send information to the participants so that they can prepare and be efficient during the meeting.",
+            "clue": "Who? What? Why?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJh55924": "Who will the participants be?",
+            "choice_VJxh5993E": "What will its topic and objectives be?",
+            "choice_VJM255c2E": "To whom can I delegate the coordination of this meeting?",
+            "choice_E17nc9qhE": "What are the challenges that the different participants face?"
+        },
+        "fr": {
+            "header": "Demandez-vous quelles sont les bonnes questions avant d’organiser une réunion.",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Avant d'organiser une réunion, vous devez déterminer si elle est pertinente. Pour ce faire, posez-vous les questions suivantes: Quel est son thème et son objectif? Qui seront les participants et quels défis seront-ils confrontés?",
+            "tips": "Une fois que vous avez répondu à ces questions, vous pouvez envoyer des messages aux participants afin qu’ils puissent être préparés et productifs pendant la réunion.",
+            "clue": "Qui Quoi Pourquoi",
+            "choice_4kJh55924": "Qui est le participant?",
+            "choice_VJxh5993E": "Quel est son thème et son but?",
+            "choice_VJM255c2E": "À qui puis-je déléguer la coordination de cette réunion?",
+            "choice_E17nc9qhE": "Quels sont les défis rencontrés par les différents participants?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuáles son las preguntas que debe hacerse antes de organizar una reunión?",
+            "explanation": "Seleccione las respuestas correctas.",
+            "klf": "Antes de organizar una reunión, debe considerar si es relevante. Para hacerlo, hágase las siguientes preguntas: ¿Cuál será su tema y objetivos? ¿Quiénes serán los participantes y qué desafíos enfrentan?",
+            "tips": "Una vez que haya respondido a estas preguntas, puede enviar información a los participantes para que puedan prepararse y ser eficientes durante la reunión.",
+            "clue": "¿Quien? ¿Qué? ¿Por qué?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJh55924": "¿Quiénes serán los participantes?",
+            "choice_VJxh5993E": "¿Cuál será su tema y objetivos?",
+            "choice_VJM255c2E": "¿A quién puedo delegar la coordinación de esta reunión?",
+            "choice_E17nc9qhE": "¿Cuáles son los desafíos que enfrentan los diferentes participantes?"
+        },
+        "it": {
+            "header": "Quali sono le buone domande da porsi prima di organizzare un incontro?",
+            "explanation": "Seleziona le risposte corrette.",
+            "klf": "Prima di organizzare una riunione, è necessario valutare se è pertinente. Per fare ciò, poniti le seguenti domande: quale sarà il suo argomento e i suoi obiettivi? Chi saranno i partecipanti e quali sfide dovranno affrontare?",
+            "tips": "Dopo aver risposto a queste domande, è possibile inviare informazioni ai partecipanti in modo che possano prepararsi ed essere efficienti durante lincontro.",
+            "clue": "Chi? Che cosa? Perché?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJh55924": "Chi saranno i partecipanti?",
+            "choice_VJxh5993E": "Quale sarà il suo argomento e i suoi obiettivi?",
+            "choice_VJM255c2E": "A chi posso delegare il coordinamento di questo incontro?",
+            "choice_E17nc9qhE": "Quali sono le sfide che devono affrontare i diversi partecipanti?"
+        },
+        "de": {
+            "header": "What are good questions to ask yourself before organising a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Before organising a meeting, you need to consider whether it is relevant. To do so, ask yourself the following questions: What will its topic and objectives be? Who will the participants be, and what challenges do they face?",
+            "tips": "Once you have answered these questions, you can send information to the participants so that they can prepare and be efficient during the meeting.",
+            "clue": "Who? What? Why?",
+            "choice_4kJh55924": "Who will the participants be?",
+            "choice_VJxh5993E": "What will its topic and objectives be?",
+            "choice_VJM255c2E": "To whom can I delegate the coordination of this meeting?",
+            "choice_E17nc9qhE": "What are the challenges that the different participants face?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "회의를 조직하기 전에 자신에게 물어 보는 좋은 질문은 무엇입니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "회의를 조직하기 전에 회의가 적절한 지 고려해야합니다. 그렇게하기 위해 다음 질문을 던지십시오. 주제와 목표는 무엇입니까? 참가자는 누구이며 어떤 도전을합니까?",
+            "tips": "이 질문에 대답하면 참가자들에게 정보를 보내 회의가 진행되는 동안 준비하고 효율적으로 진행할 수 있습니다.",
+            "clue": "누구? 뭐? 왜?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJh55924": "참가자는 누구입니까?",
+            "choice_VJxh5993E": "주제와 목적은 무엇입니까?",
+            "choice_VJM255c2E": "이 회의의 조정을 누구에게 위임 할 수 있습니까?",
+            "choice_E17nc9qhE": "서로 다른 참가자들이 직면 한 어려움은 무엇입니까?"
+        },
+        "ru": {
+            "header": "Какие хорошие вопросы задавать перед организацией собрания?",
+            "explanation": "Выберите правильные ответы.",
+            "klf": "Прежде чем организовывать встречу, вам необходимо рассмотреть вопрос о ее целесообразности. Для этого задайте себе следующие вопросы: Какова будет его тема и задачи? Кто будет участниками, и с какими проблемами они сталкиваются?",
+            "tips": "После того как вы ответили на эти вопросы, вы можете отправить информацию участникам, чтобы они могли подготовиться и быть эффективными во время собрания.",
+            "clue": "Кто? Какие? Зачем?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJh55924": "Кто будет участниками?",
+            "choice_VJxh5993E": "Какова будет его тема и задачи?",
+            "choice_VJM255c2E": "Кому я могу делегировать координацию этого совещания?",
+            "choice_E17nc9qhE": "Каковы проблемы, с которыми сталкиваются разные участники?"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quais são as boas perguntas a fazer a si mesmo antes de organizar uma reunião?",
+            "explanation": "Selecione as respostas corretas.",
+            "klf": "Antes de organizar uma reunião, você precisa considerar se ela é relevante. Para fazê-lo, faça as seguintes perguntas: Qual será o tema e os objetivos? Quem serão os participantes e que desafios enfrentam?",
+            "tips": "Depois de responder a essas perguntas, você poderá enviar informações aos participantes para que eles possam se preparar e ser eficientes durante a reunião.",
+            "clue": "Quem? O que? Por quê?",
+            "choice_4kJh55924": "Quem serão os participantes?",
+            "choice_VJxh5993E": "Qual será o seu tema e objetivos?",
+            "choice_VJM255c2E": "A quem posso delegar a coordenação desta reunião?",
+            "choice_E17nc9qhE": "Quais são os desafios que os diferentes participantes enfrentam?"
+        },
+        "zh": {
+            "header": "在组织会议之前要问自己有什么好问题？",
+            "explanation": "选择正确的答案。",
+            "klf": "在组织会议之前，您需要考虑它是否相关。为此，请问自己以下问题：它的主题和目标是什么？参与者将是谁，他们面临哪些挑战？",
+            "tips": "一旦您回答了这些问题，您就可以向参与者发送信息，以便他们在会议期间做好准备并提高效率。",
+            "clue": "谁？什么？为什么？",
+            "choice_4kJh55924": "参与者是谁？",
+            "choice_VJxh5993E": "它的主题和目标是什么？",
+            "choice_VJM255c2E": "我可以向谁委派本次会议的协调？",
+            "choice_E17nc9qhE": "不同参与者面临的挑战是什么？"
+        }
+    }
+}

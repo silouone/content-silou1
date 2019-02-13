@@ -1,0 +1,202 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-30T08:41:00.937Z",
+            "updatedAt": "2018-08-10T13:59:01.800Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9DcQ4sV"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_EkehEaJpE",
+        "universalRef": "sli_EkehEaJpE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkehEaJpE.choice_Nk71H6y6N.id",
+                        "label": "choice_Nk71H6y6N",
+                        "value": "choice_Nk71H6y6N"
+                    },
+                    {
+                        "id": "sli_EkehEaJpE.choice_EkVkSTypV.id",
+                        "label": "choice_EkVkSTypV",
+                        "value": "choice_EkVkSTypV"
+                    },
+                    {
+                        "id": "sli_EkehEaJpE.choice_NyS1BakpV.id",
+                        "label": "choice_NyS1BakpV",
+                        "value": "choice_NyS1BakpV"
+                    },
+                    {
+                        "id": "sli_EkehEaJpE.choice_VJIJSaJaN.id",
+                        "label": "choice_VJIJSaJaN",
+                        "value": "choice_VJIJSaJaN"
+                    },
+                    {
+                        "id": "sli_EkehEaJpE.choice_NJubHa1pN.id",
+                        "label": "choice_NJubHa1pN",
+                        "value": "choice_NJubHa1pN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nk71H6y6N",
+                        "choice_EkVkSTypV",
+                        "choice_NyS1BakpV",
+                        "choice_NJubHa1pN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What rules should be followed when establishing the work structure of an employee working remotely?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "If you are managing an employee remotely, be clear about the objectives and expected results. Explain the game plan and set milestones for approval.",
+            "tips": "It would even be helpful to “over-communicate” to overcome the obstacle created by distance and maintain a remote presence.",
+            "clue": "There is no room for doubt.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk71H6y6N": "Be clear about the objectives",
+            "choice_EkVkSTypV": "Be clear about the expected results",
+            "choice_NyS1BakpV": "Be clear about the game plan",
+            "choice_VJIJSaJaN": "Give them complete autonomy over the objectives",
+            "choice_NJubHa1pN": "Set milestones for approval"
+        },
+        "fr": {
+            "header": "Quelles règles faut-il suivre pour établir la structure de travail d'un télétravailleur?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "Si vous gérez des employés à distance, veuillez identifier les objectifs et les résultats attendus. Expliquez le plan de match et fixez les jalons pour approbation.",
+            "tips": "La «sur-communication» peut même aider à surmonter les obstacles causés par la distance et à rester à distance.",
+            "clue": "Il n'y a pas de place pour le doute.",
+            "choice_Nk71H6y6N": "But clair",
+            "choice_EkVkSTypV": "Effacer les résultats attendus",
+            "choice_NyS1BakpV": "Plan de match clair",
+            "choice_VJIJSaJaN": "Laissez-les atteindre leurs objectifs de manière totalement autonome",
+            "choice_NJubHa1pN": "Fixer des jalons pour approbation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Qué reglas se deben seguir al establecer la estructura de trabajo de un empleado que trabaja de forma remota?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Si está administrando a un empleado de forma remota, tenga en claro los objetivos y los resultados esperados. Explique el plan de juego y establezca hitos para su aprobación.",
+            "tips": "Incluso sería útil sobre-comunicarse para superar el obstáculo creado por la distancia y mantener una presencia remota.",
+            "clue": "No hay lugar para dudas",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk71H6y6N": "Sea claro acerca de los objetivos",
+            "choice_EkVkSTypV": "Sea claro sobre los resultados esperados",
+            "choice_NyS1BakpV": "Sea claro sobre el plan de juego",
+            "choice_VJIJSaJaN": "Darles completa autonomía sobre los objetivos",
+            "choice_NJubHa1pN": "Establecer hitos para su aprobación"
+        },
+        "it": {
+            "header": "Quali regole dovrebbero essere seguite quando si stabilisce la struttura lavorativa di un dipendente che lavora da remoto?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Se gestisci un dipendente da remoto, chiarisci gli obiettivi e i risultati attesi. Spiegare il piano di gioco e impostare le pietre miliari per lapprovazione.",
+            "tips": "Sarebbe anche utile sovra-comunicare per superare lostacolo creato dalla distanza e mantenere una presenza remota.",
+            "clue": "Non cè spazio per il dubbio.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk71H6y6N": "Sii chiaro sugli obiettivi",
+            "choice_EkVkSTypV": "Sii chiaro sui risultati attesi",
+            "choice_NyS1BakpV": "Sii chiaro riguardo al piano di gioco",
+            "choice_VJIJSaJaN": "Dare loro completa autonomia rispetto agli obiettivi",
+            "choice_NJubHa1pN": "Imposta le pietre miliari per lapprovazione"
+        },
+        "de": {
+            "header": "What rules should be followed when establishing the work structure of an employee working remotely?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "If you are managing an employee remotely, be clear about the objectives and expected results. Explain the game plan and set milestones for approval.",
+            "tips": "It would even be helpful to “over-communicate” to overcome the obstacle created by distance and maintain a remote presence.",
+            "clue": "There is no room for doubt.",
+            "choice_Nk71H6y6N": "Be clear about the objectives",
+            "choice_EkVkSTypV": "Be clear about the expected results",
+            "choice_NyS1BakpV": "Be clear about the game plan",
+            "choice_VJIJSaJaN": "Give them complete autonomy over the objectives",
+            "choice_NJubHa1pN": "Set milestones for approval",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "원격으로 일하는 직원의 작업 구조를 수립 할 때 어떤 규칙을 따라야합니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "원격으로 직원을 관리하는 경우 목표 및 예상되는 결과에 대해 명확히하십시오. 게임 계획을 설명하고 승인을위한 이정표를 세웁니다.",
+            "tips": "거리에 의해 생성 된 장애물을 극복하고 원격 존재를 유지하기 위해 과 의사 소통하는 것이 도움이됩니다.",
+            "clue": "의심의 여지가 없습니다.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk71H6y6N": "목표에 대해 분명히하십시오.",
+            "choice_EkVkSTypV": "예상 결과에 대해 분명히하십시오.",
+            "choice_NyS1BakpV": "게임 계획에 대해 분명히하십시오.",
+            "choice_VJIJSaJaN": "그들에게 목표에 대한 완전한 자치권을 부여하십시오.",
+            "choice_NJubHa1pN": "승인을위한 이정표 설정"
+        },
+        "ru": {
+            "header": "Какие правила следует соблюдать при создании рабочей структуры сотрудника, работающего удаленно?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Если вы управляете сотрудниками удаленно, четко указывайте цели и ожидаемые результаты. Объясните план игры и установите вехи для утверждения.",
+            "tips": "Было бы даже полезно «чрезмерно общаться», чтобы преодолеть препятствие, создаваемое дистанцией, и поддерживать дистанционное присутствие.",
+            "clue": "Нет сомнений.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk71H6y6N": "Проявите цели",
+            "choice_EkVkSTypV": "Будьте предельно ясны относительно ожидаемых результатов",
+            "choice_NyS1BakpV": "Будьте в курсе плана игры",
+            "choice_VJIJSaJaN": "Дайте им полную автономию по целям",
+            "choice_NJubHa1pN": "Установить вехи для утверждения"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quais regras devem ser seguidas ao estabelecer a estrutura de trabalho de um funcionário trabalhando remotamente?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Se você estiver gerenciando um funcionário remotamente, seja claro sobre os objetivos e resultados esperados. Explique o plano de jogo e defina marcos para aprovação.",
+            "tips": "Seria até útil “comunicar-se demais” para superar o obstáculo criado pela distância e manter uma presença remota.",
+            "clue": "Não há espaço para dúvidas.",
+            "choice_Nk71H6y6N": "Seja claro sobre os objetivos",
+            "choice_EkVkSTypV": "Seja claro sobre os resultados esperados",
+            "choice_NyS1BakpV": "Seja claro sobre o plano de jogo",
+            "choice_VJIJSaJaN": "Dê-lhes autonomia completa sobre os objetivos",
+            "choice_NJubHa1pN": "Definir marcos para aprovação"
+        },
+        "zh": {
+            "header": "建立远程工作员工的工作结构时应遵循哪些规则？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "如果您远程管理员工，请明确目标和预期结果。解释游戏计划并设置里程碑以供批准。",
+            "tips": "“过度通信”甚至有助于克服距离造成的障碍并保持远程存在。",
+            "clue": "没有任何怀疑的余地。",
+            "choice_Nk71H6y6N": "明确目标",
+            "choice_EkVkSTypV": "明确预期的结果",
+            "choice_NyS1BakpV": "明确游戏计划",
+            "choice_VJIJSaJaN": "让他们完全自主地实现目标",
+            "choice_NJubHa1pN": "设定里程碑以供批准"
+        }
+    }
+}

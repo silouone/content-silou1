@@ -1,0 +1,207 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T12:27:48.744Z",
+            "updatedAt": "2018-08-10T09:01:14.930Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_NJUYEn9nV",
+        "universalRef": "sli_NJUYEn9nV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel63016",
+                        "label": "label_4ydjVn93N",
+                        "items": [
+                            {
+                                "text": "choice_4ylujN2qnE",
+                                "value": "choice_4ylujN2qnE"
+                            },
+                            {
+                                "text": "choice_VyZOjVnchE",
+                                "value": "choice_VyZOjVnchE"
+                            },
+                            {
+                                "text": "choice_4yu3Nh92N",
+                                "value": "choice_4yu3Nh92N"
+                            },
+                            {
+                                "text": "choice_V1FRMYmA4",
+                                "value": "choice_V1FRMYmA4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel63016",
+                        "answers": [
+                            "choice_V1FRMYmA4"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the maximum amount of time a meeting should last?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "If possible, a meeting should last no longer than two hours. It is up to you to set a start and end time and ensure that the time frame is respected.",
+            "tips": "Attention economics is a new branch of economics that treats consumer attention and time as a scarce commodity.",
+            "clue": "A good film.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63016}}",
+            "label_4ydjVn93N": "",
+            "choice_4ylujN2qnE": "10 minutes",
+            "choice_VyZOjVnchE": "30 minutes",
+            "choice_4yu3Nh92N": "1 hour",
+            "choice_V1FRMYmA4": "2 hours"
+        },
+        "fr": {
+            "header": "Quelle est la durée maximale de la réunion?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Si possible, la réunion ne devrait pas durer plus de deux heures. Vous pouvez définir les heures de début et de fin et vous assurer de respecter la plage horaire.",
+            "tips": "L’économie de l’attention est une nouvelle branche de l’économie qui considère l’attention et le temps des consommateurs comme des biens rares.",
+            "clue": "Un bon film",
+            "template": "{{sel63016}}",
+            "choice_4ylujN2qnE": "10 minutes",
+            "choice_VyZOjVnchE": "30 minutes",
+            "choice_4yu3Nh92N": "1 heure",
+            "choice_V1FRMYmA4": "2 heures",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_4ydjVn93N": ""
+        },
+        "es": {
+            "header": "¿Cuál es la cantidad máxima de tiempo que una reunión debería durar?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "Si es posible, una reunión no debería durar más de dos horas. Depende de usted establecer una hora de inicio y finalización y asegurarse de que se respete el marco de tiempo.",
+            "tips": "La economía de la atención es una nueva rama de la economía que trata la atención del consumidor y el tiempo como un bien escaso.",
+            "clue": "Una buena pelicula.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63016}}",
+            "label_4ydjVn93N": " ",
+            "choice_4ylujN2qnE": "10 minutos",
+            "choice_VyZOjVnchE": "30 minutos",
+            "choice_4yu3Nh92N": "1 hora",
+            "choice_V1FRMYmA4": "2 horas"
+        },
+        "it": {
+            "header": "Qual è la quantità massima di tempo che una riunione dovrebbe durare?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "Se possibile, una riunione non dovrebbe durare più di due ore. Spetta a te impostare unora di inizio e di fine e assicurarsi che lintervallo di tempo sia rispettato.",
+            "tips": "Leconomia dellattenzione è un nuovo ramo delleconomia che considera lattenzione del consumatore e il tempo come una merce scarsa.",
+            "clue": "Un buon film.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63016}}",
+            "label_4ydjVn93N": " ",
+            "choice_4ylujN2qnE": "10 minuti",
+            "choice_VyZOjVnchE": "30 minuti",
+            "choice_4yu3Nh92N": "1 ora",
+            "choice_V1FRMYmA4": "2 ore"
+        },
+        "de": {
+            "header": "What is the maximum amount of time a meeting should last?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "If possible, a meeting should last no longer than two hours. It is up to you to set a start and end time and ensure that the time frame is respected.",
+            "tips": "Attention economics is a new branch of economics that treats consumer attention and time as a scarce commodity.",
+            "clue": "A good film.",
+            "template": "{{sel63016}}",
+            "choice_4ylujN2qnE": "10 minutes",
+            "choice_VyZOjVnchE": "30 minutes",
+            "choice_4yu3Nh92N": "1 hour",
+            "choice_V1FRMYmA4": "2 hours",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_4ydjVn93N": " "
+        },
+        "ko": {
+            "header": "회의가 지속되어야하는 최대 시간은 얼마입니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "가능하다면 회의는 2 시간 이상 지속될 수 없습니다. 시작 및 종료 시간을 설정하고 시간 프레임을 존중해야합니다.",
+            "tips": "주의력 경제학은 소비자 관심과 시간을 부족한 상품으로 취급하는 새로운 경제 분야입니다.",
+            "clue": "좋은 영화.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63016}}",
+            "label_4ydjVn93N": " ",
+            "choice_4ylujN2qnE": "10 분",
+            "choice_VyZOjVnchE": "30 분",
+            "choice_4yu3Nh92N": "1 시간",
+            "choice_V1FRMYmA4": "2 시간"
+        },
+        "ru": {
+            "header": "Каков максимальный срок, в течение которого встреча должна длиться?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Если возможно, собрание должно длиться не более двух часов. Вы должны установить начальное и конечное время и обеспечить соблюдение временных рамок.",
+            "tips": "Экономика внимания - это новая отрасль экономики, которая рассматривает потребительское внимание и время как дефицитный товар.",
+            "clue": "Хороший фильм.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63016}}",
+            "label_4ydjVn93N": " ",
+            "choice_4ylujN2qnE": "10 минут",
+            "choice_VyZOjVnchE": "30 минут",
+            "choice_4yu3Nh92N": "1 час",
+            "choice_V1FRMYmA4": "2 часа"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Qual é o tempo máximo que uma reunião deve durar?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "Se possível, uma reunião deve durar no máximo duas horas. Cabe a você definir um horário de início e término e garantir que o período de tempo seja respeitado.",
+            "tips": "A economia da atenção é um novo ramo da economia que trata a atenção do consumidor e o tempo como uma mercadoria escassa.",
+            "clue": "Um bom filme.",
+            "template": "{{sel63016}}",
+            "choice_4ylujN2qnE": "10 minutos",
+            "choice_VyZOjVnchE": "30 minutos",
+            "choice_4yu3Nh92N": "1 hora",
+            "choice_V1FRMYmA4": "2 horas"
+        },
+        "zh": {
+            "header": "会议应该持续的最长时间是多少？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "如果可能，会议应持续不超过两个小时。您可以设置开始和结束时间，并确保遵守时间范围。",
+            "tips": "注意力经济学是经济学的一个新分支，它将消费者的注意力和时间视为稀缺商品。",
+            "clue": "一部好电影。",
+            "template": "{{sel63016}}",
+            "choice_4ylujN2qnE": "10分钟",
+            "choice_VyZOjVnchE": "30分钟",
+            "choice_4yu3Nh92N": "1小时",
+            "choice_V1FRMYmA4": "2小时"
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T14:16:16.844Z",
+            "updatedAt": "2018-08-10T10:19:45.869Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKwqQVj4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_EygRAz33N",
+        "universalRef": "sli_EygRAz33N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EygRAz33N.choice_VkGWyX23V.id",
+                        "label": "choice_VkGWyX23V",
+                        "value": "choice_VkGWyX23V"
+                    },
+                    {
+                        "id": "sli_EygRAz33N.choice_V1xf~JQnnN.id",
+                        "label": "choice_V1xf~JQnnN",
+                        "value": "choice_V1xf~JQnnN"
+                    },
+                    {
+                        "id": "sli_EygRAz33N.choice_4y4ZJQ324.id",
+                        "label": "choice_4y4ZJQ324",
+                        "value": "choice_4y4ZJQ324"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1xf~JQnnN",
+                        "choice_4y4ZJQ324"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When an employee asks for help, you automatically respond, “Leave it. I will take care of it…” What kind of effect does this have?",
+            "explanation": "Select the correct answers.",
+            "klf": "Avoid the pitfall of “reverse delegation”. Not only does this create extra work for you, but it is also a lost opportunity for your employee to improve.",
+            "tips": "Your employee may feel devalued and mentally check out, or alternatively, they may feel like they are “getting off scot-free” which encourages them to ask again at the next opportunity.",
+            "clue": "2/3.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGWyX23V": "This makes them feel supported in their work",
+            "choice_V1xf~JQnnN": "This creates extra work for you",
+            "choice_4y4ZJQ324": "This is a lost opportunity for your employee to improve",
+            "choice_4kgb1mhnV": "This tells them that they are not capable of managing the task and that you may entrust it to another employee"
+        },
+        "fr": {
+            "header": "Lorsqu'un employé demande de l'aide, vous répondez automatiquement: \"Partez. Je vais m'en occuper ...\" Quel effet cela a-t-il?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Évitez le piège \"autorisation inverse\". Cela crée non seulement du travail supplémentaire pour vous, mais donne également à vos employés la possibilité de s’améliorer.",
+            "tips": "Vos employés peuvent se sentir dépréciés et faire des vérifications mentales, ou ils peuvent avoir le sentiment qu'ils «s'en vont» et les inciter à redemander à la prochaine occasion.",
+            "clue": "2/3",
+            "choice_VkGWyX23V": "Cela les fait se sentir favorables à leur travail",
+            "choice_V1xf~JQnnN": "Cela crée du travail supplémentaire pour vous.",
+            "choice_4y4ZJQ324": "C'est une opportunité perdue pour vos employés.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kgb1mhnV": "Cela lui indique qu'il n'est pas apte à gérer la tâche et que vous risquez de la confier à un autre collaborateur"
+        },
+        "es": {
+            "header": "Cuando un empleado solicita ayuda, usted responde automáticamente: Déjelo. Me ocuparé de eso ... ¿Qué tipo de efecto tiene esto?",
+            "explanation": "Seleccione las respuestas correctas.",
+            "klf": "Evite la trampa de la delegación inversa. Esto no solo crea trabajo adicional para usted, sino que también es una oportunidad perdida para que su empleado mejore.",
+            "tips": "Su empleado puede sentirse desvalorizado y retirar mentalmente, o alternativamente, puede sentir que están saliendo de la nada, lo que los anima a preguntar nuevamente en la próxima oportunidad.",
+            "clue": "2/3.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGWyX23V": "Esto los hace sentir apoyados en su trabajo",
+            "choice_V1xf~JQnnN": "Esto crea trabajo extra para ti",
+            "choice_4y4ZJQ324": "Esta es una oportunidad perdida para que su empleado mejore"
+        },
+        "it": {
+            "header": "Quando un dipendente chiede aiuto, rispondi automaticamente: Lascia stare. Mi prenderò cura di lui ... Che tipo di effetto ha questo?",
+            "explanation": "Seleziona le risposte corrette.",
+            "klf": "Evitare il tranello della delegazione inversa. Non solo questo crea un lavoro extra per te, ma è anche unopportunità persa per migliorare il tuo dipendente.",
+            "tips": "Il tuo dipendente può sentirsi svalutato e mentalmente controllato, o in alternativa, può sentirsi come se stessero scendendo da zero che li incoraggia a chiedere di nuovo alla prossima occasione.",
+            "clue": "2/3.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGWyX23V": "Questo li fa sentire supportati nel loro lavoro",
+            "choice_V1xf~JQnnN": "Questo crea un lavoro extra per te",
+            "choice_4y4ZJQ324": "Questa è unopportunità persa per migliorare il tuo dipendente"
+        },
+        "de": {
+            "header": "When an employee asks for help, you automatically respond, “Leave it. I will take care of it…” What kind of effect does this have?",
+            "explanation": "Select the correct answers.",
+            "klf": "Avoid the pitfall of “reverse delegation”. Not only does this create extra work for you, but it is also a lost opportunity for your employee to improve.",
+            "tips": "Your employee may feel devalued and mentally check out, or alternatively, they may feel like they are “getting off scot-free” which encourages them to ask again at the next opportunity.",
+            "clue": "2/3.",
+            "choice_VkGWyX23V": "This makes them feel supported in their work",
+            "choice_V1xf~JQnnN": "This creates extra work for you",
+            "choice_4y4ZJQ324": "This is a lost opportunity for your employee to improve",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "직원이 도움을 청하면 자동 응답합니다. 그냥 둡니다. 나는 그것을 돌볼 것이다 ... 이것은 어떤 종류의 효과가 있는가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "역 위임의 함정을 피하십시오. 이렇게하면 추가 작업이 생길뿐만 아니라 직원이 개선 할 수있는 기회도 상실됩니다.",
+            "tips": "직원은 평가 절하를 당하고 정신적으로 체크 아웃 할 수도 있고 또는 다음 번 기회에 다시 질문 할 수 있도록 무계획 해제하는 것처럼 느낄 수도 있습니다.",
+            "clue": "2/3.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGWyX23V": "이것은 그들의 일에지지를 느끼게한다.",
+            "choice_V1xf~JQnnN": "이것은 당신을 위해 여분의 일을 만듭니다.",
+            "choice_4y4ZJQ324": "이는 직원이 개선 할 수있는 기회를 놓치게됩니다."
+        },
+        "ru": {
+            "header": "Когда сотрудник просит о помощи, вы автоматически отвечаете: «Оставьте это. Я позабочусь об этом ... «Какого эффекта это имеет?",
+            "explanation": "Выберите правильные ответы.",
+            "klf": "Избегайте ловушки «обратного делегирования». Это не только создает дополнительную работу для вас, но и упущенную возможность для вашего сотрудника улучшиться.",
+            "tips": "Ваш сотрудник может чувствовать себя обесцененным и мысленно проверить, или, альтернативно, они могут почувствовать, что они «освобождаются от шотландских денег», что побуждает их снова спрашивать при следующей возможности.",
+            "clue": "2/3.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkGWyX23V": "Это заставляет их чувствовать себя в своей работе",
+            "choice_V1xf~JQnnN": "Это создает дополнительную работу для вас",
+            "choice_4y4ZJQ324": "Это упущенная возможность для вашего работника улучшить"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quando um funcionário pede ajuda, você responde automaticamente: “Deixe-o. Eu vou cuidar disso ... ”Que tipo de efeito isso tem?",
+            "explanation": "Selecione as respostas corretas.",
+            "klf": "Evite a armadilha da \"delegação reversa\". Isso não apenas cria um trabalho extra para você, como também é uma oportunidade perdida para o funcionário melhorar.",
+            "tips": "Seu funcionário pode sentir-se desvalorizado e mentalmente checado ou, alternativamente, eles podem sentir que estão \"saindo impunes\", o que os encoraja a perguntar novamente na próxima oportunidade.",
+            "clue": "2/3",
+            "choice_VkGWyX23V": "Isso faz com que eles se sintam apoiados em seu trabalho",
+            "choice_V1xf~JQnnN": "Isso cria trabalho extra para você",
+            "choice_4y4ZJQ324": "Esta é uma oportunidade perdida para o seu empregado melhorar"
+        },
+        "zh": {
+            "header": "当员工请求帮助时，您会自动回复，“离开。我会照顾它......“这会产生什么样的影响？",
+            "explanation": "选择正确的答案。",
+            "klf": "避免“反向授权”的陷阱。这不仅为您创造了额外的工作，而且也为您的员工提供了改进的机会。",
+            "tips": "您的员工可能会感到贬值并且在心理上退房，或者他们可能会觉得他们“正在下车”，鼓励他们在下一次机会时再次询问。",
+            "clue": "2/3。",
+            "choice_VkGWyX23V": "这使他们感到支持他们的工作",
+            "choice_V1xf~JQnnN": "这为您创造了额外的工作",
+            "choice_4y4ZJQ324": "这对您的员工来说是一个失去的机会"
+        }
+    }
+}

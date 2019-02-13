@@ -1,0 +1,202 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T14:02:07.814Z",
+            "updatedAt": "2018-08-10T09:49:33.533Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKwqQVj4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_Eyo1nG2n4",
+        "universalRef": "sli_Eyo1nG2n4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Eyo1nG2n4.choice_4yB~hfnnE.id",
+                        "label": "choice_4yB~hfnnE",
+                        "value": "choice_4yB~hfnnE"
+                    },
+                    {
+                        "id": "sli_Eyo1nG2n4.choice_Ek8ZhM32E.id",
+                        "label": "choice_Ek8ZhM32E",
+                        "value": "choice_Ek8ZhM32E"
+                    },
+                    {
+                        "id": "sli_Eyo1nG2n4.choice_VJ-~hfhhN.id",
+                        "label": "choice_VJ-~hfhhN",
+                        "value": "choice_VJ-~hfhhN"
+                    },
+                    {
+                        "id": "sli_Eyo1nG2n4.choice_41Y~hf334.id",
+                        "label": "choice_41Y~hf334",
+                        "value": "choice_41Y~hf334"
+                    },
+                    {
+                        "id": "sli_Eyo1nG2n4.choice_4kmN3M2hN.id",
+                        "label": "choice_4kmN3M2hN",
+                        "value": "choice_4kmN3M2hN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yB~hfnnE",
+                        "choice_VJ-~hfhhN",
+                        "choice_41Y~hf334",
+                        "choice_4kmN3M2hN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What needs to be done to properly prepare for a delegation?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "To properly prepare for the delegation, organise a delegation meeting in which you will define the objectives clearly and precisely. Document these details in writing and inform those concerned.",
+            "tips": "You should mention the start date for the delegation and the end date if it is temporary. Delegation is a contract.",
+            "clue": "The right to make a mistake.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yB~hfnnE": "Organise a delegation meeting",
+            "choice_Ek8ZhM32E": "Decide on consequences in case an error occurs",
+            "choice_VJ-~hfhhN": "Define precise objectives",
+            "choice_41Y~hf334": "Document the details in writing",
+            "choice_4kmN3M2hN": "Inform everyone concerned"
+        },
+        "fr": {
+            "header": "Que faut-il faire pour préparer la délégation?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "Afin de bien préparer la délégation, organisez une réunion de la délégation où vous déterminerez clairement et précisément les objectifs. Notez ces détails par écrit et informez le personnel concerné.",
+            "tips": "Vous devez mentionner les dates de début et de fin de la délégation (si elle est temporaire). La délégation est un contrat.",
+            "clue": "Le droit de se tromper.",
+            "choice_4yB~hfnnE": "Réunion de délégation organisationnelle",
+            "choice_Ek8ZhM32E": "Déterminer les conséquences d'une erreur",
+            "choice_VJ-~hfhhN": "Définir des objectifs précis",
+            "choice_41Y~hf334": "Enregistrer les détails par écrit",
+            "choice_4kmN3M2hN": "Informer tout le personnel concerné",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Qué se necesita hacer para prepararse adecuadamente para una delegación?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Para prepararse adecuadamente para la delegación, organice una reunión de delegación en la que definirá los objetivos de forma clara y precisa. Documente estos detalles por escrito e infórmeles a los interesados.",
+            "tips": "Debe mencionar la fecha de inicio de la delegación y la fecha de finalización si es temporal. Delegación es un contrato.",
+            "clue": "El derecho a cometer un error.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yB~hfnnE": "Organizar una reunión de delegación",
+            "choice_Ek8ZhM32E": "Decida las consecuencias en caso de que ocurra un error",
+            "choice_VJ-~hfhhN": "Definir objetivos precisos",
+            "choice_41Y~hf334": "Documente los detalles por escrito",
+            "choice_4kmN3M2hN": "Informar a todos los involucrados"
+        },
+        "it": {
+            "header": "Cosa deve essere fatto per prepararsi adeguatamente a una delegazione?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Per preparare adeguatamente la delegazione, organizza una riunione della delegazione in cui definirai gli obiettivi in ​​modo chiaro e preciso. Documentare questi dettagli per iscritto e informare gli interessati.",
+            "tips": "Dovresti menzionare la data di inizio della delega e la data di fine se è temporanea. La delega è un contratto.",
+            "clue": "Il diritto di commettere un errore",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yB~hfnnE": "Organizzare una riunione della delegazione",
+            "choice_Ek8ZhM32E": "Decidi le conseguenze in caso di errore",
+            "choice_VJ-~hfhhN": "Definire obiettivi precisi",
+            "choice_41Y~hf334": "Documenta i dettagli per iscritto",
+            "choice_4kmN3M2hN": "Informare tutti gli interessati"
+        },
+        "de": {
+            "header": "What needs to be done to properly prepare for a delegation?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "To properly prepare for the delegation, organise a delegation meeting in which you will define the objectives clearly and precisely. Document these details in writing and inform those concerned.",
+            "tips": "You should mention the start date for the delegation and the end date if it is temporary. Delegation is a contract.",
+            "clue": "The right to make a mistake.",
+            "choice_4yB~hfnnE": "Organise a delegation meeting",
+            "choice_Ek8ZhM32E": "Decide on consequences in case an error occurs",
+            "choice_VJ-~hfhhN": "Define precise objectives",
+            "choice_41Y~hf334": "Document the details in writing",
+            "choice_4kmN3M2hN": "Inform everyone concerned",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "대표단을 제대로 준비하려면 무엇을해야합니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "대표단을 적절히 준비하려면 목표를 명확하고 정확하게 정의 할 수있는 대표단 회의를 구성하십시오. 이러한 세부 사항을 서면으로 문서화하고 관련자에게 알리십시오.",
+            "tips": "위임의 시작 날짜와 일시적인 경우 종료 날짜를 언급해야합니다. 위임은 계약입니다.",
+            "clue": "실수 할 수있는 권리.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yB~hfnnE": "대표단 회의 구성",
+            "choice_Ek8ZhM32E": "오류 발생시 결과 결정",
+            "choice_VJ-~hfhhN": "정확한 목표 정의",
+            "choice_41Y~hf334": "세부 사항을 서면으로 문서화하십시오.",
+            "choice_4kmN3M2hN": "모든 사람에게 알린다."
+        },
+        "ru": {
+            "header": "Что нужно сделать для надлежащей подготовки делегации?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Чтобы правильно подготовиться к делегации, организуйте встречу делегаций, на которой вы четко и точно определите цели. Документируйте эти данные в письменной форме и сообщите заинтересованным лицам.",
+            "tips": "Вы должны указать дату начала делегирования и дату окончания, если она является временной. Делегация - это контракт.",
+            "clue": "Право на ошибку.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yB~hfnnE": "Организовать встречу делегации",
+            "choice_Ek8ZhM32E": "Определите последствия в случае возникновения ошибки",
+            "choice_VJ-~hfhhN": "Определите точные цели",
+            "choice_41Y~hf334": "Документировать детали в письменной форме",
+            "choice_4kmN3M2hN": "Сообщите всем заинтересованным лицам"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O que precisa ser feito para preparar adequadamente uma delegação?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Para preparar adequadamente a delegação, organize uma reunião de delegação na qual você definirá os objetivos com clareza e precisão. Documente estes detalhes por escrito e informe os interessados.",
+            "tips": "Você deve mencionar a data de início da delegação e a data final, se for temporária. Delegação é um contrato.",
+            "clue": "O direito de cometer um erro.",
+            "choice_4yB~hfnnE": "Organize uma reunião de delegação",
+            "choice_Ek8ZhM32E": "Decidir sobre as consequências, caso ocorra um erro",
+            "choice_VJ-~hfhhN": "Definir objetivos precisos",
+            "choice_41Y~hf334": "Documente os detalhes por escrito",
+            "choice_4kmN3M2hN": "Informe todos os interessados"
+        },
+        "zh": {
+            "header": "需要做些什么才能为代表团做好准备？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "为了适当地准备代表团，组织一次代表团会议，您将在其中清楚准确地确定目标。以书面形式记录这些细节并通知相关人员。",
+            "tips": "您应该提及委派的开始日期和结束日期（如果是临时的）。代表团是一份合同。",
+            "clue": "犯错的权利。",
+            "choice_4yB~hfnnE": "组织代表团会议",
+            "choice_Ek8ZhM32E": "确定发生错误时的后果",
+            "choice_VJ-~hfhhN": "定义精确的目标",
+            "choice_41Y~hf334": "以书面形式记录细节",
+            "choice_4kmN3M2hN": "告知所有相关人员"
+        }
+    }
+}
