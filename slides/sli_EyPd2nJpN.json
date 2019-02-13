@@ -1,0 +1,188 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-30T08:03:33.241Z",
+            "updatedAt": "2018-08-10T12:50:23.343Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9DcQ4sV"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_EyPd2nJpN",
+        "universalRef": "sli_EyPd2nJpN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EyPd2nJpN.choice_NkrFnnyaV.id",
+                        "label": "choice_NkrFnnyaV",
+                        "value": "choice_NkrFnnyaV"
+                    },
+                    {
+                        "id": "sli_EyPd2nJpN.choice_418Yh3kpN.id",
+                        "label": "choice_418Yh3kpN",
+                        "value": "choice_418Yh3kpN"
+                    },
+                    {
+                        "id": "sli_EyPd2nJpN.choice_V1PK33kaV.id",
+                        "label": "choice_V1PK33kaV",
+                        "value": "choice_V1PK33kaV"
+                    },
+                    {
+                        "id": "sli_EyPd2nJpN.choice_VyePFnhypE.id",
+                        "label": "choice_VyePFnhypE",
+                        "value": "choice_VyePFnhypE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkrFnnyaV",
+                        "choice_418Yh3kpN",
+                        "choice_V1PK33kaV",
+                        "choice_VyePFnhypE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the risks involved in managing remotely?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "Remote management faces many challenges: communication problems, a diminished sense of belonging, coordination difficulties and even the risk of becoming disengaged.",
+            "tips": "A traditional team works together at the same place and time. A remote team works at different locations but with shared times (e.g. videoconferences).",
+            "clue": "Strike!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkrFnnyaV": "Communication problems",
+            "choice_418Yh3kpN": "A diminished sense of belonging",
+            "choice_V1PK33kaV": "Coordination difficulties",
+            "choice_VyePFnhypE": "A risk of becoming disengaged"
+        },
+        "fr": {
+            "header": "Quels sont les risques liés à la gestion à distance?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "La gestion à distance est confrontée à de nombreux défis: problèmes de communication, faible sentiment d’appartenance, difficultés de coordination et même risque.",
+            "tips": "Les équipes traditionnelles travaillent ensemble au même endroit et à la même heure. Les équipes distantes travaillent à différents endroits mais partagent le même temps (par exemple, la vidéoconférence).",
+            "clue": "Frappe!",
+            "choice_NkrFnnyaV": "Problème de communication",
+            "choice_418Yh3kpN": "Sentiment d'appartenance affaibli",
+            "choice_V1PK33kaV": "Difficultés de coordination",
+            "choice_VyePFnhypE": "Devenir un risque de détachement",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuáles son los riesgos involucrados en la administración remota?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "La administración remota enfrenta muchos desafíos: problemas de comunicación, un menor sentido de pertenencia, dificultades de coordinación e incluso el riesgo de desvincularse.",
+            "tips": "Un equipo tradicional trabaja en conjunto en el mismo lugar y tiempo. Un equipo remoto trabaja en diferentes ubicaciones pero con tiempos compartidos (por ejemplo, videoconferencias).",
+            "clue": "Huelga!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkrFnnyaV": "Problemas de comunicación",
+            "choice_418Yh3kpN": "Un sentido de pertenencia disminuido",
+            "choice_V1PK33kaV": "Dificultades de coordinación",
+            "choice_VyePFnhypE": "Un riesgo de desvincularse"
+        },
+        "it": {
+            "header": "Quali sono i rischi connessi alla gestione remota?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "La gestione remota deve affrontare molte sfide: problemi di comunicazione, senso di appartenenza ridotto, difficoltà di coordinamento e persino il rischio di disimpegnarsi.",
+            "tips": "Un team tradizionale lavora insieme nello stesso luogo e momento. Un team remoto lavora in luoghi diversi ma con orari condivisi (ad es. Videoconferenze).",
+            "clue": "Sciopero!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkrFnnyaV": "Problemi di comunicazione",
+            "choice_418Yh3kpN": "Un diminuito senso di appartenenza",
+            "choice_V1PK33kaV": "Difficoltà di coordinamento",
+            "choice_VyePFnhypE": "Un rischio di disimpegno"
+        },
+        "de": {
+            "header": "What are the risks involved in managing remotely?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "Remote management faces many challenges: communication problems, a diminished sense of belonging, coordination difficulties and even the risk of becoming disengaged.",
+            "tips": "A traditional team works together at the same place and time. A remote team works at different locations but with shared times (e.g. videoconferences).",
+            "clue": "Strike!",
+            "choice_NkrFnnyaV": "Communication problems",
+            "choice_418Yh3kpN": "A diminished sense of belonging",
+            "choice_V1PK33kaV": "Coordination difficulties",
+            "choice_VyePFnhypE": "A risk of becoming disengaged",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "원격으로 관리하는 것과 관련된 위험은 무엇입니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "원격 관리는 의사 소통 문제, 소속감 감소, 조정의 어려움, 심지어는 이탈 위험까지도 직면합니다.",
+            "tips": "전통적인 팀은 같은 장소와 시간에 함께 일합니다. 원격 팀은 서로 다른 위치에 있지만 시간을 공유합니다 (예 : 화상 회의).",
+            "clue": "스트라이크!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkrFnnyaV": "통신 문제",
+            "choice_418Yh3kpN": "속박의 감각",
+            "choice_V1PK33kaV": "조정상의 어려움",
+            "choice_VyePFnhypE": "이탈 위험"
+        },
+        "ru": {
+            "header": "Каковы риски, связанные с дистанционным управлением?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Удаленное управление сталкивается со многими проблемами: проблемами коммуникации, уменьшением чувства принадлежности, трудностями координации и даже риском выхода из строя.",
+            "tips": "Традиционная команда работает вместе в одном месте и во времени. Удаленная команда работает в разных местах, но с совместным временем (например, видеоконференции).",
+            "clue": "Удар!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkrFnnyaV": "Проблемы общения",
+            "choice_418Yh3kpN": "Снижение чувства принадлежности",
+            "choice_V1PK33kaV": "Проблемы с координацией",
+            "choice_VyePFnhypE": "Риск стать отключенным"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quais são os riscos envolvidos no gerenciamento remotamente?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "O gerenciamento remoto enfrenta muitos desafios: problemas de comunicação, um sentimento de pertença diminuído, dificuldades de coordenação e até o risco de se desvincular.",
+            "tips": "Uma equipe tradicional trabalha em conjunto no mesmo local e horário. Uma equipe remota trabalha em locais diferentes, mas com horários compartilhados (por exemplo, videoconferências).",
+            "clue": "Greve!",
+            "choice_NkrFnnyaV": "Problemas de comunicação",
+            "choice_418Yh3kpN": "Um sentimento de pertença diminuído",
+            "choice_V1PK33kaV": "Dificuldades de coordenação",
+            "choice_VyePFnhypE": "Um risco de se desvincular"
+        },
+        "zh": {
+            "header": "远程管理涉及哪些风险？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "远程管理面临许多挑战：沟通问题，归属感减弱，协调困难甚至是脱离风险。",
+            "tips": "传统团队在同一个地方和时间一起工作。远程团队在不同的位置工作但具有共享时间（例如视频会议）。",
+            "clue": "罢工！",
+            "choice_NkrFnnyaV": "沟通问题",
+            "choice_418Yh3kpN": "归属感减弱",
+            "choice_V1PK33kaV": "协调困难",
+            "choice_VyePFnhypE": "成为脱离的风险"
+        }
+    }
+}

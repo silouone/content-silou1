@@ -1,0 +1,186 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T15:06:24.678Z",
+            "updatedAt": "2018-07-26T15:09:21.455Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4y5G4GN64",
+        "universalRef": "sli_4y5G4GN64",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4y5G4GN64.choice_V1lN4GETE.id",
+                        "label": "choice_V1lN4GETE",
+                        "value": "choice_V1lN4GETE"
+                    },
+                    {
+                        "id": "sli_4y5G4GN64.choice_E1MENfN6V.id",
+                        "label": "choice_E1MENfN6V",
+                        "value": "choice_E1MENfN6V"
+                    },
+                    {
+                        "id": "sli_4y5G4GN64.choice_4JmV4zE6N.id",
+                        "label": "choice_4JmV4zE6N",
+                        "value": "choice_4JmV4zE6N"
+                    },
+                    {
+                        "id": "sli_4y5G4GN64.choice_VJg7V4M4aV.id",
+                        "label": "choice_VJg7V4M4aV",
+                        "value": "choice_VJg7V4M4aV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1lN4GETE",
+                        "choice_VJg7V4M4aV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should be done to ensure that an objective is “Time-bound” according to the SMART method?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "In order to ensure that the objective is “Time-bound”, you need to set deadlines and dates for milestones.",
+            "tips": "You should avoid phrases such as “as quickly as possible” and use specific time frames (e.g. three months, two weeks, etc.).",
+            "clue": "Take out your calendar!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1lN4GETE": "Set a deadline",
+            "choice_E1MENfN6V": "Decide on consequences in case of delay",
+            "choice_4JmV4zE6N": "Plan a new objective",
+            "choice_VJg7V4M4aV": "Set dates for milestones"
+        },
+        "fr": {
+            "header": "Selon la méthode SMART, que devrait-on faire pour s'assurer que l'objectif est «limité dans le temps»?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "Pour vous assurer que l'objectif est «limité dans le temps», vous devez définir une date limite et une date pour le jalon.",
+            "tips": "Vous devez éviter les expressions telles que \"aussi vite que possible\" et utiliser un laps de temps spécifique (par exemple, trois mois, deux semaines, etc.).",
+            "clue": "Sortez votre calendrier!",
+            "choice_V1lN4GETE": "Fixer la date limite",
+            "choice_E1MENfN6V": "Déterminer les conséquences en cas de retard",
+            "choice_4JmV4zE6N": "Planifier un nouvel objectif",
+            "choice_VJg7V4M4aV": "Fixer la date du jalon",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Qué se debe hacer para garantizar que un objetivo sea de duración determinada según el método SMART?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Para asegurarse de que el objetivo sea de duración determinada, debe establecer los plazos y las fechas de los hitos.",
+            "tips": "Debe evitar frases como lo más rápido posible y utilizar marcos de tiempo específicos (por ejemplo, tres meses, dos semanas, etc.).",
+            "clue": "¡Saca tu calendario!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1lN4GETE": "Establecer una fecha límite",
+            "choice_E1MENfN6V": "Decida las consecuencias en caso de retraso",
+            "choice_4JmV4zE6N": "Planea un nuevo objetivo",
+            "choice_VJg7V4M4aV": "Establecer fechas para hitos"
+        },
+        "it": {
+            "header": "Cosa si deve fare per garantire che un obiettivo sia Time-bound secondo il metodo SMART?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Per garantire che lobiettivo sia Time-bound, è necessario fissare scadenze e date per le pietre miliari.",
+            "tips": "Dovresti evitare frasi come il più rapidamente possibile e utilizzare intervalli di tempo specifici (ad esempio tre mesi, due settimane, ecc.).",
+            "clue": "Tira fuori il tuo calendario!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1lN4GETE": "Imposta una scadenza",
+            "choice_E1MENfN6V": "Decidi le conseguenze in caso di ritardo",
+            "choice_4JmV4zE6N": "Pianifica un nuovo obiettivo",
+            "choice_VJg7V4M4aV": "Imposta le date per le pietre miliari"
+        },
+        "de": {
+            "header": "What should be done to ensure that an objective is “Time-bound” according to the SMART method?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "In order to ensure that the objective is “Time-bound”, you need to set deadlines and dates for milestones.",
+            "tips": "You should avoid phrases such as “as quickly as possible” and use specific time frames (e.g. three months, two weeks, etc.).",
+            "clue": "Take out your calendar!",
+            "choice_V1lN4GETE": "Set a deadline",
+            "choice_E1MENfN6V": "Decide on consequences in case of delay",
+            "choice_4JmV4zE6N": "Plan a new objective",
+            "choice_VJg7V4M4aV": "Set dates for milestones",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "SMART 방법에 따라 목적이 시간 제한인지 확인하기 위해 수행해야 할 작업은 무엇입니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "목표가 시간 제한적이라는 것을 확실히하기 위해, 당신은 이정표를위한 마감일과 날짜를 설정해야합니다.",
+            "tips": "가능한 한 빨리와 같은 문구는 사용하지 말고 특정 기간 (예 : 3 개월, 2 주 등)을 사용해야합니다.",
+            "clue": "당신의 달력을 꺼내십시오!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1lN4GETE": "기한 설정",
+            "choice_E1MENfN6V": "지연의 경우 결과 결정",
+            "choice_4JmV4zE6N": "새로운 목표를 세우십시오.",
+            "choice_VJg7V4M4aV": "마일스톤에 대한 날짜 설정"
+        },
+        "ru": {
+            "header": "Что нужно сделать для обеспечения того, чтобы цель была «привязана по времени» в соответствии с методом SMART?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Чтобы гарантировать, что цель «с учетом сроков», вам необходимо установить предельные сроки и даты для этапов.",
+            "tips": "Вам следует избегать таких фраз, как «как можно быстрее» и использовать определенные временные рамки (например, три месяца, две недели и т. Д.).",
+            "clue": "Выньте свой календарь!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1lN4GETE": "Установите конечный срок",
+            "choice_E1MENfN6V": "Решить последствия в случае задержки",
+            "choice_4JmV4zE6N": "Планируйте новую цель",
+            "choice_VJg7V4M4aV": "Установить даты для этапов"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O que deve ser feito para garantir que um objetivo seja “limitado no tempo” de acordo com o método SMART?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Para garantir que o objetivo seja “limite de tempo”, você precisa definir prazos e datas para os marcos.",
+            "tips": "Você deve evitar frases como \"o mais rápido possível\" e usar intervalos de tempo específicos (por exemplo, três meses, duas semanas, etc.).",
+            "clue": "Pegue o seu calendário!",
+            "choice_V1lN4GETE": "Definir um prazo",
+            "choice_E1MENfN6V": "Decidir sobre as consequências em caso de atraso",
+            "choice_4JmV4zE6N": "Planeje um novo objetivo",
+            "choice_VJg7V4M4aV": "Definir datas para marcos"
+        },
+        "zh": {
+            "header": "根据SMART方法，应该做些什么来确保目标是“有时限的”？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "为了确保目标是“有时限”，您需要设置里程碑的截止日期和日期。",
+            "tips": "您应该避免诸如“尽快”之类的短语并使用特定的时间范围（例如三个月，两周等）。",
+            "clue": "拿出你的日历！",
+            "choice_V1lN4GETE": "设定截止日期",
+            "choice_E1MENfN6V": "在发生延误时决定后果",
+            "choice_4JmV4zE6N": "计划一个新目标",
+            "choice_VJg7V4M4aV": "设置里程碑的日期"
+        }
+    }
+}

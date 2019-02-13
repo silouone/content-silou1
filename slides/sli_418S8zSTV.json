@@ -1,0 +1,172 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T10:16:42.540Z",
+            "updatedAt": "2018-07-26T15:00:18.724Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "lealouis",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_418S8zSTV",
+        "universalRef": "sli_418S8zSTV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_418S8zSTV.choice_NJ7Y8zrTN.id",
+                        "label": "choice_NJ7Y8zrTN",
+                        "value": "choice_NJ7Y8zrTN"
+                    },
+                    {
+                        "id": "sli_418S8zSTV.choice_4JNt8GBa4.id",
+                        "label": "choice_4JNt8GBa4",
+                        "value": "choice_4JNt8GBa4"
+                    },
+                    {
+                        "id": "sli_418S8zSTV.choice_EJIF8MH64.id",
+                        "label": "choice_EJIF8MH64",
+                        "value": "choice_EJIF8MH64"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ7Y8zrTN",
+                        "choice_EJIF8MH64"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the manager’s role during the implementation stage?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "During the implementation stage, the manager’s role is not to “get their hands dirty” but rather to identify critical areas and sensitive issues for which they must be on the lookout.",
+            "tips": "Distance is essential for a manager. If you choose to assist in the implementation by working side by side with your employees, you may slow down the development of their autonomy.",
+            "clue": "Distance required.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ7Y8zrTN": "Identify critical areas",
+            "choice_4JNt8GBa4": "Work side by side with the team",
+            "choice_EJIF8MH64": "Identify sensitive topics"
+        },
+        "fr": {
+            "header": "Quel est le rôle du responsable dans la phase de mise en œuvre?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "Dans la phase de mise en œuvre, le rôle du responsable n’est pas de «se tacher» mais d’identifier les domaines clés et les questions sensibles sur lesquels il doit se concentrer.",
+            "tips": "La distance est cruciale pour le gestionnaire. Si vous choisissez de travailler côte à côte avec vos employés, vous risquez de ralentir votre autonomie.",
+            "clue": "La distance nécessaire.",
+            "choice_NJ7Y8zrTN": "Identifier les domaines clés",
+            "choice_4JNt8GBa4": "Travailler côte à côte avec l'équipe",
+            "choice_EJIF8MH64": "Identifier les sujets sensibles",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuál es el rol del gerente durante la etapa de implementación?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Durante la etapa de implementación, la función del gerente no es ensuciarse las manos, sino identificar las áreas críticas y los problemas delicados que deben vigilar.",
+            "tips": "La distancia es esencial para un gerente. Si decide ayudar en la implementación trabajando codo a codo con sus empleados, puede ralentizar el desarrollo de su autonomía.",
+            "clue": "Distancia requerida",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ7Y8zrTN": "Identificar áreas críticas",
+            "choice_4JNt8GBa4": "Trabajar codo a codo con el equipo",
+            "choice_EJIF8MH64": "Identificar temas delicados"
+        },
+        "it": {
+            "header": "Qual è il ruolo del manager durante la fase di implementazione?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Durante la fase di implementazione, il ruolo del manager non è quello di sporcarsi le mani ma piuttosto di identificare le aree critiche e i problemi sensibili per i quali devono stare alla ricerca.",
+            "tips": "La distanza è essenziale per un manager. Se scegli di assistere allimplementazione lavorando fianco a fianco con i tuoi dipendenti, puoi rallentare lo sviluppo della loro autonomia.",
+            "clue": "Distanza richiesta",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ7Y8zrTN": "Identifica le aree critiche",
+            "choice_4JNt8GBa4": "Lavora fianco a fianco con la squadra",
+            "choice_EJIF8MH64": "Identifica argomenti sensibili"
+        },
+        "de": {
+            "header": "What is the manager’s role during the implementation stage?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "During the implementation stage, the manager’s role is not to “get their hands dirty” but rather to identify critical areas and sensitive issues for which they must be on the lookout.",
+            "tips": "Distance is essential for a manager. If you choose to assist in the implementation by working side by side with your employees, you may slow down the development of their autonomy.",
+            "clue": "Distance required.",
+            "choice_NJ7Y8zrTN": "Identify critical areas",
+            "choice_4JNt8GBa4": "Work side by side with the team",
+            "choice_EJIF8MH64": "Identify sensitive topics",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "구현 단계에서 관리자의 역할은 무엇입니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "구현 단계에서 관리자의 역할은 손을 더럽게하는 것이 아니라 경계 영역에 있어야하는 중요한 영역과 민감한 문제를 식별하는 것입니다.",
+            "tips": "거리는 관리자에게 필수적입니다. 직원과 나란히 작업하여 구현을 돕기로 선택하면 자신의 자율성 개발 속도를 늦출 수 있습니다.",
+            "clue": "필요한 거리.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ7Y8zrTN": "중요 영역 식별",
+            "choice_4JNt8GBa4": "팀과 나란히 작업하십시오.",
+            "choice_EJIF8MH64": "민감한 주제 식별"
+        },
+        "ru": {
+            "header": "Какова роль менеджера на этапе внедрения?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "На этапе реализации роль менеджера заключается не в том, чтобы «замарать руки», а скорее для определения критических областей и чувствительных вопросов, для которых они должны быть в поиске.",
+            "tips": "Расстояние важно для менеджера. Если вы решите помочь в реализации, работая бок о бок со своими сотрудниками, вы можете замедлить развитие их автономии.",
+            "clue": "Требуется расстояние.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ7Y8zrTN": "Определение критических областей",
+            "choice_4JNt8GBa4": "Работать бок о бок с командой",
+            "choice_EJIF8MH64": "Определение чувствительных тем"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Qual é o papel do gerente durante o estágio de implementação?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Durante o estágio de implementação, o papel do gerente não é “sujar as mãos”, mas sim identificar áreas críticas e questões sensíveis para as quais eles devem estar atentos.",
+            "tips": "Distância é essencial para um gerente. Se você optar por ajudar na implementação trabalhando lado a lado com seus funcionários, poderá desacelerar o desenvolvimento de sua autonomia.",
+            "clue": "Distância necessária.",
+            "choice_NJ7Y8zrTN": "Identifique áreas críticas",
+            "choice_4JNt8GBa4": "Trabalhe lado a lado com a equipe",
+            "choice_EJIF8MH64": "Identifique tópicos sensíveis"
+        },
+        "zh": {
+            "header": "经理在实施阶段的角色是什么？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "在实施阶段，经理的角色不是“弄脏自己”，而是要确定他们必须关注的关键领域和敏感问题。",
+            "tips": "距离对经理来说至关重要。如果您选择通过与员工并肩协助实施，您可能会减慢其自主权的发展速度。",
+            "clue": "需要的距离。",
+            "choice_NJ7Y8zrTN": "确定关键领域",
+            "choice_4JNt8GBa4": "与团队并肩工作",
+            "choice_EJIF8MH64": "识别敏感话题"
+        }
+    }
+}

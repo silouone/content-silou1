@@ -1,0 +1,202 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T16:55:51.698Z",
+            "updatedAt": "2018-07-26T12:27:31.946Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4Jaw~oKhE",
+        "universalRef": "sli_4Jaw~oKhE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4Jaw~oKhE.choice_4JlKWsKn4.id",
+                        "label": "choice_4JlKWsKn4",
+                        "value": "choice_4JlKWsKn4"
+                    },
+                    {
+                        "id": "sli_4Jaw~oKhE.choice_EyWF~jF2E.id",
+                        "label": "choice_EyWF~jF2E",
+                        "value": "choice_EyWF~jF2E"
+                    },
+                    {
+                        "id": "sli_4Jaw~oKhE.choice_VkGKZjFhE.id",
+                        "label": "choice_VkGKZjFhE",
+                        "value": "choice_VkGKZjFhE"
+                    },
+                    {
+                        "id": "sli_4Jaw~oKhE.choice_4kmtWot2E.id",
+                        "label": "choice_4kmtWot2E",
+                        "value": "choice_4kmtWot2E"
+                    },
+                    {
+                        "id": "sli_4Jaw~oKhE.choice_E1EK~jF3E.id",
+                        "label": "choice_E1EK~jF3E",
+                        "value": "choice_E1EK~jF3E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JlKWsKn4",
+                        "choice_VkGKZjFhE",
+                        "choice_4kmtWot2E",
+                        "choice_E1EK~jF3E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should the manager do to ensure that the teams actions are well planned?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "In order to plan the actions to be taken, the manager should define the team’s objectives, identify the work to be done and the procedures to be implemented, quantify the human resources required and finally decide on who does what.",
+            "tips": "The objectives should be defined in terms of quality, quantity, deadlines and costs.",
+            "clue": "Don’t put a lump of coal in their stocking!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JlKWsKn4": "Quantify the required resources",
+            "choice_EyWF~jF2E": "Decide on proper consequences",
+            "choice_VkGKZjFhE": "Identify the work to be done",
+            "choice_4kmtWot2E": "Decide on who does what",
+            "choice_E1EK~jF3E": "Define the team’s objectives"
+        },
+        "fr": {
+            "header": "Que doit faire le responsable pour s'assurer que les actions de l'équipe sont correctement planifiées?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "Afin de planifier les actions à entreprendre, le responsable doit définir les objectifs de l’équipe, déterminer le travail à effectuer et les procédures à mettre en œuvre, quantifier les ressources humaines requises et enfin décider qui a fait quoi.",
+            "tips": "Les objectifs doivent être déterminés en fonction de la qualité, de la quantité, de la durée et du coût.",
+            "clue": "Ne mettez pas un morceau de charbon sur leurs bas!",
+            "choice_4JlKWsKn4": "Quantifier les ressources nécessaires",
+            "choice_EyWF~jF2E": "Déterminer les conséquences appropriées",
+            "choice_VkGKZjFhE": "Détermine ce que tu veux faire",
+            "choice_4kmtWot2E": "Décider qui a fait quoi",
+            "choice_E1EK~jF3E": "Définir les objectifs de l'équipe",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Qué debe hacer el gerente para garantizar que las acciones del equipo estén bien planificadas?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Para planificar las acciones a tomar, el gerente debe definir los objetivos del equipo, identificar el trabajo a realizar y los procedimientos a implementar, cuantificar los recursos humanos requeridos y finalmente decidir quién hace qué.",
+            "tips": "Los objetivos deben definirse en términos de calidad, cantidad, plazos y costos.",
+            "clue": "¡No pongas un trozo de carbón en su media!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JlKWsKn4": "Cuantifique los recursos requeridos",
+            "choice_EyWF~jF2E": "Decide las consecuencias apropiadas",
+            "choice_VkGKZjFhE": "Identificar el trabajo a realizar",
+            "choice_4kmtWot2E": "Decida quién hace qué",
+            "choice_E1EK~jF3E": "Definir los objetivos del equipo"
+        },
+        "it": {
+            "header": "Cosa dovrebbe fare il manager per garantire che le azioni del team siano ben pianificate?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Al fine di pianificare le azioni da intraprendere, il manager deve definire gli obiettivi del team, identificare il lavoro da svolgere e le procedure da attuare, quantificare le risorse umane richieste e infine decidere chi fa cosa.",
+            "tips": "Gli obiettivi dovrebbero essere definiti in termini di qualità, quantità, termini e costi.",
+            "clue": "Non mettere un pezzo di carbone nella loro calza!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JlKWsKn4": "Quantificare le risorse richieste",
+            "choice_EyWF~jF2E": "Decidi le conseguenze appropriate",
+            "choice_VkGKZjFhE": "Identifica il lavoro da fare",
+            "choice_4kmtWot2E": "Decidi su chi fa cosa",
+            "choice_E1EK~jF3E": "Definire gli obiettivi della squadra"
+        },
+        "de": {
+            "header": "What should the manager do to ensure that the teams actions are well planned?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "In order to plan the actions to be taken, the manager should define the team’s objectives, identify the work to be done and the procedures to be implemented, quantify the human resources required and finally decide on who does what.",
+            "tips": "The objectives should be defined in terms of quality, quantity, deadlines and costs.",
+            "clue": "Don’t put a lump of coal in their stocking!",
+            "choice_4JlKWsKn4": "Quantify the required resources",
+            "choice_EyWF~jF2E": "Decide on proper consequences",
+            "choice_VkGKZjFhE": "Identify the work to be done",
+            "choice_4kmtWot2E": "Decide on who does what",
+            "choice_E1EK~jF3E": "Define the team’s objectives",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "팀의 행동 계획을 잘 수립하기 위해 관리자는 무엇을해야합니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "수행 할 행동을 계획하기 위해 관리자는 팀의 목표를 정의하고 수행 할 작업과 수행 할 절차를 식별하고 필요한 인적 자원을 계량화하며 누가 무엇을하는지 결정해야합니다.",
+            "tips": "목표는 품질, 수량, 마감일 및 비용 측면에서 정의되어야합니다.",
+            "clue": "그들의 스타킹에 석탄 덩어리를 넣지 마십시오!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JlKWsKn4": "필요한 자원을 정량화하십시오.",
+            "choice_EyWF~jF2E": "적절한 결과 결정",
+            "choice_VkGKZjFhE": "수행 할 작업 식별",
+            "choice_4kmtWot2E": "누가 무엇을하는지 결정하십시오.",
+            "choice_E1EK~jF3E": "팀의 목표를 정의하십시오."
+        },
+        "ru": {
+            "header": "Что должен сделать менеджер для обеспечения того, чтобы действия команды были хорошо спланированы?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Чтобы планировать действия, которые необходимо предпринять, менеджер должен определить цели команды, определить выполняемую работу и внедряемые процедуры, количественно оценить требуемые человеческие ресурсы и, наконец, принять решение о том, кто что делает.",
+            "tips": "Цели должны определяться с точки зрения качества, количества, сроков и затрат.",
+            "clue": "Не кладите кусок угля в чулок!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JlKWsKn4": "Определить требуемые ресурсы",
+            "choice_EyWF~jF2E": "Определите правильные последствия",
+            "choice_VkGKZjFhE": "Определите работу, которую необходимо выполнить",
+            "choice_4kmtWot2E": "Решите, кто что делает",
+            "choice_E1EK~jF3E": "Определите цели команды"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O que o gerente deve fazer para garantir que as ações das equipes sejam bem planejadas?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Para planejar as ações a serem tomadas, o gerente deve definir os objetivos da equipe, identificar o trabalho a ser executado e os procedimentos a serem implementados, quantificar os recursos humanos necessários e, finalmente, decidir quem faz o quê.",
+            "tips": "Os objetivos devem ser definidos em termos de qualidade, quantidade, prazos e custos.",
+            "clue": "Não coloque um pedaço de carvão em sua meia!",
+            "choice_4JlKWsKn4": "Quantifique os recursos necessários",
+            "choice_EyWF~jF2E": "Decida as consequências apropriadas",
+            "choice_VkGKZjFhE": "Identifique o trabalho a ser feito",
+            "choice_4kmtWot2E": "Decida quem faz o quê",
+            "choice_E1EK~jF3E": "Definir os objetivos da equipe"
+        },
+        "zh": {
+            "header": "经理应该做些什么来确保团队的行动得到妥善规划？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "为了规划要采取的行动，经理应该确定团队的目标，确定要完成的工作和要实施的程序，量化所需的人力资源，最后决定谁做了什么。",
+            "tips": "应根据质量，数量，期限和成本来确定目标。",
+            "clue": "不要在他们的长袜上放一块煤！",
+            "choice_4JlKWsKn4": "量化所需的资源",
+            "choice_EyWF~jF2E": "确定适当的后果",
+            "choice_VkGKZjFhE": "确定要完成的工作",
+            "choice_4kmtWot2E": "决定谁做了什么",
+            "choice_E1EK~jF3E": "定义团队的目标"
+        }
+    }
+}

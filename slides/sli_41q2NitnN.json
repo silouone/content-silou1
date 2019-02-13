@@ -1,0 +1,184 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T17:09:49.722Z",
+            "updatedAt": "2018-08-10T09:03:35.598Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_41q2NitnN",
+        "universalRef": "sli_41q2NitnN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41q2NitnN.choice_V1M0EsKh4.id",
+                        "label": "choice_V1M0EsKh4",
+                        "value": "choice_V1M0EsKh4"
+                    },
+                    {
+                        "id": "sli_41q2NitnN.choice_V14RNjY3V.id",
+                        "label": "choice_V14RNjY3V",
+                        "value": "choice_V14RNjY3V"
+                    },
+                    {
+                        "id": "sli_41q2NitnN.choice_NyHREsYhV.id",
+                        "label": "choice_NyHREsYhV",
+                        "value": "choice_NyHREsYhV"
+                    },
+                    {
+                        "id": "sli_41q2NitnN.choice_NkxHCNsK3E.id",
+                        "label": "choice_NkxHCNsK3E",
+                        "value": "choice_NkxHCNsK3E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyHREsYhV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the purpose of the performance table implemented by the manager?",
+            "explanation": "Select the correct answer.",
+            "klf": "The performance board helps you see any differences between the results and the objectives. It is an effective management indicator.",
+            "tips": "Early indicators allow for monitoring of deviations and trends and predict results.",
+            "clue": "Huge differences are forbidden...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1M0EsKh4": "Show that they are a modern manager",
+            "choice_V14RNjY3V": "Monitor where team members are at all times",
+            "choice_NyHREsYhV": "See the differences between the results and the objectives",
+            "choice_NkxHCNsK3E": "Enable team members to share their results directly"
+        },
+        "fr": {
+            "header": "Quel est le but du modèle de performance mis en place par le responsable?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Le tableau de bord vous aide à voir les différences entre les résultats et les objectifs. C'est un indicateur de gestion efficace.",
+            "tips": "Les premiers indicateurs peuvent suivre les déviations et les tendances et prévoir les résultats.",
+            "clue": "Grandes différences interdites ...",
+            "choice_V1M0EsKh4": "Indiquez qu'ils sont des gestionnaires modernes",
+            "choice_V14RNjY3V": "Surveillez l'emplacement des membres de l'équipe à tout moment",
+            "choice_NyHREsYhV": "Voir la différence entre les résultats et les objectifs",
+            "choice_NkxHCNsK3E": "Permettre aux membres de l'équipe de partager leurs résultats directement",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuál es el propósito de la tabla de desempeño implementada por el gerente?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "El tablero de rendimiento le ayuda a ver las diferencias entre los resultados y los objetivos. Es un indicador de gestión efectivo.",
+            "tips": "Los primeros indicadores permiten monitorear las desviaciones y tendencias y predecir los resultados.",
+            "clue": "Enormes diferencias están prohibidas ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1M0EsKh4": "Demuestre que es un gerente moderno",
+            "choice_V14RNjY3V": "Monitoree dónde están los miembros del equipo en todo momento",
+            "choice_NyHREsYhV": "Ver las diferencias entre los resultados y los objetivos",
+            "choice_NkxHCNsK3E": "Permitir que los miembros del equipo compartan sus resultados directamente"
+        },
+        "it": {
+            "header": "Qual è lo scopo della tabella delle prestazioni implementata dal gestore?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Il pannello delle prestazioni ti aiuta a vedere eventuali differenze tra i risultati e gli obiettivi. È un indicatore di gestione efficace.",
+            "tips": "Gli indicatori precoci consentono di monitorare le deviazioni e le tendenze e prevedere i risultati.",
+            "clue": "Enormi differenze sono vietate ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1M0EsKh4": "Mostra che sono un manager moderno",
+            "choice_V14RNjY3V": "Monitora dove i membri del team sono sempre",
+            "choice_NyHREsYhV": "Guarda le differenze tra i risultati e gli obiettivi",
+            "choice_NkxHCNsK3E": "Consenti ai membri del team di condividere i loro risultati direttamente"
+        },
+        "de": {
+            "header": "What is the purpose of the performance table implemented by the manager?",
+            "explanation": "Select the correct answer.",
+            "klf": "The performance board helps you see any differences between the results and the objectives. It is an effective management indicator.",
+            "tips": "Early indicators allow for monitoring of deviations and trends and predict results.",
+            "clue": "Huge differences are forbidden...",
+            "choice_V1M0EsKh4": "Show that they are a modern manager",
+            "choice_V14RNjY3V": "Monitor where team members are at all times",
+            "choice_NyHREsYhV": "See the differences between the results and the objectives",
+            "choice_NkxHCNsK3E": "Enable team members to share their results directly",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "관리자가 구현 한 성능 테이블의 목적은 무엇입니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "성능 보드는 결과와 목표 사이의 차이를 확인하는 데 도움이됩니다. 효과적인 관리 지표입니다.",
+            "tips": "초기 지표는 편차 및 추세를 모니터링하고 결과를 예측할 수있게합니다.",
+            "clue": "거대한 차이는 금지되어 있습니다 ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1M0EsKh4": "그들이 현대적인 매니저임을 보여라.",
+            "choice_V14RNjY3V": "팀 구성원이 항상있는 위치를 모니터링합니다.",
+            "choice_NyHREsYhV": "결과와 목표의 차이점보기",
+            "choice_NkxHCNsK3E": "팀 구성원이 직접 결과를 공유 할 수 있도록 설정"
+        },
+        "ru": {
+            "header": "Какова цель таблицы производительности, реализованной менеджером?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Платформа производительности позволяет увидеть различия между результатами и целями. Это эффективный индикатор управления.",
+            "tips": "Ранние индикаторы позволяют отслеживать отклонения и тенденции и прогнозировать результаты.",
+            "clue": "Огромные различия запрещены ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1M0EsKh4": "Покажите, что они современный менеджер",
+            "choice_V14RNjY3V": "Контролируйте, где члены команды всегда",
+            "choice_NyHREsYhV": "См. Различия между результатами и целями",
+            "choice_NkxHCNsK3E": "Разрешить членам команды напрямую делиться своими результатами"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Qual é o objetivo da tabela de desempenho implementada pelo gerente?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "A placa de desempenho ajuda você a ver quaisquer diferenças entre os resultados e os objetivos. É um indicador de gestão eficaz.",
+            "tips": "Os indicadores iniciais permitem o monitoramento de desvios e tendências e prevêem resultados.",
+            "clue": "Grandes diferenças são proibidas ...",
+            "choice_V1M0EsKh4": "Mostre que eles são um gerente moderno",
+            "choice_V14RNjY3V": "Monitore onde os membros da equipe estão em todos os momentos",
+            "choice_NyHREsYhV": "Veja as diferenças entre os resultados e os objetivos",
+            "choice_NkxHCNsK3E": "Permita que os membros da equipe compartilhem seus resultados diretamente"
+        },
+        "zh": {
+            "header": "经理实施的绩效表的目的是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "性能板可帮助您查看结果与目标之间的任何差异。这是一个有效的管理指标。",
+            "tips": "早期指标可以监测偏差和趋势并预测结果。",
+            "clue": "禁止巨大的分歧......",
+            "choice_V1M0EsKh4": "表明他们是现代经理",
+            "choice_V14RNjY3V": "随时监控团队成员的位置",
+            "choice_NyHREsYhV": "查看结果与目标之间的差异",
+            "choice_NkxHCNsK3E": "使团队成员可以直接分享他们的结果"
+        }
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T17:14:49.556Z",
+            "updatedAt": "2018-05-04T07:41:51.227Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_VyRrIiK2E",
+        "universalRef": "sli_VyRrIiK2E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel61197",
+                        "label": "label_EksvIjt3V",
+                        "items": [
+                            {
+                                "text": "choice_NJ3DUoF3V",
+                                "value": "choice_NJ3DUoF3V"
+                            },
+                            {
+                                "text": "choice_4JxhwLotnE",
+                                "value": "choice_4JxhwLotnE"
+                            },
+                            {
+                                "text": "choice_41TDUjFn4",
+                                "value": "choice_41TDUjFn4"
+                            },
+                            {
+                                "text": "choice_E1XKN~Na4",
+                                "value": "choice_E1XKN~Na4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel61197",
+                        "answers": [
+                            "choice_4JxhwLotnE"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Par quoi un tableau de bord peut-il être complété ou enrichi ?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "Un système de pilotage peut être enrichi par un dispositif de veille, qui permet de récolter des données sur lenvironnement.",
+            "tips": "On distingue souvent quatre types de veille : stratégique, économique, juridique et technologique.",
+            "clue": "Anti sommeil…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel61197}}",
+            "label_EksvIjt3V": "",
+            "choice_NJ3DUoF3V": "Un dispositif de sanctions",
+            "choice_4JxhwLotnE": "Un dispositif de veille",
+            "choice_41TDUjFn4": "Un autre tableau de bord",
+            "choice_E1XKN~Na4": "Il se suffit à lui-même"
+        },
+        "fr": {
+            "header": "Comment compléter ou enrichir le tableau de bord?",
+            "explanation": "Entrez votre réponse ou choisissez la bonne réponse dans le menu déroulant.",
+            "klf": "Le système de contrôle peut être enrichi par un dispositif de surveillance permettant de collecter des données sur l'environnement.",
+            "tips": "Il existe généralement quatre types de veille: stratégie, économie, droit et technologie.",
+            "clue": "Anti-sommeil ...",
+            "template": "{{sel61197}}",
+            "choice_NJ3DUoF3V": "Les sanctions",
+            "choice_4JxhwLotnE": "Montre dispositif",
+            "choice_41TDUjFn4": "Un autre tableau de bord",
+            "choice_E1XKN~Na4": "Il est autonome",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_EksvIjt3V": ""
+        },
+        "es": {
+            "header": "Par quoi un tableau de bord peut-il être complété ou enrichi?",
+            "explanation": "Escriba su respuesta o seleccione la respuesta correcta en el menú desplegable.",
+            "klf": "Un sistema de pilotaje para el personal enriquecido por un dispositivo de seguridad, quí permet de récolter des données sur lenvironnement.",
+            "tips": "En distingue souvent quatre types de veille: stratégique, économique, juridique et technologique.",
+            "clue": "Anti sommeil ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel61197}}",
+            "label_EksvIjt3V": " ",
+            "choice_NJ3DUoF3V": "Un dispositif de sanctions",
+            "choice_4JxhwLotnE": "Un dispositif de veille",
+            "choice_41TDUjFn4": "Un autre tableau de bord",
+            "choice_E1XKN~Na4": "Il se suffit à lui-même"
+        },
+        "it": {
+            "header": "Par quoi un tableau de bord peut-il être complété ou enrichi?",
+            "explanation": "Digitare la risposta o selezionare la risposta corretta nei menu a discesa.",
+            "klf": "Un système de pilotage peut être enrichi par un dispositif de veille, qui permet de récolter des données sur lenvironnement.",
+            "tips": "Sulla distinzione souven quatre types de veille: stratégique, économique, juridique et technologique.",
+            "clue": "Anti sommeil ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel61197}}",
+            "label_EksvIjt3V": " ",
+            "choice_NJ3DUoF3V": "Un dispositif de sanctions",
+            "choice_4JxhwLotnE": "Un dispositif de veille",
+            "choice_41TDUjFn4": "Un autre tableau de bord",
+            "choice_E1XKN~Na4": "Il se suffit à lui-même"
+        },
+        "de": {
+            "header": "Par quoi un tableau de bord peut-il être complété ou enrichi ?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "Un système de pilotage peut être enrichi par un dispositif de veille, qui permet de récolter des données sur lenvironnement.",
+            "tips": "On distingue souvent quatre types de veille : stratégique, économique, juridique et technologique.",
+            "clue": "Anti sommeil…",
+            "template": "{{sel61197}}",
+            "choice_NJ3DUoF3V": "Un dispositif de sanctions",
+            "choice_4JxhwLotnE": "Un dispositif de veille",
+            "choice_41TDUjFn4": "Un autre tableau de bord",
+            "choice_E1XKN~Na4": "Il se suffit à lui-même",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_EksvIjt3V": " "
+        },
+        "ko": {
+            "header": "뚜렷한 대조를 이루기는 힘들다.",
+            "explanation": "답을 입력하거나 드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "조종사는 조종사를 배웅하고, 조종사는 조종사를 배웅한다.",
+            "tips": "distingue souvent quatre types veille : stratégique, économique, juridique et technologique.",
+            "clue": "안티 소믈 ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel61197}}",
+            "label_EksvIjt3V": " ",
+            "choice_NJ3DUoF3V": "제재 처분",
+            "choice_4JxhwLotnE": "처분되지 않음",
+            "choice_41TDUjFn4": "Un autre tableau de bord",
+            "choice_E1XKN~Na4": "Il se는 à lui-même을 만족한다."
+        },
+        "ru": {
+            "header": "Par quoi un tableau de bord peut-il être complété ou enrichi?",
+            "explanation": "Введите свой ответ или выберите правильный ответ в выпадающем меню.",
+            "klf": "Un système de pilotage peut être enrichi par un dispositif de veille, qui permet de récolter des données sur lenvironnement.",
+            "tips": "В рассогласованных категориях quatre de veille: стратиграфия, экономика, юридическая и технологическая.",
+            "clue": "Anti sommeil ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel61197}}",
+            "label_EksvIjt3V": " ",
+            "choice_NJ3DUoF3V": "Устранение санкций",
+            "choice_4JxhwLotnE": "Un dispositif de veille",
+            "choice_41TDUjFn4": "Un autre tableau de bord",
+            "choice_E1XKN~Na4": "Il se suffit à lui-même"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Como um painel pode ser concluído ou enriquecido?",
+            "explanation": "Digite sua resposta ou selecione a resposta correta no (s) menu (s) suspenso (s).",
+            "klf": "Um sistema de controle pode ser enriquecido por um dispositivo de monitoramento, que permite coletar dados sobre o ambiente.",
+            "tips": "Muitas vezes há quatro tipos de relógio: estratégico, econômico, legal e tecnológico.",
+            "clue": "Anti sono ...",
+            "template": "{{sel61197}}",
+            "choice_NJ3DUoF3V": "Um dispositivo de sanções",
+            "choice_4JxhwLotnE": "Um dispositivo de relógio",
+            "choice_41TDUjFn4": "Outro painel",
+            "choice_E1XKN~Na4": "Ele é auto-suficiente"
+        },
+        "zh": {
+            "header": "如何完成或丰富仪表板？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "控制系统可以通过监视设备来丰富，该监视设备允许收集关于环境的数据。",
+            "tips": "通常有四种类型的手表：战略，经济，法律和技术。",
+            "clue": "反睡...",
+            "template": "{{sel61197}}",
+            "choice_NJ3DUoF3V": "制裁手段",
+            "choice_4JxhwLotnE": "手表设备",
+            "choice_41TDUjFn4": "另一个仪表板",
+            "choice_E1XKN~Na4": "他是自给自足的"
+        }
+    }
+}
