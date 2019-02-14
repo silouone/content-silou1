@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T14:18:37.838Z",
+            "updatedAt": "2018-10-12T14:58:48.997Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4k5~CCwSH",
+        "universalRef": "sli_4k5~CCwSH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4k5~CCwSH.field_Nk5LC0vSr.id",
+                        "type": "text",
+                        "name": "inp21053"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp21053",
+                        "answers": [
+                            "choice_VkGcU0ADBH",
+                            "choice_V1WtcsyLH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Grâce à quel procédé pouvez-vous gagner de nouveaux clients en mobilisant ceux qui sont déjà convaincus par votre produit ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Instaurer un système de parrainage entre clients permet d'élargir plus facilement votre clientèle, en mobilisant intelligemment les consommateurs déjà séduits par votre produit. En contrepartie de leur soutien, vous pouvez leur proposer des goodies, des réductions ou des bons plans.",
+            "tips": "Le parrainage est une stratégie marketing à part entière. C'est une opération de publicité à coût réduit.",
+            "clue": "Comme Al Pacino dans un film de Coppola…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La mise en place d'un système de {{inp21053}}",
+            "choice_VkGcU0ADBH": "parrainage",
+            "choice_V1WtcsyLH": "parrain"
+        },
+        "en": {
+            "header": "With what process can you win new customers by mobilizing those who are already convinced by your product?",
+            "explanation": "Enter your answer.",
+            "klf": "Establishing a system of sponsorship between customers makes it easier to expand your customer base by intelligently mobilizing consumers already seduced by your product. In return for their support, you can offer them goodies, discounts or great deals.",
+            "tips": "Sponsorship is a marketing strategy in its own right. It is a low cost advertising operation.",
+            "clue": "Like Al Pacino in a film of Coppola ...",
+            "template": "Setting up a {{inp21053}} system",
+            "choice_VkGcU0ADBH": "sponsorship",
+            "choice_V1WtcsyLH": "Godfather",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Wie können Sie neue Kunden gewinnen, indem Sie diejenigen mobilisieren, die Ihr Produkt bereits lieben?",
+            "explanation": "Geben Sie Ihre Antwort ein.",
+            "klf": "Durch die Einrichtung eines Empfehlungssystems können Sie Ihren Kundenstamm auf einfache Weise erweitern, indem Sie Verbraucher mobilisieren, die Ihr Produkt bereits lieben. Im Gegenzug für ihre Unterstützung können Sie ihnen Goodies, Rabatte oder Sonderangebote anbieten.",
+            "tips": "Referral ist eine eigene Marketingstrategie. Es ist eine kostengünstige Werbekampagne.",
+            "clue": "Etwas, das Ihr Hausarzt tun kann, wenn Sie einen Spezialisten suchen ...",
+            "template": "Richten Sie ein {{inp21053}} -System ein",
+            "choice_VkGcU0ADBH": "Verweisung",
+            "choice_V1WtcsyLH": "Rezension",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Type in your answer.",
+            "header": "How can you attract new customers by mobilising those who already love your product?",
+            "klf": "Setting up a referral system is an easy way of expanding your customer base by mobilising consumers who already love your product. In return for their support, you can offer them goodies, discounts or special deals.",
+            "tips": "Referral is a marketing strategy in its own right. It is a low-cost advertising campaign.",
+            "clue": "Something your GP might do if you need to see a specialist...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Set up a {{inp21053}} system",
+            "choice_VkGcU0ADBH": "referral",
+            "choice_V1WtcsyLH": "review"
+        },
+        "zh": {
+            "header": "如何通过动员那些已经爱你的产品的人来吸引新客户？",
+            "explanation": "输入你的答案。",
+            "klf": "建立推荐系统是通过动员已经爱好您产品的消费者来扩展您的客户群的简单方法。作为对他们的支持，您可以为他们提供好东西，折扣或特价优惠。",
+            "tips": "推荐本身就是一种营销策略。这是一项低成本的广告活动。",
+            "clue": "如果你需要看专科医生，你的全科医生可能会做些什么......",
+            "template": "设置{{inp21053}}系统",
+            "choice_VkGcU0ADBH": "转诊",
+            "choice_V1WtcsyLH": "评论",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-19T18:50:13.818Z",
+            "updatedAt": "2018-10-12T15:12:13.556Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyVAT~t4r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4JKS9iG8B",
+        "universalRef": "sli_4JKS9iG8B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JKS9iG8B.choice_NJx7PnmILS.id",
+                        "label": "choice_NJx7PnmILS",
+                        "value": "choice_NJx7PnmILS",
+                        "media": "med_VJXvnmIIH"
+                    },
+                    {
+                        "id": "sli_4JKS9iG8B.choice_EyxNw3XLUS.id",
+                        "label": "choice_EyxNw3XLUS",
+                        "value": "choice_EyxNw3XLUS",
+                        "media": "med_V1ND3mLLB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyxNw3XLUS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Votre produit doit être impérativement au cœur de votre stratégie de storytelling. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un bon storytelling met en avant plus qu’un produit. L’objectif est de proposer une expérience de marque et construire son identité, voire son mythe. C'est ce qu'a fait Coca-Cola en vendant une philosophie du bonheur accessible, et non pas un simple soda.",
+            "tips": "En novembre 2012, Coca-Cola a lancé un site sur le modèle d'un magazine online : Coca-Cola Journey. Des anecdotes sur l'entreprise, sa création, ses engagements y sont narrées dans 15 langues différentes.",
+            "clue": "Il ne s'agit pas d'une pub…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJx7PnmILS": "Vrai",
+            "choice_EyxNw3XLUS": "Faux"
+        },
+        "en": {
+            "header": "Your product must be at the heart of your storytelling strategy. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "A good storytelling puts forward more than just a product. The goal is to offer a brand experience and build its identity, even its myth. That's what Coca-Cola did by selling a philosophy of accessible happiness, not just a soda.",
+            "tips": "In November 2012, Coca-Cola launched a site on the model of an online magazine: Coca-Cola Journey. Anecdotes about the company, its creation, its commitments are narrated in 15 different languages.",
+            "clue": "This is not an advertisement ...",
+            "choice_NJx7PnmILS": "True",
+            "choice_EyxNw3XLUS": "False",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Ihr Produkt muss im Mittelpunkt Ihrer Storytelling-Strategie stehen. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Richtiges Storytelling unterstreicht mehr als nur das Produkt. Ziel ist es, ein Markenerlebnis zu bieten und seine Identität oder sogar seine Legende aufzubauen. Dies gelang Coca-Cola durch den Verkauf einer erreichbaren Glücksphilosophie und nicht nur durch ein alkoholfreies Getränk.",
+            "tips": "Im November 2012 startete Coca-Cola eine Website in Form eines Online-Magazins: Coca-Cola Journey. Anekdoten über das Unternehmen, seine Gründung und seine Verpflichtungen werden in 15 verschiedenen Sprachen erzählt.",
+            "clue": "Es ist keine Anzeige ...",
+            "choice_NJx7PnmILS": "Wahr",
+            "choice_EyxNw3XLUS": "Falsch",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "Your product must be at the core of your storytelling strategy. True or false?",
+            "klf": "Proper storytelling highlights more than just the product. The goal is to offer a brand experience and to build its identity, or even its legend. This is what Coca-Cola managed to achieve by selling an attainable philosophy of happiness, rather than simply a soft drink.",
+            "tips": "In November 2012, Coca-Cola launched a website in the form of an online magazine: Coca-Cola Journey. Anecdotes about the company, its foundation and commitments are narrated in 15 different languages.",
+            "clue": "It’s not an ad...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJx7PnmILS": "True",
+            "choice_EyxNw3XLUS": "False"
+        },
+        "zh": {
+            "header": "您的产品必须是讲故事策略的核心。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "正确的讲故事不仅仅关注产品。目标是提供品牌体验并建立自己的身份，甚至是传奇。这就是可口可乐通过销售可实现的幸福哲学而不仅仅是软饮料而实现的目标。",
+            "tips": "2012年11月，可口可乐以在线杂志“可口可乐之旅”的形式推出了一个网站。关于公司，其基础和承诺的轶事用15种不同的语言叙述。",
+            "clue": "这不是广告......",
+            "choice_NJx7PnmILS": "真正",
+            "choice_EyxNw3XLUS": "假",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

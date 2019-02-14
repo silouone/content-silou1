@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-21T14:09:39.795Z",
+            "updatedAt": "2018-10-12T15:27:26.426Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41BgCWKNS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_41X-uWSIH",
+        "universalRef": "sli_41X-uWSIH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41X-uWSIH.choice_Ny3q5~SIS.id",
+                        "label": "choice_Ny3q5~SIS",
+                        "value": "choice_Ny3q5~SIS"
+                    },
+                    {
+                        "id": "sli_41X-uWSIH.choice_4kyZsZSLS.id",
+                        "label": "choice_4kyZsZSLS",
+                        "value": "choice_4kyZsZSLS"
+                    },
+                    {
+                        "id": "sli_41X-uWSIH.choice_Vka7sWSLH.id",
+                        "label": "choice_Vka7sWSLH",
+                        "value": "choice_Vka7sWSLH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vka7sWSLH"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_E1tHIZMDH",
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la familiarisez-vous avec votre marque et le produit qu'elle devra représenter ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "L'erreur fréquente consiste à s'adresser à un influenceur comme à un journaliste. Or ce n'est pas un communiqué de presse classique dont il a besoin, mais un brief clair et complet, dynamique, qui \"lui parle\". À vous d'employer le bon ton pour l'embarquer dans l'histoire de votre produit. En complément, envoyez-lui le produit à tester, si possible.",
+            "tips": "Nombre d'influenceurs sont trop sollicités par les marques. C'est ce que ressentent 72 % des blogueurs s'adressant à un lectorat B2B, selon une étude de Cision menée auprès de 365 blogueurs français en 2017.",
+            "clue": "Ni trop formel, ni trop succinct.",
+            "context_title": "Communiquer avec un influenceur",
+            "context_description": "Lina, 25 ans, est une \"YouTubeuse\" très active dans le secteur du numérique. Développeuse dans une start-up, elle connaît son sujet sur le bout des doigts. Elle serait la parfaite ambassadrice de votre nouvelle tablette.",
+            "context_media_description": "",
+            "choice_Ny3q5~SIS": "Vous lui transmettez le dossier de presse que vous avez déjà envoyé aux magazines spécialisés",
+            "choice_4kyZsZSLS": "Vous lui envoyez un mail d'une dizaine de lignes l'invitant à aller voir ce qui se trouve sur votre site web",
+            "choice_Vka7sWSLH": "Vous préparez un brief personnalisé et contenant les informations techniques indispensables",
+            "choice_N1MKs~BIr": "Vous lui faites parvenir une tablette afin qu'elle puisse se faire sa propre idée",
+            "choice_EkOx2bHIS": "Vous lui précisez par téléphone la date de mise en vente des nouveaux vernis et l'invitez à aller acheter quelques produits"
+        },
+        "en": {
+            "header": "How do you familiarize her with your brand and the product it will have to represent?",
+            "explanation": "Select the correct answer.",
+            "klf": "The common mistake is to approach an influencer as a journalist. But this is not a classic press release he needs, but a clear and complete brief, dynamic, that \"speaks to him\". It's up to you to use the right tone to embark on the story of your product. In addition, send him the product to test, if possible.",
+            "tips": "Many influencers are too busy with brands. That's what 72% of bloggers are saying to a B2B readership, according to a Cision study conducted among 365 French bloggers in 2017.",
+            "clue": "Neither too formal nor too succinct.",
+            "context_title": "Communicating with an influencer",
+            "context_description": "Lina, 25, is a \"YouTubeuse\" very active in the digital sector. Developer in a start-up, she knows her subject on the fingertips. She would be the perfect ambassador for your new tablet.",
+            "choice_Ny3q5~SIS": "You send him the press kit that you have already sent to the specialized magazines",
+            "choice_4kyZsZSLS": "You send him an email of a dozen lines inviting him to go see what is on your website",
+            "choice_Vka7sWSLH": "You prepare a personalized brief containing the essential technical information",
+            "context_media_description": "",
+            "choice_N1MKs~BIr": "Vous lui faites parvenir une tablette afin qu'elle puisse se faire sa propre idée",
+            "choice_EkOx2bHIS": "Vous lui précisez par téléphone la date de mise en vente des nouveaux vernis et l'invitez à aller acheter quelques produits"
+        },
+        "de": {
+            "header": "Wie sollten Sie sie mit Ihrer Marke und dem Produkt, das sie repräsentieren soll, kennenlernen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Ein häufiger Fehler besteht darin, einen Influencer so anzusprechen, als ob er Journalist wäre. Sie brauchen keine klassische Pressemitteilung, sondern eine klare, umfassende und schlagkräftige Anweisung, auf die sich der Influencer beziehen kann. Sie müssen den richtigen Ton verwenden, um den Hintergrund Ihres Produkts zu erläutern. Wenn möglich, sollten Sie ihnen auch ein Produkt zum Testen zusenden.",
+            "tips": "Viele Influencer erhalten zu viele Anfragen von Marken. Dies ist die Meinung von 72% der Blogger, die mit einem B2B-Publikum arbeiten, laut einer Studie von Cision von 365 französischen Bloggern aus dem Jahr 2017.",
+            "clue": "Weder zu formal noch zu kurz.",
+            "context_title": "Kommunikation mit einem Influencer",
+            "context_description": "Die 25-jährige Lina ist eine \"YouTuber\", die in der digitalen Welt sehr aktiv ist. Sie ist Entwicklerin in einem Startup und kennt ihr Gebiet in- und auswendig. Sie wäre der perfekte Botschafter für Ihr neues Tablet.",
+            "choice_Ny3q5~SIS": "Sie senden ihnen die Pressemappe, die Sie an Fachzeitschriften geschickt haben",
+            "choice_4kyZsZSLS": "Sie senden ihnen eine zehnzeilige E-Mail, in der sie aufgefordert werden, Ihre Website abzurufen",
+            "choice_Vka7sWSLH": "Sie erstellen einen individuellen Brief mit allen wichtigen technischen Informationen",
+            "context_media_description": "",
+            "choice_N1MKs~BIr": "Vous lui faites parvenir une tablette afin qu'elle puisse se faire sa propre idée",
+            "choice_EkOx2bHIS": "Vous lui précisez par téléphone la date de mise en vente des nouveaux vernis et l'invitez à aller acheter quelques produits"
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "How should you familiarise her with your brand and the product she is supposed to represent?",
+            "klf": "A common mistake is to address an influencer as if he or she were a journalist. You don’t need a classic press release, but a clear, comprehensive and punchy brief that the influencer can relate to. You need to use the right tone when explaining your product’s background. If possible, you should also send them a product to test.",
+            "tips": "Many influencers receive too many requests from brands. This is the opinion of 72% of bloggers who work with B2B audiences, according to a study by Cision of 365 French bloggers carried out in 2017.",
+            "clue": "Neither too formal, nor too short.",
+            "context_title": "Communicating with an influencer",
+            "context_description": "Lina, 25 years old, is a \"YouTuber\" who is very active in the digital world. She is a developer in a start-up and knows her field inside and out. She would be the perfect ambassador for your new tablet.",
+            "context_media_description": "",
+            "choice_Ny3q5~SIS": "You send them the press kit that you sent to specialist magazines",
+            "choice_4kyZsZSLS": "You send them a 10-line email inviting them to check out your website",
+            "choice_Vka7sWSLH": "You prepare a customised brief containing all of the important technical information  ",
+            "choice_N1MKs~BIr": "Vous lui faites parvenir une tablette afin qu'elle puisse se faire sa propre idée",
+            "choice_EkOx2bHIS": "Vous lui précisez par téléphone la date de mise en vente des nouveaux vernis et l'invitez à aller acheter quelques produits"
+        },
+        "zh": {
+            "header": "你应该如何熟悉她的品牌和她应该代表的产品？",
+            "explanation": "选择正确的答案。",
+            "klf": "一个常见的错误就是向影响者发表讲话，好像他或她是一名记者。您不需要经典的新闻稿，而是一个清晰，全面和有力的简报，影响者可以与之相关。在解释产品背景时，您需要使用正确的音调。如果可能，您还应该向他们发送产品进行测试。",
+            "tips": "许多影响者从品牌那里收到太多的要求。根据Cision对2017年开展的365位法国博主的研究，72％的博主与B2B观众合作。",
+            "clue": "既不太正式也不太短。",
+            "context_title": "与影响者沟通",
+            "context_description": "Lina，25岁，是一个非常活跃于数字世界的“YouTuber”。她是初创公司的开发人员，从内到外都了解她的领域。她将成为您新平板电脑的完美大使。",
+            "choice_Ny3q5~SIS": "您向他们发送您发送给专业杂志的新闻资料袋",
+            "choice_4kyZsZSLS": "您向他们发送了10行电子邮件，邀请他们查看您的网站",
+            "choice_Vka7sWSLH": "您准备了包含所有重要技术信息的定制简报",
+            "context_media_description": "",
+            "choice_N1MKs~BIr": "Vous lui faites parvenir une tablette afin qu'elle puisse se faire sa propre idée",
+            "choice_EkOx2bHIS": "Vous lui précisez par téléphone la date de mise en vente des nouveaux vernis et l'invitez à aller acheter quelques produits"
+        }
+    }
+}

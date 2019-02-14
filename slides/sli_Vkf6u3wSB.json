@@ -1,0 +1,125 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T11:37:28.777Z",
+            "updatedAt": "2018-10-12T14:55:54.043Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Vkf6u3wSB",
+        "universalRef": "sli_Vkf6u3wSB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel45207",
+                        "items": [
+                            {
+                                "text": "choice_E1g-ltnwHB",
+                                "value": "choice_E1g-ltnwHB"
+                            },
+                            {
+                                "text": "choice_V1~dxF2DSH",
+                                "value": "choice_V1~dxF2DSH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel45207",
+                        "answers": [
+                            "choice_E1g-ltnwHB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans le cadre d'une démarche de social commerce, que dire d'une stratégie mono-produit pour une petite enseigne ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Si toutes les catégories d'entreprises peuvent se lancer dans le mono-produit, par exemple pour valoriser un de leurs produits-phares, ce type de stratégie est particulièrement adapté aux petites enseignes. Bien entendu, une fois l'activité lancée, il faudra ensuite se renouveler en innovant.",
+            "tips": "Lorsque l'on cherche un produit via un moteur de recherche classique, les sites e-commerce mono-produit occupent souvent plusieurs positions en première page. Ils sont donc loin de se laisser écraser par les grandes plateformes comme Amazon en matière de référencement web.",
+            "clue": "Est-il plus facile pour une petite entreprise de fabriquer une grande variété de produits ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En social commerce, une stratégie mono-produit est particulièrement {{sel45207}} pour une petite enseigne.",
+            "choice_E1g-ltnwHB": "adaptée",
+            "choice_V1~dxF2DSH": "inadaptée"
+        },
+        "en": {
+            "header": "As part of a social business approach, what about a single-product strategy for a small brand?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "If all categories of companies can engage in the mono-product, for example to enhance one of their flagship products, this type of strategy is particularly suitable for small brands. Of course, once the activity is launched, it will then be necessary to renew itself by innovating.",
+            "tips": "When looking for a product via a traditional search engine, single-product e-commerce sites often occupy several positions on the first page. They are therefore far from being overwhelmed by major platforms like Amazon in terms of SEO.",
+            "clue": "Is it easier for a small business to make a wide variety of products?",
+            "template": "In social commerce, a mono-product strategy is particularly {{sel45207}} for a small brand.",
+            "choice_E1g-ltnwHB": "suitable",
+            "choice_V1~dxF2DSH": "inadequate",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Was ist eine Einzelproduktstrategie für eine kleine Marke, wenn diese auf Social Commerce angewendet wird?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Obwohl alle Arten von Unternehmen in den Einzelproduktmarkt eintreten können, um beispielsweise eines ihrer Flaggschiffprodukte zu fördern, eignet sich diese Art von Strategie besonders für kleinere Unternehmen. Sobald diese Aktivität gestartet ist, müssen Sie natürlich Innovationen einführen, um Ihr Angebot zu erweitern.",
+            "tips": "Bei der Suche nach einem Produkt über eine Standardsuchmaschine nehmen E-Commerce-Websites mit einem Produkt häufig mehrere Positionen auf der ersten Seite ein. Was SEO angeht, so sind sie bei weitem nicht von größeren Plattformen wie Amazon betroffen.",
+            "clue": "Ist es für ein kleines Unternehmen einfacher, eine breite Palette von Produkten herzustellen?",
+            "template": "Im Social Commerce gilt eine Einzelproduktstrategie insbesondere {{sel45207}} für eine kleinere Marke.",
+            "choice_E1g-ltnwHB": "gut geeignet",
+            "choice_V1~dxF2DSH": "ungeeignet",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What is a single-product strategy for a small brand, when this is applied to social commerce?",
+            "klf": "Although all kinds of companies can enter the single-product market, for example to promote one of their flagship products, this type of strategy is particularly well-suited to smaller companies. But once this activity has been launched, you will of course need to innovate to expand your offer.",
+            "tips": "When using a standard search engine to look for a product, single-product e-commerce websites often occupy several positions on the first page. So in terms of SEO, they are far from being crushed by larger platforms such as Amazon.",
+            "clue": "Is it easier for a small company to produce a wide range of products?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "In social commerce, a single-product strategy is especially {{sel45207}} for a smaller brand.",
+            "choice_E1g-ltnwHB": "well-suited",
+            "choice_V1~dxF2DSH": "unsuitable"
+        },
+        "zh": {
+            "header": "当小品牌适用于社交商务时，什么是单品策略？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "虽然各类公司都可以进入单一产品市场，例如推广其旗舰产品之一，但这种策略特别适合小型公司。但是一旦这项活动启动，您当然需要进行创新以扩大您的报价。",
+            "tips": "当使用标准搜索引擎寻找产品时，单一产品电子商务网站通常占据第一页上的几个位置。因此，就SEO而言，它们远未被亚马逊等大型平台压垮。",
+            "clue": "小公司是否更容易生产各种产品？",
+            "template": "在社交商务中，对于较小的品牌，单一产品策略尤为{{sel45207}}。",
+            "choice_E1g-ltnwHB": "非常适合",
+            "choice_V1~dxF2DSH": "不当",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

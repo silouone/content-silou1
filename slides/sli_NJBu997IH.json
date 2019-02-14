@@ -1,0 +1,135 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T12:05:06.712Z",
+            "updatedAt": "2018-10-12T15:21:48.637Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJBu997IH",
+        "universalRef": "sli_NJBu997IH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJBu997IH.choice_NJAhPWYLH.id",
+                        "label": "choice_NJAhPWYLH",
+                        "value": "choice_NJAhPWYLH"
+                    },
+                    {
+                        "id": "sli_NJBu997IH.choice_VkfTPZKUB.id",
+                        "label": "choice_VkfTPZKUB",
+                        "value": "choice_VkfTPZKUB"
+                    },
+                    {
+                        "id": "sli_NJBu997IH.choice_4y6aPZKUH.id",
+                        "label": "choice_4y6aPZKUH",
+                        "value": "choice_4y6aPZKUH"
+                    },
+                    {
+                        "id": "sli_NJBu997IH.choice_V1lRwbKIr.id",
+                        "label": "choice_V1lRwbKIr",
+                        "value": "choice_V1lRwbKIr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJAhPWYLH",
+                        "choice_VkfTPZKUB",
+                        "choice_V1lRwbKIr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi ces propositions, lesquelles peuvent servir à développer l'acte d'achat ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Publicités dynamiques, campagnes de retargeting ou encore boutons call-to-action… Ces trois stratégies sont efficaces pour développer l'acte d'achat et transformer une partie de vos visiteurs en consommateurs.",
+            "tips": "Les publicités dynamiques de Facebook (ou \"Dynamic Ads\") sont déployées sur le réseau social lui-même, sur ses outils Messenger et Audience Network, mais aussi sur Instagram.",
+            "clue": "Un de ces outils sert essentiellement à donner son avis.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJAhPWYLH": "Des publicités dynamiques",
+            "choice_VkfTPZKUB": "Des boutons call-to-action",
+            "choice_4y6aPZKUH": "Des boutons \"J'aime\"",
+            "choice_V1lRwbKIr": "Une campagne de retargeting"
+        },
+        "en": {
+            "header": "Which of these proposals can be used to develop the act of purchase?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Dynamic advertising, retargeting campaigns or call-to-action buttons ... These three strategies are effective to develop the act of purchase and transform some of your visitors into consumers.",
+            "tips": "Dynamic Facebook ads (or \"Dynamic Ads\") are deployed on the social network itself, on its Messenger and Audience Network tools, but also on Instagram.",
+            "clue": "One of these tools is mainly used to give his opinion.",
+            "choice_NJAhPWYLH": "Dynamic advertisements",
+            "choice_VkfTPZKUB": "Call-to-action buttons",
+            "choice_4y6aPZKUH": "\"Like\" buttons",
+            "choice_V1lRwbKIr": "A retargeting campaign",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Welcher der folgenden Vorschläge kann den Umsatz steigern?",
+            "explanation": "Wählen Sie aus den unten aufgeführten Antworten die richtigen Antworten aus.",
+            "klf": "Dynamics-Anzeigen, Retargeting-Kampagnen und Call-to-Action-Schaltflächen ... Diese drei Strategien sind wirksame Mittel, um den Umsatz zu steigern und einige Ihrer Besucher zu Konsumenten zu machen.",
+            "tips": "Die dynamischen Anzeigen von Facebook werden auf der Social-Media-Plattform selbst, in den Tools \"Messenger\" und \"Audience Network\" sowie auf Instagram verwendet.",
+            "clue": "Eines dieser Tools wird normalerweise verwendet, um Ihre Meinung zu teilen.",
+            "choice_NJAhPWYLH": "Dynamische Anzeigen",
+            "choice_VkfTPZKUB": "Call-to-Action-Schaltflächen",
+            "choice_4y6aPZKUH": "Like-Tasten",
+            "choice_V1lRwbKIr": "Eine Retargeting-Kampagne",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answers from those listed below.",
+            "header": "Which of the following proposals can increase sales?",
+            "klf": "Dynamics ads, retargeting campaigns and call-to-action buttons... These three strategies are effective ways of increasing sales and transforming some of your visitors into consumers.",
+            "tips": "Facebook’s dynamic ads are used on the social media platform itself, on its Messenger and Audience Network tools, and also on Instagram.",
+            "clue": "One of these tools is typically used to share your opinion.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJAhPWYLH": "Dynamic ads",
+            "choice_VkfTPZKUB": "Call-to-action buttons",
+            "choice_4y6aPZKUH": "“Like” buttons",
+            "choice_V1lRwbKIr": "A retargeting campaign"
+        },
+        "zh": {
+            "header": "以下哪项提案可以增加销量？",
+            "explanation": "从下面列出的那些中选择正确的答案。",
+            "klf": "动态广告，重定向广告系列和号召性用语按钮......这三种策略是增加销售额并将部分访问者转化为消费者的有效方法。",
+            "tips": "Facebook的动态广告用于社交媒体平台本身，Messenger和Audience网络工具以及Instagram上。",
+            "clue": "其中一种工具通常用于分享您的观点。",
+            "choice_NJAhPWYLH": "动态广告",
+            "choice_VkfTPZKUB": "号召性用语按钮",
+            "choice_4y6aPZKUH": "“喜欢”按钮",
+            "choice_V1lRwbKIr": "重新定位广告系列",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

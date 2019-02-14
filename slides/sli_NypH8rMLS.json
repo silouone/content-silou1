@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-19T11:48:12.614Z",
+            "updatedAt": "2018-10-12T15:11:30.849Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyVAT~t4r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NypH8rMLS",
+        "universalRef": "sli_NypH8rMLS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NypH8rMLS.choice_VyxjiLrMLH.id",
+                        "label": "choice_VyxjiLrMLH",
+                        "value": "choice_VyxjiLrMLH",
+                        "media": "med_Nkij8HM8r"
+                    },
+                    {
+                        "id": "sli_NypH8rMLS.choice_VyxJEPSfLH.id",
+                        "label": "choice_VyxJEPSfLH",
+                        "value": "choice_VyxJEPSfLH",
+                        "media": "med_41yVDHM8S"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyxJEPSfLH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Séduit par les avantages du storytelling, vous vous attelez à l'écriture de votre histoire. À quelle catégorie de public devez-vous vous adresser en priorité ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Même si toucher le plus grand nombre est une fin idéale, il faut bien prendre garde de s'adresser d'abord à votre cœur de cible afin de ne pas passer à côte de l'essentiel. Un produit ou un service vise une clientèle précise avec des besoins propres !",
+            "tips": "Une technique de storytelling efficace consiste à mettre en scène votre \"persona\", c'est-à-dire une représentation de votre client idéal s'appuyant sur ses caractéristiques psychologiques et sociales. D'où l'importance de connaître votre cible sur le bout des doigts !",
+            "clue": "Visez juste !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyxjiLrMLH": "Au plus large public possible",
+            "choice_VyxJEPSfLH": "À votre cœur de cible avant tout"
+        },
+        "en": {
+            "header": "Seduced by the benefits of storytelling, you get down to writing your story. Which audience category should you address first?",
+            "explanation": "Select the correct answer.",
+            "klf": "Even if touching the greatest number is an ideal end, you have to be careful not to go to the heart of your target first so as not to miss the point. A product or service targets a specific clientele with specific needs!",
+            "tips": "An effective storytelling technique is to stage your \"persona\", that is, a representation of your ideal client based on their psychological and social characteristics. Hence the importance of knowing your target at your fingertips!",
+            "clue": "Just aim!",
+            "choice_VyxjiLrMLH": "To the widest possible audience",
+            "choice_VyxJEPSfLH": "To your target heart first",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Die Vorteile des Geschichtenerzählens sprechen Sie an, und Sie fangen an, Ihre Geschichte zu schreiben. Welches Publikum soll zuerst angesprochen werden?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Idealerweise möchten Sie so viele Personen wie möglich erreichen. Stellen Sie jedoch sicher, dass Sie Ihre Kernzielgruppe zuerst ansprechen, um zu vermeiden, dass der Punkt völlig verfehlt wird. Ein Produkt oder eine Dienstleistung richtet sich an einen bestimmten Kundenkreis mit spezifischen Bedürfnissen!",
+            "tips": "Eine effektive Storytelling-Technik besteht darin, Ihre „Persona“ zu präsentieren, dh ein Bild Ihres idealen Kunden basierend auf ihren psychologischen und sozialen Merkmalen. Daher ist es wichtig, alles über Ihre Zielgruppe zu verstehen!",
+            "clue": "Hoch zielen!",
+            "choice_VyxjiLrMLH": "So breit wie möglich",
+            "choice_VyxJEPSfLH": "Ihr Kernziel ist in erster Linie",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "The benefits of storytelling appeal to you, and you start to write your story. Which audience should you target first?",
+            "klf": "Ideally, you want to reach as many people as possible, but make sure you address your core target audience first to avoid missing the point entirely. A product or service targets a specific clientele with specific needs!",
+            "tips": "An effective storytelling technique involves showcasing your “persona”, in other words a picture of your ideal customer based on their psychological and social characteristics. Hence the importance of understanding everything about your target audience!",
+            "clue": "Aim high!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyxjiLrMLH": "As wide an audience as possible",
+            "choice_VyxJEPSfLH": "Your core target first and foremost"
+        },
+        "zh": {
+            "header": "讲故事的好处吸引你，你开始写你的故事。您应该首先定位哪些受众？",
+            "explanation": "选择正确的答案。",
+            "klf": "理想情况下，您希望尽可能多地吸引用户，但请确保首先针对核心目标受众，以避免完全忽略这一点。产品或服务针对具有特定需求的特定客户！",
+            "tips": "有效的叙事技巧包括展示您的“角色”，换句话说，根据他们的心理和社会特征描绘您的理想客户。因此，了解目标受众的一切的重要性！",
+            "clue": "胸怀大志！",
+            "choice_VyxjiLrMLH": "尽可能广泛的受众",
+            "choice_VyxJEPSfLH": "您的核心目标首先是",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

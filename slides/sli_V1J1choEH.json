@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-02T09:23:21.702Z",
+            "updatedAt": "2018-10-12T14:51:26.348Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek5ipWtVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1J1choEH",
+        "universalRef": "sli_V1J1choEH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel80371",
+                        "items": [
+                            {
+                                "text": "choice_4kx7ypR7rS",
+                                "value": "choice_4kx7ypR7rS"
+                            },
+                            {
+                                "text": "choice_4kZm1pCXHr",
+                                "value": "choice_4kZm1pCXHr"
+                            },
+                            {
+                                "text": "choice_NkqyT07SB",
+                                "value": "choice_NkqyT07SB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel80371",
+                        "answers": [
+                            "choice_4kZm1pCXHr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En France, quelle part des 18-35 ans est prête à acheter directement sur les réseaux sociaux (chiffres 2017) ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En France, 45% des 18-35 ans souhaiteraient pouvoir acheter directement via les réseaux sociaux, selon les résultats 2017 du Shopper Observer (l’observatoire du comportement des consommateurs et des innovations du commerce de Paris Retail Week).",
+            "tips": "En France, 49% des 18-35 ans utilisent leur téléphone pour tout faire sur Internet, contrairement à 26% pour le reste de la population. (étude 2017 du Shopper Observer)",
+            "clue": "Équilibré.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel80371}}",
+            "choice_4kx7ypR7rS": "Moins de 10%",
+            "choice_4kZm1pCXHr": "Près de la moitié",
+            "choice_NkqyT07SB": "Près de 90%"
+        },
+        "en": {
+            "header": "In France, how much of the 18-35 age group is ready to buy directly on social networks (2017 figures)?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In France, 45% of 18-35 year olds would like to be able to buy directly via social networks, according to the 2017 results of the Observer Shopper (Observatory of Consumer Behavior and Retail Innovations of Paris Retail Week).",
+            "tips": "In France, 49% of 18-35 year olds use their phones to do everything on the Internet, compared to 26% for the rest of the population. (2017 Shopper Observer study)",
+            "clue": "Balanced.",
+            "template": "{{sel80371}}",
+            "choice_4kx7ypR7rS": "Less than 10%",
+            "choice_4kZm1pCXHr": "Nearly half",
+            "choice_NkqyT07SB": "Nearly 90%",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Wie hoch ist der Prozentsatz der 18- bis 35-Jährigen in Frankreich, um direkt auf Social-Media-Websites zu kaufen (Daten für 2017)?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "In Frankreich würden 45% der 18- bis 35-Jährigen gerne direkte Einkäufe auf Social-Media-Websites tätigen können, so die Ergebnisse des Shopper Observer 2017 (Überwachung der Konsumverhalten und Handelstrends in der Pariser Handelswoche).",
+            "tips": "In Frankreich nutzen 49% der 18- bis 35-Jährigen ihr Telefon für alle ihre Internetbedürfnisse, gegenüber 26% für die restliche Bevölkerung. (Shopper Observer 2017 Umfrage)",
+            "clue": "Gut ausbalanciert",
+            "template": "{{sel80371}}",
+            "choice_4kx7ypR7rS": "Weniger als 10%",
+            "choice_4kZm1pCXHr": "Beinahe die Hälfte",
+            "choice_NkqyT07SB": "Fast 90%",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "In France, what percentage of 18-35 year olds are willing to make direct purchases on social media sites (2017 data)?",
+            "klf": "In France, 45% of 18-35 year olds would like to be able to make direct purchases on social media sites, according to the results of the Shopper Observer 2017 (the Paris Retail Week monitor of consumer behaviour and trade trends).",
+            "tips": "In France, 49% of 18-35 year olds use their phone for all of their Internet needs, as opposed to 26% for the rest of the population. (Shopper Observer 2017 survey)",
+            "clue": "Well-balanced.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel80371}}",
+            "choice_4kx7ypR7rS": "Fewer than 10%",
+            "choice_4kZm1pCXHr": "Almost half",
+            "choice_NkqyT07SB": "Almost 90%"
+        },
+        "zh": {
+            "header": "在法国，18-35岁年龄段的人愿意在社交媒体网站上直接购买（2017年的数据）？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "根据Shopper Observer 2017（巴黎零售周消费者行为和贸易趋势监测）的结果，法国有45％的18-35岁年轻人希望能够在社交媒体网站上直接购买。",
+            "tips": "在法国，49-35岁的人中有49％的人使用手机满足所有互联网需求，而其余人口则需要26％。 （Shopper Observer 2017调查）",
+            "clue": "很好的平衡。",
+            "template": "{{Sel80371}}",
+            "choice_4kx7ypR7rS": "不到10％",
+            "choice_4kZm1pCXHr": "接近一半",
+            "choice_NkqyT07SB": "差不多90％",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

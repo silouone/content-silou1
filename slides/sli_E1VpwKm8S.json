@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T10:38:35.491Z",
+            "updatedAt": "2018-10-12T15:17:51.928Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E1VpwKm8S",
+        "universalRef": "sli_E1VpwKm8S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1VpwKm8S.choice_EJakuYmLB.id",
+                        "label": "choice_EJakuYmLB",
+                        "value": "choice_EJakuYmLB"
+                    },
+                    {
+                        "id": "sli_E1VpwKm8S.choice_VkClutm8B.id",
+                        "label": "choice_VkClutm8B",
+                        "value": "choice_VkClutm8B"
+                    },
+                    {
+                        "id": "sli_E1VpwKm8S.choice_E12b-KQUr.id",
+                        "label": "choice_E12b-KQUr",
+                        "value": "choice_E12b-KQUr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJakuYmLB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi ces trois propositions, laquelle est la mieux adaptée pour un parcours d'achat efficace ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Plus le chemin est long, plus vous risquez de perdre des clients en cours de route. Réduisez donc au maximum le nombre de clics entre la case produit et le paiement. Dans l’idéal, tout doit tenir en une page.",
+            "tips": "L'entreprise franco-américaine de \"shopping social\" Birchbox a réussi à doubler son taux de conversion mobile grâce à l'outil de paiement Adyen.",
+            "clue": "Le plus est l'ennemi du bien.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJakuYmLB": "Un parcours d'achat en une page : pour éviter de perdre des clients en route !",
+            "choice_VkClutm8B": "Un parcours d'achat en 3 clics : le client préfère que les étapes soient bien distinctes les unes des autres",
+            "choice_E12b-KQUr": "Un parcours d'achat en plus ou moins 5 clics : c'est plus clair pour le client, et vous pouvez en profiter pour lui recommander d'autres produits !",
+            "choice_Nk-Sut7IH": "En 3 clics : ce détour permettra de mettre en avant 2 autres produits que celui qui va être acheté ///"
+        },
+        "en": {
+            "header": "Which of these three proposals is best suited for an effective shopping journey?",
+            "explanation": "Select the correct answer.",
+            "klf": "The longer the path, the more likely you are to lose customers along the way. Reduce the number of clicks between the product box and the payment as much as possible. Ideally everything should fit in one page.",
+            "tips": "The French-American \"social shopping\" company Birchbox has doubled its mobile conversion rate thanks to the Adyen payment tool.",
+            "clue": "The most is the enemy of good.",
+            "choice_EJakuYmLB": "A shopping journey in one page: to avoid losing customers on the road!",
+            "choice_VkClutm8B": "A shopping journey in 3 clicks: the customer prefers that the steps are very distinct from each other",
+            "choice_E12b-KQUr": "A shopping journey in plus or minus 5 clicks: it's clearer for the customer, and you can take the opportunity to recommend other products!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk-Sut7IH": "En 3 clics : ce détour permettra de mettre en avant 2 autres produits que celui qui va être acheté ///"
+        },
+        "de": {
+            "header": "Welcher dieser drei Vorschläge wird den effektivsten Einkaufspfad liefern?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Je länger der Weg ist, desto größer ist das Risiko, unterwegs Kunden zu verlieren. Minimieren Sie die Anzahl der Klicks zwischen Produkt-Ankreuzfeld und Zahlung so weit wie möglich. Idealerweise sollte dies alles auf einer Seite erfolgen.",
+            "tips": "Das französisch-amerikanische „Social Shopping“ -Unternehmen Birchbox konnte seine mobile Umrechnungsrate mithilfe des Adyen-Zahlungstools verdoppeln.",
+            "clue": "Weniger ist mehr.",
+            "choice_EJakuYmLB": "Ein Einkaufspfad auf einer Seite: um zu vermeiden, Kunden unterwegs zu verlieren!",
+            "choice_VkClutm8B": "Ein Einkaufspfad mit drei Klicks: Kunden bevorzugen unterschiedliche Schritte",
+            "choice_E12b-KQUr": "Ein Einkaufspfad in fünf Klicks: Für den Kunden ist es einfacher, und Sie können diese zusätzliche Zeit nutzen, um weitere Produkte zu empfehlen!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk-Sut7IH": "En 3 clics : ce détour permettra de mettre en avant 2 autres produits que celui qui va être acheté ///"
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "Which of these three suggestions will deliver the most effective purchasing path?",
+            "klf": "The longer the path, the greater the risk of losing customers along the way. Minimise the number of clicks between the product tickbox and payment as far as possible. Ideally, this should all take place on one page.",
+            "tips": "The Franco-American “social shopping” company Birchbox managed to double its mobile conversion rate by using the Adyen payment tool.",
+            "clue": "Less is more.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJakuYmLB": "A purchasing path on one page: to avoid losing customers along the way!",
+            "choice_VkClutm8B": "A purchasing path in three clicks: customers prefer distinct steps",
+            "choice_E12b-KQUr": "A purchasing path in around five clicks: it's easier for the customer, and you can use this extra time to recommend more products!",
+            "choice_Nk-Sut7IH": "En 3 clics : ce détour permettra de mettre en avant 2 autres produits que celui qui va être acheté ///"
+        },
+        "zh": {
+            "header": "这三项建议中的哪一项将提供最有效的采购途径？",
+            "explanation": "选择正确的答案。",
+            "klf": "路径越长，沿途失去客户的风险就越大。尽可能减少产品复选框和付款之间的点击次数。理想情况下，这应该都在一个页面上进行。",
+            "tips": "法国 - 美国“社交购物”公司Birchbox通过使用Adyen支付工具设法将其移动转换率翻倍。",
+            "clue": "少即是多。",
+            "choice_EJakuYmLB": "一页上的购买路径：避免一路上失去客户！",
+            "choice_VkClutm8B": "三次点击的购买路径：客户更喜欢不同的步骤",
+            "choice_E12b-KQUr": "大约五次点击的购买路径：对客户来说更容易，您可以利用这段额外的时间来推荐更多产品！",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk-Sut7IH": "En 3 clics : ce détour permettra de mettre en avant 2 autres produits que celui qui va être acheté ///"
+        }
+    }
+}

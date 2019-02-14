@@ -1,0 +1,112 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-21T13:33:12.307Z",
+            "updatedAt": "2018-09-03T17:08:52.568Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41BgCWKNS"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJLiM~S8B",
+        "universalRef": "sli_NJLiM~S8B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_NJLiM~S8B.field_E1yTfbr8r.id",
+                        "type": "text",
+                        "name": "inp16445"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp16445",
+                        "answers": [
+                            "choice_4kMkpfZHUB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "A REFAIRE Par quel autre terme peut-on définir le rôle des influenceurs ?",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "En tant que personnes susceptibles de définir des tendances de consommation et d'encourager à l'achat, les influenceurs jouent le rôle de prescripteurs.",
+            "tips": "Dans l'univers marketing, on fait parfois la distinction entre prescripteurs relatifs et prescripteurs absolus. Les premiers recommandent de manière indicative l'achat d'une marque, d'un service ; les seconds le font sur un mode impératif. (https://www.definitions-marketing.com/definition/prescripteur/ )",
+            "clue": "Crime non punissable.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En tant que personnes susceptibles de définir des tendances de consommation et d'encourager à l'achat, les influenceurs endossent le rôle de {{inp16445}}.",
+            "choice_4kMkpfZHUB": "prescripteurs"
+        },
+        "en": {
+            "header": "TO REMEMBER By which other term can one define the role of the influencers?",
+            "explanation": "Enter your answer or select the correct answer in the drop-down menu (s).",
+            "klf": "As influencers who can define consumer trends and encourage buying, influencers play the role of prescribers.",
+            "tips": "In the marketing world, we sometimes distinguish between relative and absolute prescribers. The former recommend indicatively the purchase of a brand, a service; the latter do it in an imperative mode. (https://www.definitions-marketing.com/definition/prescriptor/)",
+            "clue": "Non-punishable crime.",
+            "template": "As influencers who are likely to define consumer trends and encourage buying, they assume the role of {{inp16445}}.",
+            "choice_4kMkpfZHUB": "prescribers",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "ZUR ERINNERUNG Durch welchen anderen Begriff kann man die Rolle der Influencer definieren?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Influencer spielen als Influencer die Rolle des Verschreibers.",
+            "tips": "In der Marketingwelt unterscheiden wir manchmal zwischen relativen und absoluten Verschreibern. Erstere empfehlen indikativ den Kauf einer Marke, eines Dienstes; die letzteren tun es in einem imperativen Modus. (https://www.definitions-marketing.com/definition/prescriptor/)",
+            "clue": "Nicht strafbares Verbrechen.",
+            "template": "Als Influencer, die wahrscheinlich Konsumententrends definieren und zum Kauf anregen, übernehmen sie die Rolle von {{inp16445}}.",
+            "choice_4kMkpfZHUB": "Verordner",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "A REFAIRE Par quel autre terme peut-on définir le rôle des influenceurs ?",
+            "klf": "En tant que personnes susceptibles de définir des tendances de consommation et d'encourager à l'achat, les influenceurs jouent le rôle de prescripteurs.",
+            "tips": "Dans l'univers marketing, on fait parfois la distinction entre prescripteurs relatifs et prescripteurs absolus. Les premiers recommandent de manière indicative l'achat d'une marque, d'un service ; les seconds le font sur un mode impératif. (https://www.definitions-marketing.com/definition/prescripteur/ )",
+            "clue": "Crime non punissable.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En tant que personnes susceptibles de définir des tendances de consommation et d'encourager à l'achat, les influenceurs endossent le rôle de {{inp16445}}.",
+            "choice_4kMkpfZHUB": "prescripteurs"
+        },
+        "zh": {
+            "header": "要记住哪个其他术语可以定义影响者的角色？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "作为能够定义消费者趋势并鼓励购买的有影响力的人，有影响力的人扮演着处方者的角色。",
+            "tips": "在营销领域，我们有时会区分相对和绝对处方者。前者建议指示购买品牌，服务;后者以命令模式进行。 （Https://www.definitions-marketing.com/definition/prescripteur/）",
+            "clue": "不应受惩罚的罪行。",
+            "template": "作为可能定义消费者趋势并鼓励购买的影响者，他们扮演{{inp16445}}的角色。",
+            "choice_4kMkpfZHUB": "处方",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

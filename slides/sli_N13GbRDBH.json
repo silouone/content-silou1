@@ -1,0 +1,125 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T13:24:35.355Z",
+            "updatedAt": "2018-10-12T14:57:17.157Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N13GbRDBH",
+        "universalRef": "sli_N13GbRDBH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel16086",
+                        "items": [
+                            {
+                                "text": "choice_NyxnpVK18S",
+                                "value": "choice_NyxnpVK18S"
+                            },
+                            {
+                                "text": "choice_NJZ36EY1Ur",
+                                "value": "choice_NJZ36EY1Ur"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel16086",
+                        "answers": [
+                            "choice_NJZ36EY1Ur"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous avez adopté une stratégie mono-produit. Toutefois, vous décidez de proposer votre produit en plusieurs coloris pour enrichir votre gamme. En faisant cela, de quelle façon la développez-vous ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Adopter une stratégie mono-produit n'empêche pas de le décliner en largeur (en différentes lignes répondant aux besoins et désirs de vos clients) et en profondeur (par exemple en proposant plusieurs coloris pour chaque ligne de produit).",
+            "tips": "Pour développer sa gamme de produits, différentes stratégies sont possibles : se concentrer sur l'entrée de gamme (ou produit d'appel) ou sur le haut-de-gamme ; multiplier les options pour proposer différents niveaux de prix ; se limiter à un nombre restreint de produits pour limiter ses coûts de conception…",
+            "clue": "Abysses.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En {{sel16086}}",
+            "choice_NyxnpVK18S": "largeur",
+            "choice_NJZ36EY1Ur": "profondeur"
+        },
+        "en": {
+            "header": "You have adopted a single product strategy. However, you decide to offer your product in several colors to enrich your range. By doing this, how do you develop it?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Adopting a single-product strategy does not prevent to decline in width (in different lines to meet the needs and desires of your customers) and in depth (for example by offering several colors for each product line).",
+            "tips": "To develop its range of products, different strategies are possible: focus on the entry-level (or appeal product) or the high-end; multiply options to offer different price levels; limit itself to a limited number of products to limit its design costs ...",
+            "clue": "Abyss.",
+            "template": "And {{sel16086}}",
+            "choice_NyxnpVK18S": "width",
+            "choice_NJZ36EY1Ur": "depth",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie haben eine Einzelproduktstrategie verabschiedet. Sie entscheiden sich jedoch dafür, Ihr Sortiment zu erweitern, indem Sie Ihr Produkt in mehreren Farben anbieten. Welche Strategie solltest du annehmen?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Wenn Sie sich für eine Einzelproduktstrategie entscheiden, können Sie Ihre Produktpalette dennoch hinsichtlich ihrer Breite (Aufteilung in mehrere Zeilen, um den unterschiedlichen Bedürfnissen Ihrer Kunden gerecht zu werden) und Tiefe (beispielsweise durch Angeben mehrerer Farben für jede Zeile) maximieren. .",
+            "tips": "Sie können verschiedene Strategien verwenden, um Ihre Produktpalette zu erweitern: Konzentrieren Sie sich auf ein Einstiegsprodukt (oder einen Verlustführer) oder auf ein High-End-Produkt. Multiplizieren Sie die verfügbaren Optionen, um unterschiedliche Preisniveaus anzubieten. Beschränken Sie sich auf eine kleinere Anzahl von Produkten, um die Konstruktionskosten zu minimieren, und so weiter.",
+            "clue": "In die Tiefe.",
+            "template": "Die Strategie {{sel16086}}",
+            "choice_NyxnpVK18S": "Breite",
+            "choice_NJZ36EY1Ur": "eingehend",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "You have adopted a single-product strategy. But you decide to widen your range by offering your product in multiple colours. Which strategy should you adopt?",
+            "klf": "If you adopt a single-product strategy, you can still maximise your range of products in terms of their breadth (splitting it into multiple lines to address the different needs of your customers) and depth (for example by offering multiple colours for each line).",
+            "tips": "You can use different strategies to enlarge your range of products: focus on an entry-level product (or a loss leader) or on a high-end product; multiply the options available to offer different price levels; limit yourself to a smaller number of products to minimise design costs, and so on.",
+            "clue": "Into the deep.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The {{sel16086}} strategy",
+            "choice_NyxnpVK18S": "breadth",
+            "choice_NJZ36EY1Ur": "in-depth"
+        },
+        "zh": {
+            "header": "您采用了单一产品策略。但是，您决定通过提供多种颜色的产品来扩大您的产品范围。你应采用哪种策略？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "如果您采用单一产品策略，您仍然可以根据其广度（将其分成多行以满足客户的不同需求）和深度（例如，为每条线提供多种颜色）来最大化您的产品范围。",
+            "tips": "您可以使用不同的策略来扩大您的产品范围：专注于入门级产品（或亏损领导者）或高端产品;乘以可用的选项以提供不同的价格水平;限制自己使用少量产品以最大限度地降低设计成本，等等。",
+            "clue": "深入。",
+            "template": "{{sel16086}}策略",
+            "choice_NyxnpVK18S": "宽度",
+            "choice_NJZ36EY1Ur": "深入",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

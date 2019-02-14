@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-02T09:10:21.170Z",
+            "updatedAt": "2018-10-12T14:50:17.711Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek5ipWtVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJ5yD3s4S",
+        "universalRef": "sli_VJ5yD3s4S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJ5yD3s4S.choice_EyeVzFKASB.id",
+                        "label": "choice_EyeVzFKASB",
+                        "value": "choice_EyeVzFKASB",
+                        "media": "med_414fFtArS"
+                    },
+                    {
+                        "id": "sli_VJ5yD3s4S.choice_4kxIMtK0BH.id",
+                        "label": "choice_4kxIMtK0BH",
+                        "value": "choice_4kxIMtK0BH",
+                        "media": "med_4kLMFKCSH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kxIMtK0BH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour qu'il y ait social commerce, il faut que l'acte d'achat s'effectue en ligne. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le social commerce se distingue de l'e-commerce par l'existence d'une communauté de goûts communs. Pour la mobiliser, le social commerce s'appuie donc essentiellement sur les réseaux sociaux, blogs et forums. Mais l'acte d'achat ne s'effectue pas forcément en ligne.",
+            "tips": "Pour désigner une application marchande permettant de réaliser des achats au sein même d’une page Facebook dédiée à une marque, on parle de F-store (ou Facebook store).",
+            "clue": "L'important, c'est tout d'abord la communauté.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyeVzFKASB": "Vrai",
+            "choice_4kxIMtK0BH": "Faux"
+        },
+        "en": {
+            "header": "For there to be social commerce, it is necessary that the act of purchase is done online. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Social commerce is distinguished from e-commerce by the existence of a community of common tastes. To mobilize it, social commerce relies essentially on social networks, blogs and forums. But the act of purchase does not necessarily happen online.",
+            "tips": "To designate a merchant application to make purchases within a Facebook page dedicated to a brand, it is called F-store (or Facebook store).",
+            "clue": "The important thing is first of all the community.",
+            "choice_EyeVzFKASB": "True",
+            "choice_4kxIMtK0BH": "False",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Damit es Social Commerce gibt, muss der Kauf online abgeschlossen werden. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Social Commerce unterscheidet sich vom E-Commerce durch die Existenz einer Gemeinschaft, die die gleichen Interessen und Geschmäcker hat. Um diese Community zu mobilisieren, ist Social Commerce hauptsächlich auf Social Media, Blogs und Foren angewiesen. Der Kauf muss jedoch nicht unbedingt online abgeschlossen werden.",
+            "tips": "Eine Händler-App, die das Einkaufen auf der Facebook-Seite einer bestimmten Marke erleichtert, wird als F-Store (oder Facebook-Store) bezeichnet.",
+            "clue": "Gemeinschaft steht an erster Stelle.",
+            "choice_EyeVzFKASB": "Wahr",
+            "choice_4kxIMtK0BH": "Falsch",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "For there to be social commerce, the purchase needs to be completed online. True or false?",
+            "klf": "Social commerce differs from e-commerce due to the existence of a community that shares the same interests and tastes. In order to mobilise this community, social commerce relies mainly on social media, blogs and forums. But the purchase does not necessarily need to be completed online.",
+            "tips": "A merchant app that facilitates purchases within a particular brand’s Facebook page is known as an F-store (or Facebook store).",
+            "clue": "Community comes first.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyeVzFKASB": "True",
+            "choice_4kxIMtK0BH": "False"
+        },
+        "zh": {
+            "header": "对于社交商务，购买需要在线完成。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "社交商务与电子商务不同，因为存在共享相同兴趣和品味的社区。为了动员这个社区，社交商务主要依赖于社交媒体，博客和论坛。但购买并不一定需要在线完成。",
+            "tips": "促进在特定品牌的Facebook页面内购物的商家应用程序被称为F商店（或Facebook商店）。",
+            "clue": "社区是第​​一位的。",
+            "choice_EyeVzFKASB": "真正",
+            "choice_4kxIMtK0BH": "假",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}
