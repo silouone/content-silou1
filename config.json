@@ -10,11 +10,11 @@
     "s3Bucket": "static.coorpacademy.com/content/faust-champion",
     "videoProvider": "vimeo",
     "coreBranches": [
+        "test-thibault",
         "test-trad",
         "devTrad",
         "dunod",
-        "catalog",
-        "test-thibault"
+        "catalog"
     ],
     "catalogBranches": [
         "catalog",

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-12-11T16:46:18.684Z",
+            "updatedAt": "2018-12-11T16:46:18.684Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJpAQUiuB"
+            ],
+            "status": "draft",
+            "modifiedBy": "silouone",
+            "createdBy": "silouone",
+            "coreBranch": "test-thibault"
+        },
+        "ref": "sli_413kY0ukL",
+        "universalRef": "sli_413kY0ukL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_413kY0ukL.id",
+                "min": 0,
+                "max": 1,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "zz",
+            "explanation": "Faites glisser le curseur.",
+            "klf": "zz",
+            "tips": "zz",
+            "clue": "zz",
+            "description": "zz",
+            "unitLabel": "",
+            "choice_1": "0",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "en": {
+            "header": "zz",
+            "explanation": "Drag the slider.",
+            "klf": "zz",
+            "tips": "zz",
+            "clue": "zz",
+            "description": "zz",
+            "unitLabel": " ",
+            "choice_1": "0",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "ru": {
+            "header": "",
+            "explanation": "Переместите курсор.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "rn": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "es": {
+            "header": "zz",
+            "explanation": "Arrastre el control deslizante.",
+            "klf": "zz",
+            "tips": "zz",
+            "clue": "zz",
+            "description": "zz",
+            "unitLabel": "",
+            "choice_1": "0",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        }
+    }
+}
