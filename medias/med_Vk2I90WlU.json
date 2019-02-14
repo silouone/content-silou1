@@ -1,0 +1,42 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-12-18T12:42:40.744Z",
+            "updatedAt": "2018-12-18T12:43:41.551Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "silouone",
+            "createdBy": "silouone",
+            "coreBranch": "test-thibault"
+        },
+        "ref": "med_Vk2I90WlU",
+        "type": "video",
+        "src": [
+            {
+                "mimeType": "video/mp4",
+                "filename": "filename_1",
+                "mediaUrl": "mediaUrl_1"
+            }
+        ]
+    },
+    "locales": {
+        "fr": {
+            "mediaUrl_1": "https://simoocdigital.credit-agricole.fr/media/content/security/158309463-en.mp4",
+            "filename_1": "158309463.mp4"
+        },
+        "en": {
+            "mediaUrl_1": "https://simoocdigital.credit-agricole.fr/media/content/security/158309463-en.mp4",
+            "filename_1": "158309463-en.mp4"
+        },
+        "it": {
+            "filename_1": "158309463.mp4",
+            "mediaUrl_1": "https://simoocdigital.credit-agricole.fr/media/content/security/158309463-it.mp4"
+        },
+        "es": {
+            "mediaUrl_1": "https://simoocdigital.credit-agricole.fr/media/content/security/158309463-en.mp4"
+        }
+    }
+}

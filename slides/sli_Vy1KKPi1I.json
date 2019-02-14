@@ -1,0 +1,103 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-12-13T15:28:15.844Z",
+            "updatedAt": "2018-12-13T15:28:15.844Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJpAQUiuB"
+            ],
+            "status": "draft",
+            "modifiedBy": "silouone",
+            "createdBy": "silouone",
+            "coreBranch": "test-thibault"
+        },
+        "ref": "sli_Vy1KKPi1I",
+        "universalRef": "sli_Vy1KKPi1I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy1KKPi1I.choice_41e2tKDsJI.id",
+                        "label": "choice_41e2tKDsJI",
+                        "value": "choice_41e2tKDsJI",
+                        "media": "med_4ynKYDikU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41e2tKDsJI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "tester",
+            "explanation": "Sélectionnez la ou les bonnes réponses.",
+            "klf": "tester",
+            "tips": "tester",
+            "clue": "tester",
+            "choice_41e2tKDsJI": "tester",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "en": {
+            "header": "test",
+            "explanation": "Select the correct answer (s).",
+            "klf": "test",
+            "tips": "test",
+            "clue": "test",
+            "choice_41e2tKDsJI": "test",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ru": {
+            "header": "",
+            "explanation": "Выберите правильный(ые) ответ(ы).",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41e2tKDsJI": ""
+        },
+        "rn": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41e2tKDsJI": ""
+        },
+        "es": {
+            "header": "prueba",
+            "explanation": "Seleccione la (s) respuesta (s) correcta (s).",
+            "klf": "prueba",
+            "tips": "prueba",
+            "clue": "prueba",
+            "choice_41e2tKDsJI": "prueba",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}
