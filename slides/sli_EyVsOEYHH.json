@@ -1,0 +1,122 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-12T14:53:51.553Z",
+            "updatedAt": "2018-10-12T15:03:09.818Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJmCaWFVS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyVsOEYHH",
+        "universalRef": "sli_EyVsOEYHH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyVsOEYHH.choice_V17aONtHr.id",
+                        "label": "choice_V17aONtHr",
+                        "value": "choice_V17aONtHr"
+                    },
+                    {
+                        "id": "sli_EyVsOEYHH.choice_EJK0-VFrr.id",
+                        "label": "choice_EJK0-VFrr",
+                        "value": "choice_EJK0-VFrr"
+                    },
+                    {
+                        "id": "sli_EyVsOEYHH.choice_Vyt84X9BS.id",
+                        "label": "choice_Vyt84X9BS",
+                        "value": "choice_Vyt84X9BS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V17aONtHr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "À quoi servent des outils comme Crowdfire, Hootsuite et Buffer ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les outils Crowdfire, Hootsuite ou encore Buffer offrent la possibilité de centraliser la gestion de tous vos comptes sur les réseaux sociaux. Cela représente un gain de temps évident.",
+            "tips": "Il existe beaucoup d'outils de gestion des réseaux sociaux. Choisissez celui qui vous convient le mieux en fonction de votre budget, votre expertise, les fonctionnalités dont vous avez besoin en priorité…",
+            "clue": "Tout en un !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V17aONtHr": "À gérer simultanément tous vos comptes sur les réseaux sociaux",
+            "choice_EJK0-VFrr": "À collecter facilement les données de vos clients",
+            "choice_Vyt84X9BS": "À repérer quels prospects sont les plus susceptibles d'acheter votre produit"
+        },
+        "en": {
+            "header": "What are tools like Crowdfire, Hootsuite and Buffer for?",
+            "explanation": "Select the correct answer.",
+            "klf": "The tools Crowdfire, Hootsuite or Buffer offer the possibility of centralizing the management of all your accounts on social networks. This represents an obvious time saving.",
+            "tips": "There are many tools for managing social networks. Choose the one that suits you best according to your budget, your expertise, the features you need in priority ...",
+            "clue": "All in one !",
+            "choice_V17aONtHr": "Manage all your accounts on social networks simultaneously",
+            "choice_EJK0-VFrr": "Easily collect data from your customers",
+            "choice_Vyt84X9BS": "Identify which prospects are most likely to buy your product",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Wofür werden Werkzeuge wie Crowdfire, Hootsuite und Buffer verwendet?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Mit Tools wie Crowdfire, Hootsuite und Buffer können Sie alle Konten auf Social-Media-Sites verwalten. Dies kann viel Zeit sparen.",
+            "tips": "Es gibt viele Tools, die Sie beim Verwalten sozialer Medien unterstützen. Sie sollten eine auswählen, die Ihrem Budget und Ihrem Fachwissen entspricht und über die Funktionen verfügt, nach denen Sie suchen.",
+            "clue": "Alle für Einen und Einer für Alle!",
+            "choice_V17aONtHr": "So verwalten Sie gleichzeitig alle Ihre Social Media-Konten",
+            "choice_EJK0-VFrr": "Sie erleichtern das Sammeln von Daten über Ihre Kunden",
+            "choice_Vyt84X9BS": "Um herauszufinden, welche Interessenten Ihr Produkt mit größerer Wahrscheinlichkeit kaufen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "What are tools like Crowdfire, Hootsuite and Buffer used for?",
+            "klf": "Tools such as Crowdfire, Hootsuite and Buffer enable you to manage all of your accounts on social media sites. This can save a lot of time.",
+            "tips": "Many tools exist to help you manage social media. You should choose one that matches your budget and expertise, and has the functions you are looking for.",
+            "clue": "All for one and one for all!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V17aONtHr": "To simultaneously manage all of your social media accounts",
+            "choice_EJK0-VFrr": "They make it easier to collect data on your customers",
+            "choice_Vyt84X9BS": "To identify which prospects are more likely to buy your product"
+        },
+        "zh": {
+            "header": "什么是Crowdfire，Hootsuite和Buffer等工具？",
+            "explanation": "选择正确的答案。",
+            "klf": "通过Crowdfire，Hootsuite和Buffer等工具，您可以管理社交媒体网站上的所有帐户。这可以节省很多时间。",
+            "tips": "有许多工具可以帮助您管理社交媒体。您应该选择一个符合您的预算和专业知识，并具有您正在寻找的功能。",
+            "clue": "所有之一，我为人人！",
+            "choice_V17aONtHr": "同时管理您的所有社交媒体帐户",
+            "choice_EJK0-VFrr": "它们使您可以更轻松地收集客户数据",
+            "choice_Vyt84X9BS": "确定哪些潜在客户更有可能购买您的产品",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

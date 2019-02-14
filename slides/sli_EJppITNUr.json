@@ -1,0 +1,137 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-21T09:25:16.881Z",
+            "updatedAt": "2018-10-12T15:23:15.879Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41BgCWKNS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJppITNUr",
+        "universalRef": "sli_EJppITNUr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJppITNUr.choice_EyKEu6NUB.id",
+                        "label": "choice_EyKEu6NUB",
+                        "value": "choice_EyKEu6NUB"
+                    },
+                    {
+                        "id": "sli_EJppITNUr.choice_NJoSdpNUS.id",
+                        "label": "choice_NJoSdpNUS",
+                        "value": "choice_NJoSdpNUS"
+                    },
+                    {
+                        "id": "sli_EJppITNUr.choice_NkRwOpE8r.id",
+                        "label": "choice_NkRwOpE8r",
+                        "value": "choice_NkRwOpE8r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJoSdpNUS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour quelle raison essentielle se tourner vers un influenceur pour ses campagnes marketing ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le principal avantage pour une marque de miser sur un influenceur est le contact plus direct et authentique que ce dernier entretient avec sa communauté. En tant qu’individu suivi pour sa personnalité ou son expertise, il est bien placé pour impulser des tendances de consommation.",
+            "tips": "D'après une étude d'Olapic de 2017, 43 % des personnes interrogées considèrent que l'authenticité est la raison numéro 1 qui les pousse à faire confiance à un influenceur.",
+            "clue": "Proximité.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQb-6EIS": "Le contact direct qui lie l'influenceur à sa communauté",
+            "choice_NJt7-aEIS": "Les grands médias sont tous des vecteurs de manipulation",
+            "choice_EyKEu6NUB": "Cela coûte moins cher qu'une campagne média classique",
+            "choice_NJoSdpNUS": "Un influenceur a un contact direct avec une communauté",
+            "choice_NkRwOpE8r": "Les médias classiques sont en perte de vitesse",
+            "choice_Vkjw~04IB": "X"
+        },
+        "en": {
+            "header": "For what essential reason to turn to an influencer for his marketing campaigns?",
+            "explanation": "Select the correct answer.",
+            "klf": "The main advantage for a brand to bet on an influencer is the more direct and genuine contact that the latter has with their community. As an individual for his personality or expertise, he is well placed to drive consumer trends.",
+            "tips": "According to a study by Olapic in 2017, 43% of respondents believe that authenticity is the number one reason to trust an influencer.",
+            "clue": "Proximity.",
+            "choice_EyKEu6NUB": "It costs less than a conventional media campaign",
+            "choice_NJoSdpNUS": "An influencer has direct contact with a community",
+            "choice_NkRwOpE8r": "The conventional media are losing momentum",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQb-6EIS": "Le contact direct qui lie l'influenceur à sa communauté",
+            "choice_NJt7-aEIS": "Les grands médias sont tous des vecteurs de manipulation",
+            "choice_Vkjw~04IB": "X"
+        },
+        "de": {
+            "header": "Was ist der Hauptgrund für die Einbindung eines Influencers in Ihre Marketingkampagnen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Der Hauptvorteil einer Marke, die mit einem Influencer zusammenarbeitet, ist der direktere und aussagekräftigere Kontakt des Influencers zu Ihrer Community. Als Persönlichkeit, die wegen ihrer Persönlichkeit und ihres Fachwissens verfolgt wird, ist der Influencer gut positioniert, um die Trends der Verbraucher zu beeinflussen.",
+            "tips": "Laut einer Studie von Olapic aus dem Jahr 2017 gaben 43% der Befragten an, Influencern zu vertrauen, weil sie glaubten, sie seien authentisch.",
+            "clue": "Nähe.",
+            "choice_EyKEu6NUB": "Es ist billiger als eine traditionelle Medienkampagne",
+            "choice_NJoSdpNUS": "Ein Influencer steht in direktem Kontakt mit einer Gemeinschaft",
+            "choice_NkRwOpE8r": "Traditionelle Medien gehen zurück",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQb-6EIS": "Le contact direct qui lie l'influenceur à sa communauté",
+            "choice_NJt7-aEIS": "Les grands médias sont tous des vecteurs de manipulation",
+            "choice_Vkjw~04IB": "X"
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "What is the main reason for including an influencer in your marketing campaigns?",
+            "klf": "The main advantage for a brand that works with an influencer is the more direct and meaningful contact that the influencer has with your community. As someone who is followed for their personality and expertise, the influencer is well placed to influence consumer trends.",
+            "tips": "According to a 2017 study by Olapic, 43% of those surveyed stated that they trusted influencers because they felt that they were authentic.",
+            "clue": "Closeness.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQb-6EIS": "Le contact direct qui lie l'influenceur à sa communauté",
+            "choice_NJt7-aEIS": "Les grands médias sont tous des vecteurs de manipulation",
+            "choice_EyKEu6NUB": "It is cheaper than a traditional media ad campaign",
+            "choice_NJoSdpNUS": "An influencer is in direct contact with a community",
+            "choice_NkRwOpE8r": "Traditional media are in decline",
+            "choice_Vkjw~04IB": "X"
+        },
+        "zh": {
+            "header": "在您的营销活动中包含影响者的主要原因是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "与影响者合作的品牌的主要优势在于影响者与您的社区之间更直接，更有意义的联系。作为追随其个性和专业知识的人，影响者有能力影响消费者趋势。",
+            "tips": "根据Olapic 2017年的一项研究，43％的受访者表示他们信任有影响力的人，因为他们认为他们是真实的。",
+            "clue": "贴近。",
+            "choice_EyKEu6NUB": "它比传统媒体广告活动便宜",
+            "choice_NJoSdpNUS": "影响者与社区直接接触",
+            "choice_NkRwOpE8r": "传统媒体正在衰落",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQb-6EIS": "Le contact direct qui lie l'influenceur à sa communauté",
+            "choice_NJt7-aEIS": "Les grands médias sont tous des vecteurs de manipulation",
+            "choice_Vkjw~04IB": "X"
+        }
+    }
+}

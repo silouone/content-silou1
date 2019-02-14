@@ -1,0 +1,133 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T14:30:36.553Z",
+            "updatedAt": "2018-10-12T14:59:35.944Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1INbkdSS",
+        "universalRef": "sli_V1INbkdSS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1INbkdSS.choice_VyFBZyuHH.id",
+                        "label": "choice_VyFBZyuHH",
+                        "value": "choice_VyFBZyuHH"
+                    },
+                    {
+                        "id": "sli_V1INbkdSS.choice_Nk-IZJOSr.id",
+                        "label": "choice_Nk-IZJOSr",
+                        "value": "choice_Nk-IZJOSr"
+                    },
+                    {
+                        "id": "sli_V1INbkdSS.choice_41Bu~J-HH.id",
+                        "label": "choice_41Bu~J-HH",
+                        "value": "choice_41Bu~J-HH"
+                    },
+                    {
+                        "id": "sli_V1INbkdSS.choice_EJXjW1urH.id",
+                        "label": "choice_EJXjW1urH",
+                        "value": "choice_EJXjW1urH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41Bu~J-HH",
+                        "choice_Nk-IZJOSr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En matière de social commerce, que peut-il être intéressant de faire pour ne pas lasser le consommateur ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Une stratégie de social commerce est gagnante quand on sait faire vivre son produit, en proposant des rendez-vous récurrents et en créant de temps à autre des événements, avec une édition spéciale par exemple.",
+            "tips": "Instagram a lancé en 2018 la fonctionnalité \"shopping\" à l'intérieur des \"stories\", ces publications éphémères d'une durée de 24 heures.",
+            "clue": "À noter dans le calendrier !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyFBZyuHH": "Simuler des ruptures de stock",
+            "choice_Nk-IZJOSr": "Proposer des rendez-vous récurrents comme des concours",
+            "choice_41Bu~J-HH": "Créer \"l’événement\" avec des éditions spéciales du produit",
+            "choice_EJXjW1urH": "Changer le nom du produit très fréquemment"
+        },
+        "en": {
+            "header": "In terms of social commerce, what can be interesting to do in order not to tire the consumer?",
+            "explanation": "Select the correct answers.",
+            "klf": "A strategy of social commerce is winning when you know how to make your product live, by proposing recurring appointments and by creating events from time to time, with a special edition for example.",
+            "tips": "Instagram launched in 2018 the \"shopping\" feature inside the \"stories\", these ephemeral publications lasting 24 hours.",
+            "clue": "To note in the calendar!",
+            "choice_VyFBZyuHH": "Simulate stock outs",
+            "choice_Nk-IZJOSr": "Suggest recurring appointments like contests",
+            "choice_41Bu~J-HH": "Create \"event\" with special editions of the product",
+            "choice_EJXjW1urH": "Change the product name very frequently",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Was kann im Social Commerce getan werden, um zu verhindern, dass sich Konsumenten langweilen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Eine erfolgreiche Social-Commerce-Strategie ist eine Strategie, die ihr Produkt aktuell und interessant hält, indem wiederkehrende Ereignisse geplant und von Zeit zu Zeit spezielle Ereignisse erstellt werden, wie z. B. Special-Edition-Produkte.",
+            "tips": "Im Jahr 2018 startete Instagram die Funktion „Einkaufen“ innerhalb seiner „Geschichten“. Letzteres ist der Name für spezielle veröffentlichte Inhalte, die nach 24 Stunden nicht mehr angezeigt werden.",
+            "clue": "Ein Termin für dein Tagebuch!",
+            "choice_VyFBZyuHH": "Schlagen Sie vor, dass Produkte nicht auf Lager sind",
+            "choice_Nk-IZJOSr": "Planen Sie wiederkehrende Termine wie Wettbewerbe",
+            "choice_41Bu~J-HH": "Erstellen Sie eine \"Veranstaltung\" mit speziellen Editionen des Produkts",
+            "choice_EJXjW1urH": "Ändern Sie häufig den Namen des Produkts",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answers.",
+            "header": "In social commerce, what can be done to prevent the consumer from getting bored?",
+            "klf": "A successful social commerce strategy is one that keeps its product current and interesting by scheduling recurring events and creating special events from time to time, such as special-edition products.",
+            "tips": "In 2018, Instagram launched the “shopping” function within its “stories”. The latter is the name given to special published content that disappears from view after 24 hours.",
+            "clue": "A date for your diary!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyFBZyuHH": "Suggest that products are out of stock",
+            "choice_Nk-IZJOSr": "Schedule recurring dates such as competitions",
+            "choice_41Bu~J-HH": "Create an “event” with special editions of the product",
+            "choice_EJXjW1urH": "Frequently change the product’s name"
+        },
+        "zh": {
+            "header": "在社交商务中，可以采取哪些措施来防止消费者感到无聊？",
+            "explanation": "选择正确的答案。",
+            "klf": "成功的社交商务策略是通过安排定期活动和不时创建特殊活动（例如特殊版产品）来保持其产品最新且有趣的策略。",
+            "tips": "2018年，Instagram在其“故事”中推出了“购物”功能。后者是24小时后从视图中消失的特殊发布内容的名称。",
+            "clue": "你的日记日期！",
+            "choice_VyFBZyuHH": "建议产品缺货",
+            "choice_Nk-IZJOSr": "安排比赛等重复日期",
+            "choice_41Bu~J-HH": "使用特殊版本的产品创建“活动”",
+            "choice_EJXjW1urH": "经常更改产品名称",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

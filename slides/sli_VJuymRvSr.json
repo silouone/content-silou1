@@ -1,0 +1,118 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T13:30:07.863Z",
+            "updatedAt": "2018-08-17T13:32:14.342Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJuymRvSr",
+        "universalRef": "sli_VJuymRvSr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJuymRvSr.choice_N1xQQCvrH.id",
+                        "label": "choice_N1xQQCvrH",
+                        "value": "choice_N1xQQCvrH"
+                    },
+                    {
+                        "id": "sli_VJuymRvSr.choice_VJammCwrH.id",
+                        "label": "choice_VJammCwrH",
+                        "value": "choice_VJammCwrH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1xQQCvrH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "A REVOIR Avec une stratégie mono-produit, la tâche est facilitée car...",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Lorsqu'on décide de se lancer dans une campagne mono-produit, le nombre de fournisseurs auxquels il est nécessaire de faire appel est forcément moins important. La gestion des choses est donc logiquement plus simple.",
+            "tips": "Depuis le début des années 2010, la stratégie mono-produit est très appréciée dans le secteur de la mode. De nombreuses start-up se sont lancées en se concentrant sur un type d'articles textiles très précis, comme Oh My Node avec les noeuds papillon. (https://www.ccmp.fr/collection-ccmp/cas-oh-my-node )",
+            "clue": "Le plus est l'ennemi du bien.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1xQQCvrH": "On travaille avec un nombre réduit de fournisseurs",
+            "choice_VJammCwrH": "On travaille avec un nombre plus important de fournisseurs",
+            "choice_4kuvXRvBB": "On n'a plus besoin de fournisseurs"
+        },
+        "en": {
+            "header": "A REVIEW With a single-product strategy, the task is facilitated because ...",
+            "explanation": "Select the correct answer (s).",
+            "klf": "When you decide to start a single-product campaign, the number of suppliers you need to call is necessarily smaller. The management of things is therefore logically simpler.",
+            "tips": "Since the beginning of 2010, the mono-product strategy is very popular in the fashion sector. Many start-ups have started focusing on a type of very specific textile items, like Oh My Node with bow ties. (https://www.ccmp.fr/collection-ccmp/cas-oh-my-node)",
+            "clue": "The most is the enemy of good.",
+            "choice_N1xQQCvrH": "We work with a small number of suppliers",
+            "choice_VJammCwrH": "We work with a larger number of suppliers",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kuvXRvBB": "On n'a plus besoin de fournisseurs"
+        },
+        "de": {
+            "header": "A REVIEW Mit einer Einzelproduktstrategie wird die Aufgabe erleichtert, weil ...",
+            "explanation": "Wählen Sie die richtige Antwort (en) aus.",
+            "klf": "Wenn Sie sich entscheiden, eine Einzelproduktkampagne zu starten, ist die Anzahl der Lieferanten, die Sie anrufen müssen, notwendigerweise geringer. Die Verwaltung der Dinge ist daher logisch einfacher.",
+            "tips": "Seit Anfang 2010 ist die Monoproduktstrategie in der Modebranche sehr beliebt. Viele Start-ups haben sich auf eine bestimmte Art von Textilien konzentriert, wie zum Beispiel Oh My Node mit Fliegen. (https://www.ccmp.fr/collection-ccmp/cas-oh-my-node)",
+            "clue": "Am meisten ist der Feind des Guten.",
+            "choice_N1xQQCvrH": "Wir arbeiten mit wenigen Lieferanten zusammen",
+            "choice_VJammCwrH": "Wir arbeiten mit einer größeren Anzahl von Lieferanten zusammen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kuvXRvBB": "On n'a plus besoin de fournisseurs"
+        },
+        "es": {
+            "explanation": "Select the correct answer(s).",
+            "header": "A REVOIR Avec une stratégie mono-produit, la tâche est facilitée car...",
+            "klf": "Lorsqu'on décide de se lancer dans une campagne mono-produit, le nombre de fournisseurs auxquels il est nécessaire de faire appel est forcément moins important. La gestion des choses est donc logiquement plus simple.",
+            "tips": "Depuis le début des années 2010, la stratégie mono-produit est très appréciée dans le secteur de la mode. De nombreuses start-up se sont lancées en se concentrant sur un type d'articles textiles très précis, comme Oh My Node avec les noeuds papillon. (https://www.ccmp.fr/collection-ccmp/cas-oh-my-node )",
+            "clue": "Le plus est l'ennemi du bien.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1xQQCvrH": "On travaille avec un nombre réduit de fournisseurs",
+            "choice_VJammCwrH": "On travaille avec un nombre plus important de fournisseurs",
+            "choice_4kuvXRvBB": "On n'a plus besoin de fournisseurs"
+        },
+        "zh": {
+            "header": "回顾通过单一产品策略，可以促进任务，因为......",
+            "explanation": "选择正确的答案。",
+            "klf": "当您决定开始单一产品广告系列时，您需要调用的供应商数量必然会更少。因此，事物的管理在逻辑上更简单。",
+            "tips": "自2010年初以来，单一产品战略在时尚界非常受欢迎。许多初创企业已经开始关注一种非常特殊的纺织品，比如带领结的Oh My Node。 （Https://www.ccmp.fr/collection-ccmp/cas-oh-my-node）",
+            "clue": "最好的是好的敌人。",
+            "choice_N1xQQCvrH": "我们与少数供应商合作",
+            "choice_VJammCwrH": "我们与更多的供应商合作",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kuvXRvBB": "On n'a plus besoin de fournisseurs"
+        }
+    }
+}

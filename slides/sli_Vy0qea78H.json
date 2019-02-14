@@ -1,0 +1,134 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T14:39:32.654Z",
+            "updatedAt": "2018-09-03T17:05:51.576Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Vy0qea78H",
+        "universalRef": "sli_Vy0qea78H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vy0qea78H.choice_VJqZ~67UB.id",
+                        "label": "choice_VJqZ~67UB",
+                        "value": "choice_VJqZ~67UB"
+                    },
+                    {
+                        "id": "sli_Vy0qea78H.choice_4yXM~pXLr.id",
+                        "label": "choice_4yXM~pXLr",
+                        "value": "choice_4yXM~pXLr"
+                    },
+                    {
+                        "id": "sli_Vy0qea78H.choice_4JFzbTXUS.id",
+                        "label": "choice_4JFzbTXUS",
+                        "value": "choice_4JFzbTXUS"
+                    },
+                    {
+                        "id": "sli_Vy0qea78H.choice_EJ37b67Ir.id",
+                        "label": "choice_EJ37b67Ir",
+                        "value": "choice_EJ37b67Ir"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JFzbTXUS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Certaines solutions se développent pour faciliter l'achat et le paiement rapides, notamment les solutions de…",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les solutions de « one click shopping » comptent parmi les outils les plus efficaces pour mettre en place un  achat et un paiement suivant un schéma court.",
+            "tips": "Oyst compte parmi les solutions de « one click shopping » les plus abouties.",
+            "clue": "Unité de souris.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJqZ~67UB": "Fast track shopping",
+            "choice_4yXM~pXLr": "One step shopping",
+            "choice_4JFzbTXUS": "One click shopping",
+            "choice_EJ37b67Ir": "First step shopping"
+        },
+        "en": {
+            "header": "Some solutions are being developed to facilitate quick purchase and payment, including security solutions.",
+            "explanation": "Select the correct answers below.",
+            "klf": "One click shopping solutions are among the most effective tools for setting up a purchase and a payment in a short form.",
+            "tips": "Oyst is one of the most successful \"one click shopping\" solutions.",
+            "clue": "Mouse unit.",
+            "choice_VJqZ~67UB": "Fast track shopping",
+            "choice_4yXM~pXLr": "One step shopping",
+            "choice_4JFzbTXUS": "One click shopping",
+            "choice_EJ37b67Ir": "First step shopping",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Einige Lösungen werden entwickelt, um eine schnelle Beschaffung und Bezahlung zu ermöglichen, einschließlich Sicherheitslösungen.",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "One-Click-Shopping-Lösungen gehören zu den effektivsten Tools für die Einrichtung eines Kaufs und einer Zahlung in kurzer Form.",
+            "tips": "Oyst ist eine der erfolgreichsten \"One-Click-Shopping\" -Lösungen.",
+            "clue": "Mauseinheit.",
+            "choice_VJqZ~67UB": "Schnell einkaufen",
+            "choice_4yXM~pXLr": "Ein Schritt zum Einkaufen",
+            "choice_4JFzbTXUS": "Ein Klick einkaufen",
+            "choice_EJ37b67Ir": "Erster Schritt beim Einkaufen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answers below.",
+            "header": "Certaines solutions se développent pour faciliter l'achat et le paiement rapides, notamment les solutions de…",
+            "klf": "Les solutions de « one click shopping » comptent parmi les outils les plus efficaces pour mettre en place un  achat et un paiement suivant un schéma court.",
+            "tips": "Oyst compte parmi les solutions de « one click shopping » les plus abouties.",
+            "clue": "Unité de souris.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJqZ~67UB": "Fast track shopping",
+            "choice_4yXM~pXLr": "One step shopping",
+            "choice_4JFzbTXUS": "One click shopping",
+            "choice_EJ37b67Ir": "First step shopping"
+        },
+        "zh": {
+            "header": "正在开发一些解决方案以促进快速购买和支付，包括安全解决方案。",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "一键购物解决方案是设置购买和简短付款的最有效工具之一。",
+            "tips": "Oyst是最成功的“一键购物”解决方案之一。",
+            "clue": "鼠标单元。",
+            "choice_VJqZ~67UB": "快速购物",
+            "choice_4yXM~pXLr": "一步到位购物",
+            "choice_4JFzbTXUS": "一键购物",
+            "choice_EJ37b67Ir": "第一步购物",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

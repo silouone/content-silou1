@@ -1,0 +1,122 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-02T08:48:23.874Z",
+            "updatedAt": "2018-10-12T14:49:37.583Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek5ipWtVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1wOmhsNH",
+        "universalRef": "sli_V1wOmhsNH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1wOmhsNH.choice_E1BoI3oNS.id",
+                        "label": "choice_E1BoI3oNS",
+                        "value": "choice_E1BoI3oNS"
+                    },
+                    {
+                        "id": "sli_V1wOmhsNH.choice_VJFjL3i4B.id",
+                        "label": "choice_VJFjL3i4B",
+                        "value": "choice_VJFjL3i4B"
+                    },
+                    {
+                        "id": "sli_V1wOmhsNH.choice_VkVh8njES.id",
+                        "label": "choice_VkVh8njES",
+                        "value": "choice_VkVh8njES"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJFjL3i4B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le critère indispensable au social commerce ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le social commerce se définit essentiellement par la préexistence d'une communauté. C'est ce qui le distingue d'ailleurs de l'e-commerce traditionnel.",
+            "tips": "Le social commerce s'est développé avant l'apparition des réseaux sociaux ! Les avis clients postés sur des sites comme Amazon ou TripAdvisor ou sur des forums pouvaient déjà être considérés comme du social commerce.",
+            "clue": "Followers.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1BoI3oNS": "L'utilisation d'outils en ligne",
+            "choice_VJFjL3i4B": "La préexistence d'une communauté",
+            "choice_VkVh8njES": "Des promotions ponctuelles"
+        },
+        "en": {
+            "header": "What is the essential criterion for social commerce?",
+            "explanation": "Select the correct answer.",
+            "klf": "Social commerce is essentially defined by the pre-existence of a community. This is what sets it apart from traditional e-commerce.",
+            "tips": "Social commerce has developed before the appearance of social networks! Customer reviews posted on sites like Amazon or TripAdvisor or on forums could already be considered as social commerce.",
+            "clue": "Followers.",
+            "choice_E1BoI3oNS": "Use of online tools",
+            "choice_VJFjL3i4B": "Pre-existence of a community",
+            "choice_VkVh8njES": "One-off promotions",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Was ist eine Voraussetzung für Social Commerce?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Social Commerce wird in erster Linie durch das Vorhandensein einer Gemeinschaft definiert. Das unterscheidet es vom traditionellen E-Commerce.",
+            "tips": "Social Commerce entwickelte sich vor dem Aufkommen von Social Media! Kundenbewertungen auf Websites wie Amazon oder TripAdvisor oder in Foren können als Social Commerce eingestuft werden.",
+            "clue": "Anhänger",
+            "choice_E1BoI3oNS": "Die Verwendung von Online-Tools",
+            "choice_VJFjL3i4B": "Das Vorhandensein einer Gemeinschaft",
+            "choice_VkVh8njES": "Regelmäßige Promotionen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "What is a prerequisite for social commerce?",
+            "klf": "Social commerce is primarily defined by the pre-existence of a community. This is what distinguishes it from traditional e-commerce.",
+            "tips": "Social commerce developed before the emergence of social media! Customer opinions posted on websites such as Amazon or TripAdvisor, or on forums, could be classified as social commerce.",
+            "clue": "Followers.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1BoI3oNS": "The use of online tools",
+            "choice_VJFjL3i4B": "The pre-existence of a community",
+            "choice_VkVh8njES": "Regular promotions"
+        },
+        "zh": {
+            "header": "社交商务的先决条件是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "社交商务主要由社区的存在来定义。这就是它与传统电子商务的区别。",
+            "tips": "社交媒体在社交媒体出现之前就已经发展了！在亚马逊或TripAdvisor等网站或论坛上发布的客户意见可归类为社交商务。",
+            "clue": "追随者。",
+            "choice_E1BoI3oNS": "使用在线工具",
+            "choice_VJFjL3i4B": "社区的存在",
+            "choice_VkVh8njES": "定期促销",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-21T13:44:40.738Z",
+            "updatedAt": "2018-10-12T15:25:51.469Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41BgCWKNS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyqAEWrLH",
+        "universalRef": "sli_EyqAEWrLH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyqAEWrLH.choice_VkjHB~rUH.id",
+                        "label": "choice_VkjHB~rUH",
+                        "value": "choice_VkjHB~rUH"
+                    },
+                    {
+                        "id": "sli_EyqAEWrLH.choice_EkGDrZHLH.id",
+                        "label": "choice_EkGDrZHLH",
+                        "value": "choice_EkGDrZHLH"
+                    },
+                    {
+                        "id": "sli_EyqAEWrLH.choice_VkI3SZrLS.id",
+                        "label": "choice_VkI3SZrLS",
+                        "value": "choice_VkI3SZrLS"
+                    },
+                    {
+                        "id": "sli_EyqAEWrLH.choice_Nkw1LbrUB.id",
+                        "label": "choice_Nkw1LbrUB",
+                        "value": "choice_Nkw1LbrUB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkGDrZHLH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Ça y est, vous avez en ligne de mire l'influenceur idéal pour vous accompagner sur le lancement de votre nouvelle gamme de produits. Comment vous y prenez-vous pour le contacter ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour maximiser vos chances \"d'accrocher\" avec l'influenceur que vous avez repéré, il est bienvenu d'apprendre à le connaître avant tout contact. Cela vous permettra de bien préparer votre message et d'adopter le ton approprié, pourquoi pas en reprenant ses codes.",
+            "tips": "Il est possible d'avoir recours à un agent qui sert d'intermédiaire entre la marque et l'influenceur. L'objectif : éviter au maximum les problèmes d'incompréhension.",
+            "clue": "Profiler.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkjHB~rUH": "Vous dégainez sans attendre : une marque concurrente pourrait mettre la main avant vous sur cette perle rare",
+            "choice_EkGDrZHLH": "Vous vous accordez un temps d'apprivoisement : vous regardez ses vidéos YouTube et lisez ses posts avant tout contact",
+            "choice_VkI3SZrLS": "Vous lui envoyez de premiers éléments sur vos produits. Vous aurez ensuite le temps de regarder ses publications sur les réseaux",
+            "choice_Nkw1LbrUB": "Vous lui demandez ses conditions financières avant de vous intéresser davantage à lui, afin de ne pas perdre votre temps"
+        },
+        "en": {
+            "header": "That's it, you have in sight the ideal influencer to accompany you on the launch of your new range of products. How do you go about contacting him?",
+            "explanation": "Select the correct answer.",
+            "klf": "To maximize your chances of \"hooking up\" with the influencer you've spotted, it's nice to get to know him before any contact. This will allow you to prepare your message and adopt the appropriate tone, why not by resuming its codes.",
+            "tips": "It is possible to use an agent who mediates between the brand and the influencer. The goal: to avoid the problems of misunderstanding as much as possible.",
+            "clue": "Profiles.",
+            "choice_VkjHB~rUH": "You draw without waiting: a competing brand could put your hand before you on this rare pearl",
+            "choice_EkGDrZHLH": "You're taming yourself: you watch his YouTube videos and read his posts before any contact",
+            "choice_VkI3SZrLS": "You send him first elements on your products. You will then have time to look at his publications on the networks",
+            "choice_Nkw1LbrUB": "You ask him his financial conditions before you get more interested in him, so as not to waste your time",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "OK, also haben Sie den perfekten Influencer gefunden, der Sie bei der Einführung Ihrer neuen Produktpalette unterstützt. Wie solltest du ihn oder sie kontaktieren?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Um Ihre Chancen, den gefundenen Influencer zu sichern, zu maximieren, sollten Sie diese kennenlernen, bevor Sie den ersten Kontakt herstellen. Dies hilft Ihnen, Ihre Botschaft vorzubereiten und den richtigen Ton anzunehmen, der auch ihren eigenen Stil einschließen kann.",
+            "tips": "Sie können einen Agenten als Vermittler zwischen Marke und Influencer einsetzen. Das Ziel: möglichst viele Missverständnisse vermeiden.",
+            "clue": "Profilierung.",
+            "choice_VkjHB~rUH": "Sie bewegen sich schnell: Eine konkurrierende Marke könnte dieses Juwel vor Ihren Augen in die Hände bekommen",
+            "choice_EkGDrZHLH": "Sie geben sich Zeit zum Nachdenken: Sie checken ihre YouTube-Videos aus und lesen ihre Beiträge, bevor Sie Kontakt aufnehmen",
+            "choice_VkI3SZrLS": "Sie senden ihnen erste Informationen zu Ihrem Produkt. Sie haben später Zeit, ihre Social-Media-Beiträge zu lesen",
+            "choice_Nkw1LbrUB": "Bevor Sie sich stärker dafür interessieren, fragen Sie nach den finanziellen Bedingungen, damit Sie keine Zeit verlieren",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "OK, so you’ve found the perfect influencer to help you launch your new range of products. How should you contact him or her?",
+            "klf": "To maximise your chances of securing the influencer you have found, you should get to know them before making that initial contact. This will help you to prepare your message and adopt the right tone, which could include using their own style.",
+            "tips": "You could use an agent to act as an intermediary between the brand and influencer. The aim: to avoid as many misunderstandings as possible.",
+            "clue": "Profiling.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkjHB~rUH": "You move fast: a competing brand could get their hands on this gem before you",
+            "choice_EkGDrZHLH": "You give yourself some time to think: you check out their YouTube videos and read their posts before making contact",
+            "choice_VkI3SZrLS": "You send them some initial information about your product. You'll have time to read their social media posts later",
+            "choice_Nkw1LbrUB": "Before you take more of an interest, you ask what their financial terms are to avoid wasting your time"
+        },
+        "zh": {
+            "header": "好的，所以你找到了一个完美的影响者来帮助你推出新的产品系列。你应该怎么联系他或她？",
+            "explanation": "选择正确的答案。",
+            "klf": "为了最大限度地保护您找到的影响者的机会，您应该在进行初次接触之前了解它们。这将帮助您准备信息并采用正确的语气，包括使用自己的风格。",
+            "tips": "您可以使用代理商充当品牌和影响者之间的中间人。目的：避免尽可能多的误解。",
+            "clue": "剖析。",
+            "choice_VkjHB~rUH": "你快速行动：一个竞争品牌可以在你之前获得这个宝石",
+            "choice_EkGDrZHLH": "您给自己一些时间思考：在联系之前，您可以查看他们的YouTube视频并阅读他们的帖子",
+            "choice_VkI3SZrLS": "您向他们发送了一些有关您产品的初始信息。您将有时间阅读他们的社交媒体帖子",
+            "choice_Nkw1LbrUB": "在您获得更多利益之前，您可以询问他们的财务条款是什么，以避免浪费您的时间",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

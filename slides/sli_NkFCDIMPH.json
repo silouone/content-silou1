@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-31T16:12:23.572Z",
+            "updatedAt": "2018-10-12T15:28:49.282Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41BgCWKNS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NkFCDIMPH",
+        "universalRef": "sli_NkFCDIMPH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel63651",
+                        "items": [
+                            {
+                                "text": "choice_V1x0k-LfPr",
+                                "value": "choice_V1x0k-LfPr"
+                            },
+                            {
+                                "text": "choice_NkZCJOIfwH",
+                                "value": "choice_NkZCJOIfwH"
+                            },
+                            {
+                                "text": "choice_EJ1ZOIfvS",
+                                "value": "choice_EJ1ZOIfvS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel63651",
+                        "answers": [
+                            "choice_EJ1ZOIfvS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour votre stratégie marketing, vous devez définir votre cible marketing. De quoi s'agit-il ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Votre cible marketing – celle à qui vous souhaitez vendre – est constituée de deux populations : votre cible, c’est-à-dire les clients existants et potentiels, et votre cœur de cible, soit les clients les plus importants. Vous devez les identifier clairement avant d'entamer une campagne marketing avec un influenceur.",
+            "tips": "En fonction du produit ou service que vous souhaitez vendre, vous aurez peut-être besoin d'élargir votre cible, par exemple en différenciant le consommateur final de l'acheteur (notamment dans le cas de produits \"cadeaux\").",
+            "clue": "Inclusif.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63651}}",
+            "choice_V1x0k-LfPr": "La cible (clients existants et potentiels)",
+            "choice_NkZCJOIfwH": "Le cœur de cible (les meilleurs clients)",
+            "choice_EJ1ZOIfvS": "Les deux : la cible et le cœur de cible"
+        },
+        "en": {
+            "header": "For your marketing strategy, you need to define your marketing target. What is it about ?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Your marketing target - the one you want to sell - is made up of two populations: your target audience, that is, existing and potential customers, and your target audience, the most important customers. You must identify them clearly before starting a marketing campaign with an influencer.",
+            "tips": "Depending on the product or service you want to sell, you may need to expand your target, for example by differentiating the end consumer from the buyer (especially in the case of \"gift\" products).",
+            "clue": "Inclusive.",
+            "template": "{{sel63651}}",
+            "choice_V1x0k-LfPr": "The target (existing and potential customers)",
+            "choice_NkZCJOIfwH": "The target heart (the best customers)",
+            "choice_EJ1ZOIfvS": "Both: the target and the target heart",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie müssen Ihre Zielgruppe für Ihre Marketingstrategie definieren. Was ist es?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Ihr Marketingziel - an wen Sie verkaufen möchten - umfasst zwei Gruppen: Ihr Ziel (bestehende und potenzielle Kunden) und Ihr Kernziel (die wichtigsten Kunden). Sie sollten diese beiden Gruppen eindeutig identifizieren, bevor Sie eine Marketingkampagne mit einem Influencer starten.",
+            "tips": "Abhängig von dem Produkt oder der Dienstleistung, die Sie verkaufen möchten, müssen Sie möglicherweise Ihr Ziel erweitern, indem Sie beispielsweise zwischen Endverbraucher und Käufer unterscheiden (insbesondere bei Geschenken).",
+            "clue": "Inklusive",
+            "template": "{{sel63651}}",
+            "choice_V1x0k-LfPr": "Das Ziel (bestehende und potenzielle Kunden)",
+            "choice_NkZCJOIfwH": "Das Kernziel (die besten Kunden)",
+            "choice_EJ1ZOIfvS": "Beide: das Ziel und das Kernziel",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "You need to define your target audience for your marketing strategy. What is it?",
+            "klf": "Your marketing target – who you want to sell to – contains two groups: your target (existing and potential customers), and your core target (the most important customers). You should clearly identify these two groups before launching a marketing campaign with an influencer.",
+            "tips": "Depending on the product or service you want to sell, you may need to widen your target, for example, by making a distinction between the end consumer and the buyer (especially when it comes to gifts).",
+            "clue": "Inclusive.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63651}}",
+            "choice_V1x0k-LfPr": "The target (existing and potential customers)",
+            "choice_NkZCJOIfwH": "The core target (the best customers)",
+            "choice_EJ1ZOIfvS": "Both: the target and the core target"
+        },
+        "zh": {
+            "header": "您需要为营销策略定义目标受众。它是什么？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "您的营销目标 - 您想要销售给谁 - 包含两个组：您的目标（现有和潜在客户），以及您的核心目标（最重要的客户）。在与影响者一起开展营销活动之前，您应该清楚地识别这两个群体。",
+            "tips": "根据您要销售的产品或服务，您可能需要扩大目标，例如，区分最终消费者和买家（特别是在礼品方面）。",
+            "clue": "包括的。",
+            "template": "{{sel63651}}",
+            "choice_V1x0k-LfPr": "目标（现有和潜在客户）",
+            "choice_NkZCJOIfwH": "核心目标（最好的客户）",
+            "choice_EJ1ZOIfvS": "两者：目标和核心目标",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

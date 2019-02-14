@@ -1,0 +1,133 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T15:02:21.273Z",
+            "updatedAt": "2018-10-12T15:00:20.112Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E1UGvkdSH",
+        "universalRef": "sli_E1UGvkdSH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1UGvkdSH.choice_NkbnNhkLB.id",
+                        "label": "choice_NkbnNhkLB",
+                        "value": "choice_NkbnNhkLB"
+                    },
+                    {
+                        "id": "sli_E1UGvkdSH.choice_N1G3E2kUr.id",
+                        "label": "choice_N1G3E2kUr",
+                        "value": "choice_N1G3E2kUr"
+                    },
+                    {
+                        "id": "sli_E1UGvkdSH.choice_VyxznV2J8H.id",
+                        "label": "choice_VyxznV2J8H",
+                        "value": "choice_VyxznV2J8H"
+                    },
+                    {
+                        "id": "sli_E1UGvkdSH.choice_EkXn431Ir.id",
+                        "label": "choice_EkXn431Ir",
+                        "value": "choice_EkXn431Ir"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyxznV2J8H",
+                        "choice_EkXn431Ir"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les atouts d'une stratégie mono-produit ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Une stratégie mono-produit présente deux avantages majeurs : travailler avec un nombre réduit de fournisseurs et se positionner en tant qu'expert du produit, ce qui permet de fournir à ses clients des conseils à haute valeur ajoutée. Toutefois, se focaliser sur un seul type de produit n'exempte pas de développer une large gamme, pour séduire le plus grand nombre de clients !",
+            "tips": "Le mono-produit fait florès sur le terrain de la pâtisserie où la créativité est de mise pour tirer son épingle du jeu. Si bien que de grands noms de la gastronomie, de Christophe Michalak à Guy Savoy, revisitent aujourd'hui choux, éclairs et brioches.",
+            "clue": "Vous vous facilitez la tâche et devenez une référence auprès de vos clients.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkbnNhkLB": "Limiter ses coûts de conception en proposant une gamme très réduite de produits",
+            "choice_N1G3E2kUr": "Cibler une clientèle au pouvoir d'achat élevé",
+            "choice_VyxznV2J8H": "Travailler avec un nombre réduit de fournisseurs",
+            "choice_EkXn431Ir": "Fournir aux clients des conseils à haute valeur ajoutée"
+        },
+        "en": {
+            "header": "What are the advantages of a mono-product strategy?",
+            "explanation": "Select the correct answers.",
+            "klf": "A single-product strategy has two major advantages: working with a small number of suppliers and positioning itself as a product expert, which provides customers with high value-added advice. However, focusing on a single type of product does not exempt from developing a wide range, to attract the largest number of customers!",
+            "tips": "The mono-product is flourishing on the pastry field where creativity is needed to pull out of the game. So great names in gastronomy, from Christophe Michalak to Guy Savoy, revisit today cabbage, lightning and buns.",
+            "clue": "You make your job easier and become a reference to your customers.",
+            "choice_NkbnNhkLB": "Limit design costs by offering a very limited range of products",
+            "choice_N1G3E2kUr": "Targeting a clientele with high purchasing power",
+            "choice_VyxznV2J8H": "Work with a small number of suppliers",
+            "choice_EkXn431Ir": "Provide customers with high value added advice",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Was sind die Vorteile einer Einzelproduktstrategie?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Eine Einzelproduktstrategie hat zwei Hauptvorteile: Die Zusammenarbeit mit einer geringeren Anzahl von Lieferanten und die Positionierung als Produktexperte ermöglichen es Ihnen, Ihren Kunden eine Beratung mit hohem Mehrwert zu bieten. Die Fokussierung auf einen einzigen Produkttyp sollte Sie jedoch nicht daran hindern, ein breites Sortiment zu entwickeln, um so viele Kunden wie möglich zu gewinnen!",
+            "tips": "Die Einzelproduktstrategie war ein großer Erfolg auf dem französischen Gebäckmarkt, wo Kreativität im Wettbewerb mit Konkurrenten eingesetzt wird. Sogar die Stars der französischen Gourmetküche, darunter Christophe Michalak und Guy Savoy, bieten jetzt Updates zu Gebäckklassikern wie Brötchen, Eclairs und Brioches an.",
+            "clue": "Sie machen das Leben leicht und werden für Ihre Kunden zum Benchmark-Produkt.",
+            "choice_NkbnNhkLB": "Minimierung der Designkosten durch Angebot einer begrenzten Produktpalette",
+            "choice_N1G3E2kUr": "Kunden mit hoher Kaufkraft ansprechen",
+            "choice_VyxznV2J8H": "Mit weniger Lieferanten arbeiten",
+            "choice_EkXn431Ir": "Kunden eine Beratung mit hohem Mehrwert bieten",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answers.",
+            "header": "What are the advantages of a single-product strategy?",
+            "klf": "A single-product strategy has two main advantages: working with a smaller number of suppliers and positioning yourself as the product expert, which enables you to offer your customers high added-value advice. But focusing on a single product type shouldn’t prevent you from developing a broad range to attract as many customers as possible!",
+            "tips": "The single-product strategy has been a great success in the French pastries market, where creativity is used to compete with rivals. Even the stars of France's gourmet cuisine circuit, including Christophe Michalak and Guy Savoy, are now offering updates on pastry classics such as choux buns, éclairs and brioches.",
+            "clue": "You make life easy and become a benchmark product for your customers.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkbnNhkLB": "Minimising design costs by offering a limited range of products",
+            "choice_N1G3E2kUr": "Targeting customers with high purchasing power",
+            "choice_VyxznV2J8H": "Working with fewer suppliers",
+            "choice_EkXn431Ir": "Offering customers high added-value advice"
+        },
+        "zh": {
+            "header": "单一产品策略有哪些优势？",
+            "explanation": "选择正确的答案。",
+            "klf": "单一产品策略有两个主要优势：与少数供应商合作，并将自己定位为产品专家，这使您能够为客户提供高附加值的建议。但是，专注于单一产品类型不应妨碍您开发范围广泛以吸引尽可能多的客户！",
+            "tips": "单一产品战略在法国糕点市场取得了巨大成功，其中创造力被用来与竞争对手竞争。甚至包括Christophe Michalak和Guy Savoy在内的法国美食圈的明星现在也提供糕点经典的最新消息，如泡芙包子，éclairs和奶油蛋卷。",
+            "clue": "您可以轻松生活，成为客户的基准产品。",
+            "choice_NkbnNhkLB": "通过提供有限的产品范围，最大限度地降低设计成本",
+            "choice_N1G3E2kUr": "针对具有高购买力的客户",
+            "choice_VyxznV2J8H": "与更少的供应商合作",
+            "choice_EkXn431Ir": "为客户提供高附加值的建议",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-02T13:16:12.674Z",
+            "updatedAt": "2018-10-12T14:54:26.273Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek5ipWtVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1OU~lh4H",
+        "universalRef": "sli_N1OU~lh4H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel17497",
+                        "items": [
+                            {
+                                "text": "choice_VylkkMgn4B",
+                                "value": "choice_VylkkMgn4B"
+                            },
+                            {
+                                "text": "choice_4k~kyGg34r",
+                                "value": "choice_4k~kyGg34r"
+                            },
+                            {
+                                "text": "choice_V19Zfl3Vr",
+                                "value": "choice_V19Zfl3Vr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel17497",
+                        "answers": [
+                            "choice_4k~kyGg34r"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le social commerce fonctionne pour tous les secteurs d'activité. Mais pour quel type de marché est-il particulièrement efficace ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Même si ses préceptes sont applicables à tous les types de services et produits, le social commerce se révèle plus efficace que jamais lorsqu'il est appliqué à des produits \"physiques\" aux qualités visuelles évidentes, de type B to C (mobilier, cosmétiques, vêtements…).",
+            "tips": "De grands groupes n'hésitent pas à racheter des petites marques 100% digitales au fort potentiel. Ainsi, L'Oréal a par exemple acquis la marque de cosmétiques américaine NYX (près de 2.900.000 \"likes\" sur sa page Facebook en août 2018). LVMH, pour sa part, a mis la main sur Benefit Cosmetics.",
+            "clue": "Concret.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel17497}}",
+            "choice_VylkkMgn4B": "Les solutions informatiques",
+            "choice_4k~kyGg34r": "Les produits physiques et \"visuels\"",
+            "choice_V19Zfl3Vr": "Les services à la personne"
+        },
+        "en": {
+            "header": "Social commerce works for all sectors of activity. But for which type of market is it particularly effective?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Even if its precepts are applicable to all types of services and products, social commerce proves more effective than ever when it is applied to \"physical\" products with obvious visual qualities, such as B to C (furniture, cosmetics, clothing…).",
+            "tips": "Large groups do not hesitate to buy small, 100% digital brands with high potential. For example, L'Oréal acquired the US cosmetics brand NYX (nearly 2,900,000 \"likes\" on its Facebook page in August 2018). LVMH, for its part, has got its hands on Benefit Cosmetics.",
+            "clue": "Concrete",
+            "template": "{{sel17497}}",
+            "choice_VylkkMgn4B": "IT solutions",
+            "choice_4k~kyGg34r": "Physical and \"visual\" products",
+            "choice_V19Zfl3Vr": "The services to the person",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Social Commerce ist branchenübergreifend tätig. Aber in welchem ​​Markt ist dies besonders effektiv?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Obwohl seine Prinzipien auf alle Dienstleistungen und Produkte angewendet werden können, ist Social Commerce effektiver, wenn es auf „physische“ B-to-C-Produkte angewendet wird, die ein klares visuelles Bild haben (Möbel, Kosmetik, Kleidung usw.).",
+            "tips": "Große Unternehmen möchten kleinere Marken gewinnen, die ausschließlich online sind und großes Potenzial haben. L'Oréal zum Beispiel kaufte die US-amerikanische Kosmetikmarke NYX (fast 2.900.000 \"Likes\" auf ihrer Facebook-Seite im August 2018). Und LVMH hat Benefit Cosmetics erworben.",
+            "clue": "Greifbar",
+            "template": "{{sel17497}}",
+            "choice_VylkkMgn4B": "IT-Lösungen",
+            "choice_4k~kyGg34r": "Körperliche und visuelle Produkte",
+            "choice_V19Zfl3Vr": "Persönliche Dienstleistungen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "Social commerce operates across all sectors. But in which type of market is it particularly effective?",
+            "klf": "Although its principles can be applied to any services and products, social commerce is more effective when applied to “physical” B-to-C type products that have a distinct visual image (furniture, cosmetics, clothing, etc.).",
+            "tips": "Major corporations are keen to snap up smaller brands that are exclusively online and have strong potential. L'Oréal, for example, bought the US cosmetics brand NYX (almost 2,900,000 \"likes\" on its Facebook page in August 2018). And LVMH acquired Benefit Cosmetics.",
+            "clue": "Tangible.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel17497}}",
+            "choice_VylkkMgn4B": "IT solutions",
+            "choice_4k~kyGg34r": "Physical and “visual” products",
+            "choice_V19Zfl3Vr": "Personal services"
+        },
+        "zh": {
+            "header": "社会商业跨所有部门运作。但是哪种类型的市场特别有效？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "虽然其原则可以应用于任何服务和产品，但是当应用于具有独特视觉图像（家具，化妆品，服装等）的“物理”B-to-C类型产品时，社交商务更有效。",
+            "tips": "大公司热衷于抢购专门在线且具有巨大潜力的小品牌。例如，欧莱雅（L'Oréal）在2018年8月的Facebook页面上购买了美国化妆品品牌NYX（差不多有2,900,000“喜欢”）。 LVMH收购了Benefit Cosmetics。",
+            "clue": "有形。",
+            "template": "{{Sel17497}}",
+            "choice_VylkkMgn4B": "IT解决方案",
+            "choice_4k~kyGg34r": "物理和“视觉”产品",
+            "choice_V19Zfl3Vr": "个人服务",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

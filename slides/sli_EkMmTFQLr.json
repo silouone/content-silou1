@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T10:59:35.334Z",
+            "updatedAt": "2018-10-12T15:20:55.330Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EkMmTFQLr",
+        "universalRef": "sli_EkMmTFQLr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel26129",
+                        "items": [
+                            {
+                                "text": "choice_4JgXx9eY8r",
+                                "value": "choice_4JgXx9eY8r"
+                            },
+                            {
+                                "text": "choice_4k~Qx5eKUH",
+                                "value": "choice_4k~Qx5eKUH"
+                            },
+                            {
+                                "text": "choice_NyeWcet8r",
+                                "value": "choice_NyeWcet8r"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel26129",
+                        "answers": [
+                            "choice_NyeWcet8r"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour faire la promotion de votre produit, vous créez une page Facebook. Quels boutons vous aideront à générer facilement des interactions avec vos clients potentiels ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les boutons call-to-action disponibles sur Facebook, mais aussi sur des réseaux sociaux comme Instagram ou Twitter, permettent à l'utilisateur d'effectuer une action en un clic : s'abonner, acheter un produit, participer à un jeu, envoyer un message…",
+            "tips": "La couleur d'un bouton call-to-action a son importance. Selon une étude de Skilled, ce sont les boutons orange, rouges et verts qui génèrent les meilleurs taux de conversion : <a href=\"https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/\" target=\"_blank\">https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/</a>",
+            "clue": "Sollicitation.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les boutons {{sel26129}}",
+            "choice_4JgXx9eY8r": "capture-action",
+            "choice_4k~Qx5eKUH": "catch-to-action",
+            "choice_NyeWcet8r": "call-to-action"
+        },
+        "en": {
+            "header": "To promote your product, you create a Facebook page. Which buttons will help you easily generate interactions with your potential customers?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The call-to-action buttons available on Facebook, but also on social networks like Instagram or Twitter, allow the user to perform an action in one click: subscribe, buy a product, participate in a game, send a message…",
+            "tips": "The color of a call-to-action button is important. According to a study by Skilled, the orange, red and green buttons generate the best conversion rates: <a href=\"https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/\" target=\"_blank\">https://skilled.co/en/resources/booster-your-conversion-rates/</a>",
+            "clue": "Solicitation.",
+            "template": "The {{sel26129}} buttons",
+            "choice_4JgXx9eY8r": "capture-action",
+            "choice_4k~Qx5eKUH": "catch-to-action",
+            "choice_NyeWcet8r": "call-to-action",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie erstellen eine Facebook-Seite, um Ihr Produkt zu bewerben. Welche Schaltflächen erleichtern die Generierung von Interaktionen mit Ihren potenziellen Kunden?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Mit den Call-to-Action-Buttons auf Facebook und auf Social-Media-Plattformen wie Instagram oder Twitter kann der Benutzer eine Aktion mit einem Klick ausführen: Anmelden, Produkt kaufen, an einem Spiel teilnehmen, Nachricht senden , usw.",
+            "tips": "Die Farbe der Handlungsaufforderung ist sehr wichtig. Laut einer Skilled-Studie erzielen orange, rote und grüne Tasten die höchsten Konversionsraten: <a href=\"https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/\" target=\"_blank\">https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/</a>",
+            "clue": "Anruf tätigen",
+            "template": "{{Sel26129}} -Tasten",
+            "choice_4JgXx9eY8r": "Capture-Aktion",
+            "choice_4k~Qx5eKUH": "catch-to-action",
+            "choice_NyeWcet8r": "Aufruf zum Handeln",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "You create a Facebook page to promote your product. Which buttons would make it easier to generate interactions with your potential customers?",
+            "klf": "The call-to-action buttons available on Facebook, and on social media platforms such as Instagram or Twitter, allow the user to complete an action in one click: sign-up, purchase a product, take part in a game, send a message, etc.",
+            "tips": "The colour of the call-to-action button is very important. According to a Skilled study, orange, red and green buttons generate the highest conversion rates: <a href=\"https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/\" target=\"_blank\">https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/</a>",
+            "clue": "Make the call.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{Sel26129}} buttons",
+            "choice_4JgXx9eY8r": "capture-action",
+            "choice_4k~Qx5eKUH": "catch-to-action",
+            "choice_NyeWcet8r": "call-to-action"
+        },
+        "zh": {
+            "header": "您创建一个Facebook页面来宣传您的产品。哪些按钮可以更容易地与潜在客户进行交互？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "Facebook上以及Instagram或Twitter等社交媒体平台上提供的号召性用语按钮允许用户一键完成操作：注册，购买产品，参与游戏，发送消息等",
+            "tips": "号召性用语按钮的颜色非常重要。根据Skilled研究，橙色，红色和绿色按钮产生最高的转换率： <a href=\"https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/\" target=\"_blank\">https</a> ： <a href=\"https://skilled.co/fr/ressources/booster-votre-taux-de-conversion/\" target=\"_blank\">//skilled.co/fr/ressources/booster-votre-taux-de-conversion/</a>",
+            "clue": "拨打电话。",
+            "template": "{{Sel26129}}按钮",
+            "choice_4JgXx9eY8r": "捕捉动作",
+            "choice_4k~Qx5eKUH": "追赶到行动",
+            "choice_NyeWcet8r": "呼吁采取行动",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

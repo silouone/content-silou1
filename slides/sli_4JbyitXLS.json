@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T10:51:54.750Z",
+            "updatedAt": "2018-10-12T15:20:16.122Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4JbyitXLS",
+        "universalRef": "sli_4JbyitXLS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel82273",
+                        "items": [
+                            {
+                                "text": "choice_4keSNzeYLH",
+                                "value": "choice_4keSNzeYLH"
+                            },
+                            {
+                                "text": "choice_VJZSEzgY8r",
+                                "value": "choice_VJZSEzgY8r"
+                            },
+                            {
+                                "text": "choice_N1tVzxK8B",
+                                "value": "choice_N1tVzxK8B"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel82273",
+                        "answers": [
+                            "choice_VJZSEzgY8r"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous souhaitez rattraper les consommateurs qui ont annulé leur panier au dernier moment en leur présentant une annonce du produit abandonné. Comment s'appelle cette méthode ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une campagne de retargeting vise à présenter au consommateur une annonce concernant un produit qu'il a pu placer dans son panier d'achat avant de l'abandonner.",
+            "tips": "Sur le plan technique, le retargeting consiste à utiliser les données de navigation stockées dans les cookies des internautes, ce qui permet de diffuser en temps réel des publicités ciblées sur les sites qu'ils visitent.",
+            "clue": "Le préfixe qui marque la répétition devrait vous aider…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une campagne de {{sel82273}}",
+            "choice_4keSNzeYLH": "conversion",
+            "choice_VJZSEzgY8r": "retargeting",
+            "choice_N1tVzxK8B": "call-to-action"
+        },
+        "en": {
+            "header": "You want to catch up with consumers who canceled their cart at the last moment by presenting them with an announcement of the discontinued product. What is the name of this method?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "A retargeting campaign aims at presenting the consumer with an announcement about a product that he has placed in his shopping cart before giving up.",
+            "tips": "Technically, retargeting is the use of browsing data stored in the cookies of Internet users, which allows to broadcast in real time targeted advertisements on the sites they visit.",
+            "clue": "The prefix that marks the repetition should help you ...",
+            "template": "A campaign of {{sel82273}}",
+            "choice_4keSNzeYLH": "conversion",
+            "choice_VJZSEzgY8r": "retargeting",
+            "choice_N1tVzxK8B": "call-to-action",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie möchten Verbraucher, die ihren Warenkorb vor dem Kauf abgesetzt haben, wieder auf die Website bringen, indem Sie ihnen eine Werbung für das aufgegebene Produkt vorlegen. Wie heißt diese Technik?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Eine Retargeting-Kampagne versucht dem Verbraucher eine Anzeige für ein Produkt zu präsentieren, das er seinem Warenkorb hinzugefügt hat, bevor er den Kauf abbricht.",
+            "tips": "Technisch gesehen verwendet Retargeting Browsing-Daten, die in den Cookies des Internetbenutzers gespeichert sind. Dadurch können gezielte Anzeigen auf Websites, die der Benutzer besucht, in Echtzeit geschaltet werden.",
+            "clue": "Ein Synonym für den erneuten Angriff auf jemanden.",
+            "template": "Eine {{sel82273}} ​​Kampagne",
+            "choice_4keSNzeYLH": "Umwandlung",
+            "choice_VJZSEzgY8r": "Retargeting",
+            "choice_N1tVzxK8B": "Aufruf zum Handeln",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "You want to bring consumers who abandoned their basket right before completing the sale back to the website by presenting them with an advertisement for the abandoned product. What is this technique called?",
+            "klf": "A retargeting campaign attempts to present the consumer with an ad for a product that he or she added to their basket before abandoning the purchase.",
+            "tips": "Technically, retargeting uses browsing data stored in the internet user’s cookies, which allows targeted ads to be displayed in real time on websites visited by the user.",
+            "clue": "A synonym for trying to target someone again.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "A {{sel82273}} campaign",
+            "choice_4keSNzeYLH": "conversion",
+            "choice_VJZSEzgY8r": "retargeting",
+            "choice_N1tVzxK8B": "call-to-action"
+        },
+        "zh": {
+            "header": "您希望在完成销售之前将放弃购物篮的消费者带回到网站，向他们展示废弃产品的广告。这种技术叫做什么？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "重新定位广告系列会尝试向用户展示他或她在放弃购买之前添加到其购物篮中的产品的广告。",
+            "tips": "从技术上讲，重定向使用存储在互联网用户的cookie中的浏览数据，这允许在用户访问的网站上实时显示目标广告。",
+            "clue": "尝试再次定位某人的同义词。",
+            "template": "一个{{sel82273}}广告系列",
+            "choice_4keSNzeYLH": "转变",
+            "choice_VJZSEzgY8r": "重新定位",
+            "choice_N1tVzxK8B": "呼吁采取行动",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

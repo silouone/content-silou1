@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T14:12:56.562Z",
+            "updatedAt": "2018-10-12T15:22:27.562Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Ny~buhQLr",
+        "universalRef": "sli_Ny~buhQLr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ny~buhQLr.choice_41gHP~~tLS.id",
+                        "label": "choice_41gHP~~tLS",
+                        "value": "choice_41gHP~~tLS",
+                        "media": "med_Eyrvb~YIH"
+                    },
+                    {
+                        "id": "sli_Ny~buhQLr.choice_EJxUw~~K8H.id",
+                        "label": "choice_EJxUw~~K8H",
+                        "value": "choice_EJxUw~~K8H",
+                        "media": "med_NkUPbZY8H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJxUw~~K8H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Une de vos relations professionnelles affirme qu'insérer des \"buy buttons\" sur une page Facebook sert uniquement à faciliter l'acte d'achat. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Même quand ils n’entraînent pas un achat, les \"buy buttons\" peuvent générer du trafic sur votre site de façon simplifiée.",
+            "tips": "Twitter et Facebook ont été les premiers réseaux sociaux à mettre en place des buy buttons, en 2014.",
+            "clue": "Quand vous entrez dans une boutique, vous pouvez regarder sans acheter…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gHP~~tLS": "Vrai",
+            "choice_EJxUw~~K8H": "Faux"
+        },
+        "en": {
+            "header": "One of your business relations states that inserting \"buy buttons\" on a Facebook page serves only to facilitate the act of purchase. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Even when they do not involve a purchase, the buy buttons can drive traffic to your site in a simplified way.",
+            "tips": "Twitter and Facebook were the first social networks to set up buy buttons in 2014.",
+            "clue": "When you enter a shop, you can look without buying ...",
+            "choice_41gHP~~tLS": "True",
+            "choice_EJxUw~~K8H": "False",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Einer Ihrer Arbeitskollegen behauptet, dass das Einfügen von „Kaufen-Schaltflächen“ auf einer Facebook-Seite nur den Umsatz steigern kann. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Auch wenn sie nicht zu einem Verkauf führen, können Sie mit dem Button \"Kaufen\" auf Ihre Website gelangen.",
+            "tips": "Twitter und Facebook waren die ersten Social-Media-Websites, die Kaufknöpfe im Jahr 2014 verwendeten.",
+            "clue": "Wenn Sie ein Geschäft betreten, können Sie auch schauen, ohne zu kaufen ...",
+            "choice_41gHP~~tLS": "Wahr",
+            "choice_EJxUw~~K8H": "Falsch",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "One of your work colleagues claims that inserting “buy buttons” on a Facebook page only helps increase sales. True or false?",
+            "klf": "Even if they do not result in a sale, “buy buttons” can easily drive traffic to your site.",
+            "tips": "Twitter and Facebook were the first social media websites to use buy buttons, in 2014.",
+            "clue": "When you enter a shop, you can also look without buying...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gHP~~tLS": "True",
+            "choice_EJxUw~~K8H": "False"
+        },
+        "zh": {
+            "header": "你的一位同事声称在Facebook页面上插入“购买按钮”只会增加销量。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "即使它们没有导致销售，“购买按钮”也可以轻松地为您的网站带来流量。",
+            "tips": "Twitter和Facebook是2014年第一个使用购买按钮的社交媒体网站。",
+            "clue": "当你进入一家商店时，你也可以在不买的情况下看...",
+            "choice_41gHP~~tLS": "真正",
+            "choice_EJxUw~~K8H": "假",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}
