@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-03-16T11:35:13.522Z",
-            "updatedAt": "2019-03-16T11:35:13.522Z",
+            "updatedAt": "2019-03-18T09:19:06.510Z",
             "publishedAt": null,
             "taggedNewUntil": "2019-05-16T10:35:05.504Z",
             "contentExpiresAt": null,
@@ -24,14 +24,24 @@
         "deliverCoachStatus": false,
         "infiniteLives": false,
         "external_refs": [],
-        "acquiredSkills": [],
+        "acquiredSkills": [
+            "skill_VyXsbIuvI"
+        ],
         "ineligibleBattle": false,
         "version": "2"
     },
     "locales": {
-        "fr": {},
-        "en": {},
-        "pt": {},
-        "de": {}
+        "fr": {
+            "skill_VyXsbIuvI": ""
+        },
+        "en": {
+            "skill_VyXsbIuvI": "test upsert"
+        },
+        "pt": {
+            "skill_VyXsbIuvI": ""
+        },
+        "de": {
+            "skill_VyXsbIuvI": ""
+        }
     }
 }
