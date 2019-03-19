@@ -2,37 +2,37 @@
     "structure": {
         "meta": {
             "isoCore": null,
-            "createdAt": "2019-03-19T11:38:13.449Z",
+            "createdAt": "2019-03-19T12:35:57.282Z",
             "updatedAt": "2019-03-19T12:35:57.282Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
-            "slides": [],
-            "chapters": [
-                "cha_NkJ9RpSw8"
-            ],
             "status": "draft",
             "modifiedBy": "silouone",
             "createdBy": "silouone"
         },
-        "ref": "les_EkEjm6Yw8",
-        "position": 0,
-        "poster": null,
-        "description": "description",
-        "resource": "med_NyLSb0YvL"
+        "ref": "med_NyLSb0YvL",
+        "type": "video",
+        "videoProvider": "jwplayer",
+        "src": [
+            {
+                "mimeType": "application/jwplayer",
+                "videoId": "videoId_N1WLBbRYD8"
+            }
+        ]
     },
     "locales": {
         "fr": {
-            "description": "test"
+            "videoId_N1WLBbRYD8": ""
         },
         "en": {
-            "description": "test"
+            "videoId_N1WLBbRYD8": "1U3LgyRu"
         },
         "pt": {
-            "description": ""
+            "videoId_N1WLBbRYD8": ""
         },
         "de": {
-            "description": ""
+            "videoId_N1WLBbRYD8": ""
         }
     }
 }
