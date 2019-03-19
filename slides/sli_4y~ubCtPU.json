@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-03-19T12:36:44.784Z",
+            "updatedAt": "2019-03-19T12:36:44.784Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkJ9RpSw8"
+            ],
+            "status": "draft",
+            "modifiedBy": "silouone",
+            "createdBy": "silouone"
+        },
+        "ref": "sli_4y~ubCtPU",
+        "universalRef": "sli_4y~ubCtPU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4y~ubCtPU.id",
+                "min": 0,
+                "max": 1,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "",
+            "explanation": "Déplacez le curseur.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "en": {
+            "header": "test",
+            "explanation": "Drag the slider.",
+            "klf": "test",
+            "tips": "test",
+            "clue": "test",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "test",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "pt": {
+            "header": "",
+            "explanation": "Desloca o cursor.",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "de": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "",
+            "answerMin": 0,
+            "answerMax": 0
+        }
+    }
+}
