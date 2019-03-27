@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-03-19T15:52:49.374Z",
-            "updatedAt": "2019-03-27T09:19:56.988Z",
+            "updatedAt": "2019-03-27T09:40:13.654Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -21,7 +21,35 @@
             }
         ],
         "subtitleRef": {
-            "data": "{\"success\":true,\"ref\":\"sub_9498d3ef-fe76-4e2c-a746-cabe9ba9ac2f\"}",
+            "data": {
+                "structure": {
+                    "meta": {
+                        "medias": [
+                            "med_4kKvkbcwU"
+                        ],
+                        "createdAt": "2019-03-25T15:39:14.660Z",
+                        "updatedAt": "2019-03-27T09:40:03.323Z",
+                        "isoCore": false,
+                        "coreBranch": ""
+                    },
+                    "ref": "sub_9498d3ef-fe76-4e2c-a746-cabe9ba9ac2f",
+                    "authotId": "278311",
+                    "videoId": "CauZnmAK",
+                    "sentences": [],
+                    "state": "pending",
+                    "progression": 0,
+                    "scriptUrl": null,
+                    "type": "subtitle"
+                },
+                "repository": "content-test-thibault@cockpitRecette-silou1ne",
+                "locales": {
+                    "en": {
+                        "phrase": "init"
+                    }
+                },
+                "media": "med_4kKvkbcwU",
+                "type": "subtitle"
+            },
             "status": 200,
             "config": {
                 "method": "POST",
