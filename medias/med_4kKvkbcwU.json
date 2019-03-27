@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2019-03-19T15:52:49.374Z",
-            "updatedAt": "2019-03-27T10:26:43.989Z",
+            "updatedAt": "2019-03-27T10:34:31.035Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "keywords": [],
@@ -19,37 +19,7 @@
                 "mimeType": "application/jwplayer",
                 "videoId": "videoId_E1~twybqD8"
             }
-        ],
-        "subtitleRef": {
-            "data": "{\"success\":true,\"ref\":\"sub_9498d3ef-fe76-4e2c-a746-cabe9ba9ac2f\"}",
-            "status": 200,
-            "config": {
-                "method": "POST",
-                "transformRequest": [
-                    null
-                ],
-                "transformResponse": [
-                    null
-                ],
-                "url": "/api/repository/content-test-thibault@cockpitRecette-silou1ne/medias/med_4kKvkbcwU/videoId/CauZnmAK/subtitleByAuthot",
-                "file": {},
-                "data": {
-                    "repo": "CoorpAcademy/content-test-thibault",
-                    "branch": "cockpitRecette-silou1ne",
-                    "file": {}
-                },
-                "nointercept": true,
-                "_isDigested": true,
-                "_chunkSize": null,
-                "headers": {
-                    "Accept": "application/json, text/plain, */*"
-                },
-                "_deferred": {
-                    "promise": {}
-                }
-            },
-            "statusText": "OK"
-        }
+        ]
     },
     "locales": {
         "fr": {
