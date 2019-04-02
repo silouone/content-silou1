@@ -1,0 +1,107 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:44:34.526Z",
+            "updatedAt": "2018-05-09T13:51:26.270Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vy4FpAG3V",
+        "universalRef": "sli_Vy4FpAG3V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy4FpAG3V.choice_Nye2pCf2V.id",
+                        "label": "choice_Nye2pCf2V",
+                        "value": "choice_Nye2pCf2V"
+                    },
+                    {
+                        "id": "sli_Vy4FpAG3V.choice_Vymn6Cfn4.id",
+                        "label": "choice_Vymn6Cfn4",
+                        "value": "choice_Vymn6Cfn4"
+                    },
+                    {
+                        "id": "sli_Vy4FpAG3V.choice_4khhTAzhN.id",
+                        "label": "choice_4khhTAzhN",
+                        "value": "choice_4khhTAzhN"
+                    },
+                    {
+                        "id": "sli_Vy4FpAG3V.choice_NkB6TAzhN.id",
+                        "label": "choice_NkB6TAzhN",
+                        "value": "choice_NkB6TAzhN"
+                    },
+                    {
+                        "id": "sli_Vy4FpAG3V.choice_4kha6CG2N.id",
+                        "label": "choice_4kha6CG2N",
+                        "value": "choice_4kha6CG2N"
+                    },
+                    {
+                        "id": "sli_Vy4FpAG3V.choice_N1NAaAfh4.id",
+                        "label": "choice_N1NAaAfh4",
+                        "value": "choice_N1NAaAfh4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kha6CG2N",
+                        "choice_NkB6TAzhN",
+                        "choice_4khhTAzhN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "L’entraînement à vivre le présent en pleine conscience permet de vivre son activité professionnelle de façon détendue. Quelles sont les façons les plus appropriées ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "La pleine conscience est un acte d’attention à soi et permet de travailler sur une tâche tout en ayant la sensation de soi.",
+            "tips": "Chacun de nous a le même potentiel d’attention consciente. C’est un entraînement patient et régulier qui permet de développer un état plus léger et détendu.",
+            "clue": "Pensez à l'instant présent !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nye2pCf2V": "Faire une pause en gardant ses tensions",
+            "choice_Vymn6Cfn4": "Penser à ses vacances pendant quelques minutes",
+            "choice_4khhTAzhN": "Respirer amplement ",
+            "choice_NkB6TAzhN": "Boire un verre d’eau et le goûter ",
+            "choice_4kha6CG2N": "Sentir l’air autour de soi ",
+            "choice_N1NAaAfh4": "Se remémorer un bon moment"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "L’entraînement à vivre le présent en pleine conscience permet de vivre son activité professionnelle de façon détendue. Quelles sont les façons les plus appropriées ?",
+            "klf": "La pleine conscience est un acte d’attention à soi et permet de travailler sur une tâche tout en ayant la sensation de soi.",
+            "tips": "Chacun de nous a le même potentiel d’attention consciente. C’est un entraînement patient et régulier qui permet de développer un état plus léger et détendu.",
+            "clue": "Pensez à l'instant présent !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nye2pCf2V": "Faire une pause en gardant ses tensions",
+            "choice_Vymn6Cfn4": "Penser à ses vacances pendant quelques minutes",
+            "choice_4khhTAzhN": "Respirer amplement ",
+            "choice_NkB6TAzhN": "Boire un verre d’eau et le goûter ",
+            "choice_4kha6CG2N": "Sentir l’air autour de soi ",
+            "choice_N1NAaAfh4": "Se remémorer un bon moment"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:48:48.163Z",
+            "updatedAt": "2018-10-17T09:34:11.680Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJOeA1sOB",
+        "universalRef": "sli_NJOeA1sOB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJOeA1sOB.choice_E1q80ysdr.id",
+                        "label": "choice_E1q80ysdr",
+                        "value": "choice_E1q80ysdr"
+                    },
+                    {
+                        "id": "sli_NJOeA1sOB.choice_4yi80JodS.id",
+                        "label": "choice_4yi80JodS",
+                        "value": "choice_4yi80JodS"
+                    },
+                    {
+                        "id": "sli_NJOeA1sOB.choice_4kKdCyiuB.id",
+                        "label": "choice_4kKdCyiuB",
+                        "value": "choice_4kKdCyiuB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yi80JodS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En quoi consiste l’inbound marketing ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "On cherche avec l’inbound marketing à simplifier le parcours d’achat de nos cibles. En apportant les bonnes informations aux bons moments, on construit une relation de confiance très favorable à la conclusion d’une vente.",
+            "tips": "L'inbound marketing puise sa source dans le marketing de la permission, conceptualisé par Seth Godin, qui demande l'autorisation des personnes ciblées avant de leur envoyer un message.",
+            "clue": "L’inbound marketing s’oppose au « marketing de l'interruption ».",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1q80ysdr": "Harceler les prospects jusqu'à la signature ",
+            "choice_4yi80JodS": "Aider le prospect tout au long de son parcours de décision en lui proposant des contenus pertinents",
+            "choice_4kKdCyiuB": "Convaincre son prospect de s’abonner à sa newsletter "
+        },
+        "en": {
+            "header": "En quoi consiste l’inbound marketing ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "On cherche avec l’inbound marketing à simplifier le parcours d’achat de nos cibles. En apportant les bonnes informations aux bons moments, on construit une relation de confiance très favorable à la conclusion d’une vente.",
+            "tips": "Linbound marketing puise sa source dans le marketing de la permission, conceptualisé par Seth Godin, qui demande lautorisation des personnes ciblées avant de leur envoyer un message.",
+            "clue": "L’inbound marketing s’oppose au « marketing de linterruption ».",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1q80ysdr": "Harceler les prospects jusquà la signature ",
+            "choice_4yi80JodS": "Aider le prospect tout au long de son parcours de décision en lui proposant des contenus pertinents",
+            "choice_4kKdCyiuB": "Convaincre son prospect de s’abonner à sa newsletter "
+        }
+    }
+}

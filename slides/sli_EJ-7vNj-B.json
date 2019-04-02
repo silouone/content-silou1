@@ -1,0 +1,91 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T12:59:50.997Z",
+            "updatedAt": "2018-10-17T09:38:51.538Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1T2KYcEr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJ-7vNj-B",
+        "universalRef": "sli_EJ-7vNj-B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJ-7vNj-B.choice_EyZBvVi-r.id",
+                        "label": "choice_EyZBvVi-r",
+                        "value": "choice_EyZBvVi-r"
+                    },
+                    {
+                        "id": "sli_EJ-7vNj-B.choice_4J8Hw4iur.id",
+                        "label": "choice_4J8Hw4iur",
+                        "value": "choice_4J8Hw4iur"
+                    },
+                    {
+                        "id": "sli_EJ-7vNj-B.choice_NkhSDVjuS.id",
+                        "label": "choice_NkhSDVjuS",
+                        "value": "choice_NkhSDVjuS"
+                    },
+                    {
+                        "id": "sli_EJ-7vNj-B.choice_N1fLvViOr.id",
+                        "label": "choice_N1fLvViOr",
+                        "value": "choice_N1fLvViOr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4J8Hw4iur"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il faire pour conclure et transformer ses leads en clients ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "L’une des erreurs les plus fréquemment commises par les entreprises est de contacter les leads dès qu’ils ont complété un formulaire. Or ces derniers ne sont pas nécessairement mûrs pour accepter un échange avec un commercial. Il est donc préférable d’engager un cycle de nurturing pour les faire avancer dans le tunnel de conversion et ne contacter que ceux qui sont suffisamment avancés dans leur réflexion.",
+            "tips": "Les processus d’achat peuvent être longs, notamment en B2B. L’acheteur doit alors mûrir sa décision avant de passer à l’action.",
+            "clue": "C’est une vertu !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyZBvVi-r": "Se dépêcher : la concurrence est rude !",
+            "choice_4J8Hw4iur": "Être patient et entretenir une relation privilégiée",
+            "choice_NkhSDVjuS": "Créer de nouveaux contenus",
+            "choice_N1fLvViOr": "Investir dans les achats médias pour attirer le client"
+        },
+        "en": {
+            "header": "Que faut-il faire pour conclure et transformer ses leads en clients ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "L’une des erreurs les plus fréquemment commises par les entreprises est de contacter les leads dès qu’ils ont complété un formulaire. Or ces derniers ne sont pas nécessairement mûrs pour accepter un échange avec un commercial. Il est donc préférable d’engager un cycle de nurturing pour les faire avancer dans le tunnel de conversion et ne contacter que ceux qui sont suffisamment avancés dans leur réflexion.",
+            "tips": "Les processus d’achat peuvent être longs, notamment en B2B. L’acheteur doit alors mûrir sa décision avant de passer à l’action.",
+            "clue": "C’est une vertu !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyZBvVi-r": "Se dépêcher : la concurrence est rude !",
+            "choice_4J8Hw4iur": "Être patient et entretenir une relation privilégiée",
+            "choice_NkhSDVjuS": "Créer de nouveaux contenus",
+            "choice_N1fLvViOr": "Investir dans les achats médias pour attirer le client"
+        }
+    }
+}

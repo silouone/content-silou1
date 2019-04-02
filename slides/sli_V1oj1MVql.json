@@ -1,0 +1,128 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:38:19.290Z",
+            "updatedAt": "2016-02-15T08:53:42.216Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1oj1MVql",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_V1oj1MVql.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_4yzQlGE5e",
+                    "choice_EJE7lMEce",
+                    "choice_VJn7efE9l",
+                    "choice_EyGEgfNcx",
+                    "choice_EJPExGE5l",
+                    "choice_4yhVxzV5e",
+                    "choice_EkNrxMEcx"
+                ]
+            }
+        },
+        "universalRef": "sli_V1oj1MVql"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appelle-t-on l'accumulation de discriminations que les femmes peuvent subir?",
+            "explanation": "Entrez votre réponse (un mot).",
+            "klf": "La féministe américaine Kimberle Williams Crenshaw montre que les femmes souffrent en même temps d’autres oppressions, telles que le racisme ou la pauvreté. C'est ce qu'elle appelle l'intersectionnalité de la discrimination. Celles-ci doivent donc être appréhendées dans leur ensemble.",
+            "tips": "D'autres termes sont parfois utilisés comme \"interconnectivité\" ou \"identités multiplicatives\" pour désigner ce phénomène de handicaps cumulatifs.",
+            "clue": "Le rond-point des oppressions.",
+            "choice_4yzQlGE5e": "intersectionnalité",
+            "choice_EJE7lMEce": "Inter-sectionnalité",
+            "choice_VJn7efE9l": "intersectionnalité",
+            "choice_EyGEgfNcx": "Inter-sectionalité",
+            "choice_EJPExGE5l": "intersectionnalitée",
+            "choice_4yhVxzV5e": "intersectionnalitté",
+            "choice_EkNrxMEcx": "intersexionnalité",
+            "label": " ",
+            "placeholder": " "
+        },
+        "en": {
+            "header": "What is the name of the accumulation of discrimination that women can suffer?",
+            "explanation": "Enter your answer (a word).",
+            "klf": "American feminist Kimberle Williams Crenshaw shows that women suffer from other oppressions at the same time, such as racism or poverty. This is what she calls the intersectionality of discrimination. These must therefore be apprehended as a whole.",
+            "tips": "Other terms are sometimes used as \"interconnectivity\" or \"multiplicative identities\" to refer to this phenomenon of cumulative handicaps.",
+            "clue": "The roundabout of oppressions.",
+            "choice_4yzQlGE5e": "intersectionality",
+            "choice_EJE7lMEce": "Inter-sectionnalité",
+            "choice_VJn7efE9l": "intersectionality",
+            "choice_EyGEgfNcx": "Inter-sectionalité",
+            "choice_EJPExGE5l": "intersectionnalitée",
+            "choice_4yhVxzV5e": "intersectionnalitté",
+            "choice_EkNrxMEcx": "intersexionnalité",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Wie heißt die Anhäufung von Diskriminierung, unter der Frauen leiden können?",
+            "explanation": "Geben Sie Ihre Antwort (ein Wort) ein.",
+            "klf": "Die amerikanische Feministin Kimberle Williams Crenshaw zeigt, dass Frauen gleichzeitig unter anderen Unterdrückungen leiden, wie Rassismus oder Armut. Dies nennt sie die Intersektionalität der Diskriminierung. Diese müssen daher als Ganzes verstanden werden.",
+            "tips": "Andere Ausdrücke werden manchmal als \"Interkonnektivität\" oder \"multiplikative Identitäten\" verwendet, um auf dieses Phänomen kumulativer Nachteile zu verweisen.",
+            "clue": "Der Kreisverkehr der Unterdrückung.",
+            "choice_4yzQlGE5e": "Intersektionalität",
+            "choice_EJE7lMEce": "Inter-sectionnalité",
+            "choice_VJn7efE9l": "Intersektionalität",
+            "choice_EyGEgfNcx": "Inter-sectionalité",
+            "choice_EJPExGE5l": "intersectionnalitée",
+            "choice_4yhVxzV5e": "intersectionnalitté",
+            "choice_EkNrxMEcx": "intersexionnalité",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "Comment appelle-t-on le cumul des discriminations que peuvent subir les femmes ?",
+            "explanation": "Type your answer.",
+            "klf": "La féministe américaine Kimberlé Williams Crenshaw montre que les femmes subissent d'autres oppressions en même temps, comme le racisme ou la pauvreté. C'est ce qu'elle appelle l'intersectionnalité des discriminations. Celles-ci doivent donc être appréhendées dans leur ensemble.",
+            "tips": "D'autres termes sont parfois utilisés comme \"interconnectivité\" ou \"identités multiplicatives\" pour parler de ce phénomène de cumul des handicaps.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_4yzQlGE5e": "intersectionnalité",
+            "choice_EJE7lMEce": "inter-sectionnalité",
+            "choice_VJn7efE9l": "intersectionalité",
+            "choice_EyGEgfNcx": "inter-sectionalité",
+            "choice_EJPExGE5l": "intersectionnalitée",
+            "choice_4yhVxzV5e": "intersectionnalitté",
+            "choice_EkNrxMEcx": "intersexionnalité",
+            "clue": "Le rond-point des oppressions."
+        },
+        "zh": {
+            "header": "女性遭受的歧视积累的名称是什么？",
+            "explanation": "输入你的答案。",
+            "klf": "美国女权主义者Kimberle Williams Crenshaw表示，女性同时遭受其他压迫，例如种族主义或贫困。这就是她所说的歧视的交叉性。因此，必须将它们作为一个整体予以逮捕。",
+            "tips": "其他术语有时被用作“互连”或“乘法身份”来指代这种累积障碍现象。",
+            "clue": "压迫的回旋处。",
+            "choice_4yzQlGE5e": "交叉性",
+            "choice_EJE7lMEce": "跨sectionnalité",
+            "choice_VJn7efE9l": "交叉性",
+            "choice_EyGEgfNcx": "跨sectionalité",
+            "choice_EJPExGE5l": "intersectionnalitée",
+            "choice_4yhVxzV5e": "intersectionnalitté",
+            "choice_EkNrxMEcx": "intersexionnalité",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

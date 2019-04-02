@@ -1,0 +1,86 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:51:20.246Z",
+            "updatedAt": "2018-10-17T12:23:48.093Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJlpx65tr",
+        "universalRef": "sli_NJlpx65tr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJlpx65tr.choice_NJmZZ6rcH.id",
+                        "label": "choice_NJmZZ6rcH",
+                        "value": "choice_NJmZZ6rcH"
+                    },
+                    {
+                        "id": "sli_NJlpx65tr.choice_NyBWZTS9S.id",
+                        "label": "choice_NyBWZTS9S",
+                        "value": "choice_NyBWZTS9S"
+                    },
+                    {
+                        "id": "sli_NJlpx65tr.choice_4k5~Z6H5H.id",
+                        "label": "choice_4k5~Z6H5H",
+                        "value": "choice_4k5~Z6H5H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyBWZTS9S",
+                        "choice_NJmZZ6rcH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qui a plus de facilité à utiliser le growth hacking ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le growth hacking est avant tout le marketing des start-up technologiques. L’agilité est une condition nécessaire, voire obligatoire, pour le pratiquer. Les entreprises qui n’ont pas encore véritablement initié leur transformation digitale auront plus de mal à le pratiquer.",
+            "tips": "En 2011, le service de streaming musical Spotify a développé un dispositif de partage automatique de la musique écoutée sur Facebook. Les contacts Facebook des personnes qui écoutaient de la musique sur Spotify ont ainsi pu découvrir le service. Ce \"hack\" a permis à Spotify de se faire connaître très rapidement.",
+            "clue": "C’est une question d’agilité.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJmZZ6rcH": "Les entreprises avancées dans leur transformation digitale",
+            "choice_NyBWZTS9S": "Les start-up",
+            "choice_4k5~Z6H5H": "Les grandes entreprises"
+        },
+        "en": {
+            "header": "Qui a plus de facilité à utiliser le growth hacking ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le growth hacking est avant tout le marketing des start-up technologiques. L’agilité est une condition nécessaire, voire obligatoire, pour le pratiquer. Les entreprises qui n’ont pas encore véritablement initié leur transformation digitale auront plus de mal à le pratiquer.",
+            "tips": "En 2011, le service de streaming musical Spotify a développé un dispositif de partage automatique de la musique écoutée sur Facebook. Les contacts Facebook des personnes qui écoutaient de la musique sur Spotify ont ainsi pu découvrir le service. Ce hack a permis à Spotify de se faire connaître très rapidement.",
+            "clue": "C’est une question d’agilité.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJmZZ6rcH": "Les entreprises avancées dans leur transformation digitale",
+            "choice_NyBWZTS9S": "Les start-up",
+            "choice_4k5~Z6H5H": "Les grandes entreprises"
+        }
+    }
+}

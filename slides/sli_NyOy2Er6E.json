@@ -1,0 +1,85 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:07:41.935Z",
+            "updatedAt": "2018-06-22T15:14:46.416Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJzQRdE54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyOy2Er6E",
+        "universalRef": "sli_NyOy2Er6E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_NyOy2Er6E.field_4ykHXfCC4.id",
+                        "type": "text",
+                        "name": "inp94233",
+                        "label": "label_EyekrQMC0V",
+                        "placeholder": "placeholder_4yW1rQzARE"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp94233",
+                        "answers": [
+                            "choice_V1M1rXzCCV",
+                            "choice_4kdHQMARE"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle technique se révèle particulièrement efficace pour déterminer le problème à résoudre durant une séance de brainstorming inversé ? ",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Pour déterminer le problème, vous pouvez utiliser la technique des \"pourquoi\". Elle consiste à creuser un problème en se demandant 5 fois \"pourquoi\".",
+            "tips": "L'équipementier automobile Delphi a développé une méthode 5Wx3H (5 Whys, 3 Hows : 5 \"pourquoi\" et 3 \"comment\") qui interroge 5 fois le problème et ses causes successives avec 5 vagues de \"pourquoi\" et envisage des solutions avec 3 vagues de \"comment\".",
+            "clue": "Arbre des causes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La technique des 5 {{inp94233}}",
+            "label_EyekrQMC0V": " ",
+            "placeholder_4yW1rQzARE": " ",
+            "choice_V1M1rXzCCV": "pourquoi",
+            "choice_4kdHQMARE": "pourquois"
+        },
+        "en": {
+            "explanation": "Enter your answer.",
+            "header": "What’s a particularly effective technique for pinpointing the exact problem you want to resolve during a reverse brainstorming session? ",
+            "klf": "The Five Whys technique is a useful way to clarify your problem. It helps you dig deep into an issue by posing “why” questions on five occasions.",
+            "tips": "The auto parts company Delphi developed the 5Wx3H method – five whys, three hows – as a way of tackling a problem five times over and looking at successive causes, as well as picturing a solution by asking three phases of “how” questions.",
+            "clue": "Causal tree",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The Five {{inp94233}} technique",
+            "label_EyekrQMC0V": " ",
+            "placeholder_4yW1rQzARE": " ",
+            "choice_V1M1rXzCCV": "why",
+            "choice_4kdHQMARE": "whys"
+        }
+    }
+}

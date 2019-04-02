@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:23:25.022Z",
+            "updatedAt": "2018-06-22T15:21:10.226Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJzQRdE54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ekc26VSTE",
+        "universalRef": "sli_Ekc26VSTE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_Ekc26VSTE.choice_4krx0EB64.id",
+                        "label": "choice_4krx0EB64",
+                        "value": "choice_4krx0EB64"
+                    },
+                    {
+                        "id": "sli_Ekc26VSTE.choice_Ey9sJHB6E.id",
+                        "label": "choice_Ey9sJHB6E",
+                        "value": "choice_Ey9sJHB6E"
+                    },
+                    {
+                        "id": "sli_Ekc26VSTE.choice_VJKTJrrTV.id",
+                        "label": "choice_VJKTJrrTV",
+                        "value": "choice_VJKTJrrTV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJKTJrrTV",
+                        "choice_Ey9sJHB6E",
+                        "choice_4krx0EB64"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous décidez de mener un brainstorming inversé pour réorganiser votre service marketing. Saurez-vous définir l’ordre des étapes d’une séance efficace ?",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "Conduire le changement peut devenir plus simple grâce au brainstorming inversé. Si vous devez réorganiser votre service marketing, voici comment utiliser le brainstorming inversé en mode mind mapping. D'abord, notez le thème au centre de votre mind map. Puis demandez aux participants de réfléchir aux scénarios négatifs que pourrait engendrer ce changement. Enfin, demandez aux participants quelles mesures permettraient de contrer les effets négatifs prévus.",
+            "tips": "Selon Steve Jobs, \"La créativité, c’est simplement établir des connexions entre les choses. Quand vous demandez aux personnes créatives comment elles ont réalisé telle ou telle chose, elles se sentent un peu coupables parce qu’elles ne l’ont pas vraiment réalisé, elles ont juste vu quelque chose. Cela leur a sauté aux yeux, tout simplement parce qu’elles sont capables de faire le lien entre les différentes expériences qu’elles ont eu et de synthétiser les nouvelles choses.\"",
+            "clue": "Commencer au centre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4krx0EB64": "Voir comment contrer les effets négatifs",
+            "choice_Ey9sJHB6E": "Réfléchir aux scénarios négatifs",
+            "choice_VJKTJrrTV": "Noter le thème au centre du mind map"
+        },
+        "en": {
+            "explanation": "Put the following answers in order.",
+            "header": "You’ve decided to lead a reverse brainstorming session to reorganise your marketing department. Can you put the different steps in order to ensure your session is productive?",
+            "klf": "Reverse brainstorming can make it easier to enact change. If you have to reorganise your marketing department, for instance, here’s a helpful way of using reverse brainstorming as a mind mapping tool. First, write your theme in the middle of your mind map. Then ask participants to think up negative scenarios that might arise out of the change in question. Finally, ask participants what measures could be taken to prevent these negatives from becoming a reality.",
+            "tips": "Have you heard Steve Jobs’ definition of creativity? In his words, “creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things.”",
+            "clue": "Start in the middle.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4krx0EB64": "Figure out how to counter the negatives",
+            "choice_Ey9sJHB6E": "Consider potential negatives",
+            "choice_VJKTJrrTV": "Write the theme in the middle of the mind map"
+        }
+    }
+}

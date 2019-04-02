@@ -1,0 +1,188 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T14:42:58.631Z",
+            "updatedAt": "2018-07-26T15:01:44.653Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_41LjTWETE",
+        "universalRef": "sli_41LjTWETE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_41LjTWETE.choice_Vk9ICbNTV.id",
+                        "label": "choice_Vk9ICbNTV",
+                        "value": "choice_Vk9ICbNTV"
+                    },
+                    {
+                        "id": "sli_41LjTWETE.choice_N1j80ZE6V.id",
+                        "label": "choice_N1j80ZE6V",
+                        "value": "choice_N1j80ZE6V"
+                    },
+                    {
+                        "id": "sli_41LjTWETE.choice_E1n8RW46V.id",
+                        "label": "choice_E1n8RW46V",
+                        "value": "choice_E1n8RW46V"
+                    },
+                    {
+                        "id": "sli_41LjTWETE.choice_V1pIAZNTE.id",
+                        "label": "choice_V1pIAZNTE",
+                        "value": "choice_V1pIAZNTE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk9ICbNTV",
+                        "choice_N1j80ZE6V",
+                        "choice_V1pIAZNTE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What type of indicators for objectives should the manager set for their team?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "Objectives should relate directly to the team’s activities. Prioritise early indicators, namely those that predict future results. If possible, work with your team members in setting these indicators so that they are involved in the management of the project.",
+            "tips": "Objectives should be simple to measure using figures and ratios that are easy to obtain...",
+            "clue": "Advanced, among other traits.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk9ICbNTV": "They relate directly to the team’s activities",
+            "choice_N1j80ZE6V": "They are early indicators",
+            "choice_E1n8RW46V": "They are late indicators",
+            "choice_V1pIAZNTE": "They are chosen together with the team"
+        },
+        "fr": {
+            "header": "Quel type de métrique cible le responsable définit-il pour l'équipe?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "L'objectif doit être directement lié aux activités de l'équipe. Donner la priorité aux premiers indicateurs, qui permettent de prédire les résultats futurs. Si possible, configurez ces mesures avec les membres de votre équipe afin qu'ils puissent participer à la gestion de projet.",
+            "tips": "Utiliser des chiffres et des ratios faciles à obtenir pour mesurer les objectifs doit être simple ...",
+            "clue": "Avancé, ainsi que d'autres fonctionnalités.",
+            "choice_Vk9ICbNTV": "Ils sont directement liés aux activités de l'équipe",
+            "choice_N1j80ZE6V": "Ils sont des indicateurs précoces",
+            "choice_E1n8RW46V": "Ils sont des indicateurs tardifs",
+            "choice_V1pIAZNTE": "Ils ont été sélectionnés avec l'équipe",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Qué tipo de indicadores para los objetivos debería establecer el gerente para su equipo?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Los objetivos deben relacionarse directamente con las actividades del equipo. Priorice los indicadores iniciales, es decir, aquellos que predicen resultados futuros. Si es posible, trabaje con los miembros de su equipo para establecer estos indicadores para que participen en la gestión del proyecto.",
+            "tips": "Los objetivos deben ser simples de medir usando cifras y ratios que son fáciles de obtener ...",
+            "clue": "Avanzado, entre otros rasgos.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk9ICbNTV": "Se relacionan directamente con las actividades del equipo",
+            "choice_N1j80ZE6V": "Son indicadores tempranos",
+            "choice_E1n8RW46V": "Son indicadores tardíos",
+            "choice_V1pIAZNTE": "Son elegidos junto con el equipo"
+        },
+        "it": {
+            "header": "Che tipo di indicatori per gli obiettivi dovrebbero impostare il manager per la propria squadra?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Gli obiettivi dovrebbero riguardare direttamente le attività del team. Dare priorità agli indicatori iniziali, in particolare quelli che prevedono risultati futuri. Se possibile, collabora con i membri del tuo team nellimpostazione di questi indicatori in modo che siano coinvolti nella gestione del progetto.",
+            "tips": "Gli obiettivi dovrebbero essere semplici da misurare usando cifre e rapporti facili da ottenere ...",
+            "clue": "Avanzate, tra le altre caratteristiche.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk9ICbNTV": "Si riferiscono direttamente alle attività della squadra",
+            "choice_N1j80ZE6V": "Sono indicatori precoci",
+            "choice_E1n8RW46V": "Sono indicatori in ritardo",
+            "choice_V1pIAZNTE": "Sono scelti insieme alla squadra"
+        },
+        "de": {
+            "header": "What type of indicators for objectives should the manager set for their team?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "Objectives should relate directly to the team’s activities. Prioritise early indicators, namely those that predict future results. If possible, work with your team members in setting these indicators so that they are involved in the management of the project.",
+            "tips": "Objectives should be simple to measure using figures and ratios that are easy to obtain...",
+            "clue": "Advanced, among other traits.",
+            "choice_Vk9ICbNTV": "They relate directly to the team’s activities",
+            "choice_N1j80ZE6V": "They are early indicators",
+            "choice_E1n8RW46V": "They are late indicators",
+            "choice_V1pIAZNTE": "They are chosen together with the team",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "매니저가 팀을 위해 설정해야하는 목표의 지표 유형은 무엇입니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "목표는 팀의 활동과 직접 관련되어야합니다. 조기 지표, 즉 미래의 결과를 예측하는 지표를 우선 순위로 둡니다. 가능하다면 팀원들과 협력하여 프로젝트의 관리에 참여하도록이 지표를 설정하십시오.",
+            "tips": "목표는 쉽게 구할 수있는 수치와 비율을 사용하여 측정해야합니다.",
+            "clue": "고급, 다른 특성들 중에서.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk9ICbNTV": "팀의 활동과 직접 관련이 있습니다.",
+            "choice_N1j80ZE6V": "그들은 초기 지표이다.",
+            "choice_E1n8RW46V": "그들은 늦은 지표이다.",
+            "choice_V1pIAZNTE": "그들은 팀과 함께 선택됩니다."
+        },
+        "ru": {
+            "header": "Какого типа индикаторы для целей должен задать менеджер для своей команды?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Цели должны относиться непосредственно к деятельности команды. Приоритет ранних показателей, а именно тех, которые предсказывают будущие результаты. Если возможно, работайте с членами вашей команды при настройке этих показателей, чтобы они участвовали в управлении проектом.",
+            "tips": "Цели должны быть простыми для измерения с использованием цифр и коэффициентов, которые легко получить ...",
+            "clue": "Продвинутый, среди других черт.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk9ICbNTV": "Они напрямую связаны с деятельностью команды",
+            "choice_N1j80ZE6V": "Это ранние индикаторы",
+            "choice_E1n8RW46V": "Они являются поздними индикаторами",
+            "choice_V1pIAZNTE": "Они выбираются вместе с командой"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Que tipo de indicadores para os objetivos o gerente deve definir para sua equipe?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Os objetivos devem estar diretamente relacionados às atividades da equipe. Priorizar os indicadores iniciais, ou seja, aqueles que prevêem resultados futuros. Se possível, trabalhe com os membros de sua equipe ao definir esses indicadores para que eles estejam envolvidos no gerenciamento do projeto.",
+            "tips": "Os objetivos devem ser simples de medir usando números e proporções fáceis de obter ...",
+            "clue": "Avançado, entre outras características.",
+            "choice_Vk9ICbNTV": "Eles se relacionam diretamente com as atividades da equipe",
+            "choice_N1j80ZE6V": "Eles são indicadores precoces",
+            "choice_E1n8RW46V": "Eles são indicadores atrasados",
+            "choice_V1pIAZNTE": "Eles são escolhidos em conjunto com a equipe"
+        },
+        "zh": {
+            "header": "经理为团队设定了什么类型的目标指标？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "目标应与团队的活动直接相关。优先考虑早期指标，即预测未来结果的指标。如果可能，请与您的团队成员一起设置这些指标，以便他们参与项目的管理。",
+            "tips": "使用容易获得的数字和比率来衡量目标应该很简单......",
+            "clue": "先进，以及其他特征。",
+            "choice_Vk9ICbNTV": "它们直接与团队的活动相关",
+            "choice_N1j80ZE6V": "它们是早期指标",
+            "choice_E1n8RW46V": "它们是后期指标",
+            "choice_V1pIAZNTE": "他们与团队一起被选中"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:22:07.008Z",
+            "updatedAt": "2018-10-08T15:15:43.995Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJLC6uGHr",
+        "universalRef": "sli_VJLC6uGHr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJLC6uGHr.choice_EJHKErkDB.id",
+                        "label": "choice_EJHKErkDB",
+                        "value": "choice_EJHKErkDB"
+                    },
+                    {
+                        "id": "sli_VJLC6uGHr.choice_4k3F4rkPr.id",
+                        "label": "choice_4k3F4rkPr",
+                        "value": "choice_4k3F4rkPr"
+                    },
+                    {
+                        "id": "sli_VJLC6uGHr.choice_NyJqVHkwr.id",
+                        "label": "choice_NyJqVHkwr",
+                        "value": "choice_NyJqVHkwr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJHKErkDB",
+                        "choice_4k3F4rkPr",
+                        "choice_NyJqVHkwr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les options suivantes, sélectionnez les moyens qui permettent de compléter votre veille de façon approfondie.",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Effectué de façon organisé et sélectif, le suivi des influenceurs de votre secteur sur LinkedIn, le visionnage de conférences pertinentes ou l'abonnement à des newsletters ciblées peut se révéler très bénéfique pour les résultats de votre veille.",
+            "tips": "Sur le moteur de recherche de LinkedIn, vous pouvez rechercher tous les groupes de votre secteur d’activité. Utilisez les mots-clés pertinents pour les détecter.",
+            "clue": "Diversifier... en restant ciblé.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJHKErkDB": "L'abonnement à des newsletters ciblées",
+            "choice_4k3F4rkPr": "Le suivi d'influenceurs sur LinkedIn",
+            "choice_NyJqVHkwr": "Le visionnage de conférences digitales liées à son secteur d'activité"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "Which of the following options are good ways to carry out in-depth media monitoring?",
+            "klf": "There are other ways to enhance your media monitoring, but you need to be selective and organised in your approach. You can, for example, follow industry influencers on LinkedIn, watch relevant online talks or subscribe to targeted newsletters.",
+            "tips": "You can use the search engine on LinkedIn to find all the groups related to your business sector. Use relevant keywords to track them down.",
+            "clue": "Diversify… by staying targeted.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJHKErkDB": "Subscribe to targeted newsletters",
+            "choice_4k3F4rkPr": "Follow influencers on LinkedIn",
+            "choice_NyJqVHkwr": "Watch online talks related to your industry sector"
+        }
+    }
+}

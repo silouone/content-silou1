@@ -1,0 +1,88 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T10:27:59.960Z",
+            "updatedAt": "2018-10-17T11:59:51.907Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkkycF9EB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4k0YUh6OS",
+        "universalRef": "sli_4k0YUh6OS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4k0YUh6OS.choice_E1WhL2TdH.id",
+                        "label": "choice_E1WhL2TdH",
+                        "value": "choice_E1WhL2TdH"
+                    },
+                    {
+                        "id": "sli_4k0YUh6OS.choice_VJWpI26-H.id",
+                        "label": "choice_VJWpI26-H",
+                        "value": "choice_VJWpI26-H"
+                    },
+                    {
+                        "id": "sli_4k0YUh6OS.choice_EJPTLn6dr.id",
+                        "label": "choice_EJPTLn6dr",
+                        "value": "choice_EJPTLn6dr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1WhL2TdH",
+                        "choice_VJWpI26-H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les meilleurs moyens de valoriser ses contenus ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La production du contenu demande un investissement non négligeable en termes de temps et d’argent. La promotion des contenus est donc impérative si l’on souhaite rentabiliser sa stratégie d'inbound marketing.",
+            "tips": "3 877 140 recherches sur Google sont effectuées toutes les minutes.",
+            "clue": "Savoir maîtriser sa visibilité sur les moteurs de recherche.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1WhL2TdH": "Le référencement naturel ",
+            "choice_N1c3U26-S": "Les campagnes d’emails marketing ",
+            "choice_VJWpI26-H": "Les médias sociaux ",
+            "choice_EJPTLn6dr": "Le street marketing"
+        },
+        "en": {
+            "header": "Quels sont les meilleurs moyens de valoriser ses contenus ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La production du contenu demande un investissement non négligeable en termes de temps et d’argent. La promotion des contenus est donc impérative si l’on souhaite rentabiliser sa stratégie dinbound marketing.",
+            "tips": "3 877 140 recherches sur Google sont effectuées toutes les minutes.",
+            "clue": "Savoir maîtriser sa visibilité sur les moteurs de recherche.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1WhL2TdH": "",
+            "choice_N1c3U26-S": "",
+            "choice_VJWpI26-H": "",
+            "choice_EJPTLn6dr": ""
+        }
+    }
+}

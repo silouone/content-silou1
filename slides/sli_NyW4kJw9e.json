@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T14:48:36.025Z",
+            "updatedAt": "2016-09-05T14:31:44.840Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NyW4kJw9e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyW4kJw9e.choice_VkBhy1wcl.id",
+                        "label": "choice_VkBhy1wcl",
+                        "value": "choice_VkBhy1wcl"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_4JlH3yJwce.id",
+                        "label": "choice_4JlH3yJwce",
+                        "value": "choice_4JlH3yJwce"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_Ek8n1Jw5x.id",
+                        "label": "choice_Ek8n1Jw5x",
+                        "value": "choice_Ek8n1Jw5x"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_VyvnJyv5g.id",
+                        "label": "choice_VyvnJyv5g",
+                        "value": "choice_VyvnJyv5g"
+                    },
+                    {
+                        "id": "sli_NyW4kJw9e.choice_EyxwhyyD5g.id",
+                        "label": "choice_EyxwhyyD5g",
+                        "value": "choice_EyxwhyyD5g"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkBhy1wcl",
+                        "choice_VyvnJyv5g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NyW4kJw9e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les causes du trac?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Selon l'entraîneur chinois Lanzmann, l'inquiétude vient notamment de la peur d'être jugé, mais aussi du désir d'être aimé.",
+            "tips": "Selon la voix professionnelle Elizabeth Fresnel, les craintes qui sous-tendent le trac déclenchent une \"anxiété anticipée\": nous imaginons un scénario de catastrophe où nous ne gérerons pas la situation.",
+            "clue": "Deux raisons complémentaires.",
+            "choice_VkBhy1wcl": "La peur d'être jugé",
+            "choice_4JlH3yJwce": "Motivation",
+            "choice_Ek8n1Jw5x": "La déshydratation",
+            "choice_VyvnJyv5g": "Le désir d'être aimé",
+            "choice_EyxwhyyD5g": "Intérêt pour le sujet",
+            "choice_V1pJOnOEb": ""
+        },
+        "en": {
+            "header": "What are the causes of stage fright?",
+            "explanation": "Select the correct answers below.",
+            "klf": "According to the China coach Lanzmann, the jitters come in particular from the fear of being judged but also from the desire to be loved.",
+            "tips": "According to the professional voice Elizabeth Fresnel, the fears underlying the trac trigger \"anticipatory anxiety\": we imagine a scenario of disaster where we will not manage the situation.",
+            "clue": "Two complementary reasons.",
+            "choice_VkBhy1wcl": "The fear of being judged",
+            "choice_4JlH3yJwce": "Motivation",
+            "choice_Ek8n1Jw5x": "The dehydration",
+            "choice_VyvnJyv5g": "The desire to be loved",
+            "choice_EyxwhyyD5g": "Interest in the subject",
+            "choice_V1pJOnOEb": ""
+        },
+        "de": {
+            "header": "Was sind die Ursachen von Lampenfieber?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Der Jitter kommt laut China-Trainer Lanzmann vor allem aus der Angst, beurteilt zu werden, aber auch aus dem Wunsch, geliebt zu werden.",
+            "tips": "Laut der professionellen Stimme von Elizabeth Fresnel lösen die Ängste, die dem Trac zugrunde liegen, \"antizipatorische Angst\" aus: Wir stellen uns ein Katastrophenszenario vor, in dem wir die Situation nicht bewältigen können.",
+            "clue": "Zwei sich ergänzende Gründe.",
+            "choice_VkBhy1wcl": "Die Angst, beurteilt zu werden",
+            "choice_4JlH3yJwce": "Motivation",
+            "choice_Ek8n1Jw5x": "Die Austrocknung",
+            "choice_VyvnJyv5g": "Der Wunsch, geliebt zu werden",
+            "choice_EyxwhyyD5g": "Interesse am Thema",
+            "choice_V1pJOnOEb": ""
+        },
+        "es": {
+            "header": "What causes the jitters?",
+            "explanation": "Select the correct answers below.",
+            "klf": "According to the coach Chine Lanzmann, it includes the fear of being judged but also the desire to be liked.",
+            "tips": "According to vocal professional Elizabeth Fresnel, the underlying fear of stage fright triggers \"anticipatory anxiety\": we imagine a nightmare scenario where we will not know how to handle the situation.",
+            "choice_VkBhy1wcl": "The fear of being judged",
+            "choice_4JlH3yJwce": "Motivation",
+            "choice_Ek8n1Jw5x": "Dehydration",
+            "choice_VyvnJyv5g": "The desire to be liked",
+            "choice_EyxwhyyD5g": "Interest for the subject",
+            "clue": "Two complementary reasons.",
+            "choice_V1pJOnOEb": ""
+        },
+        "zh": {
+            "header": "是什么导致紧张？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "根据教练Chine Lanzmann的说法，它包括对被评判的恐惧，以及被人喜欢的愿望。",
+            "tips": "根据声乐专业人士伊丽莎白菲涅耳的说法，对怯场的潜在恐惧引发了“预期的焦虑”：我们想象一个噩梦般的场景，我们不知道如何处理这种情况。",
+            "clue": "两个互补的原因。",
+            "choice_VkBhy1wcl": "害怕被评判",
+            "choice_4JlH3yJwce": "动机",
+            "choice_Ek8n1Jw5x": "脱水",
+            "choice_VyvnJyv5g": "渴望被人喜爱",
+            "choice_EyxwhyyD5g": "对该主题的兴趣",
+            "choice_V1pJOnOEb": ""
+        }
+    }
+}

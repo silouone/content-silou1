@@ -1,0 +1,86 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:59:25.714Z",
+            "updatedAt": "2018-10-08T14:02:49.864Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJaZFaI7H",
+        "universalRef": "sli_NJaZFaI7H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJaZFaI7H.choice_VJoXYa8QB.id",
+                        "label": "choice_VJoXYa8QB",
+                        "value": "choice_VJoXYa8QB"
+                    },
+                    {
+                        "id": "sli_NJaZFaI7H.choice_41~NYTUXS.id",
+                        "label": "choice_41~NYTUXS",
+                        "value": "choice_41~NYTUXS"
+                    },
+                    {
+                        "id": "sli_NJaZFaI7H.choice_VkuNFTLQB.id",
+                        "label": "choice_VkuNFTLQB",
+                        "value": "choice_VkuNFTLQB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJoXYa8QB",
+                        "choice_VkuNFTLQB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Selon la méthode Getting Things Done, si une tâche de votre to-do list ne peut être associée à aucune action concrète, que faut-il faire ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Après avoir noté tous les éléments qui sollicitent votre attention, il est nécessaire de clarifier cette liste en se demandant à chaque fois s’il y a une action concrète à réaliser concernant chaque élément. Si la réponse est non, la méthode GTD conseille soit de supprimer soit d’archiver ces éléments.",
+            "tips": "David Allen, l’inventeur de la méthode GTD, affirme avoir exercé 35 professions (magicien, serveur, agent de voyage, etc.) avant l'âge de 35 ans.",
+            "clue": "Simplifiez-vous la vie.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJoXYa8QB": "La supprimer",
+            "choice_41~NYTUXS": "La déléguer",
+            "choice_VkuNFTLQB": "L'archiver"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "According to the Getting Things Done method, what should you do if an item on your To Do list has no related action point?",
+            "klf": "Once you’ve written down everything that requires your attention, you need to clarify each item on the list by working out if it has a related action point. If no concrete action is required, the GTD method says you should archive or put those particular items to one side.",
+            "tips": "David Allen, inventor of the GTD method says he worked in 35 different professions before the age of 35 (as a magician, waiter, travel agent and more).",
+            "clue": "Make life easy for yourself.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJoXYa8QB": "Put it to one side",
+            "choice_41~NYTUXS": "Delegate it",
+            "choice_VkuNFTLQB": "Archive it"
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:55:07.300Z",
+            "updatedAt": "2018-06-22T16:04:37.237Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-04T12:55:07.300Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41pZPBHaN",
+        "universalRef": "sli_41pZPBHaN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41pZPBHaN.choice_VJxndVMW1H.id",
+                        "label": "choice_VJxndVMW1H",
+                        "value": "choice_VJxndVMW1H",
+                        "media": "med_Nkn-EfbkS"
+                    },
+                    {
+                        "id": "sli_41pZPBHaN.choice_Ekg~T4fW1B.id",
+                        "label": "choice_Ekg~T4fW1B",
+                        "value": "choice_Ekg~T4fW1B",
+                        "media": "med_V1~T4GbyH"
+                    },
+                    {
+                        "id": "sli_41pZPBHaN.choice_EyeeCEG~Jr.id",
+                        "label": "choice_EyeeCEG~Jr",
+                        "value": "choice_EyeeCEG~Jr",
+                        "media": "med_E1xRVz~JS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ekg~T4fW1B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi conseille-t-on de démarrer un brainstorming de groupe par un brainstorming individuel ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Pour avoir les idées claires et pouvoir s’exprimer sans craindre la critique de l’autre, il convient de commencer par un brainstorming individuel, par exemple à l’aide d’une mind map.",
+            "tips": "Plusieurs études témoignent de la difficulté qu’ont les salariés pour percevoir la critique comme un outil de développement professionnel. Une étude effectuée par des psychologues de la Kansas State University auprès de 234 personnes montre que la majorité écrasante des collaborateurs, y compris ceux accordant de l’importance à leur développement personnel, n’apprécient pas les entretiens d’évaluation durant lesquels leurs managers formulent des retours négatifs.",
+            "clue": "Confiance en soi.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxndVMW1H": "Pour générer plus d'idées",
+            "choice_Ekg~T4fW1B": "Pour que chacun puisse s'exprimer sans crainte",
+            "choice_EyeeCEG~Jr": "Pour allonger la session de brainstorming"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Why is it recommended that participants in a group brainstorming session gather some thoughts on their own first?",
+            "klf": "It’s best to start off by brainstorming individually, perhaps using a mind map, for instance, so that you have the chance to clarify your ideas and express them without worrying about what others will say.",
+            "tips": "Several studies have shown that employees struggle to see criticism as a tool for their own professional development. As such, research by psychologists at Kansas State University showed that, of the 234 participant workers, the vast majority did not hold a high opinion of evaluation meetings in which managers give them negative feedback. This included even those people who considered their personal development important.",
+            "clue": "Self-confidence",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxndVMW1H": "So that more ideas are generated",
+            "choice_Ekg~T4fW1B": "So that everyone can express their ideas without worrying about what others will say",
+            "choice_EyeeCEG~Jr": "To extend the session"
+        }
+    }
+}

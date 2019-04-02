@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-24T13:06:06.512Z",
+            "updatedAt": "2018-06-22T12:29:42.641Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1q-czu3N",
+        "universalRef": "sli_V1q-czu3N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1q-czu3N.choice_4yrn5Md3E.id",
+                        "label": "choice_4yrn5Md3E",
+                        "value": "choice_4yrn5Md3E"
+                    },
+                    {
+                        "id": "sli_V1q-czu3N.choice_412TqGOhE.id",
+                        "label": "choice_412TqGOhE",
+                        "value": "choice_412TqGOhE"
+                    },
+                    {
+                        "id": "sli_V1q-czu3N.choice_4JB0cz-nN.id",
+                        "label": "choice_4JB0cz-nN",
+                        "value": "choice_4JB0cz-nN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yrn5Md3E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'enchaînement logique des phases du brainstorming ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le brainstorming s’opère en deux phases distinctes : dans un premier temps, une phase divergente qui permet de générer un maximum d’idées sans jugement de valeur. Dans un deuxième temps, une phase convergente qui consiste à évaluer et sélectionner les idées proposées.",
+            "tips": "Le brainwriting est une technique de créativité dérivée du brainstorming. Sa mise en œuvre et son déroulement se font uniquement par écrit. À partir d’une première idée écrite par un participant, chacun rebondit, toujours par écrit, sur l’idée émise.",
+            "clue": "Push and pull.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yrn5Md3E": "Diverger puis converger",
+            "choice_412TqGOhE": "Converger puis diverger",
+            "choice_4JB0cz-nN": "Sélectionner puis trouver"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Can you put the steps involved in brainstorming in order?",
+            "klf": "Brainstorming involves two key stages. The first is the divergent phase, where you generate as many ideas as you can without bringing any value judgements to the table. The second is the convergent phase, which is when you use your critical faculties to evaluate your ideas and select the best ones.",
+            "tips": "Brainwriting is a creativity-enhancing technique derived from brainstorming. It functions entirely through writing. Each participant makes a written response to an initial idea scribed by one person.",
+            "clue": "Push and pull",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yrn5Md3E": "Diverge then converge",
+            "choice_412TqGOhE": "Converge then diverge",
+            "choice_4JB0cz-nN": "Select then find"
+        }
+    }
+}

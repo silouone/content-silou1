@@ -1,0 +1,129 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:17:08.767Z",
+            "updatedAt": "2016-09-03T16:05:51.820Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJpcub49e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJpcub49e.choice_N1Zko~E5x.id",
+                        "label": "choice_N1Zko~E5x",
+                        "value": "choice_N1Zko~E5x"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_EkM1jZEql.id",
+                        "label": "choice_EkM1jZEql",
+                        "value": "choice_EkM1jZEql"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_Nk7yi~Ece.id",
+                        "label": "choice_Nk7yi~Ece",
+                        "value": "choice_Nk7yi~Ece"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_EJ4kobE5x.id",
+                        "label": "choice_EJ4kobE5x",
+                        "value": "choice_EJ4kobE5x"
+                    },
+                    {
+                        "id": "sli_NJpcub49e.choice_NkxNysZEqe.id",
+                        "label": "choice_NkxNysZEqe",
+                        "value": "choice_NkxNysZEqe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nk7yi~Ece",
+                        "choice_NkxNysZEqe"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NJpcub49e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les affirmations suivantes, lesquelles sont vraies à propos des filles et des garçons dans les livres pour enfants en français?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La docteure en psychologie Anne Dafflon Novelle a montré que seulement 25% des livres pour enfants en français racontent l'histoire d'une héroïne. Et selon l'association Adéquations, ceux-ci sont majoritairement représentés à l'intérieur de la maison.",
+            "tips": "Un autre phénomène notable, selon l’auteure et chercheuse Clémentine Beauvais: \"Jamais les héroïnes [les jeunes] n’ont été aussi girly\".",
+            "clue": "Au fait, quel est le titre de ce chapitre?",
+            "choice_N1Zko~E5x": "Il y a 60% de héros garçons",
+            "choice_EkM1jZEql": "Les enfants sont principalement représentés à l'intérieur de la maison",
+            "choice_Nk7yi~Ece": "25% des personnages principaux sont des héroïnes",
+            "choice_EJ4kobE5x": "Les garçons et les filles pratiquent les mêmes activités",
+            "choice_NkxNysZEqe": "Les filles sont souvent à l'intérieur de la maison"
+        },
+        "en": {
+            "header": "Which of these statements are true about girls and boys in French-language children's books?",
+            "explanation": "Select the correct answers.",
+            "klf": "Psychology doctor Anne Dafflon Novelle has shown that only 25% of French-language children's books tell the story of a heroine. And according to the association Adéquations, these are mostly represented inside the house.",
+            "tips": "Another notable phenomenon according to the author and researcher Clémentine Beauvais: \"Never heroines [youth] have been so girly\".",
+            "clue": "What is the title of this chapter, by the way?",
+            "choice_N1Zko~E5x": "There are 60% of boys heroes",
+            "choice_EkM1jZEql": "Children are mostly represented inside the house",
+            "choice_Nk7yi~Ece": "25% of the main characters are heroines",
+            "choice_EJ4kobE5x": "Boys and girls practice the same activities",
+            "choice_NkxNysZEqe": "Girls are often inside the house"
+        },
+        "de": {
+            "header": "Welche dieser Aussagen trifft für Mädchen und Jungen in französischsprachigen Kinderbüchern zu?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Die Psychologin Anne Dafflon Novelle hat gezeigt, dass nur 25% der französischsprachigen Kinderbücher die Geschichte einer Heldin erzählen. Und laut dem Verband Adéquations sind diese meistens im Haus vertreten.",
+            "tips": "Ein weiteres bemerkenswertes Phänomen laut Autor und Forscher Clémentine Beauvais: \"Niemals waren Heldinnen [so jung\" gewesen.",
+            "clue": "Was ist übrigens der Titel dieses Kapitels?",
+            "choice_N1Zko~E5x": "Es gibt 60% der Jungen-Helden",
+            "choice_EkM1jZEql": "Kinder sind meistens im Haus vertreten",
+            "choice_Nk7yi~Ece": "25% der Hauptfiguren sind Heldinnen",
+            "choice_EJ4kobE5x": "Jungen und Mädchen üben die gleichen Aktivitäten",
+            "choice_NkxNysZEqe": "Mädchen sind oft im Haus"
+        },
+        "es": {
+            "header": "Which of these statements about the girls and boys in French youth literature are correct?",
+            "explanation": "Select the correct answers.",
+            "klf": "Doctor of psychology Anne Dafflon Novelle demonstrated that only 25% of French children's books told the story of a heroine. And according to the association Adéquations these are primarily represented within the house.",
+            "tips": "Another notable phenomenon according to author and researcher Clementine Beauvais : \"Never have [young] heroines been so girly\".",
+            "choice_N1Zko~E5x": "60% of heroes are male",
+            "choice_EkM1jZEql": "Children are especially represented within the house",
+            "choice_Nk7yi~Ece": "25% of the main characters are heroines",
+            "choice_EJ4kobE5x": "Boys and girls carry out the same activities",
+            "choice_NkxNysZEqe": "Girls are often inside the house",
+            "clue": "What is the title of this chapter, in fact?"
+        },
+        "zh": {
+            "header": "关于法国青年文学中女孩和男孩的哪些陈述是正确的？",
+            "explanation": "选择正确的答案。",
+            "klf": "心理学博士Anne Dafflon Novelle证明，只有25％的法国儿童书籍讲述了女主角的故事。根据Adéquations协会的说法，这些主要代表在房子内。",
+            "tips": "根据作者和研究员Clementine Beauvais的另一个值得注意的现象：“从来没有[年轻]女英雄如此少女”。",
+            "clue": "事实上，这一章的标题是什么？",
+            "choice_N1Zko~E5x": "60％的英雄是男性",
+            "choice_EkM1jZEql": "孩子们在房子里特别有代表",
+            "choice_Nk7yi~Ece": "25％的主角是女主角",
+            "choice_EJ4kobE5x": "男孩和女孩进行同样的活动",
+            "choice_NkxNysZEqe": "女孩经常在屋内"
+        }
+    }
+}

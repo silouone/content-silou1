@@ -1,0 +1,96 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T09:33:44.513Z",
+            "updatedAt": "2018-06-21T09:55:24.857Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkoPpuVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkOQpAsnE",
+        "universalRef": "sli_VkOQpAsnE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkOQpAsnE.choice_EkeYL60i3E.id",
+                        "label": "choice_EkeYL60i3E",
+                        "value": "choice_EkeYL60i3E",
+                        "media": "med_VJtUpCjhN"
+                    },
+                    {
+                        "id": "sli_VkOQpAsnE.choice_4ygiP60s34.id",
+                        "label": "choice_4ygiP60s34",
+                        "value": "choice_4ygiP60s34",
+                        "media": "med_NJovTAo24"
+                    },
+                    {
+                        "id": "sli_VkOQpAsnE.choice_N1xdup0sh4.id",
+                        "label": "choice_N1xdup0sh4",
+                        "value": "choice_N1xdup0sh4",
+                        "media": "med_NyOd60inV"
+                    },
+                    {
+                        "id": "sli_VkOQpAsnE.choice_VJl3KaAsnV.id",
+                        "label": "choice_VJl3KaAsnV",
+                        "value": "choice_VJl3KaAsnV",
+                        "media": "med_NkhK60shE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkeYL60i3E",
+                        "choice_4ygiP60s34"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles images illustrent notre attention ordinaire lorsque nous ne sommes pas en pleine conscience ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les bouddhistes comme les neuroscientifiques contemporains constatent que sans entraînement en présence attentive, notre attention ordinaire est très dispersée. En effet, même lorsque nous nous concentrons, notre esprit est détourné par des stimuli externes ou internes comme un bruit ou une pensée. On peut ainsi comparer notre attention à une marionnette ou à un singe qui saute de branche en branche.",
+            "tips": "Pour s’éveiller physiquement et mentalement et être plus attentif, il est conseillé de pratiquer le réveil moteur. Cette pratique (dont s’approchent celles du Yoga ou du Tai Chi Chuan) consiste à réaliser chaque matin une série de petits exercices physiques. Cette routine permet d’être plus attentif et en pleine présence dès le début de la journée.",
+            "clue": "Un peu de fun !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkeYL60i3E": "Un petit singe qui saute de branche en branche ",
+            "choice_4ygiP60s34": "Une marionnette tirée par des fils ",
+            "choice_N1xdup0sh4": "Un océan calme ",
+            "choice_VJl3KaAsnV": "Une tempête tropicale"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Which of the following descriptions could refer to our normal attention when we’re not being mindful?",
+            "klf": "Both Buddhists and contemporary neuroscientists say our normal attention span is very chaotic unless we do mindfulness training. In fact, even when we’re concentrating, our mind is constantly distracted by internal or external stimuli such as noises or thoughts. So we could compare our attention to a puppet on a string, or a monkey jumping from one branch to another.",
+            "tips": "We recommend practising mindful awakening so you can start the day being physically and mentally alert. Mindful awakening is a series of simple physical exercises you can do each morning (similar poses exist in Yoga and Tai Chi Chuan). The routine ensures you’re attentive and mindful from the very start of the day.",
+            "clue": "A bit of fun!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkeYL60i3E": "A small monkey jumping from one branch to another ",
+            "choice_4ygiP60s34": "A puppet on a string ",
+            "choice_N1xdup0sh4": "A calm ocean",
+            "choice_VJl3KaAsnV": "A tropical tempest"
+        }
+    }
+}

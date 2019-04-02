@@ -1,0 +1,85 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:52:41.231Z",
+            "updatedAt": "2018-06-22T16:03:21.175Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-04T12:52:41.231Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJEMUrr6E",
+        "universalRef": "sli_VJEMUrr6E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJEMUrr6E.choice_NklsIBraV.id",
+                        "label": "choice_NklsIBraV",
+                        "value": "choice_NklsIBraV"
+                    },
+                    {
+                        "id": "sli_VJEMUrr6E.choice_NyBs8HSaV.id",
+                        "label": "choice_NyBs8HSaV",
+                        "value": "choice_NyBs8HSaV"
+                    },
+                    {
+                        "id": "sli_VJEMUrr6E.choice_4knoUrH6V.id",
+                        "label": "choice_4knoUrH6V",
+                        "value": "choice_4knoUrH6V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NklsIBraV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le brainstorming se base sur un principe bien connu. Lequel ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le brainstorming en groupe va permettre à chacun de rebondir sur les idées des autres. En effet, c'est bien connu : il y a plus d'idées dans plusieurs têtes que dans une seule ! Cependant, le nombre de participants doit idéalement se situer entre 5 et 8 personnes, motivées et intéressées par la problématique.",
+            "tips": "D'après les études d’Olson (1965), et de Stroebe et Frey (1982), plus la taille du groupe de travail est importante, plus il est difficile d’estimer la contribution individuelle de chacun, et plus le phénomène de \"passager clandestin\" est présent. En effet, ces études montrent que face à un certain anonymat du travail en groupe, la motivation à s’impliquer réellement dans une activité est moins élevée que lorsque l’évaluation de la performance est individuelle.",
+            "clue": "L’union fait la force.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklsIBraV": "Il y a plus d'idées dans deux têtes que dans une",
+            "choice_NyBs8HSaV": "Pierre qui roule n’amasse pas mousse",
+            "choice_4knoUrH6V": "La tête est ronde pour que les idées rebondissent"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Brainstorming is based on one well-known key idea. Which one?",
+            "klf": "Group brainstorming allows everyone to bounce ideas off each other. As we all know, there are more ideas contained in multiple heads than just one! However, the ideal number of participants is between five and eight, and they all need to be motivated and interested in your issue.",
+            "tips": "According to studies by Olson (1965) and Stroebe and Frey (1982), the bigger the working group, the harder it is to assess everyone’s individual contribution and the more “free riders” you will get. This research demonstrates that, when faced with the anonymity that comes with group work, our motivation to really commit to an activity is lower than when our performance is assessed individually.",
+            "clue": "Strength in numbers",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklsIBraV": "Two heads are better than one",
+            "choice_NyBs8HSaV": "A rolling stone gathers no moss",
+            "choice_4knoUrH6V": "Our heads are round so that ideas bounce off them"
+        }
+    }
+}

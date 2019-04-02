@@ -1,0 +1,122 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T08:55:44.179Z",
+            "updatedAt": "2016-06-14T14:27:48.970Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NyGCmQT5x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_NyGCmQT5x.id",
+                "min": 8,
+                "max": 20,
+                "step": 1,
+                "defaultValue": 8,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_NyGCmQT5x"
+    },
+    "locales": {
+        "fr": {
+            "header": "L'Organisation internationale du Travail recommande un nombre minimum de semaines de congé de maternité, appliqué par 51% des pays en 2013. Quelle est la durée?",
+            "explanation": "Déplace le curseur.",
+            "klf": "L'Organisation Internationale du Travail recommande un minimum de 14 semaines de congé de maternité. En 2013, 51% des pays ont garanti cette durée, contre 38% en 1995. Cependant, 41% des femmes ne bénéficient toujours pas d'un congé de maternité adéquat.",
+            "tips": "Le congé de paternité est en augmentation: 47% des pays l’offrent en 2013, contre 28% en 1994.",
+            "clue": "La somme des carrés des trois premiers chiffres.",
+            "description": "14 semaines",
+            "unitLabel": "semaines",
+            "choice_1": "12",
+            "choice_2": "13",
+            "choice_3": "14",
+            "choice_4": "15",
+            "choice_5": "16",
+            "answerMin": 12,
+            "answerMax": 16
+        },
+        "en": {
+            "header": "The International Labor Organization recommends a minimum number of weeks for maternity leave, applied by 51% of countries in 2013. What is the duration?",
+            "explanation": "Move the cursor.",
+            "klf": "The International Labor Organization recommends a minimum of 14 weeks of maternity leave. In 2013, 51% of countries guaranteed this duration, compared with 38% in 1995. However, 41% of women still do not have adequate maternity leave.",
+            "tips": "Paternity leave is growing: 47% of countries offer it in 2013, compared to 28% in 1994.",
+            "clue": "The sum of the squares of the first three digits.",
+            "description": "14 weeks",
+            "unitLabel": "weeks",
+            "choice_1": "12",
+            "choice_2": "13",
+            "choice_3": "14",
+            "choice_4": "15",
+            "choice_5": "16",
+            "answerMin": 12,
+            "answerMax": 16
+        },
+        "de": {
+            "header": "Die Internationale Arbeitsorganisation empfiehlt eine Mindestanzahl von Wochen für den Mutterschaftsurlaub, die 2013 von 51% der Länder angewandt wurde. Wie lang ist die Dauer?",
+            "explanation": "Bewegen Sie den Cursor.",
+            "klf": "Die Internationale Arbeitsorganisation empfiehlt einen Mutterschaftsurlaub von mindestens 14 Wochen. Im Jahr 2013 garantierten 51% der Länder diese Dauer, verglichen mit 38% im Jahr 1995. Allerdings haben immer noch 41% der Frauen keinen angemessenen Mutterschaftsurlaub.",
+            "tips": "Der Vaterschaftsurlaub nimmt zu: 47% der Länder bieten ihn 2013 an, verglichen mit 28% im Jahr 1994.",
+            "clue": "Die Summe der Quadrate der ersten drei Ziffern.",
+            "description": "14 Wochen",
+            "unitLabel": "Wochen",
+            "choice_1": "12",
+            "choice_2": "13",
+            "choice_3": "14",
+            "choice_4": "fünfzehn",
+            "choice_5": "16",
+            "answerMin": 12,
+            "answerMax": 16
+        },
+        "es": {
+            "header": "The International Labour Organization recommends a minimum number of weeks for maternity leave, applied by 51% of countries in 2013. What is the duration? ",
+            "explanation": "Drag the slider.",
+            "klf": "The International Labour Organization recommends a minimum of 14 weeks maternity leave. In 2013, 51% of countries guaranteed this period, compared to 38% in 1995. However, 41% of women still do not have adequate maternity leave.",
+            "tips": "Paternity leave is growing: 47% of countries offer paternity leave in 2013, compared to 28% in 1994.",
+            "unitLabel": " ",
+            "description": "14 weeks",
+            "answerMin": 12,
+            "answerMax": 16,
+            "clue": "The sum of the squares of the first three digits."
+        },
+        "zh": {
+            "header": "国际劳工组织建议至少有数周的产假，2013年由51％的国家适用。持续时间是多长？",
+            "explanation": "拖动滑块。",
+            "klf": "国际劳工组织建议至少休14周产假。 2013年，51％的国家保证了这一时期，而1995年为38％。然而，41％的妇女仍然没有足够的产假。",
+            "tips": "陪产假正在增加：2013年有47％的国家提供陪产假，而1994年为28％。",
+            "clue": "前三位数的平方和。",
+            "description": "14周",
+            "unitLabel": " ",
+            "choice_1": "12",
+            "choice_2": "13",
+            "choice_3": "14",
+            "choice_4": "15",
+            "choice_5": "16",
+            "answerMin": 12,
+            "answerMax": 16
+        }
+    }
+}

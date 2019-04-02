@@ -1,0 +1,111 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T15:07:21.600Z",
+            "updatedAt": "2018-12-13T15:27:11.532Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJpAQUiuB"
+            ],
+            "status": "draft",
+            "modifiedBy": "silouone",
+            "createdBy": "ThibaultRic",
+            "coreBranch": "test-thibault"
+        },
+        "ref": "sli_4kU0VUjOS",
+        "universalRef": "sli_4kU0VUjOS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_VJbcA52uH"
+            ],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kU0VUjOS.choice_NyeQSLjOr.id",
+                        "label": "choice_NyeQSLjOr",
+                        "value": "choice_NyeQSLjOr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyeQSLjOr"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_N1qNKws1L",
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "J'ai déjà une vidéo",
+            "explanation": "Sélectionnez la ou les bonnes réponses.",
+            "klf": "KLF",
+            "tips": "DYK",
+            "context_title": "contexte de test",
+            "context_description": "tesssssssssssssssssssssssssssssstsubtitle",
+            "context_media_description": "TESTER",
+            "choice_NyeQSLjOr": "Génial non?",
+            "clue": ""
+        },
+        "en": {
+            "header": "I already have a video",
+            "explanation": "Select the correct answer (s).",
+            "klf": "KLF",
+            "tips": "DYK",
+            "context_title": "test context",
+            "context_description": "tesssssssssssssssssssssssssssstsubtitle",
+            "context_media_description": "TEST",
+            "choice_NyeQSLjOr": "Awesome right?",
+            "clue": ""
+        },
+        "ru": {
+            "explanation": "Выберите правильный ответ (ы).",
+            "header": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyeQSLjOr": ""
+        },
+        "rn": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyeQSLjOr": ""
+        },
+        "es": {
+            "header": "Ya tengo un video",
+            "explanation": "Seleccione la (s) respuesta (s) correcta (s).",
+            "klf": "KLF",
+            "tips": "DYK",
+            "context_title": "contexto de prueba",
+            "context_description": "tessssssssssssssssssssssssssstsststuble",
+            "context_media_description": "PRUEBA",
+            "choice_NyeQSLjOr": "Impresionante ¿verdad?"
+        }
+    }
+}

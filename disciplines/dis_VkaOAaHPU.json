@@ -1,0 +1,51 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-03-16T11:35:13.536Z",
+            "updatedAt": "2019-04-02T00:18:51.790Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-05-16T10:34:52.909Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "silouone",
+            "createdBy": "silouone"
+        },
+        "ref": "dis_VkaOAaHPU",
+        "universalRef": "dis_VkaOAaHPU",
+        "name": "name",
+        "partnershipType": "coorp",
+        "position": 0,
+        "hidden": false,
+        "draft": false,
+        "cover": {
+            "coverDescription": "coverDescription",
+            "resource": "med_VJum3CBdL",
+            "poster": "med_VkNf3tiuU"
+        },
+        "courses": [],
+        "thematiques": [],
+        "partners": [],
+        "conditions": [],
+        "version": "3"
+    },
+    "locales": {
+        "fr": {
+            "name": "test upsert",
+            "coverDescription": "test upsert"
+        },
+        "en": {
+            "name": "test upsert",
+            "coverDescription": "test upsert"
+        },
+        "pt": {
+            "name": "teste upsert",
+            "coverDescription": "teste upsert"
+        },
+        "de": {
+            "name": "Test-Upsert",
+            "coverDescription": "Test-Upsert"
+        }
+    }
+}

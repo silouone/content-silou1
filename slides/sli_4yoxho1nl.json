@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T10:29:23.356Z",
+            "updatedAt": "2016-09-06T08:45:52.637Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yoxho1nl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel10688",
+                        "label": "label_VkoKk3y3l",
+                        "items": [
+                            {
+                                "text": "choice_N1lsYy2knx",
+                                "value": "choice_N1lsYy2knx"
+                            },
+                            {
+                                "text": "choice_E1biK1hk2g",
+                                "value": "choice_E1biK1hk2g"
+                            },
+                            {
+                                "text": "choice_4kTFJ21hx",
+                                "value": "choice_4kTFJ21hx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel10688",
+                        "answers": [
+                            "choice_E1biK1hk2g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4yoxho1nl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les salariés français ayant demandé une augmentation en 2013, quelle est la proportion de femmes  ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En France, en 2013, 58% des professionnels interrogés par Accenture avaient négocié leur salaire, dont 44% de femmes.",
+            "tips": "L'auteur Sara Laschever et la professeure d'économie Linda C. Babcock ont écrit un ouvrage à ce sujet, intitulé \"Women don't ask: negociation and the gender divide\" (2007).",
+            "template": "{{sel10688}}",
+            "clue": "Un entre-deux.",
+            "label_VkoKk3y3l": " ",
+            "choice_N1lsYy2knx": "33 %",
+            "choice_E1biK1hk2g": "44 %",
+            "choice_4kTFJ21hx": "61%"
+        },
+        "en": {
+            "header": "Among French employees who asked for an increase in 2013, what is the proportion of women?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In France, in 2013, 58% of professionals surveyed by Accenture had negotiated their salary, of which 44% were women.",
+            "tips": "Author Sara Laschever and Professor of Economics Linda C. Babcock have written a book on this subject entitled \"Women Do not Ask: Negotiation and the Gender Divide\" (2007).",
+            "clue": "An in-between.",
+            "template": "{{sel10688}}",
+            "label_VkoKk3y3l": " ",
+            "choice_N1lsYy2knx": "33 %",
+            "choice_E1biK1hk2g": "44 %",
+            "choice_4kTFJ21hx": "61%"
+        },
+        "de": {
+            "header": "Wie viel Prozent der französischen Angestellten, die 2013 eine Erhöhung forderten, waren Frauen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "In Frankreich hatten im Jahr 2013 58% der von Accenture befragten Fachkräfte ihr Gehalt ausgehandelt, davon 44% Frauen.",
+            "tips": "Die Autorin Sara Laschever und die Wirtschaftsprofessorin Linda C. Babcock schrieben zu diesem Thema ein Buch mit dem Titel \"Frauen fragen nicht: Verhandlung und Geschlechterunterschied\" (2007).",
+            "clue": "Zwischen.",
+            "template": "{{sel10688}}",
+            "label_VkoKk3y3l": " ",
+            "choice_N1lsYy2knx": "33%",
+            "choice_E1biK1hk2g": "44%",
+            "choice_4kTFJ21hx": "61%"
+        },
+        "es": {
+            "header": "What percentage of French employees who asked for an increase in 2013 were women?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In France, in 2013, 58% of professionals questioned by Accenture had negotiated their salary, of which 44% were women.",
+            "tips": "The author Sara Laschever and economics professor Linda C. Babcock wrote a book on this subject, entitled \"Women don't ask: negotiation and the gender divide\" (2007).",
+            "template": "{{sel10688}}",
+            "label_VkoKk3y3l": " ",
+            "choice_N1lsYy2knx": "33 %",
+            "choice_E1biK1hk2g": "44 %",
+            "choice_4kTFJ21hx": "61%",
+            "clue": "In-between."
+        },
+        "zh": {
+            "header": "2013年要求增加的法国员工比例是多少？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在法国，2013年，埃森哲接受调查的专业人士中有58％已经谈判过他们的薪水，其中44％是女性。",
+            "tips": "作者Sara Laschever和经济学教授Linda C. Babcock写了一本关于这个主题的书，名为“妇女不问：谈判和性别鸿沟”（2007年）。",
+            "clue": "在两者之间。",
+            "template": "{{sel10688}}",
+            "label_VkoKk3y3l": " ",
+            "choice_N1lsYy2knx": "33％",
+            "choice_E1biK1hk2g": "44％",
+            "choice_4kTFJ21hx": "61％"
+        }
+    }
+}

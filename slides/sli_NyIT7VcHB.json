@@ -1,0 +1,123 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-13T08:49:57.773Z",
+            "updatedAt": "2018-10-12T15:06:39.295Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJmCaWFVS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NyIT7VcHB",
+        "universalRef": "sli_NyIT7VcHB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyIT7VcHB.choice_VyoJNV9Sr.id",
+                        "label": "choice_VyoJNV9Sr",
+                        "value": "choice_VyoJNV9Sr"
+                    },
+                    {
+                        "id": "sli_NyIT7VcHB.choice_4yB~E4crr.id",
+                        "label": "choice_4yB~E4crr",
+                        "value": "choice_4yB~E4crr"
+                    },
+                    {
+                        "id": "sli_NyIT7VcHB.choice_VyrNNNqBH.id",
+                        "label": "choice_VyrNNNqBH",
+                        "value": "choice_VyrNNNqBH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyrNNNqBH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la marque Red Bull a-t-elle réussi à développer son image de marque ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour développer son image de marque et faire la différence, Red Bull a choisi de se positionner sur le terrain des sports extrêmes, un domaine plus susceptible de fédérer les troupes que celui des boissons énergisantes.",
+            "tips": "Grâce à son entité Red Bull Media House, la marque de sodas s'est imposée comme un média à part entière, dédié non seulement au sport, mais aussi à la culture (musique, nature, cinéma, sciences…).",
+            "clue": "D'après la pub, Red Bull \"donne des ailes\".",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyoJNV9Sr": "En capitalisant sur les ingrédients uniques de ses boissons énergisantes",
+            "choice_4yB~E4crr": "En développant des partenariats avec des marques de boissons alcoolisées",
+            "choice_VyrNNNqBH": "En se positionnant sur le terrain des sports extrêmes"
+        },
+        "en": {
+            "header": "How did the Red Bull brand develop its brand image?",
+            "explanation": "Select the correct answer.",
+            "klf": "To develop its brand image and make the difference, Red Bull has chosen to position itself in the field of extreme sports, an area more likely to unite the troops than energy drinks.",
+            "tips": "Thanks to its Red Bull Media House entity, the brand of soft drinks has become a media in its own right, dedicated not only to sport, but also to culture (music, nature, cinema, science ...).",
+            "clue": "According to the ad, Red Bull \"gives wings\".",
+            "choice_VyoJNV9Sr": "Capitalizing on the unique ingredients of its energy drinks",
+            "choice_4yB~E4crr": "By developing partnerships with brands of alcoholic beverages",
+            "choice_VyrNNNqBH": "By positioning yourself in the field of extreme sports",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Wie hat Red Bull sein Markenimage aufgebaut?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Red Bull entschied sich dafür, sich in der Welt des Extremsports zu positionieren, einer Gegend, die viel eher treue Anhänger als die Welt der Energy-Drinks gewinnt.",
+            "tips": "Mit ihrer Einheit Red Bull Media House etablierte sich die Softdrinks-Marke als eigenständige Medien, die nicht nur dem Sport, sondern auch der Kultur (Musik, Natur, Kino, Wissenschaft usw.) gewidmet sind.",
+            "clue": "Laut der Werbung „verleiht Red Bull Flügel“.",
+            "choice_VyoJNV9Sr": "Durch die Nutzung der einzigartigen Zutaten in seinen Energy-Drinks",
+            "choice_4yB~E4crr": "Durch die Entwicklung von Partnerschaften mit alkoholischen Getränkefirmen",
+            "choice_VyrNNNqBH": "Durch die Positionierung in der Welt des Extremsports",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "How did Red Bull manage to build its brand image?",
+            "klf": "Red Bull chose to position itself in the world of extreme sports, an area much more likely to gain loyal followers than the world of energy drinks.",
+            "tips": "Through its entity Red Bull Media House, the soft drinks brand established itself as a standalone media, dedicated not only to sport, but also to culture (music, nature, cinema, science, etc.).",
+            "clue": "According to the advertisement, Red Bull “gives you wings”.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyoJNV9Sr": "By capitalising on the unique ingredients in its energy drinks",
+            "choice_4yB~E4crr": "By developing partnerships with alcoholic drinks companies",
+            "choice_VyrNNNqBH": "By positioning itself in the world of extreme sports"
+        },
+        "zh": {
+            "header": "红牛是如何建立品牌形象的？",
+            "explanation": "选择正确的答案。",
+            "klf": "红牛选择将自己定位于极限运动的世界，这个领域比能量饮料世界更有可能获得忠诚的追随者。",
+            "tips": "通过其实体Red Bull Media House，软饮料品牌成为独立媒体，不仅致力于运动，还致力于文化（音乐，自然，电影，科学等）。",
+            "clue": "根据广告，红牛“给你翅膀”。",
+            "choice_VyoJNV9Sr": "通过利用其能量饮料中的独特成分",
+            "choice_4yB~E4crr": "通过与酒精饮料公司建立合作关系",
+            "choice_VyrNNNqBH": "通过将自己定位于极限运动的世界",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

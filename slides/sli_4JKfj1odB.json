@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:36:10.867Z",
+            "updatedAt": "2018-10-17T09:25:23.065Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JKfj1odB",
+        "universalRef": "sli_4JKfj1odB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel78817",
+                        "items": [
+                            {
+                                "text": "choice_E1x7-i1sOB",
+                                "value": "choice_E1x7-i1sOB"
+                            },
+                            {
+                                "text": "choice_NyZQ-iksdS",
+                                "value": "choice_NyZQ-iksdS"
+                            },
+                            {
+                                "text": "choice_4kGtjJjur",
+                                "value": "choice_4kGtjJjur"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel78817",
+                        "answers": [
+                            "choice_NyZQ-iksdS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel bouleversement majeur a engendré le libre accès aux informations sur Internet ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le consommateur a désormais le pouvoir face aux marques. Au démarrage d’un parcours d’achat, on souhaite des informations qui répondent à nos problématiques ou nos envies. Le client a envie d’y accéder librement sans être dépendant d'un discours de marque.",
+            "tips": "Selon Search Engine Watch, 90 % des internautes ne font pas de requêtes relatives à une marque lorsqu'ils cherchent un produit sur les moteurs de recherche.",
+            "clue": "Il démarre souvent sur Internet.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L’information librement accessible sur le Net a révolutionné {{sel78817}}.",
+            "choice_E1x7-i1sOB": "l'expérience employé",
+            "choice_NyZQ-iksdS": "le parcours client",
+            "choice_4kGtjJjur": "l'enseignement"
+        },
+        "en": {
+            "header": "Quel bouleversement majeur a engendré le libre accès aux informations sur Internet ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le consommateur a désormais le pouvoir face aux marques. Au démarrage d’un parcours d’achat, on souhaite des informations qui répondent à nos problématiques ou nos envies. Le client a envie d’y accéder librement sans être dépendant dun discours de marque.",
+            "tips": "Selon Search Engine Watch, 90 % des internautes ne font pas de requêtes relatives à une marque lorsquils cherchent un produit sur les moteurs de recherche.",
+            "clue": "Il démarre souvent sur Internet.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L’information librement accessible sur le Net a révolutionné {{sel78817}}.",
+            "choice_E1x7-i1sOB": "lexpérience employé",
+            "choice_NyZQ-iksdS": "le parcours client",
+            "choice_4kGtjJjur": "lenseignement"
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-21T14:43:02.556Z",
+            "updatedAt": "2018-10-12T15:28:08.050Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41BgCWKNS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NykLMzHUB",
+        "universalRef": "sli_NykLMzHUB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NykLMzHUB.choice_VJLnIrGPH.id",
+                        "label": "choice_VJLnIrGPH",
+                        "value": "choice_VJLnIrGPH"
+                    },
+                    {
+                        "id": "sli_NykLMzHUB.choice_NkDnLSGPB.id",
+                        "label": "choice_NkDnLSGPB",
+                        "value": "choice_NkDnLSGPB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJLnIrGPH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous entamez une collaboration avec Maxime, influenceur actif sur Twitter, YouTube, Facebook et Instagram. Vous préférez qu'il se concentre sur les médias visuels. Pouvez-vous lui demander ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans votre brief adressé à l'influenceur, vous pouvez tout à fait citer les réseaux sociaux prioritaires, et également rappeler l’objectif de la collaboration, le public-cible ou encore les mots-clés à utiliser.",
+            "tips": "Un influenceur peut être rémunéré pour ses services (honoraires, cadeaux…). Il est donc logique que la marque qui fait appel à lui détermine des objectifs précis à cette collaboration.",
+            "clue": "L'influenceur est libre, mais il peut être guidé…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJLnIrGPH": "Oui, vous pouvez tout à fait le mentionner dans votre brief",
+            "choice_NkDnLSGPB": "Non, ce serait malvenu : l'influenceur décide seul de sa stratégie marketing"
+        },
+        "en": {
+            "header": "You start a collaboration with Maxime, influencer active on Twitter, YouTube, Facebook and Instagram. You prefer that he focuses on visual media. Can you ask him?",
+            "explanation": "Select the correct answer.",
+            "klf": "In your brief to the influencer, you can cite the priority social networks, and also point out the purpose of the collaboration, the target audience or the keywords to use.",
+            "tips": "An influencer can be paid for his services (fees, gifts ...). It is therefore logical that the brand that appeals to him determines specific goals for this collaboration.",
+            "clue": "The influencer is free, but he can be guided ...",
+            "choice_VJLnIrGPH": "Yes, you can mention it in your brief",
+            "choice_NkDnLSGPB": "No, it would be wrong: the influencer decides alone its marketing strategy",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie gehen eine Partnerschaft mit Maxime ein, einem Influencer, der auf Twitter, YouTube, Facebook und Instagram aktiv ist. Sie möchten, dass er sich auf visuelle Medien konzentriert. Kannst du ihn darum bitten?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In dem Brief, den Sie an Ihren Influencer senden, können Sie Ihre bevorzugten Social-Media-Plattformen auflisten und eine Erinnerung an das Ziel der Partnerschaft, die Zielgruppe und die zu verwendenden Schlüsselwörter einfügen.",
+            "tips": "Ein Influencer kann für seine Dienstleistungen (Gebühr, Geschenke usw.) bezahlt werden. Daher ist es nur fair für die Marke, sie an die spezifischen Ziele der Partnerschaft zu erinnern.",
+            "clue": "Influencer können frei sein, was sie wollen, aber sie können immer in eine bestimmte Richtung gelenkt werden ...",
+            "choice_VJLnIrGPH": "Ja, Sie können dies sicherlich in Ihre Kurzfassung aufnehmen",
+            "choice_NkDnLSGPB": "Nein, das wäre nicht erwünscht: Allein der Influencer entscheidet über seine Marketingstrategie",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "You enter into a partnership with Maxime, an influencer active on Twitter, YouTube, Facebook and Instagram. You would prefer him to concentrate on visual media. Can you ask him to do this?",
+            "klf": "In the brief you send to your influencer, you can list your preferred social media platforms, and include a reminder about the aim of the partnership, the target audience and which keywords to use.",
+            "tips": "An influencer can be paid for their services (fee, gifts, etc.). So it is only fair for the brand to remind him or her of the specific aims of the partnership.",
+            "clue": "Influencers might be free to do what they like, but they can always be steered in a certain direction...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJLnIrGPH": "Yes, you can certainly include this in your brief",
+            "choice_NkDnLSGPB": "No, this would be unwelcome: the influencer alone decides on their marketing strategy"
+        },
+        "zh": {
+            "header": "您与Maxime积极合作，Maxime是Twitter，YouTube，Facebook和Instagram上的活跃影响者。你更希望他专注于视觉媒体。你能问他这样做吗？",
+            "explanation": "选择正确的答案。",
+            "klf": "在您发给影响者的简报中，您可以列出您首选的社交媒体平台，并提供有关合作伙伴关系目标，目标受众以及使用哪些关键字的提醒。",
+            "tips": "可以为他们的服务（费用，礼物等）支付影响者。因此，品牌提醒他或她的合作伙伴关系的具体目标是公平的。",
+            "clue": "影响者可以自由地做他们喜欢的事，但他们总是可以在某个方向上操纵......",
+            "choice_VJLnIrGPH": "是的，你当然可以在你的简报中加入这个",
+            "choice_NkDnLSGPB": "不，这将是不受欢迎的：影响者单独决定他们的营销策略",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

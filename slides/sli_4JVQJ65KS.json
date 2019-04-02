@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:49:26.219Z",
+            "updatedAt": "2018-10-17T12:23:14.297Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JVQJ65KS",
+        "universalRef": "sli_4JVQJ65KS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel17171",
+                        "items": [
+                            {
+                                "text": "choice_V1x9Iy6qKB",
+                                "value": "choice_V1x9Iy6qKB"
+                            },
+                            {
+                                "text": "choice_NJZc8ypqFr",
+                                "value": "choice_NJZc8ypqFr"
+                            },
+                            {
+                                "text": "choice_4kHDkTcFS",
+                                "value": "choice_4kHDkTcFS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel17171",
+                        "answers": [
+                            "choice_V1x9Iy6qKB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle compétence requiert la mise en place du growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le growth hacking est un marketing agile car il est basé sur l’expérimentation. On tente un \"hack\", on évalue son impact sur le business et en fonction des résultats, on l’adopte ou on le rejette. Puis on en tente un autre et ainsi de suite…",
+            "tips": "Recruter des \"digital natives\" (ayant grandi avec les nouvelles technologies de l'information et de la communication\") devient essentiel à l'heure où les nouvelles stratégies de croissance requièrent de connaître en profondeur les rouages d'Internet et de maîtriser son utilisation.",
+            "clue": "C’est un marketing du processus. L'adaptabilité est donc de mise...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le growth hacking demande {{sel17171}}.",
+            "choice_V1x9Iy6qKB": "de l'agilité",
+            "choice_NJZc8ypqFr": "un gros budget",
+            "choice_4kHDkTcFS": "du temps"
+        },
+        "en": {
+            "header": "Quelle compétence requiert la mise en place du growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le growth hacking est un marketing agile car il est basé sur l’expérimentation. On tente un hack, on évalue son impact sur le business et en fonction des résultats, on l’adopte ou on le rejette. Puis on en tente un autre et ainsi de suite…",
+            "tips": "Recruter des digital natives (ayant grandi avec les nouvelles technologies de linformation et de la communication) devient essentiel à lheure où les nouvelles stratégies de croissance requièrent de connaître en profondeur les rouages dInternet et de maîtriser son utilisation.",
+            "clue": "C’est un marketing du processus. Ladaptabilité est donc de mise...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le growth hacking demande {{sel17171}}.",
+            "choice_V1x9Iy6qKB": "de lagilité",
+            "choice_NJZc8ypqFr": "un gros budget",
+            "choice_4kHDkTcFS": "du temps"
+        }
+    }
+}

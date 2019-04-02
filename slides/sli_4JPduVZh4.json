@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T07:48:39.975Z",
+            "updatedAt": "2018-06-21T07:56:07.484Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JPduVZh4",
+        "universalRef": "sli_4JPduVZh4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4JPduVZh4.choice_Ekfj-V~2V.id",
+                        "label": "choice_Ekfj-V~2V",
+                        "value": "choice_Ekfj-V~2V"
+                    },
+                    {
+                        "id": "sli_4JPduVZh4.choice_VJIn-E~nN.id",
+                        "label": "choice_VJIn-E~nN",
+                        "value": "choice_VJIn-E~nN"
+                    },
+                    {
+                        "id": "sli_4JPduVZh4.choice_V1zT-NW3E.id",
+                        "label": "choice_V1zT-NW3E",
+                        "value": "choice_V1zT-NW3E"
+                    },
+                    {
+                        "id": "sli_4JPduVZh4.choice_41v6u4~34.id",
+                        "label": "choice_41v6u4~34",
+                        "value": "choice_41v6u4~34"
+                    },
+                    {
+                        "id": "sli_4JPduVZh4.choice_Ey4ROEZnN.id",
+                        "label": "choice_Ey4ROEZnN",
+                        "value": "choice_Ey4ROEZnN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ekfj-V~2V",
+                        "choice_VJIn-E~nN",
+                        "choice_41v6u4~34"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Des études ont démontré les bénéfices de la pratique de la pleine conscience. De quels mécanismes psychologiques bloquants pouvons-nous nous libérer grâce à la présence attentive à nous-mêmes ? ",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Notre cerveau subit des modifications positives grâce à l’entraînement à la présence attentive. Il permet ainsi à notre mental de vivre pleinement l’instant présent.",
+            "tips": "La visualisation, une pratique naturelle redécouverte au xx<sup>e</sup> siècle pour être utilisée à des fins thérapeutiques, permet de comprendre les effets inconscients des images qui nous viennent à l'esprit et des souvenirs qui remontent à la surface de notre mémoire, à condition qu'elle soit pratiquée de manière intentionnelle.",
+            "clue": "Le doute est sain !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekfj-V~2V": "Un mécanisme d'ancrage dans le passé",
+            "choice_VJIn-E~nN": "Un mécanisme d'ancrage dans le futur",
+            "choice_V1zT-NW3E": "Un mécanisme de doute",
+            "choice_41v6u4~34": "Un mécanisme d'attachement à nos jugements",
+            "choice_Ey4ROEZnN": "Un mécanisme de sociabilité"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "Studies show that there are many benefits to practising mindfulness. Which psychological mechanisms (ways of thinking) should you abandon if you’re trying to be more mindful? ",
+            "klf": "Mindfulness training makes positive changes to your brain, allowing your mind to focus on the present moment in time.",
+            "tips": "Visualisation is a well-established practice that was revived in the 20<sup>th</sup> century for therapeutic reasons. As long as visualisation is practised in a purposeful way, it can help us understand the unconscious effects of any images or memories that come to mind.",
+            "clue": "Doubt is healthy!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekfj-V~2V": "A way of thinking that anchors you in the past",
+            "choice_VJIn-E~nN": "A way of thinking that anchors you in the future",
+            "choice_V1zT-NW3E": "A way of thinking focused on doubt",
+            "choice_41v6u4~34": "An attachment mechanism that means we struggle to let go of preconceived ideas and beliefs",
+            "choice_Ey4ROEZnN": "A way of thinking that focuses on sociability"
+        }
+    }
+}

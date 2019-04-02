@@ -1,0 +1,119 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:34:09.535Z",
+            "updatedAt": "2016-09-06T09:23:25.713Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kxAiTy3l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kxAiTy3l.choice_E1O52T1hx.id",
+                        "label": "choice_E1O52T1hx",
+                        "value": "choice_E1O52T1hx"
+                    },
+                    {
+                        "id": "sli_4kxAiTy3l.choice_NkF536J2x.id",
+                        "label": "choice_NkF536J2x",
+                        "value": "choice_NkF536J2x"
+                    },
+                    {
+                        "id": "sli_4kxAiTy3l.choice_VJlK53Tyhg.id",
+                        "label": "choice_VJlK53Tyhg",
+                        "value": "choice_VJlK53Tyhg"
+                    },
+                    {
+                        "id": "sli_4kxAiTy3l.choice_Ny5c3akhl.id",
+                        "label": "choice_Ny5c3akhl",
+                        "value": "choice_Ny5c3akhl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkF536J2x",
+                        "choice_Ny5c3akhl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4kxAiTy3l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Le gouvernement français a lancé des initiatives pour favoriser l'entreprenariat des femmes. Lesquelles ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "De nombreux pays ont mis en place des dispositifs pour favoriser l'entreprenariat féminin. Parmi eux, la France a lancé plusieurs chantiers en 2013. Il s'agit d'ateliers de sensibilisation en milieu scolaire mais aussi de fonds d'aide pour financer l'activité et la garde d'enfants.",
+            "tips": "Depuis 2013, une \"semaine de sensibilisation des jeunes à l'entreprenariat féminin\" est organisée en mars. En 2015, 410 femmes se sont mobilisées auprès de 10 200 jeunes.",
+            "clue": "Finances et éducation.",
+            "choice_E1O52T1hx": "Le développement de crèches pour \"mamans entrepreneures\"",
+            "choice_NkF536J2x": "La sensibilisation en milieu scolaire",
+            "choice_VJlK53Tyhg": "La sélection de futures entrepreneuses en master 1 et 2",
+            "choice_Ny5c3akhl": "La mise en place de fonds d'aide"
+        },
+        "en": {
+            "header": "The French government has launched initiatives to promote women's entrepreneurship. Which ones?",
+            "explanation": "Select the correct answers.",
+            "klf": "Many countries have put in place schemes to promote women's entrepreneurship. Among them, France launched several projects in 2013. These are awareness workshops in schools but also funds to help finance the activity and child care.",
+            "tips": "Since 2013, a \"Youth Awareness Week for Women Entrepreneurs\" has been organized in March. In 2015, 410 women mobilized for 10,200 young people.",
+            "clue": "Finance and education.",
+            "choice_E1O52T1hx": "The development of nurseries for \"entrepreneur moms\"",
+            "choice_NkF536J2x": "Awareness in schools",
+            "choice_VJlK53Tyhg": "The selection of future entrepreneurs in master 1 and 2",
+            "choice_Ny5c3akhl": "The establishment of aid funds"
+        },
+        "de": {
+            "header": "Die französische Regierung hat Initiativen zur Förderung des Unternehmertums von Frauen gestartet. Was sind Sie?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Viele Länder haben Mechanismen zur Förderung des Unternehmertums von Frauen eingerichtet. Frankreich hat 2013 mehrere Projekte ins Leben gerufen. Es umfasst Sensibilisierungsworkshops in Schulen, aber auch Mittel zur Finanzierung der Aktivität und der Kinderbetreuung.",
+            "tips": "Seit 2013 wird jeden März eine \"Woche der Aufklärung über Frauen\" veranstaltet. Im Jahr 2015 unterstützten 410 Frauen bis zu 10.200 junge Menschen.",
+            "clue": "Finanzierung und Bildung.",
+            "choice_E1O52T1hx": "Die Entwicklung von Kindertagesstätten für \"Mutterunternehmer\"",
+            "choice_NkF536J2x": "Bewusstsein in Schulen",
+            "choice_VJlK53Tyhg": "Die Auswahl der zukünftigen Unternehmer im ersten und zweiten Jahr eines Master-Studiums",
+            "choice_Ny5c3akhl": "Die Umsetzung der Mittel"
+        },
+        "es": {
+            "header": "The French government has launched initiatives to promote women's entrepreneurship. What are they?",
+            "explanation": "Select the correct answers.",
+            "klf": "Many countries have established mechanisms to promote women's entrepreneurship. Among them, France launched several projects in 2013. It consists of awareness workshops in schools but also of funds to finance the activity and childcare.",
+            "tips": "Since 2013, a \"Youth Awareness Week on Women's Entrepreneurship\" has been organised every March. In 2015, 410 women supported up to 10,200 young people.",
+            "choice_E1O52T1hx": "The development of nurseries for \"mum entrepreneurs\"",
+            "choice_NkF536J2x": "Awareness in schools",
+            "choice_VJlK53Tyhg": "The selection of future entrepreneurs in the first and second years of a master's degree",
+            "choice_Ny5c3akhl": "The implementation of funds",
+            "clue": "Financing and education."
+        },
+        "zh": {
+            "header": "法国政府已经启动了促进女性创业的举措。这些是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "许多国家建立了促进妇女创业的机制。其中，法国于2013年启动了几个项目。它包括在学校举办的提高认识讲习班，以及为活动和儿童保育提供资金的基金。",
+            "tips": "自2013年以来，每年三月组织一次“妇女创业青年宣传周”活动。 2015年，410名妇女支持了10,200名年轻人。",
+            "clue": "融资和教育。",
+            "choice_E1O52T1hx": "“妈妈企业家”托儿所的发展",
+            "choice_NkF536J2x": "学校的意识",
+            "choice_VJlK53Tyhg": "在硕士学位的第一年和第二年选择未来的企业家",
+            "choice_Ny5c3akhl": "资金的实施"
+        }
+    }
+}

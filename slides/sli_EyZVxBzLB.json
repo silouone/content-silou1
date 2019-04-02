@@ -1,0 +1,125 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-19T11:19:36.242Z",
+            "updatedAt": "2018-10-12T15:10:30.662Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyVAT~t4r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyZVxBzLB",
+        "universalRef": "sli_EyZVxBzLB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyZVxBzLB.choice_4koIxHMIB.id",
+                        "label": "choice_4koIxHMIB",
+                        "value": "choice_4koIxHMIB"
+                    },
+                    {
+                        "id": "sli_EyZVxBzLB.choice_NyE-gHzUS.id",
+                        "label": "choice_NyE-gHzUS",
+                        "value": "choice_NyE-gHzUS"
+                    },
+                    {
+                        "id": "sli_EyZVxBzLB.choice_41XtgSzLB.id",
+                        "label": "choice_41XtgSzLB",
+                        "value": "choice_41XtgSzLB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4koIxHMIB",
+                        "choice_NyE-gHzUS",
+                        "choice_41XtgSzLB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous décidez de vous lancer dans le storytelling pour renforcer votre image de marque. Pour quel(s) type(s) d'histoire pouvez-vous opter ?",
+            "explanation": "Sélectionnez la ou les bonnes réponses.",
+            "klf": "Le conteur est libre dans son art : il peut inventer de toutes pièces son histoire, relater une anecdote 100 % véridique ou trouver un équilibre entre ces deux voies. Tout est possible, du moment que le message est clair et qu'il transmet des émotions.",
+            "tips": "Selon Nancy Duarte, spécialiste américaine des présentations orales (elle a notamment apporté son expertise aux conférences TED et à la campagne présidentielle d'Al Gore), le célèbre discours de Martin Luther King de 1963 est un modèle de storytelling.",
+            "clue": "L'auteur est libre !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4koIxHMIB": "Un récit tiré d'un fait réel : les consommateurs plébiscitent les histoires vraies",
+            "choice_NyE-gHzUS": "Une histoire inventée de toutes pièces : les consommateurs préfèrent la fiction au réel",
+            "choice_41XtgSzLB": "Une histoire mêlant fiction et anecdotes réelles : les consommateurs sont satisfaits sur les deux tableaux"
+        },
+        "en": {
+            "header": "You decide to go into storytelling to strengthen your brand. For which type (s) of history can you choose?",
+            "explanation": "Select the correct answer (s).",
+            "klf": "The storyteller is free in his art: he can invent his story from scratch, tell a 100% truthful anecdote or find a balance between these two paths. Everything is possible, as long as the message is clear and transmits emotions.",
+            "tips": "According to Nancy Duarte, American specialist in oral presentations (she has contributed expertise to TED conferences and Al Gore's presidential campaign), the famous Martin Luther King speech of 1963 is a storytelling model.",
+            "clue": "The author is free!",
+            "choice_4koIxHMIB": "A story taken from a real fact: consumers plebiscite true stories",
+            "choice_NyE-gHzUS": "A story invented from scratch: consumers prefer fiction to reality",
+            "choice_41XtgSzLB": "A story mixing fiction and real anecdotes: consumers are satisfied on both sides",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie beschließen, die Welt des Geschichtenerzählens zu erkunden, um Ihr Markenimage zu verbessern. Welche Art von Geschichte sollten Sie wählen?",
+            "explanation": "Wählen Sie die richtige Antwort (en) aus.",
+            "klf": "Dem Geschichtenerzähler steht es frei, zu tun, was er will: er kann seine gesamte Geschichte erfinden, eine Anekdote erzählen, die zu 100% wahr ist, oder ein Gleichgewicht zwischen den beiden finden. Alles ist möglich, solange die Botschaft klar ist und Emotionen vermittelt.",
+            "tips": "Laut Nancy Duarte, einer US-amerikanischen Spezialistin für mündliche Präsentationen (unter anderem TED-Gespräche und Al Gores Präsidentschaftskampagne), ist die berühmte Rede von Martin Luther King von 1963 ein perfektes Beispiel für erfolgreiches Geschichtenerzählen.",
+            "clue": "Der Autor kann machen, was er will!",
+            "choice_4koIxHMIB": "Eine Geschichte, die sich auf Fakten stützt: Verbraucher lieben wahre Geschichten",
+            "choice_NyE-gHzUS": "Eine völlig erfundene Geschichte: Die Verbraucher bevorzugen die Fiktion dem wirklichen Leben",
+            "choice_41XtgSzLB": "Eine Geschichte, die Fiktion mit echten Anekdoten verbindet: Die Verbraucher sind in beiden Punkten zufrieden",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer(s).",
+            "header": "You decide to explore the world of storytelling in order to enhance your brand image. Which type(s) of story should you go for?",
+            "klf": "The storyteller is free to do as they please: they can make up their entire story, tell an anecdote that is 100% true, or strike a balance between the two. Anything goes, as long as the message is clear and conveys emotion.",
+            "tips": "According to Nancy Duarte, an American specialist in delivering oral presentations (she lent her expertise to, among others, TED talks and Al Gore’s presidential campaign), the famous 1963 speech by Martin Luther King is a perfect example of successful storytelling.",
+            "clue": "The author can do as they please!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4koIxHMIB": "A story that draws on facts: consumers love true stories",
+            "choice_NyE-gHzUS": "A completely fabricated story: consumers prefer fiction to real life",
+            "choice_41XtgSzLB": "A story that combines fiction with genuine anecdotes: consumers are satisfied on both counts"
+        },
+        "zh": {
+            "header": "您决定探索讲故事的世界，以提升您的品牌形象。你应该选择哪种类型的故事？",
+            "explanation": "选择正确的答案。",
+            "klf": "故事讲述者可以随心所欲地做到：他们可以编写他们的整个故事，讲述100％真实的轶事，或在两者之间取得平衡。任何事情都会发生，只要信息清晰并传达情感。",
+            "tips": "根据Nancy Duarte，一位提供口头报告的美国专家（她将自己的专业知识借给TED演讲和Al Gore的总统竞选活动），马丁路德金的1963年着名演讲是成功讲故事的完美典范。",
+            "clue": "作者可以随心所欲！",
+            "choice_4koIxHMIB": "一个吸取事实的故事：消费者喜欢真实的故事",
+            "choice_NyE-gHzUS": "一个完全捏造的故事：消费者喜欢小说和现实生活",
+            "choice_41XtgSzLB": "一个将小说与真实轶事相结合的故事：消费者对这两方面都感到满意",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

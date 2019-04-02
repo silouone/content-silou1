@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:13:27.499Z",
+            "updatedAt": "2018-10-08T14:05:51.272Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyqL3aU7H",
+        "universalRef": "sli_NyqL3aU7H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyqL3aU7H.choice_4Jju3aIXr.id",
+                        "label": "choice_4Jju3aIXr",
+                        "value": "choice_4Jju3aIXr"
+                    },
+                    {
+                        "id": "sli_NyqL3aU7H.choice_VyhO26UmB.id",
+                        "label": "choice_VyhO26UmB",
+                        "value": "choice_VyhO26UmB"
+                    },
+                    {
+                        "id": "sli_NyqL3aU7H.choice_E1bY2TU7H.id",
+                        "label": "choice_E1bY2TU7H",
+                        "value": "choice_E1bY2TU7H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jju3aIXr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la méthode Getting Things Done préconise-t-elle de s’organiser ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La méthode GTD préconise de s’organiser par contexte. Le contexte se comprend comme une combinaison de lieux, objets ou personnes nécessaires pour réaliser une tâche en question. Un même contexte peut avoir plusieurs tâches, mais une tâche doit toujours être associée à un seul contexte. L’organisation par contexte permet de concentrer ses efforts de la façon la plus efficace.",
+            "tips": "La méthode GTD est souvent vue comme une application des principes du taylorisme, préconisant l'organisation scientifique du travail selon une analyse des modes et techniques de production.",
+            "clue": "À chaque tâche sa combinaison.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jju3aIXr": "Par contexte de réalisation des tâches",
+            "choice_VyhO26UmB": "Par jour de la semaine : à chaque jour un même type de tâches",
+            "choice_E1bY2TU7H": "Par temps disponible"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "According to the Getting Things Done method, how should you organise yourself at work?",
+            "klf": "The GTD method suggests organising your work according to context. “Context” is a combination of place, tool and individual, so the person required to carry out a particular task. Several tasks can be linked to one particular context, but each task can only be associated with one single context. Organising by context allows you to focus your efforts in the most efficient and effective way possible.",
+            "tips": "The GTD method is often seen as a way of applying the principles of Taylorism, which promotes the Scientific Management of work according to an analysis of workflow and productivity.",
+            "clue": "Circumstance is key to each task.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jju3aIXr": "According to the context in which tasks need to be carried out",
+            "choice_VyhO26UmB": "According to the day of the week: each day should be focused on a particular type of task",
+            "choice_E1bY2TU7H": "According to the time you have available"
+        }
+    }
+}

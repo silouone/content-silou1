@@ -1,0 +1,122 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T08:50:24.184Z",
+            "updatedAt": "2018-08-22T15:40:46.138Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyVAT~t4r"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EkAHCP78S",
+        "universalRef": "sli_EkAHCP78S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EkAHCP78S.field_VJKekOQLr.id",
+                        "type": "text",
+                        "name": "inp51602"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp51602",
+                        "answers": [
+                            "choice_VyGtxyOXIr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "A VOIR Comment définir le succès de Coca-Cola sur le terrain du storytelling ?",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "Coca-Cola ne vend pas seulement un soda : son logo, son image, son produit renvoient instantanément à  un style de vie, une idée de détente, des sensations concrètes... Elle s'est construit un véritable mythe.",
+            "tips": "La boisson vendue par Coca-Cola serait en réalité inspirée du vin Mariani, un mélange français associant un vin de Bordeaux et des feuilles de coca, sur une idée du chimiste Angelo Mariani, d'origine corse. (http://www.anecdote-du-jour.com/une-boisson-francaise-a-l-origine-du-coca-cola/ )",
+            "clue": "Sisyphe.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Coca-Cola n'est pas une simple marque de soda. La marque s'est définie comme une philosophie du bonheur accessible et s'est érigée en {{inp51602}}.",
+            "choice_Ekl390wmUr": "",
+            "choice_Ek~ncAvm8S": "",
+            "choice_VyGtxyOXIr": "mythe"
+        },
+        "en": {
+            "header": "SEE How to define Coca-Cola's success in the field of storytelling?",
+            "explanation": "Enter your answer or select the correct answer in the drop-down menu (s).",
+            "klf": "Coca-Cola does not just sell a soda: its logo, its image, its product instantly return to a lifestyle, an idea of ​​relaxation, concrete sensations ... It has built a true myth.",
+            "tips": "The cigar-making cake for Coca-Cola was inspired by the Mariani wine, a French blend associated with a wine from Bordeaux and from cocaine spreads, on the basis of an idée du chimiste Angelo Mariani, of Corsican origin. (http://www.anecdote-du-jour.com/une-boisson-francaise-a-l-origine-du-coca-cola/)",
+            "clue": "Sisyphus.",
+            "template": "Coca-Cola is not a simple brand of soda. The brand is defined as a philosophy of accessible happiness and has become {{inp51602}}.",
+            "choice_VyGtxyOXIr": "myth",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekl390wmUr": "",
+            "choice_Ek~ncAvm8S": ""
+        },
+        "de": {
+            "header": "SEE Wie definiert man den Erfolg von Coca-Cola im Bereich Storytelling?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Coca-Cola verkauft nicht nur ein Soda: Sein Logo, sein Image, sein Produkt kehrt sofort zu einem Lebensstil zurück, zu einer Idee der Entspannung, zu konkreten Empfindungen ... Es hat einen wahren Mythos aufgebaut.",
+            "tips": "Die Zigarrenherstellungstorte für Coca-Cola wurde vom Mariani-Wein inspiriert, einer französischen Mischung, die mit einem Bordeauxwein und Kokainaufstrichen verbunden ist, auf der Grundlage eines Idée du Chimiste Angelo Mariani korsischen Ursprungs. (http://www.anecdote-du-jour.com/une-boisson-francaise-a-l-origine-du-coca-cola/)",
+            "clue": "Sisyphus.",
+            "template": "Coca-Cola ist keine einfache Sodemarke. Die Marke ist als eine Philosophie des zugänglichen Glücks definiert und wurde {{inp51602}}.",
+            "choice_VyGtxyOXIr": "Mythos",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekl390wmUr": "",
+            "choice_Ek~ncAvm8S": ""
+        },
+        "es": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "A VOIR Comment définir le succès de Coca-Cola sur le terrain du storytelling ?",
+            "klf": "Coca-Cola ne vend pas seulement un soda : son logo, son image, son produit renvoient instantanément à  un style de vie, une idée de détente, des sensations concrètes... Elle s'est construit un véritable mythe.",
+            "tips": "La boisson vendue par Coca-Cola serait en réalité inspirée du vin Mariani, un mélange français associant un vin de Bordeaux et des feuilles de coca, sur une idée du chimiste Angelo Mariani, d'origine corse. (http://www.anecdote-du-jour.com/une-boisson-francaise-a-l-origine-du-coca-cola/ )",
+            "clue": "Sisyphe.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Coca-Cola n'est pas une simple marque de soda. La marque s'est définie comme une philosophie du bonheur accessible et s'est érigée en {{inp51602}}.",
+            "choice_Ekl390wmUr": "",
+            "choice_Ek~ncAvm8S": "",
+            "choice_VyGtxyOXIr": "mythe"
+        },
+        "zh": {
+            "header": "看看如何定义可口可乐在讲故事领域的成功？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "可口可乐公司不仅仅销售苏打水：它的标志，形象，产品立即回归生活方式，放松的想法，具体的感觉......它构建了一个真正的神话。",
+            "tips": "可口可乐的雪茄制作蛋糕的灵感来自Mariani葡萄酒，这是一种法国混合酒，与波尔多葡萄酒和可卡因涂抹物相结合，基于科西嘉岛的一位名为Angelo Mariani的idéeduchimiste。 （Http://www.anecdote-du-jour.com/une-boisson-francaise-a-l-origine-du-coca-cola/）",
+            "clue": "西西弗斯。",
+            "template": "可口可乐不是一个简单的苏打水品牌。该品牌被定义为一种可获得快乐的哲学，并已成为{{inp51602}}。",
+            "choice_VyGtxyOXIr": "神话",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekl390wmUr": "",
+            "choice_Ek~ncAvm8S": ""
+        }
+    }
+}

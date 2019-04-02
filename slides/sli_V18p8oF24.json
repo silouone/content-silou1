@@ -1,0 +1,187 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T17:17:42.874Z",
+            "updatedAt": "2018-07-26T14:59:32.108Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_V18p8oF24",
+        "universalRef": "sli_V18p8oF24",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V18p8oF24.choice_Nkq0IjKn4.id",
+                        "label": "choice_Nkq0IjKn4",
+                        "value": "choice_Nkq0IjKn4"
+                    },
+                    {
+                        "id": "sli_V18p8oF24.choice_Ey2CLjF3N.id",
+                        "label": "choice_Ey2CLjF3N",
+                        "value": "choice_Ey2CLjF3N"
+                    },
+                    {
+                        "id": "sli_V18p8oF24.choice_4kg20LjY34.id",
+                        "label": "choice_4kg20LjY34",
+                        "value": "choice_4kg20LjY34"
+                    },
+                    {
+                        "id": "sli_V18p8oF24.choice_Nyp0IjF3E.id",
+                        "label": "choice_Nyp0IjF3E",
+                        "value": "choice_Nyp0IjF3E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nkq0IjKn4",
+                        "choice_Ey2CLjF3N",
+                        "choice_Nyp0IjF3E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the purpose of a monitoring device?",
+            "explanation": "Select the correct answer.",
+            "klf": "A manager must stay informed of changes in customer expectations, new competing offers and technological changes. This is why they should use a monitoring device.",
+            "tips": "When companies use open source intelligence methods to collect data and turn it into a strategic advantage, this is referred to as economic intelligence.",
+            "clue": "Three good reasons...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkq0IjKn4": "Stay informed of changes in customer expectations",
+            "choice_Ey2CLjF3N": "Track competitive offers",
+            "choice_4kg20LjY34": "Maximise employee presence through an hourly rotation system",
+            "choice_Nyp0IjF3E": "Identify technological changes"
+        },
+        "fr": {
+            "header": "Quel est le but de surveiller l'équipement?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Les gestionnaires doivent se tenir au courant des attentes des clients, des changements apportés aux nouveaux produits concurrentiels et des changements technologiques. C'est pourquoi ils devraient utiliser un équipement de surveillance.",
+            "tips": "Lorsque les entreprises utilisent des méthodes intelligentes open source pour collecter des données et en faire un avantage stratégique, on parle alors d'intelligence économique.",
+            "clue": "Trois bonnes raisons",
+            "choice_Nkq0IjKn4": "Se tenir au courant de l'évolution des attentes des clients",
+            "choice_Ey2CLjF3N": "Suivi des offres concurrentielles",
+            "choice_4kg20LjY34": "Maximiser la présence des employés grâce aux systèmes de rotation horaire",
+            "choice_Nyp0IjF3E": "Identifier le changement technologique",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuál es el propósito de un dispositivo de monitoreo?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "Un gerente debe mantenerse informado de los cambios en las expectativas del cliente, nuevas ofertas competidoras y cambios tecnológicos. Es por eso que deberían usar un dispositivo de monitoreo.",
+            "tips": "Cuando las empresas usan métodos de inteligencia de código abierto para recopilar datos y convertirlos en una ventaja estratégica, esto se conoce como inteligencia económica.",
+            "clue": "Tres buenas razones ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkq0IjKn4": "Manténgase informado de los cambios en las expectativas del cliente",
+            "choice_Ey2CLjF3N": "Seguimiento de ofertas competitivas",
+            "choice_4kg20LjY34": "Maximice la presencia de los empleados a través de un sistema de rotación por hora",
+            "choice_Nyp0IjF3E": "Identificar los cambios tecnológicos"
+        },
+        "it": {
+            "header": "Qual è lo scopo di un dispositivo di monitoraggio?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Un manager deve rimanere informato sui cambiamenti delle aspettative dei clienti, nuove offerte concorrenti e cambiamenti tecnologici. Questo è il motivo per cui dovrebbero usare un dispositivo di monitoraggio.",
+            "tips": "Quando le aziende utilizzano metodi di intelligence open source per raccogliere dati e trasformarli in un vantaggio strategico, questa viene definita intelligenza economica.",
+            "clue": "Tre buone ragioni ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkq0IjKn4": "Tieniti informato sui cambiamenti delle aspettative dei clienti",
+            "choice_Ey2CLjF3N": "Tieni traccia delle offerte competitive",
+            "choice_4kg20LjY34": "Massimizza la presenza dei dipendenti attraverso un sistema di rotazione oraria",
+            "choice_Nyp0IjF3E": "Identifica i cambiamenti tecnologici"
+        },
+        "de": {
+            "header": "What is the purpose of a monitoring device?",
+            "explanation": "Select the correct answer.",
+            "klf": "A manager must stay informed of changes in customer expectations, new competing offers and technological changes. This is why they should use a monitoring device.",
+            "tips": "When companies use open source intelligence methods to collect data and turn it into a strategic advantage, this is referred to as economic intelligence.",
+            "clue": "Three good reasons...",
+            "choice_Nkq0IjKn4": "Stay informed of changes in customer expectations",
+            "choice_Ey2CLjF3N": "Track competitive offers",
+            "choice_4kg20LjY34": "Maximise employee presence through an hourly rotation system",
+            "choice_Nyp0IjF3E": "Identify technological changes",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "모니터링 장치의 목적은 무엇입니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "관리자는 고객 기대 변화, 새로운 경쟁 제안 및 기술적 변화에 대한 정보를 지속적으로 제공해야합니다. 그래서 모니터링 장비를 사용해야합니다.",
+            "tips": "기업이 오픈 소스 인텔리전스 방법을 사용하여 데이터를 수집하고 전략적 이점으로 활용할 때이를 경제적 인텔리전스라고합니다.",
+            "clue": "세 가지 좋은 이유 ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkq0IjKn4": "고객 기대의 변화에 ​​대한 정보 제공",
+            "choice_Ey2CLjF3N": "경쟁력있는 제안 추적",
+            "choice_4kg20LjY34": "시간별 로테이션 시스템을 통해 직원의 존재감 극대화",
+            "choice_Nyp0IjF3E": "기술적 변화 확인"
+        },
+        "ru": {
+            "header": "Какова цель устройства мониторинга?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Менеджер должен быть в курсе изменений в ожиданиях клиентов, новых конкурирующих предложений и технологических изменений. Вот почему они должны использовать контрольное устройство.",
+            "tips": "Когда компании используют методы разведки с открытым исходным кодом для сбора данных и превращения их в стратегическое преимущество, это называется экономической разведкой.",
+            "clue": "Три веские причины ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkq0IjKn4": "Следите за изменениями в ожиданиях клиентов",
+            "choice_Ey2CLjF3N": "Отслеживание конкурентных предложений",
+            "choice_4kg20LjY34": "Максимальное присутствие сотрудников через систему часового вращения",
+            "choice_Nyp0IjF3E": "Определить технологические изменения"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Qual é o propósito de um dispositivo de monitoramento?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "Um gerente deve manter-se informado das mudanças nas expectativas do cliente, novas ofertas concorrentes e mudanças tecnológicas. É por isso que eles devem usar um dispositivo de monitoramento.",
+            "tips": "Quando as empresas usam métodos de inteligência de código aberto para coletar dados e transformá-los em uma vantagem estratégica, isso é chamado de inteligência econômica.",
+            "clue": "Três boas razões",
+            "choice_Nkq0IjKn4": "Mantenha-se informado das mudanças nas expectativas do cliente",
+            "choice_Ey2CLjF3N": "Acompanhe ofertas competitivas",
+            "choice_4kg20LjY34": "Maximize a presença dos funcionários através de um sistema de rotação de hora em hora",
+            "choice_Nyp0IjF3E": "Identificar mudanças tecnológicas"
+        },
+        "zh": {
+            "header": "监控设备的目的是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "经理必须随时了解客户期望，新竞争产品和技术变更的变化。这就是他们应该使用监控设备的原因。",
+            "tips": "当公司使用开源智能方法收集数据并将其转化为战略优势时，这被称为经济智能。",
+            "clue": "三个很好的理由......",
+            "choice_Nkq0IjKn4": "随时了解客户期望的变化",
+            "choice_Ey2CLjF3N": "跟踪竞争优惠",
+            "choice_4kg20LjY34": "通过每小时轮换系统最大化员工的存在",
+            "choice_Nyp0IjF3E": "确定技术变革"
+        }
+    }
+}

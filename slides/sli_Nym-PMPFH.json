@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T13:12:45.512Z",
+            "updatedAt": "2018-10-24T09:48:15.386Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nym-PMPFH",
+        "universalRef": "sli_Nym-PMPFH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel12622",
+                        "items": [
+                            {
+                                "text": "choice_4JgGmHVstS",
+                                "value": "choice_4JgGmHVstS"
+                            },
+                            {
+                                "text": "choice_VJWfQS4jYB",
+                                "value": "choice_VJWfQS4jYB"
+                            },
+                            {
+                                "text": "choice_E17EBVsKH",
+                                "value": "choice_E17EBVsKH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel12622",
+                        "answers": [
+                            "choice_E17EBVsKH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Sur quoi devons-nous baser nos actions marketing ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les nouvelles pratiques marketing se fondent principalement sur la data. Connaitre les comportements de nos cibles lors de leurs interactions avec nous sur les canaux digitaux nous montre avec précision ce qui fonctionne de ce qui ne fonctionne pas.",
+            "tips": "L’A/B testing, le heatmap, le scrolling map, l’analyse des interactions sont toutes des activités qui s’appuient sur la data et qui permettent d’optimiser l’efficacité de ses activités marketing, c’est-à-dire de ce qu’on propose à ses cibles sur le Web.",
+            "clue": "L'analyse comportementale ne trompe pas.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Nous devons baser nos actions marketing sur {{sel12622}}.",
+            "choice_NkgrTPfDYH": "nos intuitions",
+            "choice_EyG0DfwKS": "",
+            "choice_EJDCDGwKr": "notre expérience",
+            "choice_V1~kdfvtH": "la data",
+            "choice_4JgGmHVstS": "nos intuitions",
+            "choice_VJWfQS4jYB": "notre expérience",
+            "choice_E17EBVsKH": "la data"
+        },
+        "en": {
+            "header": "Sur quoi devons-nous baser nos actions marketing ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les nouvelles pratiques marketing se fondent principalement sur la data. Connaitre les comportements de nos cibles lors de leurs interactions avec nous sur les canaux digitaux nous montre avec précision ce qui fonctionne de ce qui ne fonctionne pas.",
+            "tips": "L’A/B testing, le heatmap, le scrolling map, l’analyse des interactions sont toutes des activités qui s’appuient sur la data et qui permettent d’optimiser l’efficacité de ses activités marketing, c’est-à-dire de ce qu’on propose à ses cibles sur le Web.",
+            "clue": "Lanalyse comportementale ne trompe pas.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel12622}}",
+            "choice_NkgrTPfDYH": "",
+            "choice_EyG0DfwKS": "",
+            "choice_EJDCDGwKr": "",
+            "choice_V1~kdfvtH": "",
+            "choice_4JgGmHVstS": "",
+            "choice_VJWfQS4jYB": "",
+            "choice_E17EBVsKH": ""
+        }
+    }
+}

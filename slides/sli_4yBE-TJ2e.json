@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:17:41.602Z",
+            "updatedAt": "2017-12-11T10:48:08.291Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yBE-TJ2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel68170",
+                        "label": "label_41c1tpynl",
+                        "items": [
+                            {
+                                "text": "choice_V1x9kYpJ3g",
+                                "value": "choice_V1x9kYpJ3g"
+                            },
+                            {
+                                "text": "choice_EJ~q1F6khl",
+                                "value": "choice_EJ~q1F6khl"
+                            },
+                            {
+                                "text": "choice_VJoJtTk3g",
+                                "value": "choice_VJoJtTk3g"
+                            },
+                            {
+                                "text": "choice_Ny2JtTkhg",
+                                "value": "choice_Ny2JtTkhg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel68170",
+                        "answers": [
+                            "choice_VJoJtTk3g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4yBE-TJ2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Sur le nombre total d'entrepreneurs aux États-Unis en 2012, quelle était la proportion de femmes ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Aux États-Unis, en 2012, 48% des entrepreneurs étaient des femmes, alors qu'elles ne représentent que 30% des créateurs d'entreprises en France. L'exemple américain montre que, contrairement à certaines idées reçues, ce n'est pas une activité réservée aux hommes.",
+            "tips": "Pour réagir à ces chiffres, le gouvernement français a décidé d'agir et s'est fixé un objectif : 40% de femmes entrepreneures en 2017.",
+            "template": "{{sel68170}}",
+            "clue": "Bientôt la parité !",
+            "label_41c1tpynl": " ",
+            "choice_V1x9kYpJ3g": "22%",
+            "choice_EJ~q1F6khl": "34%",
+            "choice_VJoJtTk3g": "48%",
+            "choice_Ny2JtTkhg": "64%"
+        },
+        "en": {
+            "header": "Of the total number of entrepreneurs in the United States in 2012, what was the proportion of women?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In the United States, in 2012, 48% of entrepreneurs were women, while they represent only 30% of entrepreneurs in France. The American example shows that, contrary to popular belief, this is not an activity reserved for men.",
+            "tips": "To respond to these figures, the French government has decided to act and has set a goal: 40% of women entrepreneurs in 2017.",
+            "clue": "Soon the parity!",
+            "template": "{{sel68170}}",
+            "label_41c1tpynl": " ",
+            "choice_V1x9kYpJ3g": "22%",
+            "choice_EJ~q1F6khl": "34%",
+            "choice_VJoJtTk3g": "48%",
+            "choice_Ny2JtTkhg": "64%"
+        },
+        "de": {
+            "header": "Wie hoch war der Anteil weiblicher Unternehmer unter allen Unternehmern in den USA im Jahr 2012?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "In den Vereinigten Staaten wurden im Jahr 2012 48% der Unternehmen von Frauen geführt, während sie nur 30% der Unternehmer in Frankreich ausmachen. Das amerikanische Beispiel zeigt, dass es entgegen der landläufigen Meinung nicht nur für Männer gilt.",
+            "tips": "Als Antwort auf diese Zahlen entschied sich die französische Regierung zum Handeln und hat sich ein Ziel gesetzt: 40% der Unternehmerinnen bis 2017.",
+            "clue": "Gleichheit bald!",
+            "template": "{{sel68170}}",
+            "label_41c1tpynl": " ",
+            "choice_V1x9kYpJ3g": "22%",
+            "choice_EJ~q1F6khl": "34%",
+            "choice_VJoJtTk3g": "48%",
+            "choice_Ny2JtTkhg": "64%"
+        },
+        "es": {
+            "header": "Among all entrepreneurs in the United States in 2012, what was the proportion of women entrepreneurs?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In the United States, in 2012, 48% of businesses were run by women, whereas they represent only 30% of entrepreneurs in France.The American example shows that, contrary to popular belief, it's not a male-only activity.",
+            "tips": "In response to these figures, the French government decided to act and has set a goal: 40% of women entrepreneurs by 2017.",
+            "template": "{{sel68170}}",
+            "label_41c1tpynl": " ",
+            "choice_V1x9kYpJ3g": "22%",
+            "choice_EJ~q1F6khl": "34%",
+            "choice_VJoJtTk3g": "48%",
+            "choice_Ny2JtTkhg": "64%",
+            "clue": "Parity soon!"
+        },
+        "zh": {
+            "header": "在2012年美国所有企业家中，女企业家的比例是多少？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在美国，2012年，48％的企业由女性经营，而她们只占法国企业家的30％。美国的例子表明，与普遍看法相反，它不仅仅是男性活动。",
+            "tips": "针对这些数据，法国政府决定采取行动并设定目标：到2017年，40％的女企业家。",
+            "clue": "平价很快！",
+            "template": "{{sel68170}}",
+            "label_41c1tpynl": " ",
+            "choice_V1x9kYpJ3g": "22％",
+            "choice_EJ~q1F6khl": "34％",
+            "choice_VJoJtTk3g": "48％",
+            "choice_Ny2JtTkhg": "64％"
+        }
+    }
+}

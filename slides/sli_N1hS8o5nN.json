@@ -1,0 +1,188 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T11:27:30.656Z",
+            "updatedAt": "2018-08-10T09:09:31.443Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_N1hS8o5nN",
+        "universalRef": "sli_N1hS8o5nN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1hS8o5nN.choice_NJGDIichN.id",
+                        "label": "choice_NJGDIichN",
+                        "value": "choice_NJGDIichN"
+                    },
+                    {
+                        "id": "sli_N1hS8o5nN.choice_41XPUochV.id",
+                        "label": "choice_41XPUochV",
+                        "value": "choice_41XPUochV"
+                    },
+                    {
+                        "id": "sli_N1hS8o5nN.choice_Ey4P8jq2N.id",
+                        "label": "choice_Ey4P8jq2N",
+                        "value": "choice_Ey4P8jq2N"
+                    },
+                    {
+                        "id": "sli_N1hS8o5nN.choice_E1BvIjqnV.id",
+                        "label": "choice_E1BvIjqnV",
+                        "value": "choice_E1BvIjqnV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJGDIichN",
+                        "choice_41XPUochV",
+                        "choice_E1BvIjqnV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the potential types of meetings?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "There are three main categories of meetings: the free expression meeting, the informational meeting and the problem-solving meeting.",
+            "tips": "When sending invitations for the meeting by email, you can use the following format: meeting subject, place, date and time. Then list who is invited and what documents would be useful to prepare.",
+            "clue": "Three quarters.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJGDIichN": "The free expression meeting",
+            "choice_41XPUochV": "The informational meeting",
+            "choice_Ey4P8jq2N": "The coordination meeting",
+            "choice_E1BvIjqnV": "The problem-solving meeting"
+        },
+        "fr": {
+            "header": "Quel est le type de réunion potentiel?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "La conférence est divisée en trois catégories: les conférences de libre expression, les conférences d’information et les conférences de résolution de problèmes.",
+            "tips": "Lorsque vous envoyez une invitation à une réunion par courrier électronique, vous pouvez utiliser le format suivant: objet de la réunion, lieu, date et heure. Ensuite, listez les personnes invitées et quels documents préparer.",
+            "clue": "Trois quarts",
+            "choice_NJGDIichN": "Rencontre d'expression libre",
+            "choice_41XPUochV": "Réunion d'information",
+            "choice_Ey4P8jq2N": "Réunion de coordination",
+            "choice_E1BvIjqnV": "Réunion de résolution de problèmes",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuáles son los posibles tipos de reuniones?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Hay tres categorías principales de reuniones: la reunión de expresión libre, la reunión informativa y la reunión de resolución de problemas.",
+            "tips": "Al enviar invitaciones para la reunión por correo electrónico, puede usar el siguiente formato: tema de la reunión, lugar, fecha y hora. Luego, indique quién está invitado y qué documentos serían útiles para preparar.",
+            "clue": "Tres cuartos.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJGDIichN": "La reunión de expresión libre",
+            "choice_41XPUochV": "La reunión informativa",
+            "choice_Ey4P8jq2N": "La reunión de coordinación",
+            "choice_E1BvIjqnV": "La reunión de resolución de problemas"
+        },
+        "it": {
+            "header": "Quali sono i potenziali tipi di riunioni?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Ci sono tre principali categorie di incontri: la riunione di libera espressione, lincontro informativo e la riunione di risoluzione dei problemi.",
+            "tips": "Quando si inviano inviti per la riunione tramite e-mail, è possibile utilizzare il seguente formato: oggetto della riunione, luogo, data e ora. Quindi elencare chi è invitato e quali documenti sarebbero utili da preparare.",
+            "clue": "Tre quarti.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJGDIichN": "Lincontro di espressione libera",
+            "choice_41XPUochV": "Lincontro informativo",
+            "choice_Ey4P8jq2N": "La riunione di coordinamento",
+            "choice_E1BvIjqnV": "La riunione per la soluzione dei problemi"
+        },
+        "de": {
+            "header": "What are the potential types of meetings?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "There are three main categories of meetings: the free expression meeting, the informational meeting and the problem-solving meeting.",
+            "tips": "When sending invitations for the meeting by email, you can use the following format: meeting subject, place, date and time. Then list who is invited and what documents would be useful to prepare.",
+            "clue": "Three quarters.",
+            "choice_NJGDIichN": "The free expression meeting",
+            "choice_41XPUochV": "The informational meeting",
+            "choice_Ey4P8jq2N": "The coordination meeting",
+            "choice_E1BvIjqnV": "The problem-solving meeting",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "잠재적 인 회의 유형은 무엇입니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "자유 표현 회의, 정보 회의 및 문제 해결 회의의 세 가지 주요 범주가 있습니다.",
+            "tips": "회의 초대장을 이메일로 보낼 때 회의 제목, 장소, 날짜 및 시간 형식을 사용할 수 있습니다. 초대 된 사람과 준비 할 문서가 무엇인지 기재하십시오.",
+            "clue": "사분의 삼.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJGDIichN": "자유 표현 모임",
+            "choice_41XPUochV": "정보 회의",
+            "choice_Ey4P8jq2N": "조정 회의",
+            "choice_E1BvIjqnV": "문제 해결 회의"
+        },
+        "ru": {
+            "header": "Каковы потенциальные типы встреч?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Существуют три основные категории совещаний: собрание по свободному выражению, информационное совещание и совещание по решению проблем.",
+            "tips": "При отправке приглашений на собрание по электронной почте вы можете использовать следующий формат: встречаемый предмет, место, дата и время. Затем укажите список приглашенных и какие документы будут полезны для подготовки.",
+            "clue": "Три четверти.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJGDIichN": "Совещание по свободному выражению",
+            "choice_41XPUochV": "Информационное собрание",
+            "choice_Ey4P8jq2N": "Координационное совещание",
+            "choice_E1BvIjqnV": "Совещание по решению проблем"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quais são os possíveis tipos de reuniões?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Existem três categorias principais de reuniões: a reunião de livre expressão, a reunião informativa e a reunião de solução de problemas.",
+            "tips": "Ao enviar convites para a reunião por email, você pode usar o seguinte formato: assunto da reunião, local, data e hora. Em seguida, liste quem é convidado e quais documentos seriam úteis para preparar.",
+            "clue": "Três quartos.",
+            "choice_NJGDIichN": "A reunião de liberdade de expressão",
+            "choice_41XPUochV": "A reunião informativa",
+            "choice_Ey4P8jq2N": "A reunião de coordenação",
+            "choice_E1BvIjqnV": "A reunião de resolução de problemas"
+        },
+        "zh": {
+            "header": "什么是潜在的会议类型？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "会议分为三类：自由表达会议，信息会议和解决问题的会议。",
+            "tips": "通过电子邮件发送会议邀请时，您可以使用以下格式：会议主题，地点，日期和时间。然后列出被邀请的人以及准备哪些文件。",
+            "clue": "四分之三。",
+            "choice_NJGDIichN": "自由表达会议",
+            "choice_41XPUochV": "信息会议",
+            "choice_Ey4P8jq2N": "协调会议",
+            "choice_E1BvIjqnV": "解决问题的会议"
+        }
+    }
+}

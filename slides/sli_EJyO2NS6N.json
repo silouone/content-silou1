@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:09:59.528Z",
+            "updatedAt": "2018-06-22T15:18:14.997Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJzQRdE54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJyO2NS6N",
+        "universalRef": "sli_EJyO2NS6N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJyO2NS6N.choice_41d0mzACV.id",
+                        "label": "choice_41d0mzACV",
+                        "value": "choice_41d0mzACV"
+                    },
+                    {
+                        "id": "sli_EJyO2NS6N.choice_4yqC7fC0V.id",
+                        "label": "choice_4yqC7fC0V",
+                        "value": "choice_4yqC7fC0V"
+                    },
+                    {
+                        "id": "sli_EJyO2NS6N.choice_Ny~kVGRRN.id",
+                        "label": "choice_Ny~kVGRRN",
+                        "value": "choice_Ny~kVGRRN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41d0mzACV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Une spécificité de notre fonctionnement psychologique rend le brainstorming inversé particulièrement efficace. Laquelle?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le brainstorming négatif marche plutôt bien, car nous avons (malheureusement !) tendance à retenir plus facilement les aspects négatifs des choses et des évènements de manière générale.",
+            "tips": "Le biais négatif tirerait son origine de l’évolution. Retenir les expériences négatives nous permettrait d’éviter une nouvelle expérience négative similaire.",
+            "clue": "Photo argentique.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41d0mzACV": "Nous retenons mieux les aspects négatifs",
+            "choice_4yqC7fC0V": "Nous retenons mieux les aspects positifs",
+            "choice_Ny~kVGRRN": "Nous transformons les aspects positifs en aspects négatifs"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "One particular facet of the way our psychologies work makes reverse brainstorming particularly effective. What is it?",
+            "klf": "Reverse brainstorming works well because of our tendency to retain negatives more easily than positives.",
+            "tips": "Our bias towards the darker side of things comes from the way we’ve evolved. Remembering bad experiences helps us to avoid something similar happening to us again.",
+            "clue": "Photography before digital cameras",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41d0mzACV": "We remember negative things best.",
+            "choice_4yqC7fC0V": "We remember positive things best.",
+            "choice_Ny~kVGRRN": "We turn positives into negatives."
+        }
+    }
+}

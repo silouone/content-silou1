@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-24T10:33:15.763Z",
+            "updatedAt": "2018-10-08T15:23:07.000Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41nhaTOUr",
+        "universalRef": "sli_41nhaTOUr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41nhaTOUr.choice_VJWkA6O8r.id",
+                        "label": "choice_VJWkA6O8r",
+                        "value": "choice_VJWkA6O8r"
+                    },
+                    {
+                        "id": "sli_41nhaTOUr.choice_41PJC6dIr.id",
+                        "label": "choice_41PJC6dIr",
+                        "value": "choice_41PJC6dIr"
+                    },
+                    {
+                        "id": "sli_41nhaTOUr.choice_NJDlRp-IB.id",
+                        "label": "choice_NJDlRp-IB",
+                        "value": "choice_NJDlRp-IB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41PJC6dIr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment pouvez-vous évaluer votre usage des outils digitaux ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Prenez un moment pour analyser de façon chiffrée votre usage des outils digitaux. Combien de temps passez vous sur chaque outil, à quelle fréquence, dans quel but ? Ces usages vous permettent-ils d'atteindre des objectifs précis, ou sont-ils addictifs pour les petits plaisirs qu'ils procurent ? À partir de là, organisez-vous de façon à mettre ces outils à votre service plutôt qu'à subir une dépendance à leur égard.",
+            "tips": "De façon assez paradoxale, les \"digital natives\", les personnes nées après l'arrivée d'Internet et l'ayant donc toujours connu, sont les plus vulnérables à l'addiction aux outils digitaux, mais sont aussi la génération la plus encline à rejeter cette tendance à l’hyper-connexion.",
+            "clue": "Allumez votre radar !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJWkA6O8r": "En allant voir un coach en bonnes pratiques digitales",
+            "choice_41PJC6dIr": "En passant au crible votre usage de chaque outil",
+            "choice_NJDlRp-IB": "En analysant la façon dont vous arrivez à garder ou non contact avec vos amis grâce aux réseaux sociaux"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "How can you evaluate your use of digital tools?",
+            "klf": "Take a moment to analyse your use of digital technology statistically. How much time do you spend on each tool, how often, why? Does your use of digital tools helps you achieve specific objectives or are you just addicted to the small pleasures it can bring? Once you’ve done this, get organised so you can use tools constructively rather than simply being dependent on them.",
+            "tips": "“Digital natives” are people born after the Internet was launched and it’s therefore always been part of their lives. Paradoxically, digital natives are the most vulnerable to digital addiction but they’re also the most likely to buck the current trend towards hyperconnectivity.",
+            "clue": "Switch on your radar!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJWkA6O8r": "By going to see a coach who teaches good digital practice",
+            "choice_41PJC6dIr": "By scrutinising your use of each digital tool ",
+            "choice_NJDlRp-IB": "By analysing whether or not social networks have helped you stay in contact with friends"
+        }
+    }
+}

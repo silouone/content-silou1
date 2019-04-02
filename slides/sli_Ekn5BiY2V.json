@@ -1,0 +1,159 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T17:12:21.211Z",
+            "updatedAt": "2018-07-26T14:58:41.519Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_Ekn5BiY2V",
+        "universalRef": "sli_Ekn5BiY2V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ekn5BiY2V.choice_VyehhSjYnE.id",
+                        "label": "choice_VyehhSjYnE",
+                        "value": "choice_VyehhSjYnE",
+                        "media": "med_Vy32Hjt3N"
+                    },
+                    {
+                        "id": "sli_Ekn5BiY2V.choice_EkxRhHoY2E.id",
+                        "label": "choice_EkxRhHoY2E",
+                        "value": "choice_EkxRhHoY2E",
+                        "media": "med_4JR3BiY34"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkxRhHoY2E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The purpose of a performance table is to allow the manager to control everything. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The performance table does not allow the manager to control everything. The manager should use relevant indicators to identify the key factors for success.",
+            "tips": "If the environment becomes unstable and requires a strong response, the management system should focus on the added value, not just on the cost.",
+            "clue": "Let it go.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyehhSjYnE": "TRUE",
+            "choice_EkxRhHoY2E": "FALSE"
+        },
+        "fr": {
+            "header": "Le but de la table de performance est de permettre au gestionnaire de contrôler tout le contenu. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "La table de performances ne permet pas au gestionnaire de contrôler tout le contenu. Les gestionnaires doivent utiliser des indicateurs pertinents pour déterminer les facteurs clés de succès.",
+            "tips": "Si l'environnement devient instable et nécessite une réponse forte, le système de gestion doit se concentrer sur la valeur ajoutée, pas uniquement sur les coûts.",
+            "clue": "Laisse aller.",
+            "choice_VyehhSjYnE": "Vraiment",
+            "choice_EkxRhHoY2E": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "El objetivo de una tabla de rendimiento es permitir que el gerente controle todo. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "La tabla de rendimiento no permite que el administrador controle todo. El gerente debe usar indicadores relevantes para identificar los factores clave para el éxito.",
+            "tips": "Si el entorno se vuelve inestable y requiere una fuerte respuesta, el sistema de gestión debe centrarse en el valor agregado, no solo en el costo.",
+            "clue": "Déjalo ir.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyehhSjYnE": "Cierto",
+            "choice_EkxRhHoY2E": "Falso"
+        },
+        "it": {
+            "header": "Lo scopo di una tabella delle prestazioni è consentire al gestore di controllare tutto. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "La tabella delle prestazioni non consente al gestore di controllare tutto. Il gestore dovrebbe utilizzare indicatori pertinenti per identificare i fattori chiave per il successo.",
+            "tips": "Se lambiente diventa instabile e richiede una forte risposta, il sistema di gestione dovrebbe concentrarsi sul valore aggiunto, non solo sul costo.",
+            "clue": "Lasciarlo andare.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyehhSjYnE": "Vero",
+            "choice_EkxRhHoY2E": "falso"
+        },
+        "de": {
+            "header": "The purpose of a performance table is to allow the manager to control everything. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The performance table does not allow the manager to control everything. The manager should use relevant indicators to identify the key factors for success.",
+            "tips": "If the environment becomes unstable and requires a strong response, the management system should focus on the added value, not just on the cost.",
+            "clue": "Let it go.",
+            "choice_VyehhSjYnE": "TRUE",
+            "choice_EkxRhHoY2E": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "성능 테이블의 목적은 관리자가 모든 것을 제어 할 수있게하는 것입니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "성능 표는 관리자가 모든 것을 제어하는 ​​것을 허용하지 않습니다. 관리자는 관련 지표를 사용하여 성공의 핵심 요소를 식별해야합니다.",
+            "tips": "환경이 불안정 해지고 강력한 대응이 필요한 경우 관리 시스템은 비용뿐만 아니라 부가 가치에 중점을 두어야합니다.",
+            "clue": "가자.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyehhSjYnE": "참된",
+            "choice_EkxRhHoY2E": "그릇된"
+        },
+        "ru": {
+            "header": "Цель таблицы производительности - позволить менеджеру контролировать все. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Таблица производительности не позволяет менеджеру контролировать все. Менеджер должен использовать соответствующие индикаторы для определения ключевых факторов успеха.",
+            "tips": "Если среда становится нестабильной и требует сильного ответа, система управления должна сосредоточиться на добавленной стоимости, а не только на стоимости.",
+            "clue": "Отпусти ситуацию.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyehhSjYnE": "Правда",
+            "choice_EkxRhHoY2E": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O objetivo de uma tabela de desempenho é permitir que o gerente controle tudo. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "A tabela de desempenho não permite que o gerente controle tudo. O gerente deve usar indicadores relevantes para identificar os fatores-chave para o sucesso.",
+            "tips": "Se o ambiente se tornar instável e exigir uma resposta forte, o sistema de gestão deve se concentrar no valor agregado, não apenas no custo.",
+            "clue": "Deixe ir.",
+            "choice_VyehhSjYnE": "VERDADE",
+            "choice_EkxRhHoY2E": "FALSO"
+        },
+        "zh": {
+            "header": "性能表的目的是允许管理器控制所有内容。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "性能表不允许管理器控制所有内容。经理应使用相关指标来确定成功的关键因素。",
+            "tips": "如果环境变得不稳定并需要强烈的响应，管理系统应该关注增值，而不仅仅是成本。",
+            "clue": "放手吧。",
+            "choice_VyehhSjYnE": "真正",
+            "choice_EkxRhHoY2E": "假"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T11:44:57.340Z",
+            "updatedAt": "2018-10-17T11:49:15.807Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyL0KKq4S"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4ywGwuhdr",
+        "universalRef": "sli_4ywGwuhdr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4ywGwuhdr.choice_E1aBwd3dB.id",
+                        "label": "choice_E1aBwd3dB",
+                        "value": "choice_E1aBwd3dB"
+                    },
+                    {
+                        "id": "sli_4ywGwuhdr.choice_Nky8D-n-H.id",
+                        "label": "choice_Nky8D-n-H",
+                        "value": "choice_Nky8D-n-H"
+                    },
+                    {
+                        "id": "sli_4ywGwuhdr.choice_VyMLw-ndB.id",
+                        "label": "choice_VyMLw-ndB",
+                        "value": "choice_VyMLw-ndB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nky8D-n-H",
+                        "choice_E1aBwd3dB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles informations sur la cible un persona permet-il de décrire ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour une stratégie marketing efficace, il faut désormais connaître précisément les comportements de ses cibles sur les canaux digitaux. Idéal pour cela, le persona est une représentation fictive qui permet aux marques de connaître précisément les motivations et les comportements des clients qui choisissent d’acheter leurs produits, services ou solutions sur le Net.",
+            "tips": "Il est conseillé de ne pas construire ses personas autour de ses offres, mais partir des besoins, envies ou problématiques de ses cibles.",
+            "clue": "Plus ils sont reproduits d’un individu à un autre, plus le persona est intéressant.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1aBwd3dB": "Motivations de la cible",
+            "choice_Nky8D-n-H": "Comportements de recherche",
+            "choice_VyMLw-ndB": "Niveau de maturité de la cible"
+        },
+        "en": {
+            "header": "Quelles informations sur la cible un persona permet-il de décrire ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour une stratégie marketing efficace, il faut désormais connaître précisément les comportements de ses cibles sur les canaux digitaux. Idéal pour cela, le persona est une représentation fictive qui permet aux marques de connaître précisément les motivations et les comportements des clients qui choisissent d’acheter leurs produits, services ou solutions sur le Net.",
+            "tips": "Il est conseillé de ne pas construire ses personas autour de ses offres, mais partir des besoins, envies ou problématiques de ses cibles.",
+            "clue": "Plus ils sont reproduits d’un individu à un autre, plus le persona est intéressant.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1aBwd3dB": "Motivations de la cible",
+            "choice_Nky8D-n-H": "Comportements de recherche",
+            "choice_VyMLw-ndB": "Niveau de maturité de la cible"
+        }
+    }
+}

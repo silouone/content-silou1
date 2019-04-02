@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:03:27.262Z",
+            "updatedAt": "2018-06-21T07:59:45.753Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyCpjNWh4",
+        "universalRef": "sli_NyCpjNWh4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyCpjNWh4.choice_NJPkord24.id",
+                        "label": "choice_NJPkord24",
+                        "value": "choice_NJPkord24"
+                    },
+                    {
+                        "id": "sli_NyCpjNWh4.choice_NyfloruhV.id",
+                        "label": "choice_NyfloruhV",
+                        "value": "choice_NyfloruhV"
+                    },
+                    {
+                        "id": "sli_NyCpjNWh4.choice_VyKgoBOhN.id",
+                        "label": "choice_VyKgoBOhN",
+                        "value": "choice_VyKgoBOhN"
+                    },
+                    {
+                        "id": "sli_NyCpjNWh4.choice_Ny1Zird2N.id",
+                        "label": "choice_Ny1Zird2N",
+                        "value": "choice_Ny1Zird2N"
+                    },
+                    {
+                        "id": "sli_NyCpjNWh4.choice_V18MiHu2V.id",
+                        "label": "choice_V18MiHu2V",
+                        "value": "choice_V18MiHu2V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyfloruhV",
+                        "choice_VyKgoBOhN",
+                        "choice_Ny1Zird2N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les moments les plus propices au rappel à soi au travail?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les exercices de pleine conscience au travail, dont les rappels à soi, sont très courts et ne créent pas de rupture dans nos tâches professionnelles. C’est leur répétition au cours de la journée qui développe notre capacité à être présents à nous-mêmes, ici et maintenant.",
+            "tips": "Vous pouvez vous créer un plan hebdomadaire d’entraînement avec les trois moments de rappel à soi quotidiens que vous définissez, et changer la nature de ces moments-clés la semaine suivante.",
+            "clue": "Qualité et quantité.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJPkord24": "Jamais en plein milieu d'une tâche précise",
+            "choice_NyfloruhV": "En disant bonjour à ses collègues",
+            "choice_VyKgoBOhN": "Durant la pause déjeuner",
+            "choice_Ny1Zird2N": "Dès lors qu'on se sent dispersé ou submergé",
+            "choice_V18MiHu2V": "Le matin et le soir uniquement"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "When are the best times for self-remembering at work?",
+            "klf": "Self-remembering and other mindfulness exercises are very short, and you don’t need to take a break from work to do them. We develop the ability to live in the present by repeating these exercises throughout the day.",
+            "tips": "Why not develop your own weekly mindfulness training plan. You could choose three key moments for self-remembering each day, then change those key moments on a weekly basis.",
+            "clue": "Quality and quantity.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJPkord24": "Never in the middle of a specific task",
+            "choice_NyfloruhV": "When you say hello to your colleagues",
+            "choice_VyKgoBOhN": "During your lunch break",
+            "choice_Ny1Zird2N": "As soon as you feel work is getting chaotic or overwhelming",
+            "choice_V18MiHu2V": "Only in the morning and evening"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:41:20.107Z",
+            "updatedAt": "2018-10-17T09:29:16.443Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJ1dnJiOH",
+        "universalRef": "sli_NJ1dnJiOH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJ1dnJiOH.choice_EJSjhko-S.id",
+                        "label": "choice_EJSjhko-S",
+                        "value": "choice_EJSjhko-S"
+                    },
+                    {
+                        "id": "sli_NJ1dnJiOH.choice_Ey3jh1jOB.id",
+                        "label": "choice_Ey3jh1jOB",
+                        "value": "choice_Ey3jh1jOB"
+                    },
+                    {
+                        "id": "sli_NJ1dnJiOH.choice_4JWnnysuS.id",
+                        "label": "choice_4JWnnysuS",
+                        "value": "choice_4JWnnysuS"
+                    },
+                    {
+                        "id": "sli_NJ1dnJiOH.choice_EyPnhyj-H.id",
+                        "label": "choice_EyPnhyj-H",
+                        "value": "choice_EyPnhyj-H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJSjhko-S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'élément-clé à la base de l’inbound marketing ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "L'esprit de l’inbound marketing peut être résumé par la devise suivante : « Nous devons cesser d’être des interruptions dans ce qui intéresse les gens et devenir ce qui intéresse les gens. » Gred Davis, publicitaire américain.",
+            "tips": "Le content marketing est une méthode très efficace lorsqu'elle est bien utilisée. Contrairement aux actions de Search Engine Advertizing (l'espace publicitaire sur les moteurs de recherche), le content marketing permet de bénéficier d’un effet longue traîne, pérenne sur le long terme. Le contenu vit, peut être optimisé et valorisé au fil du temps.",
+            "clue": "Intéresser ses cibles fait vendre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJSjhko-S": "Le contenu ",
+            "choice_Ey3jh1jOB": "Le marketing automation ",
+            "choice_4JWnnysuS": "L’optimisation des taux de conversion ",
+            "choice_EyPnhyj-H": "Les médias sociaux "
+        },
+        "en": {
+            "header": "Quel est lélément-clé à la base de l’inbound marketing ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Lesprit de l’inbound marketing peut être résumé par la devise suivante : « Nous devons cesser d’être des interruptions dans ce qui intéresse les gens et devenir ce qui intéresse les gens. » Gred Davis, publicitaire américain.",
+            "tips": "Le content marketing est une méthode très efficace lorsquelle est bien utilisée. Contrairement aux actions de Search Engine Advertizing (lespace publicitaire sur les moteurs de recherche), le content marketing permet de bénéficier d’un effet longue traîne, pérenne sur le long terme. Le contenu vit, peut être optimisé et valorisé au fil du temps.",
+            "clue": "Intéresser ses cibles fait vendre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJSjhko-S": "Le contenu ",
+            "choice_Ey3jh1jOB": "Le marketing automation ",
+            "choice_4JWnnysuS": "L’optimisation des taux de conversion ",
+            "choice_EyPnhyj-H": "Les médias sociaux "
+        }
+    }
+}

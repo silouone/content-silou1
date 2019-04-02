@@ -1,0 +1,189 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T12:23:09.517Z",
+            "updatedAt": "2018-08-10T09:10:48.605Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4kzLmhc2V",
+        "universalRef": "sli_4kzLmhc2V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kzLmhc2V.choice_Nkmv73924.id",
+                        "label": "choice_Nkmv73924",
+                        "value": "choice_Nkmv73924"
+                    },
+                    {
+                        "id": "sli_4kzLmhc2V.choice_VkBD7h92E.id",
+                        "label": "choice_VkBD7h92E",
+                        "value": "choice_VkBD7h92E"
+                    },
+                    {
+                        "id": "sli_4kzLmhc2V.choice_NJUv7hchV.id",
+                        "label": "choice_NJUv7hchV",
+                        "value": "choice_NJUv7hchV"
+                    },
+                    {
+                        "id": "sli_4kzLmhc2V.choice_Ekwv7hc2N.id",
+                        "label": "choice_Ekwv7hc2N",
+                        "value": "choice_Ekwv7hc2N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nkmv73924",
+                        "choice_VkBD7h92E",
+                        "choice_NJUv7hchV",
+                        "choice_Ekwv7hc2N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What factors should you be concerned about when preparing the meeting?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "A successful meeting also depends on supplies and facilities. You should ensure that the room is available, bring useful supplies and prepare any aids, set up the room so that all the participants can see each other and manage the timing.",
+            "tips": "Remember to provide name tags or table name plates if the participants do not all know each other.",
+            "clue": "Do not neglect anything.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkmv73924": "Room availability",
+            "choice_VkBD7h92E": "Useful supplies and proper aids",
+            "choice_NJUv7hchV": "Room set up",
+            "choice_Ekwv7hc2N": "Time management"
+        },
+        "fr": {
+            "header": "Sur quels facteurs devriez-vous vous concentrer lors de la préparation de votre réunion?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "Les réunions réussies dépendent également de l’approvisionnement et des installations. Assurez-vous que la salle est disponible, emportez les fournitures utiles, préparez les installations auxiliaires, configurez la salle de sorte que tous les participants puissent se voir et gérer le programme.",
+            "tips": "Si les participants ne se connaissent pas, pensez à fournir une étiquette de nom ou une étiquette de nom de table.",
+            "clue": "N'ignore rien.",
+            "choice_Nkmv73924": "Disponibilité de la chambre",
+            "choice_VkBD7h92E": "Fournitures utiles et aides appropriées",
+            "choice_NJUv7hchV": "Mise en salle",
+            "choice_Ekwv7hc2N": "Gestion du temps",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿De qué factores debería preocuparse al preparar la reunión?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Una reunión exitosa también depende de los suministros y las instalaciones. Debe asegurarse de que la sala esté disponible, traiga suministros útiles y prepare cualquier ayuda, configure la sala para que todos los participantes puedan verse y administrar el tiempo.",
+            "tips": "Recuerde proporcionar etiquetas de nombre o placas de nombre de tabla si los participantes no se conocen entre sí.",
+            "clue": "No descuides nada",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkmv73924": "Disponibilidad de cuarto",
+            "choice_VkBD7h92E": "Suministros útiles y ayudas apropiadas",
+            "choice_NJUv7hchV": "Configuración de la sala",
+            "choice_Ekwv7hc2N": "Gestión del tiempo"
+        },
+        "it": {
+            "header": "Di quali fattori dovresti preoccuparti quando prepari la riunione?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Un incontro di successo dipende anche da forniture e strutture. Dovresti assicurarti che la stanza sia disponibile, portare rifornimenti utili e preparare gli aiuti, allestire la stanza in modo che tutti i partecipanti possano vedersi e gestire i tempi.",
+            "tips": "Ricordarsi di fornire tag o targhette con il nome se i partecipanti non si conoscono tutti.",
+            "clue": "Non trascurare nulla.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkmv73924": "Disponibilità delle camere",
+            "choice_VkBD7h92E": "Forniture utili e aiuti adeguati",
+            "choice_NJUv7hchV": "Stanza allestita",
+            "choice_Ekwv7hc2N": "Gestione del tempo"
+        },
+        "de": {
+            "header": "What factors should you be concerned about when preparing the meeting?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "A successful meeting also depends on supplies and facilities. You should ensure that the room is available, bring useful supplies and prepare any aids, set up the room so that all the participants can see each other and manage the timing.",
+            "tips": "Remember to provide name tags or table name plates if the participants do not all know each other.",
+            "clue": "Do not neglect anything.",
+            "choice_Nkmv73924": "Room availability",
+            "choice_VkBD7h92E": "Useful supplies and proper aids",
+            "choice_NJUv7hchV": "Room set up",
+            "choice_Ekwv7hc2N": "Time management",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "회의를 준비 할 때 어떤 요소에 대해 염려해야합니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "성공적인 회의는 또한 물품과 시설에 달려 있습니다. 회의실을 사용할 수 있는지, 유용한 물품을 가져다가 보조기구를 준비하고, 모든 참가자가 서로를보고 시간을 관리 할 수 ​​있도록 회의실을 구성해야합니다.",
+            "tips": "참가자들이 서로를 잘 알지 못하면 이름표 나 테이블 이름을 제공해야합니다.",
+            "clue": "아무것도 방치하지 마십시오.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkmv73924": "객실 가용성",
+            "choice_VkBD7h92E": "유용한 물품과 적절한 보조물",
+            "choice_NJUv7hchV": "방 설정",
+            "choice_Ekwv7hc2N": "시간 관리"
+        },
+        "ru": {
+            "header": "Какие факторы вы должны беспокоить при подготовке совещания?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Успешная встреча также зависит от поставок и оборудования. Вы должны убедиться, что комната доступна, принести полезные материалы и подготовить какие-либо вспомогательные средства, настроить комнату, чтобы все участники могли видеть друг друга и управлять временем.",
+            "tips": "Не забудьте указать теги имен или таблички имен таблиц, если участники не знают друг друга.",
+            "clue": "Ничего не пренебрегайте.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkmv73924": "Наличие номеров",
+            "choice_VkBD7h92E": "Полезные материалы и соответствующие средства",
+            "choice_NJUv7hchV": "Установка номера",
+            "choice_Ekwv7hc2N": "Тайм-менеджмент"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Com quais fatores você deve se preocupar ao preparar a reunião?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Uma reunião bem-sucedida também depende de suprimentos e instalações. Você deve garantir que a sala esteja disponível, trazer suprimentos úteis e preparar qualquer ajuda, preparar a sala para que todos os participantes possam se ver e administrar o tempo.",
+            "tips": "Lembre-se de fornecer tags de nome ou placas de nome de tabela se os participantes não se conhecerem.",
+            "clue": "Não negligencie nada.",
+            "choice_Nkmv73924": "Disponibilidade de quartos",
+            "choice_VkBD7h92E": "Suprimentos úteis e ajudas adequadas",
+            "choice_NJUv7hchV": "Configuração de quarto",
+            "choice_Ekwv7hc2N": "Gerenciamento de tempo"
+        },
+        "zh": {
+            "header": "在准备会议时，您应该关注哪些因素？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "成功的会议也取决于供应和设施。您应确保房间可用，携带有用的物资并准备任何辅助设施，设置房间，以便所有参与者可以看到对方并管理时间安排。",
+            "tips": "如果参与者彼此不认识，请记住提供名称标签或表名牌。",
+            "clue": "不要忽视任何事情。",
+            "choice_Nkmv73924": "房间供应情况",
+            "choice_VkBD7h92E": "有用的用品和适当的辅助工具",
+            "choice_NJUv7hchV": "房间设置",
+            "choice_Ekwv7hc2N": "时间管理"
+        }
+    }
+}

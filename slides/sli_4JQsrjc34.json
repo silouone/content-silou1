@@ -1,0 +1,208 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T11:24:53.662Z",
+            "updatedAt": "2018-08-10T09:09:13.767Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4JQsrjc34",
+        "universalRef": "sli_4JQsrjc34",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel98429",
+                        "label": "label_4J4RSs53V",
+                        "items": [
+                            {
+                                "text": "choice_NygVCSiqhV",
+                                "value": "choice_NygVCSiqhV"
+                            },
+                            {
+                                "text": "choice_E1~V0Hi53N",
+                                "value": "choice_E1~V0Hi53N"
+                            },
+                            {
+                                "text": "choice_VJHkUs924",
+                                "value": "choice_VJHkUs924"
+                            },
+                            {
+                                "text": "choice_4JTer57CE",
+                                "value": "choice_4JTer57CE"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel98429",
+                        "answers": [
+                            "choice_VJHkUs924"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Whose concerns should the meeting address?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The meeting needs to be useful for everyone to be effective. Everyone should be able to expect to benefit from it.",
+            "tips": "A meeting is not an open discussion. Open discussion has its place but does not elicit the same effects as a meeting.",
+            "clue": "Universality.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel98429}}",
+            "label_4J4RSs53V": "",
+            "choice_NygVCSiqhV": "The manager’s",
+            "choice_E1~V0Hi53N": "The invited participants’",
+            "choice_VJHkUs924": "Everyone’s",
+            "choice_4JTer57CE": "Management’s"
+        },
+        "fr": {
+            "header": "Sur quelles questions la réunion devrait-elle porter?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les réunions doivent être utiles à tous. Tout le monde devrait s'attendre à en bénéficier.",
+            "tips": "La réunion n'est pas une discussion ouverte. La discussion publique est remplacée, mais elle ne produit pas le même effet que la réunion.",
+            "clue": "Universel.",
+            "template": "{{Sel98429}}",
+            "choice_NygVCSiqhV": "Gestionnaire",
+            "choice_E1~V0Hi53N": "Participants invités",
+            "choice_VJHkUs924": "Tout le monde",
+            "choice_4JTer57CE": "La gestion",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_4J4RSs53V": ""
+        },
+        "es": {
+            "header": "¿A quién concierne la reunión?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "La reunión debe ser útil para que todos sean efectivos. Todos deberían poder esperar beneficiarse de ello.",
+            "tips": "Una reunión no es una discusión abierta. La discusión abierta tiene su lugar pero no provoca los mismos efectos que una reunión.",
+            "clue": "Universalidad",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel98429}}",
+            "label_4J4RSs53V": " ",
+            "choice_NygVCSiqhV": "Los administradores",
+            "choice_E1~V0Hi53N": "Los participantes invitados",
+            "choice_VJHkUs924": "Todos estan",
+            "choice_4JTer57CE": "Gestión"
+        },
+        "it": {
+            "header": "Di quali preoccupazioni dovrebbe occuparsi lincontro?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "Lincontro deve essere utile affinché tutti siano efficaci. Ognuno dovrebbe essere in grado di aspettarsi di trarne beneficio.",
+            "tips": "Un incontro non è una discussione aperta. La discussione aperta ha il suo posto ma non provoca gli stessi effetti di una riunione.",
+            "clue": "Universalità.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel98429}}",
+            "label_4J4RSs53V": " ",
+            "choice_NygVCSiqhV": "Il manager",
+            "choice_E1~V0Hi53N": "I partecipanti invitati",
+            "choice_VJHkUs924": "Di tutti",
+            "choice_4JTer57CE": "Management"
+        },
+        "de": {
+            "header": "Whose concerns should the meeting address?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The meeting needs to be useful for everyone to be effective. Everyone should be able to expect to benefit from it.",
+            "tips": "A meeting is not an open discussion. Open discussion has its place but does not elicit the same effects as a meeting.",
+            "clue": "Universality.",
+            "template": "{{sel98429}}",
+            "choice_NygVCSiqhV": "The manager’s",
+            "choice_E1~V0Hi53N": "The invited participants’",
+            "choice_VJHkUs924": "Everyone’s",
+            "choice_4JTer57CE": "Management’s",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_4J4RSs53V": " "
+        },
+        "ko": {
+            "header": "회의에서 누구의 관심을 불러야합니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "회의는 모든 사람이 효과적 일 수 있도록 유용해야합니다. 모든 사람들은 그 혜택을 기대할 수 있어야합니다.",
+            "tips": "회의는 공개 토론이 아닙니다. 공개 토론은 그 자리를 차지하고 있지만 회의와 같은 효과를 이끌어내는 것은 아닙니다.",
+            "clue": "보편성.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel98429}}",
+            "label_4J4RSs53V": " ",
+            "choice_NygVCSiqhV": "매니저의",
+            "choice_E1~V0Hi53N": "초대 된 참가자들의",
+            "choice_VJHkUs924": "모두들",
+            "choice_4JTer57CE": "경영진"
+        },
+        "ru": {
+            "header": "Чьи проблемы следует задать на встрече?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Встреча должна быть полезной для того, чтобы каждый мог быть эффективным. Каждый должен быть в состоянии ожидать от него выгоды.",
+            "tips": "Встреча не является открытой дискуссией. Открытая дискуссия имеет свое место, но не вызывает те же последствия, что и встреча.",
+            "clue": "Всеобщность.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel98429}}",
+            "label_4J4RSs53V": " ",
+            "choice_NygVCSiqhV": "Менеджер",
+            "choice_E1~V0Hi53N": "Приглашенные участники,",
+            "choice_VJHkUs924": "Все это",
+            "choice_4JTer57CE": "РУКОВОДСТВА"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Cujas preocupações devem abordar a reunião?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "A reunião precisa ser útil para que todos sejam eficazes. Todos devem poder esperar se beneficiar disso.",
+            "tips": "Uma reunião não é uma discussão aberta. A discussão aberta tem seu lugar, mas não produz os mesmos efeitos que uma reunião.",
+            "clue": "Universalidade.",
+            "template": "{{sel98429}}",
+            "choice_NygVCSiqhV": "O gerente",
+            "choice_E1~V0Hi53N": "Os participantes convidados",
+            "choice_VJHkUs924": "Todo mundo",
+            "choice_4JTer57CE": "Gestão da"
+        },
+        "zh": {
+            "header": "会议应该关注谁的问题？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "会议需要对每个人都有用。每个人都应该期望从中受益。",
+            "tips": "会议不是公开讨论。公开讨论取而代之，但不会产生与会议相同的效果。",
+            "clue": "普遍性。",
+            "template": "{{Sel98429}}",
+            "choice_NygVCSiqhV": "经理的",
+            "choice_E1~V0Hi53N": "受邀参加者'",
+            "choice_VJHkUs924": "每个人的",
+            "choice_4JTer57CE": "管理层"
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:37:32.943Z",
+            "updatedAt": "2016-06-17T06:49:18.198Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E1jJppkhl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1jJppkhl.choice_4J59aTJ3e.id",
+                        "label": "choice_4J59aTJ3e",
+                        "value": "choice_4J59aTJ3e"
+                    },
+                    {
+                        "id": "sli_E1jJppkhl.choice_NkiqaTJ3e.id",
+                        "label": "choice_NkiqaTJ3e",
+                        "value": "choice_NkiqaTJ3e"
+                    },
+                    {
+                        "id": "sli_E1jJppkhl.choice_EJgs5aakng.id",
+                        "label": "choice_EJgs5aakng",
+                        "value": "choice_EJgs5aakng"
+                    },
+                    {
+                        "id": "sli_E1jJppkhl.choice_EJ35pp1nl.id",
+                        "label": "choice_EJ35pp1nl",
+                        "value": "choice_EJ35pp1nl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4J59aTJ3e",
+                        "choice_NkiqaTJ3e",
+                        "choice_EJgs5aakng",
+                        "choice_EJ35pp1nl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E1jJppkhl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Un entrepreneur doit être bien entouré. Mais par qui ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Être bien entouré lorsqu'on lance son entreprise est l'une des clés de la réussite : d'après une enquête de l'Insee en 2007, 66% des entreprises accompagnées sont encore en activité après cinq ans, contre 52% pour les autres. L'entourage peut être un réseau professionnel, un mentor, un professionnel (comptable, juriste...) ou même des proches.",
+            "tips": "Xavier Milin, fondateur de la société Basics Finance, raconte que le meilleur conseil qu'on lui ait donné est le suivant : \"un bon entrepreneur est celui qui sait s'entourer\".",
+            "clue": "Tout le monde peut contribuer.",
+            "choice_4J59aTJ3e": "Un réseau professionnel",
+            "choice_NkiqaTJ3e": "Un comptable",
+            "choice_EJgs5aakng": "Ses proches",
+            "choice_EJ35pp1nl": "Un mentor"
+        },
+        "en": {
+            "header": "A contractor must be well surrounded. But by whom?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Being well-rounded when starting a business is one of the keys to success: according to a 2007 INSEE survey, 66% of accompanied businesses are still in business after five years, compared to 52% for other businesses . The entourage can be a professional network, a mentor, a professional (accountant, lawyer ...) or even relatives.",
+            "tips": "Xavier Milin, founder of the company Basics Finance, says that the best advice he has been given is the following: \"a good entrepreneur is the one who knows how to surround himself\".",
+            "clue": "Everyone can contribute.",
+            "choice_4J59aTJ3e": "A professional network",
+            "choice_NkiqaTJ3e": "An accountant",
+            "choice_EJgs5aakng": "His relatives",
+            "choice_EJ35pp1nl": "A mentor"
+        },
+        "de": {
+            "header": " Ein Unternehmer muss ein gutes Netzwerk haben. Wer könnte das einschließen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Ein starkes Netzwerk bei der Gründung Ihres Unternehmens ist einer der Schlüssel zum Erfolg: Laut einer Umfrage von Insee im Jahr 2007 sind 66% der unterstützten Unternehmen nach fünf Jahren noch im Geschäft, während es bei den anderen Unternehmen 52% sind. Das Gefolge kann ein professionelles Netzwerk, ein Mentor, ein Fachmann (Buchhalter, Rechtsanwalt usw.) oder sogar eine Familie und Freunde sein.",
+            "tips": "Xavier Milin, Firmengründer von Basics Finance, behauptet, der beste Rat, den er erhalten habe, ist: \"Ein guter Unternehmer stellt sicher, dass er ein gutes Netzwerk hat.\"",
+            "clue": "Jeder kann dazu beitragen.",
+            "choice_4J59aTJ3e": "Ein professionelles Netzwerk",
+            "choice_NkiqaTJ3e": "Ein Buchhalter",
+            "choice_EJgs5aakng": "Deine Geliebten",
+            "choice_EJ35pp1nl": "Ein Mentor"
+        },
+        "es": {
+            "header": " An entrepreneur needs to have a good network. Who could this include?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Having a strong network when launching your business is one of the keys to success: according to a survey by Insee in 2007, 66% of supported companies are still in business after five years, compared to 52% for the others. The entourage may be a professional network, a mentor, a professional (accountant, lawyer, etc.) or even family and friends.",
+            "tips": "Xavier Milin, company founder of Basics Finance, claims that the best advice that he was given is: \"a good entrepreneur makes sure they have a good network.\"",
+            "choice_4J59aTJ3e": "A professional network",
+            "choice_NkiqaTJ3e": "An accountant",
+            "choice_EJgs5aakng": "Your loved ones",
+            "choice_EJ35pp1nl": "A mentor",
+            "clue": "Everyone can contribute."
+        },
+        "zh": {
+            "header": " 企业家需要有一个良好的网络。这包括谁？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "在推出业务时拥有强大的网络是成功的关键之一：根据Insee在2007年的一项调查，66％的受支持公司在五年后仍在营业，而其他公司则为52％。随行人员可以是专业网络，导师，专业人士（会计师，律师等），甚至是家人和朋友。",
+            "tips": "Basics Finance的公司创始人Xavier Milin声称，他给出的最佳建议是：“一位优秀的企业家确保他们拥有良好的网络。”",
+            "clue": "每个人都可以贡献。",
+            "choice_4J59aTJ3e": "专业的网络",
+            "choice_NkiqaTJ3e": "一个会计师",
+            "choice_EJgs5aakng": "你爱的那些人",
+            "choice_EJ35pp1nl": "导师"
+        }
+    }
+}

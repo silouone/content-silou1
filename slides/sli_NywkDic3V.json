@@ -1,0 +1,195 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T11:30:21.966Z",
+            "updatedAt": "2018-08-10T09:09:57.564Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_NywkDic3V",
+        "universalRef": "sli_NywkDic3V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel74083",
+                        "label": "label_VkxmDjq3E",
+                        "items": [
+                            {
+                                "text": "choice_NyleQPoc2V",
+                                "value": "choice_NyleQPoc2V"
+                            },
+                            {
+                                "text": "choice_VJbgmvoc2E",
+                                "value": "choice_VJbgmvoc2E"
+                            },
+                            {
+                                "text": "choice_V1~Xvsqn4",
+                                "value": "choice_V1~Xvsqn4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel74083",
+                        "answers": [
+                            "choice_VJbgmvoc2E"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You need to relay an important message and ensure that it is well understood. What type of meeting should you choose?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The informational meeting aims to relay one or more important messages or new information and ensure that they are well understood.",
+            "tips": "Organise any note-taking based on the report you wish to receive: complete minutes, summary or action plan.",
+            "clue": "Transmitter/receiver.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel74083}}",
+            "label_VkxmDjq3E": "",
+            "choice_NyleQPoc2V": "The free expression meeting",
+            "choice_VJbgmvoc2E": "The informational meeting",
+            "choice_V1~Xvsqn4": "The brainstorming meeting"
+        },
+        "fr": {
+            "header": "Vous devez transmettre des informations importantes et vous assurer qu'elles sont bien comprises. Quel type de réunion devriez-vous choisir?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les séances d’information sont conçues pour transmettre une ou plusieurs informations importantes ou nouvelles et pour s’assurer qu’elles sont parfaitement comprises.",
+            "tips": "Organisez les notes en fonction du rapport que vous souhaitez recevoir: compte rendu complet de la réunion, résumé ou plan d'action.",
+            "clue": "Emetteur / récepteur.",
+            "template": "{{sel74083}}",
+            "choice_NyleQPoc2V": "Rencontre d'expression libre",
+            "choice_VJbgmvoc2E": "Réunion d'information",
+            "choice_V1~Xvsqn4": "Séance de brainstorming",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_VkxmDjq3E": ""
+        },
+        "es": {
+            "header": "Debe transmitir un mensaje importante y asegurarse de que se entienda bien. ¿Qué tipo de reunión elegirías?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "La reunión informativa tiene como objetivo transmitir uno o más mensajes importantes o nueva información y garantizar que se entienden bien.",
+            "tips": "Organice cualquier toma de notas basada en el informe que desea recibir: complete las minutas, el resumen o el plan de acción.",
+            "clue": "Transmisor / receptor",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel74083}}",
+            "label_VkxmDjq3E": " ",
+            "choice_NyleQPoc2V": "La reunión de expresión libre",
+            "choice_VJbgmvoc2E": "La reunión informativa",
+            "choice_V1~Xvsqn4": "La reunión de lluvia de ideas"
+        },
+        "it": {
+            "header": "È necessario trasmettere un messaggio importante e assicurarsi che sia ben compreso. Che tipo di riunione dovresti scegliere?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "Lincontro informativo ha lo scopo di trasmettere uno o più messaggi importanti o nuove informazioni e assicurarsi che siano ben compresi.",
+            "tips": "Organizza qualsiasi appunto sulla base del rapporto che desideri ricevere: minuti completi, sommario o piano dazione.",
+            "clue": "Trasmettitore / ricevitore.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel74083}}",
+            "label_VkxmDjq3E": " ",
+            "choice_NyleQPoc2V": "Lincontro di espressione libera",
+            "choice_VJbgmvoc2E": "Lincontro informativo",
+            "choice_V1~Xvsqn4": "Lincontro di brainstorming"
+        },
+        "de": {
+            "header": "You need to relay an important message and ensure that it is well understood. What type of meeting should you choose?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The informational meeting aims to relay one or more important messages or new information and ensure that they are well understood.",
+            "tips": "Organise any note-taking based on the report you wish to receive: complete minutes, summary or action plan.",
+            "clue": "Transmitter/receiver.",
+            "template": "{{sel74083}}",
+            "choice_NyleQPoc2V": "The free expression meeting",
+            "choice_VJbgmvoc2E": "The informational meeting",
+            "choice_V1~Xvsqn4": "The brainstorming meeting",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_VkxmDjq3E": " "
+        },
+        "ko": {
+            "header": "중요한 메시지를 중계하고 잘 이해해야합니다. 어떤 유형의 회의를 선택해야합니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "정보 회의는 하나 이상의 중요한 메시지 또는 새로운 정보를 중계하고 이들이 잘 이해되도록하는 것을 목표로합니다.",
+            "tips": "수령하고자하는 보고서 (완전한 분, 요약 또는 실천 계획)에 따라 모든 메모 작성을 구성하십시오.",
+            "clue": "송신기 / 수신기.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel74083}}",
+            "label_VkxmDjq3E": " ",
+            "choice_NyleQPoc2V": "자유 표현 모임",
+            "choice_VJbgmvoc2E": "정보 회의",
+            "choice_V1~Xvsqn4": "브레인 스토밍 회의"
+        },
+        "ru": {
+            "header": "Вам необходимо передать важное сообщение и убедиться, что оно хорошо понято. Какую встречу вы должны выбрать?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Информационное собрание предназначено для передачи одного или нескольких важных сообщений или новой информации и обеспечения их понимания.",
+            "tips": "Организуйте любую запись на основе отчета, который вы хотите получить: полные минуты, сводка или план действий.",
+            "clue": "Передатчик / приемник.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel74083}}",
+            "label_VkxmDjq3E": " ",
+            "choice_NyleQPoc2V": "Совещание по свободному выражению",
+            "choice_VJbgmvoc2E": "Информационное собрание",
+            "choice_V1~Xvsqn4": "Встреча «мозгового штурма»"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Você precisa transmitir uma mensagem importante e garantir que ela seja bem entendida. Que tipo de reunião você deve escolher?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "A reunião informativa tem como objetivo transmitir uma ou mais mensagens importantes ou novas informações e garantir que sejam bem compreendidas.",
+            "tips": "Organize qualquer anotação com base no relatório que você deseja receber: minutas completas, resumo ou plano de ação.",
+            "clue": "Transmissor-receptor.",
+            "template": "{{sel74083}}",
+            "choice_NyleQPoc2V": "A reunião de liberdade de expressão",
+            "choice_VJbgmvoc2E": "A reunião informativa",
+            "choice_V1~Xvsqn4": "A reunião de brainstorming"
+        },
+        "zh": {
+            "header": "您需要传递重要信息并确保它得到充分理解。你应该选择什么类型的会议？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "信息会议旨在传达一个或多个重要信息或新信息，并确保它们得到充分理解。",
+            "tips": "根据您希望收到的报告组织任何笔记记录：完整的会议记录，摘要或行动计划。",
+            "clue": "发射器/接收器。",
+            "template": "{{sel74083}}",
+            "choice_NyleQPoc2V": "自由表达会议",
+            "choice_VJbgmvoc2E": "信息会议",
+            "choice_V1~Xvsqn4": "头脑风暴会议"
+        }
+    }
+}

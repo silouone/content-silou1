@@ -1,0 +1,96 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:22:34.975Z",
+            "updatedAt": "2018-04-26T14:10:02.366Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJxKxSWh4",
+        "universalRef": "sli_NJxKxSWh4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel39012",
+                        "label": "label_EJnhxr~hE",
+                        "items": [
+                            {
+                                "text": "choice_EJxh2lB~nN",
+                                "value": "choice_EJxh2lB~nN"
+                            },
+                            {
+                                "text": "choice_VJ~32eH~hV",
+                                "value": "choice_VJ~32eH~hV"
+                            },
+                            {
+                                "text": "choice_EyyyZBZ2E",
+                                "value": "choice_EyyyZBZ2E"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel39012",
+                        "answers": [
+                            "choice_EJxh2lB~nN"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pratique de l'attention au moment présent",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "Le sens de l’équilibre et du mouvement ainsi que le sentiment que nous avons de notre existence nous renseignent sur notre bien ou mal-être. Grâce à l’attention faite à ces sens, nous devenons présents à nous-mêmes.",
+            "tips": "Le sentiment général que nous avons de notre être s’appelle cénesthésie et le sens de l’équilibre et des mouvements la kinesthésie.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Dans la pratique de l’attention au moment présent, la perception de nos sens internes est essentielle. L’attention au {{sel39012}} nous permet d’être plus présents à nous-mêmes.",
+            "label_EJnhxr~hE": " ",
+            "choice_EJxh2lB~nN": "sens de l’équilibre et du mouvement ",
+            "choice_VJ~32eH~hV": "sens de la progression du temps",
+            "choice_EyyyZBZ2E": "sens de la mémoire"
+        },
+        "en": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "Pratique de l'attention au moment présent",
+            "klf": "Le sens de l’équilibre et du mouvement ainsi que le sentiment que nous avons de notre existence nous renseignent sur notre bien ou mal-être. Grâce à l’attention faite à ces sens, nous devenons présents à nous-mêmes.",
+            "tips": "Le sentiment général que nous avons de notre être s’appelle cénesthésie et le sens de l’équilibre et des mouvements la kinesthésie.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Dans la pratique de l’attention au moment présent, la perception de nos sens internes est essentielle. L’attention au {{sel39012}} nous permet d’être plus présents à nous-mêmes.",
+            "label_EJnhxr~hE": " ",
+            "choice_EJxh2lB~nN": "sens de l’équilibre et du mouvement ",
+            "choice_VJ~32eH~hV": "sens de la progression du temps",
+            "choice_EyyyZBZ2E": "sens de la mémoire"
+        }
+    }
+}

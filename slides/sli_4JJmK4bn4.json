@@ -1,0 +1,91 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T07:55:17.905Z",
+            "updatedAt": "2018-06-21T07:57:44.394Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JJmK4bn4",
+        "universalRef": "sli_4JJmK4bn4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JJmK4bn4.choice_NylUcEbn4.id",
+                        "label": "choice_NylUcEbn4",
+                        "value": "choice_NylUcEbn4"
+                    },
+                    {
+                        "id": "sli_4JJmK4bn4.choice_NydI9VZ2V.id",
+                        "label": "choice_NydI9VZ2V",
+                        "value": "choice_NydI9VZ2V"
+                    },
+                    {
+                        "id": "sli_4JJmK4bn4.choice_E1Qv9Nb3E.id",
+                        "label": "choice_E1Qv9Nb3E",
+                        "value": "choice_E1Qv9Nb3E"
+                    },
+                    {
+                        "id": "sli_4JJmK4bn4.choice_EJDOcVbn4.id",
+                        "label": "choice_EJDOcVbn4",
+                        "value": "choice_EJDOcVbn4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NylUcEbn4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que préconise la méditation de pleine conscience à travers la méthode de \"déconnexion-reconnexion\" au travail ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Se concentrer profondément sur sa respiration, rien que quelques instants, permet de se déconnecter de notre \"pilote automatique\" et de se reconnecter à soi-même en pleine conscience du moment présent. Être présent à soi-même par un retour à ses sensations est un excellent moyen pour diminuer son stress et son anxiété.",
+            "tips": "Certaines applications, comme <a href=\"https://www.petitbambou.com \">Petit Bambou</a>, permettent de s'entraîner à se reconnecter à soi-même à travers la respiration, pour pouvoir ensuite réutiliser ces techniques en milieu professionnel.",
+            "clue": "L'eau, la terre, le feu...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NylUcEbn4": "Inspirer profondément et expirer en laissant partir nos tensions ",
+            "choice_NydI9VZ2V": "S'imaginer en vacances dans un lieu paradisiaque",
+            "choice_E1Qv9Nb3E": "Écouter une musique douce tout en travaillant",
+            "choice_EJDOcVbn4": "Regarder régulièrement l'animation extérieure par la fenêtre"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What does the “disconnection-reconnection” exercise suggest you do at work?",
+            "klf": "\"When you completely focus on your breath for just a few seconds, you can turn off “auto pilot,” and draw all your attention back to yourself. This helps you live mindfully in the present moment. Being present in yourself by focusing on your feelings is an excellent way to reduce stress and anxiety.\"",
+            "tips": "Meditation apps like <a href=\"https://www.petitbambou.com \">Petit Bambou</a> teach you breathing techniques to help you reconnect with your inner self. These techniques can all be used in the workplace.",
+            "clue": "Water, earth, fire…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NylUcEbn4": "Inhale deeply and then exhale, letting go of any tension ",
+            "choice_NydI9VZ2V": "Imagine you’re on holiday in an idyllic location",
+            "choice_E1Qv9Nb3E": "Listen to gentle music while you work",
+            "choice_EJDOcVbn4": "Look out of the window regularly to see what’s going on "
+        }
+    }
+}

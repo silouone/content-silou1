@@ -1,0 +1,118 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-30T10:04:10.922Z",
+            "updatedAt": "2016-09-03T14:57:12.920Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJ-cG5V0x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_4yXQ79VRx.id",
+                        "label": "choice_4yXQ79VRx",
+                        "value": "choice_4yXQ79VRx"
+                    },
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_4kp47qECx.id",
+                        "label": "choice_4kp47qECx",
+                        "value": "choice_4kp47qECx"
+                    },
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_4Jo575E0l.id",
+                        "label": "choice_4Jo575E0l",
+                        "value": "choice_4Jo575E0l"
+                    },
+                    {
+                        "id": "sli_NJ-cG5V0x.choice_VyDoX5NAe.id",
+                        "label": "choice_VyDoX5NAe",
+                        "value": "choice_VyDoX5NAe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kp47qECx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NJ-cG5V0x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi certains employeurs préfèrent-ils embaucher un homme plutôt qu'une femme, selon le Centre d'études et de recherche sur les qualifications?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Dans une étude Cereq, les recruteurs affirment que les mères ou les futures mères sont moins disponibles. Ils préfèrent embaucher un homme.",
+            "tips": "Le responsable des ressources humaines d’une grande entreprise interrogée par Cereq a déclaré: \"Nous apprenons quelle organisation organise la personne pour récupérer ses enfants la nuit, leur âge, ce que fait leur mari ...\"",
+            "clue": "8h30-19h30?",
+            "choice_4yXQ79VRx": "Les hommes seraient plus compétents",
+            "choice_4kp47qECx": "Les femmes seraient moins disponibles à cause des enfants",
+            "choice_4Jo575E0l": "Il n'y a pas de préférence entre les hommes et les femmes pour l'embauche",
+            "choice_VyDoX5NAe": "Les femmes mettraient la mauvaise humeur dans les équipes"
+        },
+        "en": {
+            "header": "Why do some employers prefer to hire a man rather than a woman, according to the Center for Studies and Research on Qualifications?",
+            "explanation": "Select the correct answer.",
+            "klf": "In a Cereq study, recruiters claim that mothers or future mothers are less available. They prefer to hire a man.",
+            "tips": "The HR manager of a large company interviewed by the Cereq testifies: \"We learn what organization sets up the person to pick up his children at night, the age of the children, what the husband does ...\"",
+            "clue": "8h30-19h30 ?",
+            "choice_4yXQ79VRx": "Men would be more competent",
+            "choice_4kp47qECx": "Women would be less available because of children",
+            "choice_4Jo575E0l": "There is no preference between men and women for hiring",
+            "choice_VyDoX5NAe": "Women would put a bad mood in the teams"
+        },
+        "de": {
+            "header": "Warum stellen manche Arbeitgeber nach Ansicht des Zentrums für Studien und Qualifikationsforschung lieber einen Mann als eine Frau ein?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In einer Cereq-Studie behaupten Recruiter, dass Mütter oder zukünftige Mütter weniger verfügbar sind. Sie ziehen es vor, einen Mann einzustellen.",
+            "tips": "Der HR-Manager eines großen Unternehmens, das vom Cereq interviewt wurde, sagt aus: \"Wir erfahren, welche Organisation die Person dazu aufruft, ihre Kinder nachts abzuholen, das Alter der Kinder, was der Ehemann tut ...\"",
+            "clue": "8h30-19h30?",
+            "choice_4yXQ79VRx": "Männer wären kompetenter",
+            "choice_4kp47qECx": "Frauen wären aufgrund von Kindern weniger verfügbar",
+            "choice_4Jo575E0l": "Es gibt keine Präferenz zwischen Männern und Frauen für die Einstellung",
+            "choice_VyDoX5NAe": "Frauen würden schlechte Laune in die Teams bringen"
+        },
+        "es": {
+            "header": "Why do some employers prefer to hire a man rather than a woman, according to the Centre for Studies and Research on Qualifications?",
+            "explanation": "Select the correct answer.",
+            "klf": "In a Cereq study, recruiters say that mothers or future mothers are less available. They therefore prefer to hire a man.",
+            "tips": "The HR manager of a large company interviewed by Cereq says: \"Companies want to know what arrangements have been made to pick up the children in the evening, the age of children, what the husband does, etc.\"",
+            "choice_4yXQ79VRx": "Men are more competent",
+            "choice_4kp47qECx": "Women are less available because of children",
+            "choice_4Jo575E0l": "There is no preference between men and women in hiring",
+            "choice_VyDoX5NAe": "Women create a bad atmosphere in teams",
+            "clue": "8.30am - 7.30pm?"
+        },
+        "zh": {
+            "header": "根据资格研究和研究中心的说法，为什么有些雇主更愿意雇用男性而不是女性？",
+            "explanation": "选择正确的答案。",
+            "klf": "在Cereq研究中，招聘人员表示母亲或未来母亲的可用性较低。因此，他们更愿意雇用一名男子。",
+            "tips": "Cereq采访的一家大公司的人力资源经理说：“公司想知道晚上接孩子的安排，孩子的年龄，丈夫的行为等等。”",
+            "clue": "上午8:30  - 晚上7:30？",
+            "choice_4yXQ79VRx": "男人更有能力",
+            "choice_4kp47qECx": "由于孩子，妇女的可用性较低",
+            "choice_4Jo575E0l": "男性和女性在招聘方面没有偏好",
+            "choice_VyDoX5NAe": "女性在团队中营造了糟糕的氛围"
+        }
+    }
+}

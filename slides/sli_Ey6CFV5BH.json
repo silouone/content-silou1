@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-13T09:14:16.969Z",
+            "updatedAt": "2018-10-12T15:07:42.905Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJmCaWFVS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Ey6CFV5BH",
+        "universalRef": "sli_Ey6CFV5BH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel82683",
+                        "items": [
+                            {
+                                "text": "choice_EJl-0mANIS",
+                                "value": "choice_EJl-0mANIS"
+                            },
+                            {
+                                "text": "choice_VkbOA7AEIr",
+                                "value": "choice_VkbOA7AEIr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel82683",
+                        "answers": [
+                            "choice_VkbOA7AEIr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous avez reçu un commentaire nuancé de la part d'un client, comportant à la fois un compliment sur votre produit et une critique sur votre service après-vente. Que devez-vous faire en premier lieu ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Si vous recevez un commentaire négatif ou mitigé, soulignez d'abord les points positifs avant de répondre à la critique formulée. Ainsi, vous estomperez les mauvaises impressions.",
+            "tips": "Sur Facebook, remercier un utilisateur pour son commentaire peut aussi passer par un simple clic sur le bouton \"J'aime\".",
+            "clue": "D'abord le verre à moitié plein !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous devez commencer par {{sel82683}}",
+            "choice_EJl-0mANIS": "contrer sa critique.",
+            "choice_VkbOA7AEIr": "souligner les points positifs."
+        },
+        "en": {
+            "header": "You have received a nuanced comment from a customer, with both a compliment on your product and a review of your after-sales service. What should you do in the first place?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "If you receive a negative or mixed comment, first highlight the positives before responding to the criticism. Thus, you will blur the bad impressions.",
+            "tips": "On Facebook, thank a user for his comment can also go through a simple click on the \"Like\" button.",
+            "clue": "First the glass half full!",
+            "template": "You must start with {{sel82683}}",
+            "choice_EJl-0mANIS": "counter his criticism.",
+            "choice_VkbOA7AEIr": "highlight the positives.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie haben einen eher gemischten Kommentar von einem Kunden erhalten, der sowohl ein Kompliment zu Ihrem Produkt als auch eine Kritik an Ihrem Kundenservice beinhaltet. Was solltest du zuerst machen?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Wenn Sie einen negativen oder gemischten Kommentar erhalten, sollten Sie sich zunächst auf das Positive konzentrieren, bevor Sie auf die Kritik reagieren. Auf diese Weise minimieren Sie negative Eindrücke.",
+            "tips": "Auf Facebook können Sie einem Benutzer für seinen Kommentar danken, indem Sie auf den Like-Button klicken.",
+            "clue": "Denken Sie daran, dass das Glas halb voll ist!",
+            "template": "Beginnen Sie mit {{sel82683}}",
+            "choice_EJl-0mANIS": "die Kritik widerlegen.",
+            "choice_VkbOA7AEIr": "konzentriert sich auf die positiven.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "You have received a rather mixed comment from a customer, which includes both a compliment about your product and a criticism of your customer service. What should you do first?",
+            "klf": "If you receive a negative or mixed comment, you should first of all focus on the positives before responding to the criticism. This way you will minimise any negative impressions.",
+            "tips": "On Facebook, you can thank a user for their comment simply by clicking on the “like” button.",
+            "clue": "Remember the glass is half full!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should start by {{sel82683}}",
+            "choice_EJl-0mANIS": "rebutting the criticism.",
+            "choice_VkbOA7AEIr": "focusing on the positives."
+        },
+        "zh": {
+            "header": "您收到了来自客户的相当混杂的评论，其中包括对您的产品的赞美和对您的客户服务的批评。你应该先做什么？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "如果你收到否定或混合评论，你首先应该在回应批评之前关注积极因素。这样，您可以最大限度地减少任何负面展示。",
+            "tips": "在Facebook上，您只需点击“赞”按钮即可感谢用户的评论。",
+            "clue": "记得玻璃杯半满！",
+            "template": "你应该从{{sel82683}}开始",
+            "choice_EJl-0mANIS": "反驳批评。",
+            "choice_VkbOA7AEIr": "专注于积极的一面。",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

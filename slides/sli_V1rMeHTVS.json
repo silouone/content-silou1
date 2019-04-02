@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T12:57:19.783Z",
+            "updatedAt": "2018-10-08T14:49:58.945Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1rMeHTVS",
+        "universalRef": "sli_V1rMeHTVS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1rMeHTVS.choice_Ey6VxB6Vr.id",
+                        "label": "choice_Ey6VxB6Vr",
+                        "value": "choice_Ey6VxB6Vr"
+                    },
+                    {
+                        "id": "sli_V1rMeHTVS.choice_NJ1HeBaNS.id",
+                        "label": "choice_NJ1HeBaNS",
+                        "value": "choice_NJ1HeBaNS"
+                    },
+                    {
+                        "id": "sli_V1rMeHTVS.choice_N1FrlrTVH.id",
+                        "label": "choice_N1FrlrTVH",
+                        "value": "choice_N1FrlrTVH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ey6VxB6Vr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu’est-ce que le Kanban ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le Kanban est un outil provenant de la méthodologie Toyota présenté sous forme de tableau pour mieux se représenter la charge de travail. Il peut prendre une forme aussi bien physique que virtuelle.",
+            "tips": "Selon la méthodologie Kanban dans son application industrielle, la régulation du processus de fabrication est assurée par de simples étiquettes, les « kanban », qui informent chaque poste sur les quantités à produire. Les « kanban » remontent ainsi toute la chaîne, des fournisseurs jusqu'à l’assemblage.",
+            "clue": "Coup d'œil rapide.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey6VxB6Vr": "Un tableau pour visualiser la charge de travail",
+            "choice_NJ1HeBaNS": "Une mindmap pour les journées surchargées",
+            "choice_N1FrlrTVH": "Une méthode digitale de gestion des priorités"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What is a Kanban system?",
+            "klf": "Kanban is a tool that was first used by Toyota. It’s a board that helps you get a good picture of your workload. It can either be a physical whiteboard or a virtual, digital board.",
+            "tips": "When used in industry, Kanban can help fine-tune the manufacturing process. Simple Kanban cards can be used to let each workstation know the quantities that need to be produced. In fact, Kanban cards can be used throughout the manufacturing chain, starting with suppliers and ending up on the assembly line.",
+            "clue": "Rapid eye movement.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey6VxB6Vr": "A board for visualising workload",
+            "choice_NJ1HeBaNS": "A mind map for busy days",
+            "choice_N1FrlrTVH": "A digital prioritisation method"
+        }
+    }
+}

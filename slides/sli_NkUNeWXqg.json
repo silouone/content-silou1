@@ -1,0 +1,120 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:20:32.704Z",
+            "updatedAt": "2016-08-23T10:37:00.939Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NkUNeWXqg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NkUNeWXqg.choice_4y1Ce~7cx.id",
+                        "label": "choice_4y1Ce~7cx",
+                        "value": "choice_4y1Ce~7cx"
+                    },
+                    {
+                        "id": "sli_NkUNeWXqg.choice_N1UAeW7qe.id",
+                        "label": "choice_N1UAeW7qe",
+                        "value": "choice_N1UAeW7qe"
+                    },
+                    {
+                        "id": "sli_NkUNeWXqg.choice_VyCAgbm5l.id",
+                        "label": "choice_VyCAgbm5l",
+                        "value": "choice_VyCAgbm5l"
+                    },
+                    {
+                        "id": "sli_NkUNeWXqg.choice_4kDJZ~7qe.id",
+                        "label": "choice_4kDJZ~7qe",
+                        "value": "choice_4kDJZ~7qe"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1UAeW7qe",
+                        "choice_VyCAgbm5l"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NkUNeWXqg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Une position est libérée dans une entreprise. Laura et Maxime peuvent postuler mais ne possèdent que 60% des compétences requises. En général, comment vont-ils réagir?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les femmes sont souvent leur meilleur ennemi: faute de confiance en elles, elles se résolvent d'elles-mêmes, voire se démènent. Les statistiques montrent que pour le même poste, un homme postulera même s'il ne dispose que de 50% des compétences requises, tandis qu'une femme ne répond que si elle se sent parfaitement maîtriser le poste.",
+            "tips": "Cela est également vrai pour les compétitions académiques, où les femmes sont 30 à 40% moins que les hommes (Sciences Po, 2014).",
+            "clue": "Autocensure.",
+            "choice_4y1Ce~7cx": "Postulat de Laura",
+            "choice_N1UAeW7qe": "Maxime postule",
+            "choice_VyCAgbm5l": "Laura ne s'applique pas",
+            "choice_4kDJZ~7qe": "Maxime ne s'applique pas"
+        },
+        "en": {
+            "header": "A position is released in a company. Laura and Maxime can apply but only have 60% of the required skills. In general, how will they react?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Women are often their best enemy: for lack of confidence, they self-solve or even scuttle. The statistics show that for the same position, a man will apply even if he has only 50% of skills required while a woman will respond only if she feels perfectly master the position.",
+            "tips": "This is also true for academic competitions, where women are 30% to 40% less than men (Sciences Po, 2014).",
+            "clue": "Self-censorship.",
+            "choice_4y1Ce~7cx": "Laura postulate",
+            "choice_N1UAeW7qe": "Maxime postulates",
+            "choice_VyCAgbm5l": "Laura does not apply",
+            "choice_4kDJZ~7qe": "Maxime does not apply"
+        },
+        "de": {
+            "header": "Eine Position wird in einem Unternehmen freigegeben. Laura und Maxime können sich bewerben, verfügen jedoch nur über 60% der erforderlichen Fähigkeiten. Wie werden sie im Allgemeinen reagieren?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Frauen sind oft ihr bester Feind: Aus Mangel an Selbstbewusstsein lösen sie sich selbst auf oder schwanken sogar. Die Statistiken zeigen, dass ein Mann für dieselbe Position auch dann gilt, wenn er nur 50% der erforderlichen Fähigkeiten benötigt, während eine Frau nur dann reagiert, wenn sie die Position perfekt beherrscht.",
+            "tips": "Dies gilt auch für akademische Wettbewerbe, bei denen Frauen 30% bis 40% weniger als Männer sind (Sciences Po, 2014).",
+            "clue": "Selbstzensur.",
+            "choice_4y1Ce~7cx": "Laura postuliert",
+            "choice_N1UAeW7qe": "Maxime postuliert",
+            "choice_VyCAgbm5l": "Laura bewirbt sich nicht",
+            "choice_4kDJZ~7qe": "Maxime gilt nicht"
+        },
+        "es": {
+            "header": "A vacancy has arisen in a company. Laura and Maxime can apply but have only 60% of the required skills. In general, how will they react?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Women are often their own worst enemy: through lack of confidence, they limit themselves, or even sabotage themselves. Statistics show that for the same position, a man will apply even if he has 50% of the required skills, whereas a woman will respond if she feels she can perfectly perform the role.",
+            "tips": "This also applies to academic exams, for which 30% to 40% fewer women apply  than men. (Study Sciences Po, 2014)",
+            "choice_4y1Ce~7cx": "Laura applies",
+            "choice_N1UAeW7qe": "Maxime applies",
+            "choice_VyCAgbm5l": "Laura does not apply",
+            "choice_4kDJZ~7qe": "Maxime does not apply",
+            "clue": "Self-sabotage"
+        },
+        "zh": {
+            "header": "公司出现了空缺。劳拉和马克西姆可以申请，但只有60％的所需技能。一般来说，他们将如何反应？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "女人往往是自己最大的敌人：由于缺乏自信，他们限制自己，甚至破坏自己。统计数据显示，对于相同的位置，即使他有50％的所需技能，男性也会申请，而如果女性认为自己能够完美地发挥作用，她就会回应。",
+            "tips": "这也适用于学术考试，其中女性申请比男性少30％至40％。 （Study Sciences Po，2014）",
+            "clue": "自我破坏",
+            "choice_4y1Ce~7cx": "劳拉适用",
+            "choice_N1UAeW7qe": "Maxime适用",
+            "choice_VyCAgbm5l": "劳拉不适用",
+            "choice_4kDJZ~7qe": "Maxime不适用"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-22T09:32:07.947Z",
+            "updatedAt": "2018-06-22T12:37:50.602Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41RwzC2RE",
+        "universalRef": "sli_41RwzC2RE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_V12Cf0nCE"
+            ],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel53558",
+                        "label": "label_Vki~2W0CN",
+                        "items": [
+                            {
+                                "text": "choice_N1esbhZ004",
+                                "value": "choice_N1esbhZ004"
+                            },
+                            {
+                                "text": "choice_VkbjbhZRAV",
+                                "value": "choice_VkbjbhZRAV"
+                            },
+                            {
+                                "text": "choice_4kAX3~RAE",
+                                "value": "choice_4kAX3~RAE"
+                            },
+                            {
+                                "text": "choice_VyzphbAR4",
+                                "value": "choice_VyzphbAR4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel53558",
+                        "answers": [
+                            "choice_N1esbhZ004"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment s'appelle cette technique qui peut permettre de vous aider à brainstormer en mode mind mapping ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "On peut brainstormer en mode mapping à l'aide de la technique du soleil. Elle consiste à noter le thème du brainstorming au centre de votre carte et à générer une première salve d’idées en les notant sur les rayons principaux. Le but est ensuite de rebondir sur ces idées pour en trouver de nouvelles, en les notant à chaque fois sur des sous-rayons.",
+            "tips": "Développé par Mark Wogan, la crystal map est un outil visuel qui permet de disposer d'une vue d'ensemble. Cette map se compose de trois cercles concentriques offrant ainsi une possibilité de présenter ses objectifs ou des informations d'une façon unifiée.",
+            "clue": "C'est une belle journée.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La technique du {{sel53558}} est un allié précieux pour brainstormer sur un sujet grâce au mind mapping.",
+            "label_VJxfjGRnRV": " ",
+            "placeholder_VyZfjzCh0N": " ",
+            "label_Vki~2W0CN": " ",
+            "choice_N1esbhZ004": "soleil",
+            "choice_VkbjbhZRAV": "vent",
+            "choice_4kAX3~RAE": "carré",
+            "choice_VyzphbAR4": "Lego"
+        },
+        "en": {
+            "explanation": "Choose the right answer from the drop-down menu.",
+            "header": "What's the name of the technique that helps you brainstorm as part of your mind mapping process?",
+            "klf": "The “sun” technique is a good way to integrate brainstorming into a mind mapping session. It involves noting your brainstorming theme at the centre of your map before generating an initial burst of ideas, which are then written down on the main rays. The aim is to bounce your thoughts off this first volley so that you then come up with a new round of ideas. Each idea that you come up with should be noted down on second level of rays.",
+            "tips": "Crystal maps are a visual resource developed by Mark Wogan to help you get an overarching view of an issue. They’re made up of three concentric circles which allow you to present your objectives or information in a unified way.",
+            "clue": "What a beautiful day!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The {{sel53558}} technique is a great way to brainstorm a subject using mind mapping skills.",
+            "label_VJxfjGRnRV": " ",
+            "placeholder_VyZfjzCh0N": " ",
+            "label_Vki~2W0CN": " ",
+            "choice_N1esbhZ004": "sun",
+            "choice_VkbjbhZRAV": "wind",
+            "choice_4kAX3~RAE": "square",
+            "choice_VyzphbAR4": "Lego"
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-21T10:02:47.045Z",
+            "updatedAt": "2018-09-03T17:07:13.317Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41BgCWKNS"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NkJpWREUB",
+        "universalRef": "sli_NkJpWREUB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel29523",
+                        "items": [
+                            {
+                                "text": "choice_4JlZaZCVIH",
+                                "value": "choice_4JlZaZCVIH"
+                            },
+                            {
+                                "text": "choice_4kbWabC48r",
+                                "value": "choice_4kbWabC48r"
+                            },
+                            {
+                                "text": "choice_4kq0~C4US",
+                                "value": "choice_4kq0~C4US"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel29523",
+                        "answers": [
+                            "choice_4kq0~C4US"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "NON Quelles sont les deux grandes qualités qui caractérisent, en règle générale, un influenceur ?",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "C'est en raison de sa personnalité et de son expertise sur un type de sujet ou de produits qu'un influenceur réussit à réunir une communauté autour de lui.",
+            "tips": "En 2009, de grandes marques françaises se tournent vers Kenza Sadoun El Glaoui, qui a ouvert un blog mode un an plus tôt. Aujourd'hui, cette dernière comptabilise 148 000 abonnés sur Instagram et se classe parmi les influenceurs mode français les plus en vue (chiffre août 2018). (https://photo.capital.fr/les-10-instagrameurs-a-suivre-pour-etre-a-la-pointe-de-la-mode-30502#reead-526676 )",
+            "clue": "Radoter.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Un influenceur a deux choses à proposer : sa personnalité et son {{sel29523}}.",
+            "choice_4JlZaZCVIH": "jeune âge",
+            "choice_4kbWabC48r": "capital financier",
+            "choice_4kq0~C4US": "expertise"
+        },
+        "en": {
+            "header": "NO What are the two great qualities that characterize, as a rule, an influencer?",
+            "explanation": "Enter your answer or select the correct answer in the drop-down menu (s).",
+            "klf": "It is because of his personality and his expertise on a type of subject or products that an influencer manages to gather a community around him.",
+            "tips": "In 2009, major French brands turn to Kenza Sadoun El Glaoui, who opened a fashion blog a year earlier. Today, the latter counts 148,000 subscribers on Instagram and ranks among the most influential French fashion influencers (August 2018 figure). (https://photo.capital.fr/les-10-instagrameurs-a-suivre-pour-a-at-the-pointe-de-la-mode-30502#reead-526676)",
+            "clue": "Radoter",
+            "template": "An influencer has two things to offer: his personality and his {{sel29523}}.",
+            "choice_4JlZaZCVIH": "young age",
+            "choice_4kbWabC48r": "financial capital",
+            "choice_4kq0~C4US": "expertise",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "NEIN Was sind die zwei großen Eigenschaften, die in der Regel einen Influencer auszeichnen?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Aufgrund seiner Persönlichkeit und seines Fachwissens in Bezug auf eine Art Thema oder Produkte schafft es ein Influencer, eine Gemeinschaft um sich zu sammeln.",
+            "tips": "2009 wenden sich große französische Marken an Kenza Sadoun El Glaoui, der ein Jahr zuvor einen Modeblog eröffnete. Letzteres zählt heute 148.000 Abonnenten auf Instagram und zählt zu den einflussreichsten Einflüssen der französischen Mode (Stand August 2018). (https://photo.capital.fr/les-10-instagrameurs-a-suivre-pour-a-at-the-pointe-de-la-mode-30502#reead-526676)",
+            "clue": "Radoter",
+            "template": "Ein Influencer hat zwei Dinge zu bieten: seine Persönlichkeit und seine {{sel29523}}.",
+            "choice_4JlZaZCVIH": "junges Alter",
+            "choice_4kbWabC48r": "finanzielles Kapital",
+            "choice_4kq0~C4US": "Sachverstand",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "NON Quelles sont les deux grandes qualités qui caractérisent, en règle générale, un influenceur ?",
+            "klf": "C'est en raison de sa personnalité et de son expertise sur un type de sujet ou de produits qu'un influenceur réussit à réunir une communauté autour de lui.",
+            "tips": "En 2009, de grandes marques françaises se tournent vers Kenza Sadoun El Glaoui, qui a ouvert un blog mode un an plus tôt. Aujourd'hui, cette dernière comptabilise 148 000 abonnés sur Instagram et se classe parmi les influenceurs mode français les plus en vue (chiffre août 2018). (https://photo.capital.fr/les-10-instagrameurs-a-suivre-pour-etre-a-la-pointe-de-la-mode-30502#reead-526676 )",
+            "clue": "Radoter.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Un influenceur a deux choses à proposer : sa personnalité et son {{sel29523}}.",
+            "choice_4JlZaZCVIH": "jeune âge",
+            "choice_4kbWabC48r": "capital financier",
+            "choice_4kq0~C4US": "expertise"
+        },
+        "zh": {
+            "header": "否通常，影响者的两大特质是什么？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "正是由于他的个性和他对一类主题或产品的专业知识，一个影响者设法聚集在他周围的社区。",
+            "tips": "2009年，法国主要品牌转向Kenza Sadoun El Glaoui，他在一年前开设了一家时尚博客。如今，后者在Instagram上拥有148,000名订阅者，并且是最具影响力的法国时尚影响者之一（2018年8月数字）。 （Https://photo.capital.fr/les-10-instagrameurs-a-suivre-pour-etre-a-la-pointe-de-la-mode-30502#reead-526676）",
+            "clue": "Radoter。",
+            "template": "影响者有两件事要提供：他的性格和他的{{sel29523}}。",
+            "choice_4JlZaZCVIH": "年轻",
+            "choice_4kbWabC48r": "金融资本",
+            "choice_4kq0~C4US": "专门知识",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

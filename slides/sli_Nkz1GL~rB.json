@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T15:02:27.255Z",
+            "updatedAt": "2018-10-08T15:04:52.321Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Nkz1GL~rB",
+        "universalRef": "sli_Nkz1GL~rB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nkz1GL~rB.choice_4yGef8WrH.id",
+                        "label": "choice_4yGef8WrH",
+                        "value": "choice_4yGef8WrH"
+                    },
+                    {
+                        "id": "sli_Nkz1GL~rB.choice_VkweMIZSS.id",
+                        "label": "choice_VkweMIZSS",
+                        "value": "choice_VkweMIZSS"
+                    },
+                    {
+                        "id": "sli_Nkz1GL~rB.choice_NyJZzUWBB.id",
+                        "label": "choice_NyJZzUWBB",
+                        "value": "choice_NyJZzUWBB"
+                    },
+                    {
+                        "id": "sli_Nkz1GL~rB.choice_E1r~zIZHr.id",
+                        "label": "choice_E1r~zIZHr",
+                        "value": "choice_E1r~zIZHr"
+                    },
+                    {
+                        "id": "sli_Nkz1GL~rB.choice_Nko~z8WSH.id",
+                        "label": "choice_Nko~z8WSH",
+                        "value": "choice_Nko~z8WSH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yGef8WrH",
+                        "choice_VkweMIZSS",
+                        "choice_NyJZzUWBB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les bénéfices du télétravail ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Le télétravail répond à une forte demande des collaborateurs d’autonomie et de gain de productivité dans leur organisation : économie en temps de transport, gain de concentration, réduction du stress et de la fatigue. C'est donc aussi un enjeu d'attractivité et de bien-être.",
+            "tips": "Selon une étude menée par Jabra en 2018, au Royaume-Uni, près d’une demi-journée de chaque jour travaillé s’effectue déjà en dehors du bureau, surtout à cause des déplacements ou réunions à l’extérieur.",
+            "clue": "Le chiffre d'affaires dépend de beaucoup d'autres facteurs...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yGef8WrH": "Il permet de mieux se concentrer sur les tâches à accomplir",
+            "choice_VkweMIZSS": "Il augmente la productivité de l’entreprise ",
+            "choice_NyJZzUWBB": "Il favorise l’épanouissement des collaborateurs",
+            "choice_E1r~zIZHr": "Il augmente nécessairement le chiffre d’affaires de l’entreprise",
+            "choice_Nko~z8WSH": "Il diminue les coûts salariaux"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "What are the benefits of remote working?",
+            "klf": "Remote working responds to a need for increased productivity in businesses as well as a demand for higher levels of independence from staff. Remote working means you save on travel time, employees can focus more, they’re less stressed and less tired. So it’s both appealing and good for your well-being.",
+            "tips": "According to a 2018 study conducted by Jabra, UK workers already spend almost half of each working day outside the office, mainly due to business trips and external meetings.",
+            "clue": "Turnover is dependent on so many other factors…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yGef8WrH": "You can focus more on the work you need to do",
+            "choice_VkweMIZSS": "It increases a company’s productivity ",
+            "choice_NyJZzUWBB": "Staff feel more fulfilled",
+            "choice_E1r~zIZHr": "It increases revenue ",
+            "choice_Nko~z8WSH": "It reduces salary costs"
+        }
+    }
+}

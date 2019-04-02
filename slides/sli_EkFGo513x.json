@@ -1,0 +1,130 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T09:10:06.626Z",
+            "updatedAt": "2017-12-08T11:25:48.438Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EkFGo513x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkFGo513x.choice_VJ-A35k3x.id",
+                        "label": "choice_VJ-A35k3x",
+                        "value": "choice_VJ-A35k3x"
+                    },
+                    {
+                        "id": "sli_EkFGo513x.choice_EykJTcy3x.id",
+                        "label": "choice_EykJTcy3x",
+                        "value": "choice_EykJTcy3x"
+                    },
+                    {
+                        "id": "sli_EkFGo513x.choice_NJly1691hx.id",
+                        "label": "choice_NJly1691hx",
+                        "value": "choice_NJly1691hx"
+                    },
+                    {
+                        "id": "sli_EkFGo513x.choice_N1l1pqJne.id",
+                        "label": "choice_N1l1pqJne",
+                        "value": "choice_N1l1pqJne"
+                    },
+                    {
+                        "id": "sli_EkFGo513x.choice_N1~kTc12l.id",
+                        "label": "choice_N1~kTc12l",
+                        "value": "choice_N1~kTc12l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EykJTcy3x",
+                        "choice_N1l1pqJne",
+                        "choice_N1~kTc12l"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EkFGo513x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment peut-on expliquer les écarts de salaire entre hommes et femmes ? (hors \"discrimination pure\", selon les mots de l'Observatoire de l'inégalité)",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "L'activité moindre des femmes peut expliquer une partie des écarts salariaux. En France, 31% des actives sont à temps partiel, contre seulement 7% des hommes. Ceux-ci touchent également plus de primes et occupent davantage de postes à responsabilité.",
+            "tips": "D'après une étude d'Alternatives Économiques, en 2013, 30% des salariés à temps partiel déclaraient vouloir travailler davantage. Parmi eux, quatre sur cinq étaient des femmes.",
+            "clue": "Ce n'est pas une histoire de cursus universitaire.",
+            "choice_VJ-A35k3x": "Elles sont moins compétentes",
+            "choice_EykJTcy3x": "Elles travaillent moins",
+            "choice_NJly1691hx": "Elles sont moins diplômées",
+            "choice_N1l1pqJne": "Elles touchent moins de primes",
+            "choice_N1~kTc12l": "Elles occupent moins de postes à responsabilité"
+        },
+        "en": {
+            "header": "How can we explain the pay gap between men and women? (apart from \"pure discrimination\", in the words of the Observatory of Inequality)",
+            "explanation": "Select the correct answers.",
+            "klf": "The lower activity of women may explain some of the wage gaps. In France, 31% of workers are part-time, compared to only 7% of men. They also earn more bonuses and more positions of responsibility.",
+            "tips": "According to an Economic Alternatives study, in 2013, 30% of part-time employees said they wanted to work more. Of these, four out of five were women.",
+            "clue": "This is not a history of university studies.",
+            "choice_VJ-A35k3x": "They are less competent",
+            "choice_EykJTcy3x": "They work less",
+            "choice_NJly1691hx": "They are less qualified",
+            "choice_N1l1pqJne": "They receive less premiums",
+            "choice_N1~kTc12l": "They hold fewer positions of responsibility"
+        },
+        "de": {
+            "header": "Wie lässt sich das Lohngefälle zwischen Männern und Frauen erklären? (abgesehen von \"reiner Diskriminierung\", in den Worten der Beobachtungsstelle für Ungleichheit)",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Das niedrigere Beschäftigungsniveau von Frauen könnte einen Teil des Lohngefälles erklären. In Frankreich sind 31% der erwerbstätigen Frauen Teilzeit, verglichen mit nur 7% der Männer. Sie erhalten auch mehr Prämien und nehmen mehr Verantwortungspositionen ein.",
+            "tips": "Laut einer Studie von Economic Alternatives aus dem Jahr 2013 gaben 30% der Teilzeitbeschäftigten an, mehr arbeiten zu wollen. Davon waren vier von fünf Frauen.",
+            "clue": "Dies ist kein universitätsgeschichtlicher Kurs.",
+            "choice_VJ-A35k3x": "Sie sind weniger kompetent",
+            "choice_EykJTcy3x": "Sie arbeiten weniger",
+            "choice_NJly1691hx": "Sie sind weniger gebildet",
+            "choice_N1l1pqJne": "Sie erhalten weniger Bonusse",
+            "choice_N1~kTc12l": "Sie nehmen weniger verantwortungsvolle Positionen ein"
+        },
+        "es": {
+            "header": "How can the wage gap between men and women be explained? (apart from \"pure discrimination\", in the words of the Observatory of Inequality)",
+            "explanation": "Select the correct answers.",
+            "klf": "The lower level of female employment may explain part of the wage gap. In France, 31% of employed women are part-time, compared to only 7% of men. They also receive more bonuses and occupy more positions of responsibility.",
+            "tips": "According to an Economic Alternatives study in 2013, 30% of part-time employees said they wanted to work more. Of these, four out of five were women.",
+            "choice_VJ-A35k3x": "They are less competent",
+            "choice_EykJTcy3x": "They work less",
+            "choice_NJly1691hx": "They are less educated",
+            "choice_N1l1pqJne": "They receive fewer bonuses",
+            "choice_N1~kTc12l": "They occupy fewer positions of responsibility",
+            "clue": "This is not a university history course."
+        },
+        "zh": {
+            "header": "如何解释男女之间的工资差距？ （除了“纯粹的歧视”，用不平等观察站的话来说）",
+            "explanation": "选择正确的答案。",
+            "klf": "较低的女性就业水平可以解释部分工资差距。在法国，31％的就业女性是兼职女性，而男性只有7％。他们还获得更多奖金并担任更多责任。",
+            "tips": "根据2013年经济替代方案的一项研究，30％的兼职员工表示他们希望更多地工作。其中五分之四是女性。",
+            "clue": "这不是大学历史课程。",
+            "choice_VJ-A35k3x": "他们不太称职",
+            "choice_EykJTcy3x": "他们工作少",
+            "choice_NJly1691hx": "他们受教育程度较低",
+            "choice_N1l1pqJne": "他们获得的奖金更少",
+            "choice_N1~kTc12l": "他们占据的职责较少"
+        }
+    }
+}

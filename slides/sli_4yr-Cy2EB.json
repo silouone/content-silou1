@@ -1,0 +1,112 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-02T13:03:39.852Z",
+            "updatedAt": "2018-10-12T14:53:42.777Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek5ipWtVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yr-Cy2EB",
+        "universalRef": "sli_4yr-Cy2EB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4yr-Cy2EB.field_Vkzi01nVr.id",
+                        "type": "text",
+                        "name": "inp57224"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp57224",
+                        "answers": [
+                            "choice_4JGMsC1hNH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le social commerce n'est pas qu'un simple outil de vente. Sur quel autre terrain aide-t-il grandement les entreprises ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Le social commerce est un outil de vente, certes, mais il est aussi d'un grand bénéfice pour la relation client. Avec le social commerce, l'entreprise est en effet engagée dans un contact soutenu avec les consommateurs, au travers de la gestion des avis et commentaires laissés.",
+            "tips": "Des entreprises comme Orange ou la Fnac ont créé des comptes spécifiques sur Twitter pour gérer leur service après-vente de manière très réactive.",
+            "clue": "Après-vente.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Plus qu'un simple outil de vente, le social commerce sert aussi la {{inp57224}} client.",
+            "choice_4JGMsC1hNH": "relation"
+        },
+        "en": {
+            "header": "Social commerce is not just a sales tool. On which other ground does it help companies?",
+            "explanation": "Enter your answer.",
+            "klf": "The social commerce is a sales tool, certainly, but it is also of great benefit for the customer relationship. With the social commerce, the company is indeed engaged in a sustained contact with the consumers, through the management of the opinions and comments left.",
+            "tips": "Companies like Orange or Fnac have created specific accounts on Twitter to manage their after-sales service in a very reactive way.",
+            "clue": "After-sales service.",
+            "template": "More than just a sales tool, social commerce also serves the customer {{inp57224}}.",
+            "choice_4JGMsC1hNH": "relation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Social Commerce ist mehr als nur ein Verkaufsinstrument. In welchem ​​anderen Bereich hat es den Unternehmen immens geholfen?",
+            "explanation": "Geben Sie Ihre Antwort ein.",
+            "klf": "Social Commerce ist offensichtlich ein Verkaufsinstrument, es kann jedoch auch sehr nützlich sein, wenn es auf Kundenbeziehungen angewendet wird. Mit Social Commerce steht das Unternehmen in ständigem Kontakt mit Verbrauchern, verwaltet Kundenbewertungen und alle Kommentare, die sie veröffentlichen.",
+            "tips": "Unternehmen wie Orange und Fnac haben spezielle Twitter-Konten eingerichtet, um einen sehr reaktionsschnellen Kundendienst zu bieten.",
+            "clue": "Nach dem Verkauf.",
+            "template": "Social Commerce ist mehr als nur ein Verkaufstool und kann auch beim Kunden {{inp57224}} verwendet werden.",
+            "choice_4JGMsC1hNH": "Beziehungen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Type in your answer.",
+            "header": "Social commerce is more than just a sales tool. In which other area has it been of immense help to businesses?",
+            "klf": "Social commerce is obviously a sales tool, but it can also be immensely useful when applied to customer relations. With social commerce, the company is in constant contact with consumers, managing customer reviews and any comments that they post.",
+            "tips": "Companies such as Orange and Fnac have created specific Twitter accounts to provide a highly responsive after-sales service.",
+            "clue": "After-sales.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Social commerce is more than just a sales tool, and can also be used in customer {{inp57224}} .",
+            "choice_4JGMsC1hNH": "relations"
+        },
+        "zh": {
+            "header": "社交商务不仅仅是一种销售工具。其他领域对企业有多大帮助？",
+            "explanation": "输入你的答案。",
+            "klf": "社交商务显然是一种销售工具，但在应用于客户关系时它也非常有用。通过社交商务，公司与消费者保持联系，管理客户评论以及他们发布的任何评论。",
+            "tips": "Orange和Fnac等公司已经创建了特定的Twitter帐户，以提供高度响应的售后服务。",
+            "clue": "促销过后。",
+            "template": "社交商务不仅仅是一种销售工具，还可以用于客户{{inp57224}}。",
+            "choice_4JGMsC1hNH": "关系",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:23:34.147Z",
+            "updatedAt": "2018-10-08T15:16:56.617Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1GX0uGSB",
+        "universalRef": "sli_E1GX0uGSB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1GX0uGSB.choice_NyXHAdzBB.id",
+                        "label": "choice_NyXHAdzBB",
+                        "value": "choice_NyXHAdzBB"
+                    },
+                    {
+                        "id": "sli_E1GX0uGSB.choice_V1sB0uGHB.id",
+                        "label": "choice_V1sB0uGHB",
+                        "value": "choice_V1sB0uGHB"
+                    },
+                    {
+                        "id": "sli_E1GX0uGSB.choice_NydI0uMSS.id",
+                        "label": "choice_NydI0uMSS",
+                        "value": "choice_NydI0uMSS"
+                    },
+                    {
+                        "id": "sli_E1GX0uGSB.choice_N1bySrkvB.id",
+                        "label": "choice_N1bySrkvB",
+                        "value": "choice_N1bySrkvB"
+                    },
+                    {
+                        "id": "sli_E1GX0uGSB.choice_VJvJrBJvB.id",
+                        "label": "choice_VJvJrBJvB",
+                        "value": "choice_VJvJrBJvB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NydI0uMSS",
+                        "choice_V1sB0uGHB",
+                        "choice_N1bySrkvB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment rendre les résultats de votre veille plus efficaces ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Une veille efficace, c’est aussi analyser, synthétiser et diffuser clairement les informations au sein de votre entreprise afin de mutualiser ses acquis. Présentez les résultats de votre veille de façon claire et concise et optez pour une forme soignée afin que leur lecture soit agréable et accessible. Pensez également à trier les informations obtenues dans des dossiers thématiques sur le court et le plus long terme.",
+            "tips": "La curation de contenu permet de partager sa veille digitale de façon personnalisée. Elle consiste à sélectionner différentes sources d'informations avant de les structurer de façon à rédiger son propre contenu retravaillé.",
+            "clue": "Les 3 C : concis, clair et catégorisé !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyXHAdzBB": "Diffuser les résultats de manière brute à votre équipe",
+            "choice_V1sB0uGHB": "Synthétiser les résultats",
+            "choice_EJW80uGHS": "garder les résultats",
+            "choice_NydI0uMSS": "Faire une présentation soignée des résultats",
+            "choice_N1bySrkvB": "Créer des dossiers thématiques de stockage des informations ",
+            "choice_VJvJrBJvB": "Consacrer une heure par jour à la mise en action concrète des résultats obtenus"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "How can you make the results of your media monitoring more effective?",
+            "klf": "If you want your media monitoring to be effective, you also need to analyse, summarise and clearly communicate your new knowledge across the company, so colleagues can also benefit from the results. Present the results of your monitoring in a clear and concise way and choose an appealing format that makes it easy to read. Also think about separating out information into subject-specific files for short-term and long-term use.",
+            "tips": "“Content curation” allows you to personalise the way in which you share your media monitoring. You select different sources of information and then restructure them so you’re developing your own reworked content.",
+            "clue": "The 3 Cs: concise, clear and categorised!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyXHAdzBB": "By sending all the results to your team just as they are ",
+            "choice_V1sB0uGHB": "By summarising the results",
+            "choice_EJW80uGHS": "garder les résultats",
+            "choice_NydI0uMSS": "By presenting the results in a clear and concise way",
+            "choice_N1bySrkvB": "By creating subject-specific folders where you can store the information ",
+            "choice_VJvJrBJvB": "By spending one hour each day following up on your monitoring results"
+        }
+    }
+}

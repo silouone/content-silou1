@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-15T08:56:56.512Z",
+            "updatedAt": "2016-09-03T15:14:10.528Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4JkrWK55e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel70367",
+                        "label": "label_Nyfj~K95g",
+                        "items": [
+                            {
+                                "text": "choice_4yxfoWtq9g",
+                                "value": "choice_4yxfoWtq9g"
+                            },
+                            {
+                                "text": "choice_4yWzobY5qg",
+                                "value": "choice_4yWzobY5qg"
+                            },
+                            {
+                                "text": "choice_EyXsWF9qg",
+                                "value": "choice_EyXsWF9qg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel70367",
+                        "answers": [
+                            "choice_4yxfoWtq9g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4JkrWK55e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle expression désigne toutes les discriminations subies par les femmes?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La féministe américaine Kimberle Williams Crenshaw montre que les femmes peuvent subir simultanément d’autres oppressions, telles que le racisme ou la pauvreté. C'est ce qu'elle appelle l'intersectionnalité de la discrimination. Celles-ci doivent donc être appréhendées dans leur ensemble.",
+            "tips": "D'autres termes sont parfois utilisés comme \"interconnectivité\" ou \"identités multiplicatives\" pour désigner ce phénomène de handicaps cumulatifs.",
+            "clue": "Le rond-point des oppressions.",
+            "template": "{{sel70367}}",
+            "label_Nyfj~K95g": " ",
+            "choice_4yxfoWtq9g": "intersectionnalité",
+            "choice_4yWzobY5qg": "Cumulabilité",
+            "choice_EyXsWF9qg": "Multi-oppressivité"
+        },
+        "en": {
+            "header": "What expression refers to all the discriminations suffered by women?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "American feminist Kimberle Williams Crenshaw shows that women can suffer other oppressions simultaneously, such as racism or poverty. This is what she calls the intersectionality of discrimination. These must therefore be apprehended as a whole.",
+            "tips": "Other terms are sometimes used as \"interconnectivity\" or \"multiplicative identities\" to refer to this phenomenon of cumulative handicaps.",
+            "clue": "The roundabout of oppressions.",
+            "template": "{{sel70367}}",
+            "label_Nyfj~K95g": " ",
+            "choice_4yxfoWtq9g": "intersectionality",
+            "choice_4yWzobY5qg": "Cumulativity",
+            "choice_EyXsWF9qg": "Multi-oppressiveness"
+        },
+        "de": {
+            "header": "Welcher Ausdruck bezieht sich auf alle Diskriminierungen von Frauen?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Die amerikanische Feministin Kimberle Williams Crenshaw zeigt, dass Frauen gleichzeitig andere Unterdrückungen wie Rassismus oder Armut erleiden können. Dies nennt sie die Intersektionalität der Diskriminierung. Diese müssen daher als Ganzes verstanden werden.",
+            "tips": "Andere Ausdrücke werden manchmal als \"Interkonnektivität\" oder \"multiplikative Identitäten\" verwendet, um auf dieses Phänomen kumulativer Nachteile zu verweisen.",
+            "clue": "Der Kreisverkehr der Unterdrückung.",
+            "template": "{{sel70367}}",
+            "label_Nyfj~K95g": " ",
+            "choice_4yxfoWtq9g": "Intersektionalität",
+            "choice_4yWzobY5qg": "Kumulativität",
+            "choice_EyXsWF9qg": "Multi-Unterdrückung"
+        },
+        "es": {
+            "header": "Which term refers to all discrimination suffered by women?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The American feminist Kimberly Williams Crenshaw shows that women can suffer more oppression simultaneously, such as racism or poverty. This is what she calls the intersectionality of discrimination. These must therefore be understood as a whole.",
+            "tips": "Other terms are sometimes used such as \"interconnectivity\" or \"multiplicative identity\" to talk about this accumulated phenomenon of disadvantages.",
+            "template": "{{sel70367}}",
+            "label_Nyfj~K95g": " ",
+            "choice_4yxfoWtq9g": "Intersectionality",
+            "choice_4yWzobY5qg": "Cumulativity",
+            "choice_EyXsWF9qg": "Multi-oppressivity",
+            "clue": "The roundabout of oppression."
+        },
+        "zh": {
+            "header": "哪个术语是指女性遭受的所有歧视？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "美国女权主义者金伯利·威廉姆斯·克伦肖（Kimberly Williams Crenshaw）表明，女性可以同时遭受更多的压迫，比如种族主义或贫困。这就是她所说的歧视的交叉性。因此，必须将它们理解为一个整体。",
+            "tips": "有时使用其他术语，例如“互连”或“乘法身份”来谈论这种累积的缺点现象。",
+            "clue": "压迫的回旋处。",
+            "template": "{{Sel70367}}",
+            "label_Nyfj~K95g": " ",
+            "choice_4yxfoWtq9g": "交叉性",
+            "choice_4yWzobY5qg": "Cumulativity",
+            "choice_EyXsWF9qg": "多oppressivity"
+        }
+    }
+}

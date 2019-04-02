@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-09T15:04:53.730Z",
+            "updatedAt": "2018-10-08T15:08:34.434Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJ1yPHHHH",
+        "universalRef": "sli_NJ1yPHHHH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ1yPHHHH.choice_VyAZDHBSH.id",
+                        "label": "choice_VyAZDHBSH",
+                        "value": "choice_VyAZDHBSH"
+                    },
+                    {
+                        "id": "sli_NJ1yPHHHH.choice_E1PfPSSrB.id",
+                        "label": "choice_E1PfPSSrB",
+                        "value": "choice_E1PfPSSrB"
+                    },
+                    {
+                        "id": "sli_NJ1yPHHHH.choice_EyaMvHrHH.id",
+                        "label": "choice_EyaMvHrHH",
+                        "value": "choice_EyaMvHrHH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyAZDHBSH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel effet bénéfique sur les participants aura la définition d'un objectif clair pour chaque réunion ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les participants seront nécessairement plus motivés et plus enclins à s'impliquer si l'objectif de la réunion est clair et précis. De fait, les échanges seront plus riches et la réunion plus productive.",
+            "tips": "Lors de la réunion, n'hésitez pas à couper court rapidement aux discussions hors-sujet en rappelant les autres moments auxquels ces sujets pourront être abordés.",
+            "clue": "Et en avant !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyAZDHBSH": "Motivation et productivité",
+            "choice_E1PfPSSrB": "Rigueur et discipline",
+            "choice_EyaMvHrHH": "Communication et solidarité"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Clear meeting objectives have a positive effect on participants. Which two words best describe that effect?",
+            "klf": "If the aim of a meeting is clear and precise, attendees will inevitably be more motivated and more inclined to get involved. In fact, discussions will be more in-depth and the meeting more productive.",
+            "tips": "During the meeting, don’t hesitate to cut short any irrelevant discussions and remind participants of other forums where those issues can be raised.",
+            "clue": "Full steam ahead!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyAZDHBSH": "Motivation and productivity",
+            "choice_E1PfPSSrB": "Rigour and discipline",
+            "choice_EyaMvHrHH": "Communication and solidarity"
+        }
+    }
+}

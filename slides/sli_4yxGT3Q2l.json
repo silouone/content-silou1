@@ -1,0 +1,119 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:18:32.080Z",
+            "updatedAt": "2017-12-01T13:48:33.452Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yxGT3Q2l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yxGT3Q2l.choice_E1Pca3Q2e.id",
+                        "label": "choice_E1Pca3Q2e",
+                        "value": "choice_E1Pca3Q2e"
+                    },
+                    {
+                        "id": "sli_4yxGT3Q2l.choice_EJ-q63Xnl.id",
+                        "label": "choice_EJ-q63Xnl",
+                        "value": "choice_EJ-q63Xnl"
+                    },
+                    {
+                        "id": "sli_4yxGT3Q2l.choice_NkF5Tnm2l.id",
+                        "label": "choice_NkF5Tnm2l",
+                        "value": "choice_NkF5Tnm2l"
+                    },
+                    {
+                        "id": "sli_4yxGT3Q2l.choice_Nk99phQnl.id",
+                        "label": "choice_Nk99phQnl",
+                        "value": "choice_Nk99phQnl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJ-q63Xnl",
+                        "choice_NkF5Tnm2l"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4yxGT3Q2l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il fixer dès le départ dans une relation de mentorat ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Une fois que vous avez trouvé votre mentor, fixez les règles de votre relation : qu'attendez-vous de lui ? Quelles sont ses disponibilités ? Mettez-vous d'accord sur les modalités pratiques, comme la fréquence des rendez-vous.",
+            "tips": "Le mentorat n'est pas à sens unique. Pour que la relation fonctionne, vous devez aussi apporter quelque chose à votre mentor, qu'il s'agisse de l'accès à votre propre réseau ou une meilleure connexion au terrain (source : <i>Capital</i>, “Pour accélérer votre carrière, trouvez un mentor”).",
+            "clue": "Ne quantifiez pas trop.",
+            "choice_E1Pca3Q2e": "Un temps fixe pour chaque rendez-vous",
+            "choice_EJ-q63Xnl": "Ce que vous attendez de lui",
+            "choice_NkF5Tnm2l": "La fréquence de vos rencontres",
+            "choice_Nk99phQnl": "Le nombre de contact qu'il peut vous apporter"
+        },
+        "en": {
+            "header": "What does it take from the start in a mentoring relationship?",
+            "explanation": "Select the correct answers.",
+            "klf": "Once you have found your mentor, set the rules for your relationship: what do you expect from him? What are his availabilities? Agree on the practicalities, such as the frequency of appointments.",
+            "tips": "Mentoring is not one way. For the relationship to work, you also need to bring something to your mentor, whether it&#39;s access to your own network or a better connection to the field (source: <i>Capital</i> , &quot;To accelerate your career, find a mentor &quot;).",
+            "clue": "Do not quantify too much.",
+            "choice_E1Pca3Q2e": "A fixed time for each appointment",
+            "choice_EJ-q63Xnl": "What you expect from him",
+            "choice_NkF5Tnm2l": "The frequency of your meetings",
+            "choice_Nk99phQnl": "The number of contacts he can bring you"
+        },
+        "de": {
+            "header": "Was muss von Anfang an in einer Mentoring-Beziehung etabliert werden?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Wenn Sie Ihren Mentor gefunden haben, legen Sie die Regeln für Ihre Beziehung fest: Was erwarten Sie von ihnen? Was ist ihre Verfügbarkeit? Vereinbaren Sie die praktischen Vorkehrungen, z. B. wie oft Sie sich treffen.",
+            "tips": "Mentoring ist nicht einseitig. Damit die Beziehung funktionieren kann, müssen Sie auch etwas beitragen, sei es der Zugang zu Ihrem eigenen Netzwerk oder eine bessere Verbindung zum Feld. (Quelle: Capital, \"Um deine Karriere zu beschleunigen, finde einen Mentor\")",
+            "clue": "Quantifizieren Sie nicht zu viel.",
+            "choice_E1Pca3Q2e": "Eine feste Zeit für jeden Termin",
+            "choice_EJ-q63Xnl": "Was erwarten Sie von ihnen?",
+            "choice_NkF5Tnm2l": "Die Häufigkeit Ihrer Meetings",
+            "choice_Nk99phQnl": "Die Anzahl der Kontakte, die sie Ihnen bringen können"
+        },
+        "es": {
+            "header": "What needs to be established from the outset in a mentoring relationship?",
+            "explanation": "Select the correct answers.",
+            "klf": "Once you have found your mentor, set the rules of your relationship: what do you expect from them? What is their availability? Agree on the practical arrangements, such as how often you meet.",
+            "tips": "Mentoring is not one-sided. For the relationship to work, you must also contribute something, be it access to your own network or a better connection to the field. (Source: Capital, \"To accelerate your career, find a mentor\")",
+            "choice_E1Pca3Q2e": "A fixed time for each appointment",
+            "choice_EJ-q63Xnl": "What you expect from them",
+            "choice_NkF5Tnm2l": "The frequency of your meetings",
+            "choice_Nk99phQnl": "The number of contacts that they can bring you",
+            "clue": "Don't quantify too much."
+        },
+        "zh": {
+            "header": "从一开始就需要在指导关系中建立什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "找到你的导师后，设定你的关系规则：你对他们的期望是什么？他们的可用性是什么？同意实际安排，例如你多久见面一次。",
+            "tips": "指导不是片面的。要使这种关系发挥作用，您还必须做出贡献，无论是访问您自己的网络还是与该领域的更好连接。 （资料来源：资本，“为了加快你的事业，找一个导师”）",
+            "clue": "不要过多量化。",
+            "choice_E1Pca3Q2e": "每次约会的固定时间",
+            "choice_EJ-q63Xnl": "你对他们的期望",
+            "choice_NkF5Tnm2l": "您的会议频率",
+            "choice_Nk99phQnl": "他们可以为您带来的联系人数量"
+        }
+    }
+}

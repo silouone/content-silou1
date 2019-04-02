@@ -1,0 +1,117 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:50:03.979Z",
+            "updatedAt": "2017-12-01T16:49:53.351Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VykVzC72x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel71737",
+                        "label": "label_VkjGmAmne",
+                        "items": [
+                            {
+                                "text": "choice_4JgjGmRX2e",
+                                "value": "choice_4JgjGmRX2e"
+                            },
+                            {
+                                "text": "choice_NyWizXAm2e",
+                                "value": "choice_NyWizXAm2e"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel71737",
+                        "answers": [
+                            "choice_NyWizXAm2e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VykVzC72x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Votre collègue est grincheux, vous le signalez et il vous dit sèchement qu'il est triste et en colère à cause de mauvaises nouvelles. Que peux-tu dire de son quotient émotionnel?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Travis Bradberry, docteur en psychologie, a répertorié 18 signes d’un quotient émotionnel élevé. Parmi ceux-ci, on peut citer un vocabulaire émotionnel diversifié, une capacité à se déconnecter, une susceptibilité moindre ou une tendance au ressentiment.",
+            "tips": "Certains des autres signes d’un quotient émotionnel élevé sont parfois surprenants. Par exemple: \"vous limitez votre consommation de caféine\" ou \"vous dormez suffisamment\".",
+            "clue": "Semble-t-il capable de réguler ses émotions?",
+            "template": "{{sel71737}}",
+            "label_VkjGmAmne": " ",
+            "choice_4JgjGmRX2e": "Il est assez élevé",
+            "choice_NyWizXAm2e": "Il est plutôt faible"
+        },
+        "en": {
+            "header": "Your colleague is grumpy, you point him out and he tells you dryly that he is sad and angry because of bad news. What can you say about his emotional quotient?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Psychology doctor Travis Bradberry has listed 18 signs of a high emotional quotient. Among them, one can quote a diversified emotional vocabulary, an ability to disconnect, a less susceptibility or tendency to be resentful.",
+            "tips": "Some of the other signs of a high emotional quotient are sometimes surprising. For example: \"you limit your caffeine consumption\" or \"you sleep enough\".",
+            "clue": "Does he seem able to regulate his emotions?",
+            "template": "{{sel71737}}",
+            "label_VkjGmAmne": " ",
+            "choice_4JgjGmRX2e": "It is rather high",
+            "choice_NyWizXAm2e": "He is rather weak"
+        },
+        "de": {
+            "header": "Ihr Kollege ist mürrisch, Sie weisen auf ihn hin und er sagt Ihnen trocken, dass er wegen schlechter Nachrichten traurig und wütend ist. Was kannst du über seinen emotionalen Quotienten sagen?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Der Psychologiearzt Travis Bradberry hat 18 Anzeichen eines hohen emotionalen Quotienten aufgelistet. Darunter kann man ein abwechslungsreiches emotionales Vokabular zitieren, die Fähigkeit, sich zu trennen, eine geringere Anfälligkeit oder Neigung, nachtragend zu sein.",
+            "tips": "Einige der anderen Anzeichen eines hohen emotionalen Quotienten sind manchmal überraschend. Zum Beispiel: \"Sie beschränken Ihren Koffeinkonsum\" oder \"Sie schlafen genug\".",
+            "clue": "Scheint er in der Lage, seine Gefühle zu regulieren?",
+            "template": "{{sel71737}}",
+            "label_VkjGmAmne": " ",
+            "choice_4JgjGmRX2e": "Es ist ziemlich hoch",
+            "choice_NyWizXAm2e": "Er ist eher schwach"
+        },
+        "es": {
+            "header": "Your colleague is grumpy, you point this out to them and they explain coldly that some bad news has made them feel sad and angry. What can you say about their emotional intelligence?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Psychologist Dr. Travis Bradberry has developed a list of 18 signs of a high emotional quotient, such as a diverse emotional vocabulary, the capacity to disconnect, a lesser susceptibility or tendency to be resentful.",
+            "tips": "Some of the other signs of a high emotional quotient are sometimes surprising. For example : \"limiting your consumption of caffeine\" or even \"getting enough sleep\".",
+            "template": "{{sel71737}}",
+            "label_VkjGmAmne": " ",
+            "choice_4JgjGmRX2e": "It is rather high",
+            "choice_NyWizXAm2e": "It is rather low",
+            "clue": "Do they seem able to control their feelings?"
+        },
+        "zh": {
+            "header": "你的同事脾气暴躁，你向他们指出这一点，他们冷冷地解释说，一些坏消息使他们感到悲伤和愤怒。你能对他们的情商有什么看法？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "心理学家特拉维斯·布拉德伯里博士已经制定了18个高情绪商数的清单，例如不同的情感词汇，断开的能力，较小的易感性或怨恨的倾向。",
+            "tips": "一些高情绪商的其他迹象有时令人惊讶。例如：“限制你摄入咖啡因”甚至“睡眠充足”。",
+            "clue": "他们似乎能控制自己的感受吗？",
+            "template": "{{Sel71737}}",
+            "label_VkjGmAmne": " ",
+            "choice_4JgjGmRX2e": "它相当高",
+            "choice_NyWizXAm2e": "它相当低"
+        }
+    }
+}

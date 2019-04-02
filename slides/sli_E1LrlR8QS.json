@@ -1,0 +1,85 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:30:23.838Z",
+            "updatedAt": "2018-10-08T14:19:36.152Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1LrlR8QS",
+        "universalRef": "sli_E1LrlR8QS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1LrlR8QS.choice_EJz1~lWrS.id",
+                        "label": "choice_EJz1~lWrS",
+                        "value": "choice_EJz1~lWrS"
+                    },
+                    {
+                        "id": "sli_E1LrlR8QS.choice_VJoJZg~BB.id",
+                        "label": "choice_VJoJZg~BB",
+                        "value": "choice_VJoJZg~BB"
+                    },
+                    {
+                        "id": "sli_E1LrlR8QS.choice_NJ61WlWBr.id",
+                        "label": "choice_NJ61WlWBr",
+                        "value": "choice_NJ61WlWBr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJoJZg~BB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Selon la méthode LIMITER, quelles tâches faut-il éliminer lors d'une journée surchargée ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La méthode LIMITER vous incite à renoncer dès le départ à l’illusion d’effectuer les tâches hors-limite. Vous gagnerez en sérénité… et en satisfaction à la fin de la journée.",
+            "tips": "Le burn-out représente un syndrome d’épuisement à la fois psychique et physique. Son origine réside dans une inadéquation entre une personne et les conditions d’exercice de son travail.",
+            "clue": "Vers l'infini et au-delà !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJz1~lWrS": "Les tâches déplaisantes",
+            "choice_VJoJZg~BB": "Les tâches hors limite",
+            "choice_NJ61WlWBr": "Les tâches urgentes"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "According to the LIMITER method, which tasks should you put to one side on busy workdays?",
+            "klf": "The LIMITER method says that on heavy workdays you shouldn’t entertain tasks you don’t have time for. You’ll be calmer… and have more job satisfaction at the end of the day.",
+            "tips": "Burn-out is a condition that people suffer from when they’re mentally and physically exhausted. It occurs when an employee and their working conditions are incompatible.",
+            "clue": "To infinity and beyond!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJz1~lWrS": "Unpleasant tasks",
+            "choice_VJoJZg~BB": "Tasks you don’t have time for",
+            "choice_NJ61WlWBr": "Urgent tasks"
+        }
+    }
+}

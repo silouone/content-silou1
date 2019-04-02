@@ -1,0 +1,86 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T12:46:17.745Z",
+            "updatedAt": "2018-10-17T12:06:47.248Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NykE9YqES"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyAJD0TOB",
+        "universalRef": "sli_NyAJD0TOB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyAJD0TOB.choice_EJb7PCTdB.id",
+                        "label": "choice_EJb7PCTdB",
+                        "value": "choice_EJb7PCTdB"
+                    },
+                    {
+                        "id": "sli_NyAJD0TOB.choice_EyL7D0auB.id",
+                        "label": "choice_EyL7D0auB",
+                        "value": "choice_EyL7D0auB"
+                    },
+                    {
+                        "id": "sli_NyAJD0TOB.choice_41gVvA6OS.id",
+                        "label": "choice_41gVvA6OS",
+                        "value": "choice_41gVvA6OS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJb7PCTdB",
+                        "choice_41gVvA6OS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les objectifs de la méthode AARRR ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "En offrant des indicateurs-clés très concrets et orientés sur la performance, la méthode AARRR permet d’engager une réflexion globale sur sa stratégie digitale ainsi que sur les points d’optimisation à booster à court terme.",
+            "tips": "L’un des meilleurs exemples du growth hacking appliqué à la méthode AARRR est la stratégie d’Airbnb. Airbnb a su récupérer un grand nombre d’utilisateurs, or ils ont remarqué que leur taux de conversion ne suivait pas la tendance. Et pour cause, les photos des annonces n’étaient pas assez engageantes. Airbnb a donc décidé d’offrir les services de photographes aux utilisateurs proposant une location. En fin de compte, leur taux d’activation a grimpé en flèche.",
+            "clue": "La méthode AARRR est intimement liée au tunnel de conversion.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJb7PCTdB": "Mieux organiser ses actions marketing tout au long du tunnel de conversion ",
+            "choice_EyL7D0auB": "Organiser ses équipes marketing en petits groupes régulièrement renouvelés",
+            "choice_41gVvA6OS": "Obtenir des indicateurs-clés de performance à suivre tout au long du tunnel de conversion"
+        },
+        "en": {
+            "header": "Quels sont les objectifs de la méthode AARRR ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "En offrant des indicateurs-clés très concrets et orientés sur la performance, la méthode AARRR permet d’engager une réflexion globale sur sa stratégie digitale ainsi que sur les points d’optimisation à booster à court terme.",
+            "tips": "L’un des meilleurs exemples du growth hacking appliqué à la méthode AARRR est la stratégie d’Airbnb. Airbnb a su récupérer un grand nombre d’utilisateurs, or ils ont remarqué que leur taux de conversion ne suivait pas la tendance. Et pour cause, les photos des annonces n’étaient pas assez engageantes. Airbnb a donc décidé d’offrir les services de photographes aux utilisateurs proposant une location. En fin de compte, leur taux d’activation a grimpé en flèche.",
+            "clue": "La méthode AARRR est intimement liée au tunnel de conversion.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJb7PCTdB": "Mieux organiser ses actions marketing tout au long du tunnel de conversion ",
+            "choice_EyL7D0auB": "Organiser ses équipes marketing en petits groupes régulièrement renouvelés",
+            "choice_41gVvA6OS": "Obtenir des indicateurs-clés de performance à suivre tout au long du tunnel de conversion"
+        }
+    }
+}

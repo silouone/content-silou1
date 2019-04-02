@@ -1,0 +1,191 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:15:34.971Z",
+            "updatedAt": "2017-12-15T18:29:39.061Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yHV-8Cje"
+            ],
+            "status": "draft",
+            "modifiedBy": "ValentineMichaud",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kUMRi73x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel53095",
+                        "label": "label_41gCZyB0x",
+                        "items": [
+                            {
+                                "text": "choice_NJlxCbyS0x",
+                                "value": "choice_NJlxCbyS0x"
+                            },
+                            {
+                                "text": "choice_VkbxRWySAx",
+                                "value": "choice_VkbxRWySAx"
+                            },
+                            {
+                                "text": "choice_VkiCZyH0e",
+                                "value": "choice_VkiCZyH0e"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel69498",
+                        "label": "label_VJdgf1rAe",
+                        "items": [
+                            {
+                                "text": "choice_EylOlzySCe",
+                                "value": "choice_EylOlzySCe"
+                            },
+                            {
+                                "text": "choice_NkbOefyH0l",
+                                "value": "choice_NkbOefyH0l"
+                            },
+                            {
+                                "text": "choice_Nygbf1B0g",
+                                "value": "choice_Nygbf1B0g"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel53095",
+                        "answers": [
+                            "choice_VkiCZyH0e"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel69498",
+                        "answers": [
+                            "choice_EylOlzySCe"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4kUMRi73x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment s'appelle l'un des tout premiers réseaux professionnels féminins ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "L'un des premiers réseaux professionnels féminins naît en 1919. C'est le <i>National Federation of Business and Professional Women's Clubs</i>. Il lutte pour l'égalité professionnelle entre hommes et femmes.",
+            "tips": "C'est l'avocate Lena Madesin Phillips qui a fondé le premier club. Onze ans plus tard, elle met en place l'<i>International Federation of Business and Professional Women</i>.",
+            "template": "National Federation of {{sel53095}} and Professional {{sel69498}}   's Clubs.",
+            "clue": "L'inverse d'<i>housewives</i>.",
+            "label_NJeOCComne": " ",
+            "placeholder_Vkbd00iXhe": " ",
+            "label_N1eJk1nXhl": " ",
+            "placeholder_E1Zkyyh7nx": " ",
+            "label_41gCZyB0x": " ",
+            "choice_NJlxCbyS0x": "Industrial",
+            "choice_VkbxRWySAx": "Domestic",
+            "choice_VkiCZyH0e": "Business",
+            "label_VJdgf1rAe": " ",
+            "choice_EylOlzySCe": "Women",
+            "choice_NkbOefyH0l": "People",
+            "choice_Nygbf1B0g": "Men"
+        },
+        "en": {
+            "header": "What is one of the very first women's professional networks called?",
+            "explanation": "Select the correct answer from the drop-down menus.",
+            "klf": "One of the first women&#39;s professional networks was born in 1919. It is the <i>National Federation of Business and Professional Women&#39;s Clubs</i> . He fights for professional equality between men and women.",
+            "tips": "It was lawyer Lena Madesin Phillips who founded the first club. Eleven years later, she sets up the <i>International Federation of Business and Professional Women</i> .",
+            "clue": "L'inverse d'<i>housewives</i>.",
+            "template": "National Federation of {{sel53095}} and Professional {{sel69498}}   's Clubs.",
+            "label_41gCZyB0x": " ",
+            "choice_NJlxCbyS0x": "Industrial",
+            "choice_VkbxRWySAx": "Domestic",
+            "choice_VkiCZyH0e": "Business",
+            "label_VJdgf1rAe": " ",
+            "choice_EylOlzySCe": "Women",
+            "choice_NkbOefyH0l": "People",
+            "choice_Nygbf1B0g": "But",
+            "label_NJeOCComne": " ",
+            "placeholder_Vkbd00iXhe": " ",
+            "label_N1eJk1nXhl": " ",
+            "placeholder_E1Zkyyh7nx": " "
+        },
+        "de": {
+            "header": "Wie heißt eines der ersten professionellen Netzwerke für Frauen?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "1919 wurde eines der ersten beruflichen Netzwerke für Frauen gegründet, der Nationale Verband der Business- und Professional-Frauenclubs. Er setzt sich für die Gleichstellung von Männern und Frauen ein",
+            "tips": "Eine Anwältin namens Lena Phillips Madesin gründete den ersten Club. Elf Jahre später gründete sie die International Federation of Business and Professional Women.",
+            "clue": "Das Gegenteil von Hausfrauen.",
+            "template": "Nationaler Verband der {{sel53095}} und der Professional {{sel69498}} Clubs.",
+            "label_41gCZyB0x": " ",
+            "choice_NJlxCbyS0x": "Industriell",
+            "choice_VkbxRWySAx": "Inländisch",
+            "choice_VkiCZyH0e": "Geschäft",
+            "label_VJdgf1rAe": " ",
+            "choice_EylOlzySCe": "Frau",
+            "choice_NkbOefyH0l": "Menschen",
+            "choice_Nygbf1B0g": "aber",
+            "label_NJeOCComne": " ",
+            "placeholder_Vkbd00iXhe": " ",
+            "label_N1eJk1nXhl": " ",
+            "placeholder_E1Zkyyh7nx": " "
+        },
+        "es": {
+            "header": "What is the name of one of the first professional networks for women?",
+            "explanation": "Select the correct answer in the drop-down menus.",
+            "klf": "One of the first professional networks for women, the National Federation of Business and Professional Women's Clubs, was established in 1919. It campaigns for equality between men and women",
+            "tips": "A lawyer called Lena Phillips Madesin founded the first club. Eleven years later, she set up the International Federation of Business and Professional Women.",
+            "template": "National Federation of {{sel53095}} and Professional {{sel69498}} 's Clubs.",
+            "label_NJeOCComne": " ",
+            "placeholder_Vkbd00iXhe": " ",
+            "label_N1eJk1nXhl": " ",
+            "placeholder_E1Zkyyh7nx": " ",
+            "label_41gCZyB0x": " ",
+            "choice_NJlxCbyS0x": "Industrial",
+            "choice_VkbxRWySAx": "Domestic",
+            "choice_VkiCZyH0e": "Business",
+            "label_VJdgf1rAe": " ",
+            "choice_EylOlzySCe": "Women",
+            "choice_NkbOefyH0l": "People",
+            "choice_Nygbf1B0g": "Men",
+            "clue": "The opposite of housewives."
+        },
+        "zh": {
+            "header": "第一个女性职业网络之一的名称是什么？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "全国最早的女性专业网络之一，全国商业和职业女性俱乐部联合会，成立于1919年。它旨在促进男女平等",
+            "tips": "一位叫Lena Phillips Madesin的律师成立了第一家俱乐部。十一年后，她成立了国际商业和职业女性联合会。",
+            "clue": "家庭主妇的反面。",
+            "template": "{{sel53095}}全国联合会和专业{{sel69498}}俱乐部。",
+            "label_41gCZyB0x": " ",
+            "choice_NJlxCbyS0x": "产业",
+            "choice_VkbxRWySAx": "国内",
+            "choice_VkiCZyH0e": "商业",
+            "label_VJdgf1rAe": " ",
+            "choice_EylOlzySCe": "妇女",
+            "choice_NkbOefyH0l": "人",
+            "choice_Nygbf1B0g": "但",
+            "label_NJeOCComne": " ",
+            "placeholder_Vkbd00iXhe": " ",
+            "label_N1eJk1nXhl": " ",
+            "placeholder_E1Zkyyh7nx": " "
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T11:51:33.987Z",
+            "updatedAt": "2018-10-17T11:53:08.643Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyL0KKq4S"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJPOdun-H",
+        "universalRef": "sli_NJPOdun-H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJPOdun-H.choice_Eylu2k5Htr.id",
+                        "label": "choice_Eylu2k5Htr",
+                        "value": "choice_Eylu2k5Htr",
+                        "media": "med_4ydhkqHtB"
+                    },
+                    {
+                        "id": "sli_NJPOdun-H.choice_E1gzTycSKB.id",
+                        "label": "choice_E1gzTycSKB",
+                        "value": "choice_E1gzTycSKB",
+                        "media": "med_Vyf6J9rYB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1gzTycSKB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Un persona se doit d'être le miroir fidèle de son marché ciblé. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un persona ne représente pas nécessairement un client réel. La conception de personas nous invite à réfléchir au parcours client de nos cibles et ainsi à mapper notre production de contenus en fonction des besoins identifiés à chacune des étapes de ce parcours.",
+            "tips": "Pour une étude efficace des personas, il est souvent recommandé de créer des histoires et des anecdotes pour eux. Cela permet de les humaniser davantage et de développer des jeux de rôles autour de leurs préoccupations, leurs besoins et leur parcours client.",
+            "clue": "L'idée est d'aiguiller plutôt que de copier.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eylu2k5Htr": "Vrai",
+            "choice_E1gzTycSKB": "Faux"
+        },
+        "en": {
+            "header": "Un persona se doit dêtre le miroir fidèle de son marché ciblé. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un persona ne représente pas nécessairement un client réel. La conception de personas nous invite à réfléchir au parcours client de nos cibles et ainsi à mapper notre production de contenus en fonction des besoins identifiés à chacune des étapes de ce parcours.",
+            "tips": "Pour une étude efficace des personas, il est souvent recommandé de créer des histoires et des anecdotes pour eux. Cela permet de les humaniser davantage et de développer des jeux de rôles autour de leurs préoccupations, leurs besoins et leur parcours client.",
+            "clue": "Lidée est daiguiller plutôt que de copier.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eylu2k5Htr": "Vrai",
+            "choice_E1gzTycSKB": "Faux"
+        }
+    }
+}

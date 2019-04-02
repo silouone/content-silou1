@@ -1,0 +1,181 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:40:01.637Z",
+            "updatedAt": "2017-12-04T17:55:31.659Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJPfUoXhg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel84816",
+                        "label": "label_V1PzjMOzZ",
+                        "items": [
+                            {
+                                "text": "choice_NJgPziGOMZ",
+                                "value": "choice_NJgPziGOMZ"
+                            },
+                            {
+                                "text": "choice_41~PzjMOz~",
+                                "value": "choice_41~PzjMOz~"
+                            },
+                            {
+                                "text": "choice_EJmXoMdMW",
+                                "value": "choice_EJmXoMdMW"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel30129",
+                        "label": "label_4JdGjGuGb",
+                        "items": [
+                            {
+                                "text": "choice_Ekgdfjz-z~",
+                                "value": "choice_Ekgdfjz-z~"
+                            },
+                            {
+                                "text": "choice_4kbOfjfOz~",
+                                "value": "choice_4kbOfjfOz~"
+                            },
+                            {
+                                "text": "choice_4y~viMuM~",
+                                "value": "choice_4y~viMuM~"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel84816",
+                        "answers": [
+                            "choice_41~PzjMOz~"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel30129",
+                        "answers": [
+                            "choice_Ekgdfjz-z~"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VJPfUoXhg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le nom de la stratégie de négociation développée par les chercheurs de Harvard?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Il est important de voir votre interlocuteur non pas comme un adversaire mais comme un partenaire. En effet, le but d'une négociation est d'arriver à une conclusion bénéfique pour les deux parties, \"gagnant-gagnant\". Nous parlons de stratégie de gains mutuels. Pour cela, vous devez également ressentir de l'empathie envers l'autre.",
+            "tips": "Une autre expression est parfois utilisée, celle de \"négociation raisonnée\".",
+            "clue": "Tout le monde trouve son compte.",
+            "template": "La stratégie de {{sel84816}} {{sel30129}}",
+            "label_V1PzjMOzZ": " ",
+            "choice_NJgPziGOMZ": "les avantages",
+            "choice_41~PzjMOz~": "des gains",
+            "choice_EJmXoMdMW": "résultats",
+            "label_4JdGjGuGb": " ",
+            "choice_Ekgdfjz-z~": "mutuel",
+            "choice_4kbOfjfOz~": "gagnants",
+            "choice_4y~viMuM~": "réussi",
+            "label_Ekx5cLiQhl": " ",
+            "placeholder_Vybc58iX3e": " "
+        },
+        "en": {
+            "header": "What is the name of the negotiation strategy developed by Harvard researchers?",
+            "explanation": "Select the correct answer from the drop-down menus.",
+            "klf": "It is important to see your interlocutor not as an adversary but as a partner. Indeed, the purpose of a negotiation is to reach a conclusion beneficial to both, \"win-win\". We talk about mutual gains strategy. For that, you must also feel empathy towards the other.",
+            "tips": "Another expression is sometimes used, that of \"reasoned negotiation\".",
+            "clue": "Everyone finds his account.",
+            "template": "The strategy of {{sel84816}} {{sel30129}}",
+            "label_V1PzjMOzZ": " ",
+            "choice_NJgPziGOMZ": "advantages",
+            "choice_41~PzjMOz~": "gains",
+            "choice_EJmXoMdMW": "results",
+            "label_4JdGjGuGb": " ",
+            "choice_Ekgdfjz-z~": "mutual",
+            "choice_4kbOfjfOz~": "winners",
+            "choice_4y~viMuM~": "successful",
+            "label_Ekx5cLiQhl": " ",
+            "placeholder_Vybc58iX3e": " "
+        },
+        "de": {
+            "header": "Wie heißt die von Harvard-Forschern entwickelte Verhandlungsstrategie?",
+            "explanation": "Wählen Sie die richtige Antwort aus den Dropdown-Menüs.",
+            "klf": "Es ist wichtig, dass Sie Ihren Gesprächspartner nicht als Gegner, sondern als Partner sehen. In der Tat besteht das Ziel einer Verhandlung darin, zu einer für beide Seiten vorteilhaften Schlussfolgerung zu gelangen, \"win-win\". Wir sprechen über die Strategie der gegenseitigen Gewinne. Dafür müssen Sie auch Mitgefühl für den anderen empfinden.",
+            "tips": "Manchmal wird ein anderer Ausdruck verwendet, der \"vernünftige Verhandlung\".",
+            "clue": "Jeder findet seinen Account.",
+            "template": "Die Strategie von {{sel84816}} {{sel30129}}",
+            "label_V1PzjMOzZ": " ",
+            "choice_NJgPziGOMZ": "Vorteile",
+            "choice_41~PzjMOz~": "Gewinne",
+            "choice_EJmXoMdMW": "Ergebnisse",
+            "label_4JdGjGuGb": " ",
+            "choice_Ekgdfjz-z~": "gegenseitig",
+            "choice_4kbOfjfOz~": "Gewinner",
+            "choice_4y~viMuM~": "erfolgreich",
+            "label_Ekx5cLiQhl": " ",
+            "placeholder_Vybc58iX3e": " "
+        },
+        "es": {
+            "header": "What is the negotiation strategy developed by Harvard researchers called?",
+            "explanation": "Select the correct answer in the drop-down menus.",
+            "klf": "It is important to see your colleague, not as an adversary but as a partner. Indeed, the goal of negotiations is to reach a positive \"win-win\" conclusion for both. This is known as the strategy of mutual gains. For this, you must also feel empathy towards others.",
+            "tips": "Another term sometimes used is \"rational negotiation\".",
+            "template": "The strategy of {{sel84816}}  {{sel30129}}",
+            "label_Ekx5cLiQhl": " ",
+            "placeholder_Vybc58iX3e": " ",
+            "label_V1PzjMOzZ": " ",
+            "choice_NJgPziGOMZ": "winners",
+            "choice_41~PzjMOz~": "mutual",
+            "label_4JdGjGuGb": " ",
+            "choice_Ekgdfjz-z~": "gains",
+            "choice_4kbOfjfOz~": "advantages",
+            "choice_EJmXoMdMW": "successful",
+            "choice_4y~viMuM~": "results",
+            "clue": "Everyone benefits."
+        },
+        "zh": {
+            "header": "哈佛大学的研究人员所谓的谈判策略是什么？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "重要的是要看到你的同事，不是作为对手，而是作为合作伙伴。实际上，谈判的目标是为两者达成积极的“双赢”结论。这被称为相互收益的策略。为此，您还必须对他人感同身受。",
+            "tips": "有时使用的另一个术语是“理性谈判”。",
+            "clue": "每个人都受益。",
+            "template": "{{sel84816}} {{sel30129}}的策略",
+            "label_V1PzjMOzZ": " ",
+            "choice_NJgPziGOMZ": "获奖者",
+            "choice_41~PzjMOz~": "相互",
+            "choice_EJmXoMdMW": "成功",
+            "label_4JdGjGuGb": " ",
+            "choice_Ekgdfjz-z~": "收益",
+            "choice_4kbOfjfOz~": "好处",
+            "choice_4y~viMuM~": "结果",
+            "label_Ekx5cLiQhl": " ",
+            "placeholder_Vybc58iX3e": " "
+        }
+    }
+}

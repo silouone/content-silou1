@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T08:56:15.961Z",
+            "updatedAt": "2018-08-10T12:40:58.150Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1AZnx~HH",
+        "universalRef": "sli_N1AZnx~HH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1AZnx~HH.choice_Nkx3N3lWHS.id",
+                        "label": "choice_Nkx3N3lWHS",
+                        "value": "choice_Nkx3N3lWHS",
+                        "media": "med_Vyh43e~SB"
+                    },
+                    {
+                        "id": "sli_N1AZnx~HH.choice_V1eQrhebrH.id",
+                        "label": "choice_V1eQrhebrH",
+                        "value": "choice_V1eQrhebrH",
+                        "media": "med_EJXrhgWHS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1eQrhebrH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Un compte rendu n’est pas nécessaire si la réunion était productive. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est nécessaire de synthétiser les échanges sous la forme d'un compte rendu pour éviter toute erreur d’interprétation et permettre à chacun de tenir ses engagements au mieux.",
+            "tips": "Il est recommandé d’utiliser toujours la même structure de compte rendu afin de voir rapidement les avancements de projets.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkx3N3lWHS": "Vrai",
+            "choice_V1eQrhebrH": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Un compte rendu n’est pas nécessaire si la réunion était productive. Vrai ou faux ?",
+            "klf": "Il est nécessaire de synthétiser les échanges sous la forme d'un compte rendu pour éviter toute erreur d’interprétation et permettre à chacun de tenir ses engagements au mieux.",
+            "tips": "Il est recommandé d’utiliser toujours la même structure de compte rendu afin de voir rapidement les avancements de projets.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkx3N3lWHS": "Vrai",
+            "choice_V1eQrhebrH": "Faux"
+        }
+    }
+}

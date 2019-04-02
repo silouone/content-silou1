@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:07:42.288Z",
+            "updatedAt": "2016-08-25T08:45:02.604Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJUcuTm3x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJUcuTm3x.choice_VJifF672x.id",
+                        "label": "choice_VJifF672x",
+                        "value": "choice_VJifF672x"
+                    },
+                    {
+                        "id": "sli_NJUcuTm3x.choice_V1G7Y6m3g.id",
+                        "label": "choice_V1G7Y6m3g",
+                        "value": "choice_V1G7Y6m3g"
+                    },
+                    {
+                        "id": "sli_NJUcuTm3x.choice_EymXF672g.id",
+                        "label": "choice_EymXF672g",
+                        "value": "choice_EymXF672g"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1G7Y6m3g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NJUcuTm3x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi les femmes doivent-elles souvent travailler davantage à pérenniser leur leadership que les hommes ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans une étude sur \"Femmes et pouvoir\", la professeure Viviane de Beaufort écrit qu'une \"femme en position de pouvoir est quasi immédiatement 'mise en examen'\". Il faut donc travailler constamment à la pérennité de son leadership.",
+            "tips": "Selon le philosophe Jacques de Coulon, \"dans une société encore trop marquée par le paradigme masculin, une femme est une menace\" (source : \"Femmes et pouvoir\", Viviane de Beaufort).",
+            "clue": "Rien de très fondé.",
+            "choice_VJifF672x": "C'est moins naturel pour les femmes",
+            "choice_V1G7Y6m3g": "On est plus suspicieux envers une femme dirigeante",
+            "choice_EymXF672g": "Elles ont moins de compétences de management"
+        },
+        "en": {
+            "header": "Why do women often have to work harder to sustain their leadership than men?",
+            "explanation": "Select the correct answer.",
+            "klf": "In a study on \"Women and Power\", Professor Viviane de Beaufort writes that \"a woman in a position of power is almost immediately 'indicted'\". We must therefore work constantly to maintain its leadership.",
+            "tips": "According to the philosopher Jacques de Coulon, \"in a society still too marked by the male paradigm, a woman is a threat\" (source: \"Women and power\", Viviane de Beaufort).",
+            "clue": "Nothing very well founded.",
+            "choice_VJifF672x": "It's less natural for women",
+            "choice_V1G7Y6m3g": "We are more suspicious of a woman leader",
+            "choice_EymXF672g": "They have less management skills"
+        },
+        "de": {
+            "header": "Warum müssen Frauen oft härter arbeiten als Männer?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In einer Studie über \"Frauen und Macht\" schrieb Professorin Viviane Beaufort, dass \"Frauen in Machtpositionen fast sofort\" unter die Lupe genommen werden \".\" Sie müssen daher ständig daran arbeiten, Ihre Führungsrolle aufrechtzuerhalten.",
+            "tips": "Dem Philosophen Jacques de Coulon zufolge \"ist eine Frau in einer noch vom männlichen Paradigma geprägten Gesellschaft eine Bedrohung.\" (Quelle: \"Frauen und Macht\", Viviane de Beaufort)",
+            "clue": "Nichts begründet.",
+            "choice_VJifF672x": "Für Frauen ist es weniger natürlich",
+            "choice_V1G7Y6m3g": "Wir sind misstrauisch gegenüber einer Frauenführerin",
+            "choice_EymXF672g": "Sie sind im Management weniger kompetent"
+        },
+        "es": {
+            "header": "Why do women often have to work harder to sustain their leadership than men?",
+            "explanation": "Select the correct answer.",
+            "klf": "In a study on \"Women and Power\", professor Viviane Beaufort wrote that \"women in positions of power are almost immediately 'put under the microscope.'”. They must therefore work constantly to sustain your leadership.",
+            "tips": "According to the philosopher Jacques de Coulon, \"in a society still too marked by the male paradigm, a woman is a threat.\" (Source: \"Women and Power\", Viviane de Beaufort)",
+            "choice_VJifF672x": "It is less natural for women",
+            "choice_V1G7Y6m3g": "We are more suspicious of a woman leader",
+            "choice_EymXF672g": "They are less competent at management",
+            "clue": "Nothing well-founded."
+        },
+        "zh": {
+            "header": "为什么女性往往比男性更加努力地维持领导力？",
+            "explanation": "选择正确的答案。",
+            "klf": "在一项关于“妇女与权力”的研究中，Viviane Beaufort教授写道，“处于权力地位的女性几乎立即被置于显微镜下。”因此，他们必须不断努力以维持你的领导能力。",
+            "tips": "根据哲学家雅克斯·德库隆的观点，“在一个仍然以男性范式为标志的社会中，女性是一种威胁。” （资料来源：“妇女与权力”，Viviane de Beaufort）",
+            "clue": "没有什么是有根据的。",
+            "choice_VJifF672x": "对女性来说不太自然",
+            "choice_V1G7Y6m3g": "我们更加怀疑一位女性领导人",
+            "choice_EymXF672g": "他们在管理方面的能力较差"
+        }
+    }
+}

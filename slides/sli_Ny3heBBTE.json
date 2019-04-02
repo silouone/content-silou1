@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:28:31.649Z",
+            "updatedAt": "2018-06-22T15:28:40.487Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ny3heBBTE",
+        "universalRef": "sli_Ny3heBBTE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_Ny3heBBTE.choice_4kG1bHHTN.id",
+                        "label": "choice_4kG1bHHTN",
+                        "value": "choice_4kG1bHHTN"
+                    },
+                    {
+                        "id": "sli_Ny3heBBTE.choice_NygebHB6V.id",
+                        "label": "choice_NygebHB6V",
+                        "value": "choice_NygebHB6V"
+                    },
+                    {
+                        "id": "sli_Ny3heBBTE.choice_VJNe~HS6E.id",
+                        "label": "choice_VJNe~HS6E",
+                        "value": "choice_VJNe~HS6E"
+                    },
+                    {
+                        "id": "sli_Ny3heBBTE.choice_4kogWSBpV.id",
+                        "label": "choice_4kogWSBpV",
+                        "value": "choice_4kogWSBpV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NygebHB6V",
+                        "choice_4kG1bHHTN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appliquer la méthode SCAMPER  ? Sélectionnez les bonnes réponses dans l'ordre.",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "À partir du problème posé, listez les verbes du SCAMPER (substituer, combiner, adapter, modifier, produire, éliminer, réorganiser) un par un. Puis notez les idées générées par les participants.",
+            "tips": "Définir le problème à résoudre est hautement important. Comme a dit Einstein, « Si j’avais une heure pour sauver le monde, je passerais 59 minutes à définir le problème et une minute à trouver des solutions. »",
+            "clue": "Tout comme vous mangeriez une noix.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kG1bHHTN": "Concasser l’idée avec des questions spécifiques ",
+            "choice_NygebHB6V": "Déterminer l’idée à concasser ",
+            "choice_VJNe~HS6E": "Regarder une vidéo sur le sujet à traiter",
+            "choice_4kogWSBpV": "Écrire un article sur l’idée à creuser "
+        },
+        "en": {
+            "explanation": "Put the following answers in order.",
+            "header": "How is the SCAMPER method applied?",
+            "klf": "Once you have your problem, note down your SCAMPER verbs one by one: substitute, combine, adapt, modify, put to another use, eliminate and reverse. Write participants’ ideas on the table you’ve created.",
+            "tips": "Defining your problem is an essential part of the process. As Einstein put it, “if I had an hour to solve a problem I'd spend 59 minutes thinking about the problem and 1 minute thinking about solutions”. »",
+            "clue": "Think power tool.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kG1bHHTN": "Drill down into an idea using specific questions. ",
+            "choice_NygebHB6V": "Figure out the idea to drill down into. ",
+            "choice_VJNe~HS6E": "Watch a video about the issue.",
+            "choice_4kogWSBpV": "Write an article about the subject you’re tackling. "
+        }
+    }
+}

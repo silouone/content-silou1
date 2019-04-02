@@ -1,0 +1,185 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-30T08:31:59.863Z",
+            "updatedAt": "2018-08-10T13:49:46.862Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9DcQ4sV"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_Ek~of6k6E",
+        "universalRef": "sli_Ek~of6k6E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek~of6k6E.choice_VJmlXaJ6N.id",
+                        "label": "choice_VJmlXaJ6N",
+                        "value": "choice_VJmlXaJ6N"
+                    },
+                    {
+                        "id": "sli_Ek~of6k6E.choice_E14e7p1p4.id",
+                        "label": "choice_E14e7p1p4",
+                        "value": "choice_E14e7p1p4"
+                    },
+                    {
+                        "id": "sli_Ek~of6k6E.choice_N1SlmpJaE.id",
+                        "label": "choice_N1SlmpJaE",
+                        "value": "choice_N1SlmpJaE"
+                    },
+                    {
+                        "id": "sli_Ek~of6k6E.choice_E1IlX6JT4.id",
+                        "label": "choice_E1IlX6JT4",
+                        "value": "choice_E1IlX6JT4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E14e7p1p4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you monitor an employee’s work when managing remotely?",
+            "explanation": "Select the correct answer.",
+            "klf": "When it comes to remote management, the key word is trust. You need to give your employee some leeway and let go of your own work methods. However, it is important to hold personal meetings to discuss results and possible difficulties.",
+            "tips": "A manager should act like a coach by being helpful and supportive rather than like an inspector.",
+            "clue": "Correct dosage.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJmlXaJ6N": "You should check every little thing that they do (e.g. using a GPS for a mobile employee)",
+            "choice_E14e7p1p4": "You should give them leeway and hold periodic personal meetings to discuss results",
+            "choice_N1SlmpJaE": "You should conduct surprise on-site visits",
+            "choice_E1IlX6JT4": "You should accept that you cannot control them"
+        },
+        "fr": {
+            "header": "Comment surveiller le travail des employés lors de la gestion à distance?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "En matière de gestion à distance, le mot clé est confiance. Vous devez laisser de la place à votre personnel et abandonner vos méthodes de travail. Cependant, il est important de tenir une réunion personnelle pour discuter des résultats et des difficultés possibles.",
+            "tips": "Les gestionnaires ne doivent pas agir en tant qu'entraîneurs en fournissant aide et soutien.",
+            "clue": "La bonne dose.",
+            "choice_VJmlXaJ6N": "Vous devriez vérifier chaque petite chose qu'ils font (par exemple, utilisez le GPS pour les travailleurs mobiles)",
+            "choice_E14e7p1p4": "Vous devriez leur laisser de la place et organiser des réunions régulières pour discuter des résultats.",
+            "choice_N1SlmpJaE": "Vous devriez avoir une visite live inattendue",
+            "choice_E1IlX6JT4": "Vous devriez accepter que vous ne pouvez pas les contrôler",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cómo se supervisa el trabajo de un empleado cuando se administra de forma remota?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "Cuando se trata de administración remota, la palabra clave es confianza. Debe darle a su empleado cierto margen de maniobra y dejar ir sus propios métodos de trabajo. Sin embargo, es importante realizar reuniones personales para analizar los resultados y las posibles dificultades.",
+            "tips": "Un gerente debe actuar como un entrenador siendo útil y solidario en lugar de un inspector.",
+            "clue": "Dosis correcta",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJmlXaJ6N": "Debería verificar cada pequeña cosa que hacen (por ejemplo, usar un GPS para un empleado móvil)",
+            "choice_E14e7p1p4": "Debe darles margen de maniobra y celebrar reuniones personales periódicas para discutir los resultados",
+            "choice_N1SlmpJaE": "Debe llevar a cabo visitas sorpresa en el sitio",
+            "choice_E1IlX6JT4": "Debes aceptar que no puedes controlarlos"
+        },
+        "it": {
+            "header": "Come si monitora il lavoro di un dipendente durante la gestione remota?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Quando si tratta di gestione remota, la parola chiave è fiducia. Devi dare al tuo dipendente un margine di manovra e lasciare andare i tuoi metodi di lavoro. Tuttavia, è importante tenere riunioni personali per discutere i risultati e le possibili difficoltà.",
+            "tips": "Un manager dovrebbe comportarsi come un allenatore essendo di aiuto e di sostegno piuttosto che come un ispettore.",
+            "clue": "Dosaggio corretto",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJmlXaJ6N": "Dovresti controllare ogni piccola cosa che fanno (ad esempio utilizzando un GPS per un dipendente mobile)",
+            "choice_E14e7p1p4": "Dovresti dare loro margine e tenere riunioni periodiche personali per discutere i risultati",
+            "choice_N1SlmpJaE": "Dovresti condurre visite a sorpresa sul posto",
+            "choice_E1IlX6JT4": "Devi accettare che non puoi controllarli"
+        },
+        "de": {
+            "header": "How do you monitor an employee’s work when managing remotely?",
+            "explanation": "Select the correct answer.",
+            "klf": "When it comes to remote management, the key word is trust. You need to give your employee some leeway and let go of your own work methods. However, it is important to hold personal meetings to discuss results and possible difficulties.",
+            "tips": "A manager should act like a coach by being helpful and supportive rather than like an inspector.",
+            "clue": "Correct dosage.",
+            "choice_VJmlXaJ6N": "You should check every little thing that they do (e.g. using a GPS for a mobile employee)",
+            "choice_E14e7p1p4": "You should give them leeway and hold periodic personal meetings to discuss results",
+            "choice_N1SlmpJaE": "You should conduct surprise on-site visits",
+            "choice_E1IlX6JT4": "You should accept that you cannot control them",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "원격으로 관리 할 때 직원의 업무를 어떻게 모니터링합니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "원격 관리 측면에서 핵심 단어는 신뢰입니다. 직원에게 여유를주고 자신의 업무 방식을 놓아 줘야합니다. 그러나 개인 회의를 개최하여 결과 및 가능한 어려움을 논의하는 것이 중요합니다.",
+            "tips": "관리자는 감독관처럼 도움이되고 도움이 됨으로써 코치처럼 행동해야합니다.",
+            "clue": "올바른 복용량.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJmlXaJ6N": "그들이하는 모든 일을 (예 : 모바일 직원을 위해 GPS를 사용하여) 확인해야합니다.",
+            "choice_E14e7p1p4": "그들에게 여유를두고 정기적 인 개인 모임을 열어 결과를상의해야합니다.",
+            "choice_N1SlmpJaE": "놀랍게도 현장 방문을해야합니다.",
+            "choice_E1IlX6JT4": "너는 그들을 통제 할 수 없다는 것을 인정해야한다."
+        },
+        "ru": {
+            "header": "Как вы контролируете работу сотрудника при удаленном управлении?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Когда дело доходит до удаленного управления, ключевым словом является доверие. Вы должны дать своему сотруднику некоторую свободу действий и отпустить свои собственные методы работы. Однако важно проводить личные встречи для обсуждения результатов и возможных трудностей.",
+            "tips": "Менеджер должен действовать как тренер, будучи полезным и поддерживающим, а не как инспектор.",
+            "clue": "Правильная дозировка.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJmlXaJ6N": "Вы должны проверить каждую мелочь, которую они выполняют (например, используя GPS для мобильного сотрудника)",
+            "choice_E14e7p1p4": "Вы должны дать им свободу действий и провести периодические личные встречи для обсуждения результатов",
+            "choice_N1SlmpJaE": "Вы должны совершать неожиданные посещения на месте",
+            "choice_E1IlX6JT4": "Вы должны признать, что вы не можете контролировать их"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Como você monitora o trabalho de um funcionário ao gerenciar remotamente?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "Quando se trata de gerenciamento remoto, a palavra chave é confiança. Você precisa dar uma margem de manobra ao seu empregado e liberar seus próprios métodos de trabalho. No entanto, é importante realizar reuniões pessoais para discutir os resultados e possíveis dificuldades.",
+            "tips": "Um gerente deve agir como um treinador, sendo prestativo e prestativo, e não como um inspetor.",
+            "clue": "Dosagem correta.",
+            "choice_VJmlXaJ6N": "Você deve verificar cada pequena coisa que eles fazem (por exemplo, usando um GPS para um funcionário móvel)",
+            "choice_E14e7p1p4": "Você deve dar-lhes liberdade e realizar reuniões pessoais periódicas para discutir os resultados",
+            "choice_N1SlmpJaE": "Você deve realizar visitas surpresa no local",
+            "choice_E1IlX6JT4": "Você deve aceitar que não pode controlá-los"
+        },
+        "zh": {
+            "header": "在远程管理时如何监控员工的工作？",
+            "explanation": "选择正确的答案。",
+            "klf": "谈到远程管理，关键词是信任。您需要给员工一些余地并放下自己的工作方法。但是，举行个人会议以讨论结果和可能的困难非常重要。",
+            "tips": "经理应该通过提供帮助和支持而不像检查员那样充当教练。",
+            "clue": "正确的剂量。",
+            "choice_VJmlXaJ6N": "您应该检查他们所做的每件小事（例如，为移动员工使用GPS）",
+            "choice_E14e7p1p4": "你应该给他们留有余地并定期召开个人会议来讨论结果",
+            "choice_N1SlmpJaE": "你应该进行意外的现场访问",
+            "choice_E1IlX6JT4": "你应该接受你无法控制它们"
+        }
+    }
+}

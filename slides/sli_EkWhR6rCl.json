@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-31T08:31:04.312Z",
+            "updatedAt": "2016-09-06T11:35:03.682Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EkWhR6rCl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkWhR6rCl.choice_VyilyRSAl.id",
+                        "label": "choice_VyilyRSAl",
+                        "value": "choice_VyilyRSAl"
+                    },
+                    {
+                        "id": "sli_EkWhR6rCl.choice_N1peyRBRe.id",
+                        "label": "choice_N1peyRBRe",
+                        "value": "choice_N1peyRBRe"
+                    },
+                    {
+                        "id": "sli_EkWhR6rCl.choice_NyAlJASAl.id",
+                        "label": "choice_NyAlJASAl",
+                        "value": "choice_NyAlJASAl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyAlJASAl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EkWhR6rCl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'est-ce qui caractérise la majorité des leaders féminins dans l'histoire, selon la militante Charlotte Bunch ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les femmes leaders ont bien existé dans l'histoire. Seulement, selon la militante Charlotte Bunch, la plupart ont été invisibles. \"Les femmes n'ont souvent pas eu le pouvoir et la reconnaissance formelle\" qui allaient avec leur leadership, écrit-elle.",
+            "tips": "Selon elle, la notion a été pendant longtemps rejetée par des femmes qui se battaient pour l'égalité, car considérée comme trop \"antiféministes\".",
+            "clue": "Même pas besoin de cape.",
+            "choice_VyilyRSAl": "Elles ont leur place dans les livres d'histoire aujourd'hui",
+            "choice_N1peyRBRe": "Il n'y a pas vraiment eu de femmes leader jusqu'à récemment",
+            "choice_NyAlJASAl": "Elles n'ont pas eu la visibilité habituellement associée au leadership"
+        },
+        "en": {
+            "header": "What characterizes the majority of female leaders in history, according to activist Charlotte Bunch?",
+            "explanation": "Select the correct answer.",
+            "klf": "Women leaders have existed in history. But, according to activist Charlotte Bunch, most have been invisible. \"Women often did not have the power and formal recognition\" that went with their leadership, she wrote.",
+            "tips": "According to her, the notion was for a long time rejected by women who fought for equality because considered too \"anti-feminist\".",
+            "clue": "You do not even need a cape.",
+            "choice_VyilyRSAl": "They have their place in the history books today",
+            "choice_N1peyRBRe": "There have not really been any women leaders until recently",
+            "choice_NyAlJASAl": "They did not have the visibility usually associated with leadership"
+        },
+        "de": {
+            "header": " Was charakterisiert die Mehrheit der weiblichen Führer in der Geschichte, laut Aktivistin Charlotte Bunch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Frauenführer haben in der Geschichte schon immer existiert. Nur (laut Aktivistin Charlotte Bunch) waren die meisten unsichtbar. \"Frauen haben oft nicht die Macht und die formelle Anerkennung, die mit ihrer Führung verbunden ist\", schreibt sie.",
+            "tips": "Ihrer Meinung nach wurde das Konzept von Frauen, die für Gleichberechtigung kämpften, seit langem abgelehnt, weil es für zu \"antifeministisch\" gehalten wurde.",
+            "clue": "Kein Umhang nötig.",
+            "choice_VyilyRSAl": "Sie haben heute ihren Platz in den Geschichtsbüchern",
+            "choice_N1peyRBRe": "Es gab bis vor kurzem nicht wirklich weibliche Führungskräfte",
+            "choice_NyAlJASAl": "Sie hatten nicht die Sichtbarkeit, die normalerweise mit Führung verbunden ist"
+        },
+        "es": {
+            "header": " What characterises the majority of female leaders in history, according to activist Charlotte Bunch?",
+            "explanation": "Select the correct answer.",
+            "klf": "Women leaders have always existed in history. Only (according to activist Charlotte Bunch) most were invisible. \"Women often do not have the power and the formal recognition that went with their leadership\", she writes.",
+            "tips": "According to her, the concept has long been rejected by women who fought for equality, because it was considered too \"anti-feminist\".",
+            "choice_VyilyRSAl": "They have their place in the history books today",
+            "choice_N1peyRBRe": "There have not really been female leaders until recently",
+            "choice_NyAlJASAl": "They have not had the visibility usually associated with leadership",
+            "clue": "No need for a cape."
+        },
+        "zh": {
+            "header": " 据活动家夏洛特束说，历史上大多数女性领导人的特征是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "女性领导人一直存在于历史中。只有（根据活动家夏洛特束）大多数都是看不见的。她写道：“妇女往往没有权力和正式承认与她们的领导”。",
+            "tips": "据她说，这个概念长期以来一直被争取平等的女性所拒绝，因为它被认为过于“反女权主义”。",
+            "clue": "不需要斗篷。",
+            "choice_VyilyRSAl": "他们今天在历史书中占有一席之地",
+            "choice_N1peyRBRe": "直到最近才有真正的女性领导人",
+            "choice_NyAlJASAl": "他们没有通常与领导相关的能见度"
+        }
+    }
+}

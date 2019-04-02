@@ -1,0 +1,94 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T14:58:22.572Z",
+            "updatedAt": "2018-06-21T08:56:09.042Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkUNnc~nE",
+        "universalRef": "sli_EkUNnc~nE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkUNnc~nE.choice_419Pa5ZhE.id",
+                        "label": "choice_419Pa5ZhE",
+                        "value": "choice_419Pa5ZhE"
+                    },
+                    {
+                        "id": "sli_EkUNnc~nE.choice_VJBupcb24.id",
+                        "label": "choice_VJBupcb24",
+                        "value": "choice_VJBupcb24"
+                    },
+                    {
+                        "id": "sli_EkUNnc~nE.choice_N1OFT9~n4.id",
+                        "label": "choice_N1OFT9~n4",
+                        "value": "choice_N1OFT9~n4"
+                    },
+                    {
+                        "id": "sli_EkUNnc~nE.choice_V1zca5~2V.id",
+                        "label": "choice_V1zca5~2V",
+                        "value": "choice_V1zca5~2V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_419Pa5ZhE",
+                        "choice_VJBupcb24"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles conséquences professionnelles peuvent avoir les contradictions entre nos idées, nos émotions et leur mise en oeuvre ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Nos sensations, notre mental, nos émotions et nos actions entrent parfois en conflit. Ces contradictions internes sont sources de stress et de déséquilibre et ne nous aident pas à adhérer émotionnellement aux tâches que l'on entreprend.",
+            "tips": "Une allégorie très ancienne compare l’homme à un fiacre sans maître : la carrosserie correspond au corps et sa motricité, le cheval correspond aux sentiments et le cocher représente le penser. S’il n’y a pas d’unisson entre eux, il n’y a pas d’efficience.",
+            "clue": "Trou dans la logique.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_419Pa5ZhE": "J’agis sans comprendre ce que je fais ",
+            "choice_VJBupcb24": "J’agis sans adhésion émotionnelle ",
+            "choice_Vk0d65WnV": "Le projet me plaît mais il n’est pas très clair ",
+            "choice_N1OFT9~n4": "J’adhère à tout et je suis bien",
+            "choice_V1zca5~2V": "J’aime contester par principe"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Conflict between our ideas, emotions and actions can have what kind of impact on the workplace?",
+            "klf": "Our feelings, mind, emotions and actions can sometimes come into conflict. These moments of internal conflict are sources of stress and imbalance. They can prevent us from having an emotional attachment to the task we’re doing.",
+            "tips": "There’s an old allegory that compares man to a horse and cart without a driver. The cart represents the body and movement, the horse signifies feelings, and the driver represents thought. If they don’t work in harmony, effective performance is impossible.",
+            "clue": "Holes in the logic.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_419Pa5ZhE": "We can end up acting without understanding what we’re doing ",
+            "choice_VJBupcb24": "We have no emotional attachment to the tasks we’re carrying out ",
+            "choice_Vk0d65WnV": "Le projet me plaît mais il n’est pas très clair ",
+            "choice_N1OFT9~n4": "We agree with everything and we’re fine",
+            "choice_V1zca5~2V": "We like to argue as a matter of principle"
+        }
+    }
+}

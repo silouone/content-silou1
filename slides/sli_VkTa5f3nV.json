@@ -1,0 +1,159 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T13:57:16.654Z",
+            "updatedAt": "2018-08-10T09:45:30.117Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKwqQVj4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_VkTa5f3nV",
+        "universalRef": "sli_VkTa5f3nV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkTa5f3nV.choice_4kxExjG3nV.id",
+                        "label": "choice_4kxExjG3nV",
+                        "value": "choice_4kxExjG3nV",
+                        "media": "med_4yNloMnhN"
+                    },
+                    {
+                        "id": "sli_VkTa5f3nV.choice_4ke-WiGnhE.id",
+                        "label": "choice_4ke-WiGnhE",
+                        "value": "choice_4ke-WiGnhE",
+                        "media": "med_V1-~ofh2N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4ke-WiGnhE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If the employee to whom a task has been delegated is having difficulties, it is always possible to rescind the delegation. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Delegation is irreversible and cannot be rescinded, except in cases of force majeure.",
+            "tips": "If you are considering hiring an assistant, take some time to think about what you want. Are you looking for an advisor, a behind-the-scenes decision-maker, a “follower” or perhaps a counterbalance who will debate you and make you think about your decisions?",
+            "clue": "Giving is giving…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxExjG3nV": "TRUE",
+            "choice_4ke-WiGnhE": "FALSE"
+        },
+        "fr": {
+            "header": "Si l'employé qui délègue la tâche rencontre des difficultés, le délégué peut toujours être annulé. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "La délégation est irréversible et ne peut être révoquée qu'en cas de force majeure.",
+            "tips": "Si vous envisagez de recruter un assistant, prenez le temps de réfléchir à vos besoins. Vous recherchez un consultant, un décideur en arrière-scène, un \"suiveur\" ou une personne équilibrée qui pourra vous débattre et vous laisser prendre en compte votre décision?",
+            "clue": "Donner ...",
+            "choice_4kxExjG3nV": "Vraiment",
+            "choice_4ke-WiGnhE": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "Si el empleado al que se le ha delegado una tarea está teniendo dificultades, siempre es posible rescindir la delegación. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "La delegación es irreversible y no puede rescindirse, excepto en casos de fuerza mayor.",
+            "tips": "Si está considerando contratar a un asistente, tómese un tiempo para pensar en lo que quiere. ¿Está buscando un asesor, un tomador de decisiones entre bastidores, un seguidor o quizás un contrapeso que debata y haga reflexionar sobre sus decisiones?",
+            "clue": "Dar es dar ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxExjG3nV": "Cierto",
+            "choice_4ke-WiGnhE": "Falso"
+        },
+        "it": {
+            "header": "Se il dipendente a cui è stata delegata unattività ha difficoltà, è sempre possibile annullare la delega. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "La delega è irreversibile e non può essere revocata, salvo casi di forza maggiore.",
+            "tips": "Se stai pensando di assumere un assistente, prenditi un po di tempo per pensare a ciò che vuoi. Stai cercando un consulente, un decisore dietro le quinte, un seguace o forse un contrappeso che ti discuterà e ti farà riflettere sulle tue decisioni?",
+            "clue": "Dare sta dando ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxExjG3nV": "Vero",
+            "choice_4ke-WiGnhE": "falso"
+        },
+        "de": {
+            "header": "If the employee to whom a task has been delegated is having difficulties, it is always possible to rescind the delegation. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Delegation is irreversible and cannot be rescinded, except in cases of force majeure.",
+            "tips": "If you are considering hiring an assistant, take some time to think about what you want. Are you looking for an advisor, a behind-the-scenes decision-maker, a “follower” or perhaps a counterbalance who will debate you and make you think about your decisions?",
+            "clue": "Giving is giving…",
+            "choice_4kxExjG3nV": "TRUE",
+            "choice_4ke-WiGnhE": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "작업이 위임 된 직원이 어려움을 겪고 있다면 위임을 언제든지 취소 할 수 있습니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "위임은 돌이킬 수 없으며 불가항력의 경우를 제외하고는 철회 될 수 없습니다.",
+            "tips": "당신이 조수를 고용하는 것을 고려하고 있다면, 당신이 원하는 것에 대해 생각할 시간을 가져라. 고문관, 배후의 의사 결정자, 추종자또는 아마도 당신을 토론하고 결정에 대해 생각하게 할 카운터 균형을 원하십니까?",
+            "clue": "주는 것은주는 것입니다 ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxExjG3nV": "참된",
+            "choice_4ke-WiGnhE": "그릇된"
+        },
+        "ru": {
+            "header": "Если у сотрудника, которому делегирована задача, возникают трудности, всегда можно отменить делегирование. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Делегирование является необратимым и не может быть отменено, за исключением случаев форс-мажорных обстоятельств.",
+            "tips": "Если вы подумываете о найме помощника, найдите время, чтобы подумать о том, чего вы хотите. Вы ищете советника, закулисного лица, принимающего решения, «последователя» или, может быть, противовеса, который обсудит вас и заставит вас задуматься о своих решениях?",
+            "clue": "Давать дает ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxExjG3nV": "Правда",
+            "choice_4ke-WiGnhE": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Se o funcionário ao qual uma tarefa foi delegada tiver dificuldades, é sempre possível rescindir a delegação. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "A delegação é irreversível e não pode ser rescindida, exceto em casos de força maior.",
+            "tips": "Se você está pensando em contratar um assistente, reserve algum tempo para pensar sobre o que você quer. Você está procurando um conselheiro, um tomador de decisões nos bastidores, um “seguidor” ou talvez um contrapeso que o debaterá e fará você pensar sobre suas decisões?",
+            "clue": "Dar é dar ...",
+            "choice_4kxExjG3nV": "VERDADE",
+            "choice_4ke-WiGnhE": "FALSO"
+        },
+        "zh": {
+            "header": "如果委派任务的员工遇到困难，则始终可以取消委托。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "代表团是不可逆转的，除非发生不可抗力，否则不能撤销。",
+            "tips": "如果您正在考虑聘请助理，请花些时间考虑一下您的需求。您是在寻找顾问，幕后决策者，“追随者”还是平衡谁会辩论您并让您考虑您的决定？",
+            "clue": "给予......",
+            "choice_4kxExjG3nV": "真正",
+            "choice_4ke-WiGnhE": "假"
+        }
+    }
+}

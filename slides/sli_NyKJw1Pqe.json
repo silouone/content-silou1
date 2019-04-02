@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:21:00.376Z",
+            "updatedAt": "2017-12-01T15:58:31.802Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NyKJw1Pqe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel38393",
+                        "label": "label_41ivPJv5g",
+                        "items": [
+                            {
+                                "text": "choice_41gswPyDce",
+                                "value": "choice_41gswPyDce"
+                            },
+                            {
+                                "text": "choice_N1WivDJv9l",
+                                "value": "choice_N1WivDJv9l"
+                            },
+                            {
+                                "text": "choice_4JTvvJD5e",
+                                "value": "choice_4JTvvJD5e"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel38393",
+                        "answers": [
+                            "choice_4JTvvJD5e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_NyKJw1Pqe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi est-il utile de compter \"1, 2\" à la fin de chaque phrase lors d'une présentation?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le stress peut nous faire parler trop vite. Pour lutter contre cela, comptez \"1, 2\" à la fin de chaque phrase. Les silences sont importants dans un discours, ils permettent au public d’enregistrer ce que vous dites.",
+            "tips": "Pour savoir où placer les silences dans une présentation, pensez qu'ils ressemblent à des signes de ponctuation.",
+            "clue": "Comme en musique.",
+            "template": "Pour {{sel38393}}",
+            "label_41ivPJv5g": " ",
+            "choice_41gswPyDce": "penser à autre chose",
+            "choice_N1WivDJv9l": "respire mieux",
+            "choice_4JTvvJD5e": "parle moins vite"
+        },
+        "en": {
+            "header": "Why is it useful to count \"1, 2\" at the end of each sentence when making a presentation?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Stress can make us talk too fast. To combat this, count \"1, 2\" at the end of each sentence. Silences are important in a speech, they allow the audience to record what you say.",
+            "tips": "To know where to place silences in a presentation, think that they are like punctuation marks.",
+            "clue": "Like in music.",
+            "template": "For {{sel38393}}",
+            "label_41ivPJv5g": " ",
+            "choice_41gswPyDce": "think about something else",
+            "choice_N1WivDJv9l": "breathe better",
+            "choice_4JTvvJD5e": "speak less quickly"
+        },
+        "de": {
+            "header": "Warum ist es sinnvoll, bei der Präsentation am Ende jedes Satzes \"1, 2\" zu zählen?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Stress kann dazu führen, dass wir zu schnell reden. Um dies zu bekämpfen, zählen Sie am Ende jedes Satzes \"1, 2\". In einer Rede ist Stille wichtig, damit das Publikum aufnehmen kann, was Sie sagen.",
+            "tips": "Um zu wissen, wo Sie in einer Präsentation Stille platzieren können, denken Sie, dass sie wie Satzzeichen sind.",
+            "clue": "Wie in der Musik.",
+            "template": "Für {{sel38393}}",
+            "label_41ivPJv5g": " ",
+            "choice_41gswPyDce": "über etwas anderes nachdenken",
+            "choice_N1WivDJv9l": "atme besser",
+            "choice_4JTvvJD5e": "weniger schnell sprechen"
+        },
+        "es": {
+            "header": "Why is it useful to count \"1, 2\" at the end of each sentence when making a presentation?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Sometimes stress makes us speak too fast.  To combat this, count \"1, 2\" at the end of each sentence. Silences are important in a speech, they allow the audience to register what you say.",
+            "tips": "To know where to place the silences in a presentation, think of them as punctuation marks in writing.",
+            "template": "To  {{sel38393}}",
+            "label_41ivPJv5g": " ",
+            "choice_41gswPyDce": "think of something else",
+            "choice_N1WivDJv9l": "breathe better",
+            "choice_4JTvvJD5e": "speak less quickly",
+            "clue": "As with music."
+        },
+        "zh": {
+            "header": "为什么在进行演示时在每个句子的末尾计算“1,2”是否有用？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "有时压力会让我们说得太快。为了解决这个问题，请在每个句子的末尾加上“1,2”。沉默在演讲中很重要，它们允许观众注册你说的话。",
+            "tips": "要知道将沉默放在演示文稿中的哪个位置，请将它们视为书写中的标点符号。",
+            "clue": "和音乐一样。",
+            "template": "至{{sel38393}}",
+            "label_41ivPJv5g": " ",
+            "choice_41gswPyDce": "想到别的",
+            "choice_N1WivDJv9l": "呼吸更好",
+            "choice_4JTvvJD5e": "说得不那么快"
+        }
+    }
+}

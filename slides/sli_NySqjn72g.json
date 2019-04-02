@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:12:14.729Z",
+            "updatedAt": "2017-12-01T11:34:53.690Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NySqjn72g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel62486",
+                        "label": "label_VklXhhQhe",
+                        "items": [
+                            {
+                                "text": "choice_N1eem3nQ3x",
+                                "value": "choice_N1eem3nQ3x"
+                            },
+                            {
+                                "text": "choice_4JblX23mnx",
+                                "value": "choice_4JblX23mnx"
+                            },
+                            {
+                                "text": "choice_V1O4nhXhe",
+                                "value": "choice_V1O4nhXhe"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel62486",
+                        "answers": [
+                            "choice_N1eem3nQ3x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_NySqjn72g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que peut vous apporter votre entreprise lorsque vous cherchez un mentor ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsqu'on recherche un mentor, il faut se renseigner auprès de son entreprise. Certaines proposent un programme de mentoring pour les femmes. Chez Orange, par exemple, une cinquantaine de salariées sont actuellement accompagnées.",
+            "tips": "Orange a également mis en place un programme de “reverse mentoring”, où un jeune embauché devient le mentor d'un senior sur les sujets de communication, notamment.",
+            "template": "{{sel62486}}",
+            "clue": "Il n'est pas toujours nécessaire de chercher loin.",
+            "label_VklXhhQhe": " ",
+            "choice_N1eem3nQ3x": "Un programme interne de mentorat",
+            "choice_4JblX23mnx": "Des conseils",
+            "choice_V1O4nhXhe": "Une autorisation formelle"
+        },
+        "en": {
+            "header": "What can your business bring to you when you are looking for a mentor?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "When looking for a mentor, you need to check with your company. Some offer a mentoring program for women. At Orange, for example, about fifty employees are currently accompanied.",
+            "tips": "Orange has also set up a \"reverse mentoring\" program, where a young recruit becomes a senior mentor on communication topics, among others.",
+            "clue": "It is not always necessary to look far.",
+            "template": "{{sel62486}}",
+            "label_VklXhhQhe": " ",
+            "choice_N1eem3nQ3x": "An in-house mentoring program",
+            "choice_4JblX23mnx": "Advices",
+            "choice_V1O4nhXhe": "A formal authorization"
+        },
+        "de": {
+            "header": "Wie kann Ihr Unternehmen Ihnen helfen, einen Mentor zu finden?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Bei der Suche nach einem Mentor sollten Sie sich an Ihr Unternehmen wenden. Einige bieten ein Mentoring-Programm für Frauen an. Bei Orange werden beispielsweise fünfzig Mitarbeiter betreut.",
+            "tips": "Orange hat auch ein \"Reverse Mentoring\" -Programm ins Leben gerufen, bei dem ein junger neuer Mitarbeiter Mentor eines Vorgesetzten zu Kommunikationsthemen wird.",
+            "clue": "Es ist nicht immer notwendig, weit zu schauen.",
+            "template": "{{sel62486}}",
+            "label_VklXhhQhe": " ",
+            "choice_N1eem3nQ3x": "Ein internes Mentoring-Programm",
+            "choice_4JblX23mnx": "Rat",
+            "choice_V1O4nhXhe": "Formale Ermächtigung"
+        },
+        "es": {
+            "header": "How can your company help you to find a mentor?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When looking for a mentor, you should check with your company. Some offer a mentoring programme for women. At Orange, for example, fifty employees are mentored.",
+            "tips": "Orange has also set up a \"reverse mentoring\" program, where a young new employee becomes a mentor to a superior on communication topics.",
+            "template": "{{sel62486}}",
+            "label_VklXhhQhe": " ",
+            "choice_N1eem3nQ3x": "An internal mentoring programme",
+            "choice_4JblX23mnx": "Advice",
+            "choice_V1O4nhXhe": "Formal authorisation",
+            "clue": "It is not always necessary to look far."
+        },
+        "zh": {
+            "header": "贵公司如何帮助您找到导师？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在寻找导师时，您应该咨询您的公司。有些人为女性提供辅导计划。例如，在奥兰治，有五十名员工受到指导。",
+            "tips": "Orange还设立了一个“反向辅导”计划，一个年轻的新员工成为了一个优秀的沟通主题的导师。",
+            "clue": "并不总是需要远远看。",
+            "template": "{{sel62486}}",
+            "label_VklXhhQhe": " ",
+            "choice_N1eem3nQ3x": "内部辅导计划",
+            "choice_4JblX23mnx": "忠告",
+            "choice_V1O4nhXhe": "正式授权"
+        }
+    }
+}

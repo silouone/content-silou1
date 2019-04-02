@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:27:23.027Z",
+            "updatedAt": "2017-12-11T10:53:18.833Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yU-56k2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4yU-56k2e.field_4JgrjTJ3e.id",
+                        "type": "text",
+                        "name": "inp44330",
+                        "label": "label_41elBia12l",
+                        "placeholder": "placeholder_N1bgHjpyhg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp44330",
+                        "answers": [
+                            "choice_4kzersakhe"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4yU-56k2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Après la peur du déséquilibre entre vie professionnelle et personnelle, quel est le principal frein à l'entreprenariat pour les femmes ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L'un des obstacles essentiels à l'entreprenariat féminin, c'est le manque de confiance en soi. 35% des femmes craignent de ne pas avoir les compétences nécessaires pour lancer leur entreprise, selon OpinionWay. Seuls 23% des hommes ont cette crainte.",
+            "tips": "33% des personnes interrogées estiment qu'être une femme constitue un désavantage pour lancer son entreprise, dont 56% en raison d'un \"manque de crédibilité dans les milieux professionnels\".",
+            "template": "Le manque de {{inp44330}} en soi.",
+            "clue": "Anticiper l'échec…",
+            "label_41elBia12l": " ",
+            "placeholder_N1bgHjpyhg": " ",
+            "choice_4kzersakhe": "confiance"
+        },
+        "en": {
+            "header": "After the fear of imbalance between professional and personal life, what is the main obstacle to entrepreneurship for women?",
+            "explanation": "Enter your answer.",
+            "klf": "One of the key obstacles to women's entrepreneurship is lack of self-confidence. 35% of women fear that they will not have the skills to start their business, according to OpinionWay. Only 23% of men have this fear.",
+            "tips": "33% of respondents believe that being a woman is a disadvantage to starting a business, 56% of which is due to a \"lack of credibility in professional circles\".",
+            "clue": "Anticipate failure ...",
+            "template": "The lack of {{inp44330}} in itself.",
+            "label_41elBia12l": " ",
+            "choice_4kzersakhe": "trust",
+            "placeholder_N1bgHjpyhg": " "
+        },
+        "de": {
+            "header": "Was ist nach der Angst, Beruf und Privatleben nicht in Einklang zu bringen, das Haupthindernis für Frauen?",
+            "explanation": "Geben Sie Ihre Antwort ein (ein Wort).",
+            "klf": "Eines der größten Hindernisse für das Unternehmertum von Frauen ist das mangelnde Selbstvertrauen. Laut OpinionWay befürchten 35% der Frauen, dass sie nicht über die Fähigkeiten verfügen könnten, um ihr Unternehmen zu gründen. Nur 23% der Männer haben diese Angst.",
+            "tips": "33% der Befragten sind der Meinung, dass es eine Benachteiligung von Frauen ist, ein Unternehmen zu gründen, 56% wegen \"mangelnder Glaubwürdigkeit in Fachkreisen\".",
+            "clue": "Fehler vorhersehen ...",
+            "template": "Mangel an Selbst {{inp44330}}",
+            "label_41elBia12l": " ",
+            "choice_4kzersakhe": "Vertrauen",
+            "placeholder_N1bgHjpyhg": " "
+        },
+        "es": {
+            "header": "After the fear of not being able to balance professional and personal life, what is the main obstacle to entrepreneurship for women?",
+            "explanation": "Type your answer (one word).",
+            "klf": "One of the key obstacles to women's entrepreneurship is the lack of self-confidence. 35% of women fear they will not have the skills to start their business, according to OpinionWay. Only 23% of men have this fear.",
+            "tips": "33% of respondents believe that being a woman is a disadvantage to starting a company, 56% due to a \"lack of credibility in professional circles\".",
+            "template": "Lack of self {{inp44330}}",
+            "label_41elBia12l": " ",
+            "placeholder_N1bgHjpyhg": " ",
+            "choice_4kzersakhe": "confidence",
+            "clue": "Anticipating failure..."
+        },
+        "zh": {
+            "header": "在担心无法平衡职业和个人生活之后，女性创业的主要障碍是什么？",
+            "explanation": "输入你的答案（一个字）。",
+            "klf": "女性创业的一个主要障碍是缺乏自信。 OpinionWay表示，35％的女性担心自己不具备创业的能力。只有23％的男性有这种恐惧。",
+            "tips": "33％的受访者认为，女性创办是一个不利因素，56％是因为“专业界缺乏信誉”。",
+            "clue": "预计失败......",
+            "template": "缺乏自我{{inp44330}}",
+            "label_41elBia12l": " ",
+            "choice_4kzersakhe": "置信度",
+            "placeholder_N1bgHjpyhg": " "
+        }
+    }
+}

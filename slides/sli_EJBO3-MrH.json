@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:16:30.024Z",
+            "updatedAt": "2018-10-08T15:14:02.702Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJBO3-MrH",
+        "universalRef": "sli_EJBO3-MrH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJBO3-MrH.choice_41fYh-MHB.id",
+                        "label": "choice_41fYh-MHB",
+                        "value": "choice_41fYh-MHB"
+                    },
+                    {
+                        "id": "sli_EJBO3-MrH.choice_EJcYn-GBS.id",
+                        "label": "choice_EJcYn-GBS",
+                        "value": "choice_EJcYn-GBS"
+                    },
+                    {
+                        "id": "sli_EJBO3-MrH.choice_E1W92uzBr.id",
+                        "label": "choice_E1W92uzBr",
+                        "value": "choice_E1W92uzBr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41fYh-MHB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment obtenir une information plus ciblée avec Google ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Recourir au formulaire de recherche avancée de Google vous permettra d’obtenir plus rapidement l’information voulue. Les requêtes obtenues vous permettront de mettre en place des alertes complexes.",
+            "tips": "Utiliser les guillemets dans une requête Google permet de rechercher une expression exacte.",
+            "clue": "Tout est dans les détails.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41fYh-MHB": "Recourir au formulaire de recherche avancée de Google",
+            "choice_EJcYn-GBS": "Utiliser Google Trends",
+            "choice_E1W92uzBr": "Utiliser Google Ads"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "How can you find more targeted information when using Google?",
+            "klf": "Using Google’s advanced search function makes it quicker to find the information you need. The search results you end up with will help you put complex alerts in place.",
+            "tips": "You can use quotation marks to search for an exact expression on Google.",
+            "clue": "It’s all in the detail.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41fYh-MHB": "By using Google’s advanced search function",
+            "choice_EJcYn-GBS": "By using Google Trends",
+            "choice_E1W92uzBr": "By using Google Ads"
+        }
+    }
+}

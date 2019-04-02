@@ -1,0 +1,103 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T09:04:01.778Z",
+            "updatedAt": "2018-10-08T14:41:21.053Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JsEXYCmr",
+        "universalRef": "sli_4JsEXYCmr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_4JsEXYCmr.choice_E1L3BtR7r.id",
+                        "label": "choice_E1L3BtR7r",
+                        "value": "choice_E1L3BtR7r"
+                    },
+                    {
+                        "id": "sli_4JsEXYCmr.choice_Ek9hSYCQH.id",
+                        "label": "choice_Ek9hSYCQH",
+                        "value": "choice_Ek9hSYCQH"
+                    },
+                    {
+                        "id": "sli_4JsEXYCmr.choice_N1maHK0XB.id",
+                        "label": "choice_N1maHK0XB",
+                        "value": "choice_N1maHK0XB"
+                    },
+                    {
+                        "id": "sli_4JsEXYCmr.choice_E1lRHKR7r.id",
+                        "label": "choice_E1lRHKR7r",
+                        "value": "choice_E1lRHKR7r"
+                    },
+                    {
+                        "id": "sli_4JsEXYCmr.choice_E1ZyQqmBH.id",
+                        "label": "choice_E1ZyQqmBH",
+                        "value": "choice_E1ZyQqmBH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1maHK0XB",
+                        "choice_Ek9hSYCQH",
+                        "choice_E1lRHKR7r",
+                        "choice_E1L3BtR7r",
+                        "choice_E1ZyQqmBH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous mettre dans l’ordre les étapes de la méthode des 5S ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour utiliser la méthode des 5S de façon efficace, triez et éloignez du poste de travail tout ce qui n’est pas utile. Puis définissez une place pour chaque objet et disposez-les à portée de main. Ensuite, nettoyez les lieux pour avoir un environnement propre et agréable. Enfin, définissez des standards de rangement pour rendre plus facile le respect des règles. Et n'oubliez pas de vérifier régulièrement si votre organisation reste pertinente en fonction de l'évolution de votre projet.",
+            "tips": "Il ne faut pas hésiter à adopter des méthodes ludiques pour vérifier le maintien de vos performances : par exemple, chronométrer régulièrement que tout document est accessible en moins de 30 secondes.",
+            "clue": "Organisation, puis évaluation.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1L3BtR7r": "Définir des standards de rangement ",
+            "choice_Ek9hSYCQH": "Définir une place pour chaque objet",
+            "choice_N1maHK0XB": "Éloigner l'inutile du poste de travail",
+            "choice_E1lRHKR7r": "Nettoyer les lieux ",
+            "choice_E1ZyQqmBH": "Vérifier régulièrement la pertinence de l'organisation"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "Can you put the following 5S steps in the correct order?",
+            "klf": "If you want the 5S method to be effective, you need to pick out any items in your workspace that aren’t much use to you and put them to one side. Then you should identify a place for each item and make sure all items can be easily accessed. Next, clean up so you have a pleasant, spotless environment to work in. Finally, establish standards for sorting and ordering the workplace to make it easier to follow the rules. As project requirements change over time, you should regularly check whether organisation systems are still working.",
+            "tips": "Why not adopt a few light-hearted processes for checking how well your 5S methods are working? For example, you could regularly time how long it takes to access key documents and make sure it’s under 30 seconds.",
+            "clue": "Organisation, then evaluation.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1L3BtR7r": "Establish standards for sorting and ordering ",
+            "choice_Ek9hSYCQH": "Identify a place for each item",
+            "choice_N1maHK0XB": "Select any items in your workspace that aren’t much use to you and put them to one side",
+            "choice_E1lRHKR7r": "Clean the workplace ",
+            "choice_E1ZyQqmBH": "Regularly check whether organisation systems are working"
+        }
+    }
+}

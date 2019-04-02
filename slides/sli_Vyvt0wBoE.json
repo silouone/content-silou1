@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T09:12:36.578Z",
+            "updatedAt": "2018-06-22T08:21:01.057Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T09:12:36.578Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vyvt0wBoE",
+        "universalRef": "sli_Vyvt0wBoE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vyvt0wBoE.choice_E1-oAvHiN.id",
+                        "label": "choice_E1-oAvHiN",
+                        "value": "choice_E1-oAvHiN"
+                    },
+                    {
+                        "id": "sli_Vyvt0wBoE.choice_VJRo0vroN.id",
+                        "label": "choice_VJRo0vroN",
+                        "value": "choice_VJRo0vroN"
+                    },
+                    {
+                        "id": "sli_Vyvt0wBoE.choice_NJL3CPBoE.id",
+                        "label": "choice_NJL3CPBoE",
+                        "value": "choice_NJL3CPBoE"
+                    },
+                    {
+                        "id": "sli_Vyvt0wBoE.choice_VJlaRvBj4.id",
+                        "label": "choice_VJlaRvBj4",
+                        "value": "choice_VJlaRvBj4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1-oAvHiN",
+                        "choice_NJL3CPBoE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les deux principaux critères pour évaluer la créativité ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Deux critères majeurs permettent d’évaluer votre créativité : le nombre d'idées que vous avez et leur originalité.",
+            "tips": "Pour évaluer la créativité, on utilise le test de Jackson qui consiste à trouver le plus d’utilisations possibles pour un objet de la vie courante, comme par exemple un trombone à papier.",
+            "clue": "Osez rêver grand !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1-oAvHiN": "L’originalité des idées",
+            "choice_VJRo0vroN": "La faisabilité des idées",
+            "choice_NJL3CPBoE": "Le nombre d’idées",
+            "choice_VJlaRvBj4": "La précision des idées"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What two key criteria do we use to assess creativity?",
+            "klf": "Two key criteria help to evaluate creativity: the number of ideas you have and how original they are.",
+            "tips": "The Jackson test is used to assess creativity. It involves finding as many uses as you can for an everyday object such as a paperclip.",
+            "clue": "Dream big!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1-oAvHiN": "How original an idea is",
+            "choice_VJRo0vroN": "How feasible an idea is",
+            "choice_NJL3CPBoE": "How many ideas you come up with",
+            "choice_VJlaRvBj4": "How precise an idea is"
+        }
+    }
+}

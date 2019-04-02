@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-02T11:08:14.488Z",
+            "updatedAt": "2018-06-21T08:17:29.800Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ1STuNc4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJGouYM6N",
+        "universalRef": "sli_NJGouYM6N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJGouYM6N.choice_NJ~AdKGTV.id",
+                        "label": "choice_NJ~AdKGTV",
+                        "value": "choice_NJ~AdKGTV"
+                    },
+                    {
+                        "id": "sli_NJGouYM6N.choice_NkGGKYM6E.id",
+                        "label": "choice_NkGGKYM6E",
+                        "value": "choice_NkGGKYM6E"
+                    },
+                    {
+                        "id": "sli_NJGouYM6N.choice_NkcftYz6E.id",
+                        "label": "choice_NkcftYz6E",
+                        "value": "choice_NkcftYz6E"
+                    },
+                    {
+                        "id": "sli_NJGouYM6N.choice_EJZ7tFMa4.id",
+                        "label": "choice_EJZ7tFMa4",
+                        "value": "choice_EJZ7tFMa4"
+                    },
+                    {
+                        "id": "sli_NJGouYM6N.choice_VkvXYKGp4.id",
+                        "label": "choice_VkvXYKGp4",
+                        "value": "choice_VkvXYKGp4"
+                    },
+                    {
+                        "id": "sli_NJGouYM6N.choice_EJz4KYMaE.id",
+                        "label": "choice_EJz4KYMaE",
+                        "value": "choice_EJz4KYMaE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ~AdKGTV",
+                        "choice_NkGGKYM6E",
+                        "choice_VkvXYKGp4",
+                        "choice_EJz4KYMaE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Notre attention peut être détournée par des voleurs d’attention de type mental. Saurez-vous les identifier ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les voleurs d’attention de type mental nous entraînent le plus souvent soit vers le futur par anticipation impatiente, soit vers le passé par ressassements.",
+            "tips": "Nous imaginons en permanence et, parfois, cette imagination automatique et involontaire incite notre esprit à tourner en rond. En guidant notre imagination par l'attention au présent, nous la rendons créatrice et utilisons cette capacité pour trouver des solutions originales et nouvelles à des problèmes qui nous semblaient insolubles.",
+            "clue": "Différencier voleurs d'attention et capacité humaine à se projeter dans le temps.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ~AdKGTV": "Imagination vagabonde",
+            "choice_NkGGKYM6E": "Ressassements d'un même sujet ",
+            "choice_NkcftYz6E": "Créativité débridée",
+            "choice_EJZ7tFMa4": "Planification de projets de travail",
+            "choice_VkvXYKGp4": "Anticipation impatiente du déroulement d'un projet personnel à venir",
+            "choice_EJz4KYMaE": "Pensées involontaires"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Mental attention thieves can distract you at any time. Which of the following are mental attention thieves?",
+            "klf": "Mental attention thieves make us impatient because we’re always looking ahead in anticipation. They also make us ruminate over past events.",
+            "tips": "We’re constantly thinking, and our automatic and involuntary thoughts make our minds go round and round in circles. We can guide our thoughts by focusing on the present moment. This helps us to use our imagination for something creative and develop an ability to find new and original solutions to problems that we didn’t know how to solve before.",
+            "clue": "Differentiating between attention thieves and the human ability to look ahead.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ~AdKGTV": "A wandering mind",
+            "choice_NkGGKYM6E": "Ruminating over a particular issue ",
+            "choice_NkcftYz6E": "Unlimited creativity",
+            "choice_EJZ7tFMa4": "Planning work projects",
+            "choice_VkvXYKGp4": "Impatiently anticipating an upcoming personal event ",
+            "choice_EJz4KYMaE": "Involuntary thoughts"
+        }
+    }
+}

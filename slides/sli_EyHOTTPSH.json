@@ -1,0 +1,118 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T13:04:56.888Z",
+            "updatedAt": "2018-10-12T14:56:35.117Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyHOTTPSH",
+        "universalRef": "sli_EyHOTTPSH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EyHOTTPSH.field_Ek-iTpPHH.id",
+                        "type": "text",
+                        "name": "inp19886"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp19886",
+                        "answers": [
+                            "choice_EkzusppPBH",
+                            "choice_VkHc2OJUr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle solution a le vent en poupe pour fidéliser sa clientèle et ainsi consolider sa communauté ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "La box par abonnement (de livres, de produits de beauté ou encore de vin…) est une excellente solution pour fidéliser ses clients en leur fixant un rendez-vous récurrent, ce qui permet de rassembler facilement une communauté.",
+            "tips": "Face au succès des box par abonnement, des sites comme Boxraiser ou Launch Your Box se sont développés pour faciliter le lancement de son business de box.",
+            "clue": "C'est dans la boîte !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La {{inp19886}} par abonnement.",
+            "choice_EkzusppPBH": "box",
+            "choice_VkHc2OJUr": "boîte"
+        },
+        "en": {
+            "header": "Which solution has the wind in its sails to build customer loyalty and thus strengthen its community?",
+            "explanation": "Enter your answer.",
+            "klf": "The box subscription (books, beauty products or wine ...) is an excellent solution to retain customers by setting a recurring appointment, which makes it easy to gather a community.",
+            "tips": "Faced with the success of subscription boxes, sites like Boxraiser or Launch Your Box have been developed to facilitate the launch of its box business.",
+            "clue": "It's in the box !",
+            "template": "The {{inp19886}} by subscription.",
+            "choice_EkzusppPBH": "box",
+            "choice_VkHc2OJUr": "box",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Welche Lösung gewinnt unter den Unternehmen an Bedeutung, um die Treue ihrer Kunden zu gewinnen und ihre Community aufzubauen?",
+            "explanation": "Geben Sie Ihre Antwort ein.",
+            "klf": "In Abonnementboxen (Bücher, Schönheitsprodukte und sogar Wein) müssen Sie einen Termin mit Ihrer Kundschaft vereinbaren. Dies ist eine hervorragende Möglichkeit, um Loyalität zu gewinnen und eine Community zu organisieren.",
+            "tips": "Dank des Erfolgs von Abonnementboxen wurden Websites wie Boxraiser und Launch Your Box entwickelt, um den Start Ihres Boxgeschäfts zu erleichtern.",
+            "clue": "Keine Notwendigkeit, über den Tellerrand hinauszudenken!",
+            "template": "Abonnement {{inp19886}}.",
+            "choice_EkzusppPBH": "Boxen",
+            "choice_VkHc2OJUr": "Büchsen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Type in your answer.",
+            "header": "Which solution is gaining traction among companies as a means of earning the loyalty of their clientele and building their community?",
+            "klf": "Subscription boxes (books, beauty products and even wine) involve setting a scheduled date with your clientele, and is an excellent way of earning their loyalty and easily organising a community.",
+            "tips": "Thanks to the success of subscription boxes, websites such as Boxraiser and Launch Your Box have developed to make it easier to launch your box business.",
+            "clue": "No need to think outside the box!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Subscription {{inp19886}}.",
+            "choice_EkzusppPBH": "boxes",
+            "choice_VkHc2OJUr": "cans"
+        },
+        "zh": {
+            "header": "哪种解决方案在公司中获得吸引力，作为赢得客户忠诚度和建立社区的手段？",
+            "explanation": "输入你的答案。",
+            "klf": "订阅盒（书籍，美容产品甚至葡萄酒）涉及与您的客户设定预定日期，是获得忠诚度和轻松组织社区的绝佳方式。",
+            "tips": "由于订阅盒的成功，Boxraiser和Launch Your Box等网站的开发使其更容易启动您的盒子业务。",
+            "clue": "无需在盒子外面思考！",
+            "template": "订阅{{inp19886}}。",
+            "choice_EkzusppPBH": "盒子",
+            "choice_VkHc2OJUr": "罐",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

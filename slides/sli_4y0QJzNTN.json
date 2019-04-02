@@ -1,0 +1,159 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T14:45:09.017Z",
+            "updatedAt": "2018-07-26T15:02:22.828Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4y0QJzNTN",
+        "universalRef": "sli_4y0QJzNTN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4y0QJzNTN.choice_EkxprJMNp4.id",
+                        "label": "choice_EkxprJMNp4",
+                        "value": "choice_EkxprJMNp4",
+                        "media": "med_EkprkfNTN"
+                    },
+                    {
+                        "id": "sli_4y0QJzNTN.choice_VJgCrkGV6N.id",
+                        "label": "choice_VJgCrkGV6N",
+                        "value": "choice_VJgCrkGV6N",
+                        "media": "med_NyRB1METE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJgCrkGV6N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The more objectives set for the team, the better. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! It is better to limit the number of indicators to avoid overwhelming employees with a ton of figures. This is also a way to reiterate the project’s primary objectives.",
+            "tips": "You should choose reliable indicators that are not subject to random fluctuations.",
+            "clue": "Quality over quantity.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkxprJMNp4": "TRUE",
+            "choice_VJgCrkGV6N": "FALSE"
+        },
+        "fr": {
+            "header": "Plus vous fixez d'objectifs à votre équipe, mieux c'est. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Faux! Il est préférable de limiter le nombre d'indicateurs pour éviter de surcharger un grand nombre d'employés. C'est également un moyen de réaffirmer les objectifs principaux du projet.",
+            "tips": "Vous devez choisir des indicateurs fiables qui ne sont pas affectés par des fluctuations aléatoires.",
+            "clue": "La qualité, pas la quantité.",
+            "choice_EkxprJMNp4": "Vraiment",
+            "choice_VJgCrkGV6N": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "Cuantos más objetivos se establezcan para el equipo, mejor. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "¡Falso! Es mejor limitar el número de indicadores para evitar empleados abrumadores con una tonelada de cifras. Esta es también una forma de reiterar los objetivos principales del proyecto.",
+            "tips": "Debe elegir indicadores confiables que no estén sujetos a fluctuaciones aleatorias.",
+            "clue": "Calidad sobre cantidad.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkxprJMNp4": "Cierto",
+            "choice_VJgCrkGV6N": "Falso"
+        },
+        "it": {
+            "header": "Più obiettivi sono stati stabiliti per la squadra, meglio è. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Falso! È meglio limitare il numero di indicatori per evitare dipendenti schiaccianti con un sacco di cifre. Questo è anche un modo per reiterare gli obiettivi primari del progetto.",
+            "tips": "Dovresti scegliere indicatori affidabili che non sono soggetti a fluttuazioni casuali.",
+            "clue": "Qualità più che quantità.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkxprJMNp4": "Vero",
+            "choice_VJgCrkGV6N": "falso"
+        },
+        "de": {
+            "header": "The more objectives set for the team, the better. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! It is better to limit the number of indicators to avoid overwhelming employees with a ton of figures. This is also a way to reiterate the project’s primary objectives.",
+            "tips": "You should choose reliable indicators that are not subject to random fluctuations.",
+            "clue": "Quality over quantity.",
+            "choice_EkxprJMNp4": "TRUE",
+            "choice_VJgCrkGV6N": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "팀에 대한 목표 설정이 많을수록 좋습니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "그릇된! 압도적 인 직원들이 많은 인원을 가지지 않도록 지표의 수를 제한하는 것이 좋습니다. 이것은 또한 프로젝트의 주요 목표를 반복하는 한 방법입니다.",
+            "tips": "무작위 변동의 영향을받지 않는 신뢰할 수있는 지표를 선택해야합니다.",
+            "clue": "수량보다 품질.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkxprJMNp4": "참된",
+            "choice_VJgCrkGV6N": "그릇된"
+        },
+        "ru": {
+            "header": "Чем больше задач для команды, тем лучше. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Ложь! Лучше ограничить количество индикаторов, чтобы избежать подавляющих сотрудников с тонны цифр. Это также способ повторить основные цели проекта.",
+            "tips": "Вы должны выбрать надежные индикаторы, которые не подвержены случайным колебаниям.",
+            "clue": "Качество важнее количества.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkxprJMNp4": "Правда",
+            "choice_VJgCrkGV6N": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quanto mais objetivos forem definidos para a equipe, melhor. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "Falso! É melhor limitar o número de indicadores para evitar sobrecarregar os funcionários com uma tonelada de números. Esta é também uma forma de reiterar os principais objetivos do projeto.",
+            "tips": "Você deve escolher indicadores confiáveis ​​que não estejam sujeitos a flutuações aleatórias.",
+            "clue": "Qualidade acima de quantidade.",
+            "choice_EkxprJMNp4": "VERDADE",
+            "choice_VJgCrkGV6N": "FALSO"
+        },
+        "zh": {
+            "header": "为团队设定的目标越多越好。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "假！最好限制指标的数量，以避免压倒大量数字的员工。这也是重申项目主要目标的一种方式。",
+            "tips": "您应该选择不受随机波动影响的可靠指标。",
+            "clue": "质量而不是数量。",
+            "choice_EkxprJMNp4": "真正",
+            "choice_VJgCrkGV6N": "假"
+        }
+    }
+}

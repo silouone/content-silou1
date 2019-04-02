@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T08:47:51.641Z",
+            "updatedAt": "2018-08-10T12:35:46.742Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJwaFlbrB",
+        "universalRef": "sli_NJwaFlbrB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJwaFlbrB.choice_EylgNqxZBB.id",
+                        "label": "choice_EylgNqxZBB",
+                        "value": "choice_EylgNqxZBB",
+                        "media": "med_E1e45xWHr"
+                    },
+                    {
+                        "id": "sli_NJwaFlbrB.choice_Eke3Nqg~HB.id",
+                        "label": "choice_Eke3Nqg~HB",
+                        "value": "choice_Eke3Nqg~HB",
+                        "media": "med_Vy3Nce~rB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Eke3Nqg~HB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La présence à la réunion par laquelle vous êtes concerné est indispensable pour bien gérer ses tâches. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les réunions sont souvent très chronophages et pas réellement indispensables, ce qui peut entraîner une baisse importante d’efficacité au cours de la journée de travail. Ainsi, il est conseillé de bien comprendre le besoin derrière la réunion organisée et de tenter d'y répondre autrement si besoin.",
+            "tips": "Selon l’étude réalisée par Oxford en mai 2008 auprès de 500 managers dans cinq pays d'Europe (France, Italie, Espagne, Portugal et Allemagne), 40% déclarent se trouver d’autres occupations pendant les réunions, tandis que 14% des cadres en profitent pour faire la sieste.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylgNqxZBB": "Vrai",
+            "choice_Eke3Nqg~HB": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "La présence à la réunion par laquelle vous êtes concerné est indispensable pour bien gérer ses tâches. Vrai ou faux ?",
+            "klf": "Les réunions sont souvent très chronophages et pas réellement indispensables, ce qui peut entraîner une baisse importante d’efficacité au cours de la journée de travail. Ainsi, il est conseillé de bien comprendre le besoin derrière la réunion organisée et de tenter d'y répondre autrement si besoin.",
+            "tips": "Selon l’étude réalisée par Oxford en mai 2008 auprès de 500 managers dans cinq pays d'Europe (France, Italie, Espagne, Portugal et Allemagne), 40% déclarent se trouver d’autres occupations pendant les réunions, tandis que 14% des cadres en profitent pour faire la sieste.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylgNqxZBB": "Vrai",
+            "choice_Eke3Nqg~HB": "Faux"
+        }
+    }
+}

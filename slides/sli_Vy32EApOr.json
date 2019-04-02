@@ -1,0 +1,88 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T12:37:45.650Z",
+            "updatedAt": "2018-10-17T12:04:23.175Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NykE9YqES"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vy32EApOr",
+        "universalRef": "sli_Vy32EApOr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vy32EApOr.choice_NJqkr0pdS.id",
+                        "label": "choice_NJqkr0pdS",
+                        "value": "choice_NJqkr0pdS"
+                    },
+                    {
+                        "id": "sli_Vy32EApOr.choice_EkJgBCTOH.id",
+                        "label": "choice_EkJgBCTOH",
+                        "value": "choice_EkJgBCTOH"
+                    },
+                    {
+                        "id": "sli_Vy32EApOr.choice_VkObBAadB.id",
+                        "label": "choice_VkObBAadB",
+                        "value": "choice_VkObBAadB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJqkr0pdS",
+                        "choice_VkObBAadB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En quoi consiste l’A/B testing ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L’expérience utilisateur est désormais primordiale pour réussir sur Internet. Site Web et applications doivent être facilement utilisables sur ordinateurs comme sur mobiles. La moindre difficulté imposée à ses visiteurs risque de faire chuter les taux de conversion dans des proportions importantes.",
+            "tips": "Le succès de l’A/B testing étant un travail au long cours, il est recommandé de mener des tests en permanence !",
+            "clue": "Un duel au profit du client.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJqkr0pdS": "À comparer deux versions d’un contenu ou un call-to-action pour retenir la plus performante",
+            "choice_EkJgBCTOH": "À comparer deux sites Web pour savoir quel est le plus esthétique ",
+            "choice_VkObBAadB": "À optimiser l'UX d’un site Web ",
+            "choice_41oQS0T-B": "à acquérir de l’audience "
+        },
+        "en": {
+            "header": "En quoi consiste l’A/B testing ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L’expérience utilisateur est désormais primordiale pour réussir sur Internet. Site Web et applications doivent être facilement utilisables sur ordinateurs comme sur mobiles. La moindre difficulté imposée à ses visiteurs risque de faire chuter les taux de conversion dans des proportions importantes.",
+            "tips": "Le succès de l’A/B testing étant un travail au long cours, il est recommandé de mener des tests en permanence !",
+            "clue": "Un duel au profit du client.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJqkr0pdS": "À comparer deux versions d’un contenu ou un call-to-action pour retenir la plus performante",
+            "choice_EkJgBCTOH": "À comparer deux sites Web pour savoir quel est le plus esthétique ",
+            "choice_VkObBAadB": "À optimiser lUX d’un site Web ",
+            "choice_41oQS0T-B": ""
+        }
+    }
+}

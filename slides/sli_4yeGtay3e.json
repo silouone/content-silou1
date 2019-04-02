@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:23:26.820Z",
+            "updatedAt": "2017-12-11T10:52:43.143Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yeGtay3e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yeGtay3e.choice_4yX7q6Jng.id",
+                        "label": "choice_4yX7q6Jng",
+                        "value": "choice_4yX7q6Jng"
+                    },
+                    {
+                        "id": "sli_4yeGtay3e.choice_EyVQ56knl.id",
+                        "label": "choice_EyVQ56knl",
+                        "value": "choice_EyVQ56knl"
+                    },
+                    {
+                        "id": "sli_4yeGtay3e.choice_EJxEXcTJ2l.id",
+                        "label": "choice_EJxEXcTJ2l",
+                        "value": "choice_EJxEXcTJ2l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyVQ56knl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4yeGtay3e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le premier obstacle empêchant les femmes de se lancer dans l'entreprenariat, d'après une étude OpinionWay ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour 60% des femmes interrogées par OpinionWay en 2012, la peur d'un déséquilibre entre vie personnelle et professionnelle est leur premier frein à l'entreprenariat. Ce n'est pas une question d'envie : plus de deux femmes sur trois pensent que la création d'entreprise est plus épanouissante que le salariat.",
+            "tips": "À l'inverse, 18% des femmes interrogées expliquent qu'une de leurs motivations pour devenir entrepreneure est de pouvoir s'occuper de leurs enfants tout en travaillant.",
+            "clue": "Un frein intérieur.",
+            "choice_4yX7q6Jng": "La difficulté à lever des fonds",
+            "choice_EyVQ56knl": "La peur du déséquilibre entre vie professionnelle et personnelle",
+            "choice_EJxEXcTJ2l": "Le manque de compétences managériales"
+        },
+        "en": {
+            "header": "What is the first hurdle preventing women from starting entrepreneurship, according to an OpinionWay study?",
+            "explanation": "Select the correct answer.",
+            "klf": "For 60% of the women interviewed by OpinionWay in 2012, the fear of an imbalance between personal and professional life is their first obstacle to entrepreneurship. It is not a question of envy: more than two women out of three think that the creation of a company is more fulfilling than the wage-earning.",
+            "tips": "In contrast, 18% of women surveyed said that one of their motivations for becoming an entrepreneur is to be able to take care of their children while working.",
+            "clue": "An internal brake.",
+            "choice_4yX7q6Jng": "Difficulty raising funds",
+            "choice_EyVQ56knl": "Fear of the imbalance between professional and personal life",
+            "choice_EJxEXcTJ2l": "The lack of managerial skills"
+        },
+        "de": {
+            "header": "Was ist laut einer Studie von OpinionWay das erste Hindernis für Frauen, Unternehmerinnen zu werden?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Für 60% der von Opinion im Jahr 2012 befragten Frauen ist die Angst, das persönliche und berufliche Leben nicht in Einklang bringen zu können, das erste Hindernis für das Unternehmertum. Das liegt nicht daran, dass sie die Idee nicht mögen: Mehr als zwei von drei Frauen glauben, dass Unternehmertum erfüllender ist, als eine Angestellte zu sein.",
+            "tips": "Umgekehrt erklären 18% der Befragten, dass ihre Motivation, Unternehmer zu werden, darin besteht, sich um ihre Kinder während der Arbeit kümmern zu können.",
+            "clue": "Eine mentale Bremse.",
+            "choice_4yX7q6Jng": "Die Schwierigkeit bei der Beschaffung von Geldern",
+            "choice_EyVQ56knl": "Angst, nicht in der Lage zu sein, Arbeit und Privatleben miteinander in Einklang zu bringen",
+            "choice_EJxEXcTJ2l": "Der Mangel an Führungsfähigkeiten"
+        },
+        "es": {
+            "header": "What is the first obstacle preventing women from becoming entrepreneurs, according to a study by OpinionWay?",
+            "explanation": "Select the correct answer.",
+            "klf": "For 60% of women surveyed by Opinion in 2012, the fear of not being able to balance personal and professional lives is their first obstacle to entrepreneurship. This is not because they do not like the idea: more than two out of three women believe that entrepreneurship is more fulfilling than being an employee.",
+            "tips": "Conversely, 18% of respondents explain that their motivation to become an entrepreneur is to be able to care for their children while working.",
+            "choice_4yX7q6Jng": "The difficulty in raising funds",
+            "choice_EyVQ56knl": "Fear of not being able to balance between work and personal life",
+            "choice_EJxEXcTJ2l": "The lack of managerial skills",
+            "clue": "A mental brake."
+        },
+        "zh": {
+            "header": "根据OpinionWay的一项研究，阻碍女性成为企业家的第一个障碍是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "对于2012年Opinion调查的女性中有60％的人来说，担心无法平衡个人和职业生活是他们创业的第一个障碍。这并不是因为他们不喜欢这个想法：三分之二以上的女性认为创业比成为一名员工更有成就感。",
+            "tips": "相反，18％的受访者解释说，他们成为企业家的动机是能够在工作时照顾孩子。",
+            "clue": "精神制动。",
+            "choice_4yX7q6Jng": "筹集资金的困难",
+            "choice_EyVQ56knl": "害怕无法在工作和个人生活之间取得平衡",
+            "choice_EJxEXcTJ2l": "缺乏管理技能"
+        }
+    }
+}

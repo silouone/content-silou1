@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T09:25:14.698Z",
+            "updatedAt": "2018-05-09T12:33:45.044Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJoIlsMhV",
+        "universalRef": "sli_EJoIlsMhV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJoIlsMhV.choice_41J0gof24.id",
+                        "label": "choice_41J0gof24",
+                        "value": "choice_41J0gof24"
+                    },
+                    {
+                        "id": "sli_EJoIlsMhV.choice_41PRgif2V.id",
+                        "label": "choice_41PRgif2V",
+                        "value": "choice_41PRgif2V"
+                    },
+                    {
+                        "id": "sli_EJoIlsMhV.choice_4JkJbsG34.id",
+                        "label": "choice_4JkJbsG34",
+                        "value": "choice_4JkJbsG34"
+                    },
+                    {
+                        "id": "sli_EJoIlsMhV.choice_NyP1WjM3V.id",
+                        "label": "choice_NyP1WjM3V",
+                        "value": "choice_NyP1WjM3V"
+                    },
+                    {
+                        "id": "sli_EJoIlsMhV.choice_NyyeZiM34.id",
+                        "label": "choice_NyyeZiM34",
+                        "value": "choice_NyyeZiM34"
+                    },
+                    {
+                        "id": "sli_EJoIlsMhV.choice_N1qxZoMhE.id",
+                        "label": "choice_N1qxZoMhE",
+                        "value": "choice_N1qxZoMhE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41J0gof24",
+                        "choice_41PRgif2V",
+                        "choice_4JkJbsG34",
+                        "choice_NyP1WjM3V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Un des exercices de pleine conscience consiste à marcher en sentant tout le déroulé de notre corps, sans changer de rythme. Mais à quoi devrions-nous prêter attention en particulier ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "On commence cet exercice par sentir le déroulé du pied sur le sol, du talon aux orteils, puis on continue par le mouvement des genoux et des jambes, les hanches puis le balancé des épaules.",
+            "tips": "En faisant cet exercice, on peut s’apercevoir que notre tête ne participe pas à la marche et que nous pouvons la tourner et regarder alentour.",
+            "clue": "La sensation du corps",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41J0gof24": "Le déroulé du pied sur le sol ",
+            "choice_41PRgif2V": "Le balancé des épaules ",
+            "choice_4JkJbsG34": "Le déhanchement ",
+            "choice_NyP1WjM3V": "Le mouvement des genoux ",
+            "choice_NyyeZiM34": "Le lieu où on se rend",
+            "choice_N1qxZoMhE": "La durée de la marche"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Un des exercices de pleine conscience consiste à marcher en sentant tout le déroulé de notre corps, sans changer de rythme. Mais à quoi devrions-nous prêter attention en particulier ?",
+            "klf": "On commence cet exercice par sentir le déroulé du pied sur le sol, du talon aux orteils, puis on continue par le mouvement des genoux et des jambes, les hanches puis le balancé des épaules.",
+            "tips": "En faisant cet exercice, on peut s’apercevoir que notre tête ne participe pas à la marche et que nous pouvons la tourner et regarder alentour.",
+            "clue": "La sensation du corps",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41J0gof24": "Le déroulé du pied sur le sol ",
+            "choice_41PRgif2V": "Le balancé des épaules ",
+            "choice_4JkJbsG34": "Le déhanchement ",
+            "choice_NyP1WjM3V": "Le mouvement des genoux ",
+            "choice_NyyeZiM34": "Le lieu où on se rend",
+            "choice_N1qxZoMhE": "La durée de la marche"
+        }
+    }
+}

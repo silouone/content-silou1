@@ -1,0 +1,151 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:22:50.319Z",
+            "updatedAt": "2016-08-31T14:14:54.273Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kZIhpX2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel47115",
+                        "label": "label_V1Taz0r0x",
+                        "items": [
+                            {
+                                "text": "choice_NJxapMRBCg",
+                                "value": "choice_NJxapMRBCg"
+                            },
+                            {
+                                "text": "choice_VJW6pzRHAg",
+                                "value": "choice_VJW6pzRHAg"
+                            },
+                            {
+                                "text": "choice_V1reXCBAl",
+                                "value": "choice_V1reXCBAl"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel47115",
+                        "answers": [
+                            "choice_VJW6pzRHAg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4kZIhpX2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appelle-t-on un leadership qui accompagne son équipe ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pour développer un management collaboratif, soyez un chef mais aussi quelqu'un qui accompagne ses collaborateurs. Cela contribuera à pérenniser votre leadership.",
+            "tips": "Le management collaboratif repose sur quatre \"C\" : la confiance, la convivialité, le choix et la coresponsabilité (source : \"Les quatre piliers du management collaboratif\", Le Journal du Net).",
+            "template": "Management   {{sel47115}}   .",
+            "clue": "Nous n'avons pas dit \"ses subordonnés\".",
+            "label_Nyt2hTQng": " ",
+            "choice_E1gt2hp72x": "",
+            "choice_VybF22amng": "",
+            "label_41gka2pQng": " ",
+            "placeholder_EkWyp3Tm2x": " ",
+            "label_V1Taz0r0x": " ",
+            "choice_NJxapMRBCg": "directif",
+            "choice_VJW6pzRHAg": "collaboratif",
+            "choice_V1reXCBAl": "féminin"
+        },
+        "en": {
+            "header": "What is the name of leadership that accompanies his team?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "To develop a collaborative management, be a leader but also someone who accompanies his collaborators. This will help sustain your leadership.",
+            "tips": "Collaborative management is based on four \"Cs\": trust, conviviality, choice and co-responsibility (source: \"The four pillars of collaborative management\", Le Journal du Net).",
+            "clue": "We did not say \"his subordinates\".",
+            "template": "Management   {{sel47115}}   .",
+            "label_V1Taz0r0x": " ",
+            "choice_NJxapMRBCg": "directive",
+            "choice_VJW6pzRHAg": "collaborative",
+            "choice_V1reXCBAl": "female",
+            "label_Nyt2hTQng": " ",
+            "choice_E1gt2hp72x": "",
+            "choice_VybF22amng": "",
+            "label_41gka2pQng": " ",
+            "placeholder_EkWyp3Tm2x": " "
+        },
+        "de": {
+            "header": "Wie nennen Sie eine Führungskraft, die ihr Team unterstützt?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Um ein kollaboratives Management zu entwickeln, seien Sie eine Führungskraft, aber auch jemand, der Ihre Mitarbeiter unterstützt. Dies hilft, Ihre Führung zu halten.",
+            "tips": "Das kooperative Management basiert auf vier \"Cs\": Vertrauen, Geselligkeit, Auswahl und Mitverantwortung. (Quelle: \"Die vier Säulen des kollaborativen Managements\", Le Journal du Net)",
+            "clue": "Wir haben nicht \"ihre Untergebenen\" gesagt.",
+            "template": "{{sel47115}} Verwaltung",
+            "label_V1Taz0r0x": " ",
+            "choice_NJxapMRBCg": "Richtlinie",
+            "choice_VJW6pzRHAg": "Kollaborativ",
+            "choice_V1reXCBAl": "Weiblich",
+            "label_Nyt2hTQng": " ",
+            "choice_E1gt2hp72x": "",
+            "choice_VybF22amng": "",
+            "label_41gka2pQng": " ",
+            "placeholder_EkWyp3Tm2x": " "
+        },
+        "es": {
+            "header": "What do you call a leader who supports their team?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "To develop a collaborative management, be a leader but also someone who supports your employees. This helps to sustain your leadership.",
+            "tips": "Collaborative management is based on four \"Cs\": confidence, conviviality, choice and co-responsibility. (Source: \"The four pillars of collaborative management\", Le Journal du Net)",
+            "template": "{{sel47115}}  management",
+            "label_Nyt2hTQng": " ",
+            "choice_E1gt2hp72x": "",
+            "choice_VybF22amng": "",
+            "label_41gka2pQng": " ",
+            "placeholder_EkWyp3Tm2x": " ",
+            "label_V1Taz0r0x": " ",
+            "choice_NJxapMRBCg": "Directive",
+            "choice_VJW6pzRHAg": "Collaborative",
+            "choice_V1reXCBAl": "Female",
+            "clue": "We did not say \"their subordinates\"."
+        },
+        "zh": {
+            "header": "你怎么称呼支持他们团队的领导者？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "要发展协作管理，请成为领导者，同时也要支持您的员工。这有助于维持领导力。",
+            "tips": "协作管理基于四个“C”：信心，欢乐，选择和共同责任。 （资料来源：“协作管理的四大支柱”，Le Journal du Net）",
+            "clue": "我们没有说“他们的下属”。",
+            "template": "{{sel47115}}管理层",
+            "label_V1Taz0r0x": " ",
+            "choice_NJxapMRBCg": "指示",
+            "choice_VJW6pzRHAg": "共同",
+            "choice_V1reXCBAl": "女",
+            "label_Nyt2hTQng": " ",
+            "choice_E1gt2hp72x": "",
+            "choice_VybF22amng": "",
+            "label_41gka2pQng": " ",
+            "placeholder_EkWyp3Tm2x": " "
+        }
+    }
+}

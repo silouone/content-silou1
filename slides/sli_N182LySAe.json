@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-30T16:03:58.359Z",
+            "updatedAt": "2016-05-20T15:48:30.244Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N182LySAe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel57790",
+                        "label": "label_41sWvyBAg",
+                        "items": [
+                            {
+                                "text": "choice_EJxobvyHRl",
+                                "value": "choice_EJxobvyHRl"
+                            },
+                            {
+                                "text": "choice_Vk~oWvJHCe",
+                                "value": "choice_Vk~oWvJHCe"
+                            },
+                            {
+                                "text": "choice_NksXwyrRe",
+                                "value": "choice_NksXwyrRe"
+                            },
+                            {
+                                "text": "choice_NJ7rvJBRx",
+                                "value": "choice_NJ7rvJBRx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel57790",
+                        "answers": [
+                            "choice_Vk~oWvJHCe"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N182LySAe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Certaines entreprises disposent de réseaux féminins en interne. Comment s'appelle celui de Coca-Cola ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Vous pouvez choisir le réseau de votre entreprise, s'il existe. Par exemple, chez Coca-Cola, Elles@Coke rassemble des femmes managers qui se coachent entre elles. Chez Engie, Women In Networking regroupe plus de 800 femmes.",
+            "tips": "L'un des plus anciens réseaux féminins d'entreprise est né dans un groupe informatique : les Elles d'IBM.",
+            "template": "{{sel57790}}",
+            "label_41sWvyBAg": " ",
+            "choice_EJxobvyHRl": "Coke'n'girls",
+            "choice_Vk~oWvJHCe": "Elles@Coke",
+            "clue": "Molière et Shakespeare.",
+            "choice_NksXwyrRe": "Les femmes de Coca-Cola",
+            "choice_NJ7rvJBRx": "Coca's Women"
+        },
+        "en": {
+            "header": "Some companies have women's networks in-house. What is Coca-Cola's name?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "You can choose the network of your company, if it exists. For example, at Coca-Cola, Elles @ Coke brings together women managers who coach each other. At Engie, Women In Networking brings together more than 800 women.",
+            "tips": "One of the oldest women's business networks was born in a computer group: the Elles of IBM.",
+            "clue": "Molière and Shakespeare.",
+            "template": "{{sel57790}}",
+            "label_41sWvyBAg": " ",
+            "choice_EJxobvyHRl": "Coke'n'girls",
+            "choice_Vk~oWvJHCe": "They @ Coke",
+            "choice_NksXwyrRe": "The women of Coca-Cola",
+            "choice_NJ7rvJBRx": "Coca's Women"
+        },
+        "de": {
+            "header": "Einige Unternehmen verfügen über eigene Frauennetzwerke. Wie heißt Coca-Cola?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Sie können das Netzwerk Ihres Unternehmens auswählen, falls vorhanden. Bei Coca-Cola beispielsweise bringt Elles @ Coke weibliche Manager zusammen, die sich gegenseitig coachen. Bei Engie bringt Women In Networking mehr als 800 Frauen zusammen.",
+            "tips": "Eines der ältesten Frauennetzwerke für Frauen wurde in einer Computergruppe geboren: die Elles von IBM.",
+            "clue": "Molière und Shakespeare.",
+            "template": "{{sel57790}}",
+            "label_41sWvyBAg": " ",
+            "choice_EJxobvyHRl": "Coke'n'girls",
+            "choice_Vk~oWvJHCe": "Sie @ Coke",
+            "choice_NksXwyrRe": "Die Frauen von Coca-Cola",
+            "choice_NJ7rvJBRx": "Cocas Frauen"
+        },
+        "es": {
+            "header": "Certaines entreprises disposent de réseaux féminins en interne. Comment s'appelle celui de Coca-Cola ?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "Vous pouvez choisir le réseau de votre entreprise, s'il existe. Par exemple, chez Coca-Cola, Elles@Coke rassemble des femmes managers qui se coachent entre elles. Chez Engie, Women In Networking regroupe plus de 800 femmes.",
+            "tips": "L'un des plus anciens réseaux féminins d'entreprise est né dans un groupe informatique : les Elles d'IBM.",
+            "template": "{{sel57790}}",
+            "label_41sWvyBAg": " ",
+            "choice_EJxobvyHRl": "Coke'n'girls",
+            "choice_Vk~oWvJHCe": "Elles@Coke",
+            "choice_NksXwyrRe": "Les femmes de Coca-Cola",
+            "choice_NJ7rvJBRx": "Coca's Women",
+            "clue": "Molière et Shakespeare."
+        },
+        "zh": {
+            "header": "一些公司内部有女性网络。什么是可口可乐的名字？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "您可以选择公司的网络（如果存在）。例如，在可口可乐公司，Elles @ Coke汇集了相互指导的女性经理。在Engie，网络中的女性聚集了800多名女性。",
+            "tips": "最古老的女性商业网络之一出生在一个计算机组：IBM的Elles。",
+            "clue": "莫里哀和莎士比亚。",
+            "template": "{{Sel57790}}",
+            "label_41sWvyBAg": " ",
+            "choice_EJxobvyHRl": "Coke'n'girls",
+            "choice_Vk~oWvJHCe": "他们@可乐",
+            "choice_NksXwyrRe": "可口可乐的女人",
+            "choice_NJ7rvJBRx": "可口可乐的女人"
+        }
+    }
+}

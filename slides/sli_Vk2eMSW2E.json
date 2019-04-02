@@ -1,0 +1,106 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:28:56.742Z",
+            "updatedAt": "2018-06-21T08:06:49.963Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vk2eMSW2E",
+        "universalRef": "sli_Vk2eMSW2E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel12976",
+                        "label": "label_Eki2Cp5hN",
+                        "items": [
+                            {
+                                "text": "choice_EJxinCTq34",
+                                "value": "choice_EJxinCTq34"
+                            },
+                            {
+                                "text": "choice_4JZshRTqnN",
+                                "value": "choice_4JZshRTqnN"
+                            },
+                            {
+                                "text": "choice_VJl11Cq2V",
+                                "value": "choice_VJl11Cq2V"
+                            },
+                            {
+                                "text": "choice_4yF1JAq34",
+                                "value": "choice_4yF1JAq34"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel12976",
+                        "answers": [
+                            "choice_4JZshRTqnN"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel repère-clé peut nous aider à reconnaître que nous vivons le moment présent en pleine conscience ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "L’allègement procuré par la présence attentive est perçu différemment selon les personnes comme un sentiment de joie, de sérénité ou de calme.",
+            "tips": "Tous les enseignements dont la base est la pratique de l’attention au présent parlent de la libération des souffrances engendrées par nos peurs ou notre imagination.",
+            "clue": "Dormir, c'est mieux la nuit...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les moments de pleine conscience sont de courte durée, mais ils sont reconnaissables par le fait qu'ils apportent un sentiment {{sel12976}} durable dans le cadre professionnel.",
+            "label_EJg-QGSW3E": " ",
+            "placeholder_NJW-mMS~2E": " ",
+            "label_Eki2Cp5hN": " ",
+            "choice_EJxinCTq34": "d'endormissement",
+            "choice_4JZshRTqnN": "d'allègement ",
+            "choice_VJl11Cq2V": "de vide",
+            "choice_4yF1JAq34": "d'amour intense"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "Which of the following feelings helps us realise we’re living in the present moment?",
+            "klf": "Mindfulness is felt differently by each individual. It brings about a sense of alleviation, rather like a feeling of joy, tranquillity or calm.",
+            "tips": "There are a variety of different teachings that focus on awareness of the present moment in time. However, all techniques stress the importance of escaping the suffering caused by our fears and imagination.",
+            "clue": "Sleeping is best at night…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Moments of mindfulness are short in length, but they all bring about a long-lasting feeling of {{sel12976}} in the workplace.",
+            "label_EJg-QGSW3E": " ",
+            "placeholder_NJW-mMS~2E": " ",
+            "label_Eki2Cp5hN": " ",
+            "choice_EJxinCTq34": "sleepiness",
+            "choice_4JZshRTqnN": "alleviation",
+            "choice_VJl11Cq2V": "emptiness",
+            "choice_4yF1JAq34": "intense love"
+        }
+    }
+}

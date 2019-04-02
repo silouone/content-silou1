@@ -1,0 +1,115 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-13T08:29:01.806Z",
+            "updatedAt": "2018-10-12T15:05:44.117Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJmCaWFVS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJ9yyE9rr",
+        "universalRef": "sli_NJ9yyE9rr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ9yyE9rr.choice_41lm6uyN8S.id",
+                        "label": "choice_41lm6uyN8S",
+                        "value": "choice_41lm6uyN8S",
+                        "media": "med_4JQadJEUB"
+                    },
+                    {
+                        "id": "sli_NJ9yyE9rr.choice_VJgB6Oy4IH.id",
+                        "label": "choice_VJgB6Oy4IH",
+                        "value": "choice_VJgB6Oy4IH",
+                        "media": "med_VyHadk4IB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJgB6Oy4IH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous souhaitez commencer à constituer une communauté solide. Vous décidez d'organiser un concours avec un lot à la clé. Cette stratégie est généralement payante à long terme. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un concours avec un lot à gagner est un événement trop éphémère pour réussir à construire une communauté pérenne. Les personnes venues sur vos pages pour le concours s'en iront aussitôt celui-ci terminé. Il faut proposer des rendez-vous réguliers, sur le long terme, et surtout définir son image de marque pour rassembler sa communauté autour d'un intérêt ou objectif commun.",
+            "tips": "Si vous souhaitez organiser un concours, adoptez une stratégie qui va vous permettre d'augmenter vos ventes ou votre visibilité. Par exemple en organisant un jeu d'une durée d'un mois avec une activité par jour.",
+            "clue": "Une fois le lot remporté, que se passe-t-il ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41lm6uyN8S": "Vrai",
+            "choice_VJgB6Oy4IH": "Faux"
+        },
+        "en": {
+            "header": "You want to start building a strong community. You decide to hold a contest with a prize. This strategy usually pays off in the long run. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "A contest with a prize to be won is an event too fleeting to succeed in building a sustainable community. The people who came to your pages for the contest will leave immediately this one finished. Regular, long-term appointments must be made and, above all, one's brand image must be brought together to bring the community together around a common interest or purpose.",
+            "tips": "If you want to organize a contest, adopt a strategy that will allow you to increase your sales or your visibility. For example by organizing a game of one month duration with one activity per day.",
+            "clue": "Once the prize is won, what happens?",
+            "choice_41lm6uyN8S": "True",
+            "choice_VJgB6Oy4IH": "False",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie möchten eine starke Gemeinschaft aufbauen. Sie entscheiden sich für ein Gewinnspiel mit einem Werbegeschenk. Diese Strategie zahlt sich in der Regel langfristig aus. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Ein Wettbewerb ist zu kurz, um eine dauerhafte Gemeinschaft aufzubauen. Personen, die Ihre Website besuchen, um an einem Wettbewerb teilzunehmen, verlassen das Programm, sobald es beendet ist. Es ist wichtig, dass Sie regelmäßig langfristige Termine mit Ihrer Community planen und vor allem Ihr Markenimage etablieren, um die Community zu einem gemeinsamen Interesse oder Ziel zusammenzubringen.",
+            "tips": "Wenn Sie einen Wettbewerb durchführen möchten, wenden Sie eine Strategie an, die Ihren Umsatz oder Ihre Sichtbarkeit erhöht. Zum Beispiel, indem Sie ein Spiel organisieren, das jeden Monat einen Monat lang aktiv ist.",
+            "clue": "Wenn das Werbegeschenk gewonnen wurde, wie geht es weiter?",
+            "choice_41lm6uyN8S": "Wahr",
+            "choice_VJgB6Oy4IH": "Falsch",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "You would like to build a strong community. You decide to run a competition with a giveaway. This strategy usually pays off in the long run. True or false?",
+            "klf": "A competition is too short-lived an event to build a lasting community. People who visit your website to enter a competition will leave as soon as it has ended. It’s essential to schedule regular appointments over the long term with your community, and above all to establish your brand image in order to bring the community together around a shared interest or objective.",
+            "tips": "If you want to run a competition, adopt a strategy that will increase your sales or visibility. For example, by organising a game that lasts one month with an activity each day.",
+            "clue": "Once the giveaway has been won, what next?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41lm6uyN8S": "True",
+            "choice_VJgB6Oy4IH": "False"
+        },
+        "zh": {
+            "header": "您想建立一个强大的社区。你决定参加一场赠品比赛。从长远来看，这种策略通常会得到回报。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "竞争太短暂是建立持久社区的事件。访问您网站参加比赛的人员将在结束后立即离开。与您的社区长期安排定期预约至关重要，最重要的是建立您的品牌形象，以便围绕共同的兴趣或目标将社区聚集在一起。",
+            "tips": "如果您想参加比赛，请采用可提高销售额或知名度的策略。例如，通过组织每天持续一个月活动的游戏。",
+            "clue": "一旦赠品获胜，下一步是什么？",
+            "choice_41lm6uyN8S": "真正",
+            "choice_VJgB6Oy4IH": "假",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

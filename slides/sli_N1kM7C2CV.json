@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-22T09:35:10.801Z",
+            "updatedAt": "2018-06-22T12:39:09.288Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1kM7C2CV",
+        "universalRef": "sli_N1kM7C2CV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1kM7C2CV.choice_E1loNX0n0E.id",
+                        "label": "choice_E1loNX0n0E",
+                        "value": "choice_E1loNX0n0E",
+                        "media": "med_EJsVXChAN"
+                    },
+                    {
+                        "id": "sli_N1kM7C2CV.choice_NJxy8XR3AE.id",
+                        "label": "choice_NJxy8XR3AE",
+                        "value": "choice_NJxy8XR3AE",
+                        "media": "med_VJyLmRnA4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1loNX0n0E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "On peut utiliser le brainstorming pour chacune des problématiques suivantes : créer un nouveau service, optimiser sa méthode marketing, améliorer la satisfaction client, trouver un nom pour sa marque. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "On peut tout à fait utiliser le brainstorming pour trouver une solution à chacune des problématiques énoncées. C'est là tout son intérêt : il peut s'appliquer à toutes les questions en entreprise !",
+            "tips": "Le dialogue mapping est une technique visuelle permettant de cartographier un ensemble de questions/réponses liées à un projet ou un problème. Utilisée pour cartographier les réunions, résoudre des problèmes ou encore prendre des décisions, cette technique permet à chaque participant de se sentir impliqué car il peut facilement voir son apport sur la carte.",
+            "clue": "Soyons fous !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1loNX0n0E": "Vrai",
+            "choice_NJxy8XR3AE": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "You can use brainstorming when you’re faced with the following tasks: creating a new service, optimising your marketing methods, improving customer satisfaction and finding a brand name. True or false?",
+            "klf": "It’s totally possible to use brainstorming techniques to find a solution to each of these issues. That’s what makes it such a good tool – it can be applied to all sorts of business questions.",
+            "tips": "Dialogue mapping is a visual technique that lets you plot out all the questions and answers that emerge from a project or an issue. When it’s used to plan out meetings, solve issues and even make decisions, this technique makes everyone feel involved because they can easily spot their contribution on the map.",
+            "clue": "Go wild!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1loNX0n0E": "True",
+            "choice_NJxy8XR3AE": "False"
+        }
+    }
+}

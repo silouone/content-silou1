@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:58:04.562Z",
+            "updatedAt": "2018-06-22T16:09:06.089Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-04T12:58:04.562Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkjjPrBTV",
+        "universalRef": "sli_NkjjPrBTV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NkjjPrBTV.choice_EJ4TvrHTE.id",
+                        "label": "choice_EJ4TvrHTE",
+                        "value": "choice_EJ4TvrHTE"
+                    },
+                    {
+                        "id": "sli_NkjjPrBTV.choice_VJ4CPBrp4.id",
+                        "label": "choice_VJ4CPBrp4",
+                        "value": "choice_VJ4CPBrp4"
+                    },
+                    {
+                        "id": "sli_NkjjPrBTV.choice_NkK0PSrTE.id",
+                        "label": "choice_NkK0PSrTE",
+                        "value": "choice_NkK0PSrTE"
+                    },
+                    {
+                        "id": "sli_NkjjPrBTV.choice_Nk71OrBpE.id",
+                        "label": "choice_Nk71OrBpE",
+                        "value": "choice_Nk71OrBpE"
+                    },
+                    {
+                        "id": "sli_NkjjPrBTV.choice_VyDyOSSpV.id",
+                        "label": "choice_VyDyOSSpV",
+                        "value": "choice_VyDyOSSpV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJ4TvrHTE",
+                        "choice_NkK0PSrTE",
+                        "choice_Nk71OrBpE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Une fois le brainstorming individuel terminé, que doit sélectionner chaque participant dans sa carte mentale ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Une fois le brainstorming individuel terminé, chaque participant sélectionne dans sa carte les 2 idées les plus originales, les 2 idées qu’il préfère et les 2 idées qu'il estime que les autres préféreront.",
+            "tips": "A la création d'Hotmail en 1996, les fondateurs de la société, Sabeer Bhatia et Jack Smith, souhaitaient un nom d'entreprise incluant le mot \"mail\". Ils organisèrent plusieurs séances de brainstorming et se décidèrent finalement pour Hotmail, du fait que le mot contenait les lettres HTML qui faisait référence au langage informatique utilisé pour la création de leur site.",
+            "clue": "Le hasard fait-il toujours bien les choses ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ4TvrHTE": "Les 2 idées les plus originales",
+            "choice_VJ4CPBrp4": "Les 2 idées les plus drôles",
+            "choice_NkK0PSrTE": "Les 2 idées qu’il préfère ",
+            "choice_Nk71OrBpE": "Les 2 idées que les autres préféreront ",
+            "choice_VyDyOSSpV": "2 idées au hasard"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "Once they have brainstormed individually, what does every participant have to select from their mind map?",
+            "klf": "Once they have brainstormed individually, each participant chooses the two most original ideas from their mind map, as well as their two favourites and the two they think others will like best.",
+            "tips": "When they were creating Hotmail in 1996, company founders Sabeer Bhatia and Jack Smith wanted a company name that included the word “mail”. They organised several brainstorming sessions and, finally, opted for Hotmail because it contained the letters HTML, which together form the name of a programming language used to make their website.",
+            "clue": "Is it always best to leave things to chance?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ4TvrHTE": "The two most original ideas",
+            "choice_VJ4CPBrp4": "The two funniest ideas",
+            "choice_NkK0PSrTE": "The two ideas they like the best ",
+            "choice_Nk71OrBpE": "The two ideas others will like the best ",
+            "choice_VyDyOSSpV": "Two random ideas"
+        }
+    }
+}

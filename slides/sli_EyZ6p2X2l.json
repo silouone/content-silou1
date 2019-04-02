@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:21:17.000Z",
+            "updatedAt": "2017-12-01T13:49:24.058Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyZ6p2X2l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyZ6p2X2l.choice_EyxJrR3X3x.id",
+                        "label": "choice_EyxJrR3X3x",
+                        "value": "choice_EyxJrR3X3x",
+                        "media": "med_VJJrR2Qhl"
+                    },
+                    {
+                        "id": "sli_EyZ6p2X2l.choice_EygDS037nl.id",
+                        "label": "choice_EygDS037nl",
+                        "value": "choice_EygDS037nl",
+                        "media": "med_4yDSCn73e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EygDS037nl"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EyZ6p2X2l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Un mentor, c'est forcément pour la vie. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans la majorité des cas, une relation de mentorat a une fin, même si le contact est maintenu. Il faut savoir mettre fin à cette relation quand l'une des deux parties sent qu'elle ne lui apporte plus rien.",
+            "tips": "Certains programmes de mentorat fixent une durée dès le départ. Est'Elles propose ainsi à des étudiantes de l'ICN Nancy un parrainage durant un à six mois.",
+            "clue": "Les bonnes choses ont une fin.",
+            "choice_EyxJrR3X3x": "Vrai",
+            "choice_EygDS037nl": "Faux"
+        },
+        "en": {
+            "header": "A mentor is necessarily for life. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "In the majority of cases, a mentoring relationship ends, even if contact is maintained. You have to know how to put an end to this relationship when one of the two parties feels that it brings him nothing more.",
+            "tips": "Some mentoring programs set a term from the start. Est'Elles offers students from ICN Nancy a sponsorship for one to six months.",
+            "clue": "Good things have an end.",
+            "choice_EyxJrR3X3x": "True",
+            "choice_EygDS037nl": "False"
+        },
+        "de": {
+            "header": "Ein Mentor ist fürs Leben. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In den meisten Fällen hat eine Mentoring-Beziehung ein Ende, auch wenn der Kontakt erhalten bleibt. Sie müssen wissen, wie Sie die Beziehung beenden können, wenn eine Partei das Gefühl hat, dass sie nicht mehr von Nutzen ist.",
+            "tips": "Einige Mentoring-Programme legen von Anfang an eine feste Dauer fest. Est'Elles bietet Studierenden des ICN Nancy ein Sponsoring mit einer Dauer von einem bis sechs Monaten an.",
+            "clue": "Alle guten Dinge müssen ein Ende haben.",
+            "choice_EyxJrR3X3x": "Wahr",
+            "choice_EygDS037nl": "Falsch"
+        },
+        "es": {
+            "header": "A mentor is for life. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "In most cases, a mentoring relationship has an end, even if contact is maintained. You have to know how to end the relationship when one party feels that it is no longer beneficial.",
+            "tips": "Some mentoring programmes set a fixed duration from the start. Est'Elles offers sponsorship that last between one and six months to students of ICN Nancy.",
+            "choice_EyxJrR3X3x": "True",
+            "choice_EygDS037nl": "False",
+            "clue": "All good things must come to an end."
+        },
+        "zh": {
+            "header": "导师是终身的。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "在大多数情况下，即使保持联系，指导关系也会结束。当一方认为不再有益时，你必须知道如何结束这种关系。",
+            "tips": "一些辅导程序从一开始就设定了固定的持续时间。 Est'Elles为ICN Nancy的学生提供为期一至六个月的赞助。",
+            "clue": "一切美好的事物必须走到尽头。",
+            "choice_EyxJrR3X3x": "真正",
+            "choice_EygDS037nl": "假"
+        }
+    }
+}

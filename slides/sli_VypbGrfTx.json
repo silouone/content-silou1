@@ -1,0 +1,145 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-16T12:38:12.859Z",
+            "updatedAt": "2017-12-11T13:24:53.622Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "MaximeSch",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VypbGrfTx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel20560",
+                        "label": "label_Vkl-BgHAe",
+                        "items": [
+                            {
+                                "text": "choice_41xxdBeH0e",
+                                "value": "choice_41xxdBeH0e"
+                            },
+                            {
+                                "text": "choice_4y~gOHlB0g",
+                                "value": "choice_4y~gOHlB0g"
+                            },
+                            {
+                                "text": "choice_V1F-HxB0e",
+                                "value": "choice_V1F-HxB0e"
+                            },
+                            {
+                                "text": "choice_Vk1YSlSRg",
+                                "value": "choice_Vk1YSlSRg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel20560",
+                        "answers": [
+                            "choice_4y~gOHlB0g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VypbGrfTx"
+    },
+    "locales": {
+        "fr": {
+            "header": "En France, le gouvernement soutient une initiative concernant 500 entreprises. Quel est son nom ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le gouvernement soutient la Charte de la parentalité en entreprise. Initiée par l'Observatoire de l'équilibre des temps et de la parentalité en entreprise et L'Oréal, elle est signée par 500 entreprises en 2016, dont Allianz ou Renault. Elles s'engagent à favoriser l'articulation entre vie professionnelle et personnelle à travers des actions concrètes.",
+            "tips": "La moitié des signataires est composée de TPE-PME, et l'autre d'entreprises de plus de 1000 salariés. En tout, 15% de la population française active est concernée en 2016.",
+            "template": "La Charte de {{sel20560}}.",
+            "clue": "Quel est le sujet du chapitre ?",
+            "label_E1xpaGSfae": " ",
+            "placeholder_4JZ66GHGax": " ",
+            "label_Vkl-BgHAe": " ",
+            "choice_41xxdBeH0e": "la maternité",
+            "choice_4y~gOHlB0g": "la parentalité",
+            "choice_V1F-HxB0e": "la paternité",
+            "choice_Vk1YSlSRg": "l'enfance"
+        },
+        "en": {
+            "header": "In France, the government supports an initiative concerning 500 companies. What's her name ?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The government supports the Charter of parenthood in business. Initiated by the Observatory of the balance of time and parenthood in companies and L'Oréal, it is signed by 500 companies in 2016, including Allianz or Renault. They undertake to promote the link between professional and personal life through concrete actions.",
+            "tips": "Half of the signatories are SMEs, and the other half are companies with more than 1,000 employees. In all, 15% of the active French population is concerned in 2016.",
+            "clue": "What is the subject of the chapter?",
+            "template": "The Charter of {{sel20560}}.",
+            "label_Vkl-BgHAe": " ",
+            "choice_41xxdBeH0e": "maternity",
+            "choice_4y~gOHlB0g": "parenthood",
+            "choice_V1F-HxB0e": "fatherhood",
+            "choice_Vk1YSlSRg": "childhood",
+            "label_E1xpaGSfae": " ",
+            "placeholder_4JZ66GHGax": " "
+        },
+        "de": {
+            "header": "In Frankreich unterstützt die Regierung eine Initiative von 500 Unternehmen. Wie heißt das?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Die Regierung unterstützt die Elternschaftscharta. Es wurde vom Observatorium für Work-Life-Balance und Elternschaft in Unternehmen und von L'Oréal initiiert und 2016 von 500 Unternehmen unterzeichnet, darunter die Allianz und Renault. Sie verpflichten sich, durch konkrete Maßnahmen die Vereinbarkeit von Beruf und Privatleben zu fördern.",
+            "tips": "Die Hälfte der Unterzeichner besteht aus TPE-SME und die andere Hälfte der Unternehmen mit mehr als 1.000 Mitarbeitern. Insgesamt sind 2016 15% der arbeitenden französischen Bevölkerung beteiligt.",
+            "clue": "Thema dieses Kapitels",
+            "template": "Die {{sel20560}} Charta",
+            "label_Vkl-BgHAe": " ",
+            "choice_41xxdBeH0e": "Mutterschaft",
+            "choice_4y~gOHlB0g": "Elternschaft",
+            "choice_V1F-HxB0e": "Vaterschaft",
+            "choice_Vk1YSlSRg": "Kindheit",
+            "label_E1xpaGSfae": " ",
+            "placeholder_4JZ66GHGax": " "
+        },
+        "es": {
+            "header": "In France, the government supports an initiative concerning 500 companies. What is this called?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The government supports the Parenthood Charter. Initiated by the Observatory for work-life balance and parenthood in companies and L'Oréal, it was signed by 500 companies in 2016, including Allianz and Renault. They undertake to encourage reconciliation between work and personal life through concrete actions.",
+            "tips": "Half of the signatories consists of TPE-SME, and the other half of companies with more than 1,000 employees. In all, 15% of the working French population is involved in 2016.",
+            "template": "The  {{sel20560}}  Charter",
+            "label_E1xpaGSfae": " ",
+            "placeholder_4JZ66GHGax": " ",
+            "label_Vkl-BgHAe": " ",
+            "choice_41xxdBeH0e": "Maternity",
+            "choice_4y~gOHlB0g": "Parenthood",
+            "choice_V1F-HxB0e": "Paternity",
+            "choice_Vk1YSlSRg": "Childhood",
+            "clue": "This chapter's subject"
+        },
+        "zh": {
+            "header": "在法国，政府支持有关500家公司的倡议。这个叫什么？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "政府支持“父母身份宪章”。由天文台在公司和欧莱雅的工作与生活平衡和父母身份的启动下，2016年由500家公司签署，包括安联和雷诺。他们承诺通过具体行动鼓励工作与个人生活的和解。",
+            "tips": "签约人中有一半由TPE-SME和另外一半拥有1,000多名员工的公司组成。总体而言，2016年有15％的法国工作人员参与其中。",
+            "clue": "本章的主题",
+            "template": "{{sel20560}}宪章。{{sel20560}}",
+            "label_Vkl-BgHAe": " ",
+            "choice_41xxdBeH0e": "母道",
+            "choice_4y~gOHlB0g": "亲子",
+            "choice_V1F-HxB0e": "亲子鉴定",
+            "choice_Vk1YSlSRg": "童年",
+            "label_E1xpaGSfae": " ",
+            "placeholder_4JZ66GHGax": " "
+        }
+    }
+}

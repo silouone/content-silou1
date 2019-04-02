@@ -1,0 +1,99 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T13:17:51.723Z",
+            "updatedAt": "2018-10-08T14:56:52.313Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJfAzrpEB",
+        "universalRef": "sli_EJfAzrpEB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJfAzrpEB.choice_NJzYQrTVr.id",
+                        "label": "choice_NJzYQrTVr",
+                        "value": "choice_NJzYQrTVr"
+                    },
+                    {
+                        "id": "sli_EJfAzrpEB.choice_VJ95QHpNS.id",
+                        "label": "choice_VJ95QHpNS",
+                        "value": "choice_VJ95QHpNS"
+                    },
+                    {
+                        "id": "sli_EJfAzrpEB.choice_NkK2QS6VS.id",
+                        "label": "choice_NkK2QS6VS",
+                        "value": "choice_NkK2QS6VS"
+                    },
+                    {
+                        "id": "sli_EJfAzrpEB.choice_EJapQHpEr.id",
+                        "label": "choice_EJapQHpEr",
+                        "value": "choice_EJapQHpEr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJ95QHpNS",
+                        "choice_NkK2QS6VS"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "De quoi devez-vous nécessairement tenir compte dans votre Kanban pour rendre plus fluide le travail en équipe sur ce projet ? ",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Le Kanban favorisant l'efficacité de l'équipe doit nécessairement respecter les rôles et processus en place. Par ailleurs, il est possible de détailler votre Kanban en indiquant l'urgence d'une tâche mais cela n'est pas forcément incontournable dans le cadre de cette méthode.",
+            "tips": "Le niveau de détail du kanban est à adapter en fonction de votre projet et de vos préférences : vous pouvez aussi bien choisir de détailler chaque tâche qu'aborder le projet sous sa forme macro.",
+            "clue": "Chacun sa route, chacun son chemin.",
+            "context_title": "Gestion de projet grâce au Kanban",
+            "context_description": "Dans le cadre du projet de développement du nouveau site de votre entreprise, vous vous occupez de sa partie éditoriale. Compte tenu de la complexité du projet et du grand nombre d'intervenants, vous décidez de créer un Kanban qui engloberait l'ensemble des tâches à réaliser.",
+            "context_media_description": "",
+            "choice_NJzYQrTVr": "Urgence des tâches",
+            "choice_VJ95QHpNS": "Rôle de chaque intervenant",
+            "choice_NkK2QS6VS": "Processus de la validation du travail fourni",
+            "choice_EJapQHpEr": "Coûts engendrés "
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What should you take into account when you create your Kanban board so that the project runs smoothly? ",
+            "klf": "As Kanban promotes team efficiency, you need to take into account peoples’ job roles as well as processes that are already in place. You can develop your Kanban further by providing information on how urgent a task is, for example, but that isn’t essential.",
+            "tips": "You can adapt the level of detail on your Kanban according to your project and preferences. You may decide to provide further information on each task or just present a broad overview of a project.",
+            "clue": "Each to his own, horses for courses.",
+            "context_title": "Kanban and project management",
+            "context_description": "Your company is in the process of developing a new website and you are responsible for the editorial. As the project is so complex and involves a large number of people, you decide to create a Kanban board detailing all the tasks that need to be carried out.",
+            "context_media_description": "",
+            "choice_NJzYQrTVr": "The urgency of different tasks",
+            "choice_VJ95QHpNS": "The role of each contributor",
+            "choice_NkK2QS6VS": "The validation process for work carried out",
+            "choice_EJapQHpEr": "Costs generated"
+        }
+    }
+}

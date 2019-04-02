@@ -1,0 +1,95 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-31T13:58:32.240Z",
+            "updatedAt": "2018-06-22T16:18:54.954Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "taggedNewUntil": "2018-07-31T13:58:32.240Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vkww0JtyH",
+        "universalRef": "sli_Vkww0JtyH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vkww0JtyH.choice_Ey-KAyt1S.id",
+                        "label": "choice_Ey-KAyt1S",
+                        "value": "choice_Ey-KAyt1S"
+                    },
+                    {
+                        "id": "sli_Vkww0JtyH.choice_4ytK01Fkr.id",
+                        "label": "choice_4ytK01Fkr",
+                        "value": "choice_4ytK01Fkr"
+                    },
+                    {
+                        "id": "sli_Vkww0JtyH.choice_NkcFRJKJH.id",
+                        "label": "choice_NkcFRJKJH",
+                        "value": "choice_NkcFRJKJH"
+                    },
+                    {
+                        "id": "sli_Vkww0JtyH.choice_41iY01Y1r.id",
+                        "label": "choice_41iY01Y1r",
+                        "value": "choice_41iY01Y1r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ey-KAyt1S",
+                        "choice_4ytK01Fkr",
+                        "choice_NkcFRJKJH",
+                        "choice_41iY01Y1r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Si vous optez pour une carte mentale numérique, de quoi dépendra le choix du logiciel que vous utiliserez ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Le choix de votre logiciel de mind mapping doit prendre en compte divers aspects, aussi bien votre budget que votre cahier des charges ou que la façon dont le projet est géré, sans oublier la nature de votre public.",
+            "tips": "Il se révèle souvent utile de pouvoir exporter vos cartes mentales dans un programme de traitement de texte. Il est donc judicieux de tenir compte de l'univers auquel appartient un logiciel choisi. Par exemple, les logiciels propriétaires comme MindView ou MindManager sont interfacés avec Microsoft. Vous pouvez ainsi exporter un carte en Word ou en PowerPoint. Les logiciels libres comme FreeMind et FreePlane offrent des liaisons avec d'autres logiciels libres comme OpenOffice.",
+            "clue": "Une présentation on ne peut plus personnalisée.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey-KAyt1S": "La gestion de projet",
+            "choice_4ytK01Fkr": "Le cahier des charges",
+            "choice_NkcFRJKJH": "Le budget",
+            "choice_41iY01Y1r": "Le public"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "If you’ve opted to make your mind map online, what factors will influence your choice of software?",
+            "klf": "When choosing which software package you’ll use for your mind map, you need to factor in various criteria including your budget, your specifications and the way your project is being managed – as well, of course, as your audience.",
+            "tips": "It often turns out to be helpful if you can export your mind maps into word processing programs. This is why it’s wise to remember which programs your selected software works with. For instance, proprietary software such as MindView and MindManager interface with Microsoft, which means you can export your map into Word or PowerPoint. Open-source software such as FreeMind and FreePlane can link up with other open-source software like OpenOffice.",
+            "clue": "Your presentation needs to suit your needs, not just your audience’s.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey-KAyt1S": "Project management style",
+            "choice_4ytK01Fkr": "Your specifications",
+            "choice_NkcFRJKJH": "Your budget",
+            "choice_41iY01Y1r": "Your audience"
+        }
+    }
+}

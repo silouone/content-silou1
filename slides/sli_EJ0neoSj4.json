@@ -1,0 +1,78 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T12:47:24.213Z",
+            "updatedAt": "2018-06-22T08:25:39.875Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T12:47:24.213Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJ0neoSj4",
+        "universalRef": "sli_EJ0neoSj4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_VkWPdPigr"
+            ],
+            "content": {
+                "id": "sli_EJ0neoSj4.id",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle part occupe le sens visuel dans le traitement sensoriel effectué par notre cerveau ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Communication visuelle et créativité font bon ménage : rien d'étonnant quand on sait que 75 % des informations traitées par notre cerveau relèvent de notre sens visuel.",
+            "tips": "99 % de toutes les informations reçues par le cerveau sont presque immédiatement \"censurées\" ! Ainsi, nous ne les percevons pas et n'en sommes pas conscients.",
+            "clue": "Noces d'albâtre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "%",
+            "description": "75 %",
+            "answerMin": 70,
+            "answerMax": 80
+        },
+        "en": {
+            "explanation": "Move the cursor.",
+            "header": "How important is our sense of sight to our brain processes?",
+            "klf": "Visual communication and creativity are a good pairing. This is hardly surprising when you consider that 75% of the information our brain processes comes from what we see.",
+            "tips": "99% of the information sent to our brain is almost instantly filtered out, so in effect we don’t perceive it and don’t become conscious of it.",
+            "clue": "Diamond jubilee",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "%",
+            "description": "75%",
+            "answerMin": 70,
+            "answerMax": 80
+        }
+    }
+}

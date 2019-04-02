@@ -1,0 +1,120 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:15:35.905Z",
+            "updatedAt": "2017-12-01T13:47:33.768Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1DBh37ne",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1DBh37ne.choice_Vk5C33X3e.id",
+                        "label": "choice_Vk5C33X3e",
+                        "value": "choice_Vk5C33X3e"
+                    },
+                    {
+                        "id": "sli_V1DBh37ne.choice_VkgqC3hXnx.id",
+                        "label": "choice_VkgqC3hXnx",
+                        "value": "choice_VkgqC3hXnx"
+                    },
+                    {
+                        "id": "sli_V1DBh37ne.choice_EkjRn273e.id",
+                        "label": "choice_EkjRn273e",
+                        "value": "choice_EkjRn273e"
+                    },
+                    {
+                        "id": "sli_V1DBh37ne.choice_41T03hm2l.id",
+                        "label": "choice_41T03hm2l",
+                        "value": "choice_41T03hm2l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk5C33X3e",
+                        "choice_EkjRn273e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_V1DBh37ne"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faire pour choisir son mentor au sein de son entreprise ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour choisir votre mentor dans l'entreprise, commencez par repérer les personnes qui vous intéressent dans l'organigramme. Ensuite, faites le tri. Votre mentor doit être professionnel, inspirant, sympathique mais sans lien hiérarchique ou opérationnel avec vous.",
+            "tips": "Faire une demande ne veut pas dire engagement. “Vous n'êtes pas obligé de vous associer avec la première personne que vous rencontrez. Vous devez vous apprécier (…) avant de vous engager”, explique Ryan Jackson, un mentor canadien expérimenté.",
+            "clue": "Mieux vaut un œil distant et bienveillant.",
+            "choice_Vk5C33X3e": "Identifier les personnes intéressantes",
+            "choice_VkgqC3hXnx": "Sélectionner un de ses chefs",
+            "choice_EkjRn273e": "Vérifier la compatibilité de caractère",
+            "choice_41T03hm2l": "Se baser sur la notoriété"
+        },
+        "en": {
+            "header": "What to do to choose a mentor in your company?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To choose your mentor in the company, start by identifying the people you are interested in in the organization chart. Then sort it out. Your mentor must be professional, inspiring, friendly but without a hierarchical or operational link to you.",
+            "tips": "Applying does not mean commitment. \"You do not have to associate with the first person you meet. You have to enjoy yourself (...) before you commit, \"says Ryan Jackson, an experienced Canadian mentor.",
+            "clue": "Better a distant and benevolent eye.",
+            "choice_Vk5C33X3e": "Identify interesting people",
+            "choice_VkgqC3hXnx": "Select one of his chefs",
+            "choice_EkjRn273e": "Check character compatibility",
+            "choice_41T03hm2l": "Rely on the notoriety"
+        },
+        "de": {
+            "header": "Wie sollten Sie Ihren Mentor in Ihrem Unternehmen auswählen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Um Ihren Mentor im Unternehmen auszuwählen, identifizieren Sie zunächst diejenigen, die Sie im Organigramm interessieren. Dann sortieren Sie. Ihr Mentor sollte professionell, inspirierend und freundlich sein, aber keine hierarchische oder operative Verbindung zu Ihnen haben.",
+            "tips": "Eine Anfrage zu stellen bedeutet nicht Verbindlichkeit. \"Sie müssen keine Partnerschaft mit der ersten Person eingehen, die Sie treffen. Sie müssen sich vergewissern, dass Sie (...) vorgehen, bevor Sie sich festlegen\", erklärt Ryan Jackson, ein erfahrener kanadischer Mentor .",
+            "clue": "Besser ein fernes und wohlwollendes Auge.",
+            "choice_Vk5C33X3e": "Identifizieren Sie interessante Menschen",
+            "choice_VkgqC3hXnx": "Wählen Sie einen Ihrer Chefs aus",
+            "choice_EkjRn273e": "Überprüfen Sie die Zeichenkompatibilität",
+            "choice_41T03hm2l": "Basiere es auf Sichtbarkeit"
+        },
+        "es": {
+            "header": "How should you go about choosing your mentor in your company?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To select your mentor in the company, first identify those that interest you in the organisation chart. Then do the sorting. Your mentor should be professional, inspiring, friendly but have no hierarchical or operational link with you.",
+            "tips": "Making a request does not mean commitment.\"You do not have to form a partnership with the first person you meet. You need to make sure you get on  (...) before you commit,\" explains Ryan Jackson, an experienced Canadian mentor.",
+            "choice_Vk5C33X3e": "Identify interesting people",
+            "choice_VkgqC3hXnx": "Choose one of your bosses",
+            "choice_EkjRn273e": "Check character compatibility",
+            "choice_41T03hm2l": "Base it on visibility",
+            "clue": "Better a distant and benevolent eye."
+        },
+        "zh": {
+            "header": "你应该如何选择你公司的导师？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "要在公司中选择您的导师，首先要在组织结构图中识别您感兴趣的导师。然后进行排序。您的导师应该是专业的，鼓舞人心的，友好的，但没有与您的等级或操作链接。",
+            "tips": "提出请求并不意味着承诺。“你不必与你遇到的第一个人建立伙伴关系。你必须确保在提交之前继续（......），”加拿大经验丰富的导师Ryan Jackson解释道。 。",
+            "clue": "更好的远方和仁慈的眼睛。",
+            "choice_Vk5C33X3e": "识别有趣的人",
+            "choice_VkgqC3hXnx": "选择你的一个老板",
+            "choice_EkjRn273e": "检查字符兼容性",
+            "choice_41T03hm2l": "以可见性为基础"
+        }
+    }
+}

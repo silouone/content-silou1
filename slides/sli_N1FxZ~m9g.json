@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:23:45.844Z",
+            "updatedAt": "2016-09-03T14:51:26.777Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1FxZ~m9g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel59325",
+                        "label": "label_41COWZ7ql",
+                        "items": [
+                            {
+                                "text": "choice_Eyl0-bbmcg",
+                                "value": "choice_Eyl0-bbmcg"
+                            },
+                            {
+                                "text": "choice_EJW0-~~X9x",
+                                "value": "choice_EJW0-~~X9x"
+                            },
+                            {
+                                "text": "choice_V1FYbZQcg",
+                                "value": "choice_V1FYbZQcg"
+                            },
+                            {
+                                "text": "choice_4ksYbWX9x",
+                                "value": "choice_4ksYbWX9x"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel59325",
+                        "answers": [
+                            "choice_EJW0-~~X9x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N1FxZ~m9g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qui a dit: \"Le problème est que les femmes ne leur font pas confiance\"?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Sheryl Sandberg, numéro 2 de Facebook en 2016, estime que \"le problème est que les femmes ne leur font pas confiance\". Une observation partagée par la moitié des femmes britanniques. 48% d’entre eux pensent avoir fait plus de progrès dans leur carrière en ayant plus d’estime de soi.",
+            "tips": "Ce discours a été critiqué: Sheryl Sandberg est critiquée pour avoir incité les femmes à se sentir coupables sans avoir critiqué le système.",
+            "clue": "Elle a aimé sa citation.",
+            "template": "{{sel59325}}",
+            "label_41COWZ7ql": " ",
+            "choice_Eyl0-bbmcg": "Anne Lauvergeon (anciennement Areva)",
+            "choice_EJW0-~~X9x": "Sheryl Sandberg (Facebook)",
+            "choice_V1FYbZQcg": "Marissa Mayer (Yahoo!)",
+            "choice_4ksYbWX9x": "Mercedes Erra (Havas)"
+        },
+        "en": {
+            "header": "Who said: \"The problem is that women do not trust them\"?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Sheryl Sandberg, number 2 of Facebook in 2016, believes that \"the problem is that women do not trust them\". An observation shared by half of British women. 48% of them think they would have made more progress in their career by having more self-esteem.",
+            "tips": "This speech was criticized: Sheryl Sandberg is criticized for making women feel guilty without criticizing the system.",
+            "clue": "She liked his quote.",
+            "template": "{{sel59325}}",
+            "label_41COWZ7ql": " ",
+            "choice_Eyl0-bbmcg": "Anne Lauvergeon (formerly Areva)",
+            "choice_EJW0-~~X9x": "Sheryl Sandberg (Facebook)",
+            "choice_V1FYbZQcg": "Marissa Mayer (Yahoo!)",
+            "choice_4ksYbWX9x": "Mercedes Erra (Havas)"
+        },
+        "de": {
+            "header": "Wer hat gesagt: \"Das Problem ist, dass Frauen ihnen nicht vertrauen\"?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Sheryl Sandberg, die Nummer 2 von Facebook im Jahr 2016, glaubt, dass \"das Problem darin besteht, dass Frauen ihnen nicht trauen\". Eine Beobachtung, die von der Hälfte der britischen Frauen geteilt wird. 48% von ihnen glauben, dass sie in ihrer Karriere durch ein höheres Selbstwertgefühl mehr Fortschritte gemacht hätten.",
+            "tips": "Diese Rede wurde kritisiert: Sheryl Sandberg wird dafür kritisiert, dass sich Frauen schuldig fühlen, ohne das System zu kritisieren.",
+            "clue": "Sie mochte sein Zitat.",
+            "template": "{{sel59325}}",
+            "label_41COWZ7ql": " ",
+            "choice_Eyl0-bbmcg": "Anne Lauvergeon (vormals Areva)",
+            "choice_EJW0-~~X9x": "Sheryl Sandberg (Facebook)",
+            "choice_V1FYbZQcg": "Marissa Mayer (Yahoo!)",
+            "choice_4ksYbWX9x": "Mercedes Erra (Havas)"
+        },
+        "es": {
+            "header": "Who declared \"The problem is that women lack self-confidence\"?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "Sheryl Sandberg, the second most important person at Facebook, believes that \"the problem is that women lack self-confidence.\". A view shared by half of British women. 48% of them think that they would be able to advance more in their careers if they had more self-esteem.",
+            "tips": "This speech was criticised: Sheryl Sandberg was reproached for making women feel guilty without criticising the system.",
+            "template": "{{sel59325}}",
+            "label_41COWZ7ql": " ",
+            "choice_Eyl0-bbmcg": "Anne Lauvergeon (formerly Areva)",
+            "choice_EJW0-~~X9x": "Sheryl Sandberg (Facebook)",
+            "choice_V1FYbZQcg": "Marissa Mayer (Yahoo!)",
+            "choice_4ksYbWX9x": "Mercedes Erra (Havas)",
+            "clue": "She 'liked' her quote"
+        },
+        "zh": {
+            "header": "谁宣称“问题在于女性缺乏自信”？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "Facebook第二重要人物谢丽尔·桑德伯格认为“问题在于女性缺乏自信心”。半数英国女性的观点。 48％的人认为如果他们有更多的自尊，他们就能在事业上取得更大的进步。",
+            "tips": "这一讲话受到了批评：Sheryl Sandberg因为让女性感到内疚而不批评该系统而受到指责。",
+            "clue": "她'喜欢'她的报价",
+            "template": "{{Sel59325}}",
+            "label_41COWZ7ql": " ",
+            "choice_Eyl0-bbmcg": "Anne Lauvergeon（原Areva）",
+            "choice_EJW0-~~X9x": "谢丽尔桑德伯格（Facebook）",
+            "choice_V1FYbZQcg": "玛丽莎梅耶（雅虎）",
+            "choice_4ksYbWX9x": "梅赛德斯埃拉（哈瓦斯）"
+        }
+    }
+}

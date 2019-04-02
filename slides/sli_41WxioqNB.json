@@ -1,0 +1,98 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-01T13:57:43.769Z",
+            "updatedAt": "2018-10-08T14:00:11.364Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41WxioqNB",
+        "universalRef": "sli_41WxioqNB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41WxioqNB.choice_EyQSiocEB.id",
+                        "label": "choice_EyQSiocEB",
+                        "value": "choice_EyQSiocEB"
+                    },
+                    {
+                        "id": "sli_41WxioqNB.choice_4JHLji94S.id",
+                        "label": "choice_4JHLji94S",
+                        "value": "choice_4JHLji94S"
+                    },
+                    {
+                        "id": "sli_41WxioqNB.choice_4JyDssqVS.id",
+                        "label": "choice_4JyDssqVS",
+                        "value": "choice_4JyDssqVS"
+                    },
+                    {
+                        "id": "sli_41WxioqNB.choice_VJwPis5VH.id",
+                        "label": "choice_VJwPis5VH",
+                        "value": "choice_VJwPis5VH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JHLji94S"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Selon la classification de la matrice Eisenhower, à quelle catégorie de tâches cette mission appartient-elle ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Cette tâche est importante, dans le sens où elle reflète l'un de vos objectifs globaux qui est d'assurer à l'entreprise la meilleure visibilité possible. Cependant, elle n'est pas urgente, dans la mesure où aucune contrainte extérieure de temps ne vous y oblige dans des délais précis. L'enjeu sera donc de planifier cette tâche à un moment opportun, voire à l'échelonner sur plusieurs créneaux dans les semaines à venir.",
+            "tips": "Lister ses tâches du lendemain avant de se coucher permettrait de réduire de 36 % le temps nécessaire pour s’endormir !",
+            "clue": "Un sur deux !",
+            "context_title": "Cas pratique",
+            "context_description": "En charge de la communication dans votre société, vous souhaitez redorer l'image de marque de votre entreprise sur les réseaux sociaux afin de donner plus de visibilité à vos produits. Mais cette tâche fait partie d'une longue liste de missions prévues pour les semaines à venir...",
+            "context_media_description": "",
+            "choice_EyQSiocEB": "Les tâches importantes et urgentes",
+            "choice_4JHLji94S": "Les tâches importantes mais non urgentes",
+            "choice_4JyDssqVS": "Les tâches non importantes mais urgentes",
+            "choice_VJwPis5VH": "Les tâches ni urgentes ni importantes"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Which category does this task belong to on the Eisenhower Matrix? ",
+            "klf": "This task is important as it clearly links to one of your objectives: to make the business as visible as possible. However, the task isn’t urgent because there’s no external time constraint and you don’t have to carry out the task before a fixed deadline. The aim should therefore be to schedule this task for an appropriate time, or perhaps spread it out over a number of time slots in the weeks to come.",
+            "tips": "Before you go to bed, try writing a list of the tasks you need to do the next day. It can reduce the time it takes you to get to sleep by 36%!",
+            "clue": "One of the two!",
+            "context_title": "Case study",
+            "context_description": "As head of marketing communications, you want to use social media to boost your company’s brand image and give its products more visibility. But this job is one of many you need to do over the next few weeks…",
+            "context_media_description": "",
+            "choice_EyQSiocEB": "Tasks that are both important and urgent",
+            "choice_4JHLji94S": "Tasks that are important but not urgent",
+            "choice_4JyDssqVS": "Urgent but unimportant tasks",
+            "choice_VJwPis5VH": "Tasks that are neither urgent nor important"
+        }
+    }
+}

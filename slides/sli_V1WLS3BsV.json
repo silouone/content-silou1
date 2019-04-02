@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T14:19:59.750Z",
+            "updatedAt": "2018-06-22T09:10:40.599Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1WLS3BsV",
+        "universalRef": "sli_V1WLS3BsV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1WLS3BsV.choice_EkPqLnBoE.id",
+                        "label": "choice_EkPqLnBoE",
+                        "value": "choice_EkPqLnBoE"
+                    },
+                    {
+                        "id": "sli_V1WLS3BsV.choice_VJVs82Hi4.id",
+                        "label": "choice_VJVs82Hi4",
+                        "value": "choice_VJVs82Hi4"
+                    },
+                    {
+                        "id": "sli_V1WLS3BsV.choice_Ek8oL3Hj4.id",
+                        "label": "choice_Ek8oL3Hj4",
+                        "value": "choice_Ek8oL3Hj4"
+                    },
+                    {
+                        "id": "sli_V1WLS3BsV.choice_Eka6UnHoN.id",
+                        "label": "choice_Eka6UnHoN",
+                        "value": "choice_Eka6UnHoN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkPqLnBoE",
+                        "choice_Eka6UnHoN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment le mind mapping permet-il de générer plus d’idées  ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Le mind mapping va vous aider à trouver plus d’idées de deux façons principales. D'une part, en organisant vos idées sous forme de catégories, vous trouverez plus facilement d’autres idées associées. D'autre part, en utilisant un mot par branche, vous aurez de nouvelles idées.",
+            "tips": "Dans notre cerveau, notre vocabulaire est également organisé par catégories et par associations. Le mot canari est rangé dans la catégorie oiseau et il est également relié à jaune ou aux îles Canaries par exemple.",
+            "clue": "Amorce et hiérarchie.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkPqLnBoE": "En groupant les idées par catégories",
+            "choice_VJVs82Hi4": "En réalisant des exceptions aux principes du mind mapping",
+            "choice_Ek8oL3Hj4": "En limitant la taille du document",
+            "choice_Eka6UnHoN": "En utilisant un mot-clé par branche"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "How does mind mapping help you to generate more ideas?",
+            "klf": "Mind mapping helps you to hit on more ideas in two key ways. First, because it organises your ideas into categories, you’ll find it easier to find other, related ideas. Second, by having one word per branch of the map, you get a greater number of ideas.",
+            "tips": "Our vocabulary is also organised by our brains into categories and associated groups. The word “canary”, for instance, is stored in the category of birds, but it’s also linked to yellow and the Canary Islands.",
+            "clue": "Think starting blocks and hierarchies.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkPqLnBoE": "It groups ideas into categories.",
+            "choice_VJVs82Hi4": "It helps you find exceptions to mind mapping rules.",
+            "choice_Ek8oL3Hj4": "It limits the size of your working document.",
+            "choice_Eka6UnHoN": "It uses just one key word per branch."
+        }
+    }
+}

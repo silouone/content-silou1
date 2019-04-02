@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T12:52:28.492Z",
+            "updatedAt": "2018-06-22T15:57:05.274Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T12:52:28.492Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1VycD804",
+        "universalRef": "sli_N1VycD804",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1VycD804.choice_V1kG9wLC4.id",
+                        "label": "choice_V1kG9wLC4",
+                        "value": "choice_V1kG9wLC4"
+                    },
+                    {
+                        "id": "sli_N1VycD804.choice_VJPM9w8CE.id",
+                        "label": "choice_VJPM9w8CE",
+                        "value": "choice_VJPM9w8CE"
+                    },
+                    {
+                        "id": "sli_N1VycD804.choice_NJGX5vL0N.id",
+                        "label": "choice_NJGX5vL0N",
+                        "value": "choice_NJGX5vL0N"
+                    },
+                    {
+                        "id": "sli_N1VycD804.choice_4y7X5PUCE.id",
+                        "label": "choice_4y7X5PUCE",
+                        "value": "choice_4y7X5PUCE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1kG9wLC4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la 8ème question de la méthode QQOQCCPP ? ",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Grâce à la méthode QQOQCCPP (Qui ? Quoi ? Où ? Quand ? Comment ? Combien ? Pourquoi ? Pour quoi ?), nous sommes plus à même de traiter tous les aspects d'un problème et de ne rien oublier.",
+            "tips": "La méthode QQOQCCPP est également utilisée en démarche qualité.",
+            "clue": "Elle est souvent négligée.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1kG9wLC4": "Pour quoi ?",
+            "choice_VJPM9w8CE": "Pour qui ?",
+            "choice_NJGX5vL0N": "Pour quand ?",
+            "choice_4y7X5PUCE": "Pourquoi pas ?"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "As well as the Five W’s and How, what’s another important question to ask yourself? ",
+            "klf": "By asking ourselves the Five W’s, how and to what end, we put ourselves in a better position to process every aspect of a problem, leaving nothing out.",
+            "tips": "Asking yourself the Five W’s, how and to what end is also a useful way of controlling quality.",
+            "clue": "What’s the ultimate purpose?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1kG9wLC4": "What for?",
+            "choice_VJPM9w8CE": "For whom?",
+            "choice_NJGX5vL0N": "When for?",
+            "choice_4y7X5PUCE": "Why not?"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:12:53.350Z",
+            "updatedAt": "2018-10-08T15:11:20.862Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJW2sdGrr",
+        "universalRef": "sli_VJW2sdGrr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJW2sdGrr.choice_Nkx7ajuMrB.id",
+                        "label": "choice_Nkx7ajuMrB",
+                        "value": "choice_Nkx7ajuMrB",
+                        "media": "med_Nkm6jdzrH"
+                    },
+                    {
+                        "id": "sli_VJW2sdGrr.choice_EyxH0odGHS.id",
+                        "label": "choice_EyxH0odGHS",
+                        "value": "choice_EyxH0odGHS",
+                        "media": "med_VJrAj-frH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nkx7ajuMrB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La veille est davantage utile aux collaborateurs au niveau individuel qu'à l'entreprise en tant que groupe. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En permettant d’anticiper certaines évolutions et innovations du contexte concurrentiel de l’entreprise, la veille permet à une société de développer son intelligence économique et de booster son efficacité.",
+            "tips": "La veille a pris désormais une dimension de prospection et le rôle du veilleur est souvent de prospecter en vue de prises de décisions. Sa compétence est de savoir repérer les « signaux faibles », ces éléments qui nous permettent d'anticiper un événement, parmi le flux d'information, pour être en avance par rapport aux concurrents.",
+            "clue": "Tout le monde y gagne.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkx7ajuMrB": "Vrai",
+            "choice_EyxH0odGHS": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Media monitoring is more useful to employees on an individual level than on a business-wide group level. True or false?",
+            "klf": "Media monitoring makes you aware of developments and innovations in what is a highly competitive business environment. This can help companies develop their economic intelligence and boost efficiency.",
+            "tips": "Media monitoring is now very much like market research, and the role of the media monitor is often to explore developments so that key business decisions can be made. Good media monitoring can detect “weak signals” in the whole flow of information, and these signals help companies anticipate future events and stay ahead of the competition.",
+            "clue": "Everyone wins.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkx7ajuMrB": "True",
+            "choice_EyxH0odGHS": "False"
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-24T13:19:18.666Z",
+            "updatedAt": "2018-06-22T12:34:22.373Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-24T13:19:18.666Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkjW3M-nE",
+        "universalRef": "sli_VkjW3M-nE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel69128",
+                        "label": "label_4yPGqZ0AV",
+                        "items": [
+                            {
+                                "text": "choice_41gDfq~AA4",
+                                "value": "choice_41gDfq~AA4"
+                            },
+                            {
+                                "text": "choice_E1bDG5WCRV",
+                                "value": "choice_E1bDG5WCRV"
+                            },
+                            {
+                                "text": "choice_NJnmcbC0N",
+                                "value": "choice_NJnmcbC0N"
+                            },
+                            {
+                                "text": "choice_NJr49b004",
+                                "value": "choice_NJr49b004"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel69128",
+                        "answers": [
+                            "choice_41gDfq~AA4"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel outil de questionnement permet de faire le tour d’un sujet ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Afin de réaliser un tour quasi exhaustif de votre sujet et de résoudre ainsi un problème, vous pouvez utiliser la fameuse méthode QQOQCCPP (qui ? quoi ? où ? quand ? comment ? combien ? pourquoi ? pour quoi ?), aussi appelée \"méthode de questionnement\".",
+            "tips": "Le QQOQCCP est aussi connu sous le nom de questionnement quintilien (augmenté de nos jours par un second P pour le pour quoi) et date de l’Antiquité. Il a été développé en tant que figure rhétorique permettant de définir les circonstances d'un fait par Quintilien, avocat, rhéteur et pédagogue au I<sup>er</sup> siècle avant J.-C.",
+            "clue": "On vous défie d'arriver à le prononcer.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La méthode {{sel69128}} vous permettra de vous assurer que vous avez fait le tour de votre sujet.",
+            "null": "",
+            "label_4yPGqZ0AV": " ",
+            "choice_41gDfq~AA4": "QQOQCCPP",
+            "choice_E1bDG5WCRV": "SPRI",
+            "choice_NJnmcbC0N": "AIDA",
+            "choice_NJr49b004": "5 pourquoi "
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What is a useful way of getting a comprehensive handle on an issue?",
+            "klf": "If you want to get an exhaustive look at your subject to resolve a problem, you can use the famous Five W’s method. The five W’s in the name are who, what, where, when and why. (We might also add to that “how much” and “what for”.)",
+            "tips": "It's sometimes also called the Five W’s and How, if you want to add sixth category, and it dates back to ancient times, having been used by Roman rhetorician Quintilian. He developed it as a way of defining the various key elements of a fact in the 1<sup>st</sup> century BC.",
+            "clue": "The 23rd letter of the alphabet",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The {{sel69128}} method lets you make sure you’ve covered every aspect of your subject.",
+            "null": "",
+            "label_4yPGqZ0AV": " ",
+            "choice_41gDfq~AA4": "The Five W’s",
+            "choice_E1bDG5WCRV": "The Six M’s",
+            "choice_NJnmcbC0N": "The Seven A’s",
+            "choice_NJr49b004": "The Five Whys "
+        }
+    }
+}

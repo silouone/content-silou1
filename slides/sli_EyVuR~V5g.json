@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:33:16.068Z",
+            "updatedAt": "2016-08-31T13:34:35.201Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyVuR~V5g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel21164",
+                        "label": "label_NkwWJfE9x",
+                        "items": [
+                            {
+                                "text": "choice_41gvWJGV5g",
+                                "value": "choice_41gvWJGV5g"
+                            },
+                            {
+                                "text": "choice_NyZwZyz45x",
+                                "value": "choice_NyZwZyz45x"
+                            },
+                            {
+                                "text": "choice_VJuWkMVcl",
+                                "value": "choice_VJuWkMVcl"
+                            },
+                            {
+                                "text": "choice_VkFWJM4cl",
+                                "value": "choice_VkFWJM4cl"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel21164",
+                        "answers": [
+                            "choice_NyZwZyz45x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EyVuR~V5g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quand le concept de genre est-il apparu?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le concept de genre est apparu dans les années 1950. Il vise à distinguer le sexe biologique des \"rôles de genre\", qui sont considérés comme des constructions culturelles.",
+            "tips": "Une pionnière, l’anthropologue Margaret Mead parle depuis 1935 du \"rôle de genre\", qui distingue le rôle de genre et le rôle social.",
+            "clue": "Guerre froide, rockabilly et Marlon Brando.",
+            "template": "Dans les années {{sel21164}}.",
+            "label_NkwWJfE9x": " ",
+            "choice_41gvWJGV5g": "1930",
+            "choice_NyZwZyz45x": "1950",
+            "choice_VJuWkMVcl": "1970",
+            "choice_VkFWJM4cl": "1990"
+        },
+        "en": {
+            "header": "When did the concept of gender appear?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The concept of gender appeared in the 1950s. It aims to distinguish biological sex from \"gender roles\", which are considered cultural constructs.",
+            "tips": "A pioneer, the anthropologist Margaret Mead speaks from 1935 of \"gender role\", which distinguishes gender and social role.",
+            "clue": "Cold War, rockabilly and Marlon Brando.",
+            "template": "In the years {{sel21164}}.",
+            "label_NkwWJfE9x": " ",
+            "choice_41gvWJGV5g": "1930",
+            "choice_NyZwZyz45x": "1950",
+            "choice_VJuWkMVcl": "1970",
+            "choice_VkFWJM4cl": "1990"
+        },
+        "de": {
+            "header": "Wann tauchte der Begriff Gender auf?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Der Begriff des Geschlechts erschien in den fünfziger Jahren. Ziel ist es, biologisches Geschlecht von \"Geschlechterrollen\" zu unterscheiden, die als kulturelle Konstrukte gelten.",
+            "tips": "Die Pionierin, die Anthropologin Margaret Mead, spricht seit 1935 von \"Geschlechterrolle\", die die Geschlechter- und Sozialrolle unterscheidet.",
+            "clue": "Kalter Krieg, Rockabilly und Marlon Brando.",
+            "template": "In den Jahren {{sel21164}}.",
+            "label_NkwWJfE9x": " ",
+            "choice_41gvWJGV5g": "1930",
+            "choice_NyZwZyz45x": "1950",
+            "choice_VJuWkMVcl": "1970",
+            "choice_VkFWJM4cl": "1990"
+        },
+        "es": {
+            "header": "When did the concept of gender appear?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The concept of gender appeared in the 1950s. It aims to distinguish the biological sex of \"gender roles\", which are considered cultural constructions.",
+            "tips": "Pioneering anthropologist Margaret Mead spoke in 1935 of  the \"sexual role,\" which distinguishes gender and social role.",
+            "template": "In the  {{sel21164}}",
+            "label_NkwWJfE9x": " ",
+            "choice_41gvWJGV5g": "1930s",
+            "choice_NyZwZyz45x": "1950s",
+            "choice_VJuWkMVcl": "1970s",
+            "choice_VkFWJM4cl": "1990s",
+            "clue": "Cold War, rockabilly and Marlon Brando."
+        },
+        "zh": {
+            "header": "什么时候出现性别概念？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "性别概念出现在20世纪50年代。它旨在区分被称为文化建构的“性别角色”的生物性别。",
+            "tips": "开创性的人类学家玛格丽特米德在1935年谈到了“性角色”，它将性别和社会角色区分开来。",
+            "clue": "冷战，乡村摇滚和马龙白兰度。",
+            "template": "在{{sel21164}}",
+            "label_NkwWJfE9x": " ",
+            "choice_41gvWJGV5g": "20世纪30年代",
+            "choice_NyZwZyz45x": "20世纪50年代",
+            "choice_VJuWkMVcl": "20世纪70年代",
+            "choice_VkFWJM4cl": "20世纪90年代"
+        }
+    }
+}

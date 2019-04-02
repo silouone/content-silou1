@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:56:55.715Z",
+            "updatedAt": "2016-09-05T16:15:21.553Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VyLNd37ne",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel99027",
+                        "label": "label_NJXcuhQ3l",
+                        "items": [
+                            {
+                                "text": "choice_N1xQ9dh73l",
+                                "value": "choice_N1xQ9dh73l"
+                            },
+                            {
+                                "text": "choice_4kZmcd3Q2e",
+                                "value": "choice_4kZmcd3Q2e"
+                            },
+                            {
+                                "text": "choice_EJw9-nX3l",
+                                "value": "choice_EJw9-nX3l"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel99027",
+                        "answers": [
+                            "choice_4kZmcd3Q2e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VyLNd37ne"
+    },
+    "locales": {
+        "fr": {
+            "header": "Faut-il payer pour appartenir à un réseau ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Appartenir à un réseau professionnel n'est pas gratuit. Il faut souvent verser une cotisation, généralement à partir d'une centaine d'euros.",
+            "tips": "Les prix peuvent varier en fonction de votre situation. Les réseaux ouverts aux étudiants leur demandent souvent une cotisation moins élevée.",
+            "template": "{{sel99027}}",
+            "clue": "Comme une association.",
+            "label_NJXcuhQ3l": " ",
+            "choice_N1xQ9dh73l": "Non, c'est un rassemblement gratuit",
+            "choice_4kZmcd3Q2e": "Oui, il y a souvent une cotisation",
+            "choice_EJw9-nX3l": "Seulement la première année"
+        },
+        "en": {
+            "header": "Do I have to pay to belong to a network?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Belonging to a professional network is not free. It is often necessary to pay a contribution, generally from a hundred euros.",
+            "tips": "Prices may vary depending on your situation. Networks open to students often require a lower fee.",
+            "clue": "Like an association.",
+            "template": "{{sel99027}}",
+            "label_NJXcuhQ3l": " ",
+            "choice_N1xQ9dh73l": "No, it's a free gathering",
+            "choice_4kZmcd3Q2e": "Yes, there is often a contribution",
+            "choice_EJw9-nX3l": "Only the first year"
+        },
+        "de": {
+            "header": "Müssen Sie bezahlen, um zu einem Netzwerk zu gehören?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Die Zugehörigkeit zu einem professionellen Netzwerk ist nicht kostenlos. Sie müssen oft eine Gebühr zahlen, die normalerweise bei einhundert Euro anfängt.",
+            "tips": "Die Preise können je nach Situation variieren. Netzwerke, die für Studierende offen sind, erheben häufig eine niedrigere Gebühr.",
+            "clue": "Wie bei einem Verein.",
+            "template": "{{sel99027}}",
+            "label_NJXcuhQ3l": " ",
+            "choice_N1xQ9dh73l": "Nein, es ist eine kostenlose Versammlung",
+            "choice_4kZmcd3Q2e": "Ja, oft wird eine Gebühr erhoben",
+            "choice_EJw9-nX3l": "Nur für das erste Jahr"
+        },
+        "es": {
+            "header": "Do you have to pay to belong to a network?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Belonging to a professional network is not free. You often have to pay a fee, which usually starts at one hundred euros.",
+            "tips": "Prices may vary depending on your situation. Networks open to students often charge them a lower fee.",
+            "template": "{{sel99027}}",
+            "label_NJXcuhQ3l": " ",
+            "choice_N1xQ9dh73l": "No, it is a free gathering",
+            "choice_4kZmcd3Q2e": "Yes, there is often a fee",
+            "choice_EJw9-nX3l": "Only for the first year",
+            "clue": "As with an association."
+        },
+        "zh": {
+            "header": "你需要支付属于网络的费用吗？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "属于专业网络并非免费。您经常需要支付一笔费用，通常从一百欧元开始。",
+            "tips": "价格可能因您的具体情况而异。向学生开放的网络通常会向他们收取较低的费用。",
+            "clue": "与协会一样。",
+            "template": "{{Sel99027}}",
+            "label_NJXcuhQ3l": " ",
+            "choice_N1xQ9dh73l": "不，这是一次自由聚会",
+            "choice_4kZmcd3Q2e": "是的，通常需要付费",
+            "choice_EJw9-nX3l": "仅限第一年"
+        }
+    }
+}

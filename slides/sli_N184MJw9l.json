@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:02:50.690Z",
+            "updatedAt": "2016-09-05T14:34:32.816Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N184MJw9l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel88616",
+                        "label": "label_NyNG7yPce",
+                        "items": [
+                            {
+                                "text": "choice_EkgNf71v9g",
+                                "value": "choice_EkgNf71v9g"
+                            },
+                            {
+                                "text": "choice_Ey~4M7yPcl",
+                                "value": "choice_Ey~4M7yPcl"
+                            },
+                            {
+                                "text": "choice_NJvfmyv9g",
+                                "value": "choice_NJvfmyv9g"
+                            },
+                            {
+                                "text": "choice_N1lvG7yvcg",
+                                "value": "choice_N1lvG7yvcg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel88616",
+                        "answers": [
+                            "choice_Ey~4M7yPcl"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N184MJw9l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel type de voix est associé à un personnage dominant, selon le chercheur Rosario Signorello?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Selon Rosario Signorello, chercheur, une voix basse est associée à un personnage dominant. Malheureusement, le stress peut élever la voix dans les aigus, vous devez donc travailler.",
+            "tips": "Selon une étude réalisée par les universités de Miami et Duke (2015), 60 à 70% des personnes interrogées ont déclaré qu'elles seraient plus susceptibles de voter pour le politicien ayant la plus mauvaise voix dans l'échantillon.",
+            "clue": "Avez-vous plus peur d'un lion rugissant ou d'un chant d'oiseau?",
+            "template": "{{sel88616}}",
+            "label_NyNG7yPce": " ",
+            "choice_EkgNf71v9g": "Une voix cassée",
+            "choice_Ey~4M7yPcl": "Une voix basse",
+            "choice_NJvfmyv9g": "Voix aiguë",
+            "choice_N1lvG7yvcg": "Une voix éthérée"
+        },
+        "en": {
+            "header": "What type of voice is associated with a dominant character, according to researcher Rosario Signorello?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "According to researcher Rosario Signorello, a low voice is associated with a dominant character. Unfortunately, stress can raise the voice in the treble, so you have to work.",
+            "tips": "According to a study by the Universities of Miami and Duke (2015), 60-70% of respondents said they would be more likely to vote for the politician with the worst voice in the sample.",
+            "clue": "Are you more afraid of a lion roaring or a bird chirping?",
+            "template": "{{sel88616}}",
+            "label_NyNG7yPce": " ",
+            "choice_EkgNf71v9g": "A broken voice",
+            "choice_Ey~4M7yPcl": "A low voice",
+            "choice_NJvfmyv9g": "Acute voice",
+            "choice_N1lvG7yvcg": "An ethereal voice"
+        },
+        "de": {
+            "header": "Welche Art von Stimme wird nach Ansicht des Forschers Rosario Signorello mit einem dominanten Charakter in Verbindung gebracht?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Laut dem Forscher Rosario Signorello ist eine tiefe Stimme mit einem dominanten Charakter verbunden. Leider kann Stress die Stimme in den Höhen erhöhen, so dass Sie arbeiten müssen.",
+            "tips": "Laut einer Studie der Universitäten von Miami und Duke (2015) gaben 60-70% der Befragten an, dass sie eher für den Politiker mit der schlechtesten Stimme in der Stichprobe stimmen würden.",
+            "clue": "Hast du mehr Angst vor einem brüllenden Löwen oder einem zwitschernden Vogel?",
+            "template": "{{sel88616}}",
+            "label_NyNG7yPce": " ",
+            "choice_EkgNf71v9g": "Eine gebrochene Stimme",
+            "choice_Ey~4M7yPcl": "Eine tiefe Stimme",
+            "choice_NJvfmyv9g": "Akute Stimme",
+            "choice_N1lvG7yvcg": "Eine ätherische Stimme"
+        },
+        "es": {
+            "header": "What kind of voice is associated with a dominant character, according to researcher Rosario Signorello?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "According to researcher Rosario Signorello, a low voice is associated with a dominant character. Unfortunately, stress can cause the voice to become higher pitched, so it must be worked on.",
+            "tips": "According to a study from the universities of Miami and Duke (2015), 60% to 70% of respondents said they would vote more willingly for the male or female politician with the most serious voice in the sample.",
+            "template": "{{sel88616}}",
+            "label_NyNG7yPce": " ",
+            "choice_EkgNf71v9g": "A broken voice",
+            "choice_Ey~4M7yPcl": "A low voice",
+            "choice_NJvfmyv9g": "A shrill voice",
+            "choice_N1lvG7yvcg": "An ethereal voice",
+            "clue": "Are you more afraid of the roar of a lion or the chirping of a bird?"
+        },
+        "zh": {
+            "header": "根据研究员罗萨里奥·西格雷洛（Rosario Signorello）的说法，什么样的声音与主导人物有关？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "据研究员罗萨里奥·西格雷洛说，低声与主导人物有关。不幸的是，压力会导致声音变得更高，因此必须加以研究。",
+            "tips": "根据迈阿密大学和杜克大学（2015年）的一项研究，60％至70％的受访者表示他们会更自愿地投票给那些样本中声音最严重的男性或女性政治家。",
+            "clue": "你是否更害怕狮子的咆哮或鸟的唧唧声？",
+            "template": "{{sel88616}}",
+            "label_NyNG7yPce": " ",
+            "choice_EkgNf71v9g": "一个破碎的声音",
+            "choice_Ey~4M7yPcl": "声音低沉",
+            "choice_NJvfmyv9g": "一个刺耳的声音",
+            "choice_N1lvG7yvcg": "一个空灵的声音"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:20:39.732Z",
+            "updatedAt": "2018-10-08T14:12:50.261Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJQxp8BXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ek9pa68QS",
+        "universalRef": "sli_Ek9pa68QS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ek9pa68QS.choice_N1eJR6LXH.id",
+                        "label": "choice_N1eJR6LXH",
+                        "value": "choice_N1eJR6LXH"
+                    },
+                    {
+                        "id": "sli_Ek9pa68QS.choice_VkHe0pLQr.id",
+                        "label": "choice_VkHe0pLQr",
+                        "value": "choice_VkHe0pLQr"
+                    },
+                    {
+                        "id": "sli_Ek9pa68QS.choice_Vk4Z0TL7r.id",
+                        "label": "choice_Vk4Z0TL7r",
+                        "value": "choice_Vk4Z0TL7r"
+                    },
+                    {
+                        "id": "sli_Ek9pa68QS.choice_EyPZCpUmB.id",
+                        "label": "choice_EyPZCpUmB",
+                        "value": "choice_EyPZCpUmB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1eJR6LXH",
+                        "choice_VkHe0pLQr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les principes de base de la méthode LIMITER ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La méthode LIMITER propose avant tout de fixer une durée maximale à l’amplitude de travail et à focaliser notre attention sur l’essentiel. L’efficacité de cette méthode repose donc sur le principe du renoncement à effectuer des tâches qui dépassent la durée maximale fixée.",
+            "tips": "Il est conseillé de rédiger votre to-do liste la veille d'une journée dense : cela ne prend qu'une dizaine de minutes.",
+            "clue": "Nous n’avons pas 4 bras.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1eJR6LXH": "Fixer une durée maximale à son amplitude de travail",
+            "choice_VkHe0pLQr": "Focaliser son attention sur l’essentiel",
+            "choice_Vk4Z0TL7r": "Déléguer les imprévus",
+            "choice_EyPZCpUmB": "Diviser par deux le temps alloué à chaque tâche"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "What are the basic principles of the LIMITER method?",
+            "klf": "The LIMITER method suggests you set a maximum period time for the amount of work that needs to be done and then focus your attention on anything essential. What makes this method so effective is the idea that you must stop doing tasks once they’ve exceeded the set maximum time period.",
+            "tips": "You should take 10 minutes to put together your To Do list the day before you know you have a busy day.",
+            "clue": "You’ve only got one pair of hands.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1eJR6LXH": "Setting a maximum amount of time for the quantity of work that needs to be done",
+            "choice_VkHe0pLQr": "Focusing your attention on anything essential",
+            "choice_Vk4Z0TL7r": "Delegating anything unexpected that crops up",
+            "choice_EyPZCpUmB": "Halving the amount of time you spend on each task"
+        }
+    }
+}

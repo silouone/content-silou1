@@ -1,0 +1,94 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T14:51:50.854Z",
+            "updatedAt": "2018-05-09T11:33:20.374Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4Jzqoq~h4",
+        "universalRef": "sli_4Jzqoq~h4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4Jzqoq~h4.field_N1y0sqb2V.id",
+                        "type": "text",
+                        "name": "inp67756",
+                        "label": "label_4JxJAs5~2E",
+                        "placeholder": "placeholder_4kWkAscb34"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp67756",
+                        "answers": [
+                            "choice_V1M1Aoqb34",
+                            "choice_4JQJh5Z3N",
+                            "choice_EJ8J2q~n4",
+                            "choice_4Jcyn5ZhV",
+                            "choice_Nk17h9ZnN"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Activité motrice et pleine conscience",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "La motricité consiste à bouger, à être en mouvement comme : sourire, écrire, dessiner, marcher. Elle a un pouvoir régulateur sur nos émotions en déchargeant le trop-plein.",
+            "tips": "La motricité externe qui consiste à bouger son corps est accompagnée d’une dynamique interne qui déplace les charges et régénère notre énergie.",
+            "clue": "Régulation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L’activité motrice en pleine conscience est un bon moyen de {{inp67756}} nos énergies négatives et notre trop plein de tensions.",
+            "label_4JxJAs5~2E": " ",
+            "placeholder_4kWkAscb34": " ",
+            "choice_V1M1Aoqb34": "décharger",
+            "choice_4JQJh5Z3N": "alléger",
+            "choice_EJ8J2q~n4": "transformer",
+            "choice_4Jcyn5ZhV": "diminuer",
+            "choice_Nk17h9ZnN": "réduire"
+        },
+        "en": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "Activité motrice et pleine conscience",
+            "klf": "La motricité consiste à bouger, à être en mouvement comme : sourire, écrire, dessiner, marcher. Elle a un pouvoir régulateur sur nos émotions en déchargeant le trop-plein.",
+            "tips": "La motricité externe qui consiste à bouger son corps est accompagnée d’une dynamique interne qui déplace les charges et régénère notre énergie.",
+            "clue": "Régulation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L’activité motrice en pleine conscience est un bon moyen de {{inp67756}} nos énergies négatives et notre trop plein de tensions.",
+            "label_4JxJAs5~2E": " ",
+            "placeholder_4kWkAscb34": " ",
+            "choice_V1M1Aoqb34": "décharger",
+            "choice_4JQJh5Z3N": "alléger",
+            "choice_EJ8J2q~n4": "transformer",
+            "choice_4Jcyn5ZhV": "diminuer",
+            "choice_Nk17h9ZnN": "réduire"
+        }
+    }
+}

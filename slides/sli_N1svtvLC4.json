@@ -1,0 +1,97 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T12:51:00.025Z",
+            "updatedAt": "2018-06-22T15:56:15.899Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T12:51:00.025Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1svtvLC4",
+        "universalRef": "sli_N1svtvLC4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel48495",
+                        "label": "label_E13itPL0N",
+                        "items": [
+                            {
+                                "text": "choice_Eke3sYP8RV",
+                                "value": "choice_Eke3sYP8RV"
+                            },
+                            {
+                                "text": "choice_Vk~noKw8AV",
+                                "value": "choice_Vk~noKw8AV"
+                            },
+                            {
+                                "text": "choice_VJd6YDI0V",
+                                "value": "choice_VJd6YDI0V"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel48495",
+                        "answers": [
+                            "choice_Eke3sYP8RV"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi regrouper les idées issues du brainstorming par catégories ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Regrouper les idées par catégories permet d’avoir un aperçu global et de mieux comprendre les difficultés présentes.",
+            "tips": "La catégorisation est un processus cognitif essentiel grâce auquel nous pouvons apprendre de nouveaux concepts. Selon la psychologie cognitive, plus la personne voit de connexions entre des termes qui sont pour d’autres faiblement apparentés, plus elle est créative.",
+            "clue": "Loupe.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel48495}}",
+            "label_E13itPL0N": " ",
+            "choice_Eke3sYP8RV": "Pour disposer d’un aperçu global",
+            "choice_Vk~noKw8AV": "Pour limiter le nombre d’idées",
+            "choice_VJd6YDI0V": "Pour supprimer certaines idées"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "Why is it a good idea to group the ideas you have generated during your brainstorming into categories?",
+            "klf": "Grouping ideas into categories gives you an overall view of everything you have, allowing you to better understand any difficulties.",
+            "tips": "Categorisation is an essential cognitive process which allows us to learn new concepts. Cognitive psychology teaches us that the more connections a person sees between terms which, to others, appear to bare little relation, the more creative that individual is.",
+            "clue": "Bird’s eye view",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It’s recommended that you group brainstorming ideas into categories to give you {{sel48495}}.",
+            "label_E13itPL0N": " ",
+            "choice_Eke3sYP8RV": "a comprehensive overview",
+            "choice_Vk~noKw8AV": "a limited number of ideas",
+            "choice_VJd6YDI0V": "a few ideas you can delete"
+        }
+    }
+}

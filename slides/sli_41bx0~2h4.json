@@ -1,0 +1,107 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T13:01:50.741Z",
+            "updatedAt": "2018-06-21T10:45:42.325Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJKt6uN5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_41bx0~2h4",
+        "universalRef": "sli_41bx0~2h4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41bx0~2h4.choice_EkhcltfRE.id",
+                        "label": "choice_EkhcltfRE",
+                        "value": "choice_EkhcltfRE"
+                    },
+                    {
+                        "id": "sli_41bx0~2h4.choice_E1ZslYzAV.id",
+                        "label": "choice_E1ZslYzAV",
+                        "value": "choice_E1ZslYzAV"
+                    },
+                    {
+                        "id": "sli_41bx0~2h4.choice_41voxtf0V.id",
+                        "label": "choice_41voxtf0V",
+                        "value": "choice_41voxtf0V"
+                    },
+                    {
+                        "id": "sli_41bx0~2h4.choice_Ek6ixFzCN.id",
+                        "label": "choice_Ek6ixFzCN",
+                        "value": "choice_Ek6ixFzCN"
+                    },
+                    {
+                        "id": "sli_41bx0~2h4.choice_NJm3gtMA4.id",
+                        "label": "choice_NJm3gtMA4",
+                        "value": "choice_NJm3gtMA4"
+                    },
+                    {
+                        "id": "sli_41bx0~2h4.choice_VJO2xKfRN.id",
+                        "label": "choice_VJO2xKfRN",
+                        "value": "choice_VJO2xKfRN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkhcltfRE",
+                        "choice_E1ZslYzAV",
+                        "choice_NJm3gtMA4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En pleine présence, nous observons plus facilement les comportements qui nous freinent dans nos différentes tâches. Quels sont les trois principaux comportements bloquants ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Ces comportements sont bloquants et contre-productifs en ce sens qu’ils créent des perturbations émotionnelles comme la culpabilité, la saturation ou l'épuisement.",
+            "tips": "Les études montrent que la procrastination chronique entraîne une baisse du système immunitaire : les procrastinateurs sont plus exposés aux troubles gastro-intestinaux et souffrent davantage d’insomnie.",
+            "clue": "Mettez-vous en condition !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkhcltfRE": "La procrastination : remettre à plus tard ",
+            "choice_E1ZslYzAV": "La dispersion : s’atteler à plusieurs tâches en même temps ",
+            "choice_41voxtf0V": "La délégation : faire réaliser par quelqu'un d’autre",
+            "choice_Ek6ixFzCN": "Le mimétisme : imiter les personnes efficaces",
+            "choice_NJm3gtMA4": "La précipitation : se mettre en situation d’urgence pour agir ",
+            "choice_VJO2xKfRN": "La temporisation : réfléchir avant d’agir"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Mindfulness makes it easier to see what kind of behaviour restricts us when we’re doing different tasks. What are the three forms of unhelpful behaviour called?",
+            "klf": "These types of behaviour are unhelpful and counter-productive because they lead to forms of emotional upheaval such as guilt, exhaustion and burn-out.",
+            "tips": "Studies show that chronic procrastination leads to a weakened immune system: procrastinators are more likely to suffer from gastrointestinal issues and insomnia.",
+            "clue": "Get into shape!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkhcltfRE": "Procrastination: putting something off till later ",
+            "choice_E1ZslYzAV": "Dispersion: tackling several tasks at the same time ",
+            "choice_41voxtf0V": "Delegation: making someone else do the job",
+            "choice_Ek6ixFzCN": "Imitation: copying efficient people",
+            "choice_NJm3gtMA4": "Precipitation: dealing with tasks as if they’re some kind of emergency ",
+            "choice_VJO2xKfRN": "Suspension: thinking before doing"
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T09:42:32.528Z",
+            "updatedAt": "2016-09-05T16:56:21.168Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4y-JVoy2g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel52580",
+                        "label": "label_4yXcEoJng",
+                        "items": [
+                            {
+                                "text": "choice_N1lX9Vj1hg",
+                                "value": "choice_N1lX9Vj1hg"
+                            },
+                            {
+                                "text": "choice_NJZXcEjyng",
+                                "value": "choice_NJZXcEjyng"
+                            },
+                            {
+                                "text": "choice_N1H9Ejy3l",
+                                "value": "choice_N1H9Ejy3l"
+                            },
+                            {
+                                "text": "choice_41I5NjJhg",
+                                "value": "choice_41I5NjJhg"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel52580",
+                        "answers": [
+                            "choice_N1H9Ejy3l"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4y-JVoy2g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la proportion de femmes qui ne demandent pas d'augmentation, selon une étude du réseau professionnel féminin EPWN ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En 2013, 66% des membres d'EPWN interrogées déclarent ne pas demander d'augmentation. Pourtant, 75% d'entre elles affirment ne pas être satisfaites de leur rémunération.",
+            "tips": "Selon EPWN en novembre 2013, pour 12% des femmes qui ne demandent pas d'augmentation, la principale raison est la peur de perdre leur emploi.",
+            "template": "{{sel52580}}",
+            "clue": "Plus de la moitié, moins des trois quarts.",
+            "label_4yXcEoJng": " ",
+            "choice_N1lX9Vj1hg": "27%",
+            "choice_NJZXcEjyng": "51%",
+            "choice_N1H9Ejy3l": "66%",
+            "choice_41I5NjJhg": "83%"
+        },
+        "en": {
+            "header": "What is the proportion of women who do not ask for an increase, according to a study of the EPWN Women's Professional Network?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In 2013, 66% of EPWN members surveyed said they did not ask for an increase. Yet 75% of them say they are not happy with their pay.",
+            "tips": "According to EPWN in November 2013, for 12% of women who do not ask for an increase, the main reason is the fear of losing their job.",
+            "clue": "More than half, less than three quarters.",
+            "template": "{{sel52580}}",
+            "label_4yXcEoJng": " ",
+            "choice_N1lX9Vj1hg": "27%",
+            "choice_NJZXcEjyng": "51%",
+            "choice_N1H9Ejy3l": "66%",
+            "choice_41I5NjJhg": "83%"
+        },
+        "de": {
+            "header": "Welcher Anteil von Frauen beantragt laut einer Studie des EPWN für Frauenberufe keine Erhebung?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Im Jahr 2013 gaben 66% der befragten EPWN-Mitglieder an, dass sie keine Gehaltserhöhung fordern. 75% von ihnen geben an, mit ihrer Vergütung nicht zufrieden zu sein.",
+            "tips": "Laut EPWN vom November 2013 ist der Hauptgrund für 12% der Frauen, die keine Gehaltserhöhung fordern, die Angst, ihren Arbeitsplatz zu verlieren.",
+            "clue": "Mehr als die Hälfte, weniger als drei Viertel.",
+            "template": "{{sel52580}}",
+            "label_4yXcEoJng": " ",
+            "choice_N1lX9Vj1hg": "27%",
+            "choice_NJZXcEjyng": "51%",
+            "choice_N1H9Ejy3l": "66%",
+            "choice_41I5NjJhg": "83%"
+        },
+        "es": {
+            "header": "What proportion of women do not request a raise, according to a study of women's professional network EPWN?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In 2013, 66% of EPWN members who were questioned say they do not ask for a raise. Yet 75% of them say they are not satisfied with their remuneration.",
+            "tips": "According to EPWN in November 2013, for 12% of women who do not ask for a raise, the main reason is the fear of losing their jobs.",
+            "template": "{{sel52580}}",
+            "label_4yXcEoJng": " ",
+            "choice_N1lX9Vj1hg": "27%",
+            "choice_NJZXcEjyng": "51%",
+            "choice_N1H9Ejy3l": "66%",
+            "choice_41I5NjJhg": "83%",
+            "clue": "More than half, less than three quarters."
+        },
+        "zh": {
+            "header": "根据对女性专业网络EPWN的研究，有多少女性不要求加薪？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "2013年，66％受到质疑的EPWN成员表示他们不会要求加薪。然而，75％的人表示他们对自己的报酬不满意。",
+            "tips": "根据2013年11月的EPWN，12％的女性不要求加薪，主要原因是害怕失去工作。",
+            "clue": "超过一半，不到四分之三。",
+            "template": "{{sel52580}}",
+            "label_4yXcEoJng": " ",
+            "choice_N1lX9Vj1hg": "27％",
+            "choice_NJZXcEjyng": "51％",
+            "choice_N1H9Ejy3l": "66％",
+            "choice_41I5NjJhg": "83％"
+        }
+    }
+}

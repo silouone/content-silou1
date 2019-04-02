@@ -1,0 +1,159 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-30T08:22:16.897Z",
+            "updatedAt": "2018-08-10T13:16:23.379Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9DcQ4sV"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4JVgWa16N",
+        "universalRef": "sli_4JVgWa16N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JVgWa16N.choice_NJeEfWTJpE.id",
+                        "label": "choice_NJeEfWTJpE",
+                        "value": "choice_NJeEfWTJpE",
+                        "media": "med_4yNzZ6k6N"
+                    },
+                    {
+                        "id": "sli_4JVgWa16N.choice_4ygLMb6kaE.id",
+                        "label": "choice_4ygLMb6kaE",
+                        "value": "choice_4ygLMb6kaE",
+                        "media": "med_4JUGWpkTN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4ygLMb6kaE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Thanks to communication tools, we can now dispense with face-to-face interactions. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "To be able to properly listen, you should organise a face-to-face encounter. They may not be frequent, but they are essential.",
+            "tips": "Face-to-face interactions make it possible to observe unspoken rules, non-verbal expressions, nuances and moods.",
+            "clue": "Contact.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeEfWTJpE": "TRUE",
+            "choice_4ygLMb6kaE": "FALSE"
+        },
+        "fr": {
+            "header": "Avec les outils de communication, nous pouvons maintenant éviter les interactions face à face. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Pour pouvoir écouter correctement, vous devez organiser une communication en face à face. Ils ne sont peut-être pas communs, mais ils sont essentiels.",
+            "tips": "Les interactions face à face peuvent observer des règles cachées, des expressions non verbales, des nuances et des émotions.",
+            "clue": "Contact",
+            "choice_NJeEfWTJpE": "Vraiment",
+            "choice_4ygLMb6kaE": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "Gracias a las herramientas de comunicación, ahora podemos prescindir de las interacciones cara a cara. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "Para poder escuchar correctamente, debe organizar un encuentro cara a cara. Puede que no sean frecuentes, pero son esenciales.",
+            "tips": "Las interacciones cara a cara hacen posible observar reglas tácitas, expresiones no verbales, matices y estados de ánimo.",
+            "clue": "Contacto.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeEfWTJpE": "Cierto",
+            "choice_4ygLMb6kaE": "Falso"
+        },
+        "it": {
+            "header": "Grazie agli strumenti di comunicazione, ora possiamo fare a meno delle interazioni faccia a faccia. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Per essere in grado di ascoltare correttamente, è necessario organizzare un incontro faccia a faccia. Possono non essere frequenti, ma sono essenziali.",
+            "tips": "Le interazioni faccia a faccia permettono di osservare regole non dette, espressioni non verbali, sfumature e stati danimo.",
+            "clue": "Contatto.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeEfWTJpE": "Vero",
+            "choice_4ygLMb6kaE": "falso"
+        },
+        "de": {
+            "header": "Thanks to communication tools, we can now dispense with face-to-face interactions. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "To be able to properly listen, you should organise a face-to-face encounter. They may not be frequent, but they are essential.",
+            "tips": "Face-to-face interactions make it possible to observe unspoken rules, non-verbal expressions, nuances and moods.",
+            "clue": "Contact.",
+            "choice_NJeEfWTJpE": "TRUE",
+            "choice_4ygLMb6kaE": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "커뮤니케이션 도구 덕분에 이제 대면 인터랙션을 없앨 수 있습니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "제대로들을 수 있으려면 대면을해야합니다. 빈번하지 않을 수도 있지만 필수적입니다.",
+            "tips": "직접 대면하는 상호 작용을 통해 무언의 규칙, 비언어적 표현, 뉘앙스 및 분위기를 관찰 할 수 있습니다.",
+            "clue": "접촉.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeEfWTJpE": "참된",
+            "choice_4ygLMb6kaE": "그릇된"
+        },
+        "ru": {
+            "header": "Благодаря средствам коммуникации мы теперь можем отказаться от личных контактов. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Чтобы иметь возможность правильно слушать, вы должны организовать встречу лицом к лицу. Они могут быть нечасто, но они необходимы.",
+            "tips": "Личные взаимодействия позволяют наблюдать невысказанные правила, невербальные выражения, нюансы и настроения.",
+            "clue": "Контакт.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeEfWTJpE": "Правда",
+            "choice_4ygLMb6kaE": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Graças às ferramentas de comunicação, podemos agora dispensar as interações face a face. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "Para poder escutar adequadamente, você deve organizar um encontro face a face. Eles podem não ser freqüentes, mas são essenciais.",
+            "tips": "As interações face-a-face permitem observar regras tácitas, expressões não-verbais, nuances e estados de ânimo.",
+            "clue": "Contato.",
+            "choice_NJeEfWTJpE": "VERDADE",
+            "choice_4ygLMb6kaE": "FALSO"
+        },
+        "zh": {
+            "header": "借助沟通工具，我们现在可以免除面对面的互动。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "为了能够正确地倾听，你应该组织一次面对面的交流。它们可能不常见，但它们是必不可少的。",
+            "tips": "面对面的互动可以观察潜规则，非言语表达，细微差别和情绪。",
+            "clue": "联系。",
+            "choice_NJeEfWTJpE": "真正",
+            "choice_4ygLMb6kaE": "假"
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:06:34.681Z",
+            "updatedAt": "2017-08-11T09:16:00.183Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yHV-8Cje"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Nkpenomnl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel72871",
+                        "label": "label_NJL62j7ng",
+                        "items": [
+                            {
+                                "text": "choice_V1gUpnjm3g",
+                                "value": "choice_V1gUpnjm3g"
+                            },
+                            {
+                                "text": "choice_4yb86niX2e",
+                                "value": "choice_4yb86niX2e"
+                            },
+                            {
+                                "text": "choice_V1F6niXnl",
+                                "value": "choice_V1F6niXnl"
+                            },
+                            {
+                                "text": "choice_EkgY62jQnx",
+                                "value": "choice_EkgY62jQnx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel72871",
+                        "answers": [
+                            "choice_V1F6niXnl"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_Nkpenomnl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien compte-t-on de réseaux professionnels féminins en France ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En 2014, on comptait 450 réseaux professionnels féminins en France. Ils n'étaient que 200 en 2007, selon Emmanuelle Gagliardi, créatrice de l'agence de communication Connecting Women et spécialiste des réseaux féminins.",
+            "tips": "Les premiers réseaux ont été créés dans les secteurs où les femmes étaient peu nombreuses, comme l'industrie, par des quadras ou des quinquas confrontées au plafond de verre. Aujourd'hui, ce sont surtout des trentenaires qui les lancent (source : L'Étudiant).",
+            "template": "{{sel72871}}",
+            "clue": "CDL.",
+            "label_NJL62j7ng": " ",
+            "choice_V1gUpnjm3g": "150",
+            "choice_4yb86niX2e": "200",
+            "choice_V1F6niXnl": "450",
+            "choice_EkgY62jQnx": "600"
+        },
+        "en": {
+            "header": "How many female professional networks are there in France?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In 2014, there were 450 professional women's networks in France. They were only 200 in 2007, according to Emmanuelle Gagliardi, creator of the communication agency Connecting Women and a specialist in women's networks.",
+            "tips": "The first networks were created in sectors where women were few, such as industry, by quadras or fifties facing the glass ceiling. Today, it is mostly thirty-something who launch them (source: L'Étudiant).",
+            "clue": "CDL.",
+            "template": "{{sel72871}}",
+            "label_NJL62j7ng": " ",
+            "choice_V1gUpnjm3g": "150",
+            "choice_4yb86niX2e": "200",
+            "choice_V1F6niXnl": "450",
+            "choice_EkgY62jQnx": "600"
+        },
+        "de": {
+            "header": "Wie viele berufliche Netzwerke für Frauen gibt es in Frankreich?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "2014 gab es in Frankreich 450 berufliche Netzwerke für Frauen. Laut Emmanuelle Gagliardi, Gründerin der Kommunikationsagentur Connecting Women und Spezialistin für Frauennetzwerke, gab es 2007 nur 200.",
+            "tips": "Die ersten Netzwerke wurden in Sektoren geschaffen, in denen es weniger Frauen gab, beispielsweise im Industriesektor, als Frauen in den Vierzigern oder Fünfzigern, die vor der Glasdecke standen. Heute starten meistens Frauen in den Dreißigern. (Quelle: Der Student)",
+            "clue": "CDL.",
+            "template": "{{sel72871}}",
+            "label_NJL62j7ng": " ",
+            "choice_V1gUpnjm3g": "150",
+            "choice_4yb86niX2e": "200",
+            "choice_V1F6niXnl": "450",
+            "choice_EkgY62jQnx": "600"
+        },
+        "es": {
+            "header": "How many professional networks for women are there in France?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In 2014, there were 450 professional networks for women in France. There were only 200 in 2007, according to Emmanuelle Gagliardi, founder of the communications agency Connecting Women and specialist in women's networks.",
+            "tips": "The first networks were created in sectors where there were fewer women, such as the industrial sector, by women in their forties or fifties who were faced with the glass ceiling. Today, it is mostly women in their thirties who launch them. (Source: The Student)",
+            "template": "{{sel72871}}",
+            "label_NJL62j7ng": " ",
+            "choice_V1gUpnjm3g": "150",
+            "choice_4yb86niX2e": "200",
+            "choice_V1F6niXnl": "450",
+            "choice_EkgY62jQnx": "600",
+            "clue": "CDL."
+        },
+        "zh": {
+            "header": "法国有多少女性专业网络？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "2014年，法国有450个女性专业网络。根据传播机构Connecting Women和女性网络专家Emmanuelle Gagliardi的说法，2007年只有200人。",
+            "tips": "第一批网络是在妇女较少的部门创建的，例如工业部门，四十或五十年代面临玻璃天花板的妇女。如今，大多数三十多岁的女性都会推出它们。 （来源：学生）",
+            "clue": "CDL。",
+            "template": "{{sel72871}}",
+            "label_NJL62j7ng": " ",
+            "choice_V1gUpnjm3g": "150",
+            "choice_4yb86niX2e": "200",
+            "choice_V1F6niXnl": "450",
+            "choice_EkgY62jQnx": "600"
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-13T07:50:26.054Z",
+            "updatedAt": "2018-10-12T15:04:34.285Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJmCaWFVS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJqILQqrr",
+        "universalRef": "sli_NJqILQqrr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJqILQqrr.choice_VyEPd2Q8B.id",
+                        "label": "choice_VyEPd2Q8B",
+                        "value": "choice_VyEPd2Q8B"
+                    },
+                    {
+                        "id": "sli_NJqILQqrr.choice_V1BD-hQLH.id",
+                        "label": "choice_V1BD-hQLH",
+                        "value": "choice_V1BD-hQLH"
+                    },
+                    {
+                        "id": "sli_NJqILQqrr.choice_4JDDOh78H.id",
+                        "label": "choice_4JDDOh78H",
+                        "value": "choice_4JDDOh78H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1BD-hQLH"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_E1DDFhQ8H",
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment devez-vous réagir face à ce commentaire ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vous devez prendre le temps de réagir à tous les avis et commentaires, qu'ils soient positifs ou négatifs. Répondez-y rapidement, mais pas laconiquement. Face à une critique, soulignez les points positifs pour estomper les mauvaises impressions. Et n'oubliez pas de remercier le contributeur pour son apport, tout en faisant preuve d'esprit !",
+            "tips": "Des sites comme TripAdvisor permettent d'insérer, sur sa page professionnelle, un lien direct pour inciter le client à partager son avis positif. Pour un hôtel ou un restaurant, c'est une astuce efficace pour faire augmenter sa note sur ce type de site de recommandations.",
+            "clue": "Ne prenez pas la mouche et personnalisez votre réponse.",
+            "context_title": "Gérer un commentaire négatif",
+            "context_description": "Il est 9 heures. Comme tous les matins, vous consultez votre compte Facebook. Aïe ! Vous découvrez un message déplaisant laissé par un de vos clients les plus fidèles – et accessoirement très influent sur les réseaux sociaux : <i>\"Cela fait des mois que j'achète le même produit. Or j'ai repéré un objet similaire chez un concurrent, 20 % moins cher ! Je ne pense pas que la qualité justifie une telle différence de prix. Vous ne me reverrez probablement pas !\"</i>",
+            "context_media_description": "",
+            "choice_VyEPd2Q8B": "\"Nous sommes désolés si notre produit ne vous satisfait pas, mais sachez que la qualité que nous proposons justifie nos prix.\"",
+            "choice_V1BD-hQLH": "\"Merci pour votre retour. La qualité est en effet notre priorité :) Nous fabriquons nos produits en France et offrons une garantie de deux ans, ce qui explique notre positionnement.\"",
+            "choice_4JDDOh78H": "\"Merci pour votre commentaire. Nous prenons note de vos retours et revenons vers vous dans les plus brefs délais.\""
+        },
+        "en": {
+            "header": "How should you react to this comment?",
+            "explanation": "Select the correct answer.",
+            "klf": "You must take the time to respond to all reviews and comments, whether positive or negative. Answer it quickly, but not laconically. In the face of criticism, emphasize the good points to fade bad impressions. And do not forget to thank the contributor for his contribution, while showing his spirit!",
+            "tips": "Sites like TripAdvisor allow to insert, on their professional page, a direct link to encourage the customer to share his positive opinion. For a hotel or a restaurant, this is an effective tip to increase its rating on this type of site recommendations.",
+            "clue": "Do not take the fly and personalize your answer.",
+            "context_title": "Manage a negative comment",
+            "context_description": "It is 9 o&#39;clock. Like every morning, you check your Facebook account. Ouch! You discover an unpleasant message left by one of your most loyal customers - and incidentally very influential on social networks: <i>&quot;I have been buying the same product for months, but I have spotted a similar object from a competitor, 20 I do not think that quality justifies such a difference in price, you will probably not see me again! &quot;</i>",
+            "choice_VyEPd2Q8B": "\"We are sorry if our product does not satisfy you, but know that the quality we offer justifies our prices.\"",
+            "choice_V1BD-hQLH": "\"Thank you for your return Quality is indeed our priority :) We manufacture our products in France and offer a guarantee of two years, which explains our positioning.\"",
+            "choice_4JDDOh78H": "\"Thank you for your comment, we take note of your feedback and get back to you as soon as possible.\"",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Wie solltest du auf diesen Kommentar reagieren?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Sie sollten Zeit für die Reaktion auf alle Bewertungen und Kommentare (positiv oder negativ) einplanen. Reagiere schnell, aber sei nicht zu kurz. Wenn Sie auf einen Kommentar wie diesen stoßen, konzentrieren Sie sich auf das Positive, um negative Eindrücke herunterzuspielen. Und vergessen Sie nicht, den Beitragenden für die Unterstützung zu danken!",
+            "tips": "Mit Websites wie TripAdvisor können Sie einen direkten Link auf Ihrer professionellen Website einfügen, um Kunden dazu zu bringen, ihre positiven Bewertungen mitzuteilen. Dies ist eine effiziente Möglichkeit für Hotels oder Restaurants, ihr Ranking auf diesen Arten von Bewertungs-Websites zu erhöhen.",
+            "clue": "Machen Sie sich keine Mühe und erstellen Sie eine persönliche Antwort.",
+            "context_title": "Negative Bewertungen verwalten",
+            "context_description": "Es ist 9 Uhr morgens. Wie üblich überprüfen Sie Ihr Facebook-Konto. Ach nein! Sie sehen, dass einer Ihrer treusten Kunden - und jemand, der großen Einfluss auf die sozialen Medien ausübt - eine unangenehme Botschaft hinterlassen hat: <i>&quot;Ich kaufe dasselbe Produkt seit Monaten. Ich habe jedoch gerade herausgefunden, dass ein Mitbewerber dies anbietet ein ähnliches Produkt, 20% günstiger! Ich glaube nicht, dass die Qualität diesen Preisunterschied rechtfertigt. Sie werden mich wahrscheinlich nicht wiedersehen! &quot;</i>",
+            "choice_VyEPd2Q8B": "„Es tut uns leid, dass Sie mit unserem Produkt unzufrieden waren, aber wir glauben, dass unsere Preise unser Qualitätsniveau widerspiegeln.“",
+            "choice_V1BD-hQLH": "\"Danke für Ihre Rückmeldung. Qualität ist eigentlich unsere Priorität :) Wir stellen unsere Produkte in Frankreich her und bieten eine Garantie von zwei Jahren. Dies erklärt unseren Preis. “",
+            "choice_4JDDOh78H": "\"Danke für deinen Kommentar. Wir haben Ihr Feedback zur Kenntnis genommen und werden uns so schnell wie möglich bei Ihnen melden. “",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "How should you react to this comment?",
+            "klf": "You should allocate time to reacting to all reviews and comments, whether positive or negative. Respond quickly, but never be curt. If you come across a comment such as this, focus on the positives to downplay any negative impressions. And don’t forget to thank the contributor for their support!",
+            "tips": "Websites like TripAdvisor allow you to insert a direct link on your professional website to encourage customers to share their positive reviews. This is an efficient way for hotels or restaurants to increase their ranking on these kinds of review websites.",
+            "clue": "Don’t go off in a huff, and craft a personalised reply.",
+            "context_title": "To manage negative reviews",
+            "context_description": "It’s 9 o’clock in the morning. As usual, you check your Facebook account. Oh no! You see that one of your most loyal customers – and someone who has a lot of influence on social media – has left an unpleasant message: <i>\"I’ve been buying the same product for months. But I just found out that a competitor is offering a similar product, 20% cheaper! I don’t think that the quality justifies this price difference. You probably won’t be seeing me again!\"</i>",
+            "context_media_description": "",
+            "choice_VyEPd2Q8B": "“We are sorry to hear that you were dissatisfied with our product, but we believe that our prices reflect the level of quality we offer”.",
+            "choice_V1BD-hQLH": "“Thank you for your feedback. Quality is actually our priority :) We manufacture our products in France and offer a two-year guarantee, which explains our price point.”",
+            "choice_4JDDOh78H": "“Thank you for your comment. We have taken note of your feedback and will get back to you as soon as possible.”"
+        },
+        "zh": {
+            "header": "你应该如何回应这个评论？",
+            "explanation": "选择正确的答案。",
+            "klf": "您应该花时间对所有评论和评论做出反应，无论是积极的还是消极的。快速回应，但永远不要简单。如果您发现此类评论，请关注积极因素以淡化任何负面印象。不要忘记感谢贡献者的支持！",
+            "tips": "像TripAdvisor这样的网站允许您在专业网站上插入直接链接，以鼓励客户分享他们的积极评价。这是酒店或餐馆提高这些评论网站排名的有效方式。",
+            "clue": "不要生气，并制作个性化的回复。",
+            "context_title": "管理负面评论",
+            "context_description": "现在是早上9点。像往常一样，你检查你的Facebook帐户。不好了！你看到你最忠诚的客户之一 - 以及对社交媒体有很大影响力的人 - 留下了一个令人不快的信息： <i>“我几个月来一直在购买相同的产品。但我发现竞争对手正在提供一个类似的产品，便宜20％！我不认为质量证明这个价格差异。你可能不会再见到我！“</i>",
+            "choice_VyEPd2Q8B": "“我们很遗憾听到您对我们的产品不满意，但我们认为我们的价格反映了我们提供的质量水平”。",
+            "choice_V1BD-hQLH": "“感谢您的反馈意见。质量实际上是我们的首要任务:)我们在法国生产我们的产品并提供两年保修，这解释了我们的价格点。“",
+            "choice_4JDDOh78H": "“感谢您的评论。我们已经注意到您的反馈意见，并会尽快回复您。“",
+            "context_media_description": ""
+        }
+    }
+}

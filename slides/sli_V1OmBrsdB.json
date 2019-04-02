@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T14:00:52.988Z",
+            "updatedAt": "2018-10-17T09:42:20.351Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekm7qt5VS"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1OmBrsdB",
+        "universalRef": "sli_V1OmBrsdB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1OmBrsdB.choice_Ekx8KHHsuS.id",
+                        "label": "choice_Ekx8KHHsuS",
+                        "value": "choice_Ekx8KHHsuS",
+                        "media": "med_EkUKHBsdH"
+                    },
+                    {
+                        "id": "sli_V1OmBrsdB.choice_EJx7crrouH.id",
+                        "label": "choice_EJx7crrouH",
+                        "value": "choice_EJx7crrouH",
+                        "media": "med_4J75BSi-B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJx7crrouH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le growth hacking signifie \"pirater la concurrence\". Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "\"Hacker la croissance\", et non pas la concurrence. Pour opérer un marketing efficace sur le Web, il faut être très agile pour être en mesure de tester de nombreuses actions qui visent à optimiser sa visibilité, son taux de conversion et sa croissance. C’est ce que propose le growth hacking : tester des « hacks » pour ne retenir que ceux qui produisent des effets positifs sur les performances de son site Web.",
+            "tips": "Historiquement, le growth hacking repose sur certaines techniques qui peuvent parfois se situer à la limite de la légalité et/ou de la déontologie. Veillez à bien respecter les règles en vigueur et à vous conformer aux valeurs de l’entreprise.",
+            "clue": "Les start-up en sont friandes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekx8KHHsuS": "Vrai",
+            "choice_EJx7crrouH": "Faux"
+        },
+        "en": {
+            "header": "Le growth hacking signifie pirater la concurrence. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Hacker la croissance, et non pas la concurrence. Pour opérer un marketing efficace sur le Web, il faut être très agile pour être en mesure de tester de nombreuses actions qui visent à optimiser sa visibilité, son taux de conversion et sa croissance. C’est ce que propose le growth hacking : tester des « hacks » pour ne retenir que ceux qui produisent des effets positifs sur les performances de son site Web.",
+            "tips": "Historiquement, le growth hacking repose sur certaines techniques qui peuvent parfois se situer à la limite de la légalité et/ou de la déontologie. Veillez à bien respecter les règles en vigueur et à vous conformer aux valeurs de l’entreprise.",
+            "clue": "Les start-up en sont friandes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekx8KHHsuS": "Vrai",
+            "choice_EJx7crrouH": "Faux"
+        }
+    }
+}

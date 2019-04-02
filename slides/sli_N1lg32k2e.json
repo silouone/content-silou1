@@ -1,0 +1,136 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T11:28:04.294Z",
+            "updatedAt": "2017-12-11T09:47:03.045Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJgiOL0ol"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1lg32k2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel62497",
+                        "label": "label_VyjNVgBCe",
+                        "items": [
+                            {
+                                "text": "choice_VkejN4gBRl",
+                                "value": "choice_VkejN4gBRl"
+                            },
+                            {
+                                "text": "choice_4yboN4lr0x",
+                                "value": "choice_4yboN4lr0x"
+                            },
+                            {
+                                "text": "choice_VysSEgSCx",
+                                "value": "choice_VysSEgSCx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel62497",
+                        "answers": [
+                            "choice_4yboN4lr0x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_N1lg32k2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que pouvez-vous apporter lors de la négociation d'une augmentation ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il faut préparer ses arguments pour bien négocier son augmentation. Vous pouvez notamment venir avec des données chiffrées. Vous pouvez ainsi présenter vos résultats, chiffres à l'appui. Si possible, mettez en avant les bénéfices ou économies que vous faites faire à l'entreprise.",
+            "tips": "Mark Goulston, ancien formateur en négociation du FBI et actuellement consultant, conseille d'anticiper : \"Pensez à l'avance à toutes les réponses que votre employeur pourrait vous donner et songez à ce que vous pourriez dire pour rebondir dessus.\"",
+            "template": "Des données {{sel62497}}.",
+            "clue": "Résultats, pourcentages...",
+            "label_Nkxyvank2x": " ",
+            "placeholder_E1~JPp3J3e": " ",
+            "label_VyjNVgBCe": " ",
+            "choice_VkejN4gBRl": "validées",
+            "choice_4yboN4lr0x": "chiffrées",
+            "choice_VysSEgSCx": "d'échec"
+        },
+        "en": {
+            "header": "What can you bring when negotiating an increase?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "You have to prepare your arguments to negotiate your increase. You can come with encrypted data. You can present your results, figures to support. If possible, highlight the benefits or savings you make to the company.",
+            "tips": "Mark Goulston, a former FBI Trader Trainer and currently a consultant, advises anticipating: \"Think in advance about all the answers your employer could give you and think about what you could say to bounce back on it.\"",
+            "clue": "Results, percentages ...",
+            "template": "Data {{sel62497}}.",
+            "label_VyjNVgBCe": " ",
+            "choice_VkejN4gBRl": "validated",
+            "choice_4yboN4lr0x": "encrypted",
+            "choice_VysSEgSCx": "failure",
+            "label_Nkxyvank2x": " ",
+            "placeholder_E1~JPp3J3e": " "
+        },
+        "de": {
+            "header": "Was sollten Sie bei einer Gehaltserhöhung mitnehmen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Sie müssen Ihre Argumente vorbereiten, wenn Sie über eine Gehaltserhöhung verhandeln. Sie können beispielsweise einige Zahlen mitnehmen, mit denen Sie Ihre Ergebnisse präsentieren können. Markieren Sie nach Möglichkeit alle Gewinne oder Einsparungen, die Sie für das Unternehmen erzielt haben.",
+            "tips": "Mark Goulston, ehemaliger Ausbilder für das FBI und derzeitige Beraterin, rät Ihnen zu erwarten: \"Denken Sie an alle Antworten, die Ihr Arbeitgeber Ihnen geben könnte, und überlegen Sie, was Sie als Antwort sagen könnten.\"",
+            "clue": "Ergebnisse, Prozentsätze usw.",
+            "template": "Daten mit {{sel62497}}",
+            "label_VyjNVgBCe": " ",
+            "choice_VkejN4gBRl": "Validierung",
+            "choice_4yboN4lr0x": "Zahlen",
+            "choice_VysSEgSCx": "Entschuldigungen",
+            "label_Nkxyvank2x": " ",
+            "placeholder_E1~JPp3J3e": " "
+        },
+        "es": {
+            "header": "When negotiating a raise what should you take with you?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "You need to prepare your arguments when negotiating a raise. You can for example take some figures with you, which will allow you to present your results. If possible, highlight any profits or savings you have made for the company.",
+            "tips": "Mark Goulston, former trainer in negotiation for the FBI and current consultant, advises you to anticipate: \"Think ahead to all the answers that your employer might give you and consider what you might say in response.\"",
+            "template": "Data with  {{sel62497}}",
+            "label_Nkxyvank2x": " ",
+            "placeholder_E1~JPp3J3e": " ",
+            "label_VyjNVgBCe": " ",
+            "choice_VkejN4gBRl": "validation",
+            "choice_4yboN4lr0x": "figures",
+            "choice_VysSEgSCx": "excuses",
+            "clue": "Results, percentages, etc."
+        },
+        "zh": {
+            "header": "在谈判加薪时你应该带什么？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在谈判加薪时你需要准备你的论据。例如，您可以随身携带一些数字，这样您就可以展示结果。如果可能，请突出显示您为公司所做的任何利润或节省。",
+            "tips": "联邦调查局和现任顾问谈判的前教练马克·古尔斯顿建议你预测：“提前考虑你的雇主可能会给你的所有答案，并考虑你的回答。”",
+            "clue": "结果，百分比等",
+            "template": "{{sel62497}}的数据",
+            "label_VyjNVgBCe": " ",
+            "choice_VkejN4gBRl": "验证",
+            "choice_4yboN4lr0x": "数据",
+            "choice_VysSEgSCx": "借口",
+            "label_Nkxyvank2x": " ",
+            "placeholder_E1~JPp3J3e": " "
+        }
+    }
+}

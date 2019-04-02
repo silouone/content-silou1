@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-25T15:09:26.513Z",
+            "updatedAt": "2018-05-28T08:47:13.983Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18",
+            "taggedNewUntil": "2018-07-25T15:09:26.513Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kJ18zZJB",
+        "universalRef": "sli_4kJ18zZJB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kJ18zZJB.choice_EJrQUz~kB.id",
+                        "label": "choice_EJrQUz~kB",
+                        "value": "choice_EJrQUz~kB"
+                    },
+                    {
+                        "id": "sli_4kJ18zZJB.choice_Ek-7LfZkS.id",
+                        "label": "choice_Ek-7LfZkS",
+                        "value": "choice_Ek-7LfZkS"
+                    },
+                    {
+                        "id": "sli_4kJ18zZJB.choice_V11V8GZkr.id",
+                        "label": "choice_V11V8GZkr",
+                        "value": "choice_V11V8GZkr"
+                    },
+                    {
+                        "id": "sli_4kJ18zZJB.choice_4JSVLGb1r.id",
+                        "label": "choice_4JSVLGb1r",
+                        "value": "choice_4JSVLGb1r"
+                    },
+                    {
+                        "id": "sli_4kJ18zZJB.choice_VJuVUfbJr.id",
+                        "label": "choice_VJuVUfbJr",
+                        "value": "choice_VJuVUfbJr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJrQUz~kB",
+                        "choice_V11V8GZkr",
+                        "choice_4JSVLGb1r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Lors de la sélection finale des idées en groupe, selon quels critères les participants doivent-ils voter pour les idées qu'ils préfèrent ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Dans la mind map générale rassemblant les idées du groupe, demandez aux participants de voter pour les idées qu'ils préfèrent en fonction de leur originalité, leur efficacité et leur faisabilité.",
+            "tips": "Selon l’étude de Kramer (1997), les séances répétées de brainstorming favorisant l’égalité entre les membres du groupe ainsi que le respect et l’écoute des idées de tous les participants ont permis d’améliorer le climat social au sein des organisations. D'une manière plus générale, ces expériences de brainstorming peuvent faire prendre conscience que l’efficacité des groupes  s’améliore lorsque la domination de certains membres diminue.",
+            "clue": "L'argent ne résout pas tous les problèmes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJrQUz~kB": "Originalité",
+            "choice_Ek-7LfZkS": "Rentabilité",
+            "choice_V11V8GZkr": "Efficacité",
+            "choice_4JSVLGb1r": "Faisabilité",
+            "choice_VJuVUfbJr": "Saugrenuité"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Lors de la sélection finale des idées en groupe, selon quels critères les participants doivent-ils voter pour les idées qu'ils préfèrent ?",
+            "klf": "Dans la mind map générale rassemblant les idées du groupe, demandez aux participants de voter pour les idées qu'ils préfèrent en fonction de leur originalité, leur efficacité et leur faisabilité.",
+            "tips": "Selon l’étude de Kramer (1997), les séances répétées de brainstorming favorisant l’égalité entre les membres du groupe ainsi que le respect et l’écoute des idées de tous les participants ont permis d’améliorer le climat social au sein des organisations. D'une manière plus générale, ces expériences de brainstorming peuvent faire prendre conscience que l’efficacité des groupes  s’améliore lorsque la domination de certains membres diminue.",
+            "clue": "L'argent ne résout pas tous les problèmes.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJrQUz~kB": "Originalité",
+            "choice_Ek-7LfZkS": "Rentabilité",
+            "choice_V11V8GZkr": "Efficacité",
+            "choice_4JSVLGb1r": "Faisabilité",
+            "choice_VJuVUfbJr": "Saugrenuité"
+        }
+    }
+}

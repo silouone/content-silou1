@@ -1,0 +1,91 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T14:55:02.102Z",
+            "updatedAt": "2018-10-08T15:20:41.963Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkpnZoMSS",
+        "universalRef": "sli_EkpnZoMSS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkpnZoMSS.choice_4ktTWsMBr.id",
+                        "label": "choice_4ktTWsMBr",
+                        "value": "choice_4ktTWsMBr"
+                    },
+                    {
+                        "id": "sli_EkpnZoMSS.choice_VkJ0boMSB.id",
+                        "label": "choice_VkJ0boMSB",
+                        "value": "choice_VkJ0boMSB"
+                    },
+                    {
+                        "id": "sli_EkpnZoMSS.choice_N14CboGSH.id",
+                        "label": "choice_N14CboGSH",
+                        "value": "choice_N14CboGSH"
+                    },
+                    {
+                        "id": "sli_EkpnZoMSS.choice_EynAZsGSH.id",
+                        "label": "choice_EynAZsGSH",
+                        "value": "choice_EynAZsGSH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4ktTWsMBr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle précaution faut-il prendre pour arriver à se concentrer avec les outils digitaux ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Il est recommandé de désactiver les différentes notifications et alertes pour limiter les perturbations incessantes. Vous serez plus efficace en consultant vos différents outils de façon rituelle, organisée et limitée, et plus concentré le reste du temps.",
+            "tips": "Certaines entreprises proposent désormais des séjours \"digital detox\". Encadrées ou non, ces cures de sevrage volontaire ont le même objectif : s’obliger à prendre du recul pour mieux renouer avec soi-même et apprendre à se modérer dans l’usage des outils digitaux.",
+            "clue": "Pollution visuelle.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ktTWsMBr": "Désactiver les différentes notifications et alertes",
+            "choice_VkJ0boMSB": "Consulter les notifications au fil de leur réception",
+            "choice_N14CboGSH": "Télécharger les applications de travail sur votre smartphone",
+            "choice_EynAZsGSH": "Éteindre complètement votre smartphone "
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "What should you do to make sure your use of digital tools is focused?",
+            "klf": "To minimise constant disruptions, you should deactivate all your notifications and alerts.  It’s much more efficient to check your digital tools in a regular, organised and restricted way. You’ll also be more focused the rest of the time.",
+            "tips": "Some companies now offer “digital detox” retreats. Digital detox retreats are voluntary withdrawal courses. Some are supervised, some are not, but they all make you take a step back and reconnect with yourself and help you moderate your use of digital tools.",
+            "clue": "Visual pollution.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ktTWsMBr": "Deactivate your various notifications and alerts",
+            "choice_VkJ0boMSB": "Checking notifications as and when they come in",
+            "choice_N14CboGSH": "Download work apps on your smartphone",
+            "choice_EynAZsGSH": "Turn off your smartphone completely "
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:14:56.710Z",
+            "updatedAt": "2018-10-08T14:06:55.787Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4yvc26I7B",
+        "universalRef": "sli_4yvc26I7B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel21705",
+                        "items": [
+                            {
+                                "text": "choice_NyeUyChzHH",
+                                "value": "choice_NyeUyChzHH"
+                            },
+                            {
+                                "text": "choice_Ek~LkC3GSB",
+                                "value": "choice_Ek~LkC3GSB"
+                            },
+                            {
+                                "text": "choice_V1vb0nzSH",
+                                "value": "choice_V1vb0nzSH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel21705",
+                        "answers": [
+                            "choice_NyeUyChzHH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que conseille la méthode Getting Things Done pour avancer sur un projet ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pour chaque projet, la méthode GTD invite à identifier quelles seront les premières actions concrètes à mener pour avancer. Ces actions doivent être formulées de manière claire et précise.",
+            "tips": "La méthode GTD de David Allen a aussi bien vocation à être appliquée pour les projets personnels que professionnels.",
+            "clue": "Des premières bases solides !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel21705}}",
+            "choice_NyeUyChzHH": "Identifier les premières actions concrètes à mener",
+            "choice_Ek~LkC3GSB": "Identifier les actions finales qui clôtureront les projet",
+            "choice_V1vb0nzSH": "Établir un rétroplanning "
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "How does the Getting Things Done method suggest you move a project forward?",
+            "klf": "For every project you do, the GTD method encourages you to identify the first concrete actions that need to be carried out for a project to progress. These actions must be expressed clearly and precisely.",
+            "tips": "David Allen’s GTD method can just as well be applied to personal projects as work-related tasks.",
+            "clue": "Solid foundations from the start!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel21705}}",
+            "choice_NyeUyChzHH": "By identifying the first concrete actions that need to be carried out",
+            "choice_Ek~LkC3GSB": "By identifying the final actions that need to be carried out to complete the project",
+            "choice_V1vb0nzSH": "By reverse scheduling "
+        }
+    }
+}

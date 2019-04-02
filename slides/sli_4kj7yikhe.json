@@ -1,0 +1,129 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T09:36:13.069Z",
+            "updatedAt": "2017-12-08T11:30:07.869Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JnIuUAsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "lealouis",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kj7yikhe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kj7yikhe.choice_Nkekmikhl.id",
+                        "label": "choice_Nkekmikhl",
+                        "value": "choice_Nkekmikhl"
+                    },
+                    {
+                        "id": "sli_4kj7yikhe.choice_4J8Jmo1nl.id",
+                        "label": "choice_4J8Jmo1nl",
+                        "value": "choice_4J8Jmo1nl"
+                    },
+                    {
+                        "id": "sli_4kj7yikhe.choice_VylIymoy2x.id",
+                        "label": "choice_VylIymoy2x",
+                        "value": "choice_VylIymoy2x"
+                    },
+                    {
+                        "id": "sli_4kj7yikhe.choice_E1PJ7iyne.id",
+                        "label": "choice_E1PJ7iyne",
+                        "value": "choice_E1PJ7iyne"
+                    },
+                    {
+                        "id": "sli_4kj7yikhe.choice_NJ-JmoJhx.id",
+                        "label": "choice_NJ-JmoJhx",
+                        "value": "choice_NJ-JmoJhx"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4J8Jmo1nl",
+                        "choice_NJ-JmoJhx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4kj7yikhe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles raisons ont été invoquées par les employeurs pour moins payer les femmes, lorsque celles-ci ont intégré les usines pendant la Première Guerre mondiale ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pendant la Première Guerre mondiale, les femmes qui ont intégré les usines pour remplacer les soldats étaient deux fois moins payées qu'eux. Pour les employeurs, elles avaient moins de besoins que les hommes (nourriture, alcool, tabac...). Elles étaient également vues comme dépendantes d'un homme. Les payer, c'était donc leur verser un \"salaire d'appoint\".",
+            "tips": "La sociologue Margaret Maruani rappelle que les femmes ont toujours travaillé, comme agricultrices, nourrices, domestiques... Mais souvent de façon invisible. Ce qui explose dans les années 1960, c'est le salariat des femmes.",
+            "clue": "Les femmes sont alors encore considérées comme mineures.",
+            "choice_Nkekmikhl": "Elles produisent moins",
+            "choice_4J8Jmo1nl": "Elles ont moins de besoins",
+            "choice_VylIymoy2x": "Elles sont plus difficiles à gérer",
+            "choice_E1PJ7iyne": "Elles sont moins efficaces",
+            "choice_NJ-JmoJhx": "Elles bénéficient déjà du salaire de leur père ou de leur mari"
+        },
+        "en": {
+            "header": "What were the reasons given by employers for paying less for women when they joined factories during the First World War?",
+            "explanation": "Select the correct answers.",
+            "klf": "During the First World War, the women who integrated the factories to replace the soldiers were half as paid. For employers, they had fewer needs than men (food, alcohol, tobacco ...). They were also seen as dependent on a man. To pay them was therefore to pay them \"extra pay\".",
+            "tips": "The sociologist Margaret Maruani recalls that women have always worked as farmers, nannies, servants ... But often in an invisible way. What explodes in the 1960s is women's wages.",
+            "clue": "Women are still considered minor.",
+            "choice_Nkekmikhl": "They produce less",
+            "choice_4J8Jmo1nl": "They have fewer needs",
+            "choice_VylIymoy2x": "They are more difficult to manage",
+            "choice_E1PJ7iyne": "They are less effective",
+            "choice_NJ-JmoJhx": "They already have the salary of their father or husband"
+        },
+        "de": {
+            "header": "Wie hat der Arbeitgeber die Tatsache gerechtfertigt, dass Frauen weniger bezahlt wurden, als sie während des Ersten Weltkrieges in Fabriken arbeiteten?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Während des Ersten Weltkrieges erhielten die Frauen, die in den Fabriken arbeiteten, um die Soldaten zu ersetzen, die Hälfte des Betrags. Die Arbeitgeber glaubten, dass sie weniger Bedürfnisse hatten als Männer (Lebensmittel, Alkohol, Tabak usw.). Sie wurden auch als abhängig von einem Mann angesehen. Ihr Lohn wurde also als \"Zusatzlohn\" betrachtet.",
+            "tips": "Die Soziologin Margaret Maruani erinnert uns daran, dass Frauen seit jeher als Landwirte, Krankenschwestern, Hausangestellte usw. gearbeitet haben. Oft jedoch unsichtbar. In den 1960er Jahren stieg die Zahl der Frauen in der Belegschaft rapide an.",
+            "clue": "Frauen galten damals noch als Minderjährige.",
+            "choice_Nkekmikhl": "Sie produzieren weniger",
+            "choice_4J8Jmo1nl": "Sie haben weniger Bedürfnisse",
+            "choice_VylIymoy2x": "Sie sind schwieriger zu handhaben",
+            "choice_E1PJ7iyne": "Sie sind weniger effizient",
+            "choice_NJ-JmoJhx": "Sie haben bereits das Gehalt ihres Vaters oder Ehemanns"
+        },
+        "es": {
+            "header": "How did employers justify the fact that women were paid less when they started working in factories during the First World War?",
+            "explanation": "Select the correct answers.",
+            "klf": "During the First World War, women who worked in the factories to replace the soldiers were paid half the amount. Employers believed that they had fewer needs than men (food, alcohol, tobacco, etc.). They were also seen as dependent on a man. So their pay was looked upon as a \"supplementary salary\".",
+            "tips": "Sociologist Margaret Maruani reminds us that women have always worked as farmers, nurses, domestics, etc. But often invisibly. In the 1960s, the amount of women in the workforce rapidly increased.",
+            "choice_Nkekmikhl": "They produce less",
+            "choice_4J8Jmo1nl": "They have fewer needs",
+            "choice_VylIymoy2x": "They are more difficult to manage",
+            "choice_E1PJ7iyne": "They are less efficient",
+            "choice_NJ-JmoJhx": "They already have the salary of their father or husband",
+            "clue": "Women were then still considered as minors."
+        },
+        "zh": {
+            "header": "雇主如何证明女性在第一次世界大战期间开始在工厂工作时的报酬较低？",
+            "explanation": "选择正确的答案。",
+            "klf": "在第一次世界大战期间，在工厂工作以取代士兵的妇女获得了一半的工资。雇主认为他们的需求少于男性（食物，酒精，烟草等）。他们也被视为依赖于男人。所以他们的工资被视为“补充工资”。",
+            "tips": "社会学家Margaret Maruani提醒我们，女性一直都是农民，护士，家庭等等，但往往是无形的。在20世纪60年代，劳动力中的女性人数迅速增加。",
+            "clue": "妇女当时仍被视为未成年人。",
+            "choice_Nkekmikhl": "它们产量较少",
+            "choice_4J8Jmo1nl": "他们的需求减少了",
+            "choice_VylIymoy2x": "他们更难管理",
+            "choice_E1PJ7iyne": "它们的效率较低",
+            "choice_NJ-JmoJhx": "他们已经有了父亲或丈夫的工资"
+        }
+    }
+}

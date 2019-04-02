@@ -1,0 +1,131 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:40:19.489Z",
+            "updatedAt": "2017-12-29T16:19:11.149Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "ValentineMichaud",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_E11HfaQ2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E11HfaQ2e.choice_VyAjf6X2g.id",
+                        "label": "choice_VyAjf6X2g",
+                        "value": "choice_VyAjf6X2g"
+                    },
+                    {
+                        "id": "sli_E11HfaQ2e.choice_VJghMpmnl.id",
+                        "label": "choice_VJghMpmnl",
+                        "value": "choice_VJghMpmnl"
+                    },
+                    {
+                        "id": "sli_E11HfaQ2e.choice_NkuhzTX3x.id",
+                        "label": "choice_NkuhzTX3x",
+                        "value": "choice_NkuhzTX3x"
+                    },
+                    {
+                        "id": "sli_E11HfaQ2e.choice_Vkj2f6mhg.id",
+                        "label": "choice_Vkj2f6mhg",
+                        "value": "choice_Vkj2f6mhg"
+                    },
+                    {
+                        "id": "sli_E11HfaQ2e.choice_VJlj2fTmng.id",
+                        "label": "choice_VJlj2fTmng",
+                        "value": "choice_VJlj2fTmng"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyAjf6X2g",
+                        "choice_Vkj2f6mhg",
+                        "choice_VJlj2fTmng"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_E11HfaQ2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "D'après des recherches, et du fait de leur éducation, quelles qualités davantage présentes chez les femmes peuvent être utiles dans le leadership ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "D'après des recherches, certaines qualités utiles au leadership se retrouvent plus chez les femmes, de par leur environnement culturel et leur éducation. Ce peut être la capacité d'écoute et d'échange, de remise en question ou encore de collaboration.",
+            "tips": "Une étude de McKinsey de 2011 a même montré que \"les entreprises qui ont une plus grande proportion de femmes dans leur comité de direction sont aussi celles qui sont les plus performantes\".",
+            "clue": "Moins d'agressivité.",
+            "choice_VyAjf6X2g": "L'écoute",
+            "choice_VJghMpmnl": "Le networking",
+            "choice_NkuhzTX3x": "L'agressivité",
+            "choice_Vkj2f6mhg": "La remise en question",
+            "choice_VJlj2fTmng": "La collaboration"
+        },
+        "en": {
+            "header": "According to research, and because of their education, what qualities more present in women can be useful in leadership?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Research shows that some leadership qualities are more prevalent among women because of their cultural background and education. It can be the ability to listen and exchange, questioning or even collaboration.",
+            "tips": "A 2011 McKinsey study even showed that \"companies that have a higher proportion of women on their executive committee are also the ones who perform the best\".",
+            "clue": "Less aggression.",
+            "choice_VyAjf6X2g": "listening",
+            "choice_VJghMpmnl": "Networking",
+            "choice_NkuhzTX3x": "aggressiveness",
+            "choice_Vkj2f6mhg": "Questioning",
+            "choice_VJlj2fTmng": "The collaboration"
+        },
+        "de": {
+            "header": "Welche Qualitäten, die Frauen aufgrund ihrer Ausbildung stärker vertreten, können für die Führung nützlich sein?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Einige nützliche Führungsqualitäten sind aufgrund ihres kulturellen Umfelds und ihrer Ausbildung eher bei Frauen zu finden. Dies kann die Fähigkeit sein, zuzuhören und sich auszutauschen, Fragen zu stellen oder zusammenzuarbeiten.",
+            "tips": "Eine McKinsey-Studie aus dem Jahr 2011 zeigte sogar, dass \"Unternehmen, die einen höheren Frauenanteil in ihrem Vorstand haben, auch die erfolgreichsten sind.\"",
+            "clue": "Weniger Aggression",
+            "choice_VyAjf6X2g": "Hören",
+            "choice_VJghMpmnl": "Vernetzung",
+            "choice_NkuhzTX3x": "Aggression",
+            "choice_Vkj2f6mhg": "Befragung",
+            "choice_VJlj2fTmng": "Zusammenarbeiten"
+        },
+        "es": {
+            "header": "Which qualities, more present in women because of their education, may be useful in leadership?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Some useful leadership qualities are found more in women, due to their cultural environment and education. This can be the capacity to listen and exchange, to question or collaborate.",
+            "tips": "A 2011 McKinsey study even showed that \"companies that have a higher proportion of women in their executive committee are also those that are the most successful.\"",
+            "choice_VyAjf6X2g": "Listening",
+            "choice_VJghMpmnl": "Networking",
+            "choice_NkuhzTX3x": "Aggression",
+            "choice_Vkj2f6mhg": "Questioning",
+            "choice_VJlj2fTmng": "Collaborating",
+            "clue": "Less aggression."
+        },
+        "zh": {
+            "header": "由于受过教育，女性中存在哪些品质可能对领导力有用？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "由于其文化环境和教育，女性更多地发现了一些有用的领导素质。这可以是倾听和交换，质疑或协作的能力。",
+            "tips": "麦肯锡2011年的一项研究甚至表明，“执行委员会中女性比例较高的公司也是最成功的公司。”",
+            "clue": "减少侵略。",
+            "choice_VyAjf6X2g": "听力",
+            "choice_VJghMpmnl": "联网",
+            "choice_NkuhzTX3x": "侵略",
+            "choice_Vkj2f6mhg": "疑问",
+            "choice_VJlj2fTmng": "合作"
+        }
+    }
+}

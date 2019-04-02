@@ -1,0 +1,132 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:54:53.178Z",
+            "updatedAt": "2017-12-01T11:11:09.973Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJJdP3mnx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_EJJdP3mnx.choice_EyreuhQhe.id",
+                        "label": "choice_EyreuhQhe",
+                        "value": "choice_EyreuhQhe"
+                    },
+                    {
+                        "id": "sli_EJJdP3mnx.choice_N1Ogu37hx.id",
+                        "label": "choice_N1Ogu37hx",
+                        "value": "choice_N1Ogu37hx"
+                    },
+                    {
+                        "id": "sli_EJJdP3mnx.choice_Ek5xOnQ3x.id",
+                        "label": "choice_Ek5xOnQ3x",
+                        "value": "choice_Ek5xOnQ3x"
+                    },
+                    {
+                        "id": "sli_EJJdP3mnx.choice_NkgcxOhm3e.id",
+                        "label": "choice_NkgcxOhm3e",
+                        "value": "choice_NkgcxOhm3e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyreuhQhe",
+                        "choice_NkgcxOhm3e",
+                        "choice_Ek5xOnQ3x",
+                        "choice_N1Ogu37hx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EJJdP3mnx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans l'ordre, quels sont les quatre éléments d'une bonne présentation, selon la coach Chine Lanzmann ?",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "Chine Lanzmann conseille une présentation en quatre points. Donnez d'abord simplement vos prénom et nom. Parlez ensuite de votre expertise avec un ou deux exemples. Enchaînez avec une “flash news” (une bonne nouvelle sur votre travail). Enfin, permettez à votre interlocuteur de rebondir, soit par une demande (“j'aimerais bénéficier de votre expertise sur le sujet”, par exemple) ou une proposition (d'échanges de savoirs, par exemple).",
+            "tips": "Chine Lanzmann parle d'expertise “sexy” à mettre en avant, c'est-à-dire “donner un côté branché à votre métier, l'actualiser, le mettre à jour”.",
+            "clue": "Vous vous présentez après avoir demandé quelque chose ?",
+            "choice_EyreuhQhe": "Prénom, nom",
+            "choice_EJwgOnmne": "Fonction, nom et prénom",
+            "choice_N1Ogu37hx": "Demande ou proposition",
+            "choice_E1Yldn7ne": "Détail de ses activités",
+            "choice_Ek5xOnQ3x": "Flash news",
+            "choice_NkgcxOhm3e": "Présentation de son expertise"
+        },
+        "en": {
+            "header": "In order, what are the four elements of a good presentation, according to coach China Lanzmann?",
+            "explanation": "Select the answers below in the correct order.",
+            "klf": "China Lanzmann advises a four point presentation. First, simply give your first name and last name. Then talk about your expertise with one or two examples. Follow with a \"flash news\" (good news on your work). Finally, allow your interlocutor to bounce back, either by a request (\"I would like to benefit from your expertise on the subject\", for example) or a proposal (exchange of knowledge, for example).",
+            "tips": "China Lanzmann speaks of \"sexy\" expertise to put forward, that is to say \"give a trendy side to your business, update it, update it\".",
+            "clue": "You introduce yourself after asking something?",
+            "choice_EyreuhQhe": "Firstname name",
+            "choice_N1Ogu37hx": "Request or proposal",
+            "choice_Ek5xOnQ3x": "Flash news",
+            "choice_NkgcxOhm3e": "Presentation of his expertise",
+            "choice_EJwgOnmne": "Fonction, nom et prénom",
+            "choice_E1Yldn7ne": "Détail de ses activités"
+        },
+        "de": {
+            "header": "Was sind die vier Elemente einer guten Präsentation, sagt Trainerin Chine Lanzmann?",
+            "explanation": "Wählen Sie die Antworten unten in der richtigen Reihenfolge aus.",
+            "klf": "Chine Lanzmann berät eine Präsentation in vier Punkten. Geben Sie zunächst einfach Ihren Vor- und Nachnamen an. Dann zeigen Sie Ihre Expertise an einem oder zwei Beispielen. Follow-up mit einem \"News-Flash\" (gute Nachrichten über Ihre Arbeit). Gestatten Sie schließlich Ihrem Kollegen, mitzumachen, entweder durch eine Anfrage (\"Ich möchte beispielsweise von Ihrem Fachwissen zu diesem Thema profitieren\") oder über einen Vorschlag (beispielsweise Wissensaustausch).",
+            "tips": "Chine Lanzmann spricht von \"sexy\" Expertise, das heißt \"über ein Thema sprechen, das mit Ihrem Unternehmen in Verbindung steht, auffrischen, aktualisieren.\"",
+            "clue": "Stellen Sie sich vor, nachdem Sie etwas gefragt haben?",
+            "choice_EyreuhQhe": "Vorname Nachname",
+            "choice_N1Ogu37hx": "Anfrage oder Angebot",
+            "choice_Ek5xOnQ3x": "Flash-Nachrichten",
+            "choice_NkgcxOhm3e": "Präsentation zu Ihrer Expertise",
+            "choice_EJwgOnmne": "Fonction, nom et prénom",
+            "choice_E1Yldn7ne": "Détail de ses activités"
+        },
+        "es": {
+            "header": "In order, what are the four elements of a good presentation, according to coach Chine Lanzmann?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "Chine Lanzmann advises a presentation in four points. First simply give your first and last name. Then show your expertise with one or two examples. Follow up with a \"news flash\" (good news about your work). Finally, allow your colleague to join in, either by a request (\"I would like to benefit from your expertise on the subject,\" for example) or a proposal (exchange of knowledge, for example).",
+            "tips": "Chine Lanzmann speaks of putting forward \"sexy\" expertise, that is to say \"talk about a topic connected to your business, refresh, update.\"",
+            "choice_EyreuhQhe": "First name, second name",
+            "choice_EJwgOnmne": "Fonction, nom et prénom",
+            "choice_N1Ogu37hx": "Request or proposal",
+            "choice_E1Yldn7ne": "Détail de ses activités",
+            "choice_Ek5xOnQ3x": "Flash news",
+            "choice_NkgcxOhm3e": "Presentation on your expertise",
+            "clue": "Do you intoduce yourself after having asked something?"
+        },
+        "zh": {
+            "header": "根据教练Chine Lanzmann的说法，一个好的演讲的四个要素是什么？",
+            "explanation": "按正确的顺序选择以下答案。",
+            "klf": "Chine Lanzmann以四点的方式提出建议。首先简单地给出你的名字和姓氏。然后用一两个例子展示你的专业知识。跟进“新闻快讯”（有关您工作的好消息）。最后，允许您的同事通过请求（“我希望从您在此主题方面的专业知识中受益”）或提案（例如，交换知识）加入。",
+            "tips": "Chine Lanzmann谈到提出“性感”专业知识，即“谈论与您的业务相关的主题，刷新，更新”。",
+            "clue": "在问过什么之后你会自己介入吗？",
+            "choice_EyreuhQhe": "名字，第二名",
+            "choice_N1Ogu37hx": "请求或提案",
+            "choice_Ek5xOnQ3x": "Flash新闻",
+            "choice_NkgcxOhm3e": "介绍您的专业知识",
+            "choice_EJwgOnmne": "Fonction, nom et prénom",
+            "choice_E1Yldn7ne": "Détail de ses activités"
+        }
+    }
+}

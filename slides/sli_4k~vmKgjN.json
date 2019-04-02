@@ -1,0 +1,107 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-06T15:49:44.973Z",
+            "updatedAt": "2018-06-21T07:46:36.607Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4k~vmKgjN",
+        "universalRef": "sli_4k~vmKgjN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4k~vmKgjN.choice_41y5QFxoE.id",
+                        "label": "choice_41y5QFxoE",
+                        "value": "choice_41y5QFxoE"
+                    },
+                    {
+                        "id": "sli_4k~vmKgjN.choice_VJDcQFgoV.id",
+                        "label": "choice_VJDcQFgoV",
+                        "value": "choice_VJDcQFgoV"
+                    },
+                    {
+                        "id": "sli_4k~vmKgjN.choice_VJxoQtgsN.id",
+                        "label": "choice_VJxoQtgsN",
+                        "value": "choice_VJxoQtgsN"
+                    },
+                    {
+                        "id": "sli_4k~vmKgjN.choice_41ismKxiV.id",
+                        "label": "choice_41ismKxiV",
+                        "value": "choice_41ismKxiV"
+                    },
+                    {
+                        "id": "sli_4k~vmKgjN.choice_4Jy2XYloN.id",
+                        "label": "choice_4Jy2XYloN",
+                        "value": "choice_4Jy2XYloN"
+                    },
+                    {
+                        "id": "sli_4k~vmKgjN.choice_4JVtVtxoE.id",
+                        "label": "choice_4JVtVtxoE",
+                        "value": "choice_4JVtVtxoE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jy2XYloN",
+                        "choice_41ismKxiV",
+                        "choice_41y5QFxoE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment la pleine conscience permet-elle de diminuer notre stress et d’augmenter notre efficacité ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "De nombreuses études scientifiques démontrent les bienfaits de la présence attentive, tant au niveau mental qu’au niveau physiologique. Ainsi, une pratique quotidienne peut permettre de réduire l'activité du cortisol dans son corps, de diminuer le flot de ses pensées vagabondes et de développer une attention consciente à soi-même.",
+            "tips": "Un article publié en 2017 dans le Journal of Psychiatric Research analyse les résultats de 45 études mesurant la réduction du stress par la pratique de la pleine conscience. Il montre que cette activité réduirait le cortisol, la protéine C réactive, la pression sanguine, le rythme cardiaque, les triglycérides et la cytokine impliquée dans la nécrose tumorale.",
+            "clue": "La pleine conscience génère de l’énergie.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41y5QFxoE": "En réduisant l’activité de l’hormone du stress ",
+            "choice_VJDcQFgoV": "En augmentant notre résistance au stress",
+            "choice_VJxoQtgsN": "En accélérant notre rythme de travail",
+            "choice_41ismKxiV": "En diminuant le flot de nos pensées vagabondes ",
+            "choice_4Jy2XYloN": "En développant une attention consciente à soi-même ",
+            "choice_4JVtVtxoE": "En nous déconnectant de nos émotions"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "How can mindfulness help you reduce stress and increase efficiency?",
+            "klf": "A number of scientific studies show that mindfulness has both mental and physical benefits. So, practising mindfulness on a daily basis can lower your cortisol levels, reduce the flow of intrusive thoughts through your mind, and help you develop a more conscious self-awareness.",
+            "tips": "In 2017, an article on mindfulness was published in the Journal of Psychiatric Research. The paper analysed the results of 45 studies on mindfulness and stress reduction. It showed that mindfulness can reduce cortisol levels, C-reactive protein levels, blood pressure, heart rate, triglyceride levels, and cytokines associated with the tumour necrosis factor.",
+            "clue": "Mindfulness generates energy.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41y5QFxoE": "By reducing the activity of your stress hormone",
+            "choice_VJDcQFgoV": "By increasing your resistance to stress",
+            "choice_VJxoQtgsN": "By speeding up your workflow",
+            "choice_41ismKxiV": "By decreasing the flow of intrusive thoughts through your mind ",
+            "choice_4Jy2XYloN": "By helping you develop a more conscious self-awareness ",
+            "choice_4JVtVtxoE": "By disconnecting you from your emotions"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:54:09.272Z",
+            "updatedAt": "2016-08-23T10:02:37.570Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_NJ9sm2Mcx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJ9sm2Mcx.choice_N1CBV2z5l.id",
+                        "label": "choice_N1CBV2z5l",
+                        "value": "choice_N1CBV2z5l"
+                    },
+                    {
+                        "id": "sli_NJ9sm2Mcx.choice_VyJLNnfcg.id",
+                        "label": "choice_VyJLNnfcg",
+                        "value": "choice_VyJLNnfcg"
+                    },
+                    {
+                        "id": "sli_NJ9sm2Mcx.choice_4kxI42Gcg.id",
+                        "label": "choice_4kxI42Gcg",
+                        "value": "choice_4kxI42Gcg"
+                    },
+                    {
+                        "id": "sli_NJ9sm2Mcx.choice_Nkb8N2z5x.id",
+                        "label": "choice_Nkb8N2z5x",
+                        "value": "choice_Nkb8N2z5x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyJLNnfcg"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NJ9sm2Mcx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Au XIXe siècle, qui conclut que les femmes sont moins intelligentes que les hommes à partir du poids de leur cerveau ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Au XIXe siècle, le scientifique Paul Broca affirme que \"la femme est en moyenne un peu moins intelligente que l'homme\". Il explique cela par le poids du cerveau féminin.",
+            "tips": "Paul Broca a estimé à environ 10% cette différence de poids entre cerveaux féminin et masculin.",
+            "clue": "Qui peut peser des cerveaux ?",
+            "choice_N1CBV2z5l": "L'homme politique Jules Ferry",
+            "choice_VyJLNnfcg": "Le scientifique Paul Broca",
+            "choice_4kxI42Gcg": "Le prêtre Henri Huvelin",
+            "choice_Nkb8N2z5x": "L'écrivain Charles Baudelaire"
+        },
+        "en": {
+            "header": "In the 19th century, who concluded that women were less intelligent than men due to the size of their brain?",
+            "explanation": "Select the correct answer.",
+            "klf": "In the 19th century, scientist Paul Broca claimed that \"a woman is on average slightly less intelligent than a man.\" He explained that this was due to the weight of the female brain.",
+            "tips": "Paul Broca estimated that the difference in size between male and female brains was about 10%.",
+            "choice_N1CBV2z5l": "The politician Jules Ferry",
+            "choice_VyJLNnfcg": "The scientist Paul Broca",
+            "choice_4kxI42Gcg": "The priest Henri Huvelin",
+            "choice_Nkb8N2z5x": "The writer Charles Baudelaire",
+            "clue": "Who can weigh brains?"
+        }
+    }
+}

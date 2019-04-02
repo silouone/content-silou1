@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T13:05:54.104Z",
+            "updatedAt": "2018-06-21T10:47:42.802Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJKt6uN5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkfAC~3hE",
+        "universalRef": "sli_VkfAC~3hE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkfAC~3hE.choice_VkjAVg4AV.id",
+                        "label": "choice_VkjAVg4AV",
+                        "value": "choice_VkjAVg4AV"
+                    },
+                    {
+                        "id": "sli_VkfAC~3hE.choice_VknR4l4RE.id",
+                        "label": "choice_VknR4l4RE",
+                        "value": "choice_VknR4l4RE"
+                    },
+                    {
+                        "id": "sli_VkfAC~3hE.choice_EkpCEeNR4.id",
+                        "label": "choice_EkpCEeNR4",
+                        "value": "choice_EkpCEeNR4"
+                    },
+                    {
+                        "id": "sli_VkfAC~3hE.choice_4Jykrg4RE.id",
+                        "label": "choice_4Jykrg4RE",
+                        "value": "choice_4Jykrg4RE"
+                    },
+                    {
+                        "id": "sli_VkfAC~3hE.choice_4JgJSgE0V.id",
+                        "label": "choice_4JgJSgE0V",
+                        "value": "choice_4JgJSgE0V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VknR4l4RE",
+                        "choice_EkpCEeNR4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La pratique de la pleine conscience nous aide à adhérer émotionnellement à l'ensemble des tâches que nous entreprenons. Comment reconnaître l'adhésion émotionnelle ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L'adhésion émotionnelle à ce que nous faisons, c'est l'élan intérieur qui nous motive pour agir. C'est ce que nous ressentons comme un désir, une envie, et qui nous engage dans un projet, un objectif, ou dans la relation avec un collègue. Elle nous permet d'exercer notre volonté.",
+            "tips": "Nous avons l'habitude de faire en priorité les tâches que nous aimons et laisser s'empiler les tâches qui nous rebutent. La pleine conscience nous permet de nous débarrasser de cette mauvaise habitude en apprenant à trouver en nous la fibre qui nous connectera à chacune des tâches entreprises, même les moins attirantes à première vue.",
+            "clue": "Chacun sa route, chacun son chemin.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkjAVg4AV": "Nous faisons uniquement ce que nous aimons",
+            "choice_VknR4l4RE": "Nous agissons avec conviction",
+            "choice_EkpCEeNR4": "Nous sommes plus efficients",
+            "choice_4Jykrg4RE": "Nous agissons en rêvant",
+            "choice_4JgJSgE0V": "Nous gagnons en notoriété"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "Mindfulness helps us find an emotional connection to the tasks we’re doing. How would you describe this kind of emotional connection?",
+            "klf": "When we connect emotionally with the task we’re doing, it gives us an inner momentum and motivates us. We feel a desire or urge that drives us forward in a project, helps us reach an objective, or encourages us to develop a good relationship with a colleague. It allows us to exercise our free will.",
+            "tips": "As human beings, we have a habit of prioritising tasks we enjoy and allowing tasks we don’t like to pile up. Mindfulness helps us get rid of this bad habit. It encourages us to find a connection to each of our work tasks, including those that seem rather unappealing at first.",
+            "clue": "Each to his own, horses for courses.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkjAVg4AV": "Doing only what you enjoy",
+            "choice_VknR4l4RE": "Believing in what you’re doing",
+            "choice_EkpCEeNR4": "Being more efficient",
+            "choice_4Jykrg4RE": "Daydreaming at work",
+            "choice_4JgJSgE0V": "Earning a bad reputation"
+        }
+    }
+}

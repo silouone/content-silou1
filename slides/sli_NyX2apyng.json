@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:41:00.901Z",
+            "updatedAt": "2016-09-06T09:27:51.818Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NyX2apyng",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyX2apyng.choice_EJluvR6yhl.id",
+                        "label": "choice_EJluvR6yhl",
+                        "value": "choice_EJluvR6yhl",
+                        "media": "med_Nydw0Tkhg"
+                    },
+                    {
+                        "id": "sli_NyX2apyng.choice_NkgFwR6k3x.id",
+                        "label": "choice_NkgFwR6k3x",
+                        "value": "choice_NkgFwR6k3x",
+                        "media": "med_4JYPRaJ3x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkgFwR6k3x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NyX2apyng"
+    },
+    "locales": {
+        "fr": {
+            "header": "L'idéal lorsque l'on est deux associés, c'est de partager le capital à parts égales, 50-50. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est important de trouver le bon partenaire. Il faut avoir des compétences et caractères complémentaires mais partager la même vision. Concernant le partage du capital, mieux vaut éviter la répartition 50-50 : elle peut provoquer des blocages en cas de conflits.",
+            "tips": "Certains associés choisissent ainsi d'avoir un \"arbitre\", qui dispose d'une très faible part du capital, mais suffisante pour faire pencher la balance d'un côté ou de l'autre en cas de conflit.",
+            "clue": "Difficile de trancher…",
+            "choice_EJluvR6yhl": "Vrai",
+            "choice_NkgFwR6k3x": "Faux"
+        },
+        "en": {
+            "header": "The ideal when you are two partners is to share the capital equally, 50-50. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "It is important to find the right partner. You have to have complementary skills and characters but share the same vision. Concerning the sharing of capital, it is better to avoid the 50-50 distribution: it can cause blockages in case of conflicts.",
+            "tips": "Some partners thus choose to have an \"arbitrator\", who has a very small share of the capital, but sufficient to tip the balance on one side or the other in case of conflict.",
+            "clue": "Difficult to decide ...",
+            "choice_EJluvR6yhl": "True",
+            "choice_NkgFwR6k3x": "False"
+        },
+        "de": {
+            "header": "Bei zwei Partnern sollte das Kapital im Idealfall zu 50-50 aufgeteilt werden. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Es ist wichtig, den richtigen Partner zu finden. Sie sollten komplementäre Fähigkeiten und Charaktere haben, aber dieselbe Vision haben. In Bezug auf die Aufteilung des Kapitals sollte die Trennung von 50: 50 besser vermieden werden: Im Konfliktfall kann dies zu Hindernissen führen.",
+            "tips": "Einige Mitarbeiter entscheiden sich für einen \"Schiedsrichter\", der über einen sehr geringen Kapitalanteil verfügt, der aber ausreicht, um im Konfliktfall das eine oder andere Gleichgewicht zu finden.",
+            "clue": "Schwer zu entscheiden",
+            "choice_EJluvR6yhl": "Wahr",
+            "choice_NkgFwR6k3x": "Falsch"
+        },
+        "es": {
+            "header": "When there are two partners, ideally capital should be shared out 50-50. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "It is important to find the right partner. You should have complementary skills and characters, but share the same vision. Regarding the sharing of capital, better to avoid the 50-50 split: it can cause obstacles in case of conflict.",
+            "tips": "Some associates choose to have a \"referee,\" who has a very small share of capital but enough to tip the balance one way or the other in case of conflict.",
+            "choice_EJluvR6yhl": "True",
+            "choice_NkgFwR6k3x": "False",
+            "clue": "Difficult to decide"
+        },
+        "zh": {
+            "header": "如果有两个合作伙伴，理想情况下资本应该分享到50-50。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "找到合适的合作伙伴非常重要。你应该拥有互补的技能和角色，但要有相同的愿景。关于资本共享，最好避免50-50分裂：在发生冲突时可能会造成障碍。",
+            "tips": "一些员工选择拥有“裁判”，他的资本份额非常小但足以在发生冲突时以某种方式提供平衡。",
+            "clue": "很难决定",
+            "choice_EJluvR6yhl": "真正",
+            "choice_NkgFwR6k3x": "假"
+        }
+    }
+}

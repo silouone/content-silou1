@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-18T15:04:30.698Z",
+            "updatedAt": "2018-06-21T07:53:05.828Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ZWTO45V"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kK~3HlhV",
+        "universalRef": "sli_4kK~3HlhV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kK~3HlhV.choice_VkEPaHx34.id",
+                        "label": "choice_VkEPaHx34",
+                        "value": "choice_VkEPaHx34"
+                    },
+                    {
+                        "id": "sli_4kK~3HlhV.choice_NyM-pSgn4.id",
+                        "label": "choice_NyM-pSgn4",
+                        "value": "choice_NyM-pSgn4"
+                    },
+                    {
+                        "id": "sli_4kK~3HlhV.choice_Vka-aSl34.id",
+                        "label": "choice_Vka-aSl34",
+                        "value": "choice_Vka-aSl34"
+                    },
+                    {
+                        "id": "sli_4kK~3HlhV.choice_41WFprl2V.id",
+                        "label": "choice_41WFprl2V",
+                        "value": "choice_41WFprl2V"
+                    },
+                    {
+                        "id": "sli_4kK~3HlhV.choice_Nk2F6Hg2E.id",
+                        "label": "choice_Nk2F6Hg2E",
+                        "value": "choice_Nk2F6Hg2E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41WFprl2V",
+                        "choice_Nk2F6Hg2E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les principaux obstacles à surmonter pour vivre en pleine conscience ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La pratique de la pleine conscience permet de mettre en lumière notre attachement à nos convictions et nos jugements. L'idée n'est pas de changer radicalement notre comportement pour devenir quelqu'un d'autre, mais plutôt de nous libérer de nos automatismes pour savoir prendre plus de recul et gagner en sérénité.",
+            "tips": "L'association <a href=\"http://unpotentieldeplus.fr/retour-vers-le-present-de-a-a-z/\">Un Potentiel de plus</a>, créée par Nathalie Vanlaethem en 2016, recense sur son blog ces attitudes, comportements ou habitudes qui bien souvent nous happent hors du moment présent. Plutôt que d'en faire des moments de dispersion, l'association propose d'en faire des moments-clés pour s'inciter à revenir au présent.",
+            "clue": "Persévérant, oui. Buté, non...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkEPaHx34": "Les comportements qui nous définissent",
+            "choice_NyM-pSgn4": "Notre mode de vie",
+            "choice_Vka-aSl34": "Notre style vestimentaire",
+            "choice_41WFprl2V": "Notre sentiment d’avoir toujours raison ",
+            "choice_Nk2F6Hg2E": "L’attachement à notre égo "
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "If you want to live mindfully, what major obstacles must you overcome?",
+            "klf": "Practising mindfulness helps shine a light on the beliefs and evaluations we cling to. It’s not about radically changing our behaviour and becoming someone entirely different. It’s about freeing ourselves from ingrained habits, gaining perspective and finding tranquillity within.",
+            "tips": "<a href=\"http://unpotentieldeplus.fr/retour-vers-le-present-de-a-a-z/\">Un Potentiel de plus</a> (A Little More Potential) is a company that was established by Nathalie Vanlaethem in 2016. On her blog, she lists the attitudes, behaviour and habits that can distance us from the present moment in time. Rather than creating lots of chaotic moments, she suggests picking a few key moments to help you refocus on the present.",
+            "clue": "Persistent, yes. Stubborn, no…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkEPaHx34": "Types of behaviour that define you",
+            "choice_NyM-pSgn4": "Your way of life",
+            "choice_Vka-aSl34": "The way you dress",
+            "choice_41WFprl2V": "The feeling that you’re always right ",
+            "choice_Nk2F6Hg2E": "Your ego "
+        }
+    }
+}

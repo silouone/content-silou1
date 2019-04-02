@@ -1,0 +1,159 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T15:04:05.462Z",
+            "updatedAt": "2018-07-26T15:08:32.719Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_EkbiQfEpV",
+        "universalRef": "sli_EkbiQfEpV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkbiQfEpV.choice_EyxXp7fVa4.id",
+                        "label": "choice_EyxXp7fVa4",
+                        "value": "choice_EyxXp7fVa4",
+                        "media": "med_EkmT7GE6V"
+                    },
+                    {
+                        "id": "sli_EkbiQfEpV.choice_EJxHaXMETE.id",
+                        "label": "choice_EJxHaXMETE",
+                        "value": "choice_EJxHaXMETE",
+                        "media": "med_41rpmME6E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJxHaXMETE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The more ambitious an objective is, the more motivating it is. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "An objective should be attainable. It is ambitious enough to be motivating while remaining within the realm of reason so that most people will accept it.",
+            "tips": "Measuring whether an objective was attained is already an act of recognition, which you should not overlook as a manager.",
+            "clue": "It does not take too much.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxXp7fVa4": "TRUE",
+            "choice_EJxHaXMETE": "FALSE"
+        },
+        "fr": {
+            "header": "Plus l'objectif est ambitieux, plus il est motivé. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "L'objectif devrait être réalisable. Il est suffisamment ambitieux pour rester motivé tout en maintenant une plage rationnelle afin que la plupart des gens l'acceptent.",
+            "tips": "Mesurer la réalisation des objectifs est déjà un acte de reconnaissance, en tant que gestionnaire, vous ne devez pas l'ignorer.",
+            "clue": "Il n'a pas besoin de beaucoup.",
+            "choice_EyxXp7fVa4": "Vraiment",
+            "choice_EJxHaXMETE": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "Cuanto más ambicioso es un objetivo, más motivador es. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "Un objetivo debe ser alcanzable. Es lo suficientemente ambicioso como para ser motivador y permanecer dentro del ámbito de la razón para que la mayoría de la gente lo acepte.",
+            "tips": "Medir si un objetivo se logró es ya un acto de reconocimiento, que no debe pasar por alto como gerente.",
+            "clue": "No toma demasiado.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxXp7fVa4": "Cierto",
+            "choice_EJxHaXMETE": "Falso"
+        },
+        "it": {
+            "header": "Più un obiettivo è ambizioso, più è motivante. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Un obiettivo dovrebbe essere raggiungibile. È abbastanza ambizioso da motivare pur rimanendo nel regno della ragione, in modo che la maggior parte della gente lo accetti.",
+            "tips": "Misurare se un obiettivo è stato raggiunto è già un atto di riconoscimento, che non devi trascurare come manager.",
+            "clue": "Non ci vuole troppo.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxXp7fVa4": "Vero",
+            "choice_EJxHaXMETE": "falso"
+        },
+        "de": {
+            "header": "The more ambitious an objective is, the more motivating it is. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "An objective should be attainable. It is ambitious enough to be motivating while remaining within the realm of reason so that most people will accept it.",
+            "tips": "Measuring whether an objective was attained is already an act of recognition, which you should not overlook as a manager.",
+            "clue": "It does not take too much.",
+            "choice_EyxXp7fVa4": "TRUE",
+            "choice_EJxHaXMETE": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "보다 야심 찬 목표가있을수록 동기 부여가 높아집니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "목표가 달성 가능해야합니다. 대부분의 사람들이 그것을 받아 들일 수 있도록 이성의 영역 내에 머무르는 동안 동기 부여가 될만큼 충분히 야심적입니다.",
+            "tips": "목표가 달성되었는지 여부를 측정하는 것은 이미 인정의 행위이며 관리자로서 간과해서는 안됩니다.",
+            "clue": "너무 많이하지 않습니다.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxXp7fVa4": "참된",
+            "choice_EJxHaXMETE": "그릇된"
+        },
+        "ru": {
+            "header": "Чем более амбициозная цель, тем более мотивирующей она является. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Цель должна быть достижимой. Это достаточно амбициозно, чтобы мотивировать, оставаясь в пределах разумной причины, чтобы большинство людей это восприняло.",
+            "tips": "Измерение того, была ли достигнута цель, уже является актом признания, которого вы не должны упускать из виду как менеджер.",
+            "clue": "Это не слишком много.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyxXp7fVa4": "Правда",
+            "choice_EJxHaXMETE": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quanto mais ambicioso é um objetivo, mais motivador é. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "Um objetivo deve ser atingível. É ambicioso o suficiente para ser motivador, permanecendo no âmbito da razão, para que a maioria das pessoas o aceite.",
+            "tips": "Medir se um objetivo foi alcançado já é um ato de reconhecimento, que você não deve esquecer como gerente.",
+            "clue": "Não demora muito.",
+            "choice_EyxXp7fVa4": "VERDADE",
+            "choice_EJxHaXMETE": "FALSO"
+        },
+        "zh": {
+            "header": "目标越雄心勃勃，就越有动力。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "目标应该是可以实现的。它足够雄心勃勃，可以在保持理性范围的同时保持激励，这样大多数人都会接受它。",
+            "tips": "衡量目标是否达到已经是一种承认行为，作为经理你不应该忽视。",
+            "clue": "它不需要太多。",
+            "choice_EyxXp7fVa4": "真正",
+            "choice_EJxHaXMETE": "假"
+        }
+    }
+}

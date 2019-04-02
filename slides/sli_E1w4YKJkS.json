@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-24T10:56:48.057Z",
+            "updatedAt": "2018-06-22T16:14:35.350Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-24T10:56:48.057Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1w4YKJkS",
+        "universalRef": "sli_E1w4YKJkS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_E1w4YKJkS.choice_Nk7LttyyB.id",
+                        "label": "choice_Nk7LttyyB",
+                        "value": "choice_Nk7LttyyB"
+                    },
+                    {
+                        "id": "sli_E1w4YKJkS.choice_E1jUttJkH.id",
+                        "label": "choice_E1jUttJkH",
+                        "value": "choice_E1jUttJkH"
+                    },
+                    {
+                        "id": "sli_E1w4YKJkS.choice_4JQwKFkyB.id",
+                        "label": "choice_4JQwKFkyB",
+                        "value": "choice_4JQwKFkyB"
+                    },
+                    {
+                        "id": "sli_E1w4YKJkS.choice_4kjvFF1JB.id",
+                        "label": "choice_4kjvFF1JB",
+                        "value": "choice_4kjvFF1JB"
+                    },
+                    {
+                        "id": "sli_E1w4YKJkS.choice_VyEuKt1kB.id",
+                        "label": "choice_VyEuKt1kB",
+                        "value": "choice_VyEuKt1kB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyEuKt1kB",
+                        "choice_4JQwKFkyB",
+                        "choice_E1jUttJkH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les étapes pour présenter votre carte mentale lors d’une présentation ? Sélectionnez les bonnes réponses dans l'ordre.",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "Pour rendre votre présentation efficace, présentez d’abord le centre de votre carte, puis les branches principales qui correspondent à votre plan d’intervention. Puis vient le moment de développer chaque point. Vous pouvez choisir soit de présenter les branches une à une, soit de montrer chacune d’entre elles sous la forme d’une autre carte mentale.",
+            "tips": "Le logiciel Xmind dispose d’une fonction Zoom sur un sujet. Elle permet de visualiser un embranchement sous la forme d’une nouvelle carte.",
+            "clue": "Explosion, pas implosion.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk7LttyyB": "Dessiner des sous-branches au fur et à mesure de la présentation",
+            "choice_E1jUttJkH": "Développer chaque point ",
+            "choice_4JQwKFkyB": "Présenter les branches principales",
+            "choice_4kjvFF1JB": "Choisir les couleurs pour votre mind map avec votre public",
+            "choice_VyEuKt1kB": "Présenter le centre de votre carte"
+        },
+        "en": {
+            "explanation": "Put the following answers in order.",
+            "header": "What are the different steps involved in introducing your mind map during presentations? Put them in order.",
+            "klf": "As part of an effective presentation, you need to introduce the centre of your map first, followed by the main branches. These should match the service you plan to offer. Next, it’s time to develop each of your points. You might choose to present each branch one by one, or you might display each of them as a separate mind map.",
+            "tips": "Xmind software allows you to zoom in on a subject. This means you can view a branch as a new mind map.",
+            "clue": "Explosion, not implosion",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk7LttyyB": "Draw on new branches as you go along",
+            "choice_E1jUttJkH": "Develop each point",
+            "choice_4JQwKFkyB": "Present the key branches",
+            "choice_4kjvFF1JB": "Ask the audience to help you choose colours for your mind map",
+            "choice_VyEuKt1kB": "Present the centre of your map"
+        }
+    }
+}

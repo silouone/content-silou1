@@ -1,0 +1,86 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-09T15:03:07.544Z",
+            "updatedAt": "2018-10-08T15:07:41.509Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJWeSSSSS",
+        "universalRef": "sli_VJWeSSSSS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJWeSSSSS.choice_EJoo8BHHr.id",
+                        "label": "choice_EJoo8BHHr",
+                        "value": "choice_EJoo8BHHr"
+                    },
+                    {
+                        "id": "sli_VJWeSSSSS.choice_VkZhUSHBr.id",
+                        "label": "choice_VkZhUSHBr",
+                        "value": "choice_VkZhUSHBr"
+                    },
+                    {
+                        "id": "sli_VJWeSSSSS.choice_4yqhLSBHH.id",
+                        "label": "choice_4yqhLSBHH",
+                        "value": "choice_4yqhLSBHH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJoo8BHHr",
+                        "choice_VkZhUSHBr",
+                        "choice_4yqhLSBHH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que permet l'écriture d'un compte-rendu au fil de la réunion ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Un compte-rendu aide à ne pas perdre de vue l'objectif de la réunion, et il permet d'éviter toute erreur d'interprétation. De plus, s'il est partagé en temps réel, il devient plus facile pour chaque personne de visualiser comment s'organiser pour la suite des actions à entreprendre.",
+            "tips": "Il est recommandé d’utiliser toujours la même structure de compte rendu afin de voir rapidement l'avancements d'un projet.",
+            "clue": "Un outil en or !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJoo8BHHr": "Tenir le cap de l'objectif",
+            "choice_VkZhUSHBr": "Éviter les erreurs d'interprétation",
+            "choice_4yqhLSBHH": "L'organisation, pour chacun, de ses actions futures"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What are the benefits of writing minutes while the meeting is taking place?",
+            "klf": "Minutes stop participants from losing sight of the meeting’s main objectives and prevent any possible misinterpretations there and then. Furthermore, if the minutes are shared during the session itself, it makes it easier for everyone to visualise planning the actions that need to be carried out.",
+            "tips": "It’s always best to structure your minutes in a standard way, so you can easily follow the progress of a project.",
+            "clue": "A valuable tool!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJoo8BHHr": "It helps you stay focused on the meeting’s objectives",
+            "choice_VkZhUSHBr": "It helps attendees avoid any misinterpretations",
+            "choice_4yqhLSBHH": "It makes it easier for each person to plan any action points they need to follow up"
+        }
+    }
+}

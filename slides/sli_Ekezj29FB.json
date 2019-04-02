@@ -1,0 +1,77 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:32:15.042Z",
+            "updatedAt": "2018-10-17T12:20:01.924Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ekezj29FB",
+        "universalRef": "sli_Ekezj29FB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ekezj29FB.choice_EJhKhhctB.id",
+                        "label": "choice_EJhKhhctB",
+                        "value": "choice_EJhKhhctB"
+                    },
+                    {
+                        "id": "sli_Ekezj29FB.choice_41x5325Fr.id",
+                        "label": "choice_41x5325Fr",
+                        "value": "choice_41x5325Fr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41x5325Fr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "L’inbound marketing peut et doit entièrement remplacer l’outbound marketing. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vous avez tout intérêt à optimiser la visibilité de vos contenus créés dans le cadre de votre stratégie d'inbound marketing par des techniques d'outbound marketing. Ceci permettra d’accélérer votre stratégie d’acquisition de leads.",
+            "tips": "L’évolution des technologies permet aujourd'hui d’utiliser des techniques d'outbound marketing de manière très ciblée et pertinente. Il peut s’agir du retargeting ou de l’utilisation des critères de segmentation proposés par Facebook, Twitter ou LinkedIn par exemple.",
+            "clue": "La clé est dans un mix marketing équilibré.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJhKhhctB": "Vrai",
+            "choice_41x5325Fr": "Faux"
+        },
+        "en": {
+            "header": "L’inbound marketing peut et doit entièrement remplacer l’outbound marketing. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vous avez tout intérêt à optimiser la visibilité de vos contenus créés dans le cadre de votre stratégie dinbound marketing par des techniques doutbound marketing. Ceci permettra d’accélérer votre stratégie d’acquisition de leads.",
+            "tips": "L’évolution des technologies permet aujourdhui d’utiliser des techniques doutbound marketing de manière très ciblée et pertinente. Il peut s’agir du retargeting ou de l’utilisation des critères de segmentation proposés par Facebook, Twitter ou LinkedIn par exemple.",
+            "clue": "La clé est dans un mix marketing équilibré.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJhKhhctB": "Vrai",
+            "choice_41x5325Fr": "Faux"
+        }
+    }
+}

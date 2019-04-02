@@ -1,0 +1,104 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:39:44.495Z",
+            "updatedAt": "2016-03-30T15:57:53.455Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_41gMN2m3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_41gMN2m3g.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_NyidN3Xnl",
+                    "choice_NJWFNh7hl",
+                    "choice_41LKN37hg"
+                ]
+            }
+        },
+        "universalRef": "sli_41gMN2m3g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Certaines entreprises disposent de réseaux féminins en interne. Comment s'appelle celui de Coca-Cola ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Vous pouvez choisir le réseau de votre entreprise, s'il existe. Par exemple, chez Coca-Cola, Elles@Coke rassemble des femmes managers qui se coachent entre elles. Chez Engie, Women In Networking regroupe plus de 800 femmes.",
+            "tips": "L'un des plus anciens réseaux féminins d'entreprise est né dans un groupe informatique : les Elles d'IBM.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Rien de surprenant.",
+            "choice_NyidN3Xnl": "Elles@Coke",
+            "choice_NJWFNh7hl": "Elles a coke",
+            "choice_41LKN37hg": "Elle a coke"
+        },
+        "en": {
+            "header": "Some companies have women's networks in-house. What is Coca-Cola's name?",
+            "explanation": "Enter your answer.",
+            "klf": "You can choose the network of your company, if it exists. For example, at Coca-Cola, Elles @ Coke brings together women managers who coach each other. At Engie, Women In Networking brings together more than 800 women.",
+            "tips": "One of the oldest women's business networks was born in a computer group: the Elles of IBM.",
+            "clue": "Nothing surprising.",
+            "choice_NyidN3Xnl": "They @ Coke",
+            "choice_NJWFNh7hl": "They have coke",
+            "choice_41LKN37hg": "She has coke",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Einige Unternehmen verfügen über eigene Frauennetzwerke. Wie heißt Coca-Cola?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Sie können das Netzwerk Ihres Unternehmens auswählen, falls vorhanden. Bei Coca-Cola beispielsweise bringt Elles @ Coke weibliche Manager zusammen, die sich gegenseitig coachen. Bei Engie bringt Women In Networking mehr als 800 Frauen zusammen.",
+            "tips": "Eines der ältesten Frauennetzwerke für Frauen wurde in einer Computergruppe geboren: die Elles von IBM.",
+            "clue": "Nichts überraschend.",
+            "choice_NyidN3Xnl": "Sie @ Coke",
+            "choice_NJWFNh7hl": "Sie haben Cola",
+            "choice_41LKN37hg": "Sie hat Cola",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "Certaines entreprises disposent de réseaux féminins en interne. Comment s'appelle celui de Coca-Cola ?",
+            "explanation": "Type your answer.",
+            "klf": "Vous pouvez choisir le réseau de votre entreprise, s'il existe. Par exemple, chez Coca-Cola, Elles@Coke rassemble des femmes managers qui se coachent entre elles. Chez Engie, Women In Networking regroupe plus de 800 femmes.",
+            "tips": "L'un des plus anciens réseaux féminins d'entreprise est né dans un groupe informatique : les Elles d'IBM.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_NyidN3Xnl": "Elles@Coke",
+            "choice_NJWFNh7hl": "Elles a coke",
+            "choice_41LKN37hg": "Elle a coke",
+            "clue": "Rien de surprenant."
+        },
+        "zh": {
+            "header": "一些公司内部有女性网络。什么是可口可乐的名字？",
+            "explanation": "输入你的答案。",
+            "klf": "您可以选择公司的网络（如果存在）。例如，在可口可乐公司，Elles @ Coke汇集了相互指导的女性经理。在Engie，网络中的女性聚集了800多名女性。",
+            "tips": "最古老的女性商业网络之一出生在一个计算机组：IBM的Elles。",
+            "clue": "没什么好惊讶的。",
+            "choice_NyidN3Xnl": "他们@可乐",
+            "choice_NJWFNh7hl": "他们有可乐",
+            "choice_41LKN37hg": "她有可乐",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

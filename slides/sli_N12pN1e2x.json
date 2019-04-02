@@ -1,0 +1,117 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T14:19:16.100Z",
+            "updatedAt": "2016-09-06T09:49:07.958Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N12pN1e2x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_N12pN1e2x.id",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        },
+        "universalRef": "sli_N12pN1e2x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Certaines entreprises proposent des services de garde d'enfants. En 2015, en France, quelle proportion représentaient-elles parmi tous les services de garde d'enfant en France ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Les services proposés par les entreprises représentent 10% des services de garde d'enfants en France en 2015, contre 5,5% en 2011. D'après une enquête Viavoice, ce type de dispositif est souhaité par 46% des salariés d'entreprises de plus de 100 salariés.",
+            "tips": "Ce qui freine la mise en place de ces dispositifs, c'est d'abord le coût, et ensuite le manque de demande des salariés, selon les dirigeants interrogés par Viavoice.",
+            "unitLabel": "%",
+            "description": "10% de l'offre totale",
+            "answerMin": 8,
+            "answerMax": 12,
+            "clue": "Comme les commandements bibliques…"
+        },
+        "en": {
+            "header": "Some companies offer childcare services. In 2015, in France, what proportion did they represent among all childcare services in France?",
+            "explanation": "Move the cursor.",
+            "klf": "The services offered by companies represent 10% of childcare services in France in 2015, compared to 5.5% in 2011. According to a Viavoice survey, this type of device is desired by 46% of employees in companies of more than 100 employees.",
+            "tips": "What hampers the implementation of these devices is first the cost, and then the lack of demand from employees, according to the leaders interviewed by Viavoice.",
+            "clue": "Like the biblical commandments ...",
+            "description": "10% of the total supply",
+            "unitLabel": "%",
+            "choice_1": "8",
+            "choice_2": "9",
+            "choice_3": "10",
+            "choice_4": "11",
+            "choice_5": "12",
+            "answerMin": 8,
+            "answerMax": 12
+        },
+        "de": {
+            "header": "Einige Unternehmen bieten Kinderbetreuung an. Wie viel Prozent der Kinderbetreuungsdienste in Frankreich wurden 2015 von Unternehmen erbracht?",
+            "explanation": "Ziehen Sie den Schieberegler.",
+            "klf": "Die von den Unternehmen angebotenen Dienstleistungen machten 2015 in Frankreich 10% der Kinderbetreuungsdienste aus, verglichen mit 5,5% im Jahr 2011. Laut einer Umfrage von ViaVoice ist diese Art von Maßnahme von 46% der Beschäftigten an über 100 Beschäftigte gewünscht.",
+            "tips": "Laut den von ViaVoice befragten Führungskräften sind die Kosten nicht der Hauptgrund dafür, dass wir nicht mehr von diesen Einrichtungen sehen. Außerdem fehlt es an der Nachfrage der Mitarbeiter.",
+            "clue": "Die biblischen Gebote",
+            "description": "10% der insgesamt erbrachten Leistungen",
+            "unitLabel": " ",
+            "choice_1": "8",
+            "choice_2": "9",
+            "choice_3": "10",
+            "choice_4": "11",
+            "choice_5": "12",
+            "answerMin": 8,
+            "answerMax": 12
+        },
+        "es": {
+            "header": "Some companies offer childcare services. In 2015, what percentage of childcare services in France was provided by companies?",
+            "explanation": "Drag the slider.",
+            "klf": "Services offered by companies represented 10% of childcare services in France in 2015, compared to 5.5% in 2011. According to a ViaVoice survey, this type of action is desired by 46% of employees to over 100 employees.",
+            "tips": "Cost is the main reason why we are not seeing more of these facilities, plus the lack of demand from employees, according to executives interviewed by ViaVoice.",
+            "unitLabel": " ",
+            "description": "10% of total services supplied",
+            "answerMin": 8,
+            "answerMax": 12,
+            "clue": "The biblical commandments"
+        },
+        "zh": {
+            "header": "一些公司提供托儿服务。 2015年，法国有多少百分比的儿童保育服务由公司提供？",
+            "explanation": "拖动滑块。",
+            "klf": "2015年，公司提供的服务占法国儿童保育服务的10％，而2011年为5.5％。根据ViaVoice调查，46％的员工需要这类行动，超过100名员工。",
+            "tips": "据ViaVoice采访的高管称，成本是我们没有看到更多这些设施以及员工缺乏需求的主要原因。",
+            "clue": "圣经的诫命",
+            "description": "提供的服务总量的10％",
+            "unitLabel": " ",
+            "choice_1": "8",
+            "choice_2": "9",
+            "choice_3": "10",
+            "choice_4": "11",
+            "choice_5": "12",
+            "answerMin": 8,
+            "answerMax": 12
+        }
+    }
+}

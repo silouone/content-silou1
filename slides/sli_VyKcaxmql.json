@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T16:09:51.156Z",
+            "updatedAt": "2016-03-30T09:59:13.304Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yVzRifcx"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VyKcaxmql",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_VyKcaxmql.field_NyFUAgm9x.id",
+                        "type": "text",
+                        "name": "inp58641",
+                        "label": "label_E1eK8Re7cg",
+                        "placeholder": "placeholder_4kWY8Cxm9l"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp58641",
+                        "answers": [
+                            "choice_4y3UyAdqg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VyKcaxmql"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi certains employeurs préfèrent-ils embaucher un homme plutôt qu'une femme selon Cereq?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "Dans une étude réalisée par Cereq (Centre d’études et de recherche sur les qualifications), les recruteurs affirment que les mères ou les futures mères sont moins disponibles. Ils préfèrent embaucher un homme.",
+            "tips": "Le responsable des ressources humaines d’une grande entreprise interrogée par Cereq a déclaré: \"Nous apprenons quelle organisation organise la personne pour récupérer ses enfants la nuit, leur âge, ce que fait leur mari ...\"",
+            "clue": "\"Ce dont nous pouvons disposer\", selon le Larousse.",
+            "template": "Ils seraient moins {{inp58641}}",
+            "label_E1eK8Re7cg": " ",
+            "choice_4y3UyAdqg": "disponible",
+            "placeholder_4kWY8Cxm9l": " "
+        },
+        "en": {
+            "header": "Why do some employers prefer to hire a man rather than a woman according to Cereq?",
+            "explanation": "Enter your answer.",
+            "klf": "In a study by Cereq (Center for Studies and Research on Qualifications), recruiters claim that mothers or future mothers are less available. They prefer to hire a man.",
+            "tips": "The HR manager of a large company interviewed by the Cereq testifies: \"We learn what organization sets up the person to pick up his children at night, the age of the children, what the husband does ...\"",
+            "clue": "\"Which we can dispose\", according to the Larousse.",
+            "template": "They would be less {{inp58641}}",
+            "label_E1eK8Re7cg": " ",
+            "choice_4y3UyAdqg": "available",
+            "placeholder_4kWY8Cxm9l": " "
+        },
+        "de": {
+            "header": "Warum bevorzugen manche Arbeitgeber nach Cereq lieber einen Mann als eine Frau?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "In einer Studie des Cereq (Zentrum für Studien und Qualifikationsforschung) behaupten Recruiter, dass Mütter oder zukünftige Mütter weniger verfügbar sind. Sie ziehen es vor, einen Mann einzustellen.",
+            "tips": "Der HR-Manager eines großen Unternehmens, das vom Cereq interviewt wurde, sagt aus: \"Wir erfahren, welche Organisation die Person dazu aufruft, ihre Kinder nachts abzuholen, das Alter der Kinder, was der Ehemann tut ...\"",
+            "clue": "\"Was wir entsorgen können\", so der Larousse.",
+            "template": "Sie wären weniger {{inp58641}}",
+            "label_E1eK8Re7cg": " ",
+            "choice_4y3UyAdqg": "verfügbar",
+            "placeholder_4kWY8Cxm9l": " "
+        },
+        "es": {
+            "header": "Pourquoi certains employeurs préfèrent-ils embaucher un homme plutôt qu'une femme selon le Cereq ?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "Dans une étude du Cereq (Centre d'études et de recherches sur les qualifications), des recruteurs affirment que les mères ou futures mères sont moins disponibles. Ils préfèrent donc embaucher un homme.",
+            "tips": "Le responsable RH d'une grande entreprise interrogé par le Cereq témoigne : \"On se renseigne sur quelle organisation met en place la personne pour récupérer ses enfants le soir, sur l'âge des enfants, sur ce que fait l'époux…\"",
+            "template": "{{inp58641}}",
+            "label_E1eK8Re7cg": " ",
+            "placeholder_4kWY8Cxm9l": " ",
+            "choice_4y3UyAdqg": "disponibles",
+            "clue": "\"Dont on peut disposer\", selon le Larousse."
+        },
+        "zh": {
+            "header": "根据Cereq，为什么有些雇主更愿意雇用男性而不是女性？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "在Cereq（资格研究与研究中心）的一项研究中，招聘人员声称母亲或未来母亲的可用性较低。他们更愿意雇用一个男人。",
+            "tips": "Cereq采访的一家大公司的人力资源经理作证说：“我们了解到哪个组织让人们在晚上接孩子，孩子的年龄，丈夫的行为......”",
+            "clue": "据Larousse说，“我们可以处置”。",
+            "template": "{{inp58641}}",
+            "label_E1eK8Re7cg": " ",
+            "choice_4y3UyAdqg": "可得到",
+            "placeholder_4kWY8Cxm9l": " "
+        }
+    }
+}

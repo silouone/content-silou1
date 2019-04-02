@@ -1,0 +1,115 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-11T13:50:05.862Z",
+            "updatedAt": "2018-10-12T14:58:06.652Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EygpaZYVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1B8u0vBB",
+        "universalRef": "sli_N1B8u0vBB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1B8u0vBB.choice_N1gtZhFJIS.id",
+                        "label": "choice_N1gtZhFJIS",
+                        "value": "choice_N1gtZhFJIS",
+                        "media": "med_NyKb3Yk8H"
+                    },
+                    {
+                        "id": "sli_N1B8u0vBB.choice_4Jxqb2K1LS.id",
+                        "label": "choice_4Jxqb2K1LS",
+                        "value": "choice_4Jxqb2K1LS",
+                        "media": "med_EJ5W3F1Lr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jxqb2K1LS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour être efficace, une stratégie mono-produit doit reposer sur une gamme très restreinte de produits. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le principe d'une stratégie mono-produit est de se concentrer sur un seul type de produit. Toutefois, il est recommandé de développer sa gamme au maximum (coloris, tailles, options…). En offrant un large choix au consommateur, on a davantage de chances de voir son affaire florir.",
+            "tips": "Sur Internet, on peut distinguer trois grands types de pages commerciales : les grands sites généralistes (Cdiscount, Amazon…), les sites thématiques (Zalando pour les chaussures, Oscaro pour les pièces auto…) et les sites mono-produit (Archiduchesse pour les chaussettes, par exemple).",
+            "clue": "Si vous vous lancez dans les éclairs, n'allez-vous proposer que le parfum café ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gtZhFJIS": "Vrai",
+            "choice_4Jxqb2K1LS": "Faux"
+        },
+        "en": {
+            "header": "To be effective, a single-product strategy must be based on a very narrow range of products. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "The principle of a single-product strategy is to focus on one type of product. However, it is recommended to develop its range to the maximum (colors, sizes, options ...). By offering a wide choice to the consumer, it is more likely to see his business flourish.",
+            "tips": "On the Internet, we can distinguish three main types of commercial pages: large generalist sites (Cdiscount, Amazon ...), thematic sites (Zalando for shoes, Oscaro for auto parts ...) and single-product sites (Archiduchesse for socks, for example).",
+            "clue": "If you get into the lightning, do you propose that the coffee fragrance?",
+            "choice_N1gtZhFJIS": "True",
+            "choice_4Jxqb2K1LS": "False",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Um effektiv zu sein, sollte sich eine Einzelproduktstrategie auf eine begrenzte Produktpalette konzentrieren. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Das Prinzip der Single-Product-Strategie ist die Konzentration auf einen Produkttyp. Es ist jedoch immer noch ratsam, Ihre Produktpalette (Farben, Größen, Optionen usw.) zu maximieren. Wenn Sie dem Konsumenten eine größere Auswahl bieten, erhöhen Sie die Chance, dass Ihr Unternehmen floriert.",
+            "tips": "Es gibt drei Haupttypen von Verkaufswebsites: die großen generalistischen Websites (Cdiscount, Amazon usw.), Themenwebsites (Zalando für Schuhe, Oscaro für Autoteile usw.) und Websites für Einzelprodukte (wie Archiduchesse für Socken).",
+            "clue": "Wenn Sie sich entschließen, Eclairs zu verkaufen, bieten Sie nur eine Kaffeeversion an?",
+            "choice_N1gtZhFJIS": "Wahr",
+            "choice_4Jxqb2K1LS": "Falsch",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "To be effective, a single-product strategy should focus on a limited range of products. True or false?",
+            "klf": "The principle behind the single-product strategy is to focus on one type of product. But it is still advisable to maximise your product range (colours, sizes, options, etc.). Offering the consumer greater choice increases the chances of your business flourishing.",
+            "tips": "There are three main types of sales websites: the large generalist websites (Cdiscount, Amazon, etc.), themed websites (Zalando for shoes, Oscaro for car parts, etc.) and single-product websites (such as Archiduchesse for socks).",
+            "clue": "If you decide to sell éclairs, will you only offer a coffee version?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gtZhFJIS": "True",
+            "choice_4Jxqb2K1LS": "False"
+        },
+        "zh": {
+            "header": "为了有效，单一产品策略应该关注有限范围的产品。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "单一产品策略背后的原则是专注于一种产品。但仍然建议最大化您的产品范围（颜色，尺寸，选项等）。为消费者提供更多选择可以增加您的业务蓬勃发展的机会。",
+            "tips": "销售网站有三种主要类型：大型通用网站（Cdiscount，亚马逊等），主题网站（鞋子Zalando，汽车零件Oscaro等）和单品网站（如袜子的Archiduchesse）。",
+            "clue": "如果您决定出售éclairs，您是否只提供咖啡版？",
+            "choice_N1gtZhFJIS": "真正",
+            "choice_4Jxqb2K1LS": "假",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

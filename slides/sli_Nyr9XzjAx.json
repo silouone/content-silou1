@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-04-04T08:28:58.113Z",
+            "updatedAt": "2017-12-01T17:27:00.978Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Nyr9XzjAx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_EJ324MsAx.id",
+                        "label": "choice_EJ324MsAx",
+                        "value": "choice_EJ324MsAx"
+                    },
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_4163Nzs0l.id",
+                        "label": "choice_4163Nzs0l",
+                        "value": "choice_4163Nzs0l"
+                    },
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_EJR3VMiCx.id",
+                        "label": "choice_EJR3VMiCx",
+                        "value": "choice_EJR3VMiCx"
+                    },
+                    {
+                        "id": "sli_Nyr9XzjAx.choice_EkkpNGoCl.id",
+                        "label": "choice_EkkpNGoCl",
+                        "value": "choice_EkkpNGoCl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJR3VMiCx"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4JcV84R9~",
+            "poster": null
+        },
+        "universalRef": "sli_Nyr9XzjAx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les différentes caractéristiques de l'intelligence émotionnelle, laquelle manque-t-elle à Sarah?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "L'empathie est l'un des piliers de l'intelligence émotionnelle. Celles-ci incluent la capacité de se mettre à la place des autres, de les comprendre malgré nos différences. Cette faculté émotionnelle est essentielle pour établir des relations harmonieuses avec ses collaborateurs.",
+            "tips": "L'empathie est la capacité de se mettre à la place des autres, de percevoir ce qu'ils ressentent.",
+            "clue": "Le plus court…",
+            "context_title": "En conflit",
+            "context_description": "Marie est en conflit avec sa collègue Sarah sur un sujet qui les concerne tous les deux. Récemment arrivée, Sarah occupe un poste qui intéresse Marie. Elle se rend compte qu'au-delà de ses désaccords sur le dossier, elle souffre avant tout d'un manque de reconnaissance. Elle parle à sa collègue. Mais Sarah lui dit que ce sentiment n'a rien à voir avec leur conflit et continue de se disputer sur les différents points du dossier.",
+            "choice_EJ324MsAx": "L'automotivation",
+            "choice_4163Nzs0l": "Gérer les émotions",
+            "choice_EJR3VMiCx": "Empathie",
+            "choice_EkkpNGoCl": "L'identification de ses propres émotions"
+        },
+        "en": {
+            "header": "Among the different characteristics of emotional intelligence, which is missing in Sarah?",
+            "explanation": "Select the correct answer.",
+            "klf": "Among the pillars of emotional intelligence is empathy. These include the ability to put oneself in others' shoes, to understand them, despite our differences. This emotional faculty is essential to establish harmonious relations with its collaborators.",
+            "tips": "Empathy is the ability to put oneself in others' shoes, to perceive what they feel.",
+            "clue": "The shortest…",
+            "context_title": "In conflict",
+            "context_description": "Marie is in conflict with her colleague Sarah about a matter that concerns both of them. Recently arrived, Sarah occupies a position that interested Marie. She realizes that beyond her disagreements on the file, she suffers above all from a lack of recognition. She talks to her colleague. But Sarah tells him that this feeling has nothing to do with their conflict and continues to argue on the various points of the file.",
+            "choice_EJ324MsAx": "L'automotivation",
+            "choice_4163Nzs0l": "Managing emotions",
+            "choice_EJR3VMiCx": "Empathy",
+            "choice_EkkpNGoCl": "The identification of one's own emotions"
+        },
+        "de": {
+            "header": "Zu den verschiedenen Merkmalen der emotionalen Intelligenz, die bei Sarah fehlen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Zu den Säulen der emotionalen Intelligenz gehört das Einfühlungsvermögen. Dazu gehört die Fähigkeit, sich in die Lage anderer zu versetzen und sie trotz unserer Unterschiede zu verstehen. Diese emotionale Fähigkeit ist wichtig, um harmonische Beziehungen zu ihren Mitarbeitern herzustellen.",
+            "tips": "Empathie ist die Fähigkeit, sich in die Schuhe anderer zu versetzen, um wahrzunehmen, was sie fühlen.",
+            "clue": "Der kürzeste…",
+            "context_title": "Im Konflikt",
+            "context_description": "Marie steht mit ihrer Kollegin Sarah in Konflikt, was beide betrifft. Vor kurzem angekommen, besetzt Sarah eine Position, die Marie interessiert. Sie erkennt, dass sie über ihre Unstimmigkeiten in der Akte hinaus vor allem unter mangelnder Anerkennung leidet. Sie spricht mit ihrem Kollegen. Aber Sarah sagt ihm, dass dieses Gefühl nichts mit ihrem Konflikt zu tun hat, und argumentiert weiterhin über die verschiedenen Punkte der Akte.",
+            "choice_EJ324MsAx": "L'automotivation",
+            "choice_4163Nzs0l": "Umgang mit Emotionen",
+            "choice_EJR3VMiCx": "Empathie",
+            "choice_EkkpNGoCl": "Die Identifikation der eigenen Emotionen"
+        },
+        "es": {
+            "header": "Among the different characteristics of emotional intelligence, which is lacking in Sarah?",
+            "explanation": "Select the correct answer.",
+            "klf": "The pillars of emotional intelligence include empathy. These include the ability to step into the shoes of others, to understand them, despite our differences. This emotional faculty is essential to establish harmonious relations with your colleagues.",
+            "tips": "Empathy is the ability to put yourself in the place of others, to perceive what they feel.",
+            "choice_EJ324MsAx": "Self-motivation",
+            "choice_4163Nzs0l": "Managing your emotions",
+            "choice_EJR3VMiCx": "Empathy",
+            "choice_EkkpNGoCl": "Identification of your own emotions",
+            "context_description": "Marie is in disagreement with her co-worker Sarah, about a case that concerns them both. Sarah has joined the company recently in a position Marie was interested in. Marie realizes that as well as her disagreements about the case, she mainly suffers from a lack of acknowledgement. She opens up to her colleague about it. But Sarah tells her that this feeling has nothing to do about their dispute and keeps arguing about the case.",
+            "context_title": "Conflict",
+            "clue": "To put oneself in someone's shoes."
+        },
+        "zh": {
+            "header": "Sarah缺乏情感智力的不同特征？",
+            "explanation": "选择正确的答案。",
+            "klf": "情商的支柱包括同理心。尽管存在差异，这些包括能够踏入别人的角色，理解他们的能力。这种情感能力对于与同事建立和谐关系至关重要。",
+            "tips": "移情是指让自己置身于他人之中，感知自己的感受的能力。",
+            "clue": "把自己放在别人的鞋子里。",
+            "context_title": "冲突",
+            "context_description": "玛丽与她的同事莎拉意见不一，关于他们两个都有关的案件。 Sarah最近加入了公司，对Marie很感兴趣.Marie意识到，除了她对此案的分歧外，她主要还是缺乏承认。她向她的同事敞开心扉谈论它。但莎拉告诉她，这种感觉与他们的争议毫无关系，并一直在争论案件。",
+            "choice_EJ324MsAx": "自我激励",
+            "choice_4163Nzs0l": "管理你的情绪",
+            "choice_EJR3VMiCx": "同情",
+            "choice_EkkpNGoCl": "识别自己的情绪"
+        }
+    }
+}

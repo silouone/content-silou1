@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T13:06:09.365Z",
+            "updatedAt": "2018-10-08T14:54:12.210Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkAMGBTVH",
+        "universalRef": "sli_EkAMGBTVH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkAMGBTVH.choice_V1xcBGS64r.id",
+                        "label": "choice_V1xcBGS64r",
+                        "value": "choice_V1xcBGS64r",
+                        "media": "med_4kcHfSp4B"
+                    },
+                    {
+                        "id": "sli_EkAMGBTVH.choice_EJgzLMH6NH.id",
+                        "label": "choice_EJgzLMH6NH",
+                        "value": "choice_EJgzLMH6NH",
+                        "media": "med_VyzIMr6VB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1xcBGS64r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous pouvez regrouper tous vos projets en un seul kanban. Vrai ou faux ?",
+            "explanation": "Sélectionnez la  bonne réponse.",
+            "klf": "Votre Kanban peut être plus ou moins évolué. Vous pouvez tout à fait choisir de créer un seul Kanban regroupant tous vos projets en ajoutant une ligne par projet pour plus de clarté.",
+            "tips": "Selon David Anderson, le pionnier de l’application de Kanban au développement logiciel, Kanban possède cinq propriétés qui en font un outil incontournable pour booster sa performance : visualisation du workflow, limitation du travail en cours, gestion du flux, possibilité de rendre les règles explicites et de s’améliorer en tant qu’équipe.",
+            "clue": "Tout en un.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1xcBGS64r": "Vrai",
+            "choice_EJgzLMH6NH": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "You can put all your projects onto one single Kanban board. True or false?",
+            "klf": "Your Kanban board can be simple or sophisticated. You can create a single Kanban board for all your projects, using one line per project so it’s all nice and clear.",
+            "tips": "David Anderson was a pioneer in using Kanban for software development. He said that five core properties make Kanban an essential tool for boosting performance. Kanban, he states, helps you visualise workflow, limit work in progress, measure and manage flow, make process policies explicit and use models to recognise improvement opportunities.",
+            "clue": "All in one.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1xcBGS64r": "True",
+            "choice_EJgzLMH6NH": "False"
+        }
+    }
+}

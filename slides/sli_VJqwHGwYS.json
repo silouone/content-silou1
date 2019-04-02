@@ -1,0 +1,107 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T13:10:20.517Z",
+            "updatedAt": "2018-10-17T12:10:35.346Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJqwHGwYS",
+        "universalRef": "sli_VJqwHGwYS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJqwHGwYS.choice_VJ4MvfwKB.id",
+                        "label": "choice_VJ4MvfwKB",
+                        "value": "choice_VJ4MvfwKB"
+                    },
+                    {
+                        "id": "sli_VJqwHGwYS.choice_VJK7PfvFB.id",
+                        "label": "choice_VJK7PfvFB",
+                        "value": "choice_VJK7PfvFB"
+                    },
+                    {
+                        "id": "sli_VJqwHGwYS.choice_NkOEDzwtB.id",
+                        "label": "choice_NkOEDzwtB",
+                        "value": "choice_NkOEDzwtB"
+                    },
+                    {
+                        "id": "sli_VJqwHGwYS.choice_4JySPfwKB.id",
+                        "label": "choice_4JySPfwKB",
+                        "value": "choice_4JySPfwKB"
+                    },
+                    {
+                        "id": "sli_VJqwHGwYS.choice_Nk5SDGDtr.id",
+                        "label": "choice_Nk5SDGDtr",
+                        "value": "choice_Nk5SDGDtr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJ4MvfwKB",
+                        "choice_VJK7PfvFB",
+                        "choice_4JySPfwKB",
+                        "choice_NkOEDzwtB",
+                        "choice_Nk5SDGDtr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les questions à se poser pour savoir si l’on doit adopter une solution de marketing automation ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Chaque fois que les processus commerciaux s’avèrent complexes, l’automatisation apporte une solution intéressante dans la mesure où elle permet de générer beaucoup plus de leads. Elle permet donc de gagner en efficacité tout en améliorant la qualité de la relation client.",
+            "tips": "Selon l'étude de Lenskold and Pedowitz Groups, les entreprises qui utilisent une solution de marketing automation ont 133 % plus de chances de transmettre le bon message, aux bonnes personnes, aux bons moments.",
+            "clue": "Faites le tour de la question.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ4MvfwKB": "Suis-je prêt à adopter de nouvelles pratiques marketing et commerciales ?",
+            "choice_4JeXwzwFH": "Est-ce que mon concurrent utilise un logiciel de marketing automation ?",
+            "choice_VJK7PfvFB": "Ai-je atteint les limites de ma solution d’e-mail marketing ?",
+            "choice_N1WEDfPtS": "Est-ce que je ne vais pas paraître ringard si je n’utilise pas d’outil de marketing automation ?",
+            "choice_NkOEDzwtB": "Est-ce que je souhaite appuyer mes décisions sur l’analyse de données plutôt que sur de simples intuitions ?",
+            "choice_4JySPfwKB": "Mes acheteurs doivent-ils être « nurturés » ?",
+            "choice_Nk5SDGDtr": "Mes cycles de vente sont-ils complexes ?"
+        },
+        "en": {
+            "header": "Quelles sont les questions à se poser pour savoir si l’on doit adopter une solution de marketing automation ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Chaque fois que les processus commerciaux s’avèrent complexes, l’automatisation apporte une solution intéressante dans la mesure où elle permet de générer beaucoup plus de leads. Elle permet donc de gagner en efficacité tout en améliorant la qualité de la relation client.",
+            "tips": "Selon létude de Lenskold and Pedowitz Groups, les entreprises qui utilisent une solution de marketing automation ont 133 % plus de chances de transmettre le bon message, aux bonnes personnes, aux bons moments.",
+            "clue": "Faites le tour de la question.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ4MvfwKB": "",
+            "choice_4JeXwzwFH": "",
+            "choice_VJK7PfvFB": "",
+            "choice_N1WEDfPtS": "",
+            "choice_NkOEDzwtB": "",
+            "choice_4JySPfwKB": "",
+            "choice_Nk5SDGDtr": ""
+        }
+    }
+}

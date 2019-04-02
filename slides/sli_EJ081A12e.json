@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T12:47:31.772Z",
+            "updatedAt": "2016-08-24T16:13:07.586Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1csdLCsl"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJ081A12e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_EJ081A12e.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_E1wleAk3x"
+                ]
+            }
+        },
+        "universalRef": "sli_EJ081A12e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appelle-t-on la gestion de projet entrepreneurial à l'intérieur de l'entreprise ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Pour concilier salariat et désir d'entreprendre, on peut se tourner vers l'intrapreunariat. Il s'agit de lancer un projet (souvent social), à l'intérieur de l'entreprise, et avec le soutien de celle-ci. Cela apporte plus d'autonomie et de responsabilité.",
+            "tips": "Le terme a été inventé en 1976 aux États-Unis par l'homme politique Gifford Pinchot.",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Entreprendre à l'intérieur…",
+            "choice_E1wleAk3x": "intrapreunariat"
+        },
+        "en": {
+            "header": "What is the name of entrepreneurial project management within the company?",
+            "explanation": "Enter your answer.",
+            "klf": "To reconcile salary and desire to undertake, one can turn to the intrapreneurship. It is about starting a project (often social), inside the company, and with the support of this one. This brings more autonomy and responsibility.",
+            "tips": "The term was coined in 1976 in the United States by politician Gifford Pinchot.",
+            "clue": "Undertake inside ...",
+            "choice_E1wleAk3x": "intrapreunariat",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Was nennen wir unternehmerisches Projektmanagement im Unternehmen?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Um das Gehalt und den Wunsch, ein Unternehmen zu gründen, in Einklang zu bringen, können Sie sich der Intrapreuneurship zuwenden. Dazu gehört der Start eines (oft sozialen) Projekts innerhalb des Unternehmens und dessen Unterstützung. Dies gibt Ihnen mehr Autonomie und Verantwortung.",
+            "tips": "Der Begriff wurde 1976 von dem US-amerikanischen Politiker Gifford Pinchot geprägt.",
+            "clue": "Unternehmer von innen",
+            "choice_E1wleAk3x": "intrapreuneurship",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "What do we call entrepreneurial project management within the company?",
+            "explanation": "Type your answer.",
+            "klf": "To reconcile salary and the desire to launch a business, you can turn to intrapreuneurship. It involves launching a project (often social) within the company, and with the support of the latter. This gives you more autonomy and responsibility.",
+            "tips": "The term was coined in 1976 by the US politician Gifford Pinchot.",
+            "label": " ",
+            "placeholder": " ",
+            "choice_E1wleAk3x": "intrapreuneurship",
+            "clue": "Entrepreneur on the inside"
+        },
+        "zh": {
+            "header": "我们在公司内部称之为企业项目管理？",
+            "explanation": "输入你的答案。",
+            "klf": "为了调和工资和创业的愿望，你可以转向内部预算。它涉及在公司内部启动项目（通常是社交项目），并在后者的支持下。这为您提供了更多的自主权和责任感。",
+            "tips": "该术语是由美国政治家吉福德平肖（Gifford Pinchot）于1976年创造的。",
+            "clue": "内部的企业家",
+            "choice_E1wleAk3x": "intrapreuneurship",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-02T14:08:38.724Z",
+            "updatedAt": "2018-06-21T08:19:19.462Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ1STuNc4"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4yfGHnfaV",
+        "universalRef": "sli_4yfGHnfaV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yfGHnfaV.choice_4kguBS2zpV.id",
+                        "label": "choice_4kguBS2zpV",
+                        "value": "choice_4kguBS2zpV",
+                        "media": "med_VJ-Hr3MaV"
+                    },
+                    {
+                        "id": "sli_4yfGHnfaV.choice_41gIIBhG6N.id",
+                        "label": "choice_41gIIBhG6N",
+                        "value": "choice_41gIIBhG6N",
+                        "media": "med_VyUUHhz6N"
+                    },
+                    {
+                        "id": "sli_4yfGHnfaV.choice_4ygZDSnGaN.id",
+                        "label": "choice_4ygZDSnGaN",
+                        "value": "choice_4ygZDSnGaN",
+                        "media": "med_4k~vH3zTE"
+                    },
+                    {
+                        "id": "sli_4yfGHnfaV.choice_N1gUuHnGpV.id",
+                        "label": "choice_N1gUuHnGpV",
+                        "value": "choice_N1gUuHnGpV",
+                        "media": "med_EkLdB3zT4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4ygZDSnGaN"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Lorsque nous détectons un voleur d’attention en action, quel type d’exercices pouvons-nous pratiquer pour revenir au présent ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour se réapproprier l’instant présent, il est conseillé d'élargir sa perception visuelle tout en se percevant dans l’espace.",
+            "tips": "Utiliser le mouvement nous permet de redistribuer l'énergie dans notre corps et de gagner ainsi en efficience. En changeant de posture, s'étirant ou pratiquant une activité sportive, nous nous libérons d'un trop-plein de tensions et recouvrons un état interne plus calme.",
+            "clue": "Redécouvrir son environnement.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kguBS2zpV": "Regarder ce qui est agréable à la vue",
+            "choice_41gIIBhG6N": "Se concentrer sur une idée fixe",
+            "choice_4ygZDSnGaN": "Élargir son regard à 180°  ",
+            "choice_N1gUuHnGpV": "Rester en alerte "
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "When you realise you’ve been distracted by an attention thief, which type of exercise can help you refocus on the present moment in time? ",
+            "klf": "When you want to refocus on the present, try widening your scope of vision and concentrating on your position in the space that surrounds you.",
+            "tips": "Movement can be used to redistribute energy in your body and make you more efficient. When you change your posture, stretch or do sport, you release excess tension and rediscover your inner calm.",
+            "clue": "Rediscovering your surroundings.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kguBS2zpV": "Watching something pleasant on the eye",
+            "choice_41gIIBhG6N": "Concentrating on a set idea",
+            "choice_4ygZDSnGaN": "Widening your field of vision to 180°  ",
+            "choice_N1gUuHnGpV": "Staying alert "
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:20:51.558Z",
+            "updatedAt": "2018-10-08T15:14:57.901Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkcHTuGBB",
+        "universalRef": "sli_NkcHTuGBB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel14671",
+                        "items": [
+                            {
+                                "text": "choice_VkeNoauGrH",
+                                "value": "choice_VkeNoauGrH"
+                            },
+                            {
+                                "text": "choice_4yWVjp-MrH",
+                                "value": "choice_4yWVjp-MrH"
+                            },
+                            {
+                                "text": "choice_NkT3T-fHB",
+                                "value": "choice_NkT3T-fHB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel14671",
+                        "answers": [
+                            "choice_VkeNoauGrH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment obtenir une information automatique et régulière à partir d’un site web spécifique ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "S’abonner au flux RSS d’un site permet d’en obtenir le nouveau contenu au fur et à mesure qu’il est publié. Cela permet une économie considérable de temps puisque le processus est automatisé, et la veille est régulière.",
+            "tips": "Les abonnements aux flux RSS sont anonymes, ce qui permet de ne pas recevoir de spams, mais seulement les mises à jour. Ainsi, on ne mélange pas cette veille avec ses mails et on peut se désabonner facilement.",
+            "clue": "Really Simple Syndication.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous pouvez suivre efficacement l'information d'un site web au fil de l'eau en {{sel14671}}.",
+            "choice_VkeNoauGrH": "vous abonnant à son fil rss",
+            "choice_4yWVjp-MrH": "le consultant plusieurs fois",
+            "choice_NkT3T-fHB": "le mettant en favori"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "How can you get regular, automated information from a specific website?",
+            "klf": "When you sign up to a site’s RSS web feed, you’ll automatically receive new content as and when it’s published. The process is automated and the monitoring is regular, so you can save considerable amounts of time.",
+            "tips": "RSS web feed subscriptions are anonymous, so you won’t receive any spam, just the updates you need. Because of this, the monitoring feed doesn’t get muddled up with your regular emails and it’s easy to unsubscribe.",
+            "clue": "Really Simple Syndication.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The most efficient way of getting the latest information on a website is by {{sel14671}}.",
+            "choice_VkeNoauGrH": "subscribing to its RSS feed",
+            "choice_4yWVjp-MrH": "checking it on a number of occasions ",
+            "choice_NkT3T-fHB": "adding it to your favourites"
+        }
+    }
+}

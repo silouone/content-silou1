@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T15:01:33.733Z",
+            "updatedAt": "2018-10-08T15:22:17.408Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJjN7jGHr",
+        "universalRef": "sli_VJjN7jGHr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJjN7jGHr.choice_Ekjoxr1DH.id",
+                        "label": "choice_Ekjoxr1DH",
+                        "value": "choice_Ekjoxr1DH"
+                    },
+                    {
+                        "id": "sli_VJjN7jGHr.choice_NkX2lSJDS.id",
+                        "label": "choice_NkX2lSJDS",
+                        "value": "choice_NkX2lSJDS"
+                    },
+                    {
+                        "id": "sli_VJjN7jGHr.choice_4JhhlH1vB.id",
+                        "label": "choice_4JhhlH1vB",
+                        "value": "choice_4JhhlH1vB"
+                    },
+                    {
+                        "id": "sli_VJjN7jGHr.choice_VyV6eBJwr.id",
+                        "label": "choice_VyV6eBJwr",
+                        "value": "choice_VyV6eBJwr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyV6eBJwr",
+                        "choice_Ekjoxr1DH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment limiter votre consommation des outils digitaux ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour être plus efficace dans vos usages et mieux gérer votre temps, donnez-vous une durée limitée pour la consommation de vos différents outils. Ce laps de temps doit toujours être corrélé aux objectifs que vous avez définis.",
+            "tips": "La technique Pomodoro est une technique pour gérer son temps de façon plus organisée. Elle propose de découper la journée en séquence de travail de 25 mn pour rester concentré et efficace pour chaque tâche.",
+            "clue": "Un temps pour chaque chose.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekjoxr1DH": "Accorder vos usages des outils digitaux avec vos objectifs réels",
+            "choice_NkX2lSJDS": "N'utiliser qu'un outil digital par jour",
+            "choice_4JhhlH1vB": "Passer du tout au rien : des cures de désintoxication digitale de plusieurs jours, régulièrement",
+            "choice_VyV6eBJwr": "Se donner un temps limité pour utiliser les outils digitaux"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "How can you limit your use of digital tools?",
+            "klf": "If you want to use digital tools in a more efficient way and also manage your time better, you should give yourself a set amount of time for using all your tools. This timeframe should always be in line with your objectives.",
+            "tips": "The Pomodoro technique is a method for managing your time in a more organised way. It suggests dividing your workday into 25-minute intervals so you stay focused and efficient in each task you do.",
+            "clue": "There’s a time for everything.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekjoxr1DH": "By making sure your use of digital tools is in line with your set objectives",
+            "choice_NkX2lSJDS": "By only using one digital tool each day",
+            "choice_4JhhlH1vB": "By going from all to nothing: having regular digital detox sessions for several days at a time",
+            "choice_VyV6eBJwr": "By giving yourself a limited time frame for using digital tools"
+        }
+    }
+}

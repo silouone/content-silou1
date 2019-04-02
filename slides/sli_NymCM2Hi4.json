@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T14:11:40.905Z",
+            "updatedAt": "2018-06-22T09:03:10.263Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NymCM2Hi4",
+        "universalRef": "sli_NymCM2Hi4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_NymCM2Hi4.choice_NytIX3SoN.id",
+                        "label": "choice_NytIX3SoN",
+                        "value": "choice_NytIX3SoN"
+                    },
+                    {
+                        "id": "sli_NymCM2Hi4.choice_411P7hSiE.id",
+                        "label": "choice_411P7hSiE",
+                        "value": "choice_411P7hSiE"
+                    },
+                    {
+                        "id": "sli_NymCM2Hi4.choice_VyEvXhBiN.id",
+                        "label": "choice_VyEvXhBiN",
+                        "value": "choice_VyEvXhBiN"
+                    },
+                    {
+                        "id": "sli_NymCM2Hi4.choice_4JEx4nBo4.id",
+                        "label": "choice_4JEx4nBo4",
+                        "value": "choice_4JEx4nBo4"
+                    },
+                    {
+                        "id": "sli_NymCM2Hi4.choice_4kdzVhHsV.id",
+                        "label": "choice_4kdzVhHsV",
+                        "value": "choice_4kdzVhHsV"
+                    },
+                    {
+                        "id": "sli_NymCM2Hi4.choice_EkEj42HjN.id",
+                        "label": "choice_EkEj42HjN",
+                        "value": "choice_EkEj42HjN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NytIX3SoN",
+                        "choice_VyEvXhBiN",
+                        "choice_4JEx4nBo4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les étapes pour réussir une carte mentale ? Sélectionnez-les dans l'ordre.",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "Pour réussir vos cartes mentales, suivez la recette suivante : premièrement, réalisez une bulle au centre de votre feuille et notez-y la thématique de la carte. Générez ensuite un maximum d’idées. Enfin, sélectionnez les idées en fonction de vos différentes contraintes.",
+            "tips": "Avec le mind mapping, la solution apparaît souvent par émergence. Certains personnes appellent la mind map carte heuristique. Le mot heuristique vient du grec <i>Eurisko</i> : je trouve. C’est le fameux « Euréka ! » d’Archimède dans sa baignoire.",
+            "clue": "Penser au brainstorming vous aiguillera.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NytIX3SoN": "Démarrer au centre avec votre thématique",
+            "choice_411P7hSiE": "Procrastiner",
+            "choice_VyEvXhBiN": "Générer un maximum d'idées",
+            "choice_4JEx4nBo4": "Sélectionner les idées",
+            "choice_4kdzVhHsV": "Travailler en équipe",
+            "choice_EkEj42HjN": "Pratiquer la méditation"
+        },
+        "en": {
+            "explanation": "Put the following answers in order.",
+            "header": "What steps are involved in making a mind map? Put them in order.",
+            "klf": "To create an effective mind map, follow these steps. First, draw a circle in the centre of your page and write the map’s theme in it. Then think of as many ideas as you can. Finally, decide which ideas fit within your project’s limitations.",
+            "tips": "When you mind map, solutions often emerge out of a whole variety of ideas. Some people have described mind maps as “heuristic” tools. The word heuristic comes from the Greek for “I find”, “<i>eurisko</i>”, hence Archimedes’ famous cry of “eureka” as he jumped out of the bath.",
+            "clue": "Start by thinking about brainstorming.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NytIX3SoN": "Start at the centre with your theme",
+            "choice_411P7hSiE": "Procrastinate",
+            "choice_VyEvXhBiN": "Generate as many ideas as you can",
+            "choice_4JEx4nBo4": "Select ideas",
+            "choice_4kdzVhHsV": "Work as a team",
+            "choice_EkEj42HjN": "Meditate"
+        }
+    }
+}

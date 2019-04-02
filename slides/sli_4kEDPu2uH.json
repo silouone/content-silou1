@@ -1,0 +1,91 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T11:46:26.577Z",
+            "updatedAt": "2018-10-17T11:50:01.784Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyL0KKq4S"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kEDPu2uH",
+        "universalRef": "sli_4kEDPu2uH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kEDPu2uH.choice_V1ZqwdnOS.id",
+                        "label": "choice_V1ZqwdnOS",
+                        "value": "choice_V1ZqwdnOS"
+                    },
+                    {
+                        "id": "sli_4kEDPu2uH.choice_E1SqwO3ur.id",
+                        "label": "choice_E1SqwO3ur",
+                        "value": "choice_E1SqwO3ur"
+                    },
+                    {
+                        "id": "sli_4kEDPu2uH.choice_E1Qsv-3uB.id",
+                        "label": "choice_E1Qsv-3uB",
+                        "value": "choice_E1Qsv-3uB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1ZqwdnOS",
+                        "choice_E1SqwO3ur",
+                        "choice_E1Qsv-3uB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les objectifs de l’usage des personas par une entreprise ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le persona doit être au cœur de la stratégie d'inbound marketing. Sans cet « outil », on risque de produire des contenus qui n’attireront pas les bonnes cibles. Le contenu sert d’une part à se rendre visible sur les canaux digitaux et d’autre part à générer des leads qui alimentent le tunnel de conversion. Plus la visibilité est importante, plus l’avantage concurrentiel est fort.",
+            "tips": "Les modes de production de contenu doivent prendre en compte l’ergonomie (simples à lire sur ordinateur et sur mobile), le référencement naturel ainsi que les médias sociaux afin de favoriser les partages et commentaires.",
+            "clue": "Ce que l’on cherche ici est bien à mettre le client au centre et générer du chiffre d’affaires.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1ZqwdnOS": "Orienter la production de contenus pour répondre précisément aux besoins",
+            "choice_E1SqwO3ur": "Attirer ses cibles",
+            "choice_NkejP-hdH": "Effectuer un benchmark de ses principaux concurrents",
+            "choice_E1Qsv-3uB": "Convaincre ses cibles de choisir son offre plutôt que celle de ses concurrents",
+            "choice_41dsvu2uH": "Obtenir plus de visibilité sur les moteurs de recherche"
+        },
+        "en": {
+            "header": "Saurez-vous identifier les objectifs de l’usage des personas par une entreprise ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le persona doit être au cœur de la stratégie dinbound marketing. Sans cet « outil », on risque de produire des contenus qui n’attireront pas les bonnes cibles. Le contenu sert d’une part à se rendre visible sur les canaux digitaux et d’autre part à générer des leads qui alimentent le tunnel de conversion. Plus la visibilité est importante, plus l’avantage concurrentiel est fort.",
+            "tips": "Les modes de production de contenu doivent prendre en compte l’ergonomie (simples à lire sur ordinateur et sur mobile), le référencement naturel ainsi que les médias sociaux afin de favoriser les partages et commentaires.",
+            "clue": "Ce que l’on cherche ici est bien à mettre le client au centre et générer du chiffre d’affaires.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1ZqwdnOS": "",
+            "choice_E1SqwO3ur": "",
+            "choice_NkejP-hdH": "",
+            "choice_E1Qsv-3uB": "",
+            "choice_41dsvu2uH": ""
+        }
+    }
+}

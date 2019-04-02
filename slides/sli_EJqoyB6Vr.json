@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T12:56:11.081Z",
+            "updatedAt": "2018-10-08T14:48:53.328Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJqoyB6Vr",
+        "universalRef": "sli_EJqoyB6Vr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJqoyB6Vr.choice_EyRyxrp4S.id",
+                        "label": "choice_EyRyxrp4S",
+                        "value": "choice_EyRyxrp4S"
+                    },
+                    {
+                        "id": "sli_EJqoyB6Vr.choice_N17lgHaNB.id",
+                        "label": "choice_N17lgHaNB",
+                        "value": "choice_N17lgHaNB"
+                    },
+                    {
+                        "id": "sli_EJqoyB6Vr.choice_VyN~gBpES.id",
+                        "label": "choice_VyN~gBpES",
+                        "value": "choice_VyN~gBpES"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyRyxrp4S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est l’origine du Kanban ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Créée par Taiichi Ohno pour Toyota dans les années 50, la méthodologie Kanban a pour objectif de produire juste ce dont on a besoin et de le faire juste à temps. Le Kanban en tant qu’outil de gestion du temps vise à permettre de s’organiser visuellement pour ne pas perdre en efficacité au travail.",
+            "tips": "Lors de son séjour chez Ford et General Motors, Taiichi Ohno a été impressionné par la productivité des ouvriers américains, 9 fois supérieure à celle des ouvriers japonais. Or, si les Américains, à cause de la taille de leur marché, pouvaient produire de grandes quantités pour abaisser les coûts, les Japonais ne le pouvaient pas en raison de la taille limitée de leur marché. En répondant à ce défi, Taiichi Ohno invente la méthodologie Kanban qui sera adoptée aux US et en Europe après la crise pétrolière des années 70.",
+            "clue": "Orient.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyRyxrp4S": "La méthode d'organisation japonaise de Toyota",
+            "choice_N17lgHaNB": "La méthode d'organisation américaine de Ford",
+            "choice_VyN~gBpES": "La méthode d'organisation française de Renault"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "What are the origins of the Kanban system?",
+            "klf": "The Kanban system was created by Taiichi Ohno for Toyota in the 1950s. The method was developed so that factories would produce just what is needed, “Just In Time”. When used as a time management tool, Kanban helps you organise your work visually so you’re more efficient and effective.",
+            "tips": "Taiichi Ohno visited Ford and General Motors in the US and was impressed by the fact that American workers were 9 times more productive than Japanese workers. However, the American market was much bigger, so US car manufacturers could keep costs low by producing large quantities. It was impossible to do the same in Japan due to the limited size of the market. Taiichi Ohno invented the Kanban method in response to this dilemma. It was then adopted in the US and Europe following the 1970s oil crisis.",
+            "clue": "The Orient.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyRyxrp4S": "It was an organisation method first used by Toyota in Japan",
+            "choice_N17lgHaNB": "It was an organisation method first used by Ford in the US",
+            "choice_VyN~gBpES": "It was an organisation method first used by Renault in France"
+        }
+    }
+}

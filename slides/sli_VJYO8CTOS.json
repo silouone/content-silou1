@@ -1,0 +1,76 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T12:44:50.487Z",
+            "updatedAt": "2018-10-17T12:05:35.519Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NykE9YqES"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJYO8CTOS",
+        "universalRef": "sli_VJYO8CTOS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_VJYO8CTOS.field_Ey1FI0pdr.id",
+                        "type": "text",
+                        "name": "inp92699"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp92699",
+                        "answers": [
+                            "choice_EyG1tI0aOr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'objectif principal de la démarche CRO ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L'optimisation du taux de conversion est le processus d'optimisation de votre site pour augmenter la probabilité que les visiteurs effectuent des actions spécifiques et souhaitées.",
+            "tips": "Les entreprises doivent se concentrer sur huit domaines précieux pour optimiser le taux de conversion : Tests A/B et multivariés, approche ergonomique structurée, analyse du parcours client, optimisation des call-to-action, sondages en ligne / commentaires des clients, analyse d'abandon de panier ou de formulaire, et enfin segmentation.",
+            "clue": "Générer de l’audience pour le simple fait de générer de l’audience ne suffit pas.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La démarche CRO, pour Conversion Rate Optimization, consiste à transformer les visiteurs de son site Web ou de son appli en {{inp92699}}.",
+            "choice_EyG1tI0aOr": "leads"
+        },
+        "en": {
+            "header": "Quel est lobjectif principal de la démarche CRO ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Loptimisation du taux de conversion est le processus doptimisation de votre site pour augmenter la probabilité que les visiteurs effectuent des actions spécifiques et souhaitées.",
+            "tips": "Les entreprises doivent se concentrer sur huit domaines précieux pour optimiser le taux de conversion : Tests A/B et multivariés, approche ergonomique structurée, analyse du parcours client, optimisation des call-to-action, sondages en ligne / commentaires des clients, analyse dabandon de panier ou de formulaire, et enfin segmentation.",
+            "clue": "Générer de l’audience pour le simple fait de générer de l’audience ne suffit pas.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La démarche CRO, pour Conversion Rate Optimization, consiste à transformer les visiteurs de son site Web ou de son appli en {{inp92699}}.",
+            "choice_EyG1tI0aOr": "leads"
+        }
+    }
+}

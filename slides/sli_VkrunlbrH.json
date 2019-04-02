@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T08:58:07.249Z",
+            "updatedAt": "2018-10-08T15:05:47.258Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkrunlbrH",
+        "universalRef": "sli_VkrunlbrH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkrunlbrH.choice_NJlq3lZBB.id",
+                        "label": "choice_NJlq3lZBB",
+                        "value": "choice_NJlq3lZBB"
+                    },
+                    {
+                        "id": "sli_VkrunlbrH.choice_NJ-52x~rr.id",
+                        "label": "choice_NJ-52x~rr",
+                        "value": "choice_NJ-52x~rr"
+                    },
+                    {
+                        "id": "sli_VkrunlbrH.choice_4Jhi2eWBH.id",
+                        "label": "choice_4Jhi2eWBH",
+                        "value": "choice_4Jhi2eWBH"
+                    },
+                    {
+                        "id": "sli_VkrunlbrH.choice_Nkx22x~Sr.id",
+                        "label": "choice_Nkx22x~Sr",
+                        "value": "choice_Nkx22x~Sr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nkx22x~Sr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel outil peut permettre d’animer une réunion collaborative ? ",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Rédigé en séance, un compte rendu collaboratif est un bon moyen de rendre la réunion plus engageante. Vous pouvez par exemple projeter l’ordre du jour de la réunion avec un logiciel de mind mapping et noter directement les échanges des participants dans la carte.",
+            "tips": "Les techniques traditionnellement les plus utilisées en réunion sont l'exposé, le tour de table et la question à la cantonade. Or, l'aisance à prendre la parole en groupe n'est pas la même pour tous. Résultat : un petit nombre de personnes participe activement aux échanges. Les autres écoutent en silence et font autre chose s'ils ne se sentent pas concernés.",
+            "clue": "Tony Buzan.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJlq3lZBB": "PowerPoint",
+            "choice_NJ-52x~rr": "Prezi",
+            "choice_4Jhi2eWBH": "Trello",
+            "choice_Nkx22x~Sr": "Une mind map"
+        },
+        "en": {
+            "explanation": "Select the correct answer below.",
+            "header": "Which of the following tools can be used to bring a bit of energy to a team meeting? ",
+            "klf": "Collaborative minutes taken within a meeting itself are a good way of making a session more engaging. You can plan the meeting’s agenda using mind mapping software then note the discussion that takes place on the map during the meeting itself.",
+            "tips": "The most popular techniques used in meetings include participant reports, round table contributions and open discussions. However, not everyone finds it easy to speak in a group. So, in the end, just a small number of people participate actively in discussions. Others listen in silence and do something else if they don’t feel they’re being involved.",
+            "clue": "Tony Buzan.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJlq3lZBB": "PowerPoint",
+            "choice_NJ-52x~rr": "Prezi",
+            "choice_4Jhi2eWBH": "Trello",
+            "choice_Nkx22x~Sr": "A mind map"
+        }
+    }
+}

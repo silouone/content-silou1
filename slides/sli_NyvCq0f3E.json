@@ -1,0 +1,75 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-20T13:33:50.812Z",
+            "updatedAt": "2018-06-21T09:10:08.828Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ysIaOVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NyvCq0f3E",
+        "universalRef": "sli_NyvCq0f3E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_NyvCq0f3E.id",
+                "min": 0,
+                "max": 10,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Combien de temps nécessite la technique du relax flash ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Le \"relax flash\" permet de détendre ses tensions en sept secondes, dans toute situation. Prenez conscience de votre état de tension en une seconde, prenez une inspiration profonde en quatre secondes, puis faites un parcours rapide de détente en deux secondes.",
+            "tips": "Cette détente rapide de toutes ses tensions s’accompagne d’une respiration ample et repose l'organisme au même titre qu'une micro-sieste.",
+            "clue": "L'âge de raison.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "secondes",
+            "description": "7",
+            "answerMin": 7,
+            "answerMax": 7
+        },
+        "en": {
+            "explanation": "Move the cursor.",
+            "header": "How much time do you need to do a quick relaxation exercise at work?",
+            "klf": "Our quick relaxation exercise helps you release all the tension in your body in just seven seconds. And you can do it wherever you are. For the first second, you should work out where you have tension. Then, take a deep breath in for four seconds, and in the final two seconds, run through your step-by-step relaxation process.",
+            "tips": "By quickly relaxing all your tension and breathing deeply at the same time, your body gets as much rest as it would during a power-nap.",
+            "clue": "The age of reason.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": "seconds",
+            "description": "7",
+            "answerMin": 7,
+            "answerMax": 7
+        }
+    }
+}

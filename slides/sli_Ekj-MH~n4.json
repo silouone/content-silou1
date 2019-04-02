@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:32:15.025Z",
+            "updatedAt": "2018-06-21T08:11:13.260Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ekj-MH~n4",
+        "universalRef": "sli_Ekj-MH~n4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ekj-MH~n4.choice_N1cDVCc3N.id",
+                        "label": "choice_N1cDVCc3N",
+                        "value": "choice_N1cDVCc3N"
+                    },
+                    {
+                        "id": "sli_Ekj-MH~n4.choice_EJfFNRqhE.id",
+                        "label": "choice_EJfFNRqhE",
+                        "value": "choice_EJfFNRqhE"
+                    },
+                    {
+                        "id": "sli_Ekj-MH~n4.choice_Nyw5NA9hV.id",
+                        "label": "choice_Nyw5NA9hV",
+                        "value": "choice_Nyw5NA9hV"
+                    },
+                    {
+                        "id": "sli_Ekj-MH~n4.choice_41snE092V.id",
+                        "label": "choice_41snE092V",
+                        "value": "choice_41snE092V"
+                    },
+                    {
+                        "id": "sli_Ekj-MH~n4.choice_VyZ1rA52N.id",
+                        "label": "choice_VyZ1rA52N",
+                        "value": "choice_VyZ1rA52N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1cDVCc3N",
+                        "choice_EJfFNRqhE",
+                        "choice_VyZ1rA52N"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Parmi les propositions ci-dessous, quelles sont les techniques et les moments propices à l'entraînement à la pleine conscience au travail ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La présence à soi-même peut être pratiquée tous les jours, et à plusieurs reprises ! Au besoin, vous pouvez tout à fait vous aider de rappels, comme un post-it ou une alerte électronique. L'idée est de vivre le moment en présence attentive sans pour autant modifier le cours des actions programmées durant votre journée.",
+            "tips": "Contrairement à ce qu'on pourrait penser, l'usage de la technologie, comme une alerte sur smartphone ou rappel dans Google Agenda, n'est pas incompatible avec la pratique de la pleine conscience. Il existe d'ailleurs une multitude d'applications qui permettent de pratiquer la pleine conscience à l'aide de son téléphone, par exemple. Il faut savoir vivre avec son temps, mais sereinement !",
+            "clue": "Une pomme par jour éloigne le médecin... mais n'apporte pas nécessairement la sérénité.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1cDVCc3N": "Coller un post-it \"être présent\" sur son bureau",
+            "choice_EJfFNRqhE": "Créer un rappel \"pleine conscience\" dans son agenda électronique",
+            "choice_Nyw5NA9hV": "Manger 5 fruits et légumes par jour",
+            "choice_41snE092V": "Annuler une réunion ennuyeuse ",
+            "choice_VyZ1rA52N": "Respirer profondément en s'étirant avant de lire ses mails"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "Which of the following activities or techniques can help you practise mindfulness at work?",
+            "klf": "You can practise living in the present at several different times each day! If you need to, use post-it notes as reminders or create alerts on your phone or computer. The aim is to be mindful and live in the moment without actually changing any of your planned activities.",
+            "tips": "Contrary to what you may think, using technology to create alerts on your smartphone or Google Agenda, for example, is not incompatible with the practice of mindfulness. In fact, there are tons of apps you can download to your phone or computer that make it easy to practise mindfulness. You have to live with the time you have, but it’s best to do so in a calm and tranquil way!",
+            "clue": "An apple a day keeps the doctor away… but doesn’t necessarily bring you tranquillity.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1cDVCc3N": "Sticking a post-it note on your desk that says: “be present” ",
+            "choice_EJfFNRqhE": "Creating a “mindfulness” alert on your computer",
+            "choice_Nyw5NA9hV": "Eating 5 portions of fruit and veg every day",
+            "choice_41snE092V": "Cancelling a boring meeting ",
+            "choice_VyZ1rA52N": "Taking a deep breath in and stretching before you read your emails"
+        }
+    }
+}

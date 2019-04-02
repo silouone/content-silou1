@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:23:05.174Z",
+            "updatedAt": "2017-12-01T11:04:25.639Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yHV-8Cje"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJZfl2Q2e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel80485",
+                        "label": "label_Ekrcl3Q2x",
+                        "items": [
+                            {
+                                "text": "choice_EJgBcg3Xhe",
+                                "value": "choice_EJgBcg3Xhe"
+                            },
+                            {
+                                "text": "choice_4yWS9lhX2g",
+                                "value": "choice_4yWS9lhX2g"
+                            },
+                            {
+                                "text": "choice_Vyvqen7ne",
+                                "value": "choice_Vyvqen7ne"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel80485",
+                        "answers": [
+                            "choice_4yWS9lhX2g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EJZfl2Q2e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Depuis quand voit-on se multiplier les réseaux professionnels féminins ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le nombre de réseaux féminins a explosé depuis les années 1990-2000. Plus que de simples lieux de solidarité comme les premiers, ils ont vocation à aider les femmes à “booster” leur carrière.",
+            "tips": "Pour Clarisse Reille, présidente du réseau Grandes Écoles au féminin, cette multiplication “répond à un besoin réel de prendre la parole”.",
+            "template": "{{sel80485}}",
+            "clue": "La décennie des Spice Girls.",
+            "label_Ekrcl3Q2x": " ",
+            "choice_EJgBcg3Xhe": "1970-1980",
+            "choice_4yWS9lhX2g": "1990-2000",
+            "choice_Vyvqen7ne": "2000-2010"
+        },
+        "en": {
+            "header": "Since when do we see the proliferation of women's professional networks?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The number of women's networks has exploded since 1990-2000. More than just places of solidarity like the first, they are designed to help women \"boost\" their careers.",
+            "tips": "For Clarisse Reille, president of the network Grandes Ecoles for women, this multiplication \"responds to a real need to speak\".",
+            "clue": "The decade of the Spice Girls.",
+            "template": "{{sel80485}}",
+            "label_Ekrcl3Q2x": " ",
+            "choice_EJgBcg3Xhe": "1970-1980",
+            "choice_4yWS9lhX2g": "1990-2000",
+            "choice_Vyvqen7ne": "2000-2010"
+        },
+        "de": {
+            "header": "Wann fingen die beruflichen Netzwerke für Frauen an zu wachsen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Die Zahl der Frauennetzwerke ist seit den Jahren 1990-2000 explodiert. Sie sind mehr als nur Orte der Solidarität wie die früheren Netzwerke. Sie sollen Frauen dabei helfen, ihre Karriere zu \"steigern\".",
+            "tips": "Für Clarisse Reille, Netzwerkpräsidentin von Large Schools au féminin, trifft diese Verbreitung \"auf ein echtes Bedürfnis, sich zu äußern\".",
+            "clue": "Das Spice Girls-Jahrzehnt.",
+            "template": "{{sel80485}}",
+            "label_Ekrcl3Q2x": " ",
+            "choice_EJgBcg3Xhe": "1970-1980",
+            "choice_4yWS9lhX2g": "1990-2000",
+            "choice_Vyvqen7ne": "2000-2010"
+        },
+        "es": {
+            "header": "When did professional networks for women start to increase?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The number of women's networks has exploded since the years 1990-2000. More than just places of solidarity like the earlier networks, they are intended to help women to \"boost\" their careers.",
+            "tips": "For Clarisse Reille, network President at Large Schools au féminin, this proliferation \"meets a real need to speak up.\"",
+            "template": "{{sel80485}}",
+            "label_Ekrcl3Q2x": " ",
+            "choice_EJgBcg3Xhe": "1970-1980",
+            "choice_4yWS9lhX2g": "1990-2000",
+            "choice_Vyvqen7ne": "2000-2010",
+            "clue": "The Spice Girls decade."
+        },
+        "zh": {
+            "header": "什么时候专业女性网络开始增加？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "自1990  -  2000年以来，妇女网络的数量激增。它们不仅仅是像早期网络一样的团结场所，它们旨在帮助女性“提升”自己的职业生涯。",
+            "tips": "对于大学校的网络总裁Clarisse Reille来说，这种扩散“满足了真正需要说出来”。",
+            "clue": "辣妹十年。",
+            "template": "{{sel80485}}",
+            "label_Ekrcl3Q2x": " ",
+            "choice_EJgBcg3Xhe": "1970-1980",
+            "choice_4yWS9lhX2g": "1990-2000",
+            "choice_Vyvqen7ne": "2000-2010"
+        }
+    }
+}

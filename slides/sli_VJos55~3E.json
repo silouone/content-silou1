@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T14:47:49.327Z",
+            "updatedAt": "2018-06-21T08:24:32.681Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kqBaO4qV"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJos55~3E",
+        "universalRef": "sli_VJos55~3E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJos55~3E.choice_Vy1rY6ip4.id",
+                        "label": "choice_Vy1rY6ip4",
+                        "value": "choice_Vy1rY6ip4"
+                    },
+                    {
+                        "id": "sli_VJos55~3E.choice_N18UF6ia4.id",
+                        "label": "choice_N18UF6ia4",
+                        "value": "choice_N18UF6ia4"
+                    },
+                    {
+                        "id": "sli_VJos55~3E.choice_N1~PKTiTN.id",
+                        "label": "choice_N1~PKTiTN",
+                        "value": "choice_N1~PKTiTN"
+                    },
+                    {
+                        "id": "sli_VJos55~3E.choice_4y3wKpsaV.id",
+                        "label": "choice_4y3wKpsaV",
+                        "value": "choice_4y3wKpsaV"
+                    },
+                    {
+                        "id": "sli_VJos55~3E.choice_E15uYTjT4.id",
+                        "label": "choice_E15uYTjT4",
+                        "value": "choice_E15uYTjT4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vy1rY6ip4",
+                        "choice_N1~PKTiTN",
+                        "choice_4y3wKpsaV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment aligner nos émotions, nos idées et nos actes et ainsi diminuer notre stress ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La présence attentive permet de \"réaligner nos planètes intérieures\" en prenant le temps d'écouter nos ressentis internes, nos contradictions et nos moments d'harmonie pour un plus grand bien-être personnel et professionnel.",
+            "tips": "Le bien-être au travail est un facteur important de la performance et de l'efficacité professionnelle. Selon une étude réalisée par les économistes de l’Université de Warwick en 2014, les salariés heureux sont 12% plus productifs. Les salariés malheureux, eux, sont 10% moins productifs.",
+            "clue": "Écoute et harmonie.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vy1rY6ip4": "En s'attardant sur nos états internes",
+            "choice_N18UF6ia4": "En se renseignant sur l'astrologie",
+            "choice_N1~PKTiTN": "En comprenant nos contradictions ",
+            "choice_4y3wKpsaV": "En repérant nos moments d'harmonie",
+            "choice_E15uYTjT4": "En s'inscrivant à un cours de tai chi"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "How do you align your emotions, ideas and actions to reduce stress?",
+            "klf": "Mindfulness helps you “realign your inner planets” because you take time to listen to your inner feelings, internal conflict and moments of balance. This will lead to an improvement in your personal and professional well-being.",
+            "tips": "Well-being at work is an important factor when it comes to performance levels and efficiency. In 2014, a study was carried out by economists at the University of Warwick. It claimed that happy employees are 12% more productive. Unhappy staff are 10% less productive.",
+            "clue": "Listening and balance.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vy1rY6ip4": "By focusing on your inner being",
+            "choice_N18UF6ia4": "By reading up on astrology",
+            "choice_N1~PKTiTN": "By understanding internal conflict ",
+            "choice_4y3wKpsaV": "By recognising moments of harmony",
+            "choice_E15uYTjT4": "By signing up to tai chi classes"
+        }
+    }
+}

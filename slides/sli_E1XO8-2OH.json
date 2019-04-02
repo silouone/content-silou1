@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T11:43:41.015Z",
+            "updatedAt": "2018-10-17T11:43:24.683Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyL0KKq4S"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1XO8-2OH",
+        "universalRef": "sli_E1XO8-2OH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel48857",
+                        "items": [
+                            {
+                                "text": "choice_EklrbkqBFH",
+                                "value": "choice_EklrbkqBFH"
+                            },
+                            {
+                                "text": "choice_Ny~BWJqSFr",
+                                "value": "choice_Ny~BWJqSFr"
+                            },
+                            {
+                                "text": "choice_4kl7J9HtS",
+                                "value": "choice_4kl7J9HtS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel48857",
+                        "answers": [
+                            "choice_EklrbkqBFH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Complétez la phrase suivante.",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le fait de connaître précisément les centres d’intérêts de ses cibles ainsi que leurs comportements de recherche sur Internet permet de leur proposer des contenus qui répondront parfaitement à leurs attentes.",
+            "tips": "La méthode « persona » peut-être également utilisée pour la conception et l'amélioration de l'ergonomie de sites Web ou l'ergonomie des produits de haute technologie, la stratégie de promotion, la création ou la sélection de circuits de distribution vers les consommateurs.",
+            "clue": "Il est question d’intéresser.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une stratégie marketing efficace requiert qu'on connaisse non seulement les comportements de recherche de ses cibles, mais aussi {{sel48857}}.",
+            "choice_EklrbkqBFH": "leurs centres d'intérêt",
+            "choice_Ny~BWJqSFr": "leur adresse",
+            "choice_4kl7J9HtS": "la marque de leur téléphone"
+        },
+        "en": {
+            "header": "Complétez la phrase suivante.",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le fait de connaître précisément les centres d’intérêts de ses cibles ainsi que leurs comportements de recherche sur Internet permet de leur proposer des contenus qui répondront parfaitement à leurs attentes.",
+            "tips": "La méthode « persona » peut-être également utilisée pour la conception et lamélioration de lergonomie de sites Web ou lergonomie des produits de haute technologie, la stratégie de promotion, la création ou la sélection de circuits de distribution vers les consommateurs.",
+            "clue": "Il est question d’intéresser.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une stratégie marketing efficace requiert quon connaisse non seulement les comportements de recherche de ses cibles, mais aussi {{sel48857}}.",
+            "choice_EklrbkqBFH": "leurs centres dintérêt",
+            "choice_Ny~BWJqSFr": "leur adresse",
+            "choice_4kl7J9HtS": "la marque de leur téléphone"
+        }
+    }
+}

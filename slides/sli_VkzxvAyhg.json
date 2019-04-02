@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-02T13:19:02.651Z",
+            "updatedAt": "2016-09-06T09:30:49.073Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek-h-80sl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VkzxvAyhg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel81084",
+                        "label": "label_V1rLvRJnx",
+                        "items": [
+                            {
+                                "text": "choice_E1xSIwCJ3x",
+                                "value": "choice_E1xSIwCJ3x"
+                            },
+                            {
+                                "text": "choice_VJ~rLv0Jhg",
+                                "value": "choice_VJ~rLv0Jhg"
+                            },
+                            {
+                                "text": "choice_V1wIw0knl",
+                                "value": "choice_V1wIw0knl"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel81084",
+                        "answers": [
+                            "choice_VJ~rLv0Jhg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VkzxvAyhg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la part des responsabilités parentales assumées par les femmes en France en 2015 ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En France, les femmes assument 65% des responsabilités parentales, selon une étude de l'Insee en 2015.",
+            "tips": "Les seules activités parentales partagées à parité entre pères et mères sont les activités de jeux et de socialisation.",
+            "template": "{{sel81084}}",
+            "clue": "Comme l'âge de la retraite…",
+            "label_V1rLvRJnx": " ",
+            "choice_E1xSIwCJ3x": "50%",
+            "choice_VJ~rLv0Jhg": "65%",
+            "choice_V1wIw0knl": "80%"
+        },
+        "en": {
+            "header": "What is the share of parental responsibilities assumed by women in France in 2015?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In France, women assume 65% of parental responsibilities, according to a study by INSEE in 2015.",
+            "tips": "The only parental activities shared equally between fathers and mothers are play and socialization activities.",
+            "clue": "As the retirement age ...",
+            "template": "{{sel81084}}",
+            "label_V1rLvRJnx": " ",
+            "choice_E1xSIwCJ3x": "50%",
+            "choice_VJ~rLv0Jhg": "65%",
+            "choice_V1wIw0knl": "80%"
+        },
+        "de": {
+            "header": "Welcher Anteil der elterlichen Pflichten wurde 2015 in Frankreich von Frauen ausgeübt?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "In Frankreich übernehmen Frauen laut einer Studie von Insee im Jahr 2015 65% der Elternpflichten.",
+            "tips": "Die einzigen Erziehungsaktivitäten, die Väter und Mütter gleichermaßen teilen, sind Spielen und Geselligkeit.",
+            "clue": "Rentenalter",
+            "template": "{{sel81084}}",
+            "label_V1rLvRJnx": " ",
+            "choice_E1xSIwCJ3x": "50%",
+            "choice_VJ~rLv0Jhg": "65%",
+            "choice_V1wIw0knl": "80%"
+        },
+        "es": {
+            "header": "What share of parental duties was carried out by women in France in 2015?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In France, women take on 65% of parenting responsibilities, according to a study by Insee in 2015.",
+            "tips": "The only parenting activities shared equally between fathers and mothers are playing activities and socialising.",
+            "template": "{{sel81084}}",
+            "label_V1rLvRJnx": " ",
+            "choice_E1xSIwCJ3x": "50%",
+            "choice_VJ~rLv0Jhg": "65%",
+            "choice_V1wIw0knl": "80%",
+            "clue": "Retirement age"
+        },
+        "zh": {
+            "header": "2015年法国妇女的父母责任分担了多少？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "根据Insee在2015年的一项研究，在法国，女性承担65％的养育责任。",
+            "tips": "父亲和母亲之间平等分享的唯一育儿活动是参与活动和社交活动。",
+            "clue": "退休年龄",
+            "template": "{{sel81084}}",
+            "label_V1rLvRJnx": " ",
+            "choice_E1xSIwCJ3x": "50％",
+            "choice_VJ~rLv0Jhg": "65％",
+            "choice_V1wIw0knl": "80％"
+        }
+    }
+}

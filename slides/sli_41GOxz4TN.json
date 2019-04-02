@@ -1,0 +1,185 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T14:53:13.148Z",
+            "updatedAt": "2018-07-26T15:03:53.914Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_41GOxz4TN",
+        "universalRef": "sli_41GOxz4TN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41GOxz4TN.choice_EyzcgG4a4.id",
+                        "label": "choice_EyzcgG4a4",
+                        "value": "choice_EyzcgG4a4"
+                    },
+                    {
+                        "id": "sli_41GOxz4TN.choice_V17qeMN64.id",
+                        "label": "choice_V17qeMN64",
+                        "value": "choice_V17qeMN64"
+                    },
+                    {
+                        "id": "sli_41GOxz4TN.choice_EJ4qgfVTE.id",
+                        "label": "choice_EJ4qgfVTE",
+                        "value": "choice_EJ4qgfVTE"
+                    },
+                    {
+                        "id": "sli_41GOxz4TN.choice_NyrcgzNpV.id",
+                        "label": "choice_NyrcgzNpV",
+                        "value": "choice_NyrcgzNpV"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V17qeMN64"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What does the acronym SMART stand for?",
+            "explanation": "Select the correct answer.",
+            "klf": "The acronym SMART helps you remember what a proper objective should entail: Specific, Measurable, Attainable, Realistic and Time-bound.",
+            "tips": "The Management By Objectives approach was invented by Peter Drucker, a consultant and professor of management, in 1954.",
+            "clue": "SMARTD",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzcgG4a4": "Social, Measurable, Authentic, Real, Total",
+            "choice_V17qeMN64": "Specific, Measurable, Attainable, Realistic, Time-bound",
+            "choice_EJ4qgfVTE": "Succinct, Measured, Altruistic, Rich, Tautological",
+            "choice_NyrcgzNpV": "Satisfactory, Moderate, Agreeable, Robust, Time-based"
+        },
+        "fr": {
+            "header": "Que signifie l'acronyme SMART?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "L'acronyme SMART vous aide à vous rappeler ce que le bon objectif devrait inclure: concret, mesurable, réalisable, réaliste et limité dans le temps.",
+            "tips": "En 1954, Peter Drucker, consultant et professeur de gestion, a inventé l’approche «gérer par but».",
+            "clue": "smartd",
+            "choice_EyzcgG4a4": "Social, mesurable, réel, réel, complet",
+            "choice_V17qeMN64": "Spécifique, mesurable, réalisable, réaliste, limité dans le temps",
+            "choice_EJ4qgfVTE": "Concis, pratique, altruiste, riche, synonyme",
+            "choice_NyrcgzNpV": "Satisfait, doux, joyeux, robuste, basé dans le temps",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Qué significa el acrónimo SMART?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "El acrónimo INTELIGENTE le ayuda a recordar lo que debe suponer un objetivo adecuado: específico, mensurable, alcanzable, realista y limitado en el tiempo.",
+            "tips": "El enfoque de gestión por objetivos fue inventado por Peter Drucker, consultor y profesor de gestión, en 1954.",
+            "clue": "SMARTD",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzcgG4a4": "Social, Mensurable, Auténtico, Real, Total",
+            "choice_V17qeMN64": "Específico, medible, alcanzable, realista, con límite de tiempo",
+            "choice_EJ4qgfVTE": "Sucinto, medido, altruista, rico, tautológico",
+            "choice_NyrcgzNpV": "Satisfactorio, Moderado, Agradable, Robusto, Basado en el Tiempo"
+        },
+        "it": {
+            "header": "Che cosa significa lacronimo SMART?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Lacronimo SMART ti aiuta a ricordare che cosa dovrebbe comportare un vero obiettivo: Specifico, Misurabile, Raggiungibile, Realistico e Legato nel tempo.",
+            "tips": "Lapproccio Management By Objectives fu inventato da Peter Drucker, consulente e professore di management, nel 1954.",
+            "clue": "smartd",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzcgG4a4": "Sociale, Misurabile, Autentico, Reale, Totale",
+            "choice_V17qeMN64": "Specifico, misurabile, realizzabile, realistico, temporizzato",
+            "choice_EJ4qgfVTE": "Succinto, misurato, altruista, ricco, tautologico",
+            "choice_NyrcgzNpV": "Soddisfacente, moderato, piacevole, robusto, basato sul tempo"
+        },
+        "de": {
+            "header": "What does the acronym SMART stand for?",
+            "explanation": "Select the correct answer.",
+            "klf": "The acronym SMART helps you remember what a proper objective should entail: Specific, Measurable, Attainable, Realistic and Time-bound.",
+            "tips": "The Management By Objectives approach was invented by Peter Drucker, a consultant and professor of management, in 1954.",
+            "clue": "SMARTD",
+            "choice_EyzcgG4a4": "Social, Measurable, Authentic, Real, Total",
+            "choice_V17qeMN64": "Specific, Measurable, Attainable, Realistic, Time-bound",
+            "choice_EJ4qgfVTE": "Succinct, Measured, Altruistic, Rich, Tautological",
+            "choice_NyrcgzNpV": "Satisfactory, Moderate, Agreeable, Robust, Time-based",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "SMART라는 약자는 무엇을 의미합니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "머리 글자 SMART는 특정 목적, 측정 가능, 달성 가능, 현실적 및 시간 제한과 관련하여 적절한 목표가 수반되어야하는 것을 기억하는 데 도움을줍니다.",
+            "tips": "Management By Objectives 접근법은 1954 년 Peter Drucker (컨설턴트 겸 경영학 교수)가 발명했습니다.",
+            "clue": "SMARTD",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzcgG4a4": "사회, 측정 가능, 정통, 실제, 합계",
+            "choice_V17qeMN64": "구체적이고, 측정 가능하며, 달성 가능하고, 현실적이며, 시간 제한적이다.",
+            "choice_EJ4qgfVTE": "간결하고, 측정되고, 이타적인, 부유 한, 동어 반복적 인",
+            "choice_NyrcgzNpV": "만족도, 보통, 동등 함, 강인성, 시간 기반"
+        },
+        "ru": {
+            "header": "Что означает акроним SMART?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Сокращение SMART помогает вам помнить, что должна повлечь за собой правильная цель: конкретный, измеримый, достижимый, реалистичный и ограниченный по времени.",
+            "tips": "Подход «Управление по целям» был изобретен Петром Друкером, консультантом и профессором управления, в 1954 году.",
+            "clue": "SMARTD",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzcgG4a4": "Социальные, измеримые, аутентичные, реальные, итоговые",
+            "choice_V17qeMN64": "Конкретные, измеримые, достижимые, реалистичные, ограниченные по времени",
+            "choice_EJ4qgfVTE": "Кратко, измерено, Альтруистическое, Богатое, Тавтологическое",
+            "choice_NyrcgzNpV": "Удовлетворительное, умеренное, приемлемое, надежное, основанное на времени"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O que significa o acrônimo SMART?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "A sigla SMART ajuda você a lembrar o que um objetivo adequado deve implicar: específico, mensurável, atingível, realista e vinculado ao tempo.",
+            "tips": "A abordagem Management By Objectives foi inventada por Peter Drucker, consultor e professor de administração, em 1954.",
+            "clue": "smartd",
+            "choice_EyzcgG4a4": "Social, Mensurável, Autêntico, Real, Total",
+            "choice_V17qeMN64": "Específico, Mensurável, Alcançável, Realista, Prazo",
+            "choice_EJ4qgfVTE": "Sucinto, Medido, Altruísta, Rico, Tautológico",
+            "choice_NyrcgzNpV": "Satisfatório, Moderado, Agradável, Robusto, Baseado no Tempo"
+        },
+        "zh": {
+            "header": "缩写词SMART代表什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "首字母缩略词SMART帮助您记住正确的目标应该包含的内容：具体，可衡量，可实现，现实和有时限。",
+            "tips": "1954年，顾问和管理学教授彼得·德鲁克（Peter Drucker）发明了“按目标管理”方法。",
+            "clue": "smartd",
+            "choice_EyzcgG4a4": "社交，可衡量，真实，真实，全面",
+            "choice_V17qeMN64": "具体，可衡量，可实现，现实，有时限",
+            "choice_EJ4qgfVTE": "简洁，实用，利他，丰富，同义",
+            "choice_NyrcgzNpV": "满意，温和，愉快，健壮，以时间为基础"
+        }
+    }
+}

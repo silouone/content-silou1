@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-10T11:30:17.863Z",
+            "updatedAt": "2016-09-05T15:14:26.701Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1HzCjG9x"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EkaHp~4cg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel69581",
+                        "label": "label_Nk0BR~Vcl",
+                        "items": [
+                            {
+                                "text": "choice_V1lArCWVqx",
+                                "value": "choice_V1lArCWVqx"
+                            },
+                            {
+                                "text": "choice_NybArC~E5g",
+                                "value": "choice_NybArC~E5g"
+                            },
+                            {
+                                "text": "choice_N1W80bV9e",
+                                "value": "choice_N1W80bV9e"
+                            },
+                            {
+                                "text": "choice_NJebLR~4qx",
+                                "value": "choice_NJebLR~4qx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel69581",
+                        "answers": [
+                            "choice_N1W80bV9e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EkaHp~4cg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Amélie a toujours été la première à l'école. Pourtant, elle a du mal à évoluer professionnellement. Quel nom porte ce phénomène?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le \"bon syndrome de l'élève\" peut pénaliser la vie professionnelle des femmes. On leur a appris à être sage et appliqué, en particulier à l'école, comme les filles modèles de la comtesse de Segur. Cependant, pour évoluer professionnellement, le risque est plus valorisé que la conformité.",
+            "tips": "Les petites filles modèles de la comtesse de Segur existaient vraiment! Elle a eu deux petites-filles, Camille et Madeleine, qui l’ont inspirée pour ses récits.",
+            "clue": "20/20.",
+            "template": "{{sel69581}}",
+            "label_Nk0BR~Vcl": " ",
+            "choice_V1lArCWVqx": "La faute de transition",
+            "choice_NybArC~E5g": "L'effet pygmalion",
+            "choice_N1W80bV9e": "Le bon syndrome de l'élève",
+            "choice_NJebLR~4qx": "Le complexe du n ° 1"
+        },
+        "en": {
+            "header": "Amélie has always been the first at school. Yet she struggles to evolve professionally. What name does this phenomenon bear?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "The \"good student syndrome\" can penalize the professional life of women. They were taught to be wise and applied, especially at school, like the model girls of the Countess de Segur. However, to evolve professionally, risk is valued more than conformity.",
+            "tips": "The little model girls of the Countess de Segur really existed! She had two granddaughters, Camille and Madeleine, who inspired her for her stories.",
+            "clue": "20/20.",
+            "template": "{{sel69581}}",
+            "label_Nk0BR~Vcl": " ",
+            "choice_V1lArCWVqx": "The transition fault",
+            "choice_NybArC~E5g": "The pygmalion effect",
+            "choice_N1W80bV9e": "The good student syndrome",
+            "choice_NJebLR~4qx": "The complex of the n ° 1"
+        },
+        "de": {
+            "header": "Amélie war schon immer die erste in der Schule. Sie hat jedoch Schwierigkeiten, sich beruflich weiterzuentwickeln. Welchen Namen hat dieses Phänomen?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Das \"Good Student Syndrom\" kann das Berufsleben von Frauen benachteiligen. Es wurde ihnen beigebracht, weise und angewandt zu sein, besonders in der Schule, wie die Modellmädchen der Gräfin de Segur. Um sich jedoch beruflich weiterzuentwickeln, wird Risiko mehr als Konformität geschätzt.",
+            "tips": "Die kleinen Modellmädchen der Countess de Segur existierten wirklich! Sie hatte zwei Enkelinnen, Camille und Madeleine, die sie für ihre Geschichten inspirierten.",
+            "clue": "20/20.",
+            "template": "{{sel69581}}",
+            "label_Nk0BR~Vcl": " ",
+            "choice_V1lArCWVqx": "Der Übergangsfehler",
+            "choice_NybArC~E5g": "Der Pygmalion-Effekt",
+            "choice_N1W80bV9e": "Das gute Studentensyndrom",
+            "choice_NJebLR~4qx": "Der Komplex der Nr. 1"
+        },
+        "es": {
+            "header": "Amélie was always top of the class at school. Yet she now struggles to develop her career. What is the name this phenomenon?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "The \"good pupil syndrome\" may penalise the working lives of women. They are taught to be well-behaved and to apply themselves, especially at school, such as the model little girls of the Comtesse de Segur. Today, to grow professionally, risk is more valued than conformism.",
+            "tips": "The model little girls of the countess of Segur really existed! She had two granddaughters, Camille and Madeleine, who inspired her stories.",
+            "template": "{{sel69581}}",
+            "label_Nk0BR~Vcl": " ",
+            "choice_V1lArCWVqx": "The transition fault",
+            "choice_NybArC~E5g": "The pygmalion effect",
+            "choice_N1W80bV9e": "The good pupil syndrome",
+            "choice_NJebLR~4qx": "The complex of no. 1",
+            "clue": "20/20."
+        },
+        "zh": {
+            "header": "Amélie总是在学校上课。然而，她现在正努力发展自己的事业。这个现象叫什么名字？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "“好学生综合症”可能会影响女性的工作生活。他们被教导要表现得很好并且能够适应自己，尤其是在学校，例如Comtesse de Segur的模特小女孩。今天，为了专业发展，风险比顺从更有价值。",
+            "tips": "Segur伯爵夫人的模特小女孩真的存在！她有两个孙女，卡米尔和玛德琳，她们激发了她的故事。",
+            "clue": "20/20。",
+            "template": "{{sel69581}}",
+            "label_Nk0BR~Vcl": " ",
+            "choice_V1lArCWVqx": "过渡故障",
+            "choice_NybArC~E5g": "皮格马利翁效应",
+            "choice_N1W80bV9e": "好瞳孔综合征",
+            "choice_NJebLR~4qx": "没有的复杂。 1"
+        }
+    }
+}

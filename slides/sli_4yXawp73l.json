@@ -1,0 +1,141 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:04:23.703Z",
+            "updatedAt": "2016-09-06T11:52:59.386Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkMbtU0og"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yXawp73l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yXawp73l.choice_Ek1H-672e.id",
+                        "label": "choice_Ek1H-672e",
+                        "value": "choice_Ek1H-672e"
+                    },
+                    {
+                        "id": "sli_4yXawp73l.choice_VJeSOpQhg.id",
+                        "label": "choice_VJeSOpQhg",
+                        "value": "choice_VJeSOpQhg"
+                    },
+                    {
+                        "id": "sli_4yXawp73l.choice_V1~Hup72e.id",
+                        "label": "choice_V1~Hup72e",
+                        "value": "choice_V1~Hup72e"
+                    },
+                    {
+                        "id": "sli_4yXawp73l.choice_EyfrdTm3e.id",
+                        "label": "choice_EyfrdTm3e",
+                        "value": "choice_EyfrdTm3e"
+                    },
+                    {
+                        "id": "sli_4yXawp73l.choice_EkEBOaXhx.id",
+                        "label": "choice_EkEBOaXhx",
+                        "value": "choice_EkEBOaXhx"
+                    },
+                    {
+                        "id": "sli_4yXawp73l.choice_41HBdpX2l.id",
+                        "label": "choice_41HBdpX2l",
+                        "value": "choice_41HBdpX2l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJeSOpQhg",
+                        "choice_V1~Hup72e",
+                        "choice_EyfrdTm3e",
+                        "choice_41HBdpX2l"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4yXawp73l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les principales caractéristiques du leadership authentique ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les professeurs Walumbwa, Avolio et Gardner identifient quatre grandes caractéristiques du leadership authentique : bonne connaissance de soi (atouts, faiblesses...) ; capacité à partager avec les autres ; traitement équilibré de l'information ; prise de décision à partir de valeurs morales.",
+            "tips": "Selon le psychologue Carl Rogers, une personne vit son authenticité lorsqu'il y a congruence entre son \"moi idéal\" et son \"moi vécu\".",
+            "clue": "Il y en a quatre.",
+            "choice_Ek1H-672e": "Autorité naturelle",
+            "choice_VJeSOpQhg": "Traitement équilibré de l'information",
+            "choice_V1~Hup72e": "Prise de décision basée sur des valeurs morales",
+            "choice_EyfrdTm3e": "Bonne connaissance de soi",
+            "choice_EkEBOaXhx": "Prise de décision 100% rationnelle",
+            "choice_41HBdpX2l": "Capacité de partage avec les autres"
+        },
+        "en": {
+            "header": "What are the main characteristics of authentic leadership?",
+            "explanation": "Select the correct answers.",
+            "klf": "Professors Walumbwa, Avolio and Gardner identify four main characteristics of genuine leadership: good self-knowledge (strengths, weaknesses ...); ability to share with others; balanced treatment of information; decision-making based on moral values.",
+            "tips": "According to the psychologist Carl Rogers, a person lives his authenticity when there is congruence between his \"ideal self\" and his \"lived self\".",
+            "clue": "There are four.",
+            "choice_Ek1H-672e": "Natural Authority",
+            "choice_VJeSOpQhg": "Balanced treatment of information",
+            "choice_V1~Hup72e": "Decision-making based on moral values",
+            "choice_EyfrdTm3e": "Good self-knowledge",
+            "choice_EkEBOaXhx": "100% rational decision making",
+            "choice_41HBdpX2l": "Sharing ability with others"
+        },
+        "de": {
+            "header": "Was sind die Hauptmerkmale einer authentischen Führung?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Die Professoren Walumbwa, Avolio und Gardner identifizieren vier Hauptmerkmale authentischer Führung: gute Selbsterkenntnis (Stärken, Schwächen usw.); die Fähigkeit, mit anderen zu teilen; die ausgewogene Verarbeitung von Informationen; Entscheidungsfindung mit moralischen Werten.",
+            "tips": "Laut Psychologe Carl Rogers ist eine Person authentisch, wenn ihr \"ideales Selbst\" und ihre \"Lebenserfahrung\" miteinander in Einklang gebracht werden.",
+            "clue": "Es gibt vier davon.",
+            "choice_Ek1H-672e": "Natürliche Autorität",
+            "choice_VJeSOpQhg": "Ausgeglichene Informationsverarbeitung",
+            "choice_V1~Hup72e": "Entscheidungsfindung basierend auf moralischen Werten",
+            "choice_EyfrdTm3e": "Gutes Selbstbewusstsein",
+            "choice_EkEBOaXhx": "Eine 100% rationale Entscheidung",
+            "choice_41HBdpX2l": "Fähigkeit, mit anderen zu teilen"
+        },
+        "es": {
+            "header": "What are the main characteristics of authentic leadership?",
+            "explanation": "Select the correct answers.",
+            "klf": "Professors Walumbwa, Avolio and Gardner identify four main characteristics of authentic leadership: good self-knowledge (strengths, weaknesses, etc.); the ability to share with others; the balanced processing of information; decision-making using moral values.",
+            "tips": "According to psychologist Carl Rogers, a person is authentic when their \"ideal self\" and \"life-experience\" are reconciled.",
+            "choice_Ek1H-672e": "Natural authority",
+            "choice_VJeSOpQhg": "Balanced information processing",
+            "choice_V1~Hup72e": "Decision-making based on moral values",
+            "choice_EyfrdTm3e": "Good self-awareness",
+            "choice_EkEBOaXhx": "A 100% rational decision",
+            "choice_41HBdpX2l": "Ability to share with others",
+            "clue": "There are four of them."
+        },
+        "zh": {
+            "header": "真正领导的主要特征是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "Walumbwa，Avolio和Gardner教授确定了真正领导力的四个主要特征：良好的自我认知（优势，劣势等）;与他人分享的能力;信息的均衡处理;使用道德价值观的决策。",
+            "tips": "根据心理学家卡尔罗杰斯的说法，当一个人的“理想的自我”和“生活体验”得到调和时，他就是真实的。",
+            "clue": "其中有四个。",
+            "choice_Ek1H-672e": "自然权威",
+            "choice_VJeSOpQhg": "平衡的信息处理",
+            "choice_V1~Hup72e": "基于道德价值观的决策",
+            "choice_EyfrdTm3e": "良好的自我意识",
+            "choice_EkEBOaXhx": "100％理性的决定",
+            "choice_41HBdpX2l": "能够与他人分享"
+        }
+    }
+}

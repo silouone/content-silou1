@@ -1,0 +1,83 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T15:00:34.569Z",
+            "updatedAt": "2018-10-08T15:21:23.100Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4yNg7oMrr",
+        "universalRef": "sli_4yNg7oMrr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yNg7oMrr.choice_NJt~QszBS.id",
+                        "label": "choice_NJt~QszBS",
+                        "value": "choice_NJt~QszBS"
+                    },
+                    {
+                        "id": "sli_4yNg7oMrr.choice_E1fwlr1PH.id",
+                        "label": "choice_E1fwlr1PH",
+                        "value": "choice_E1fwlr1PH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1fwlr1PH",
+                        "choice_NJt~QszBS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans quel(s) cas devez-vous appliquer une durée limitée à votre usage des outils digitaux ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s) ci-dessous.",
+            "klf": "Limiter son temps sur Internet vaut aussi bien pour la réalisation des tâches que vous avez à y réaliser (répondre à un mail, réserver un évènement...) que pour la consommation pure de contenu (visionner une vidéo sur Youtube, lire les informations...)",
+            "tips": "\"Done is better than perfect\" est une devise de Facebook incitant à rechercher l'accomplissement d'un projet plutôt que sa perfection ultime.",
+            "clue": "Pas de quartier !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJt~QszBS": "La réalisation de ses tâches sur Internet",
+            "choice_NkC~mjGSB": "se déconnecter dès la première information valable",
+            "choice_4kYfmsfSH": "rester connecter jusqu'à trouver une meilleure information",
+            "choice_E1fwlr1PH": "La consommation pure d'informations/de contenu"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s) below.",
+            "header": "When should you apply a time limit to your use of digital tools?",
+            "klf": "You should limit your time on the Internet when you’re surfing and consuming general information (like watching a video on Youtube or reading the news), but also when you’re trying to do work tasks (replying to emails, booking events etc).",
+            "tips": "“Done is better than perfect” is a philosophy used by Facebook to encourage staff to complete projects but not try and seek perfection.",
+            "clue": "Show no mercy!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJt~QszBS": "When you’re using the Internet to carry out work tasks ",
+            "choice_NkC~mjGSB": "se déconnecter dès la première information valable",
+            "choice_4kYfmsfSH": "rester connecter jusqu'à trouver une meilleure information",
+            "choice_E1fwlr1PH": "When you’re generally surfing and taking in information/content"
+        }
+    }
+}

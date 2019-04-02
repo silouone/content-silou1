@@ -1,0 +1,95 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:37:24.070Z",
+            "updatedAt": "2018-10-17T09:26:10.497Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1SciyjuH",
+        "universalRef": "sli_E1SciyjuH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1SciyjuH.choice_41gfQS5n-B.id",
+                        "label": "choice_41gfQS5n-B",
+                        "value": "choice_41gfQS5n-B",
+                        "media": "med_4yzmB9nur"
+                    },
+                    {
+                        "id": "sli_E1SciyjuH.choice_NklrNScnOH.id",
+                        "label": "choice_NklrNScnOH",
+                        "value": "choice_NklrNScnOH",
+                        "media": "med_EyBEH9n-r"
+                    },
+                    {
+                        "id": "sli_E1SciyjuH.choice_EyxsHr53dr.id",
+                        "label": "choice_EyxsHr53dr",
+                        "value": "choice_EyxsHr53dr",
+                        "media": "med_EJjrS92Or"
+                    },
+                    {
+                        "id": "sli_E1SciyjuH.choice_4kGL8rq2OH.id",
+                        "label": "choice_4kGL8rq2OH",
+                        "value": "choice_4kGL8rq2OH",
+                        "media": "med_VJWI8B9huS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NklrNScnOH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Aujourd'hui, qu’est-ce qui influence le plus les internautes dans leur parcours d'achat ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les discours des différentes marques manquent forcément de neutralité, ce qui pose problème pour prendre une décision éclairée. Les internautes se sont donc rapidement tournés vers des contenus proposés par des influenceurs jugés plus impartiaux ou vers des avis émis par des pairs.",
+            "tips": "Selon Search Engine Watch, 72 % des recherches sur un produit ou un service dans le cadre d’un parcours d’achat démarrent sur Google.",
+            "clue": "Les ad-blockers connaissent un taux d’adoption en très forte hausse.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gfQS5n-B": "La publicité",
+            "choice_NklrNScnOH": "Le contenu et les avis clients publiés sur Internet",
+            "choice_EyxsHr53dr": "Les e-mails marketing",
+            "choice_4kGL8rq2OH": "Les discours commerciaux"
+        },
+        "en": {
+            "header": "Aujourdhui, qu’est-ce qui influence le plus les internautes dans leur parcours dachat ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les discours des différentes marques manquent forcément de neutralité, ce qui pose problème pour prendre une décision éclairée. Les internautes se sont donc rapidement tournés vers des contenus proposés par des influenceurs jugés plus impartiaux ou vers des avis émis par des pairs.",
+            "tips": "Selon Search Engine Watch, 72 % des recherches sur un produit ou un service dans le cadre d’un parcours d’achat démarrent sur Google.",
+            "clue": "Les ad-blockers connaissent un taux d’adoption en très forte hausse.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gfQS5n-B": "La publicité",
+            "choice_NklrNScnOH": "Le contenu et les avis clients publiés sur Internet",
+            "choice_EyxsHr53dr": "Les e-mails marketing",
+            "choice_4kGL8rq2OH": "Les discours commerciaux"
+        }
+    }
+}

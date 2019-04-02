@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T09:24:02.635Z",
+            "updatedAt": "2018-06-21T09:45:19.252Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkoPpuVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1eWs0shV",
+        "universalRef": "sli_V1eWs0shV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1eWs0shV.choice_4kt7jAs3N.id",
+                        "label": "choice_4kt7jAs3N",
+                        "value": "choice_4kt7jAs3N"
+                    },
+                    {
+                        "id": "sli_V1eWs0shV.choice_EyJEsAo24.id",
+                        "label": "choice_EyJEsAo24",
+                        "value": "choice_EyJEsAo24"
+                    },
+                    {
+                        "id": "sli_V1eWs0shV.choice_E1wVoAi2E.id",
+                        "label": "choice_E1wVoAi2E",
+                        "value": "choice_E1wVoAi2E"
+                    },
+                    {
+                        "id": "sli_V1eWs0shV.choice_EkA4sCoh4.id",
+                        "label": "choice_EkA4sCoh4",
+                        "value": "choice_EkA4sCoh4"
+                    },
+                    {
+                        "id": "sli_V1eWs0shV.choice_VkKBj0s2E.id",
+                        "label": "choice_VkKBj0s2E",
+                        "value": "choice_VkKBj0s2E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkKBj0s2E",
+                        "choice_4kt7jAs3N",
+                        "choice_E1wVoAi2E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels comportements sommes-nous enclins à adopter lorsque nous sommes attentifs en pleine conscience ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "La pleine conscience nous permet d’ouvrir intentionnellement notre champ attentionnel au maximum. Cela nous permet de percevoir nos ressentis sans les analyser ou juger.",
+            "tips": "Le neuroscientifique Jean-Philippe Lachaux a lancé une première en France à la rentrée 2017 : l’apprentissage de l’attention à l’école au sein du projet Atole.",
+            "clue": "Pas besoin d'être intello !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kt7jAs3N": "Nous éprouvons et observons au lieu de juger et analyser ",
+            "choice_EyJEsAo24": "Nous ressassons et rêvons au lieu d’agir",
+            "choice_E1wVoAi2E": "Nous avons une perception accrue de nos sensations ",
+            "choice_EkA4sCoh4": "Nous ignorons tout du futur et du passé",
+            "choice_VkKBj0s2E": "Nous sommes plus détachés de nos jugements "
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "How do we tend to behave when we’re being mindful and attentive?",
+            "klf": "In mindfulness, we consciously expand our field of attention as far as it will go. This gives us a heightened awareness of our feelings without analysing or evaluating them.",
+            "tips": "At the start of the 2017 academic year, neuroscientist, Jean-Philippe Lachaux launched the “learning attention at school” programme (part of the ATOLE project), which was the first of its kind in France.",
+            "clue": "No need to be brainy!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kt7jAs3N": "We experience and observe rather than analyse and evaluate ",
+            "choice_EyJEsAo24": "We mull things over and daydream rather than doing things",
+            "choice_E1wVoAi2E": "We have a heightened awareness of our senses and feelings ",
+            "choice_EkA4sCoh4": "We ignore everything in the past and future",
+            "choice_VkKBj0s2E": "We’re more detached from our judgements "
+        }
+    }
+}

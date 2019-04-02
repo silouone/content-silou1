@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T12:13:55.842Z",
+            "updatedAt": "2018-10-08T15:12:29.257Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k7OaLrmr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJUe2uMHH",
+        "universalRef": "sli_VJUe2uMHH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel26970",
+                        "items": [
+                            {
+                                "text": "choice_EJgES7ByDB",
+                                "value": "choice_EJgES7ByDB"
+                            },
+                            {
+                                "text": "choice_V1W4SQHkvB",
+                                "value": "choice_V1W4SQHkvB"
+                            },
+                            {
+                                "text": "choice_4kKLXH1Dr",
+                                "value": "choice_4kKLXH1Dr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel26970",
+                        "answers": [
+                            "choice_V1W4SQHkvB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la condition requise pour veiller efficacement ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Afin d’optimiser les flux d’informations reçus dans le cadre de la veille digitale, il est essentiel de définir ses objectifs de façon précise. Cela vous évitera de vous sentir submergés et démunis face à la quantité d'information potentiellement exploitables.",
+            "tips": "Les objectifs agissent comme des filtres cognitifs. Ils vous permettent de prêter attention aux informations sous le prisme de vos objectifs.",
+            "clue": "Ne courrez pas deux lièvres à la fois.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour une veille plus pertinente et plus ciblée, il est nécessaire de {{sel26970}}.",
+            "choice_EJgES7ByDB": "desserrer les mailles du filet de recherche",
+            "choice_V1W4SQHkvB": "définir des objectifs de veille",
+            "choice_4kKLXH1Dr": "tout capter puis trier"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "How can you make sure your media monitoring is effective?",
+            "klf": "To get the best out of media monitoring, you need to have clear and precise objectives so the information you receive is relevant and targeted. If you don’t have clear objectives, you can end up feeling completely overwhelmed when you end up with huge quantities of potentially useful information and you don’t know where to start.",
+            "tips": "Objectives act as cognitive filters. You then see the wealth of information through that filter and reduce the volume you’re working with.",
+            "clue": "Don’t bite off more than you can chew.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "For media monitoring to be relevant and targeted, you need to {{sel26970}}.",
+            "choice_EJgES7ByDB": "widen your research net",
+            "choice_V1W4SQHkvB": "define clear objectives for the media monitoring",
+            "choice_4kKLXH1Dr": "capture everything you can then sort through it"
+        }
+    }
+}

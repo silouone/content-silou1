@@ -1,0 +1,126 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-16T16:04:38.946Z",
+            "updatedAt": "2016-05-23T12:30:01.538Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EyEg8E25g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel99228",
+                        "label": "label_41CcPVnql",
+                        "items": [
+                            {
+                                "text": "choice_N1gA9vVhcl",
+                                "value": "choice_N1gA9vVhcl"
+                            },
+                            {
+                                "text": "choice_EkW05vV29g",
+                                "value": "choice_EkW05vV29g"
+                            },
+                            {
+                                "text": "choice_E1xjP435e",
+                                "value": "choice_E1xjP435e"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel99228",
+                        "answers": [
+                            "choice_EkW05vV29g"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_EyEg8E25g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi faut-il rester authentique dans la construction de sa marque personnelle?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsque vous définissez votre marque personnelle, n'essayez pas de jouer un rôle trop éloigné de votre personnalité. Vous devez rester authentique. Le professeur à HEC Jean-Noël Kapferer rappelle que le manque de sincérité ne fait pas plaisir à un employeur. Et tôt ou tard, ce manque d'authenticité sera vu.",
+            "tips": "Même authentique, construire une marque personnelle réussie prend du temps: environ deux ans selon Peter Montoya, pionnier de la stratégie de marque personnelle.",
+            "clue": "Nous ne pouvons pas jouer un rôle tout le temps ...",
+            "template": "{{sel99228}}",
+            "label_41CcPVnql": " ",
+            "choice_N1gA9vVhcl": "Par principe moral",
+            "choice_EkW05vV29g": "Ne pas être contre-productif",
+            "choice_E1xjP435e": "Pour faire plaisir à ses proches"
+        },
+        "en": {
+            "header": "Why must one stay authentic in the construction of one's personal brand?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "When you define your personal brand, do not try to take on a role too far from your personality. You must remain authentic. The professor at HEC Jean-Noël Kapferer recalls that the lack of sincerity does not please an employer. And sooner or later, this lack of authenticity will be seen.",
+            "tips": "Even authentic, building a successful personal brand takes time: about two years according to Peter Montoya, a pioneer of personal branding.",
+            "clue": "We can not play a role all the time ...",
+            "template": "{{sel99228}}",
+            "label_41CcPVnql": " ",
+            "choice_N1gA9vVhcl": "By moral principle",
+            "choice_EkW05vV29g": "Not to be counterproductive",
+            "choice_E1xjP435e": "To please his loved ones"
+        },
+        "de": {
+            "header": "Warum muss man beim Aufbau der eigenen Marke authentisch bleiben?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Wenn Sie Ihre persönliche Marke definieren, versuchen Sie nicht, eine Rolle zu weit von Ihrer Persönlichkeit zu übernehmen. Du musst authentisch bleiben. Der Professor an der HEC Jean-Noël Kapferer erinnert daran, dass mangelnde Aufrichtigkeit einem Arbeitgeber nicht gefällt. Und früher oder später wird dieser Mangel an Authentizität zu sehen sein.",
+            "tips": "Selbst der authentische Aufbau einer erfolgreichen persönlichen Marke braucht Zeit: etwa zwei Jahre, sagt Peter Montoya, ein Pionier für persönliches Branding.",
+            "clue": "Wir können nicht immer eine Rolle spielen ...",
+            "template": "{{sel99228}}",
+            "label_41CcPVnql": " ",
+            "choice_N1gA9vVhcl": "Nach dem moralischen Prinzip",
+            "choice_EkW05vV29g": "Nicht kontraproduktiv sein",
+            "choice_E1xjP435e": "Um seine Lieben zu erfreuen"
+        },
+        "es": {
+            "header": "Pourquoi faut-il rester authentique dans la construction de sa marque personnelle ?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "Quand vous définissez votre marque personnelle, ne cherchez pas à endosser un rôle trop éloigné de votre personnalité. Vous devez rester authentique. Le professeur à HEC Jean-Noël Kapferer rappelle que le manque de sincérité ne plaît pas à un employeur. Et tôt ou tard, cette absence d'authenticité se verra.",
+            "tips": "Même authentique, la construction d'une marque personnelle aboutie prend du temps : environ deux ans selon Peter Montoya, un des pionniers du personal branding.",
+            "template": "{{sel99228}}",
+            "label_41CcPVnql": " ",
+            "choice_N1gA9vVhcl": "Par principe moral",
+            "choice_EkW05vV29g": "Ne pas l'être est contre-productif",
+            "choice_E1xjP435e": "Pour faire plaisir à ses proches",
+            "clue": "On ne peut pas jouer un rôle tout le temps…"
+        },
+        "zh": {
+            "header": "为什么一个人的个人品牌必须保持真实？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "当您定义自己的个人品牌时，不要试图承担远离个性的角色。你必须保持真实。 HEC Jean-NoëlKapferer教授回忆说，缺乏诚意并不能取悦雇主。迟早会看到这种缺乏真实性的东西。",
+            "tips": "即使是真实的，建立一个成功的个人品牌需要时间：根据个人品牌的先驱彼得蒙托亚约两年。",
+            "clue": "我们不能一直发挥作用......",
+            "template": "{{Sel99228}}",
+            "label_41CcPVnql": " ",
+            "choice_N1gA9vVhcl": "按道德原则",
+            "choice_EkW05vV29g": "不要适得其反",
+            "choice_E1xjP435e": "为了取悦他的亲人"
+        }
+    }
+}

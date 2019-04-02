@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-13T08:07:52.648Z",
+            "updatedAt": "2018-08-21T10:23:11.990Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJmCaWFVS"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4ybAtmqBr",
+        "universalRef": "sli_4ybAtmqBr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel13652",
+                        "items": [
+                            {
+                                "text": "choice_VJx5CtQ9BB",
+                                "value": "choice_VJx5CtQ9BB"
+                            },
+                            {
+                                "text": "choice_4yZ50KmqSH",
+                                "value": "choice_4yZ50KmqSH"
+                            },
+                            {
+                                "text": "choice_EkPs5QqBS",
+                                "value": "choice_EkPs5QqBS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel13652",
+                        "answers": [
+                            "choice_4yZ50KmqSH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "A REVOIR Comment mobiliser intelligemment les membres les plus fidèles et les plus actifs de sa communauté ?",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "Lorsque la communauté est constituée, il est intelligent de repérer les membres les plus impliqués et les plus réguliers sur ses pages pour les mobiliser, en leur octroyant un statut d'ambassadeur.",
+            "tips": "Selon une étude Altimeter/TapInfluence réalisée en juin 2016, 7 spécialistes du marketing sur 10 reconnaissent que la création de programmes d'ambassadeurs est la stratégie de marketing d'influence la plus efficace. (https://www.journaldunet.com/ebusiness/expert/68322/social-media---miser-sur-l-authenticite-des-ambassadeurs.shtml )",
+            "clue": "Ferrero Rocher.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour favoriser les interactions entre les membres de sa communauté, il peut être bienvenu d'octroyer un statut d'{{sel13652}} aux membres les plus actifs et les plus fidèles.",
+            "choice_VJx5CtQ9BB": "Amiral",
+            "choice_4yZ50KmqSH": "Ambassadeur",
+            "choice_EkPs5QqBS": "Artiste"
+        },
+        "en": {
+            "header": "A REVIEW How to intelligently mobilize the most loyal and active members of your community?",
+            "explanation": "Enter your answer or select the correct answer in the drop-down menu (s).",
+            "klf": "When the community is formed, it is smart to identify the most involved and regular members on its pages to mobilize them, giving them ambassadorial status.",
+            "tips": "According to an Altimeter / TapInfluence study conducted in June 2016, 7 out of 10 marketers recognize that creating ambassador programs is the most effective influence marketing strategy. (https://www.journaldunet.com/ebusiness/expert/68322/social-media---making-on-authenticity-ambassadors.shtml)",
+            "clue": "Ferrero Rocher.",
+            "template": "To foster interaction among members of your community, it may be a good idea to give {{sel13652}} status to the most active and loyal members.",
+            "choice_VJx5CtQ9BB": "admiral",
+            "choice_4yZ50KmqSH": "Ambassador",
+            "choice_EkPs5QqBS": "Artist",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "A REVIEW Wie können Sie die loyalsten und aktivsten Mitglieder Ihrer Gemeinschaft intelligent mobilisieren?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Wenn die Community gebildet wird, ist es klug, die am stärksten involvierten und regulären Mitglieder auf ihren Seiten zu identifizieren, um sie zu mobilisieren und ihnen den Status eines Botschafters zu geben.",
+            "tips": "Laut einer im Juni 2016 durchgeführten Altimeter / TapInfluence-Studie erkennen 7 von 10 Vermarktern an, dass die Erstellung von Botschafterprogrammen die effektivste Einflussmarketingstrategie darstellt. (https://www.journaldunet.com/ebusiness/expert/68322/social-media---making-on-authenticity-ambassadors.shtml)",
+            "clue": "Ferrero Rocher.",
+            "template": "Um die Interaktion zwischen Mitgliedern Ihrer Community zu fördern, empfiehlt es sich, den aktivsten und loyalsten Mitgliedern den Status {{sel13652}} zu geben.",
+            "choice_VJx5CtQ9BB": "Admiral",
+            "choice_4yZ50KmqSH": "Botschafter",
+            "choice_EkPs5QqBS": "Künstler",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "A REVOIR Comment mobiliser intelligemment les membres les plus fidèles et les plus actifs de sa communauté ?",
+            "klf": "Lorsque la communauté est constituée, il est intelligent de repérer les membres les plus impliqués et les plus réguliers sur ses pages pour les mobiliser, en leur octroyant un statut d'ambassadeur.",
+            "tips": "Selon une étude Altimeter/TapInfluence réalisée en juin 2016, 7 spécialistes du marketing sur 10 reconnaissent que la création de programmes d'ambassadeurs est la stratégie de marketing d'influence la plus efficace. (https://www.journaldunet.com/ebusiness/expert/68322/social-media---miser-sur-l-authenticite-des-ambassadeurs.shtml )",
+            "clue": "Ferrero Rocher.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour favoriser les interactions entre les membres de sa communauté, il peut être bienvenu d'octroyer un statut d'{{sel13652}} aux membres les plus actifs et les plus fidèles.",
+            "choice_VJx5CtQ9BB": "Amiral",
+            "choice_4yZ50KmqSH": "Ambassadeur",
+            "choice_EkPs5QqBS": "Artiste"
+        },
+        "zh": {
+            "header": "回顾如何智能地动员社区中最忠诚和最活跃的成员？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "当社区成立时，在其页面上识别最多参与和正式成员以动员他们，给予他们大使身份是明智的。",
+            "tips": "根据2016年6月进行的Altimeter / TapInfluence研究，10个营销人员中有7个认识到创建大使计划是最有效的影响营销策略。 （Https://www.journaldunet.com/ebusiness/expert/68322/social-media---miser-sur-l-authenticite-des-ambassadeurs.shtml）",
+            "clue": "费列罗罗切尔。",
+            "template": "为了促进社区成员之间的互动，为最积极和忠诚的成员提供{{sel13652}}身份可能是个好主意。",
+            "choice_VJx5CtQ9BB": "海军上将",
+            "choice_4yZ50KmqSH": "大使",
+            "choice_EkPs5QqBS": "艺术家",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

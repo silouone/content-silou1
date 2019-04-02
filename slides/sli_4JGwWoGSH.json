@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T14:54:03.545Z",
+            "updatedAt": "2018-10-08T15:19:46.884Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JGwWoGSH",
+        "universalRef": "sli_4JGwWoGSH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel43422",
+                        "items": [
+                            {
+                                "text": "choice_41xk-A4kPB",
+                                "value": "choice_41xk-A4kPB"
+                            },
+                            {
+                                "text": "choice_EJ~y-R41wr",
+                                "value": "choice_EJ~y-R41wr"
+                            },
+                            {
+                                "text": "choice_Nylt0NkwB",
+                                "value": "choice_Nylt0NkwB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel43422",
+                        "answers": [
+                            "choice_41xk-A4kPB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Complétez la phrase suivante.",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La logique des flux veut que les informations vraiment pertinentes pour vous finissent par revenir dans votre paysage à un moment ou à un autre.",
+            "tips": "Le mouvement \"JOMO\" (ou <i>Joy Of Missing Out</i>) ou le plaisir de reprendre le pouvoir sur notre temps et de choisir de faire des activités qui nous intéressent est apparu comme une réponse au \"FOMO\" (<i>Fear Of Missing Out</i>). Il s’agit d’adopter un style de vie plus serein à contre-pied du \"FOMO\" : au lieu d’être connecté en permanence, on apprend à ne plus regarder systématiquement son smartphone et à faire autre chose à la place. Ce phénomène gagne du terrain dans le monde professionnel et certaines entreprises commencent à proposer à leurs employés des « déjeuners méditatifs et silencieux » durant lesquels le portable est proscrit.",
+            "clue": "\"What goes around comes around\", comme l'a chanté Justin Timberlake...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les informations essentielles pour vous {{sel43422}}.",
+            "choice_41xk-A4kPB": "finissent toujours par revenir dans votre paysage",
+            "choice_EJ~y-R41wr": "sont à saisir dès qu'elles se présentent: vous n'avez qu'une seule chance !",
+            "choice_Nylt0NkwB": "ne se trouvent pas sur les outils digitaux"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "Complete the following sentence.",
+            "klf": "The way feeds work, and the constant flow of information means that anything really relevant to you will end up coming back again at some point or another.",
+            "tips": "The JOMO (<i>Joy Of Missing Out</i>) movement was developed in response to \"FOMO\", (the <i>Fear Of Missing Out</i>). JOMO refers to the pleasure of reclaiming power over our time and choosing to do activities that interest us. “FOMO” means you’re permanently connected to the Internet and systematically looking at your smartphone, whereas JOMO requires you to adopt a completely different, calmer lifestyle and do other things instead. The JOMO movement is gaining ground globally in professional circles. Some businesses are even starting to offer employees “contemplative, peaceful lunches“ where phones and laptops are banned.",
+            "clue": "As Justin Timberlake sang, \"What goes around comes around\"...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Essential information {{sel43422}}.",
+            "choice_41xk-A4kPB": "always ends up coming back to you",
+            "choice_EJ~y-R41wr": "must be seen the second it appears: you only have one chance!",
+            "choice_Nylt0NkwB": "can’t be found using digital tools"
+        }
+    }
+}

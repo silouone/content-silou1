@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T09:12:40.675Z",
+            "updatedAt": "2018-06-21T09:15:39.825Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkoPpuVqE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4JKJuAinV",
+        "universalRef": "sli_4JKJuAinV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel33907",
+                        "label": "label_E1tl37z0E",
+                        "items": [
+                            {
+                                "text": "choice_41xFg27zRV",
+                                "value": "choice_41xFg27zRV"
+                            },
+                            {
+                                "text": "choice_EJ~Fe2QzC4",
+                                "value": "choice_EJ~Fe2QzC4"
+                            },
+                            {
+                                "text": "choice_4JdZhmfAE",
+                                "value": "choice_4JdZhmfAE"
+                            },
+                            {
+                                "text": "choice_E1ZznXz0V",
+                                "value": "choice_E1ZznXz0V"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel33907",
+                        "answers": [
+                            "choice_41xFg27zRV"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La plupart du temps, nous cherchons à concentrer notre attention afin de ne pas être perturbés par des stimuli divers. Comment les neuroscientifiques nomment-ils ce mode de fonctionnement ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Nos neurones ont, au fil du temps, créé des habitudes réflexes qui détournent notre attention, parfois à bon escient, parfois inutilement. Sollicités en permanence par des stimuli externes, nous agissons comme des marionnettes dépendantes de nos habitudes.",
+            "tips": "Dans son livre \"Les Petites Bulles de l’Attention\", le neuroscientifique Jean-Philippe Lachaux explique que pour apprendre à ne pas laisser notre attention divaguer, il est nécessaire de retrouver le \"sens de l'équilibre attentionnel,\" c'est-à-dire la capacité à ressentir finement les dérives de notre attention pour les compenser par petites touches.",
+            "clue": "Fils.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Lorsque notre corps réagit à tous les stimuli selon les habitudes créées par nos neurones, nous agissons en {{sel33907}}.",
+            "label_E1tl37z0E": " ",
+            "choice_41xFg27zRV": "mode marionnette",
+            "choice_EJ~Fe2QzC4": "mode enfantin",
+            "choice_4JdZhmfAE": "mode dispersion",
+            "choice_E1ZznXz0V": "mode caprice"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "Most of the time, we try to focus our attention so we’re not distracted by a range of different stimuli. How do neuroscientists describe this way of functioning?",
+            "klf": "Over time, our neurons create automatic habits which divert our attention. Sometimes these distractions are useful, other times, not at all. We are constantly distracted by external stimuli, making us dependent on our habits, like puppets on a string.",
+            "tips": "Jean-Philippe Lachaux published a book called “Les Petites Bulles de l’Attention” (Little Attention Bubbles). In it, he explains that we need to develop a “sense of attentional balance” to stop our attention from drifting. We need to recognise when our attention is wandering and offset that process by making small changes.",
+            "clue": "Strings.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When our body reacts to a plethora of stimuli by resorting to habits created by our neurons, we act {{sel33907}}.",
+            "label_E1tl37z0E": " ",
+            "choice_41xFg27zRV": "like puppets",
+            "choice_EJ~Fe2QzC4": "like children",
+            "choice_4JdZhmfAE": "erratically",
+            "choice_E1ZznXz0V": "impulsively "
+        }
+    }
+}

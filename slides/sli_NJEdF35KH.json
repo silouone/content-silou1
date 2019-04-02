@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:25:26.176Z",
+            "updatedAt": "2018-12-03T09:01:22.100Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyvEqF9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "Fausto95",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJEdF35KH",
+        "universalRef": "sli_NJEdF35KH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJEdF35KH.choice_NkDsKhcYH.id",
+                        "label": "choice_NkDsKhcYH",
+                        "value": "choice_NkDsKhcYH"
+                    },
+                    {
+                        "id": "sli_NJEdF35KH.choice_E1soF25tS.id",
+                        "label": "choice_E1soF25tS",
+                        "value": "choice_E1soF25tS"
+                    },
+                    {
+                        "id": "sli_NJEdF35KH.choice_V1M2FhcYH.id",
+                        "label": "choice_V1M2FhcYH",
+                        "value": "choice_V1M2FhcYH"
+                    },
+                    {
+                        "id": "sli_NJEdF35KH.choice_4JO3t2qKB.id",
+                        "label": "choice_4JO3t2qKB",
+                        "value": "choice_4JO3t2qKB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JO3t2qKB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu’est-ce que l’outbound marketing ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "L'outbound marketing, ou littéralement le marketing sortant, est une forme \"primitive\" du marketing. On cherche, à l’aide des techniques \"outbound\", à toucher le consommateur potentiel sans qu’il n’ait rien demandé.",
+            "tips": "On estime que 2 % seulement des visiteurs sont convertis en leads lors de leur première visite sur un site Web. Le reciblage publicitaire génère des conversions plus importantes et s'avère donc un complément outbound très efficace à une stratégie d'inbound marketing.",
+            "clue": "On parle également d’un marketing intrusif.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkDsKhcYH": "Le marketing de la permission",
+            "choice_E1soF25tS": "Le marketing de l’innovation",
+            "choice_V1M2FhcYH": "Le marketing automation",
+            "choice_4JO3t2qKB": "Le marketing sortant"
+        },
+        "en": {
+            "header": "Qu’est-ce que l’outbound marketing ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Loutbound marketing, ou littéralement le marketing sortant, est une forme primitive du marketing. On cherche, à l’aide des techniques outbound, à toucher le consommateur potentiel sans qu’il n’ait rien demandé.",
+            "tips": "On estime que 2 % seulement des visiteurs sont convertis en leads lors de leur première visite sur un site Web. Le reciblage publicitaire génère des conversions plus importantes et savère donc un complément outbound très efficace à une stratégie dinbound marketing.",
+            "clue": "On parle également d’un marketing intrusif.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkDsKhcYH": "Le marketing de la permission",
+            "choice_E1soF25tS": "Le marketing de l’innovation",
+            "choice_V1M2FhcYH": "Le marketing automation",
+            "choice_4JO3t2qKB": "Le marketing sortant"
+        },
+        "pt": {},
+        "de": {}
+    }
+}

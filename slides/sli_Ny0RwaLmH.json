@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:54:27.820Z",
+            "updatedAt": "2018-08-01T14:15:26.611Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Ny0RwaLmH",
+        "universalRef": "sli_Ny0RwaLmH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ny0RwaLmH.choice_41agdTUQr.id",
+                        "label": "choice_41agdTUQr",
+                        "value": "choice_41agdTUQr"
+                    },
+                    {
+                        "id": "sli_Ny0RwaLmH.choice_4JMZdT8QS.id",
+                        "label": "choice_4JMZdT8QS",
+                        "value": "choice_4JMZdT8QS"
+                    },
+                    {
+                        "id": "sli_Ny0RwaLmH.choice_NJtWOT8Qr.id",
+                        "label": "choice_NJtWOT8Qr",
+                        "value": "choice_NJtWOT8Qr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41agdTUQr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que privilégie la matrice Eisenhower ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La matrice d’Eisenhower vise à privilégier l’importance à l’urgence.",
+            "tips": "En privilégiant les tâches importantes, vous pouvez également les découper en sous-objectifs atteignables en une séquence de 2h maximum pour à la fois augmenter vos chances de les réaliser et booster votre efficacité globale.",
+            "clue": "Il n’y a pas le feu !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41agdTUQr": "l’importance à l’urgence",
+            "choice_4JMZdT8QS": "l’urgence à l’importance",
+            "choice_NJtWOT8Qr": "l’énergie à l’importance"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Que privilégie la matrice Eisenhower ?",
+            "klf": "La matrice d’Eisenhower vise à privilégier l’importance à l’urgence.",
+            "tips": "En privilégiant les tâches importantes, vous pouvez également les découper en sous-objectifs atteignables en une séquence de 2h maximum pour à la fois augmenter vos chances de les réaliser et booster votre efficacité globale.",
+            "clue": "Il n’y a pas le feu !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41agdTUQr": "l’importance à l’urgence",
+            "choice_4JMZdT8QS": "l’urgence à l’importance",
+            "choice_NJtWOT8Qr": "l’énergie à l’importance"
+        }
+    }
+}

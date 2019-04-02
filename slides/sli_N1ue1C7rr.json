@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-08T12:21:03.752Z",
+            "updatedAt": "2018-10-08T14:58:39.825Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1ue1C7rr",
+        "universalRef": "sli_N1ue1C7rr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_N1ue1C7rr.choice_NJ0f1RQrH.id",
+                        "label": "choice_NJ0f1RQrH",
+                        "value": "choice_NJ0f1RQrH"
+                    },
+                    {
+                        "id": "sli_N1ue1C7rr.choice_VygRGyRXHr.id",
+                        "label": "choice_VygRGyRXHr",
+                        "value": "choice_VygRGyRXHr"
+                    },
+                    {
+                        "id": "sli_N1ue1C7rr.choice_NJkm1RQHB.id",
+                        "label": "choice_NJkm1RQHB",
+                        "value": "choice_NJkm1RQHB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJkm1RQHB",
+                        "choice_NJ0f1RQrH",
+                        "choice_VygRGyRXHr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Sélectionnez dans l'ordre les différentes étapes de la mise en place et du suivi d'un kanban.",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour mettre en place son kanban, il faut commencer par noter toutes ses tâches sur des post-it ou des cartes virtuelles, avant de les répartir dans les bonnes colonnes. Il s'agira par la suite de mettre à jour régulièrement son kanban en déplaçant les cartes au fur et à mesure de leur réalisation.",
+            "tips": "Les neurosciences soulignent l’importance de la visualisation car les cellules du cortex visuel sont plus nombreuses, plus profondes et plus riches que celles du cortex auditif. Cela explique le pouvoir des éléments visuels dans la compréhension de nouveaux concepts et l'efficacité des méthodes visuelles de représentation de l’information.",
+            "clue": "Lister, ranger, évoluer !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ0f1RQrH": "Répartir les tâches dans les différentes colonnes",
+            "choice_VygRGyRXHr": "Déplacer les tâches de colonne en colonne",
+            "choice_NJkm1RQHB": "Noter chaque tâche sur une étiquette"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "When setting up and running a Kanban board, in what order should you do the following steps?",
+            "klf": "When you set up a Kanban board, you need to start off by writing down all your tasks on Post-it notes or virtual cards. You then put each one in the correct column. And finally, you need to regularly update your Kanban board by moving the cards into different columns as your tasks progress.",
+            "tips": "Neuroscientists stress the significance of visualisation because there are more cells in the visual cortex than the auditory cortex and they are also deeper and more complex. This is why visual elements are so powerful when comes to understanding new concepts. As a whole, visual methods are a more effective way of representing information.",
+            "clue": "List, sort, progress!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ0f1RQrH": "Separate tasks into the different columns",
+            "choice_VygRGyRXHr": "Move tasks from one column to another",
+            "choice_NJkm1RQHB": "Write each task down on a Post-it"
+        }
+    }
+}

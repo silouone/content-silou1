@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:18:27.586Z",
+            "updatedAt": "2016-08-31T13:19:36.686Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yvzUJD9l",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4yvzUJD9l.field_EysRUyP5l.id",
+                        "type": "text",
+                        "name": "inp38424",
+                        "label": "label_NJei0IJw5e",
+                        "placeholder": "placeholder_4kbjCUJDcl"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp38424",
+                        "answers": [
+                            "choice_EJzj0IJwqe"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4yvzUJD9l"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment s'appelle l'exercice quand on gonfle son ventre avec de l'air avant d'expulser longtemps et doucement en formant un cercle avec sa bouche?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "Lorsque vous parlez, vous devez bien respirer pour mieux oxygéner votre cerveau et réguler votre système nerveux. Pour cela, l'exercice de la paille peut être utile. Cela implique de gonfler son ventre avec de l’air, puis d’exhaler comme si sa respiration passait à travers une paille.",
+            "tips": "De nombreux exercices conseillent de visualiser le souffle qui circule dans le corps ou de compter, car cela facilite la respiration et permet également de se détendre.",
+            "clue": "Normalement, c'est plus comme sucer.",
+            "template": "Exercice du {{inp38424}}.",
+            "label_NJei0IJw5e": " ",
+            "choice_EJzj0IJwqe": "Paille",
+            "placeholder_4kbjCUJDcl": " "
+        },
+        "en": {
+            "header": "What is the exercise called when one inflates his belly with air before expelling long and gently forming a circle with his mouth?",
+            "explanation": "Enter your answer.",
+            "klf": "When speaking, you must breathe properly to better oxygenate your brain and regulate your nervous system. For this, the exercise of the straw can be useful. It involves inflating its belly with air and then exhaling as if the breath was passing through a straw.",
+            "tips": "Many exercises advise to visualize the breath that circulates inside the body or to count, because it helps the breathing and also allows to relax.",
+            "clue": "Normally, it's more like sucking.",
+            "template": "Exercise of the {{inp38424}}.",
+            "label_NJei0IJw5e": " ",
+            "choice_EJzj0IJwqe": "Straw",
+            "placeholder_4kbjCUJDcl": " "
+        },
+        "de": {
+            "header": "Wie heißt die Übung, wenn man seinen Bauch mit Luft aufbläst, bevor man ihn lange ausstößt und sanft mit dem Mund einen Kreis bildet?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Wenn Sie sprechen, müssen Sie richtig atmen, um Ihr Gehirn besser mit Sauerstoff zu versorgen und Ihr Nervensystem zu regulieren. Dafür kann die Ausübung des Strohhalms nützlich sein. Es beinhaltet das Aufblasen des Bauches mit Luft und dann das Ausatmen, als würde der Atem durch einen Strohhalm strömen.",
+            "tips": "In vielen Übungen wird empfohlen, den Atem, der im Körper zirkuliert, zu visualisieren oder zu zählen, da dies die Atmung fördert und auch die Entspannung ermöglicht.",
+            "clue": "Normalerweise saugt es mehr.",
+            "template": "Übung des {{inp38424}}.",
+            "label_NJei0IJw5e": " ",
+            "choice_EJzj0IJwqe": "Stroh",
+            "placeholder_4kbjCUJDcl": " "
+        },
+        "es": {
+            "header": "What is the exercise called where you inflate your stomach with air before expelling at length and slowly, forming a circle with your mouth?",
+            "explanation": "Type your answer (one word).",
+            "klf": "At the time of speaking, we must breathe properly to better oxygenate the brain and regulate the nervous system. You can practise the straw exercise: inflate your belly and exhale slowly, as if your were blowing through a straw.",
+            "tips": "Many exercises advise visualising the air that circulates in your body or to count, because this helps with breathing and also allows you to relax.",
+            "template": "The  {{inp38424}}  exercise.",
+            "label_NJei0IJw5e": " ",
+            "placeholder_4kbjCUJDcl": " ",
+            "choice_EJzj0IJwqe": "straw",
+            "clue": "Normally, it is used for inhaling."
+        },
+        "zh": {
+            "header": "这个练习叫做什么，你用空气给你的肚子充气，然后慢慢地开始慢慢地用你的嘴形成一个圆圈？",
+            "explanation": "输入你的答案（一个字）。",
+            "klf": "在发言时，我们必须适当呼吸，以更好地给大脑充氧并调节神经系统。你可以练习吸管运动：给你的腹部充气并慢慢呼气，好像你正在用稻草吹。",
+            "tips": "许多运动建议可视化在您体内循环或计数的空气，因为这有助于呼吸，也可以让您放松。",
+            "clue": "通常，它用于吸入。",
+            "template": "{{inp38424}}练习。{",
+            "label_NJei0IJw5e": " ",
+            "choice_EJzj0IJwqe": "稻草",
+            "placeholder_4kbjCUJDcl": " "
+        }
+    }
+}

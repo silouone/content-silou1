@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:53:14.104Z",
+            "updatedAt": "2018-10-08T13:55:45.946Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkFuPpLXr",
+        "universalRef": "sli_VkFuPpLXr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkFuPpLXr.choice_NJxIS13cNr.id",
+                        "label": "choice_NJxIS13cNr",
+                        "value": "choice_NJxIS13cNr",
+                        "media": "med_E1UH12cVB"
+                    },
+                    {
+                        "id": "sli_VkFuPpLXr.choice_VJgNLy29EH.id",
+                        "label": "choice_VJgNLy29EH",
+                        "value": "choice_VJgNLy29EH",
+                        "media": "med_EkEUJn9NB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJxIS13cNr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Les tâches urgentes et non importantes peuvent tout à fait être déléguées. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les tâches urgentes et non importantes peuvent en effet être déléguées ou standardisées, afin qu'elles soient traitées rapidement sans rien perdre en qualité.",
+            "tips": "Les tâches non urgentes et non importantes ne sont pas à oublier complètement. Ces tâches à faible charge mentale peuvent être effectuées aux moments où vous êtes en énergie faible. Il est donc utile, pour gagner du temps ultérieurement, d’effectuer pendant ces moments-là certaines tâches comme classer, mettre à jour, automatiser.",
+            "clue": "C'est pas moi, c'est lui !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJxIS13cNr": "Vrai",
+            "choice_VJgNLy29EH": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Urgent tasks that are unimportant should most definitely be delegated. True or false?",
+            "klf": "Unimportant, urgent tasks can be delegated or standardised so they’re dealt with rapidly but nothing is lost in terms of quality.",
+            "tips": "Unfortunately, we can’t completely disregard non-urgent, unimportant tasks! Tasks such as these aren’t mentally taxing, so you should aim to do them at times when you’re lacking in energy. You can buy yourself some additional time in the future by doing this kind of task when you’re tired. You could do filing, send out updates or standardise office processes, for example.",
+            "clue": "It wasn’t me, it was him!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJxIS13cNr": "True",
+            "choice_VJgNLy29EH": "False"
+        }
+    }
+}

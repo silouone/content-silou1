@@ -1,0 +1,96 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:08:33.083Z",
+            "updatedAt": "2018-06-22T15:16:40.966Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJzQRdE54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vk-VhErpE",
+        "universalRef": "sli_Vk-VhErpE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel13561",
+                        "label": "label_NJ5cQzR0N",
+                        "items": [
+                            {
+                                "text": "choice_VJlcqmGCCV",
+                                "value": "choice_VJlcqmGCCV"
+                            },
+                            {
+                                "text": "choice_4k~q5Xz0C4",
+                                "value": "choice_4k~q5Xz0C4"
+                            },
+                            {
+                                "text": "choice_V1hiQG00E",
+                                "value": "choice_V1hiQG00E"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel13561",
+                        "answers": [
+                            "choice_VJlcqmGCCV"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "De quel état d’esprit le brainstorming inversé tire-t-il profit ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le brainstorming inversé tire profit de l'état d'esprit des pessimistes.",
+            "tips": "Les chercheurs de l'Université Friedrich-Alexander de Nuremberg se sont basés sur les données du Panel socio-économique allemand (une étude de vaste ampleur menée depuis 1984) et ont démontré en 2013 que les personnes âgées pessimistes vivent plus longtemps et en meilleure santé que les optimistes...!",
+            "clue": "Superlatif latin de malus.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le brainstorming inversé séduira particulièrement les {{sel13561}}.",
+            "label_NJ5cQzR0N": " ",
+            "choice_VJlcqmGCCV": "pessimistes",
+            "choice_4k~q5Xz0C4": "optimistes",
+            "choice_V1hiQG00E": "sceptiques"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "What mind-set do you need to get the best out of your reverse brainstorming session?",
+            "klf": "A pessimistic mind-set is what makes reverse brainstorming effective.",
+            "tips": "In a 2013 study based on data from the German Socio-Economic Panel, researchers from Friedrich-Alexander University in Nuremburg showed that pessimistic people live longer and have better health than optimists!",
+            "clue": "This word comes from the superlative form of the Latin word “malus”.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Reverse brainstorming will be particularly popular among {{sel13561}}.",
+            "label_NJ5cQzR0N": " ",
+            "choice_VJlcqmGCCV": "pessimists",
+            "choice_4k~q5Xz0C4": "optimists",
+            "choice_V1hiQG00E": "sceptics"
+        }
+    }
+}

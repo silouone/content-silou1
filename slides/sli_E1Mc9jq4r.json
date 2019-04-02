@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-01T13:55:20.265Z",
+            "updatedAt": "2018-10-08T13:58:12.948Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1Mc9jq4r",
+        "universalRef": "sli_E1Mc9jq4r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1Mc9jq4r.choice_41eqTci54r.id",
+                        "label": "choice_41eqTci54r",
+                        "value": "choice_41eqTci54r",
+                        "media": "med_VJq6qo9NS"
+                    },
+                    {
+                        "id": "sli_E1Mc9jq4r.choice_41ln0csqEB.id",
+                        "label": "choice_41ln0csqEB",
+                        "value": "choice_41ln0csqEB",
+                        "media": "med_Ey309i54r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41ln0csqEB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La notion d'urgence est objective et absolue : une tâche urgente le sera quelles que soient les circonstances. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La notion d'urgence est relative et dépend toujours d'une personne et d'un contexte. Ce que je considère urgent ne sera pas forcément envisagé de la même façon par mon collègue.",
+            "tips": "René Char a très justement dit : \"L'essentiel est sans cesse menacé par l'insignifiant.\"",
+            "clue": "C'est plus complexe que ça...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eqTci54r": "Vrai",
+            "choice_41ln0csqEB": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "The concept of urgency is unbiased and unconditional: an urgent task is always urgent, no matter the circumstances. True or false?",
+            "klf": "The concept of urgency is relative and always depends on context and personal perspective. What I think is urgent won’t necessarily be seen as such by my colleagues.",
+            "tips": "René Char very fittingly said: “The essential is continually threatened by the insignificant.”",
+            "clue": "It’s more complicated than that…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eqTci54r": "True",
+            "choice_41ln0csqEB": "False"
+        }
+    }
+}

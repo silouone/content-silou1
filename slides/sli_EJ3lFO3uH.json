@@ -1,0 +1,95 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T11:54:15.737Z",
+            "updatedAt": "2018-10-17T11:54:00.070Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyL0KKq4S"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJ3lFO3uH",
+        "universalRef": "sli_EJ3lFO3uH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJ3lFO3uH.choice_NJ68Y-2-B.id",
+                        "label": "choice_NJ68Y-2-B",
+                        "value": "choice_NJ68Y-2-B"
+                    },
+                    {
+                        "id": "sli_EJ3lFO3uH.choice_VJNvtu3uB.id",
+                        "label": "choice_VJNvtu3uB",
+                        "value": "choice_VJNvtu3uB"
+                    },
+                    {
+                        "id": "sli_EJ3lFO3uH.choice_NJoDK-3dr.id",
+                        "label": "choice_NJoDK-3dr",
+                        "value": "choice_NJoDK-3dr"
+                    },
+                    {
+                        "id": "sli_EJ3lFO3uH.choice_N1ZOFundB.id",
+                        "label": "choice_N1ZOFundB",
+                        "value": "choice_N1ZOFundB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ68Y-2-B",
+                        "choice_VJNvtu3uB",
+                        "choice_NJoDK-3dr",
+                        "choice_N1ZOFundB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment définir efficacement ses personas ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La définition des personas n’est pas à prendre à la légère. Elle représente un travail complexe qui doit impliquer plusieurs fonctions de l’entreprise ainsi que des clients et des prospects. C’est également un bon moyen d’impliquer et d’expliquer la démarche inbound marketing aux commerciaux de son entreprise.",
+            "tips": "Des outils en ligne comme Make my Persona, Xtension ou Up Close & Persona offrent un cadre structurant pour définir ses personas.",
+            "clue": "Être sur tous les fronts !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ68Y-2-B": "En impliquant ses commerciaux ",
+            "choice_VJNvtu3uB": "En faisant de la veille concurrentielle",
+            "choice_NJoDK-3dr": "En interrogeant quelques clients fidèles ",
+            "choice_N1ZOFundB": "En consultant des prospects via une enquête ou un sondage "
+        },
+        "en": {
+            "header": "Comment définir efficacement ses personas ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La définition des personas n’est pas à prendre à la légère. Elle représente un travail complexe qui doit impliquer plusieurs fonctions de l’entreprise ainsi que des clients et des prospects. C’est également un bon moyen d’impliquer et d’expliquer la démarche inbound marketing aux commerciaux de son entreprise.",
+            "tips": "Des outils en ligne comme Make my Persona, Xtension ou Up Close & Persona offrent un cadre structurant pour définir ses personas.",
+            "clue": "Être sur tous les fronts !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ68Y-2-B": "En impliquant ses commerciaux ",
+            "choice_VJNvtu3uB": "En faisant de la veille concurrentielle",
+            "choice_NJoDK-3dr": "En interrogeant quelques clients fidèles ",
+            "choice_N1ZOFundB": "En consultant des prospects via une enquête ou un sondage "
+        }
+    }
+}

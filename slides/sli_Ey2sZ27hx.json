@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:31:40.953Z",
+            "updatedAt": "2017-12-01T11:06:13.875Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yHV-8Cje"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Ey2sZ27hx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ey2sZ27hx.choice_V15fz3X2e.id",
+                        "label": "choice_V15fz3X2e",
+                        "value": "choice_V15fz3X2e"
+                    },
+                    {
+                        "id": "sli_Ey2sZ27hx.choice_NJaffnXhl.id",
+                        "label": "choice_NJaffnXhl",
+                        "value": "choice_NJaffnXhl"
+                    },
+                    {
+                        "id": "sli_Ey2sZ27hx.choice_EyxQf2m3g.id",
+                        "label": "choice_EyxQf2m3g",
+                        "value": "choice_EyxQf2m3g"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyxQf2m3g"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Ey2sZ27hx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Cathy a l'occasion de rejoindre un réseau mixte. Doit-elle y participer ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les femmes ne doivent pas négliger les réseaux mixtes. Ne fréquenter que des réseaux féminins pourrait vous couper de nombreux contacts masculins, tout aussi intéressants pour votre carrière. Pour Anne Lauvergeon, “les réseaux mixtes favorisent l'engagement des hommes sur le sujet de la mixité”.",
+            "tips": "Marie-Christine Mahéas, présidente du réseau EPWN France, milite, elle, pour intégrer des hommes dans les réseaux féminins. Pour elle, “nous n'avancerons pas sur la mixité en continuant à nous rassembler entre nous, c'est contre-productif”.",
+            "clue": "Diversité est synonyme de richesse.",
+            "choice_V15fz3X2e": "Oui, elle pourra y rencontrer son conjoint",
+            "choice_NJaffnXhl": "Non, seuls les réseaux féminins sont utiles",
+            "choice_EyxQf2m3g": "Oui, elle pourra y étendre son réseau"
+        },
+        "en": {
+            "header": "Cathy has the opportunity to join a mixed network. Should she participate?",
+            "explanation": "Select the correct answer.",
+            "klf": "Women should not neglect mixed networks. Attending only women's networks could cut many male contacts, just as interesting for your career. For Anne Lauvergeon, \"mixed networks encourage the commitment of men on the subject of gender diversity\".",
+            "tips": "Marie-Christine Mahéas, president of the EPWN France network, is campaigning to integrate men into women's networks. For her, \"we will not advance on the mix by continuing to gather between us, it is counterproductive\".",
+            "clue": "Diversity is synonymous with wealth.",
+            "choice_V15fz3X2e": "Yes, she can meet her spouse",
+            "choice_NJaffnXhl": "No, only women's networks are useful",
+            "choice_EyxQf2m3g": "Yes, she can expand her network"
+        },
+        "de": {
+            "header": "Cathy hat die Möglichkeit, sich einem gemischten Netzwerk anzuschließen. Soll sie mitmachen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Frauen sollten die gemischten Netzwerke nicht übersehen. Wenn Sie sich nur auf Frauennetzwerke beschränken, müssen Sie einige männliche Kontakte verlieren, die für Ihre Karriere gleichermaßen wichtig sind. Laut Anne Lauvergeon \"fördern gemischte Netzwerke das männliche Engagement für Vielfalt.\"",
+            "tips": "Marie-Christine Mahéas, Netzwerkpräsidentin von EPWN France, setzt sich für die Einbeziehung von Männern in Frauennetzwerke ein. Für sie \"können wir nicht hoffen, die soziale Vielfalt zu erhöhen, wenn wir uns weiterhin in begrenzten Gruppen treffen, ist dies kontraproduktiv.\"",
+            "clue": "Vielfalt ist gleichbedeutend mit Wohlstand.",
+            "choice_V15fz3X2e": "Ja, sie wird dort ihren Gatten treffen können",
+            "choice_NJaffnXhl": "Nein, nur die Frauennetzwerke sind nützlich",
+            "choice_EyxQf2m3g": "Ja, sie wird ihr Netzwerk erweitern können"
+        },
+        "es": {
+            "header": "Cathy has the opportunity to join a mixed network. Should she participate?",
+            "explanation": "Select the correct answer.",
+            "klf": "Women should not overlook the mixed networks. Limiting yourself to just women’s networks may mean losing out on a number of male contacts, which are equally important for your career. According to Anne Lauvergeon, \"mixed networks promote male commitment to diversity.\"",
+            "tips": "Marie-Christine Mahéas, network president of the EPWN France, campaigns to include men in women's networks. For her, \"we cannot hope to increase social diversity if we continue to meet in restricted groups, it is counter-productive.\"",
+            "choice_V15fz3X2e": "Yes, she will be able to meet her spouse there",
+            "choice_NJaffnXhl": "No, only the women's networks are useful",
+            "choice_EyxQf2m3g": "Yes, she will be able to expand her network",
+            "clue": "Diversity is synonymous with wealth."
+        },
+        "zh": {
+            "header": "凯茜有机会加入混合网络。她应该参加吗？",
+            "explanation": "选择正确的答案。",
+            "klf": "女性不应忽视混合网络。将自己限制在女性网络中可能意味着失去一些男性接触者，这对您的职业生涯同样重要。根据Anne Lauvergeon的说法，“混合网络促进了男性对多样性的承诺。”",
+            "tips": "EPWN法国网络主席Marie-ChristineMahéas开展活动，将男性纳入女性网络。对她来说，“如果我们继续在受限制的群体中相遇，我们就不能希望增加社会多样性，这会适得其反。”",
+            "clue": "多样性是财富的代名词。",
+            "choice_V15fz3X2e": "是的，她将能够在那里见到她的配偶",
+            "choice_NJaffnXhl": "不，只有女性网络才有用",
+            "choice_EyxQf2m3g": "是的，她将能够扩展她的网络"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T13:09:23.214Z",
+            "updatedAt": "2018-06-22T16:00:20.440Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T13:09:23.214Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4ktkRP80E",
+        "universalRef": "sli_4ktkRP80E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4ktkRP80E.choice_VyyfAv80N.id",
+                        "label": "choice_VyyfAv80N",
+                        "value": "choice_VyyfAv80N"
+                    },
+                    {
+                        "id": "sli_4ktkRP80E.choice_V1ZMRDI0E.id",
+                        "label": "choice_V1ZMRDI0E",
+                        "value": "choice_V1ZMRDI0E"
+                    },
+                    {
+                        "id": "sli_4ktkRP80E.choice_418fRPL0E.id",
+                        "label": "choice_418fRPL0E",
+                        "value": "choice_418fRPL0E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1ZMRDI0E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans le cadre d’une séance de brainstorming, comment facilite-t-on le passage de l’idée à l’action ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour pouvoir passer plus facilement à la mise en œuvre à l’issue de votre séance de brainstorming, il est conseillé d’indiquer la première action physique à réaliser pour chaque idée que vous avez jugée prioritaire.",
+            "tips": "La méthode de la première action s’inspire de la méthode des petits pas du Kaizen. Cette dernière propose, pour arriver à son objectif en douceur, d’effectuer de petits efforts constants qui ne sont en rien insurmontables.",
+            "clue": "Getting things done.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyyfAv80N": "En découpant et segmentant les actions",
+            "choice_V1ZMRDI0E": "En indiquant la première action physique à réaliser pour chaque idée",
+            "choice_418fRPL0E": "En listant toutes les actions"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "How can you make it easier to move from ideas to action during a brainstorming session?",
+            "klf": "To make it easier to turn ideas into a reality once you step out of your brainstorming session, one piece of advice is to specify the first action to carry out for each of your priority actions.",
+            "tips": "This “first action” technique is inspired by the kaizen small steps method, which recommends that you make constant little efforts that are well within your capabilities to help you meet your objective the stress-free way.",
+            "clue": "Getting Things Done",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyyfAv80N": "Break actions into smaller parts",
+            "choice_V1ZMRDI0E": "Specify the first concrete action to carry out",
+            "choice_418fRPL0E": "List all the actions to undertake"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:50:01.303Z",
+            "updatedAt": "2018-10-08T13:54:21.748Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1stLaUmB",
+        "universalRef": "sli_E1stLaUmB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1stLaUmB.choice_EJta8pUQS.id",
+                        "label": "choice_EJta8pUQS",
+                        "value": "choice_EJta8pUQS"
+                    },
+                    {
+                        "id": "sli_E1stLaUmB.choice_4J7C8a8QB.id",
+                        "label": "choice_4J7C8a8QB",
+                        "value": "choice_4J7C8a8QB"
+                    },
+                    {
+                        "id": "sli_E1stLaUmB.choice_NJA08687H.id",
+                        "label": "choice_NJA08687H",
+                        "value": "choice_NJA08687H"
+                    },
+                    {
+                        "id": "sli_E1stLaUmB.choice_N1gJvpU7H.id",
+                        "label": "choice_N1gJvpU7H",
+                        "value": "choice_N1gJvpU7H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJta8pUQS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment faut-il traiter les tâches urgentes <u>et</u> importantes ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est conseillé de traiter les tâches urgentes et importantes tout de suite, sans les déléguer.",
+            "tips": "Dans leur ouvrage <i>Rework</i>, les entrepreneurs Jason Fried et David Heinemeir Hansson donnent une liste de 8 questions qui peut vous aider à déterminer si vous travaillez sur ce qui est important. Pourquoi faites-vous ceci ? Quel problème êtes-vous en train de résoudre ? Est-ce réellement utile ? Créez-vous de la valeur ? Est-ce que cela va entraîner un changement de comportement ? Est-ce qu’il y a une façon plus simple d’y arriver ? Quoi d’autre pourriez-vous faire à la place ? Est-ce que ça vaut réellement l’effort ?",
+            "clue": "Right now !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJta8pUQS": "Les faire tout de suite et soi-même",
+            "choice_4J7C8a8QB": "Les planifier",
+            "choice_NJA08687H": "Les éliminer",
+            "choice_N1gJvpU7H": "Les déléguer"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "How should you deal with tasks that are both urgent <u>and</u> important?",
+            "klf": "Tasks that are both urgent and important should be dealt with straight away and shouldn’t be delegated.",
+            "tips": "In a book entitled <i>Rework</i>, Entrepreneurs, Jason Fried and David Heinemeir Hansson provide a list of 8 questions that can help you determine whether you’re working on something important. Why are you doing this? What problem are you solving? Is this actually useful? Are you adding value? Will this change behaviour? Is there an easier way? What could you be doing instead? Is it really worth it?",
+            "clue": "Right now!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJta8pUQS": "You should do them yourself straight away",
+            "choice_4J7C8a8QB": "You should plan how to do them",
+            "choice_NJA08687H": "You should forget them",
+            "choice_N1gJvpU7H": "You should delegate them"
+        }
+    }
+}

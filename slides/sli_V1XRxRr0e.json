@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-31T08:38:46.656Z",
+            "updatedAt": "2016-08-31T14:12:58.561Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkMbtU0og"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaximeSch",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_V1XRxRr0e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50316",
+                        "label": "label_EJqGbArRg",
+                        "items": [
+                            {
+                                "text": "choice_4JgqMWArAe",
+                                "value": "choice_4JgqMWArAe"
+                            },
+                            {
+                                "text": "choice_4JbcGZRBRe",
+                                "value": "choice_4JbcGZRBRe"
+                            },
+                            {
+                                "text": "choice_N1oY~fkJZ",
+                                "value": "choice_N1oY~fkJZ"
+                            },
+                            {
+                                "text": "choice_N1z9ZzyyZ",
+                                "value": "choice_N1z9ZzyyZ"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50316",
+                        "answers": [
+                            "choice_4JbcGZRBRe"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_V1XRxRr0e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il impérativement travailler pour devenir un vrai leader ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pour devenir un leader authentique, il faut travailler son charisme : ayez un discours intelligible pour tous ; exprimez vos sentiments ; ne vous engagez que si vous pouvez tenir votre promesse. Vous pouvez également vous démarquer par une touche d'originalité.",
+            "tips": "Jean-François Moine, consultant chez Cegos, conseille de regarder notre attitude dans l'intimité. Si vous êtes leader auprès de votre famille ou de vos amis, vous pouvez vous en inspirer.",
+            "template": "Son   {{sel50316}}   .",
+            "clue": "Avoir du chien.",
+            "label_EJqGbArRg": " ",
+            "choice_4JgqMWArAe": "autorité",
+            "choice_4JbcGZRBRe": "charisme",
+            "choice_N1oY~fkJZ": "style",
+            "choice_N1z9ZzyyZ": "expertise"
+        },
+        "en": {
+            "header": "What does it take to work to become a true leader?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "To become a genuine leader, you have to work on your charism: have an intelligible speech for all; express your feelings; only commit yourself if you can keep your promise. You can also stand out with a touch of originality.",
+            "tips": "Jean-François Moine, consultant at Cegos, advises to look at our attitude in the privacy. If you are a leader with your family or friends, you can learn from them.",
+            "clue": "Have some dog.",
+            "template": "Last {{sel50316}}.",
+            "label_EJqGbArRg": " ",
+            "choice_4JgqMWArAe": "authority",
+            "choice_4JbcGZRBRe": "charisma",
+            "choice_N1oY~fkJZ": "style",
+            "choice_N1z9ZzyyZ": "expertise"
+        },
+        "de": {
+            "header": "Woran müssen Sie arbeiten, um ein wahrer Führer zu sein?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Um ein wahrer Führer zu werden, müssen Sie an Ihrem Charisma arbeiten: eine verständliche Rede für alle haben; zeige deine Gefühle; und nur zustimmen, wenn Sie Ihr Versprechen halten können. Alternativ können Sie sich mit einem Hauch Originalität auszeichnen.",
+            "tips": "Jean-François Moine, Berater bei Cegos, rät uns, unsere Einstellung im Privatleben zu betrachten. Wenn Sie mit Ihrer Familie oder Ihren Freunden eine Führungskraft haben, können Sie darauf zurückgreifen.",
+            "clue": "Viel Charme zu haben.",
+            "template": "Ihr {{sel50316}}",
+            "label_EJqGbArRg": " ",
+            "choice_4JgqMWArAe": "Behörde",
+            "choice_4JbcGZRBRe": "Charisma",
+            "choice_N1oY~fkJZ": "Stil",
+            "choice_N1z9ZzyyZ": "Sachverstand"
+        },
+        "es": {
+            "header": "What must you work on to be a true leader?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "To become a true leader, you must work on your charisma: have an understandable speech for all; express your feelings; and only agree to something if you can keep your promise. Alternatively, you can distinguish yourself with a touch of originality.",
+            "tips": "Jean-François Moine, a consultant at Cegos, advises us to look at our attitudes in our private life. If you are a leader with your family or your friends, you can draw on this.",
+            "template": "Your  {{sel50316}}",
+            "label_EJqGbArRg": " ",
+            "choice_4JgqMWArAe": "authority",
+            "choice_4JbcGZRBRe": "charisma",
+            "choice_N1oY~fkJZ": "style",
+            "choice_N1z9ZzyyZ": "expertise",
+            "clue": "To have a lot of charm."
+        },
+        "zh": {
+            "header": "你必须做些什么来成为真正的领导者？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "要成为真正的领导者，你必须努力实现自己的魅力：为所有人做一个可以理解的演讲;表达你的感受;如果你能兑现你的承诺，那就同意了。或者，您可以通过一丝创意来区分自己。",
+            "tips": "Cegos的顾问Jean-FrançoisMoine建议我们看看我们对私人生活的态度。如果您是您的家人或朋友的领导者，您可以借鉴这一点。",
+            "clue": "要有很多魅力。",
+            "template": "你的{{sel50316}}",
+            "label_EJqGbArRg": " ",
+            "choice_4JgqMWArAe": "权威",
+            "choice_4JbcGZRBRe": "魅力",
+            "choice_N1oY~fkJZ": "样式",
+            "choice_N1z9ZzyyZ": "专门知识"
+        }
+    }
+}

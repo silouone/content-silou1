@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-20T15:47:37.726Z",
+            "updatedAt": "2017-12-01T16:37:32.444Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4ympRsf9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "amandinelemoult21",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4y126zdMb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4y126zdMb.choice_Eyj5kmufb.id",
+                        "label": "choice_Eyj5kmufb",
+                        "value": "choice_Eyj5kmufb"
+                    },
+                    {
+                        "id": "sli_4y126zdMb.choice_N1gj9JmOzW.id",
+                        "label": "choice_N1gj9JmOzW",
+                        "value": "choice_N1gj9JmOzW"
+                    },
+                    {
+                        "id": "sli_4y126zdMb.choice_4kn9ymdG~.id",
+                        "label": "choice_4kn9ymdG~",
+                        "value": "choice_4kn9ymdG~"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1gj9JmOzW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4y126zdMb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour définir vos forces, devriez-vous vous concentrer sur votre expertise métier?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Parmi les atouts que vous pouvez mettre en avant, il y a évidemment le savoir-faire professionnel. Mais pas seulement: le bien-être compte aussi. Cela peut être l'empathie, la capacité d'écoute ou le charisme.",
+            "tips": "En 1958, Raymond Vatier, spécialiste de la formation professionnelle, définit les compétences comme la combinaison de connaissances (connaissances), de savoir-faire (pratique) et d'attitudes (attitudes).",
+            "clue": "Est-ce que l'expertise relationnelle en affaires?",
+            "choice_Eyj5kmufb": "Oui, les atouts professionnels rassemblent différents aspects de l'expertise métier",
+            "choice_N1gj9JmOzW": "Non, le bien-être peut aussi être mis en avant",
+            "choice_4kn9ymdG~": "Tout dépend du poste et de la personne à qui il est adressé."
+        },
+        "en": {
+            "header": "In order to define your strengths, should you focus on your business expertise?",
+            "explanation": "Select the correct answer.",
+            "klf": "Among the assets that you can put forward, there is obviously the professional know-how. But not only: the well-being also matters. It can be empathy, the ability to listen or the charisma.",
+            "tips": "In 1958, Vocational Training Specialist Raymond Vatier defined competencies as the combination of knowledge (knowledge), know-how (practice) and attitudes (attitudes).",
+            "clue": "Is relational business expertise?",
+            "choice_Eyj5kmufb": "Yes, professional strengths bring together different aspects of business expertise",
+            "choice_N1gj9JmOzW": "No, the well-being can also be put forward",
+            "choice_4kn9ymdG~": "It all depends on the position and the person to whom it is addressed"
+        },
+        "de": {
+            "header": "Sollten Sie Ihre Stärken definieren, sollten Sie sich auf Ihre geschäftliche Expertise konzentrieren?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Zu den Vorzügen, die Sie einbringen können, gehört natürlich auch das fachliche Know-how. Aber nicht nur das Wohlbefinden ist wichtig. Es kann Empathie sein, Zuhören oder Charisma.",
+            "tips": "Im Jahr 1958 definierte der Berufsbildungsspezialist Raymond Vatier Kompetenzen als die Kombination von Wissen (Wissen), Know-how (Praxis) und Einstellungen (Einstellungen).",
+            "clue": "Ist relationales Geschäftswissen?",
+            "choice_Eyj5kmufb": "Ja, berufliche Stärken vereinen unterschiedliche Aspekte der unternehmerischen Expertise",
+            "choice_N1gj9JmOzW": "Nein, das Wohlbefinden kann auch geltend gemacht werden",
+            "choice_4kn9ymdG~": "Es hängt alles von der Position und der Person ab, an die es gerichtet ist"
+        },
+        "es": {
+            "header": "To define your strengths, should you focus on your expert business knowledge?",
+            "explanation": "Select the correct answer.",
+            "klf": "Professional expertise is obviously one of the strengths that you can highlight, but it is not the only one; social skills, which include empathy, listening skills and charisma are also important.",
+            "tips": "In 1958, the vocational training specialist Vatier Raymond defined competencies as a combination of knowledge, skills (practical) and social skills (attitudes).",
+            "choice_Eyj5kmufb": "Yes, professional strengths group together the various aspects of business expertise",
+            "choice_N1gj9JmOzW": "No, life skills can also be highlighted",
+            "choice_4kn9ymdG~": "It depends on the job and the person you are addressing",
+            "clue": "Is being rational a business expertise?"
+        },
+        "zh": {
+            "header": "要确定自己的优势，您应该专注于专业的商业知识吗？",
+            "explanation": "选择正确的答案。",
+            "klf": "专业知识显然是你可以强调的优势之一，但它不是唯一的;社交技巧，包括移情，听力技巧和魅力也很重要。",
+            "tips": "1958年，职业培训专家Vatier Raymond将能力定义为知识，技能（实践）和社交技能（态度）的组合。",
+            "clue": "理性的商业专长是什么？",
+            "choice_Eyj5kmufb": "是的，专业优势将商业专业知识的各个方面结合在一起",
+            "choice_N1gj9JmOzW": "不，生活技能也可以突出",
+            "choice_4kn9ymdG~": "这取决于工作和你正在解决的人"
+        }
+    }
+}

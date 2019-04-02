@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-28T12:53:04.996Z",
+            "updatedAt": "2018-10-01T16:04:46.890Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkglqY9NB"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kfzQMvYr",
+        "universalRef": "sli_4kfzQMvYr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kfzQMvYr.choice_N1gO4XfvtB.id",
+                        "label": "choice_N1gO4XfvtB",
+                        "value": "choice_N1gO4XfvtB",
+                        "media": "med_NyOV7GvYB"
+                    },
+                    {
+                        "id": "sli_4kfzQMvYr.choice_EklNrmfwKB.id",
+                        "label": "choice_EklNrmfwKB",
+                        "value": "choice_EklNrmfwKB",
+                        "media": "med_VyVH7fDtr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1gO4XfvtB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Les processus marketing permettant de qualifier les leads sont si complexes qu’il est impossible de les mettre en œuvre manuellement. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les processus marketing qui permettent de qualifier un lead passent désormais par la diffusion des bons contenus, aux bonnes personnes, aux bons moments. C’est le lead qui donne le tempo et non plus l’entreprise à travers ses campagnes de communication. L’automatisation permet de gagner en agilité pour répondre à ce triptyque : les bons contenus, aux bonnes personnes, aux bons moments.",
+            "tips": "Il faut beaucoup plus de leads qu’avant pour générer le même chiffre d’affaires. En effet, la concurrence s’est largement accrue avec la mondialisation et la digitalisation et les internautes n’hésitent plus à comparer un grand nombre de prestataires entre eux.",
+            "clue": "Si c’était simple, nous le ferions avec des techniques et outils traditionnels.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gO4XfvtB": "Vrai",
+            "choice_EklNrmfwKB": "Faux"
+        },
+        "en": {
+            "header": "Les processus marketing permettant de qualifier les leads sont si complexes qu’il est impossible de les mettre en œuvre manuellement. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les processus marketing qui permettent de qualifier un lead passent désormais par la diffusion des bons contenus, aux bonnes personnes, aux bons moments. C’est le lead qui donne le tempo et non plus l’entreprise à travers ses campagnes de communication. L’automatisation permet de gagner en agilité pour répondre à ce triptyque : les bons contenus, aux bonnes personnes, aux bons moments.",
+            "tips": "Il faut beaucoup plus de leads qu’avant pour générer le même chiffre d’affaires. En effet, la concurrence s’est largement accrue avec la mondialisation et la digitalisation et les internautes n’hésitent plus à comparer un grand nombre de prestataires entre eux.",
+            "clue": "Si c’était simple, nous le ferions avec des techniques et outils traditionnels.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gO4XfvtB": "Vrai",
+            "choice_EklNrmfwKB": "Faux"
+        }
+    }
+}

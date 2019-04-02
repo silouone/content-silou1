@@ -1,0 +1,123 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-19T19:30:50.752Z",
+            "updatedAt": "2018-10-12T15:14:56.947Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyVAT~t4r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJW2X3M8S",
+        "universalRef": "sli_NJW2X3M8S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJW2X3M8S.choice_NkgJ4nz8H.id",
+                        "label": "choice_NkgJ4nz8H",
+                        "value": "choice_NkgJ4nz8H"
+                    },
+                    {
+                        "id": "sli_NJW2X3M8S.choice_4kOMV2G8r.id",
+                        "label": "choice_4kOMV2G8r",
+                        "value": "choice_4kOMV2G8r"
+                    },
+                    {
+                        "id": "sli_NJW2X3M8S.choice_Nk5rNnzLr.id",
+                        "label": "choice_Nk5rNnzLr",
+                        "value": "choice_Nk5rNnzLr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kOMV2G8r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour sa première campagne d'appel aux dons pour l'accès à l'eau potable, l'ONG Charity: Water a commis une erreur. Laquelle ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "L'erreur de départ de l'ONG américaine Charity: Water, lorsqu'elle a conçu une vidéo pour mobiliser le public sur un projet d'accès à l'eau potable, a été de rester dans une logique factuelle, en alignant une flopée de chiffres. En changeant de registre et en mettant en scène des familles, les dons ont décollé.",
+            "tips": "Pour une de ses vidéos, l'ONG Charity: Water s'est même offert les services de l'actrice Jennifer Connelly.",
+            "clue": "En storytelling, il faut susciter des émotions.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkgJ4nz8H": "L'ONG a trop cherché à jouer avec les émotions du public",
+            "choice_4kOMV2G8r": "L'ONG a appuyé son propos avec une grande quantité de chiffres",
+            "choice_Nk5rNnzLr": "L'ONG a mis en scène des familles incarnées par des acteurs"
+        },
+        "en": {
+            "header": "For its first call for donations campaign for access to drinking water, the NGO Charity: Water made a mistake. Which ?",
+            "explanation": "Select the correct answer.",
+            "klf": "The original mistake of the American NGO Charity: Water, when it designed a video to mobilize the public on a project of access to drinking water, was to remain in a factual logic, aligning a flop numbers. By changing the register and staging families, donations have taken off.",
+            "tips": "For one of his videos, the NGO Charity: Water even offered the services of actress Jennifer Connelly.",
+            "clue": "In storytelling, it is necessary to arouse emotions.",
+            "choice_NkgJ4nz8H": "The NGO has sought too much to play with the emotions of the public",
+            "choice_4kOMV2G8r": "The NGO supported this with a lot of numbers",
+            "choice_Nk5rNnzLr": "The NGO staged families incarnated by actors",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Als die NGO Charity: Water ihre erste Kampagne mit Spendenaufrufen zur Unterstützung des Zugangs zu Trinkwasser startete, machte sie einen Fehler. Welcher?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Charity: Water's anfänglicher Fehler war die Produktion eines Videos, das sich auf Fakten und Logik konzentrierte und eine Reihe von Zahlen enthielt, um die öffentliche Unterstützung für ein Trinkwasserprojekt zu mobilisieren. Durch die Änderung des Tons und die Einbeziehung der Familien in das Video wurden Spenden eingeführt.",
+            "tips": "Für ein Video stellte die NGO Charity: Water sogar die Schauspielerin Jennifer Connelly ein.",
+            "clue": "Beim Geschichtenerzählen müssen Sie sich auf Emotionen konzentrieren.",
+            "choice_NkgJ4nz8H": "Die NGO bemühte sich zu sehr, auf öffentliche Emotionen einzuwirken",
+            "choice_4kOMV2G8r": "Die NGO verwendete viele Daten in ihrer Nachricht",
+            "choice_Nk5rNnzLr": "Die NGO zeigte Familien, die durch Schauspieler vertreten wurden",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "When the NGO Charity: Water launched its first campaign calling for donations to support access to drinking water, it made one mistake. Which one?",
+            "klf": "Charity: Water’s initial error was to produce a video that focused on facts and logic and included a bunch of figures to mobilise public support for a drinking-water project. By changing the tone and including families in the video, donations rolled in.",
+            "tips": "For one of its videos, the NGO Charity: Water even hired the actress Jennifer Connelly.",
+            "clue": "In storytelling, you need to concentrate on emotion.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkgJ4nz8H": "The NGO tried too hard to play on public emotion",
+            "choice_4kOMV2G8r": "The NGO used lots of data in its message",
+            "choice_Nk5rNnzLr": "The NGO showcased families represented by actors"
+        },
+        "zh": {
+            "header": "当非政府组织Charity：Water发起第一次呼吁捐款以支持获取饮用水的活动时，它犯了一个错误。哪一个？",
+            "explanation": "选择正确的答案。",
+            "klf": "慈善事业：水的最初错误是制作一个专注于事实和逻辑的视频，并包括一系列数字，以动员公众支持饮用水项目。通过改变音调并在视频中包含家庭，捐赠了。",
+            "tips": "对于其中一个视频，非政府组织Charity：Water甚至聘请了女演员珍妮弗康纳利。",
+            "clue": "在讲故事时，你需要专注于情感。",
+            "choice_NkgJ4nz8H": "这个非政府组织在公众情绪方面努力尝试",
+            "choice_4kOMV2G8r": "非政府组织在其信息中使用了大量数据",
+            "choice_Nk5rNnzLr": "非政府组织展示了由演员代表的家庭",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-08-29T16:09:37.624Z",
+            "updatedAt": "2017-12-04T21:15:48.327Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ThereseG",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJDb6HTq~",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJDb6HTq~.choice_Ny57pra9b.id",
+                        "label": "choice_Ny57pra9b",
+                        "value": "choice_Ny57pra9b"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_41yV6Sp9Z.id",
+                        "label": "choice_41yV6Sp9Z",
+                        "value": "choice_41yV6Sp9Z"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_NJUEarpc~.id",
+                        "label": "choice_NJUEarpc~",
+                        "value": "choice_NJUEarpc~"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_4ygraSp5Z.id",
+                        "label": "choice_4ygraSp5Z",
+                        "value": "choice_4ygraSp5Z"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_NJIHaBpc~.id",
+                        "label": "choice_NJIHaBpc~",
+                        "value": "choice_NJIHaBpc~"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_VJ3BpBTqW.id",
+                        "label": "choice_VJ3BpBTqW",
+                        "value": "choice_VJ3BpBTqW"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_V1ZLTHaqW.id",
+                        "label": "choice_V1ZLTHaqW",
+                        "value": "choice_V1ZLTHaqW"
+                    },
+                    {
+                        "id": "sli_EJDb6HTq~.choice_VJuI6Sa9W.id",
+                        "label": "choice_VJuI6Sa9W",
+                        "value": "choice_VJuI6Sa9W"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJUEarpc~",
+                        "choice_VJ3BpBTqW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_EJDb6HTq~"
+    },
+    "locales": {
+        "fr": {
+            "header": "Physiquement, quel est le geste à adopter pour montrer sa volonté de partager?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les postures de partage se caractérisent par un corps penché en avant et des mains ouvertes.",
+            "tips": "La communication incidente est l'information parallèle donnée sans s'en rendre compte.",
+            "clue": "Se tourner vers les autres ...",
+            "choice_Ny57pra9b": "Permanent",
+            "choice_41yV6Sp9Z": "Se penchant en arrière",
+            "choice_NJUEarpc~": "Se penchant en avant",
+            "choice_4ygraSp5Z": "Assis dans le public",
+            "choice_NJIHaBpc~": "Mains contre le corps",
+            "choice_VJ3BpBTqW": "Mains ouvertes",
+            "choice_V1ZLTHaqW": "Mains jointes",
+            "choice_VJuI6Sa9W": "Mains fermées"
+        },
+        "en": {
+            "header": "Physically, what is the gesture to adopt to show his willingness to share?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
+            "tips": "Incidental communication is the parallel information given without realizing it.",
+            "clue": "Be turned to others ...",
+            "choice_Ny57pra9b": "Standing",
+            "choice_41yV6Sp9Z": "Leaning back",
+            "choice_NJUEarpc~": "Leaning forward",
+            "choice_4ygraSp5Z": "Sitting in the audience",
+            "choice_NJIHaBpc~": "Hands against the body",
+            "choice_VJ3BpBTqW": "Hands open",
+            "choice_V1ZLTHaqW": "Hands joined",
+            "choice_VJuI6Sa9W": "Hands closed"
+        },
+        "de": {
+            "header": "Was ist die Geste, die man nehmen muss, um seine Bereitschaft zum Teilen zu zeigen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Gemeinsame Körperhaltungen zeichnen sich durch einen nach vorne gebeugten Körper und offene Hände aus.",
+            "tips": "Zufällige Kommunikation ist die parallele Information, die ohne es zu merken ist.",
+            "clue": "Wende dich an andere ...",
+            "choice_Ny57pra9b": "Stehen",
+            "choice_41yV6Sp9Z": "Zurücklehnen",
+            "choice_NJUEarpc~": "Nach vorne lehnen",
+            "choice_4ygraSp5Z": "Im Publikum sitzen",
+            "choice_NJIHaBpc~": "Hände gegen den Körper",
+            "choice_VJ3BpBTqW": "Hände öffnen sich",
+            "choice_V1ZLTHaqW": "Hände schlossen sich an",
+            "choice_VJuI6Sa9W": "Hände geschlossen"
+        },
+        "es": {
+            "header": "Physically, what posture should you adopt to show you’re eager to share?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Sharing postures are characterized by a body leaning forward and open hands.",
+            "tips": "We call \"incidental communication\" parallel information given without realizing it.",
+            "choice_Ny57pra9b": "Standing",
+            "choice_41yV6Sp9Z": "Leaning backward",
+            "choice_NJUEarpc~": "Leaning forward",
+            "choice_4ygraSp5Z": "Seated with the audience",
+            "choice_NJIHaBpc~": "Hands stuck to the body",
+            "choice_VJ3BpBTqW": "Open hands",
+            "choice_V1ZLTHaqW": "Closed hands",
+            "choice_VJuI6Sa9W": "Joined hands",
+            "clue": "Turn towards the others…"
+        },
+        "zh": {
+            "header": "身体上，你应采取什么姿势表明你渴望分享？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "分享姿势的特点是身体前倾和张开双手。",
+            "tips": "我们称之为“偶然通信”并行信息而没有意识到。",
+            "clue": "转向其他人......",
+            "choice_Ny57pra9b": "常设",
+            "choice_41yV6Sp9Z": "向后倾斜",
+            "choice_NJUEarpc~": "向前倾斜",
+            "choice_4ygraSp5Z": "坐在观众席上",
+            "choice_NJIHaBpc~": "双手贴在身上",
+            "choice_VJ3BpBTqW": "张开双手",
+            "choice_V1ZLTHaqW": "闭合的手",
+            "choice_VJuI6Sa9W": "加入了手"
+        }
+    }
+}

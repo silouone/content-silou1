@@ -1,0 +1,140 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:25:31.837Z",
+            "updatedAt": "2016-08-26T14:21:56.813Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kZC267hx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kZC267hx.choice_4JoHTaQnx.id",
+                        "label": "choice_4JoHTaQnx",
+                        "value": "choice_4JoHTaQnx"
+                    },
+                    {
+                        "id": "sli_4kZC267hx.choice_VkTBaa72x.id",
+                        "label": "choice_VkTBaa72x",
+                        "value": "choice_VkTBaa72x"
+                    },
+                    {
+                        "id": "sli_4kZC267hx.choice_V1ASpaXnl.id",
+                        "label": "choice_V1ASpaXnl",
+                        "value": "choice_V1ASpaXnl"
+                    },
+                    {
+                        "id": "sli_4kZC267hx.choice_VkkUpT72l.id",
+                        "label": "choice_VkkUpT72l",
+                        "value": "choice_VkkUpT72l"
+                    },
+                    {
+                        "id": "sli_4kZC267hx.choice_N1lIaa7he.id",
+                        "label": "choice_N1lIaa7he",
+                        "value": "choice_N1lIaa7he"
+                    },
+                    {
+                        "id": "sli_4kZC267hx.choice_4JZ86pm2g.id",
+                        "label": "choice_4JZ86pm2g",
+                        "value": "choice_4JZ86pm2g"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkTBaa72x",
+                        "choice_V1ASpaXnl",
+                        "choice_N1lIaa7he"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4kZC267hx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment faut-il répartir les tâches quand on délègue ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Un bon leader délègue pour se concentrer sur d'autres actions et témoigner de sa confiance. Mais il faut le faire intelligemment ! Pour cela, il faut répartir les tâches selon les intérêts et expertises de chacun, voire sur une base de volontariat.",
+            "tips": "Les managers qui peinent à déléguer ont souvent l'impression que le travail sera mieux fait s'ils s'en occupent mais peuvent aussi avoir envie d'en recevoir le mérite, explique Didier Noyé, auteur de \"Déléguer et responsabiliser\".",
+            "clue": "Le hasard ne fait pas toujours bien les choses.",
+            "choice_4JoHTaQnx": "À tour de rôle",
+            "choice_VkTBaa72x": "Selon l'expertise",
+            "choice_V1ASpaXnl": "Selon l'intérêt",
+            "choice_VkkUpT72l": "En fonction de vos envies",
+            "choice_N1lIaa7he": "Sur une base de volontariat",
+            "choice_4JZ86pm2g": "De façon aléatoire"
+        },
+        "en": {
+            "header": "How to divide tasks when delegating?",
+            "explanation": "Select the correct answers.",
+            "klf": "A good leader delegates to focus on other actions and show confidence. But it must be done intelligently! For this, it is necessary to divide the tasks according to the interests and expertises of each one, even on a voluntary base.",
+            "tips": "Managers who struggle to delegate often feel that the work will be better done if they take care of it but may also want to receive the merit, says Didier Noye, author of \"Delegate and empower.\"",
+            "clue": "Chance does not always make things right.",
+            "choice_4JoHTaQnx": "In turn",
+            "choice_VkTBaa72x": "According to the expertise",
+            "choice_V1ASpaXnl": "According to interest",
+            "choice_VkkUpT72l": "According to your desires",
+            "choice_N1lIaa7he": "On a voluntary basis",
+            "choice_4JZ86pm2g": "Randomly"
+        },
+        "de": {
+            "header": "Wie sollten Sie beim Delegieren Aufgaben zuweisen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Eine gute Führungskraft delegiert, um sich auf andere Aktionen zu konzentrieren und ihr Vertrauen zu zeigen. Aber es muss intelligent gemacht werden! Dazu müssen wir die Aufgaben auch auf freiwilliger Basis nach den Interessen und dem jeweiligen Fachwissen unterteilen.",
+            "tips": "Manager, die mit dem Delegieren zu kämpfen haben, haben oft das Gefühl, dass die Arbeit besser erledigt wird, wenn sie es selbst tun, aber sie möchten möglicherweise auch Kredit erhalten, erklärt Didier Noye, Autor von \"Delegate and Empower\".",
+            "clue": "Der Zufall tut nicht immer gut.",
+            "choice_4JoHTaQnx": "Im Gegenzug",
+            "choice_VkTBaa72x": "Nach Gutachten",
+            "choice_V1ASpaXnl": "Je nach Interesse",
+            "choice_VkkUpT72l": "Abhängig von Ihren Bedürfnissen",
+            "choice_N1lIaa7he": "Auf freiwilliger Basis",
+            "choice_4JZ86pm2g": "Nach dem Zufallsprinzip"
+        },
+        "es": {
+            "header": "How should you allocate tasks when delegating?",
+            "explanation": "Select the correct answer.",
+            "klf": "A good leader delegates in order to focus on other actions and demonstrate their confidence. But it must be done intelligently! For this, we must divide the tasks according to the interests and expertise of each, even on a voluntary basis.",
+            "tips": "Managers who are struggling to delegate often feel that the work will be done better if they do it themselves but may also want to receive credit, explains Didier Noye, author of \"Delegate and Empower.\"",
+            "choice_4JoHTaQnx": "In turn",
+            "choice_VkTBaa72x": "According to expertise",
+            "choice_V1ASpaXnl": "According to interest",
+            "choice_VkkUpT72l": "Depending on your needs",
+            "choice_N1lIaa7he": "On a voluntary basis",
+            "choice_4JZ86pm2g": "Randomly",
+            "clue": "Chance does not always do things well."
+        },
+        "zh": {
+            "header": "如何在委派时分配任务？",
+            "explanation": "选择正确的答案。",
+            "klf": "一位优秀的领导者代表，以便专注于其他行动并展示他们的信心。但它必须聪明地完成！为此，我们必须根据每个任务的利益和专业知识划分任务，即使是在自愿的基础上。",
+            "tips": "正在努力委派的经理们常常觉得，如果他们自己做的工作会更好，但也可能想要获得学分，“代表和授权”一书的作者Didier Noye解释道。",
+            "clue": "机会并不总是做得很好。",
+            "choice_4JoHTaQnx": "反过来",
+            "choice_VkTBaa72x": "根据专业知识",
+            "choice_V1ASpaXnl": "根据兴趣",
+            "choice_VkkUpT72l": "根据您的需要",
+            "choice_N1lIaa7he": "在自愿的基础上",
+            "choice_4JZ86pm2g": "随机"
+        }
+    }
+}

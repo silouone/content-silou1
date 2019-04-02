@@ -1,0 +1,146 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-02T11:09:50.350Z",
+            "updatedAt": "2018-10-12T14:52:22.186Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek5ipWtVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NkiW4AiNB",
+        "universalRef": "sli_NkiW4AiNB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NkiW4AiNB.choice_Ny0jVAs4r.id",
+                        "label": "choice_Ny0jVAs4r",
+                        "value": "choice_Ny0jVAs4r"
+                    },
+                    {
+                        "id": "sli_NkiW4AiNB.choice_NyO3VAoNS.id",
+                        "label": "choice_NyO3VAoNS",
+                        "value": "choice_NyO3VAoNS"
+                    },
+                    {
+                        "id": "sli_NkiW4AiNB.choice_EJmCV0iVS.id",
+                        "label": "choice_EJmCV0iVS",
+                        "value": "choice_EJmCV0iVS"
+                    },
+                    {
+                        "id": "sli_NkiW4AiNB.choice_EJhWBAsNB.id",
+                        "label": "choice_EJhWBAsNB",
+                        "value": "choice_EJhWBAsNB"
+                    },
+                    {
+                        "id": "sli_NkiW4AiNB.choice_41zzrAoNS.id",
+                        "label": "choice_41zzrAoNS",
+                        "value": "choice_41zzrAoNS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ny0jVAs4r",
+                        "choice_EJmCV0iVS",
+                        "choice_41zzrAoNS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Vous réunissez une équipe pour mettre en place une campagne de social commerce. Quels principes de travail favorisez-vous pour décupler son efficacité ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour donner toutes ses chances à votre projet de social commerce, il est très fortement recommandé de choisir des profils transversaux pour constituer votre équipe, d'adopter une culture de type start-up et de suivre les préceptes de l'agilité.",
+            "tips": "Les méthodes agiles, caractéristiques des start-up, ont pour principal principe le fait de placer le client au centre du développement du produit. Ainsi, rien n'est figé, le produit est constamment aligné sur les retours des utilisateurs.",
+            "clue": "Réactivité, souplesse et pluralité !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny0jVAs4r": "Une culture start-up",
+            "choice_NyO3VAoNS": "Un fonctionnement très administratif",
+            "choice_EJmCV0iVS": "Les codes du travail dit \"agile\"",
+            "choice_EJhWBAsNB": "Une équipe aux profils homogènes",
+            "choice_41zzrAoNS": "Une équipe hétéroclite"
+        },
+        "en": {
+            "header": "You bring together a team to set up a social business campaign. What principles of work do you favor to increase its efficiency?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To give your social business project a chance, it is highly recommended to choose cross-functional profiles to build your team, adopt a start-up culture and follow the precepts of agility.",
+            "tips": "The agile methods, characteristic of start-ups, have the main principle of putting the customer at the center of product development. Thus, nothing is fixed, the product is constantly aligned with user feedback.",
+            "clue": "Reactivity, flexibility and plurality!",
+            "choice_Ny0jVAs4r": "A start-up culture",
+            "choice_NyO3VAoNS": "A very administrative operation",
+            "choice_EJmCV0iVS": "Labor codes say \"agile\"",
+            "choice_EJhWBAsNB": "A team with homogeneous profiles",
+            "choice_41zzrAoNS": "A motley team",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Sie stellen ein Team zusammen, um eine Social-Commerce-Kampagne zu starten. Welcher Arbeitsethik sollte Priorität eingeräumt werden, um die Erfolgschancen zu erhöhen?",
+            "explanation": "Wählen Sie aus den unten aufgeführten Antworten die richtigen Antworten aus.",
+            "klf": "Um die Erfolgschancen Ihres Social-Commerce-Projekts zu erhöhen, wird dringend empfohlen, ein breites Spektrum unterschiedlicher Profile in Ihr Team aufzunehmen, eine Startup-Kultur zu übernehmen und so agil wie möglich zu sein.",
+            "tips": "Start-ups zeichnen sich durch agile Methoden aus, die den Kunden in den Mittelpunkt der Produktentwicklung stellen. Nichts ist in Stein gemeißelt und das Produkt wird aufgrund von Kundenfeedback ständig aktualisiert.",
+            "clue": "Reaktionsfähigkeit, Flexibilität und Vielfalt!",
+            "choice_Ny0jVAs4r": "Eine Startup-Kultur",
+            "choice_NyO3VAoNS": "Eine äußerst bürokratische Arbeitsweise",
+            "choice_EJmCV0iVS": "\"Agile\" Arbeitsgesetze",
+            "choice_EJhWBAsNB": "Ein Team mit sehr ähnlichen Profilen",
+            "choice_41zzrAoNS": "Ein Team mit sehr unterschiedlichen Profilen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answers from those listed below.",
+            "header": "You are putting together a team to launch a social commerce campaign. Which work ethics should you prioritise to boost its chances of success?",
+            "klf": "To increase your social commerce project’s chances of success, you are strongly advised to include a wide range of different profiles in your team, adopt a start-up culture and be as agile as possible.",
+            "tips": "Start-ups are characterised by their use of agile methodologies, which place the customer at the centre of product development. Nothing is set in stone, and the product is constantly updated based on customer feedback.",
+            "clue": "Responsiveness, flexibility and diversity!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny0jVAs4r": "A start-up culture",
+            "choice_NyO3VAoNS": "A highly bureaucratic way of working",
+            "choice_EJmCV0iVS": "“Agile” labour codes",
+            "choice_EJhWBAsNB": "A team containing very similar profiles",
+            "choice_41zzrAoNS": "A team containing very different profiles"
+        },
+        "zh": {
+            "header": "您正在组建一个团队来发起社交商务活动。您应该优先考虑哪些职业道德来提高成功率？",
+            "explanation": "从下面列出的那些中选择正确的答案。",
+            "klf": "为了提高您的社交商务项目成功的机会，强烈建议您在团队中包含各种不同的配置文件，采用初创文化并尽可能灵活。",
+            "tips": "初创企业的特点是使用敏捷方法，将客户置于产品开发的中心。没有什么是一成不变的，产品会根据客户的反馈不断更新。",
+            "clue": "响应能力，灵活性和多样性！",
+            "choice_Ny0jVAs4r": "一个初创企业文化",
+            "choice_NyO3VAoNS": "一种高度官僚主义的工作方式",
+            "choice_EJmCV0iVS": "“敏捷”劳工法典",
+            "choice_EJhWBAsNB": "包含非常相似配置文件的团队",
+            "choice_41zzrAoNS": "包含非常不同的配置文件的团队",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

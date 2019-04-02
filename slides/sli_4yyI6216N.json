@@ -1,0 +1,195 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-30T08:07:00.492Z",
+            "updatedAt": "2018-08-10T12:55:21.615Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9DcQ4sV"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4yyI6216N",
+        "universalRef": "sli_4yyI6216N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel19875",
+                        "label": "label_Vydta3Jp4",
+                        "items": [
+                            {
+                                "text": "choice_E1xOFa31aN",
+                                "value": "choice_E1xOFa31aN"
+                            },
+                            {
+                                "text": "choice_N1WOFphkpE",
+                                "value": "choice_N1WOFphkpE"
+                            },
+                            {
+                                "text": "choice_EkoYa2164",
+                                "value": "choice_EkoYa2164"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel19875",
+                        "answers": [
+                            "choice_EkoYa2164"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which communication tool would work best for organising an opportunity to speak openly as a group?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Videoconferences work best for organising an opportunity to speak openly as a group. In fact, unlike email and telephones, it allows you to see the people you are talking to despite the distance.",
+            "tips": "Using social networks in which people have a rich digital profile can facilitate the exchange of more personal information and thus foster team bonding.",
+            "clue": "Image and sound.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel19875}}",
+            "label_Vydta3Jp4": "",
+            "choice_E1xOFa31aN": "Email",
+            "choice_N1WOFphkpE": "Telephone",
+            "choice_EkoYa2164": "Videoconference"
+        },
+        "fr": {
+            "header": "Quel outil de communication est le mieux pour organiser une occasion de parler ouvertement collectivement?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La vidéoconférence convient mieux à l'organisation d'opportunités de présentations de groupe publiques. En fait, contrairement au courrier électronique et au téléphone, il vous permet de voir les personnes qui vous parlent malgré la distance.",
+            "tips": "L'utilisation de réseaux sociaux dotés d'archives numériques riches peut faciliter l'échange d'informations plus personnelles et faciliter les relations d'équipe.",
+            "clue": "Image et son.",
+            "template": "{{Sel19875}}",
+            "choice_E1xOFa31aN": "Email",
+            "choice_N1WOFphkpE": "Téléphone",
+            "choice_EkoYa2164": "Vidéoconférence",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_Vydta3Jp4": ""
+        },
+        "es": {
+            "header": "¿Qué herramienta de comunicación funcionaría mejor para organizar una oportunidad de hablar abiertamente como grupo?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "Las videoconferencias funcionan mejor para organizar una oportunidad de hablar abiertamente como grupo. De hecho, a diferencia del correo electrónico y los teléfonos, le permite ver a las personas con las que está hablando a pesar de la distancia.",
+            "tips": "El uso de redes sociales en las que las personas tienen un rico perfil digital puede facilitar el intercambio de más información personal y así fomentar la unión de equipo.",
+            "clue": "Imagen y sonido",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel19875}}",
+            "label_Vydta3Jp4": " ",
+            "choice_E1xOFa31aN": "Email",
+            "choice_N1WOFphkpE": "Teléfono",
+            "choice_EkoYa2164": "Video conferencia"
+        },
+        "it": {
+            "header": "Quale strumento di comunicazione potrebbe funzionare al meglio per organizzare unopportunità di parlare apertamente come gruppo?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "Le videoconferenze funzionano meglio per organizzare unopportunità di parlare apertamente come gruppo. Infatti, a differenza di e-mail e telefoni, consente di vedere le persone con le quali si sta parlando nonostante la distanza.",
+            "tips": "Utilizzare i social network in cui le persone hanno un ricco profilo digitale può facilitare lo scambio di più informazioni personali e quindi favorire il legame di squadra.",
+            "clue": "Immagine e suono.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel19875}}",
+            "label_Vydta3Jp4": " ",
+            "choice_E1xOFa31aN": "E-mail",
+            "choice_N1WOFphkpE": "Telefono",
+            "choice_EkoYa2164": "Video conferenza"
+        },
+        "de": {
+            "header": "Which communication tool would work best for organising an opportunity to speak openly as a group?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "Videoconferences work best for organising an opportunity to speak openly as a group. In fact, unlike email and telephones, it allows you to see the people you are talking to despite the distance.",
+            "tips": "Using social networks in which people have a rich digital profile can facilitate the exchange of more personal information and thus foster team bonding.",
+            "clue": "Image and sound.",
+            "template": "{{sel19875}}",
+            "choice_E1xOFa31aN": "Email",
+            "choice_N1WOFphkpE": "Telephone",
+            "choice_EkoYa2164": "Videoconference",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_Vydta3Jp4": " "
+        },
+        "ko": {
+            "header": "그룹으로 공개적으로 이야기 할 수있는 기회를 조직하는 데 가장 적합한 커뮤니케이션 도구는 무엇입니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "화상 회의는 공개적으로 그룹으로 이야기 할 수있는 기회를 조직하는 데 가장 효과적입니다. 사실, 이메일과 전화와 달리, 그것은 당신이 거리에도 불구하고 이야기하는 사람들을 볼 수 있습니다.",
+            "tips": "사람들이 풍부한 디지털 프로필을 가진 소셜 네트워크를 사용하면 더 많은 개인 정보를 교환하고 팀 유대 관계를 형성 할 수 있습니다.",
+            "clue": "이미지 및 사운드.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel19875}}",
+            "label_Vydta3Jp4": " ",
+            "choice_E1xOFa31aN": "이메일",
+            "choice_N1WOFphkpE": "전화",
+            "choice_EkoYa2164": "화상 회의"
+        },
+        "ru": {
+            "header": "Какой коммуникационный инструмент лучше всего подходит для организации возможности открыто выступать в качестве группы?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Видеоконференции работают лучше всего для организации возможности открыто выступать в качестве группы. Фактически, в отличие от электронной почты и телефонов, это позволяет вам видеть людей, с которыми вы разговариваете, несмотря на расстояние.",
+            "tips": "Использование социальных сетей, в которых люди имеют богатый цифровой профиль, может облегчить обмен более личной информацией и тем самым способствовать объединению групп.",
+            "clue": "Изображение и звук.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel19875}}",
+            "label_Vydta3Jp4": " ",
+            "choice_E1xOFa31aN": "Эл. адрес",
+            "choice_N1WOFphkpE": "телефон",
+            "choice_EkoYa2164": "Видео-конференция"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Qual ferramenta de comunicação funcionaria melhor para organizar uma oportunidade de falar abertamente como um grupo?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "Videoconferências funcionam melhor para organizar uma oportunidade de falar abertamente como um grupo. Na verdade, ao contrário de e-mail e telefones, permite que você veja as pessoas com quem está falando, apesar da distância.",
+            "tips": "O uso de redes sociais nas quais as pessoas têm um perfil digital rico pode facilitar a troca de mais informações pessoais e, assim, promover o vínculo entre as equipes.",
+            "clue": "Imagem e som.",
+            "template": "{{sel18875}}",
+            "choice_E1xOFa31aN": "O email",
+            "choice_N1WOFphkpE": "Telefone",
+            "choice_EkoYa2164": "Videoconferência"
+        },
+        "zh": {
+            "header": "哪种沟通工具最适合组织公开集体发言的机会？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "视频会议最适合组织公开集体发言的机会。事实上，与电子邮件和电话不同，它可以让您看到尽管距离远近您正在与之交谈的人。",
+            "tips": "使用人们拥有丰富数字档案的社交网络可以促进更多个人信息的交换，从而促进团队联系。",
+            "clue": "图像和声音。",
+            "template": "{{Sel19875}}",
+            "choice_E1xOFa31aN": "电子邮件",
+            "choice_N1WOFphkpE": "电话",
+            "choice_EkoYa2164": "视频会议"
+        }
+    }
+}

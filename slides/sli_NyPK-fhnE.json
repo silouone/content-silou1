@@ -1,0 +1,208 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T13:50:40.072Z",
+            "updatedAt": "2018-08-10T09:35:46.870Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKwqQVj4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_NyPK-fhnE",
+        "universalRef": "sli_NyPK-fhnE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel66960",
+                        "label": "label_VJEItf2n4",
+                        "items": [
+                            {
+                                "text": "choice_41lNUYGh2E",
+                                "value": "choice_41lNUYGh2E"
+                            },
+                            {
+                                "text": "choice_4yWNUKM22N",
+                                "value": "choice_4yWNUKM22N"
+                            },
+                            {
+                                "text": "choice_EyPUFM3n4",
+                                "value": "choice_EyPUFM3n4"
+                            },
+                            {
+                                "text": "choice_VyXgF97CV",
+                                "value": "choice_VyXgF97CV"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel66960",
+                        "answers": [
+                            "choice_4yWNUKM22N"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "A manager, supervising four production sites, decides to delegate the management of a site. What level of delegation is this?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "This is the second level of delegation which concerns functions, namely the actions to fulfil the expected roles. Missions are about responsibilities and the general objective. Activities are all project operations. Finally, tasks, the most basic level of delegation, are specific and time limited.",
+            "tips": "All delegation should provide some leeway, specifically when choosing methods and resources.",
+            "clue": "Mathematics...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66960}}",
+            "label_VJEItf2n4": "",
+            "choice_41lNUYGh2E": "Activities",
+            "choice_4yWNUKM22N": "Functions",
+            "choice_EyPUFM3n4": "Missions",
+            "choice_VyXgF97CV": "Tasks"
+        },
+        "fr": {
+            "header": "Le responsable supervisant les quatre sites de production a décidé de créer un site Web pour la direction. De quel niveau d'autorisation s'agit-il?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il s’agit du deuxième niveau d’autorité impliqué dans la fonction, c’est-à-dire l’action pour exécuter les tâches attendues. La tâche implique la responsabilité et les objectifs globaux. Les activités sont toutes des opérations de projet. Enfin, la tâche correspond au niveau d'autorisation le plus élémentaire, spécifique et limité dans le temps.",
+            "tips": "Toutes les délégations devraient laisser un peu d’espace, en particulier lors du choix des méthodes et des ressources.",
+            "clue": "Mathématiques ...",
+            "template": "{{Sel66960}}",
+            "choice_41lNUYGh2E": "Activité",
+            "choice_4yWNUKM22N": "Fonction",
+            "choice_EyPUFM3n4": "Mission",
+            "choice_VyXgF97CV": "Tâche",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_VJEItf2n4": ""
+        },
+        "es": {
+            "header": "Un gerente, que supervisa cuatro sitios de producción, decide delegar la administración de un sitio. ¿Qué nivel de delegación es esto?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "Este es el segundo nivel de delegación que se refiere a las funciones, a saber, las acciones para cumplir los roles esperados. Las misiones son sobre responsabilidades y el objetivo general. Las actividades son todas las operaciones del proyecto. Finalmente, las tareas, el nivel más básico de delegación, son específicas y de tiempo limitado.",
+            "tips": "Todas las delegaciones deberían proporcionar cierta flexibilidad, específicamente cuando elijan métodos y recursos.",
+            "clue": "Matemáticas...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66960}}",
+            "label_VJEItf2n4": " ",
+            "choice_41lNUYGh2E": "Ocupaciones",
+            "choice_4yWNUKM22N": "Funciones",
+            "choice_EyPUFM3n4": "Misiones",
+            "choice_VyXgF97CV": "Tareas"
+        },
+        "it": {
+            "header": "Un manager, che supervisiona quattro siti di produzione, decide di delegare la gestione di un sito. Che livello di delega è questo?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "Questo è il secondo livello di delega che riguarda le funzioni, ovvero le azioni per adempiere ai ruoli previsti. Le missioni riguardano le responsabilità e lobiettivo generale. Le attività sono tutte operazioni del progetto. Infine, i compiti, il livello base di delega, sono specifici e limitati nel tempo.",
+            "tips": "Tutta la delega dovrebbe fornire un margine di manovra, in particolare quando si scelgono metodi e risorse.",
+            "clue": "Matematica...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66960}}",
+            "label_VJEItf2n4": " ",
+            "choice_41lNUYGh2E": "attività",
+            "choice_4yWNUKM22N": "funzioni",
+            "choice_EyPUFM3n4": "missioni",
+            "choice_VyXgF97CV": "Compiti"
+        },
+        "de": {
+            "header": "A manager, supervising four production sites, decides to delegate the management of a site. What level of delegation is this?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "This is the second level of delegation which concerns functions, namely the actions to fulfil the expected roles. Missions are about responsibilities and the general objective. Activities are all project operations. Finally, tasks, the most basic level of delegation, are specific and time limited.",
+            "tips": "All delegation should provide some leeway, specifically when choosing methods and resources.",
+            "clue": "Mathematics...",
+            "template": "{{sel66960}}",
+            "choice_41lNUYGh2E": "Activities",
+            "choice_4yWNUKM22N": "Functions",
+            "choice_EyPUFM3n4": "Missions",
+            "choice_VyXgF97CV": "Tasks",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_VJEItf2n4": " "
+        },
+        "ko": {
+            "header": "4 개의 프로덕션 사이트를 감독하는 관리자가 사이트 관리를 위임하기로 결정합니다. 어떤 위임 수준입니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "이것은 기능, 즉 예상되는 역할을 수행하기위한 행동과 관련된 두 번째 위임 수준입니다. 선교는 책임과 일반적인 목표에 관한 것이다. 활동은 모든 프로젝트 운영입니다. 마지막으로, 가장 기본적인 위임 수준 인 작업은 구체적이고 시간 제한적입니다.",
+            "tips": "모든 대표단은 특히 방법과 자원을 선택할 때 약간의 여유를 주어야합니다.",
+            "clue": "수학...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66960}}",
+            "label_VJEItf2n4": " ",
+            "choice_41lNUYGh2E": "활동",
+            "choice_4yWNUKM22N": "기능들",
+            "choice_EyPUFM3n4": "선교",
+            "choice_VyXgF97CV": "할 일 목록"
+        },
+        "ru": {
+            "header": "Менеджер, контролирующий четыре производственных сайта, решает делегировать управление сайтом. Каков уровень делегирования?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Это второй уровень делегации, который касается функций, а именно действий по выполнению ожидаемых ролей. Миссии касаются обязанностей и общей цели. Деятельность - это все операции по проекту. Наконец, задачи, самый базовый уровень делегирования, являются конкретными и ограниченными по времени.",
+            "tips": "Вся делегация должна предоставить некоторую свободу действий, особенно при выборе методов и ресурсов.",
+            "clue": "Математика...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66960}}",
+            "label_VJEItf2n4": " ",
+            "choice_41lNUYGh2E": "мероприятия",
+            "choice_4yWNUKM22N": "функции",
+            "choice_EyPUFM3n4": "Миссии",
+            "choice_VyXgF97CV": "Задания"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Um gerente, supervisionando quatro sites de produção, decide delegar o gerenciamento de um site. Qual nível de delegação é isso?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "Este é o segundo nível de delegação que diz respeito às funções, ou seja, as ações para cumprir as funções esperadas. As missões são sobre responsabilidades e o objetivo geral. Atividades são todas as operações do projeto. Finalmente, as tarefas, o nível mais básico de delegação, são específicas e limitadas no tempo.",
+            "tips": "Toda delegação deve fornecer alguma margem de manobra, especificamente ao escolher métodos e recursos.",
+            "clue": "Matemática...",
+            "template": "{{sel66960}}",
+            "choice_41lNUYGh2E": "actividades",
+            "choice_4yWNUKM22N": "Funções",
+            "choice_EyPUFM3n4": "Missões",
+            "choice_VyXgF97CV": "Tarefas"
+        },
+        "zh": {
+            "header": "监督四个生产基地的经理决定委派一个网站的管理。这是什么级别的授权？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "这是涉及职能的第二级授权，即履行预期职责的行动。任务涉及责任和总体目标。活动都是项目运作。最后，任务是最基本的授权级别，具体且有时间限制。",
+            "tips": "所有代表团都应提供一些余地，特别是在选择方法和资源时。",
+            "clue": "数学...",
+            "template": "{{Sel66960}}",
+            "choice_41lNUYGh2E": "活动",
+            "choice_4yWNUKM22N": "功能",
+            "choice_EyPUFM3n4": "使命",
+            "choice_VyXgF97CV": "任务"
+        }
+    }
+}

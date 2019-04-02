@@ -1,0 +1,119 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-08-26T14:25:38.971Z",
+            "updatedAt": "2016-08-29T07:58:18.006Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tbY8Rig"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_41BrlHKqW",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41BrlHKqW.choice_VJ1DeSYcZ.id",
+                        "label": "choice_VJ1DeSYcZ",
+                        "value": "choice_VJ1DeSYcZ"
+                    },
+                    {
+                        "id": "sli_41BrlHKqW.choice_NJxwgSFcW.id",
+                        "label": "choice_NJxwgSFcW",
+                        "value": "choice_NJxwgSFcW"
+                    },
+                    {
+                        "id": "sli_41BrlHKqW.choice_VkZweHtqW.id",
+                        "label": "choice_VkZweHtqW",
+                        "value": "choice_VkZweHtqW"
+                    },
+                    {
+                        "id": "sli_41BrlHKqW.choice_VyMPxrF5b.id",
+                        "label": "choice_VyMPxrF5b",
+                        "value": "choice_VyMPxrF5b"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyMPxrF5b",
+                        "choice_NJxwgSFcW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_41BrlHKqW"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'est-ce qui explique que les femmes PDG soient davantage en danger que les hommes ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les femmes PDG sont souvent plus recrutées à l'extérieur. Or, les dirigeants recrutés en interne ont plus de chance de séduire les actionnaires. La culture très masculine des conseils d'administration est une seconde explication.",
+            "tips": "En 2015, les 120 plus grandes entreprises françaises ont attribué 50% des nouveaux mandats d'administrateurs à des femmes.",
+            "clue": "Deux raisons, une directe et une indirecte.",
+            "choice_VJ1DeSYcZ": "Elles font plus d'erreurs de gestion",
+            "choice_NJxwgSFcW": "Elles sont plus souvent recrutées à l'extérieur",
+            "choice_VkZweHtqW": "Elles sont moins entourées par leurs équipes",
+            "choice_VyMPxrF5b": "La culture des conseils d’administration reste encore très masculine"
+        },
+        "en": {
+            "header": "What explains why female CEOs are more at risk than men?",
+            "explanation": "Select the correct answer (s).",
+            "klf": "Female CEOs are often more recruited externally. However, leaders recruited internally are more likely to seduce shareholders. The very masculine culture of the boards of directors is a second explanation.",
+            "tips": "In 2015, the 120 largest French companies awarded 50% of new directorships to women.",
+            "clue": "Two reasons, a direct and an indirect.",
+            "choice_VJ1DeSYcZ": "They make more management mistakes",
+            "choice_NJxwgSFcW": "They are more often recruited outside",
+            "choice_VkZweHtqW": "They are less surrounded by their teams",
+            "choice_VyMPxrF5b": "Board culture still very masculine"
+        },
+        "de": {
+            "header": "Warum sind weibliche CEOs stärker gefährdet als Männer?",
+            "explanation": "Wählen Sie die richtige Antwort (en) aus.",
+            "klf": "Weibliche CEOs werden häufig extern eingestellt. Intern rekrutierte Manager ziehen jedoch eher Aktionäre an. Die starke männliche Kultur des Verwaltungsrates liefert eine zweite Erklärung.",
+            "tips": "Im Jahr 2015 haben die 120 größten französischen Unternehmen Frauen 50% der neuen Verwaltungsratsmandate zugewiesen.",
+            "clue": "Zwei Gründe, einer direkt und einer indirekt.",
+            "choice_VJ1DeSYcZ": "Sie machen mehr Managementfehler",
+            "choice_NJxwgSFcW": "Sie werden häufiger von außen eingestellt",
+            "choice_VkZweHtqW": "Sie erfahren weniger Unterstützung von ihren Teams",
+            "choice_VyMPxrF5b": "Es gibt eine starke maskuline Boardkultur"
+        },
+        "es": {
+            "header": "Why are women CEOs more at risk than men?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Female CEOs are often recruited externally. But internally recruited managers are more likely to attract shareholders. The strong masculine culture of the board of directors provides a second explanation.",
+            "tips": "In 2015, the 120 largest French companies allocated 50% of new directorships to women.",
+            "choice_VJ1DeSYcZ": "They make more management mistakes",
+            "choice_NJxwgSFcW": "They are more often recruited externally",
+            "choice_VkZweHtqW": "They experience less support by their teams",
+            "choice_VyMPxrF5b": "There's a strong masculine board culture ",
+            "clue": "Two reasons, one direct and one indirect."
+        },
+        "zh": {
+            "header": "为什么女性首席执行官的风险高于男性？",
+            "explanation": "选择正确的答案。",
+            "klf": "女性首席执行官经常从外部招聘。但内部招聘的经理更有可能吸引股东。董事会强烈的男性文化提供了第二种解释。",
+            "tips": "2015年，120家最大的法国公司将50％的新董事职位分配给女性。",
+            "clue": "两个原因，一个直接和一个间接。",
+            "choice_VJ1DeSYcZ": "他们犯了更多的管理错误",
+            "choice_NJxwgSFcW": "他们更多时候是从外部招聘的",
+            "choice_VkZweHtqW": "他们的团队支持较少",
+            "choice_VyMPxrF5b": "有一种强烈的男性董事会文化"
+        }
+    }
+}

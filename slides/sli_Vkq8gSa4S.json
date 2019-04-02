@@ -1,0 +1,75 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T12:58:16.111Z",
+            "updatedAt": "2018-10-08T14:50:44.935Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vkq8gSa4S",
+        "universalRef": "sli_Vkq8gSa4S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_Vkq8gSa4S.id",
+                "min": 0,
+                "max": 6,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans son expression la plus simple, combien de colonnes contient le kanban ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Le tableau Kanban est constitué de quatre colonnes : à faire, en cours, en attente et terminé.",
+            "tips": "Taiichi Ohno, inventeur de la méthodologie Kanban, se disait capable de « penser à l’envers ». En effet, sa méthode différait totalement des méthodes occidentales : pendant que celles-ci jouaient sur l’économie d’échelle grâce à des surproductions, sa méthode proposait de jouer sur la limitation des gaspillages du temps et des ressources.",
+            "clue": "Vivaldi en a fait de célèbres concertos pour violon...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "4",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "en": {
+            "explanation": "Move the cursor.",
+            "header": "How many columns does a basic Kanban board have?",
+            "klf": "A basic Kanban board has four columns: To Do, In Progress, Pending and Done.",
+            "tips": "It’s said that the inventor of the Kanban board, Taiichi Ohno could “think in reverse”. In fact, his method totally differed from Western methods that came before. The latter were based on economies of scale and overproduction, whereas Ohno’s system focused on limiting wasted time and resources.",
+            "clue": "Vivaldi wrote violin concertos about this many seasons…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "4",
+            "answerMin": 0,
+            "answerMax": 0
+        }
+    }
+}

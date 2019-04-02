@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-14T13:26:27.169Z",
+            "updatedAt": "2018-06-21T10:41:39.491Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41Y-6uV54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kjmT-fA4",
+        "universalRef": "sli_4kjmT-fA4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kjmT-fA4.choice_EyR-6uGRV.id",
+                        "label": "choice_EyR-6uGRV",
+                        "value": "choice_EyR-6uGRV"
+                    },
+                    {
+                        "id": "sli_4kjmT-fA4.choice_E15tpdGRN.id",
+                        "label": "choice_E15tpdGRN",
+                        "value": "choice_E15tpdGRN"
+                    },
+                    {
+                        "id": "sli_4kjmT-fA4.choice_EJzqTdMCE.id",
+                        "label": "choice_EJzqTdMCE",
+                        "value": "choice_EJzqTdMCE"
+                    },
+                    {
+                        "id": "sli_4kjmT-fA4.choice_4yCqpuGR4.id",
+                        "label": "choice_4yCqpuGR4",
+                        "value": "choice_4yCqpuGR4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyR-6uGRV",
+                        "choice_4yCqpuGR4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les astuces à appliquer en pleine conscience pour couper court à notre jugement hâtif au travail ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Les \"rappels à soi\" au travail nous permettent d'aborder les situations et les événements de façon plus sereine et juste.",
+            "tips": "Sigmund Freud a théorisé le concept de projection, opération mentale inconsciente par laquelle un sujet attribue au monde extérieur (le plus souvent une autre personne) des qualités, sentiments ou désirs qu'il se refuse à voir en lui-même. L'observation objective des projections que nous faisons sur le monde, par la pleine conscience, nous permet une meilleure connaissance de nous-mêmes et nous apporte du recul face aux avis portés sur nous.",
+            "clue": "Gardez votre personnalité !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyR-6uGRV": "Inspirer profondément en détendant ses tensions musculaires",
+            "choice_E15tpdGRN": "Ne jamais exprimer son avis ouvertement",
+            "choice_EJzqTdMCE": "S'aligner sur l'opinion de notre interlocuteur",
+            "choice_4yCqpuGR4": "Se remémorer que l'existence de nos biais cognitifs altère notre jugement"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "What mindfulness techniques can you use to stop judging others too hastily at work?",
+            "klf": "Self-remembering at work helps us approach situations or events in a more relaxed, fair way.",
+            "tips": "Sigmund Freud theorised about the concept of projection. Projection is when we unconsciously displace feelings, attributes or desires (we fail to see in ourselves) onto something external, usually another person. Mindfulness encourages us to observe our external projections in an objective way. It gives us a better knowledge of ourselves and makes us take a step back when faced with other people’s opinions.",
+            "clue": "Keep your personality!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyR-6uGRV": "Breathing deeply while releasing muscular tension",
+            "choice_E15tpdGRN": "Never openly expressing your point of view",
+            "choice_EJzqTdMCE": "Always agreeing with others",
+            "choice_4yCqpuGR4": "Remembering that your cognitive bias can influence your judgement"
+        }
+    }
+}

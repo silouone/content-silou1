@@ -1,0 +1,114 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:54:58.824Z",
+            "updatedAt": "2017-12-01T17:19:27.956Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VywRmAQ3g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VywRmAQ3g.choice_NyUEECQ2l.id",
+                        "label": "choice_NyUEECQ2l",
+                        "value": "choice_NyUEECQ2l"
+                    },
+                    {
+                        "id": "sli_VywRmAQ3g.choice_NkvVER73e.id",
+                        "label": "choice_NkvVER73e",
+                        "value": "choice_NkvVER73e"
+                    },
+                    {
+                        "id": "sli_VywRmAQ3g.choice_Ey-4VAQ2l.id",
+                        "label": "choice_Ey-4VAQ2l",
+                        "value": "choice_Ey-4VAQ2l"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyUEECQ2l",
+                        "choice_NkvVER73e"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VywRmAQ3g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est le terme \"motivation personnelle\"?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La motivation personnelle est la capacité d'avancer malgré les obstacles professionnels, en gardant toujours à l'esprit ses désirs les plus profonds.",
+            "tips": "Selon une étude du psychologue Charles R. Snyder, la motivation personnelle est facilitée par l'optimisme, la personne n'étant pas monopolisée par des pensées négatives liées à l'anxiété de l'échec, par exemple.",
+            "clue": "Vous avez le droit de penser à vos petites imperfections.",
+            "choice_NyUEECQ2l": "Avancer malgré les obstacles professionnels",
+            "choice_NkvVER73e": "Gardez à l'esprit ses profonds désirs",
+            "choice_Ey-4VAQ2l": "Ne jamais s'attarder sur ses défauts ou ses faiblesses",
+            "choice_VkVV40Q2g": "Réussir à se lever le matin"
+        },
+        "en": {
+            "header": "What is the term \"self-motivation\"?",
+            "explanation": "Select the correct answers.",
+            "klf": "Self-motivation is the ability to move forward despite professional obstacles, always keeping in mind one's deepest desires.",
+            "tips": "According to a study by the psychologist Charles R. Snyder, self-motivation is facilitated by optimism, the person not being monopolized by negative thoughts related to the anxiety of failure, for example.",
+            "clue": "You have the right to think about your small imperfections.",
+            "choice_NyUEECQ2l": "Advance despite professional obstacles",
+            "choice_NkvVER73e": "Keep in mind his deep desires",
+            "choice_Ey-4VAQ2l": "Never dwell on one's flaws or weaknesses",
+            "choice_VkVV40Q2g": "Managing to get up in the morning"
+        },
+        "de": {
+            "header": "Was ist der Begriff \"Selbstmotivation\"?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Selbstmotivation ist die Fähigkeit, trotz beruflicher Hindernisse voranzukommen und dabei stets die tiefsten Wünsche zu berücksichtigen.",
+            "tips": "Laut einer Studie des Psychologen Charles R. Snyder wird die Selbstmotivation durch Optimismus gefördert, wobei die Person beispielsweise nicht durch negative Gedanken in Bezug auf die Angst vor dem Versagen monopolisiert wird.",
+            "clue": "Sie haben das Recht, über Ihre kleinen Unvollkommenheiten nachzudenken.",
+            "choice_NyUEECQ2l": "Fortschritt trotz beruflicher Hindernisse",
+            "choice_NkvVER73e": "Behalte seine tiefen Wünsche im Hinterkopf",
+            "choice_Ey-4VAQ2l": "Niemals auf Fehler oder Schwächen eingehen",
+            "choice_VkVV40Q2g": "Managing to get up in the morning"
+        },
+        "es": {
+            "header": "What is meant by the term \"self-motivation\"?",
+            "explanation": "Select the correct answers.",
+            "klf": "Self-motivation is the ability to progress despite professional obstacles, always bearing in mind your deepest wishes.",
+            "tips": "According to a study by psychologist Charles R. Snyder, self-motivation is facilitated by optimism, the person is not preoccupied by negative thoughts related to fear of failure, for example.",
+            "choice_VkVV40Q2g": "Managing to get up in the morning",
+            "choice_NyUEECQ2l": "Progressing despite professional obstacles",
+            "choice_NkvVER73e": "Not forgetting your deepest wishes",
+            "choice_Ey-4VAQ2l": "Never dwelling on your faults or weaknesses",
+            "clue": "You have the right to think about your little imperfections."
+        },
+        "zh": {
+            "header": "“自我激励”一词的含义是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "自我激励是指在遇到专业障碍的情况下进步的能力，始终牢记您最深切的愿望。",
+            "tips": "根据心理学家查尔斯·施奈德（Charles R. Snyder）的一项研究，自我激励是由乐观主义促成的，例如，这个人不会被与恐惧失败相关的消极思想所困扰。",
+            "clue": "你有权考虑你的小瑕疵。",
+            "choice_NyUEECQ2l": "尽管遇到了专业障碍，",
+            "choice_NkvVER73e": "不要忘记你最深切的祝福",
+            "choice_Ey-4VAQ2l": "永远不要纠缠于你的缺点或弱点",
+            "choice_VkVV40Q2g": "Managing to get up in the morning"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T15:51:22.055Z",
+            "updatedAt": "2018-10-17T11:55:32.644Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkkycF9EB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1asln3dr",
+        "universalRef": "sli_V1asln3dr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1asln3dr.choice_41hxZ2hdH.id",
+                        "label": "choice_41hxZ2hdH",
+                        "value": "choice_41hxZ2hdH"
+                    },
+                    {
+                        "id": "sli_V1asln3dr.choice_Ekx~Z22dr.id",
+                        "label": "choice_Ekx~Z22dr",
+                        "value": "choice_Ekx~Z22dr"
+                    },
+                    {
+                        "id": "sli_V1asln3dr.choice_Vy9WW3hOB.id",
+                        "label": "choice_Vy9WW3hOB",
+                        "value": "choice_Vy9WW3hOB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41hxZ2hdH",
+                        "choice_Vy9WW3hOB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pourquoi la production de contenu s'avère-t-elle particulièrement utile ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour influencer les décisions de consommateurs et se donner un avantage concurrentiel de taille, le rôle de la production de contenu est primordial.",
+            "tips": "Il ne faut pas croire qu'envahir le Web avec des sujets redondants suscite chez vos publics cible l'envie de vous écouter. Bien au contraire, l'effet sera souvent opposé et vous ne générerez qu'ennui ou rejet.",
+            "clue": "Il s’agit de convaincre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41hxZ2hdH": "Pour influencer la décision de vos consommateurs ",
+            "choice_Ekx~Z22dr": "Pour renforcer sa stratégie d'outbound marketing",
+            "choice_Vy9WW3hOB": "Pour être bien positionné sur les moteurs de recherche "
+        },
+        "en": {
+            "header": "Pourquoi la production de contenu savère-t-elle particulièrement utile ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour influencer les décisions de consommateurs et se donner un avantage concurrentiel de taille, le rôle de la production de contenu est primordial.",
+            "tips": "Il ne faut pas croire quenvahir le Web avec des sujets redondants suscite chez vos publics cible lenvie de vous écouter. Bien au contraire, leffet sera souvent opposé et vous ne générerez quennui ou rejet.",
+            "clue": "Il s’agit de convaincre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41hxZ2hdH": "Pour influencer la décision de vos consommateurs ",
+            "choice_Ekx~Z22dr": "Pour renforcer sa stratégie doutbound marketing",
+            "choice_Vy9WW3hOB": "Pour être bien positionné sur les moteurs de recherche "
+        }
+    }
+}

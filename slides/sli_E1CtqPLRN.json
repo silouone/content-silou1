@@ -1,0 +1,89 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-17T12:59:05.419Z",
+            "updatedAt": "2018-06-22T15:58:48.785Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJcr0uEcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-17T12:59:05.419Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_E1CtqPLRN",
+        "universalRef": "sli_E1CtqPLRN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_E1CtqPLRN.field_VJPh9MIkH.id",
+                        "type": "text",
+                        "name": "inp74199",
+                        "label": "label_4JlvhcGUJB",
+                        "placeholder": "placeholder_VJZvh9z8kB"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp74199",
+                        "answers": [
+                            "choice_4kGw35GIJS",
+                            "choice_NkjT9MLJS",
+                            "choice_4y8yD7oeH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Sur quelle branche de la carte QQOQCCPP est-il conseillé de lister les actions concrètes à entreprendre ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "A la fin du processus de QQOQCCPP, il arrive le moment de passer à l’action. En notant les idées répondant à la question « Comment » sur la branche associée, vous réussirez à bien définir les actions à entreprendre par la suite.",
+            "tips": "Pour mieux organiser vos actions, vous pouvez vous inspirer de la méthode GTD (\"Getting Things Done\") de David Allen, qui consiste à se donner des objectifs clairs qui vont permettre d’identifier rapidement toutes les prochaines actions concrètes pour se rapprocher de l’objectif final. Cette méthode est souvent couplée avec le mind mapping.",
+            "clue": "5ème lettre.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les idées de la branche \"{{inp74199}}\" seront celles à actionner.",
+            "label_4JlvhcGUJB": " ",
+            "placeholder_VJZvh9z8kB": " ",
+            "choice_4kGw35GIJS": "comment",
+            "choice_NkjT9MLJS": "comment ?",
+            "choice_4y8yD7oeH": "comment?"
+        },
+        "en": {
+            "explanation": "Enter your answer.",
+            "header": "On which branch of the Five W’s and How are you recommended to list specific actions to undertake?",
+            "klf": "Once you have answered all your questions, it’s time to swing into action. If you write down the answers to your “how” question branch, this will give you a good handle on the action you need to undertake next.",
+            "tips": "To help you better organise your action points, you might use David Allen’s GTD (“Getting Things Done”) method. This involves setting clear objectives that help you to quickly identify concrete next steps to get you to your ultimate objective. This method is often combined with mind mapping.",
+            "clue": "Number 6",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The ideas in your \"{{inp74199}}\" branch are your next actions.",
+            "label_4JlvhcGUJB": " ",
+            "placeholder_VJZvh9z8kB": " ",
+            "choice_4kGw35GIJS": "how",
+            "choice_NkjT9MLJS": "how?",
+            "choice_4y8yD7oeH": "How"
+        }
+    }
+}

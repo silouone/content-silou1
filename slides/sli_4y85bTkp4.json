@@ -1,0 +1,187 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-30T08:27:02.254Z",
+            "updatedAt": "2018-08-10T13:44:37.028Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9DcQ4sV"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4y85bTkp4",
+        "universalRef": "sli_4y85bTkp4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4y85bTkp4.choice_Ny3t6Cv0E.id",
+                        "label": "choice_Ny3t6Cv0E",
+                        "value": "choice_Ny3t6Cv0E"
+                    },
+                    {
+                        "id": "sli_4y85bTkp4.choice_4JaYpCv04.id",
+                        "label": "choice_4JaYpCv04",
+                        "value": "choice_4JaYpCv04"
+                    },
+                    {
+                        "id": "sli_4y85bTkp4.choice_410Ya0w0E.id",
+                        "label": "choice_410Ya0w0E",
+                        "value": "choice_410Ya0w0E"
+                    },
+                    {
+                        "id": "sli_4y85bTkp4.choice_Vyk5T0P0N.id",
+                        "label": "choice_Vyk5T0P0N",
+                        "value": "choice_Vyk5T0P0N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ny3t6Cv0E",
+                        "choice_410Ya0w0E"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should the work structure look when being managed remotely?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "An employee working remotely needs a precise and well-organised work structure. The manager should be clear about the objectives, expected results and game plan.",
+            "tips": "So, videoconference meetings should be even more organised than in-person meetings. You need to check the materials, limit the length, prepare the documents in advance, give everyone equal speaking time, rephrase what has been said and write a report about any decisions made at the end of the meeting.",
+            "clue": "Like a Swiss clockmaker.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny3t6Cv0E": "Precise",
+            "choice_4JaYpCv04": "Flexible",
+            "choice_410Ya0w0E": "Well-organised",
+            "choice_Vyk5T0P0N": "Non-existent"
+        },
+        "fr": {
+            "header": "Quelle devrait être la structure de travail lors de la gestion à distance?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "Les employés travaillant à distance ont besoin d'une structure de travail précise et bien organisée. Le responsable doit être clair sur les objectifs, les résultats attendus et les plans de match.",
+            "tips": "Par conséquent, la vidéoconférence devrait être plus organisée que les réunions en face à face. Vous devez vérifier le matériel, limiter la longueur, préparer les documents à l'avance, donner à chacun le même temps pour parler, reformuler ce qui est dit et rédiger un rapport sur les décisions prises à la fin de la réunion.",
+            "clue": "Comme un horloger suisse.",
+            "choice_Ny3t6Cv0E": "Précis",
+            "choice_4JaYpCv04": "Flexible",
+            "choice_410Ya0w0E": "Quatre écurie",
+            "choice_Vyk5T0P0N": "Inexistant",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cómo debería verse la estructura de trabajo cuando se administra de forma remota?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Un empleado que trabaja de forma remota necesita una estructura de trabajo precisa y bien organizada. El gerente debe tener claro los objetivos, los resultados esperados y el plan de juego.",
+            "tips": "Por lo tanto, las reuniones de videoconferencia deben estar aún más organizadas que las reuniones en persona. Debe verificar los materiales, limitar la duración, preparar los documentos con anticipación, dar a todos el mismo tiempo para hablar, reformular lo que se ha dicho y redactar un informe sobre cualquier decisión tomada al final de la reunión.",
+            "clue": "Como un relojero suizo.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny3t6Cv0E": "Preciso",
+            "choice_4JaYpCv04": "Flexible",
+            "choice_410Ya0w0E": "Bien organizado",
+            "choice_Vyk5T0P0N": "Inexistente"
+        },
+        "it": {
+            "header": "Come dovrebbe apparire la struttura del lavoro quando viene gestito in remoto?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Un dipendente che lavora da remoto ha bisogno di una struttura lavorativa precisa e ben organizzata. Il manager dovrebbe essere chiaro sugli obiettivi, i risultati attesi e il piano di gioco.",
+            "tips": "Pertanto, le riunioni di videoconferenza dovrebbero essere ancora più organizzate rispetto alle riunioni di persona. È necessario controllare i materiali, limitare la lunghezza, preparare i documenti in anticipo, dare a tutti pari tempo di parola, riformulare ciò che è stato detto e scrivere un rapporto su eventuali decisioni prese alla fine della riunione.",
+            "clue": "Come un orologiaio svizzero.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny3t6Cv0E": "preciso",
+            "choice_4JaYpCv04": "Flessibile",
+            "choice_410Ya0w0E": "Ben organizzata",
+            "choice_Vyk5T0P0N": "Inesistente"
+        },
+        "de": {
+            "header": "How should the work structure look when being managed remotely?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "An employee working remotely needs a precise and well-organised work structure. The manager should be clear about the objectives, expected results and game plan.",
+            "tips": "So, videoconference meetings should be even more organised than in-person meetings. You need to check the materials, limit the length, prepare the documents in advance, give everyone equal speaking time, rephrase what has been said and write a report about any decisions made at the end of the meeting.",
+            "clue": "Like a Swiss clockmaker.",
+            "choice_Ny3t6Cv0E": "Precise",
+            "choice_4JaYpCv04": "Flexible",
+            "choice_410Ya0w0E": "Well-organised",
+            "choice_Vyk5T0P0N": "Non-existent",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "원격으로 관리 할 때 작업 구조가 어떻게 나타나야합니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "원격으로 일하는 직원은 정확하고 체계적인 작업 구조가 필요합니다. 관리자는 목표, 예상 결과 및 게임 계획에 대해 분명히해야합니다.",
+            "tips": "따라서 화상 회의는 직접 회의보다 조직적이어야합니다. 자료를 확인하고, 길이를 제한하고, 미리 문서를 준비하고, 모든 사람들에게 평등하게 말하는 시간을주고, 말한 것을 다시 말하고, 회의가 끝날 때 결정에 관한 보고서를 작성해야합니다.",
+            "clue": "스위스 시계 제작자처럼.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny3t6Cv0E": "정확한",
+            "choice_4JaYpCv04": "융통성 있는",
+            "choice_410Ya0w0E": "잘 정리 된",
+            "choice_Vyk5T0P0N": "존재하지 않는"
+        },
+        "ru": {
+            "header": "Как должна выглядеть структура работы при дистанционном управлении?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Работодателю, работающему удаленно, нужна четкая и хорошо организованная структура работы. Менеджер должен четко понимать цели, ожидаемые результаты и план игры.",
+            "tips": "Поэтому встречи на видеоконференциях должны быть еще более организованными, чем личные встречи. Вам необходимо проверить материалы, ограничить их длину, подготовить документы заранее, дать всем равное время выступления, перефразировать сказанное и написать отчет о любых решениях, принятых в конце собрания.",
+            "clue": "Как швейцарский часовой мастер.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny3t6Cv0E": "точный",
+            "choice_4JaYpCv04": "гибкий",
+            "choice_410Ya0w0E": "Хорошо организованная",
+            "choice_Vyk5T0P0N": "Несуществующий"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Como deve ser a estrutura de trabalho quando gerenciada remotamente?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Um funcionário que trabalha remotamente precisa de uma estrutura de trabalho precisa e bem organizada. O gerente deve ter clareza sobre os objetivos, resultados esperados e plano de jogo.",
+            "tips": "Portanto, as reuniões por videoconferência devem ser ainda mais organizadas do que as reuniões presenciais. Você precisa verificar os materiais, limitar a duração, preparar os documentos com antecedência, dar a todos tempo igual para falar, reformular o que foi dito e redigir um relatório sobre quaisquer decisões tomadas no final da reunião.",
+            "clue": "Como um relojoeiro suíço.",
+            "choice_Ny3t6Cv0E": "Preciso",
+            "choice_4JaYpCv04": "Flexível",
+            "choice_410Ya0w0E": "Bem organizado",
+            "choice_Vyk5T0P0N": "Inexistente"
+        },
+        "zh": {
+            "header": "远程管理时工作结构应该如何？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "远程工作的员工需要精确且组织良好的工作结构。经理应该清楚目标，预期结果和游戏计划。",
+            "tips": "因此，视频会议应该比面对面会议更有条理。您需要检查材料，限制长度，提前准备文件，给每个人平等的发言时间，重新说明所说的内容，并撰写关于会议结束时作出的任何决定的报告。",
+            "clue": "像瑞士钟表匠一样。",
+            "choice_Ny3t6Cv0E": "精确",
+            "choice_4JaYpCv04": "灵活",
+            "choice_410Ya0w0E": "四平八稳",
+            "choice_Vyk5T0P0N": "不存在的"
+        }
+    }
+}

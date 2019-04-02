@@ -1,0 +1,215 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T17:05:18.225Z",
+            "updatedAt": "2018-08-10T13:10:13.478Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_EypA7oK34",
+        "universalRef": "sli_EypA7oK34",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EypA7oK34.choice_EJugEsKhE.id",
+                        "label": "choice_EJugEsKhE",
+                        "value": "choice_EJugEsKhE"
+                    },
+                    {
+                        "id": "sli_EypA7oK34.choice_41YeVsY24.id",
+                        "label": "choice_41YeVsY24",
+                        "value": "choice_41YeVsY24"
+                    },
+                    {
+                        "id": "sli_EypA7oK34.choice_VJ9xNoYhE.id",
+                        "label": "choice_VJ9xNoYhE",
+                        "value": "choice_VJ9xNoYhE"
+                    },
+                    {
+                        "id": "sli_EypA7oK34.choice_Vyox4sK3E.id",
+                        "label": "choice_Vyox4sK3E",
+                        "value": "choice_Vyox4sK3E"
+                    },
+                    {
+                        "id": "sli_EypA7oK34.choice_41Cxh-LSr.id",
+                        "label": "choice_41Cxh-LSr",
+                        "value": "choice_41Cxh-LSr"
+                    },
+                    {
+                        "id": "sli_EypA7oK34.choice_4kD2nu8SB.id",
+                        "label": "choice_4kD2nu8SB",
+                        "value": "choice_4kD2nu8SB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJugEsKhE",
+                        "choice_41YeVsY24",
+                        "choice_Vyox4sK3E",
+                        "choice_41Cxh-LSr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What can a manager do if they notice a difference between the result and the desired goal?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "If there is a difference between the result and the desired goal, the manager can analyse the root of the problem and implement corrective actions. Once solutions have been found, the manager must ensure that they are maintained and spread good practices.",
+            "tips": "Some companies advocate fail fast, a practice that values the right to make mistakes as long as you do not become bogged down in them.",
+            "clue": "Four points of the compass...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJugEsKhE": "Implement corrective actions",
+            "choice_41YeVsY24": "Ensure that the solutions are maintained",
+            "choice_VJ9xNoYhE": "",
+            "choice_Vyox4sK3E": "Promote good practices",
+            "choice_41Cxh-LSr": "Analyse the root of the problem",
+            "choice_4kD2nu8SB": "",
+            "choice_EJjOrMS6V": "Trouver des solutions"
+        },
+        "fr": {
+            "header": "Que peuvent faire les gestionnaires s’ils constatent une différence entre les résultats et les objectifs attendus?",
+            "explanation": "Choisissez la bonne réponse ci-dessous.",
+            "klf": "S'il existe une différence entre le résultat et l'objectif souhaité, le responsable peut analyser la source du problème et mettre en œuvre des actions correctives. Une fois la solution trouvée, le responsable doit s’assurer que les bonnes pratiques sont maintenues et diffusées.",
+            "tips": "Certaines entreprises préconisent un échec rapide, aussi longtemps que vous n'êtes pas en difficulté, cette approche tiendra compte du droit de commettre des erreurs.",
+            "clue": "Quatre points cardinaux ...",
+            "choice_EJugEsKhE": "Mettre en œuvre des actions correctives",
+            "choice_41YeVsY24": "Assurer des solutions de maintenance",
+            "choice_Vyox4sK3E": "Promouvoir les bonnes pratiques",
+            "choice_41Cxh-LSr": "Analyser la cause du problème",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ9xNoYhE": "",
+            "choice_4kD2nu8SB": "",
+            "choice_EJjOrMS6V": "Trouver des solutions"
+        },
+        "es": {
+            "header": "¿Qué puede hacer un gerente si nota una diferencia entre el resultado y el objetivo deseado?",
+            "explanation": "Elija las respuestas correctas de abajo.",
+            "klf": "Si hay una diferencia entre el resultado y el objetivo deseado, el administrador puede analizar la raíz del problema e implementar acciones correctivas. Una vez que se han encontrado las soluciones, el gerente debe asegurarse de que se mantengan y difundir las buenas prácticas.",
+            "tips": "Algunas compañías defienden el fracaso rápido, una práctica que valora el derecho a cometer errores siempre que no se atasque en ellos.",
+            "clue": "Cuatro puntos de la brújula ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJugEsKhE": "Implementar acciones correctivas",
+            "choice_41YeVsY24": "Asegúrese de que las soluciones se mantienen",
+            "choice_VJ9xNoYhE": "",
+            "choice_Vyox4sK3E": "Promover buenas prácticas",
+            "choice_41Cxh-LSr": "Analiza la raíz del problema",
+            "choice_4kD2nu8SB": ""
+        },
+        "it": {
+            "header": "Cosa può fare un manager se nota una differenza tra il risultato e lobiettivo desiderato?",
+            "explanation": "Scegli le risposte giuste dal basso.",
+            "klf": "Se cè una differenza tra il risultato e lobiettivo desiderato, il manager può analizzare la radice del problema e implementare azioni correttive. Una volta che le soluzioni sono state trovate, il gestore deve assicurarsi che vengano mantenute e diffondere le buone pratiche.",
+            "tips": "Alcune aziende sostengono il fail fast, una pratica che valorizza il diritto di commettere errori finché non si impantanano in essi.",
+            "clue": "Quattro punti della bussola ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJugEsKhE": "Implementare azioni correttive",
+            "choice_41YeVsY24": "Assicurarsi che le soluzioni siano mantenute",
+            "choice_VJ9xNoYhE": "",
+            "choice_Vyox4sK3E": "Promuovere buone pratiche",
+            "choice_41Cxh-LSr": "Analizza la radice del problema",
+            "choice_4kD2nu8SB": ""
+        },
+        "de": {
+            "header": "What can a manager do if they notice a difference between the result and the desired goal?",
+            "explanation": "Choose the right answers from below.",
+            "klf": "If there is a difference between the result and the desired goal, the manager can analyse the root of the problem and implement corrective actions. Once solutions have been found, the manager must ensure that they are maintained and spread good practices.",
+            "tips": "Some companies advocate fail fast, a practice that values the right to make mistakes as long as you do not become bogged down in them.",
+            "clue": "Four points of the compass...",
+            "choice_EJugEsKhE": "Implement corrective actions",
+            "choice_41YeVsY24": "Ensure that the solutions are maintained",
+            "choice_Vyox4sK3E": "Promote good practices",
+            "choice_41Cxh-LSr": "Analyse the root of the problem",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ9xNoYhE": "",
+            "choice_4kD2nu8SB": ""
+        },
+        "ko": {
+            "header": "결과와 원하는 목표의 차이를 발견하면 관리자는 무엇을 할 수 있습니까?",
+            "explanation": "아래에서 올바른 대답을 선택하십시오.",
+            "klf": "결과와 원하는 목표 사이에 차이가있는 경우 관리자는 문제의 근본을 분석하고 수정 작업을 구현할 수 있습니다. 솔루션을 찾았 으면 관리자는 유지 관리하고 우수 사례를 전파해야합니다.",
+            "tips": "어떤 회사는 실수로 실수 할 수있는 권리를 중요시하는 실패 빠른옹호를하고 있습니다.",
+            "clue": "나침반 4 점 ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJugEsKhE": "시정 조치 구현",
+            "choice_41YeVsY24": "솔루션이 유지되는지 확인하십시오.",
+            "choice_VJ9xNoYhE": "",
+            "choice_Vyox4sK3E": "우수 사례 홍보",
+            "choice_41Cxh-LSr": "문제의 근본을 분석하십시오.",
+            "choice_4kD2nu8SB": ""
+        },
+        "ru": {
+            "header": "Что может сделать менеджер, если они замечают разницу между результатом и желаемой целью?",
+            "explanation": "Выберите правильные ответы ниже.",
+            "klf": "Если есть разница между результатом и желаемой целью, менеджер может проанализировать корень проблемы и выполнить корректирующие действия. После того, как решения были найдены, менеджер должен обеспечить, чтобы они поддерживались и распространялись надлежащие практики.",
+            "tips": "Некоторые компании выступают за «неудачу быстро», практику, которая ценит право совершать ошибки, пока вы не увязнете в них.",
+            "clue": "Четыре точки компаса ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJugEsKhE": "Внедрение корректирующих действий",
+            "choice_41YeVsY24": "Убедитесь, что решения поддерживаются",
+            "choice_VJ9xNoYhE": "",
+            "choice_Vyox4sK3E": "Содействовать передовым методам",
+            "choice_41Cxh-LSr": "Проанализируйте корень проблемы",
+            "choice_4kD2nu8SB": ""
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O que um gerente pode fazer se notar uma diferença entre o resultado e o objetivo desejado?",
+            "explanation": "Escolha as respostas certas abaixo.",
+            "klf": "Se houver diferença entre o resultado e o objetivo desejado, o gerente pode analisar a raiz do problema e implementar ações corretivas. Depois que as soluções forem encontradas, o gerente deve garantir que elas sejam mantidas e difundam boas práticas.",
+            "tips": "Algumas empresas defendem o fracasso, uma prática que valoriza o direito de cometer erros, desde que você não fique atolado neles.",
+            "clue": "Quatro pontos da bússola ...",
+            "choice_EJugEsKhE": "Implementar ações corretivas",
+            "choice_41YeVsY24": "Garantir que as soluções sejam mantidas",
+            "choice_Vyox4sK3E": "Promover boas práticas",
+            "choice_41Cxh-LSr": "Analise a raiz do problema"
+        },
+        "zh": {
+            "header": "如果管理者发现结果与预期目标之间存在差异，他们可以做些什么？",
+            "explanation": "从下面选择正确的答案。",
+            "klf": "如果结果与期望目标之间存在差异，管理者可以分析问题的根源并实施纠正措施。一旦找到解决方案，经理必须确保维护并传播良好实践。",
+            "tips": "一些公司主张快速失败，只要你不陷入困境，这种做法就会重视犯错的权利。",
+            "clue": "指南针的四点......",
+            "choice_EJugEsKhE": "实施纠正措施",
+            "choice_41YeVsY24": "确保维护解决方案",
+            "choice_Vyox4sK3E": "促进良好做法",
+            "choice_41Cxh-LSr": "分析问题的根源"
+        }
+    }
+}

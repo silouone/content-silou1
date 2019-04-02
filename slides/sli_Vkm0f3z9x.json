@@ -1,0 +1,96 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T10:50:33.794Z",
+            "updatedAt": "2016-09-03T14:20:14.100Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_Vkm0f3z9x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel46815",
+                        "label": "label_N1Gtm2zqg",
+                        "items": [
+                            {
+                                "text": "choice_NyeGtX3zqe",
+                                "value": "choice_NyeGtX3zqe"
+                            },
+                            {
+                                "text": "choice_N1WGKQ2Gce",
+                                "value": "choice_N1WGKQ2Gce"
+                            },
+                            {
+                                "text": "choice_4y4FQnzcl",
+                                "value": "choice_4y4FQnzcl"
+                            },
+                            {
+                                "text": "choice_EkBKQ2Gce",
+                                "value": "choice_EkBKQ2Gce"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel46815",
+                        "answers": [
+                            "choice_4y4FQnzcl"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_Vkm0f3z9x"
+    },
+    "locales": {
+        "fr": {
+            "header": "En quelle année l'égalité des sexes est-elle inscrite dans la Constitution en France ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En France, la Constitution ne garantit l'égalité des sexes que depuis 1946. Aujourd'hui, les inégalités entre hommes et femmes perdurent partout dans le monde. Parfois, ces dernières n'ont même pas le droit de voter, d'aller à l'école ou de gérer leurs biens.",
+            "tips": "C'est à peine 10 ans avant, en 1938, que l'incapacité civile de la femme mariée (soit un statut de mineure) est supprimée.",
+            "template": "{{sel46815}}",
+            "clue": "Après la Seconde Guerre mondiale.",
+            "label_N1Gtm2zqg": " ",
+            "choice_NyeGtX3zqe": "1789",
+            "choice_N1WGKQ2Gce": "1937",
+            "choice_4y4FQnzcl": "1946",
+            "choice_EkBKQ2Gce": "1958"
+        },
+        "en": {
+            "header": "What year was gender-equality enshrined in the French Constitution?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In France, the Constitution has only guaranteed gender equality since 1946! Today, inequalities between men and women persist worldwide. Sometimes women do not even have the right to vote, to go to school or to manage their property.",
+            "tips": "It was barely 10 years before, in 1938, that the civil incapacity of married women (i.e. a minor status) was removed.",
+            "template": "{{sel46815}}",
+            "label_N1Gtm2zqg": " ",
+            "choice_NyeGtX3zqe": "1789",
+            "choice_N1WGKQ2Gce": "1937",
+            "choice_4y4FQnzcl": "1946",
+            "choice_EkBKQ2Gce": "1958",
+            "clue": "After the Second World War."
+        }
+    }
+}

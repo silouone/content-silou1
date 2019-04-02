@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-23T09:10:44.912Z",
+            "updatedAt": "2018-10-08T15:32:43.363Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1bQ6UrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4y07YYRQH",
+        "universalRef": "sli_4y07YYRQH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4y07YYRQH.choice_E1vQcFAXB.id",
+                        "label": "choice_E1vQcFAXB",
+                        "value": "choice_E1vQcFAXB"
+                    },
+                    {
+                        "id": "sli_4y07YYRQH.choice_N13D9KRQr.id",
+                        "label": "choice_N13D9KRQr",
+                        "value": "choice_N13D9KRQr"
+                    },
+                    {
+                        "id": "sli_4y07YYRQH.choice_4ymd9tAQr.id",
+                        "label": "choice_4ymd9tAQr",
+                        "value": "choice_4ymd9tAQr"
+                    },
+                    {
+                        "id": "sli_4y07YYRQH.choice_4kYOcK0XH.id",
+                        "label": "choice_4kYOcK0XH",
+                        "value": "choice_4kYOcK0XH"
+                    },
+                    {
+                        "id": "sli_4y07YYRQH.choice_NJOFqtC7H.id",
+                        "label": "choice_NJOFqtC7H",
+                        "value": "choice_NJOFqtC7H"
+                    },
+                    {
+                        "id": "sli_4y07YYRQH.choice_E1S-79mHS.id",
+                        "label": "choice_E1S-79mHS",
+                        "value": "choice_E1S-79mHS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1vQcFAXB",
+                        "choice_N13D9KRQr",
+                        "choice_4kYOcK0XH",
+                        "choice_E1S-79mHS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment appliquer la méthode LEAN à votre messagerie ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour gérer plus efficacement votre messagerie avec l’attitude LEAN, vous pouvez consulter votre messagerie par périodes, à horaires fixes. Répondez rapidement aux messages qui ne demandent pas plus de 3 minutes de travail, convertissez les autres en actions futures et archivez immédiatement les messages à conserver. Se désabonner des messages inutiles vous rendra également plus efficace.",
+            "tips": "Les cadres estiment passer plus de 5 heures par jour en moyenne à consulter leur messagerie.",
+            "clue": "Le coup par coup n'est pas recommandé.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1vQcFAXB": "Consulter votre messagerie par périodes",
+            "choice_N13D9KRQr": "Se désabonner des messages inutiles",
+            "choice_4ymd9tAQr": "Répondre au coup par coup",
+            "choice_4kYOcK0XH": "Archiver les messages à conserver",
+            "choice_NJOFqtC7H": "Ne répondre qu'aux mails importants",
+            "choice_E1S-79mHS": "Répondre immédiatement aux mails nécessitant moins de 3 minutes de traitement"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "How can you take a LEAN approach to checking your inbox?",
+            "klf": "A LEAN approach to efficient email management means checking your inbox at set times and for limited periods only. Respond quickly to messages that can be dealt with in 3 minutes or less, flag up those requiring more time, and immediately archive messages you want to keep. You can be even more efficient by unsubscribing from any messaging services you don’t need.",
+            "tips": "On average, middle managers reckon they spend over 5 hours a day checking their inbox.",
+            "clue": "Ad-hoc isn’t advisable.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1vQcFAXB": "By checking your inbox for limited periods only",
+            "choice_N13D9KRQr": "By unsubscribing from messaging services that aren’t much use",
+            "choice_4ymd9tAQr": "By responding to emails on an ad-hoc basis",
+            "choice_4kYOcK0XH": "By archiving messages you want to keep",
+            "choice_NJOFqtC7H": "By only responding to important emails",
+            "choice_E1S-79mHS": "By responding immediately to emails that will take under 3 minutes to deal with"
+        }
+    }
+}

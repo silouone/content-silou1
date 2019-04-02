@@ -1,0 +1,86 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T12:48:15.557Z",
+            "updatedAt": "2018-10-17T09:34:48.998Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1T2KYcEr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vyt~~Njdr",
+        "universalRef": "sli_Vyt~~Njdr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vyt~~Njdr.choice_4JwoZEodS.id",
+                        "label": "choice_4JwoZEodS",
+                        "value": "choice_4JwoZEodS"
+                    },
+                    {
+                        "id": "sli_Vyt~~Njdr.choice_VJ7aWNjdr.id",
+                        "label": "choice_VJ7aWNjdr",
+                        "value": "choice_VJ7aWNjdr"
+                    },
+                    {
+                        "id": "sli_Vyt~~Njdr.choice_Nk8T~NjOB.id",
+                        "label": "choice_Nk8T~NjOB",
+                        "value": "choice_Nk8T~NjOB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JwoZEodS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quand l'inboud marketing est-il né ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Né en 2006, l’inbound marketing vise à attirer les clients grâce à la diffusion de contenus de qualité qui informent, éduquent et inspirent.",
+            "tips": "C’est la société HubSpot, solution de marketing automation, qui a introduit ce terme pour la première fois aux USA.",
+            "clue": "L’inbound marketing est un marketing moderne, sans être un nouveau-né.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JwoZEodS": "2006",
+            "choice_VJ7aWNjdr": "1993",
+            "choice_Nk8T~NjOB": "2013",
+            "choice_4yKaW4juB": "2000"
+        },
+        "en": {
+            "header": "Quand linboud marketing est-il né ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Né en 2006, l’inbound marketing vise à attirer les clients grâce à la diffusion de contenus de qualité qui informent, éduquent et inspirent.",
+            "tips": "C’est la société HubSpot, solution de marketing automation, qui a introduit ce terme pour la première fois aux USA.",
+            "clue": "L’inbound marketing est un marketing moderne, sans être un nouveau-né.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JwoZEodS": "2006",
+            "choice_VJ7aWNjdr": "1993",
+            "choice_Nk8T~NjOB": "2013",
+            "choice_4yKaW4juB": ""
+        }
+    }
+}

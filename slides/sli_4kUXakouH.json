@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:44:09.892Z",
+            "updatedAt": "2018-10-17T09:32:33.211Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kUXakouH",
+        "universalRef": "sli_4kUXakouH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kUXakouH.choice_EknrT1sOH.id",
+                        "label": "choice_EknrT1sOH",
+                        "value": "choice_EknrT1sOH"
+                    },
+                    {
+                        "id": "sli_4kUXakouH.choice_Nk18a1jOH.id",
+                        "label": "choice_Nk18a1jOH",
+                        "value": "choice_Nk18a1jOH"
+                    },
+                    {
+                        "id": "sli_4kUXakouH.choice_EJQUTysOB.id",
+                        "label": "choice_EJQUTysOB",
+                        "value": "choice_EJQUTysOB"
+                    },
+                    {
+                        "id": "sli_4kUXakouH.choice_4y8861iur.id",
+                        "label": "choice_4y8861iur",
+                        "value": "choice_4y8861iur"
+                    },
+                    {
+                        "id": "sli_4kUXakouH.choice_V1iUTkodr.id",
+                        "label": "choice_V1iUTkodr",
+                        "value": "choice_V1iUTkodr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EknrT1sOH",
+                        "choice_Nk18a1jOH",
+                        "choice_EJQUTysOB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour qu’une stratégie inbound marketing fonctionne, quelles doivent être les caractéristiques d’un bon contenu ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Un contenu doit être authentique, transparent, généreux, intéressant. Il doit être utile ou divertissant pour l’internaute qui le consulte. Dans le cas contraire, sa portée risque d’être beaucoup trop limitée sur le Web pour produire des résultats concrets en termes de business.",
+            "tips": "Le content marketing est une démarche centrée client (« consumer centric »). On doit y faire preuve d’empathie et démontrer, en partageant son expertise, qu’on a compris les problématiques que rencontrent ses clients. La principale préoccupation doit être désormais de parler « à » et « de » son client, pas de sa marque.",
+            "clue": "Plus on est à l’écoute, plus on est performant.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EknrT1sOH": "Informatif",
+            "choice_Nk18a1jOH": "Éducatif",
+            "choice_EJQUTysOB": "Inspirant",
+            "choice_4y8861iur": "Promotionnel",
+            "choice_V1iUTkodr": "Autocentré sur l'entreprise"
+        },
+        "en": {
+            "header": "Pour qu’une stratégie inbound marketing fonctionne, quelles doivent être les caractéristiques d’un bon contenu ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Un contenu doit être authentique, transparent, généreux, intéressant. Il doit être utile ou divertissant pour l’internaute qui le consulte. Dans le cas contraire, sa portée risque d’être beaucoup trop limitée sur le Web pour produire des résultats concrets en termes de business.",
+            "tips": "Le content marketing est une démarche centrée client (« consumer centric »). On doit y faire preuve d’empathie et démontrer, en partageant son expertise, qu’on a compris les problématiques que rencontrent ses clients. La principale préoccupation doit être désormais de parler « à » et « de » son client, pas de sa marque.",
+            "clue": "Plus on est à l’écoute, plus on est performant.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EknrT1sOH": "Informatif",
+            "choice_Nk18a1jOH": "Éducatif",
+            "choice_EJQUTysOB": "Inspirant",
+            "choice_4y8861iur": "Promotionnel",
+            "choice_V1iUTkodr": "Autocentré sur lentreprise"
+        }
+    }
+}

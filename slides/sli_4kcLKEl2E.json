@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-18T13:43:17.532Z",
+            "updatedAt": "2018-06-21T07:49:53.507Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4kcLKEl2E",
+        "universalRef": "sli_4kcLKEl2E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kcLKEl2E.choice_EkNNc4gnE.id",
+                        "label": "choice_EkNNc4gnE",
+                        "value": "choice_EkNNc4gnE"
+                    },
+                    {
+                        "id": "sli_4kcLKEl2E.choice_4JAEqEg3N.id",
+                        "label": "choice_4JAEqEg3N",
+                        "value": "choice_4JAEqEg3N"
+                    },
+                    {
+                        "id": "sli_4kcLKEl2E.choice_VkSB94gnN.id",
+                        "label": "choice_VkSB94gnN",
+                        "value": "choice_VkSB94gnN"
+                    },
+                    {
+                        "id": "sli_4kcLKEl2E.choice_NyZO54en4.id",
+                        "label": "choice_NyZO54en4",
+                        "value": "choice_NyZO54en4"
+                    },
+                    {
+                        "id": "sli_4kcLKEl2E.choice_EJKdcExhE.id",
+                        "label": "choice_EJKdcExhE",
+                        "value": "choice_EJKdcExhE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkNNc4gnE",
+                        "choice_VkSB94gnN",
+                        "choice_NyZO54en4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les apports de la pleine conscience en milieu professionnel ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La pratique de la pleine conscience est parfaitement adaptée au milieu professionnel : elle permet à la fois de développer sa capacité d'attention, d'apaiser son stress et d'être plus efficace dans ses différentes tâches.",
+            "tips": "Google, Ford et Carlsberg ont été parmi les premières entreprises à introduire la méditation de pleine conscience dans leurs locaux.",
+            "clue": "Moins d'anxiété pour plus d'efficacité !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkNNc4gnE": "Développement de sa capacité d’attention ",
+            "choice_4JAEqEg3N": "Développement de l’imagination",
+            "choice_VkSB94gnN": "Diminution du stress ",
+            "choice_NyZO54en4": "Plus grande efficience ",
+            "choice_EJKdcExhE": "Plus grande force musculaire",
+            "choice_NyJK5Ex2V": "Désamorçage des conflits"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "How can mindfulness contribute to workplace productivity?",
+            "klf": "Mindfulness is an ideal meditation technique to use at work: not only will it increase your attention span, but it also reduces stress levels and helps employees carry out a range of tasks much more efficiently.",
+            "tips": "Google, Ford and Carlsberg are amongst the first companies to introduce mindful meditation to the workplace.",
+            "clue": "Less anxiety and more efficiency!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkNNc4gnE": "By improving your attention span ",
+            "choice_4JAEqEg3N": "By developing your imagination",
+            "choice_VkSB94gnN": "By reducing stress ",
+            "choice_NyZO54en4": "By improving efficiency ",
+            "choice_EJKdcExhE": "By increasing muscular strength",
+            "choice_NyJK5Ex2V": "Désamorçage des conflits"
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-12T14:45:05.760Z",
+            "updatedAt": "2018-10-12T15:02:16.296Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJmCaWFVS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Ny2zL4FrB",
+        "universalRef": "sli_Ny2zL4FrB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ny2zL4FrB.choice_E13A~Km8r.id",
+                        "label": "choice_E13A~Km8r",
+                        "value": "choice_E13A~Km8r"
+                    },
+                    {
+                        "id": "sli_Ny2zL4FrB.choice_4ka0~tXLr.id",
+                        "label": "choice_4ka0~tXLr",
+                        "value": "choice_4ka0~tXLr"
+                    },
+                    {
+                        "id": "sli_Ny2zL4FrB.choice_4yx6CbYXLr.id",
+                        "label": "choice_4yx6CbYXLr",
+                        "value": "choice_4yx6CbYXLr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E13A~Km8r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En social commerce, il est impératif d'être \"mobile first\". Que cela signifie-t-il ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En social commerce, il est impératif d'être \"mobile first\". Cette règle de compatibilité d'un site internet avec tous les objets connectés vaut d'ailleurs pour tous ceux qui recherchent une visibilité optimale sur le Web.",
+            "tips": "En octobre 2016, pour la toute première fois et à l'échelle mondiale, la consultation d'Internet via smartphones et tablettes a dépassé celle sur ordinateur (51,3% contre 48,7%), selon les chiffres de StatCounter.",
+            "clue": "Pour tous les formats !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E13A~Km8r": "Qu'il faut assurer la compatibilité de son site avec tous les objets connectés, et notamment les smartphones",
+            "choice_4ka0~tXLr": "Qu'il est indispensable de développer une application pour faciliter l'acte d'achat",
+            "choice_4yx6CbYXLr": "Qu'il ne faut pas hésiter à contacter ses clients et prospects par téléphone"
+        },
+        "en": {
+            "header": "In social commerce, it is imperative to be mobile first. What does it mean?",
+            "explanation": "Select the correct answer.",
+            "klf": "In social commerce, it is imperative to be mobile first. This rule of compatibility of a website with all connected objects is also valid for all those seeking an optimal visibility on the Web.",
+            "tips": "In October 2016, for the first time ever and globally, Internet access via smartphones and tablets surpassed that on computers (51.3% vs. 48.7%), according to StatCounter figures.",
+            "clue": "For all formats!",
+            "choice_E13A~Km8r": "That we must ensure the compatibility of its site with all connected objects, including smartphones",
+            "choice_4ka0~tXLr": "That it is essential to develop an application to facilitate the act of purchase",
+            "choice_4yx6CbYXLr": "Do not hesitate to contact your customers and prospects by phone",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "„Mobile first“ ist im Social Commerce unerlässlich. Was heißt das?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "„Mobile first“ ist im Social Commerce unerlässlich. Die goldene Regel, dass Ihre Website mit allen angeschlossenen Geräten kompatibel ist, gilt auch für diejenigen, die ihre Online-Sichtbarkeit maximieren möchten.",
+            "tips": "Im Oktober 2016 haben zum ersten Mal mehr Menschen mit Smartphones und Tablets auf das Internet zugegriffen als mit ihrem PC (51,3% gegenüber 48,7%), so die Angaben von StatCounter.",
+            "clue": "Format freundlich!",
+            "choice_E13A~Km8r": "Stellen Sie sicher, dass Ihre Website mit allen verbundenen Geräten, insbesondere Smartphones, kompatibel ist",
+            "choice_4ka0~tXLr": "Sie müssen eine App entwickeln, um den Kauf abzuschließen",
+            "choice_4yx6CbYXLr": "Dass Sie Ihre Kunden und Interessenten telefonisch kontaktieren sollten",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "Being “mobile first” is essential in social commerce. What does it mean?",
+            "klf": "Being “mobile first” is essential in social commerce. The golden rule of ensuring that your website is compatible with all connected devices also applies to those keen to maximise their online visibility.",
+            "tips": "In October 2016, for the first time ever, more people accessed the Internet using their smartphones and tablets than their PC (51.3% versus 48.7%), according to data from StatCounter.",
+            "clue": "Format friendly!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E13A~Km8r": "Ensuring that your website is compatible with all connected devices, notably smartphones",
+            "choice_4ka0~tXLr": "That you need to develop an app to make it easier to complete a purchase",
+            "choice_4yx6CbYXLr": "That you should contact your customers and prospects by telephone"
+        },
+        "zh": {
+            "header": "“移动优先”在社交商务中至关重要。这是什么意思？",
+            "explanation": "选择正确的答案。",
+            "klf": "“移动优先”在社交商务中至关重要。确保您的网站与所有连接设备兼容的黄金法则也适用于那些热衷于最大化其在线可见性的人。",
+            "tips": "根据StatCounter的数据，2016年10月，有史以来第一次使用智能手机和平板电脑上网的人数超过PC（51.3％对48.7％）。",
+            "clue": "格式友好！",
+            "choice_E13A~Km8r": "确保您的网站与所有连接的设备兼容，尤其是智能手机",
+            "choice_4ka0~tXLr": "您需要开发一个应用程序，以便更轻松地完成购买",
+            "choice_4yx6CbYXLr": "您应该通过电话联系您的客户和潜在客户",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

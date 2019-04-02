@@ -1,0 +1,75 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T15:29:42.940Z",
+            "updatedAt": "2018-08-13T16:19:16.467Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "ValentineMichaud",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJpZ~prsN",
+        "universalRef": "sli_NJpZ~prsN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_NJpZ~prsN.id",
+                "min": 1920,
+                "max": 2000,
+                "step": 1,
+                "defaultValue": 1920,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "À quelle période Tony Buzan a-t-il développé le mind mapping ? Dans les années...",
+            "explanation": "Déplacez le curseur.",
+            "klf": "Le psychologue anglais Tony Buzan a développé le mind mapping dans les années 1970.",
+            "tips": "Selon les études réalisées par l’université de Londres, les personnes qui imaginent et visualisent en couleurs et en images sont plus performantes en apprentissage et en mémorisation. C’est pour cette raison que Tony Buzan insiste sur l'importance d'utiliser des couleurs et des images pour représenter les idées. Cette technique était également utilisée par de grands génies comme Léonard De Vinci, Darwin et Beethoven.",
+            "clue": "C’était aussi l’époque où on dansait le disco…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "1970",
+            "answerMin": 1965,
+            "answerMax": 1975
+        },
+        "en": {
+            "explanation": "Move the cursor.",
+            "header": "When did Tony Buzan develop mind mapping? In the…",
+            "klf": "British psychologist Tony Buzan developed the concept of mind mapping in the 1970s.",
+            "tips": "According to research conducted by the University of London, people who visualise things using colours and pictures learn and memorise them better. This is why Buzan emphasises the importance of using colours and images to represent ideas. This technique was also used by geniuses such as Leonardo di Vinci, Darwin and Beethoven.",
+            "clue": "It was the disco era.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "1970",
+            "answerMin": 1970,
+            "answerMax": 1979
+        }
+    }
+}

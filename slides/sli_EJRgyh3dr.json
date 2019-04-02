@@ -1,0 +1,99 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-20T15:42:49.990Z",
+            "updatedAt": "2018-09-21T14:26:03.839Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJpAQUiuB"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic",
+            "coreBranch": "test-thibault"
+        },
+        "ref": "sli_EJRgyh3dr",
+        "universalRef": "sli_EJRgyh3dr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJRgyh3dr.choice_41Mfyhn-B.id",
+                        "label": "choice_41Mfyhn-B",
+                        "value": "choice_41Mfyhn-B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41Mfyhn-B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pas de vidéo",
+            "explanation": "Sélectionnez la ou les bonnes réponses.",
+            "klf": "KLF",
+            "tips": "DYK",
+            "choice_41Mfyhn-B": "Réponse",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "en": {
+            "header": "No video",
+            "explanation": "Select the correct answer (s).",
+            "klf": "KLF",
+            "tips": "DYK",
+            "choice_41Mfyhn-B": "Answer",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ru": {
+            "explanation": "Выберите правильный ответ (ы).",
+            "header": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41Mfyhn-B": ""
+        },
+        "rn": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41Mfyhn-B": ""
+        },
+        "es": {
+            "header": "No hay video",
+            "explanation": "Seleccione la (s) respuesta (s) correcta (s).",
+            "klf": "KLF",
+            "tips": "DYK",
+            "choice_41Mfyhn-B": "Responder"
+        }
+    }
+}

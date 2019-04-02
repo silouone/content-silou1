@@ -1,0 +1,95 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:16:01.235Z",
+            "updatedAt": "2018-06-21T08:02:26.159Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EyXip4ZnV",
+        "universalRef": "sli_EyXip4ZnV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyXip4ZnV.choice_41np6VWhV.id",
+                        "label": "choice_41np6VWhV",
+                        "value": "choice_41np6VWhV"
+                    },
+                    {
+                        "id": "sli_EyXip4ZnV.choice_VJBGkB~hE.id",
+                        "label": "choice_VJBGkB~hE",
+                        "value": "choice_VJBGkB~hE"
+                    },
+                    {
+                        "id": "sli_EyXip4ZnV.choice_Ey~71BWh4.id",
+                        "label": "choice_Ey~71BWh4",
+                        "value": "choice_Ey~71BWh4"
+                    },
+                    {
+                        "id": "sli_EyXip4ZnV.choice_VyK1v6c2V.id",
+                        "label": "choice_VyK1v6c2V",
+                        "value": "choice_VyK1v6c2V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41np6VWhV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Par quel biais peut-on accéder à la méditation de pleine conscience ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le présent se vit à travers une expérience sensorielle, à la fois via nos perceptions externes et nos perceptions internes. Il ne peut ni s’imaginer à l’avance, ni s’expliquer : il se ressent.",
+            "tips": "Utiliser la main opposée à notre main habituellement sollicitée est un exercice efficace pour reprendre contact avec l'instant présent, en pleine conscience. Il permet ainsi de redécouvrir la sensation d'un geste quotidien et le plaisir du mouvement.",
+            "clue": "Touch & feel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41np6VWhV": "Un ressenti sensoriel ",
+            "choice_4Jh~yrZ3V": "Une pensée au présent",
+            "choice_VJBGkB~hE": "L’analyse poussée de son ressenti",
+            "choice_41tfkB~34": "Savourer ce qui est bon",
+            "choice_Ey~71BWh4": "La recherche du plaisir",
+            "choice_VyK1v6c2V": "Une réflexion poussée sur le sens de notre vie"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Which of the following concepts can lead to mindful meditation?",
+            "klf": "You can live in the present moment by engaging with all your senses and connecting with both your internal feelings and external perceptions. This is not something you can prepare for in advance or really explain, but you will definitely feel the effects.",
+            "tips": "Using the opposite hand to the one you usually use is an effective mindfulness exercise that will help you focus on the present moment. It helps you re-engage with the feeling of an ordinary activity and find pleasure in movement.",
+            "clue": "Touch & feel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41np6VWhV": "Being in touch with all your senses ",
+            "choice_4Jh~yrZ3V": "Une pensée au présent",
+            "choice_VJBGkB~hE": "A thorough analysis of how you feel",
+            "choice_41tfkB~34": "Savourer ce qui est bon",
+            "choice_Ey~71BWh4": "A search for pleasure",
+            "choice_VyK1v6c2V": "Contemplation on the meaning of life"
+        }
+    }
+}

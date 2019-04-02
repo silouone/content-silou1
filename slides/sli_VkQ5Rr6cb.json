@@ -1,0 +1,131 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-08-29T16:18:32.124Z",
+            "updatedAt": "2017-12-01T11:27:07.830Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VkQ5Rr6cb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkQ5Rr6cb.choice_4kZ3Craq~.id",
+                        "label": "choice_4kZ3Craq~",
+                        "value": "choice_4kZ3Craq~"
+                    },
+                    {
+                        "id": "sli_VkQ5Rr6cb.choice_4kBaRH6qW.id",
+                        "label": "choice_4kBaRH6qW",
+                        "value": "choice_4kBaRH6qW"
+                    },
+                    {
+                        "id": "sli_VkQ5Rr6cb.choice_EJgBaASa5Z.id",
+                        "label": "choice_EJgBaASa5Z",
+                        "value": "choice_EJgBaASa5Z"
+                    },
+                    {
+                        "id": "sli_VkQ5Rr6cb.choice_4JIa0HTcZ.id",
+                        "label": "choice_4JIa0HTcZ",
+                        "value": "choice_4JIa0HTcZ"
+                    },
+                    {
+                        "id": "sli_VkQ5Rr6cb.choice_E1vp0Ha5Z.id",
+                        "label": "choice_E1vp0Ha5Z",
+                        "value": "choice_E1vp0Ha5Z"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kZ3Craq~",
+                        "choice_4kBaRH6qW",
+                        "choice_E1vp0Ha5Z"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VkQ5Rr6cb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les lieux propices aux rencontres professionnelles ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous pouvez élargir votre réseau à de nombreuses occasions, par exemple lors d'afterwork ou de conférences. Ce peut aussi être dans des espaces de coworking.",
+            "tips": "En 2013, on comptait 120 espaces de coworking dans toute la France (source : <i>Challenge</i>, 2013).",
+            "choice_4kZ3Craq~": "Les afterworks",
+            "choice_4kBaRH6qW": "Les espaces de coworking",
+            "choice_EJgBaASa5Z": "Le couchsurfing",
+            "choice_4JIa0HTcZ": "Le wwoofing",
+            "choice_E1vp0Ha5Z": "Les conférences",
+            "clue": "On a dit, professionnelles…"
+        },
+        "en": {
+            "header": "What are the places for professional meetings?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can expand your network on many occasions, for example afterwork or conferences. It can also be in coworking spaces.",
+            "tips": "In 2013, there were 120 coworking spaces throughout France (source: <i>Challenge</i> , 2013).",
+            "clue": "We said, professional ...",
+            "choice_4kZ3Craq~": "Les afterworks",
+            "choice_4kBaRH6qW": "Coworking spaces",
+            "choice_EJgBaASa5Z": "The couchsurfing",
+            "choice_4JIa0HTcZ": "The wwoofing",
+            "choice_E1vp0Ha5Z": "Conferences"
+        },
+        "de": {
+            "header": "Was sind die effektivsten Orte für professionelle Meetings?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Es gibt viele Möglichkeiten, Ihr Netzwerk zu erweitern, zum Beispiel nach der Arbeit oder auf Konferenzen. Es kann sich auch in Arbeitsräumen befinden.",
+            "tips": "Im Jahr 2013 gab es in ganz Frankreich 120 Arbeitsplätze. (Quelle: Herausforderung 2013)",
+            "clue": "Wir sagten, professionell…",
+            "choice_4kZ3Craq~": "Nach der Arbeit",
+            "choice_4kBaRH6qW": "Mitarbeitsplätze",
+            "choice_EJgBaASa5Z": "Beim Couchsurfen",
+            "choice_4JIa0HTcZ": "Beim Schweben",
+            "choice_E1vp0Ha5Z": "Bei Konferenzen"
+        },
+        "es": {
+            "header": "What are the most effective places for professional meetings?",
+            "explanation": "Select the correct answers below.",
+            "klf": "There are plenty of opportunities to expand your network, for example after work or at conferences. It may also be in co-working spaces.",
+            "tips": "In 2013, there were 120 co-working spaces throughout France. (Source: Challenge, 2013)",
+            "choice_4kZ3Craq~": "After work",
+            "choice_4kBaRH6qW": "Co-working spaces",
+            "choice_EJgBaASa5Z": "While couchsurfing",
+            "choice_4JIa0HTcZ": "When wwoofing",
+            "choice_E1vp0Ha5Z": "At conferences",
+            "clue": "We said, professional…"
+        },
+        "zh": {
+            "header": "什么是最有效的专业会议场所？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "有很多机会可以扩展您的网络，例如在工作或会议之后。它也可能在共同工作的空间。",
+            "tips": "2013年，法国共有120个共同工作空间。 （资料来源：Challenge，2013）",
+            "clue": "我们说，专业......",
+            "choice_4kZ3Craq~": "下班以后",
+            "choice_4kBaRH6qW": "共同工作空间",
+            "choice_EJgBaASa5Z": "沙发冲浪",
+            "choice_4JIa0HTcZ": "当wwoofing",
+            "choice_E1vp0Ha5Z": "在会议上"
+        }
+    }
+}

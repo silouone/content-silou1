@@ -1,0 +1,92 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:33:20.027Z",
+            "updatedAt": "2016-03-31T08:27:54.595Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "Hortensel",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_Eyg3eTmnl",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "basic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_Eyg3eTmnl.id",
+                "label": "label",
+                "placeholder": "placeholder",
+                "answers": [
+                    "choice_4kn7W6Xhe"
+                ]
+            }
+        },
+        "universalRef": "sli_Eyg3eTmnl"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment ont été la majorité des leaders féminins dans l'histoire, selon la militante Charlotte Bunch ?",
+            "explanation": "Saisissez votre réponse (un adjectif).",
+            "klf": "Les femmes leaders ont bien existé dans l'histoire. Seulement, selon la militante Charlotte Bunch, la plupart ont été invisibles. \"Les femmes n'ont souvent pas eu le pouvoir et la reconnaissance formelle\" qui allaient avec leur leadership, écrit-elle.",
+            "tips": "Selon elle, la notion a été pendant longtemps rejetée par des femmes qui se battaient pour l'égalité, car considérée comme trop \"antiféministes\".",
+            "label": " ",
+            "placeholder": " ",
+            "clue": "Même pas besoin de la cape d'Harry Potter...",
+            "choice_4kn7W6Xhe": "Invisibles"
+        },
+        "en": {
+            "header": "How have the majority of women leaders been in history, according to activist Charlotte Bunch?",
+            "explanation": "Enter your answer (an adjective).",
+            "klf": "Women leaders have existed in history. But, according to activist Charlotte Bunch, most have been invisible. \"Women often did not have the power and formal recognition\" that went with their leadership, she wrote.",
+            "tips": "According to her, the notion was for a long time rejected by women who fought for equality because considered too \"anti-feminist\".",
+            "clue": "You do not even need Harry Potter's cape ...",
+            "choice_4kn7W6Xhe": "Invisible",
+            "label": " ",
+            "placeholder": " "
+        },
+        "de": {
+            "header": "Wie war die Mehrheit der weiblichen Führungskräfte in der Geschichte, so die Aktivistin Charlotte Bunch?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Frauenführer haben in der Geschichte existiert. Laut Aktivistin Charlotte Bunch waren die meisten jedoch unsichtbar. \"Frauen hatten oft nicht die Macht und die formelle Anerkennung\", schrieb sie.",
+            "tips": "Ihrer Meinung nach wurde der Begriff von Frauen, die für Gleichberechtigung kämpften, lange Zeit abgelehnt, weil sie als \"anti-feministisch\" galt.",
+            "clue": "Sie brauchen nicht einmal Harry Potters Umhang ...",
+            "choice_4kn7W6Xhe": "Unsichtbar",
+            "label": " ",
+            "placeholder": " "
+        },
+        "es": {
+            "header": "Comment ont été la majorité des leaders féminins dans l'histoire, selon la militante Charlotte Bunch ?",
+            "explanation": "Type your answer.",
+            "klf": "Les femmes leaders ont bien existé dans l'histoire. Seulement, selon la militante Charlotte Bunch, la plupart ont été invisibles. \"Les femmes n'ont souvent pas eu le pouvoir et la reconnaissance formelle\" qui allaient avec leur leadership, écrit-elle.",
+            "tips": "Selon elle, la notion a été pendant longtemps rejetée par des femmes qui se battaient pour l'égalité, car considérée comme trop \"antiféministes\".",
+            "label": " ",
+            "placeholder": " ",
+            "choice_4kn7W6Xhe": "Invisibles",
+            "clue": "Même pas besoin de la cape d'Harry Potter..."
+        },
+        "zh": {
+            "header": "根据活动家夏洛特束的说法，大多数女性领导人是如何进入历史的？",
+            "explanation": "输入你的答案。",
+            "klf": "女性领导人在历史上存在。但是，根据活动家夏洛特束的说法，大多数都是看不见的。她写道，“妇女往往没有权力和正式承认”。",
+            "tips": "据她说，这个概念长期以来被那些为平等而斗争的女性所拒绝，因为她们被认为太“反女权主义”。",
+            "clue": "你甚至不需要哈利波特的斗篷......",
+            "choice_4kn7W6Xhe": "隐身",
+            "label": " ",
+            "placeholder": " "
+        }
+    }
+}

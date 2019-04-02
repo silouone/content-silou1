@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-19T08:35:11.108Z",
+            "updatedAt": "2018-04-26T14:45:01.768Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Gzp-VcN"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJpVQS~h4",
+        "universalRef": "sli_EJpVQS~h4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJpVQS~h4.choice_E13omS~h4.id",
+                        "label": "choice_E13omS~h4",
+                        "value": "choice_E13omS~h4"
+                    },
+                    {
+                        "id": "sli_EJpVQS~h4.choice_NyVhmHb24.id",
+                        "label": "choice_NyVhmHb24",
+                        "value": "choice_NyVhmHb24"
+                    },
+                    {
+                        "id": "sli_EJpVQS~h4.choice_4J33mBZ3V.id",
+                        "label": "choice_4J33mBZ3V",
+                        "value": "choice_4J33mBZ3V"
+                    },
+                    {
+                        "id": "sli_EJpVQS~h4.choice_VJSpQHW3E.id",
+                        "label": "choice_VJSpQHW3E",
+                        "value": "choice_VJSpQHW3E"
+                    },
+                    {
+                        "id": "sli_EJpVQS~h4.choice_N1067S~2E.id",
+                        "label": "choice_N1067S~2E",
+                        "value": "choice_N1067S~2E"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E13omS~h4",
+                        "choice_NyVhmHb24",
+                        "choice_4J33mBZ3V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les moments qui peuvent être propices à l’entraînement à la pleine conscience ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le principe de l’exercice est de revenir à la perception de soi, des sensations dont celle de l’équilibre, à cet instant, sans analyse ni jugement.",
+            "tips": "Un des repères clé de la présence attentive est la sensation d’allègement : moindres tensions physiques et émotionnelles, moins de ruminations mentales.",
+            "clue": "Simplicité",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E13omS~h4": "Juste avant de lire ses mails ",
+            "choice_NyVhmHb24": "En lisant un document ",
+            "choice_4J33mBZ3V": "En écoutant un collègue ",
+            "choice_VJSpQHW3E": "En menant une réunion houleuse",
+            "choice_N1067S~2E": "Lors d’une altercation avec un collègue"
+        },
+        "en": {
+            "explanation": "Select the correct answers below.",
+            "header": "Saurez-vous identifier les moments qui peuvent être propices à l’entraînement à la pleine conscience ?",
+            "klf": "Le principe de l’exercice est de revenir à la perception de soi, des sensations dont celle de l’équilibre, à cet instant, sans analyse ni jugement.",
+            "tips": "Un des repères clé de la présence attentive est la sensation d’allègement : moindres tensions physiques et émotionnelles, moins de ruminations mentales.",
+            "clue": "Simplicité",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E13omS~h4": "Juste avant de lire ses mails ",
+            "choice_NyVhmHb24": "En lisant un document ",
+            "choice_4J33mBZ3V": "En écoutant un collègue ",
+            "choice_VJSpQHW3E": "En menant une réunion houleuse",
+            "choice_N1067S~2E": "Lors d’une altercation avec un collègue"
+        }
+    }
+}

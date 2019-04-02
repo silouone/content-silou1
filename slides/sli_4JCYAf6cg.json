@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-17T08:33:06.166Z",
+            "updatedAt": "2016-08-22T13:43:13.055Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nk~AAiz9e"
+            ],
+            "status": "draft",
+            "modifiedBy": "amandinelemoult21",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4JCYAf6cg",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel62394",
+                        "label": "label_VJeIJ7a9x",
+                        "items": [
+                            {
+                                "text": "choice_41xgLJ7Tcg",
+                                "value": "choice_41xgLJ7Tcg"
+                            },
+                            {
+                                "text": "choice_VyZxUkmaql",
+                                "value": "choice_VyZxUkmaql"
+                            },
+                            {
+                                "text": "choice_4JQIJ7pqx",
+                                "value": "choice_4JQIJ7pqx"
+                            },
+                            {
+                                "text": "choice_NkxQUyQTcx",
+                                "value": "choice_NkxQUyQTcx"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel62394",
+                        "answers": [
+                            "choice_4JQIJ7pqx"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4JCYAf6cg"
+    },
+    "locales": {
+        "fr": {
+            "header": "Les Françaises de plus de 39 ans qui n'ont jamais arrêté leur carrière pour des raisons familiales gagnent plus que celles qui ont interrompu sa carrière. Pour une différence de quel ordre?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une étude de 2010 a révélé que les Françaises de plus de 39 ans n'ayant jamais cessé de travailler pour des raisons familiales gagnaient en moyenne 23% de plus que celles qui l'avaient arrêtée.",
+            "tips": "C'est ce qu'on appelle \"l'écart de salaire familial\", c'est-à-dire les différences de salaire dues aux caractéristiques familiales.",
+            "clue": "Pas loin du quartier.",
+            "template": "{{sel62394}}",
+            "label_VJeIJ7a9x": " ",
+            "choice_41xgLJ7Tcg": "5%",
+            "choice_VyZxUkmaql": "dix%",
+            "choice_4JQIJ7pqx": "23%",
+            "choice_NkxQUyQTcx": "39%"
+        },
+        "en": {
+            "header": "French women over 39 who have never stopped their careers for family reasons earn more than those who interrupted her career. For a difference of what order?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "A 2010 study found that French women over 39 who had never stopped working for family reasons earned on average 23% more than those who stopped her.",
+            "tips": "This is called the \"family pay gap\", that is to say the wage differences due to family characteristics.",
+            "clue": "Not far from the quarter.",
+            "template": "{{sel62394}}",
+            "label_VJeIJ7a9x": " ",
+            "choice_41xgLJ7Tcg": "5%",
+            "choice_VyZxUkmaql": "10%",
+            "choice_4JQIJ7pqx": "23%",
+            "choice_NkxQUyQTcx": "39%"
+        },
+        "de": {
+            "header": "Französische Frauen über 39, die ihre Karriere nie aus familiären Gründen abgebrochen haben, verdienen mehr als diejenigen, die ihre Karriere unterbrochen haben. Für einen Unterschied in welcher Reihenfolge?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "Eine Studie aus dem Jahr 2010 ergab, dass französische Frauen über 39, die nie aus familiären Gründen aufgehört hatten zu arbeiten, im Durchschnitt 23% mehr verdienen als Frauen, die sie eingestellt hatten.",
+            "tips": "Dies wird als \"Familiengefälle\" bezeichnet, das heißt die Lohnunterschiede aufgrund familiärer Merkmale.",
+            "clue": "Nicht weit vom Viertel entfernt.",
+            "template": "{{sel62394}}",
+            "label_VJeIJ7a9x": " ",
+            "choice_41xgLJ7Tcg": "5%",
+            "choice_VyZxUkmaql": "10%",
+            "choice_4JQIJ7pqx": "23%",
+            "choice_NkxQUyQTcx": "39%"
+        },
+        "es": {
+            "header": "French women over 39 who have never stopped their career for family reasons earn more than those whose careers were interrupted. What percentage does this difference represent?",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "A 2010 study revealed that French women over 39 who have never stopped working for family reasons earn on average 23% more than those whose careers were interrupted.",
+            "tips": "This is know as the \"family pay gap\".",
+            "template": "{{sel62394}}",
+            "label_VJeIJ7a9x": " ",
+            "choice_41xgLJ7Tcg": "5%",
+            "choice_VyZxUkmaql": "10%",
+            "choice_4JQIJ7pqx": "23%",
+            "choice_NkxQUyQTcx": "39%",
+            "clue": "Not far off a quarter"
+        },
+        "zh": {
+            "header": "39岁以上从未因家庭原因而停止职业生涯的法国女性比那些职业生涯中断的女性收入更高。这种差异代表什么百分比？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "2010年的一项研究显示，法国39岁以上从未因家庭原因而停止工作的女性比那些职业中断的女性平均多赚23％。",
+            "tips": "这被称为“家庭薪酬差距”。",
+            "clue": "离季度不远",
+            "template": "{{Sel62394}}",
+            "label_VJeIJ7a9x": " ",
+            "choice_41xgLJ7Tcg": "5％",
+            "choice_VyZxUkmaql": "10％",
+            "choice_4JQIJ7pqx": "23％",
+            "choice_NkxQUyQTcx": "39％"
+        }
+    }
+}

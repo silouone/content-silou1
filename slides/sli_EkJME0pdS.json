@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-21T12:34:08.521Z",
+            "updatedAt": "2018-09-28T07:15:00.085Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NykE9YqES"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkJME0pdS",
+        "universalRef": "sli_EkJME0pdS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkJME0pdS.choice_NJRVE0auH.id",
+                        "label": "choice_NJRVE0auH",
+                        "value": "choice_NJRVE0auH"
+                    },
+                    {
+                        "id": "sli_EkJME0pdS.choice_EkNS40adr.id",
+                        "label": "choice_EkNS40adr",
+                        "value": "choice_EkNS40adr"
+                    },
+                    {
+                        "id": "sli_EkJME0pdS.choice_V1irV0p-H.id",
+                        "label": "choice_V1irV0p-H",
+                        "value": "choice_V1irV0p-H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkNS40adr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que signifie l’acronyme « CRO » ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le CRO est une discipline à part entière du marketing digital. En effet, générer de l’audience pour l’audience ne sert pas à grand-chose. Si vous n’arrivez pas à convertir une partie de cette dernière en leads, vos investissements partiront en fumée.",
+            "tips": "Il est considéré que le taux de conversion d’un site Web classique se situe aux alentours de 2 %.",
+            "clue": "Le principal indicateur de performance à suivre ici est le taux de conversion visiteurs en leads.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJRVE0auH": "Customer Relationship Optimization ",
+            "choice_EkNS40adr": "Conversion Rate Optimization ",
+            "choice_V1irV0p-H": "Customer Reference Optimization"
+        },
+        "en": {
+            "header": "Que signifie l’acronyme « CRO » ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le CRO est une discipline à part entière du marketing digital. En effet, générer de l’audience pour l’audience ne sert pas à grand-chose. Si vous n’arrivez pas à convertir une partie de cette dernière en leads, vos investissements partiront en fumée.",
+            "tips": "Il est considéré que le taux de conversion d’un site Web classique se situe aux alentours de 2 %.",
+            "clue": "Le principal indicateur de performance à suivre ici est le taux de conversion visiteurs en leads.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJRVE0auH": "Customer Relationship Optimization ",
+            "choice_EkNS40adr": "Conversion Rate Optimization ",
+            "choice_V1irV0p-H": "Customer Reference Optimization"
+        }
+    }
+}

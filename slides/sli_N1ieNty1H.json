@@ -1,0 +1,88 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-24T10:52:57.408Z",
+            "updatedAt": "2018-06-22T16:13:43.901Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-24T10:52:57.408Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1ieNty1H",
+        "universalRef": "sli_N1ieNty1H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1ieNty1H.choice_41eIQVKkJr.id",
+                        "label": "choice_41eIQVKkJr",
+                        "value": "choice_41eIQVKkJr",
+                        "media": "med_41L74Ky1B"
+                    },
+                    {
+                        "id": "sli_N1ieNty1H.choice_N1lXVVY1kH.id",
+                        "label": "choice_N1lXVVY1kH",
+                        "value": "choice_N1lXVVY1kH",
+                        "media": "med_VJm4VYJkS"
+                    },
+                    {
+                        "id": "sli_N1ieNty1H.choice_41x04EFJkS.id",
+                        "label": "choice_41x04EFJkS",
+                        "value": "choice_41x04EFJkS",
+                        "media": "med_E1CEEF11B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41eIQVKkJr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier la carte qui respecte les limites de la mémoire à court terme ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour éviter que votre présentation devienne indigeste, il convient de ne pas surcharger votre mind map d’information. Notre mémoire à court terme étant limitée entre 5 et 9 éléments, il est conseillé de ne pas utiliser plus de 9 branches principales pour garder votre présentation claire et fluide.",
+            "tips": "Certains psychologues distinguent la mémoire de travail de la mémoire à court terme. Tandis que la mémoire à court terme permet une rétention temporaire de l'information, la mémoire de travail permet en plus de manipuler l'information maintenue. La capacité de la mémoire de travail est encore plus limitée : seulement 3 à 4 éléments.",
+            "clue": "5 à 9",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eIQVKkJr": "Carte avec 6 branches",
+            "choice_N1lXVVY1kH": "Carte avec 12 branches",
+            "choice_41x04EFJkS": "Carte avec 10 branches"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "Which map accurately reflects the amount of information we can store in our short-term memory?",
+            "klf": "To stop your presentation from becoming indigestibly information-rich, make sure you don’t overload your mind map. Our short-term memory can only hold five to nine items, so it’s recommended that you have no more than nine main branches to keep your presentation clear and fluid.",
+            "tips": "Some psychologists claim that we have a separate type of information storage known as “working memory”. This is thought to help us make use of our short term memories. Our working memories are even more restricted, holding only three to four elements.",
+            "clue": "Five to nine",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eIQVKkJr": "Map with six branches",
+            "choice_N1lXVVY1kH": "Map with 12 branches",
+            "choice_41x04EFJkS": "Map with 10 branches"
+        }
+    }
+}

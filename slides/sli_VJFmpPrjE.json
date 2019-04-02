@@ -1,0 +1,94 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T09:07:39.238Z",
+            "updatedAt": "2018-06-22T08:17:48.965Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkzkCOVcE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T09:07:39.238Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJFmpPrjE",
+        "universalRef": "sli_VJFmpPrjE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJFmpPrjE.choice_4JYh7b5eB.id",
+                        "label": "choice_4JYh7b5eB",
+                        "value": "choice_4JYh7b5eB"
+                    },
+                    {
+                        "id": "sli_VJFmpPrjE.choice_4yy6m~9er.id",
+                        "label": "choice_4yy6m~9er",
+                        "value": "choice_4yy6m~9er"
+                    },
+                    {
+                        "id": "sli_VJFmpPrjE.choice_NkoTX~5xr.id",
+                        "label": "choice_NkoTX~5xr",
+                        "value": "choice_NkoTX~5xr"
+                    },
+                    {
+                        "id": "sli_VJFmpPrjE.choice_4JYCXZ9eB.id",
+                        "label": "choice_4JYCXZ9eB",
+                        "value": "choice_4JYCXZ9eB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yy6m~9er",
+                        "choice_NkoTX~5xr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Face à quel(s) type(s) de concurrence la créativité constitue-t-elle un avantage compétitif essentiel ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Face à la concurrence des robots, de l'intelligence artificielle ou des pays à faible coût de main-d'œuvre, notre capacité à trouver des solutions originales et innovantes constitue un atout indéniable et un avantage compétitif essentiel.",
+            "tips": "L'intelligence artificielle entre en concurrence directe avec l'hémisphère gauche de notre cerveau, rationnel et analytique. En seulement trois jours, l'intelligence artificielle de Google a réussi à apprendre le jeu de Go et a battu à plate couture la machine qui avait elle-même battu le champion de Go !",
+            "clue": "Westworld.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JYh7b5eB": "Les GAFAM",
+            "choice_4yy6m~9er": "L'intelligence artificielle et les robots",
+            "choice_NkoTX~5xr": "Les pays à faible coût de main-d'œuvre",
+            "choice_4JYCXZ9eB": "Les start-up"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "Creativity offers an essential competitive advantage when you are faced with what kind(s) of competition?",
+            "klf": "When you’re competing with machines, artificial intelligence or countries where labour costs are low, your ability to hit on original, innovative solutions is an undeniable asset, offering you an essential competitive advantage.",
+            "tips": "AI competes with the rational, analytical left hemisphere of your brain. It took just three days for Google’s AI tool to learn how to play Go and it even roundly trounced the machine that beat the human Go champion.",
+            "clue": "Think Westworld.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JYh7b5eB": "GAFAM",
+            "choice_4yy6m~9er": "Artificial intelligence and machines",
+            "choice_NkoTX~5xr": "Countries where labour costs are low ",
+            "choice_4JYCXZ9eB": "Start-ups"
+        }
+    }
+}

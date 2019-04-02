@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-24T11:02:15.846Z",
+            "updatedAt": "2018-06-22T16:17:33.009Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-24T11:02:15.846Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1yt9tykS",
+        "universalRef": "sli_N1yt9tykS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1yt9tykS.choice_EkYs9t11S.id",
+                        "label": "choice_EkYs9t11S",
+                        "value": "choice_EkYs9t11S"
+                    },
+                    {
+                        "id": "sli_N1yt9tykS.choice_VkkhqKyyS.id",
+                        "label": "choice_VkkhqKyyS",
+                        "value": "choice_VkkhqKyyS"
+                    },
+                    {
+                        "id": "sli_N1yt9tykS.choice_EkthcYyJH.id",
+                        "label": "choice_EkthcYyJH",
+                        "value": "choice_EkthcYyJH"
+                    },
+                    {
+                        "id": "sli_N1yt9tykS.choice_V1gaqtykr.id",
+                        "label": "choice_V1gaqtykr",
+                        "value": "choice_V1gaqtykr"
+                    },
+                    {
+                        "id": "sli_N1yt9tykS.choice_VJUT9YkJH.id",
+                        "label": "choice_VJUT9YkJH",
+                        "value": "choice_VJUT9YkJH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkYs9t11S",
+                        "choice_VkkhqKyyS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles caractéristiques sont indispensables pour réussir une présentation en mode mind mapping ? ",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour réussir votre présentation en mode mind mapping, il est essentiel d’y appliquer le principe de clarté et de concision. Une présentation claire et concise ne comportant que les informations nécessaires a plus de chances de convaincre et de vous aider à vendre vos idées avec succès.",
+            "tips": "Il existe plusieurs logiciels gratuits en ligne qui permettent de créer des mind maps collaboratives, comme Coggle ou MindMup. Créer des mind maps de façon collaborative est un bon moyen pour préparer une séance de brainstorming ou résumer l’état actuel d’un problème.",
+            "clue": "\"La brièveté est sœur du talent\" (Anton Tchekhov).",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkYs9t11S": "Clarté ",
+            "choice_VkkhqKyyS": "Concision ",
+            "choice_41ShcFJ1H": "Sobriété",
+            "choice_EkthcYyJH": "Profondeur",
+            "choice_V1gaqtykr": "Au moins quatre couleurs",
+            "choice_VJUT9YkJH": "Longue durée"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "What are the key characteristics of a good mind map presentation? ",
+            "klf": "Clarity and concision are essential parts of a good mind map presentation. A clear, concise presentation that contains nothing but key information is more likely to convince your audience and help you successfully sell your ideas.",
+            "tips": "There are various examples of free online software that let you collaborate on mind maps, such as Coggle and MindMup. Creating mind maps collaboratively is a great way to prepare for a brainstorming session or get a handle on where you are at with a problem.",
+            "clue": "Brevity is the sister of talent. (Anton Chekov).",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkYs9t11S": "Clarity ",
+            "choice_VkkhqKyyS": "Concision ",
+            "choice_41ShcFJ1H": "Sobriété",
+            "choice_EkthcYyJH": "Depth",
+            "choice_V1gaqtykr": "At least four colours",
+            "choice_VJUT9YkJH": "A long duration"
+        }
+    }
+}

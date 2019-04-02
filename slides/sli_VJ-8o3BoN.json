@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T14:54:04.429Z",
+            "updatedAt": "2018-06-22T09:13:58.414Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-06-10T14:54:04.429Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJ-8o3BoN",
+        "universalRef": "sli_VJ-8o3BoN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJ-8o3BoN.choice_Nyx4s7HLAV.id",
+                        "label": "choice_Nyx4s7HLAV",
+                        "value": "choice_Nyx4s7HLAV",
+                        "media": "med_NyViQB8A4"
+                    },
+                    {
+                        "id": "sli_VJ-8o3BoN.choice_VJebh7HLRE.id",
+                        "label": "choice_VJebh7HLRE",
+                        "value": "choice_VJebh7HLRE",
+                        "media": "med_V1bnQB8RN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJebh7HLRE"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_VJ4WyaBsE",
+            "poster": null
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Une carte mentale avec une telle branche sera efficace. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans une carte mentale, on ne raisonne pas par longues phrases. Selon le psychologue anglais Tony Buzan, concepteur du mind mapping, vous devez utiliser un mot-clé par branche. Pour la branche principale, vous pouvez donc écrire \"définir les objectifs\" et pour les sous-branches \"nouveaux clients\", \"image de la marque\", \"chiffre d'affaires\".",
+            "tips": "Pour organiser le projet, vous pouvez également créer une carte mentale QQOQCCPP (Qui, Quoi, Où, Quand, Comment, Combien, Pourquoi, Pour quoi) pour faire le tour du sujet et ne rien oublier.",
+            "clue": "Simplifiez-vous la vie.",
+            "context_title": "Réaliser une carte mentale efficace",
+            "context_description": "Vous réalisez une carte mentale de votre projet professionnel pour mieux l'organiser. Vous voulez appeler l'une des branches de votre carte \"Dans le cadre de ce projet, j'ai trois objectifs principaux : atteindre de nouveaux clients, améliorer l'image de la marque et augmenter le chiffre d'affaires de mon entreprise\".",
+            "context_media_description": "",
+            "choice_Nyx4s7HLAV": "Vrai",
+            "choice_VJebh7HLRE": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "A mind map with this as a branch will be effective. True or false?",
+            "klf": "In mind maps, you don’t think in long sentences. According to mind mapping’s originator, British psychologist Tony Buzan, you should use just one key word for each branch. It’s recommended that you break sentences down into key parts – for example “define objectives” for one branch, then “new customers”, “brand image” and “turnover” for your sub-branches.",
+            "tips": "To organise your project, you might also create a key question mind map focusing on phrases such as who, what, where, when, how, how much, why and to what end, as this will help you get a global view of your issue without neglecting any forgotten aspect.",
+            "clue": "Make life easy for yourself.",
+            "context_title": "Create an effective mind map",
+            "context_description": "You’re making a mind map to help you organise a project at work. You want to label one of the map’s branches like this: “This project has three main objectives: finding new customers, improving the brand’s image and increasing my company’s turnover”.",
+            "context_media_description": "",
+            "choice_Nyx4s7HLAV": "Vrai",
+            "choice_VJebh7HLRE": "Faux"
+        }
+    }
+}

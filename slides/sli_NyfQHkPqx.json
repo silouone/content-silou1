@@ -1,0 +1,111 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-12T15:14:46.938Z",
+            "updatedAt": "2016-09-05T14:37:13.673Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyM6Asf5l"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NyfQHkPqx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyfQHkPqx.choice_VJxo1I1wcl.id",
+                        "label": "choice_VJxo1I1wcl",
+                        "value": "choice_VJxo1I1wcl",
+                        "media": "med_V1syUkw9e"
+                    },
+                    {
+                        "id": "sli_NyfQHkPqx.choice_Nyxp1LkDce.id",
+                        "label": "choice_Nyxp1LkDce",
+                        "value": "choice_Nyxp1LkDce",
+                        "media": "med_4ypyU1Pqg"
+                    },
+                    {
+                        "id": "sli_NyfQHkPqx.choice_4yl0yLJPcx.id",
+                        "label": "choice_4yl0yLJPcx",
+                        "value": "choice_4yl0yLJPcx",
+                        "media": "med_41C18JD5e"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nyxp1LkDce"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_NyfQHkPqx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Lequel de ces éléments peut vous aider à travailler sur votre diction?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Plusieurs exercices existent pour travailler sur sa diction et donc moins balbutiant. Par exemple, placez un crayon horizontalement dans le bas de votre bouche, entre vos lèvres et lisez un texte. Chaque mot doit être compréhensible.",
+            "tips": "Vous pouvez également vous entraîner sur des phrases compliquées comme le fameux \"Les chaussettes de l'archiduchesse sont-elles sèches, archisech?\".",
+            "clue": "Au départ, cela n’a rien à voir avec le son.",
+            "choice_VJxo1I1wcl": "Métronome",
+            "choice_Nyxp1LkDce": "Stylo",
+            "choice_4yl0yLJPcx": "Téléphone intelligent"
+        },
+        "en": {
+            "header": "Which of these items can help you work on your diction?",
+            "explanation": "Select the correct answer.",
+            "klf": "Several exercises exist to work on his diction and therefore less stammering. For example, put a pencil horizontally in the bottom of your mouth, between your lips and read a text. Every word must be understandable.",
+            "tips": "You can also train on complicated sentences like the famous \"The socks of the archduchess are they dry, archisech?\".",
+            "clue": "Initially, it has nothing to do with sound.",
+            "choice_VJxo1I1wcl": "Metronome",
+            "choice_Nyxp1LkDce": "Pen",
+            "choice_4yl0yLJPcx": "Smartphone"
+        },
+        "de": {
+            "header": "Welches dieser Elemente kann Ihnen bei der Arbeit an Ihrer Diktion helfen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Es gibt mehrere Übungen, um an seiner Diktion zu arbeiten und daher weniger zu stottern. Setzen Sie beispielsweise einen Stift horizontal in den Mund, zwischen Ihre Lippen und lesen Sie einen Text. Jedes Wort muss verständlich sein.",
+            "tips": "Sie können auch komplizierte Sätze trainieren wie die berühmten \"Die Socken der Erzherzogin sind sie trocken, Archisech?\".",
+            "clue": "Anfangs hat es nichts mit Klang zu tun.",
+            "choice_VJxo1I1wcl": "Metronom",
+            "choice_Nyxp1LkDce": "Stift",
+            "choice_4yl0yLJPcx": "Smartphone"
+        },
+        "es": {
+            "header": "Which of these items can help you work on your diction?",
+            "explanation": "Select the correct answer.",
+            "klf": "Many exercises exist to improve your diction and therefore stammer less. For example, put a pencil horizontally in the bottom of your mouth, between your lips and read a text. Every word needs to be comprehensible.",
+            "tips": "You can also train using complicated phrases like the famous \"She sells seashells on the seashore\".",
+            "choice_VJxo1I1wcl": "Metronome",
+            "choice_Nyxp1LkDce": "Biro",
+            "choice_4yl0yLJPcx": "Smartphone",
+            "clue": "Initially, it has nothing to do with sound."
+        },
+        "zh": {
+            "header": "哪些项目可以帮助您处理您的用词？",
+            "explanation": "选择正确的答案。",
+            "klf": "存在许多练习来改善你的用语，因此结结巴巴较少。例如，将铅笔水平放在嘴唇的底部，嘴唇之间并阅读文字。每个词都需要易于理解。",
+            "tips": "您还可以使用复杂的短语进行训练，例如着名的“她在海边卖贝壳”。",
+            "clue": "最初，它与声音无关。",
+            "choice_VJxo1I1wcl": "节拍器",
+            "choice_Nyxp1LkDce": "主席团",
+            "choice_4yl0yLJPcx": "手机"
+        }
+    }
+}

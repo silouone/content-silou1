@@ -1,0 +1,103 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T15:07:58.852Z",
+            "updatedAt": "2018-10-08T15:08:22.425Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kU868HQS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkSV7UWBH",
+        "universalRef": "sli_EkSV7UWBH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkSV7UWBH.choice_4k8rXLWHS.id",
+                        "label": "choice_4k8rXLWHS",
+                        "value": "choice_4k8rXLWHS"
+                    },
+                    {
+                        "id": "sli_EkSV7UWBH.choice_VkgIQLbHS.id",
+                        "label": "choice_VkgIQLbHS",
+                        "value": "choice_VkgIQLbHS"
+                    },
+                    {
+                        "id": "sli_EkSV7UWBH.choice_EJqIXUWHH.id",
+                        "label": "choice_EJqIXUWHH",
+                        "value": "choice_EJqIXUWHH"
+                    },
+                    {
+                        "id": "sli_EkSV7UWBH.choice_Ek08mUbBH.id",
+                        "label": "choice_Ek08mUbBH",
+                        "value": "choice_Ek08mUbBH"
+                    },
+                    {
+                        "id": "sli_EkSV7UWBH.choice_NJNvmUbrS.id",
+                        "label": "choice_NJNvmUbrS",
+                        "value": "choice_NJNvmUbrS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJNvmUbrS",
+                        "choice_Ek08mUbBH",
+                        "choice_4k8rXLWHS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Avec quels services en ligne pouvez-vous travailler à plusieurs sur un même document en simultané ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Des outils comme Google Drive, OneDrive ou encore Microsoft Teams vous permettent de travailler à plusieurs, et en même temps, sur un même document (comme un document Word, Excel, Note). Cela vous permet de ne pas faire l'impasse sur les tâches d'équipe en télétravail !",
+            "tips": "Ne vous coupez pas de la vie informelle de votre organisation : prenez du temps pour des pauses collectives au bureau et limitez le nombre de jours d’absence.",
+            "clue": "Ne mélangeons pas simultané et collaboratif.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k8rXLWHS": "Google Drive",
+            "choice_VkgIQLbHS": "Thebrain",
+            "choice_VyL8QUZSr": "Trello",
+            "choice_EJqIXUWHH": "Padlet",
+            "choice_Ek08mUbBH": "OneDrive",
+            "choice_NJNvmUbrS": "Microsoft Teams"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "Which online services allow several people to work on the same document at the same time?",
+            "klf": "Tools such as Google Drive, OneDrive or even Microsoft Teams make it possible for several people to work on the same document at the same time (on Word, Excel or OneNote, for example). That means you can’t skip team-based tasks when you’re working from home!",
+            "tips": "Don’t cut yourself off from the informal part of work life: make sure you take breaks with colleagues and limit the number of days when you’re not in the office.",
+            "clue": "Don’t confuse simultaneous with collaborative.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k8rXLWHS": "Google Drive",
+            "choice_VkgIQLbHS": "Thebrain",
+            "choice_VyL8QUZSr": "Trello",
+            "choice_EJqIXUWHH": "Padlet",
+            "choice_Ek08mUbBH": "OneDrive",
+            "choice_NJNvmUbrS": "Microsoft Teams"
+        }
+    }
+}

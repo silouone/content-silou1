@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T09:04:56.533Z",
+            "updatedAt": "2018-10-08T15:33:28.513Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkcQpl~BH",
+        "universalRef": "sli_NkcQpl~BH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel56271",
+                        "items": [
+                            {
+                                "text": "choice_VkgnGRe~rS",
+                                "value": "choice_VkgnGRe~rS"
+                            },
+                            {
+                                "text": "choice_N1bhzRxZrr",
+                                "value": "choice_N1bhzRxZrr"
+                            },
+                            {
+                                "text": "choice_Nk4BRg~Hr",
+                                "value": "choice_Nk4BRg~Hr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel56271",
+                        "answers": [
+                            "choice_N1bhzRxZrr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle dynamique faut-il enclencher dès la fin de la réunion ?",
+            "explanation": "Sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "Les dernières minutes de la réunion sont déterminantes pour enclencher une dynamique d’action et de mise en œuvre des décisions prises à son issue.",
+            "tips": "La méthode NERAC permet de s’engager dans l’action de la façon suivante : 1) Noter les tâches à accomplir ; 2) Estimer le temps nécessaire ; 3) Réserver du temps ; 4) Arbitrer par priorités ; 5) Contrôler.",
+            "clue": "Ça tourne !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "À la fin de la réunion, il est nécessaire de définir les {{sel56271}} concrètes à entreprendre par chacun en fonction des décisions prises.",
+            "choice_VkgnGRe~rS": "propositions",
+            "choice_N1bhzRxZrr": "actions",
+            "choice_Nk4BRg~Hr": "circonlocutions"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu(s).",
+            "header": "What should you set in motion at the end of the meeting?",
+            "klf": "The last few minutes of a meeting are essential for deciding on any action points and implementing any decisions that have been taken during the meeting.",
+            "tips": "The NERAC approach helps you plan action points as follows: 1) Note down the tasks that need to be done; 2) Estimate the time required; 3) Reserve the time; 4) Assess according to priorities; 5) Check the action is progressing as planned.",
+            "clue": "Lights, camera…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "At the end of a meeting, you need to identify any concrete {{sel56271}} that need to be carried out by each attendee based on any decisions made.",
+            "choice_VkgnGRe~rS": "propositions ",
+            "choice_N1bhzRxZrr": "actions",
+            "choice_Nk4BRg~Hr": "circumlocutions"
+        }
+    }
+}

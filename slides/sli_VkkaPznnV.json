@@ -1,0 +1,191 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T13:43:49.632Z",
+            "updatedAt": "2018-08-10T09:21:13.757Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKwqQVj4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_VkkaPznnV",
+        "universalRef": "sli_VkkaPznnV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_VkkaPznnV.choice_4kX0DG33N.id",
+                        "label": "choice_4kX0DG33N",
+                        "value": "choice_4kX0DG33N"
+                    },
+                    {
+                        "id": "sli_VkkaPznnV.choice_NJlmAvMhh4.id",
+                        "label": "choice_NJlmAvMhh4",
+                        "value": "choice_NJlmAvMhh4"
+                    },
+                    {
+                        "id": "sli_VkkaPznnV.choice_NkV0vGn2V.id",
+                        "label": "choice_NkV0vGn2V",
+                        "value": "choice_NkV0vGn2V"
+                    },
+                    {
+                        "id": "sli_VkkaPznnV.choice_VJTCDf2nE.id",
+                        "label": "choice_VJTCDf2nE",
+                        "value": "choice_VJTCDf2nE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJTCDf2nE",
+                        "choice_4kX0DG33N",
+                        "choice_NJlmAvMhh4",
+                        "choice_NkV0vGn2V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Sort the four main levels of delegation by decreasing degree of responsibility.",
+            "explanation": "Put the following answers in order.",
+            "klf": "There are four main levels of delegation categorised by decreasing degree of responsibility: missions, functions, activities and tasks.",
+            "tips": "Delegation can be permanent or on an ad-hoc basis. The conditions for the delegation should be clear and relayed to your employees.",
+            "clue": "Tasks are the most basic level of delegation.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kX0DG33N": "Functions",
+            "choice_NJlmAvMhh4": "Activities",
+            "choice_NkV0vGn2V": "Tasks",
+            "choice_VJTCDf2nE": "Missions",
+            "choice_NybRvzn24": "Le temps"
+        },
+        "fr": {
+            "header": "Triez les quatre niveaux d'autorisation principaux en réduisant le niveau de responsabilité.",
+            "explanation": "Organisez les réponses suivantes dans l'ordre.",
+            "klf": "Les tâches sont divisées en quatre niveaux principaux en réduisant le niveau de responsabilité: tâches, fonctions, activités et tâches.",
+            "tips": "L'autorisation peut être permanente ou temporaire. Les conditions d'autorisation doivent être claires et communiquées à vos employés.",
+            "clue": "La tâche est le niveau d'autorisation le plus élémentaire.",
+            "choice_4kX0DG33N": "Fonction",
+            "choice_NJlmAvMhh4": "Activité",
+            "choice_NkV0vGn2V": "Tâche",
+            "choice_VJTCDf2nE": "Mission",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NybRvzn24": "Le temps"
+        },
+        "es": {
+            "header": "Clasifique los cuatro niveles principales de delegación disminuyendo el grado de responsabilidad.",
+            "explanation": "Pon las siguientes respuestas en orden.",
+            "klf": "Hay cuatro niveles principales de delegación categorizados por un grado decreciente de responsabilidad: misiones, funciones, actividades y tareas.",
+            "tips": "La delegación puede ser permanente o ad hoc. Las condiciones para la delegación deben ser claras y transmitirse a sus empleados.",
+            "clue": "Las tareas son el nivel más básico de delegación.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kX0DG33N": "Funciones",
+            "choice_NJlmAvMhh4": "Ocupaciones",
+            "choice_NkV0vGn2V": "Tareas",
+            "choice_VJTCDf2nE": "Misiones"
+        },
+        "it": {
+            "header": "Ordina i quattro livelli principali di delega diminuendo il grado di responsabilità.",
+            "explanation": "Metti le seguenti risposte in ordine.",
+            "klf": "Vi sono quattro livelli principali di delega classificati in base al grado decrescente di responsabilità: missioni, funzioni, attività e compiti.",
+            "tips": "La delega può essere permanente o su base ad hoc. Le condizioni per la delega dovrebbero essere chiare e trasmesse ai dipendenti.",
+            "clue": "I compiti sono il livello base di delega.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kX0DG33N": "funzioni",
+            "choice_NJlmAvMhh4": "attività",
+            "choice_NkV0vGn2V": "Compiti",
+            "choice_VJTCDf2nE": "missioni"
+        },
+        "de": {
+            "header": "Sort the four main levels of delegation by decreasing degree of responsibility.",
+            "explanation": "Put the following answers in order.",
+            "klf": "There are four main levels of delegation categorised by decreasing degree of responsibility: missions, functions, activities and tasks.",
+            "tips": "Delegation can be permanent or on an ad-hoc basis. The conditions for the delegation should be clear and relayed to your employees.",
+            "clue": "Tasks are the most basic level of delegation.",
+            "choice_4kX0DG33N": "Functions",
+            "choice_NJlmAvMhh4": "Activities",
+            "choice_NkV0vGn2V": "Tasks",
+            "choice_VJTCDf2nE": "Missions",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "책임의 정도를 줄임으로써 위임의 네 가지 주요 수준을 분류하십시오.",
+            "explanation": "다음 답을 순서대로 기재하십시오.",
+            "klf": "임무, 기능, 활동 및 임무 등 책임의 정도를 줄임으로써 위임의 네 가지 주요 수준이 분류됩니다.",
+            "tips": "위임은 영구적이거나 임시적으로 진행될 수 있습니다. 대표단의 조건은 명확해야하며 직원에게 전달되어야합니다.",
+            "clue": "작업은 가장 기본적인 위임 수준입니다.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kX0DG33N": "기능들",
+            "choice_NJlmAvMhh4": "활동",
+            "choice_NkV0vGn2V": "할 일 목록",
+            "choice_VJTCDf2nE": "선교"
+        },
+        "ru": {
+            "header": "Отсортируйте четыре основных уровня делегирования, уменьшая степень ответственности.",
+            "explanation": "Поставьте следующие ответы в порядке.",
+            "klf": "Существует четыре основных уровня делегирования, разделенных по степени снижения ответственности: миссии, функции, действия и задачи.",
+            "tips": "Делегация может быть постоянной или на разовой основе. Условия для делегации должны быть четкими и передаваться вашим сотрудникам.",
+            "clue": "Задачи - это самый базовый уровень делегирования.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kX0DG33N": "функции",
+            "choice_NJlmAvMhh4": "мероприятия",
+            "choice_NkV0vGn2V": "Задания",
+            "choice_VJTCDf2nE": "Миссии"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Classifique os quatro níveis principais de delegação, diminuindo o grau de responsabilidade.",
+            "explanation": "Coloque as seguintes respostas em ordem.",
+            "klf": "Existem quatro níveis principais de delegação categorizados por grau decrescente de responsabilidade: missões, funções, atividades e tarefas.",
+            "tips": "A delegação pode ser permanente ou ad hoc. As condições para a delegação devem ser claras e transmitidas aos seus funcionários.",
+            "clue": "Tarefas são o nível mais básico de delegação.",
+            "choice_4kX0DG33N": "Funções",
+            "choice_NJlmAvMhh4": "actividades",
+            "choice_NkV0vGn2V": "Tarefas",
+            "choice_VJTCDf2nE": "Missões"
+        },
+        "zh": {
+            "header": "通过降低责任程度对四个主要授权级别进行排序。",
+            "explanation": "按顺序排列以下答案。",
+            "klf": "通过降低责任程度将任务分为四个主要级别：任务，职能，活动和任务。",
+            "tips": "授权可以是永久性的，也可以是临时性的。授权的条件应明确，并传达给您的员工。",
+            "clue": "任务是最基本的授权级别。",
+            "choice_4kX0DG33N": "功能",
+            "choice_NJlmAvMhh4": "活动",
+            "choice_NkV0vGn2V": "任务",
+            "choice_VJTCDf2nE": "使命"
+        }
+    }
+}

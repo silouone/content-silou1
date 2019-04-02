@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T07:39:33.665Z",
+            "updatedAt": "2018-10-17T09:27:37.799Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yhFKcNB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4ybJ2kidr",
+        "universalRef": "sli_4ybJ2kidr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel96412",
+                        "items": [
+                            {
+                                "text": "choice_NkenRni3ur",
+                                "value": "choice_NkenRni3ur"
+                            },
+                            {
+                                "text": "choice_NJW302o3uS",
+                                "value": "choice_NJW302o3uS"
+                            },
+                            {
+                                "text": "choice_NkhMai2OH",
+                                "value": "choice_NkhMai2OH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel96412",
+                        "answers": [
+                            "choice_NkenRni3ur"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'objectif principal de l'inbound marketing et du growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Contrairement à la publicité ou aux pratiques issues de l’outbound marketing, on cherche ici à intéresser nos cibles par un discours transparent, sincère, utile ou divertissant afin de les attirer à nous naturellement et de les engager dans une relation constructive.",
+            "tips": "Créer de l’engagement marketing à l’ère du digital est devenu complexe. Sans une compréhension fine des technologies, les professionnels du marketing risquent d'être dépassés par leurs cibles devenues plus agiles qu’eux. C’est la raison pour laquelle l’inbound marketing et le growth hacking s’appuient fortement sur les technologies comme le marketing automation, la data comportementale et le conversion rate optimization.",
+            "clue": "Tout est question de séduction.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Ces deux nouvelles approches marketing visent à {{sel96412}} les consommateurs en gagnant leur attention volontaire.",
+            "choice_NkenRni3ur": "attirer et séduire",
+            "choice_NJW302o3uS": "aller chercher coûte que coûte ",
+            "choice_NkhMai2OH": "tester et faire patienter"
+        },
+        "en": {
+            "header": "Quel est lobjectif principal de linbound marketing et du growth hacking ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Contrairement à la publicité ou aux pratiques issues de l’outbound marketing, on cherche ici à intéresser nos cibles par un discours transparent, sincère, utile ou divertissant afin de les attirer à nous naturellement et de les engager dans une relation constructive.",
+            "tips": "Créer de l’engagement marketing à l’ère du digital est devenu complexe. Sans une compréhension fine des technologies, les professionnels du marketing risquent dêtre dépassés par leurs cibles devenues plus agiles qu’eux. C’est la raison pour laquelle l’inbound marketing et le growth hacking s’appuient fortement sur les technologies comme le marketing automation, la data comportementale et le conversion rate optimization.",
+            "clue": "Tout est question de séduction.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Ces deux nouvelles approches marketing visent à {{sel96412}} les consommateurs en gagnant leur attention volontaire.",
+            "choice_NkenRni3ur": "attirer et séduire",
+            "choice_NJW302o3uS": "aller chercher coûte que coûte ",
+            "choice_NkhMai2OH": "tester et faire patienter"
+        }
+    }
+}

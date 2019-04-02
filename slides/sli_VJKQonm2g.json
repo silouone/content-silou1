@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:09:17.408Z",
+            "updatedAt": "2017-12-01T11:34:14.917Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJKQonm2g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_VJKQonm2g.field_V1IKo3Q2g.id",
+                        "type": "text",
+                        "name": "inp58402",
+                        "label": "label_41e8Ko3Qnx",
+                        "placeholder": "placeholder_EJW8ts2mhg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp58402",
+                        "answers": [
+                            "choice_VkG8ts272x"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VJKQonm2g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment le protégé doit-il percevoir son mentor ?",
+            "explanation": "Saisissez votre réponse (en anglais).",
+            "klf": "Le mentoré voit dans son mentor un <i>role model</i>, c'est-à-dire un exemple inspirant qui lui permet de se projeter dans un poste à responsabilité.",
+            "tips": "L'origine de l'expression <i>role model</i> est attribué au sociologue Robert K. Merton.",
+            "template": "Un   {{inp58402}}   model.",
+            "clue": "La vie (professionnelle) est une scène.",
+            "label_41e8Ko3Qnx": " ",
+            "placeholder_EJW8ts2mhg": " ",
+            "choice_VkG8ts272x": "role"
+        },
+        "en": {
+            "header": "How should the protégé perceive his mentor?",
+            "explanation": "Enter your answer.",
+            "klf": "The mentee sees her mentor as a <i>role model</i> , that is, an inspiring example that allows her to project herself into a position of responsibility.",
+            "tips": "The origin of the expression <i>role model</i> is attributed to sociologist Robert K. Merton.",
+            "clue": "Life (professional) is a scene.",
+            "template": "Un   {{inp58402}}   model.",
+            "label_41e8Ko3Qnx": " ",
+            "choice_VkG8ts272x": "role",
+            "placeholder_EJW8ts2mhg": " "
+        },
+        "de": {
+            "header": "Wie soll der Schützling seinen Mentor wahrnehmen?",
+            "explanation": "Geben Sie Ihre Antwort ein (ein Wort).",
+            "klf": "Der Mentee sieht seinen Mentor als \"Vorbild\", also ein inspirierendes Beispiel, das es ihm ermöglicht, sich in einen Führungsjob zu projizieren.",
+            "tips": "Der Ursprung des Begriffs \"Vorbild\" wird dem Soziologen Robert K. Merton zugeschrieben.",
+            "clue": "Das Leben (professionell) ist eine Bühne.",
+            "template": "Ein {{inp58402}} Modell",
+            "label_41e8Ko3Qnx": " ",
+            "choice_VkG8ts272x": "Rolle",
+            "placeholder_EJW8ts2mhg": " "
+        },
+        "es": {
+            "header": "How should the protégé perceive their mentor?",
+            "explanation": "Type your answer (one word).",
+            "klf": "The mentee sees their mentor as a \"role model\", that is to say an inspiring example that allows them to project themselves into a management job.",
+            "tips": "The origin of the term \"role model\" is attributed to the sociologist Robert K. Merton.",
+            "template": "A  {{inp58402}}  model",
+            "label_41e8Ko3Qnx": " ",
+            "placeholder_EJW8ts2mhg": " ",
+            "choice_VkG8ts272x": "role",
+            "clue": "Life (professional) is a stage."
+        },
+        "zh": {
+            "header": "该门徒应该如何看待他们的导师？",
+            "explanation": "输入你的答案（一个字）。",
+            "klf": "被指导者将他们的导师视为“榜样”，也就是说，这是一个鼓舞人心的榜样，使他们能够将自己投入到管理工作中。",
+            "tips": "“榜样”一词的起源归功于社会学家Robert K. Merton。",
+            "clue": "生活（专业）是一个舞台。",
+            "template": "一个{{inp58402}}模型",
+            "label_41e8Ko3Qnx": " ",
+            "choice_VkG8ts272x": "角色",
+            "placeholder_EJW8ts2mhg": " "
+        }
+    }
+}

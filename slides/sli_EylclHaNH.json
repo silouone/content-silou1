@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T12:59:32.060Z",
+            "updatedAt": "2018-08-08T12:27:31.729Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EylclHaNH",
+        "universalRef": "sli_EylclHaNH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EylclHaNH.choice_E1lRoer6ES.id",
+                        "label": "choice_E1lRoer6ES",
+                        "value": "choice_E1lRoer6ES",
+                        "media": "med_EyRjxB6ES"
+                    },
+                    {
+                        "id": "sli_EylclHaNH.choice_N1x53eBpVB.id",
+                        "label": "choice_N1x53eBpVB",
+                        "value": "choice_N1x53eBpVB",
+                        "media": "med_NJ53eraEr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1lRoer6ES"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Le Kanban permet de visualiser l’avancement quotidien de vos tâches et de vos projets. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le Kanban a pour objectif de visualiser l’avancement des tâches et des projets et permet de gérer vos activités au quotidien.",
+            "tips": "Les neurosciences soulignent l’importance de la visualisation car les cellules du cortex visuel sont plus nombreuses, plus profondes et plus riches que celles du cortex auditif. Cela explique le pouvoir des éléments visuels dans la compréhension de nouveaux concepts et efficacité des méthodes visuelles de représentation de l’information.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1lRoer6ES": "Vrai",
+            "choice_N1x53eBpVB": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Le Kanban permet de visualiser l’avancement quotidien de vos tâches et de vos projets. Vrai ou faux ?",
+            "klf": "Le Kanban a pour objectif de visualiser l’avancement des tâches et des projets et permet de gérer vos activités au quotidien.",
+            "tips": "Les neurosciences soulignent l’importance de la visualisation car les cellules du cortex visuel sont plus nombreuses, plus profondes et plus riches que celles du cortex auditif. Cela explique le pouvoir des éléments visuels dans la compréhension de nouveaux concepts et efficacité des méthodes visuelles de représentation de l’information.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1lRoer6ES": "Vrai",
+            "choice_N1x53eBpVB": "Faux"
+        }
+    }
+}

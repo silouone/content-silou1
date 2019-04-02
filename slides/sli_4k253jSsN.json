@@ -1,0 +1,75 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-10T13:44:46.308Z",
+            "updatedAt": "2018-05-17T10:20:59.629Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~gR-4qN"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4k253jSsN",
+        "universalRef": "sli_4k253jSsN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4k253jSsN.id",
+                "min": 0,
+                "max": 4,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Dans une carte mentale, combien y a-t-il de centres ?",
+            "explanation": "Déplacez le curseur.",
+            "klf": "La carte mentale possède un seul et unique centre.",
+            "tips": "D'autres schémas comme la carte conceptuelle (une représentation d’un ensemble de concepts liés entre eux sémantiquement) peuvent contenir plusieurs centres.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "1",
+            "answerMin": 1,
+            "answerMax": 1
+        },
+        "en": {
+            "explanation": "Drag the slider.",
+            "header": "Dans une carte mentale, combien y a-t-il de centres ?",
+            "klf": "La carte mentale possède un seul et unique centre.",
+            "tips": "D'autres schémas comme la carte conceptuelle (une représentation d’un ensemble de concepts liés entre eux sémantiquement) peuvent contenir plusieurs centres.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "unitLabel": " ",
+            "description": "1",
+            "answerMin": 1,
+            "answerMax": 1
+        }
+    }
+}

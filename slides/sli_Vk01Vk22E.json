@@ -1,0 +1,105 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T10:11:01.258Z",
+            "updatedAt": "2018-06-21T10:31:11.694Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41Y-6uV54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vk01Vk22E",
+        "universalRef": "sli_Vk01Vk22E",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vk01Vk22E.choice_EJYME1hnN.id",
+                        "label": "choice_EJYME1hnN",
+                        "value": "choice_EJYME1hnN"
+                    },
+                    {
+                        "id": "sli_Vk01Vk22E.choice_N1B7rk2hE.id",
+                        "label": "choice_N1B7rk2hE",
+                        "value": "choice_N1B7rk2hE"
+                    },
+                    {
+                        "id": "sli_Vk01Vk22E.choice_VkiQBkh3N.id",
+                        "label": "choice_VkiQBkh3N",
+                        "value": "choice_VkiQBkh3N"
+                    },
+                    {
+                        "id": "sli_Vk01Vk22E.choice_N1mEHknhV.id",
+                        "label": "choice_N1mEHknhV",
+                        "value": "choice_N1mEHknhV"
+                    },
+                    {
+                        "id": "sli_Vk01Vk22E.choice_Vk54Bk2nE.id",
+                        "label": "choice_Vk54Bk2nE",
+                        "value": "choice_Vk54Bk2nE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJYME1hnN",
+                        "choice_N1mEHknhV",
+                        "choice_Vk54Bk2nE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment l’entraînement à la pleine conscience nous permet-il de mieux collaborer avec nos interlocuteurs?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La présence attentive permet une meilleure identification de nos mécanismes mentaux et nous invite à plus de compréhension. Elle rend la relation entre nous et nos interlocuteurs beaucoup plus fluide, ce qui nous permet, en fin de compte, de mieux nous intégrer au groupe tout en conservant notre personnalité et nos compétences. Ainsi, nous mutualisons tous nos potentiels.",
+            "tips": "Notre personnalité est le fruit de multiples expériences entremêlées, depuis notre enfance jusqu'à aujourd'hui. Mieux collaborer avec ses collègues ne signifie en aucun cas renier sa personnalité et sa force de caractère, mais développer sa compréhension et son écoute de l'autre.",
+            "clue": "Vous n’êtes pas seul au monde...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJYME1hnN": "Je ne me place plus au centre de tout ",
+            "choice_4JxQEy2hE": "Je ne me différencie pas des autres ",
+            "choice_EkpGrJh3V": "Je calcule mes chances de réussite",
+            "choice_N1B7rk2hE": "Je cherche à tirer mon épingle du jeu",
+            "choice_VkiQBkh3N": "J’évalue qui est allié et qui est ennemi",
+            "choice_N1mEHknhV": "J’intègre les différences de chacun ",
+            "choice_Vk54Bk2nE": "Je considère l'opinion de chacun au même titre que la mienne"
+        },
+        "en": {
+            "explanation": "Select the correct answers from the terms listed below.",
+            "header": "How can mindfulness training help you collaborate better with colleagues?",
+            "klf": "Mindfulness makes you more aware of your thought processes, and as a result, can improve understanding between colleagues. It means relationships with colleagues run much more smoothly, and ultimately this means we integrate better in groups while retaining our own personality traits. We can then pool all our potential.",
+            "tips": "Personalities are formed from a whole blend of experiences from childhood right up to the present day. You don’t need to abandon your own personality or strength of character to collaborate better with colleagues. You just need to listen more and develop a greater understanding of each other.",
+            "clue": "You are not alone in the world…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJYME1hnN": "You don’t put yourself at the centre of everything any more",
+            "choice_4JxQEy2hE": "Je ne me différencie pas des autres ",
+            "choice_EkpGrJh3V": "Je calcule mes chances de réussite",
+            "choice_N1B7rk2hE": "You want to get the most out of a situation for yourself",
+            "choice_VkiQBkh3N": "You work out who is an ally and who is the enemy",
+            "choice_N1mEHknhV": "You group together and make the most of everyone’s differences ",
+            "choice_Vk54Bk2nE": "You value everyone’s opinion as much as your own"
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-06T14:21:00.333Z",
+            "updatedAt": "2018-06-21T07:39:13.146Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EkidiweoV",
+        "universalRef": "sli_EkidiweoV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkidiweoV.choice_VkqCoveo4.id",
+                        "label": "choice_VkqCoveo4",
+                        "value": "choice_VkqCoveo4"
+                    },
+                    {
+                        "id": "sli_EkidiweoV.choice_V1my3vloN.id",
+                        "label": "choice_V1my3vloN",
+                        "value": "choice_V1my3vloN"
+                    },
+                    {
+                        "id": "sli_EkidiweoV.choice_E1ZxnDxjN.id",
+                        "label": "choice_E1ZxnDxjN",
+                        "value": "choice_E1ZxnDxjN"
+                    },
+                    {
+                        "id": "sli_EkidiweoV.choice_N1HW2vxo4.id",
+                        "label": "choice_N1HW2vxo4",
+                        "value": "choice_N1HW2vxo4"
+                    },
+                    {
+                        "id": "sli_EkidiweoV.choice_V1gf2DesN.id",
+                        "label": "choice_V1gf2DesN",
+                        "value": "choice_V1gf2DesN"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1HW2vxo4",
+                        "choice_VkqCoveo4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les états intérieurs auxquels mène la pratique de la pleine conscience ? ",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La pleine conscience consiste à développer chez chacun de nous une attention consciente, dans l’instant présent. La pleine conscience nous procure un sentiment de sérénité, favorise le bien-être et nous aide à atteindre la plénitude.",
+            "tips": "La pleine conscience est une pratique connue depuis l’Antiquité. Bien que connue sous des noms différents, elle a été pratiquée dans toutes les régions du monde et nous a été transmise par oral oral et par écrit.",
+            "clue": "N'ayez pas les chevilles qui enflent...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkqCoveo4": "Sérénité",
+            "choice_V1my3vloN": "Valorisation de soi-même",
+            "choice_E1ZxnDxjN": "Euphorie",
+            "choice_V1eWhweiV": "Plénitude",
+            "choice_N1HW2vxo4": "Présence à soi-même",
+            "choice_V1gf2DesN": "Autosatisfaction"
+        },
+        "en": {
+            "explanation": "Select the correct answers.",
+            "header": "How can mindfulness make you feel inside?",
+            "klf": "In mindfulness, you develop a conscious awareness of yourself at the present moment in time. Mindfulness produces a feeling of tranquillity. It also promotes well-being and helps us achieve a sense of fulfilment.",
+            "tips": "People have been practising mindfulness since ancient times. It has been practised all over the world and passed on orally or through the written word. However, it’s not always called mindfulness and has different names in different places.",
+            "clue": "Don’t be full of yourself…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkqCoveo4": "Tranquil",
+            "choice_V1my3vloN": "Self-validated",
+            "choice_E1ZxnDxjN": "Euphoric",
+            "choice_V1eWhweiV": "Plénitude",
+            "choice_N1HW2vxo4": "Present in yourself",
+            "choice_V1gf2DesN": "Self-satisfied"
+        }
+    }
+}

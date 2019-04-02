@@ -1,0 +1,187 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T14:11:06.540Z",
+            "updatedAt": "2018-08-10T10:06:58.122Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKwqQVj4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4koq6M32V",
+        "universalRef": "sli_4koq6M32V",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4koq6M32V.choice_VkVh6M3nE.id",
+                        "label": "choice_VkVh6M3nE",
+                        "value": "choice_VkVh6M3nE"
+                    },
+                    {
+                        "id": "sli_4koq6M32V.choice_4JLnpfhhN.id",
+                        "label": "choice_4JLnpfhhN",
+                        "value": "choice_4JLnpfhhN"
+                    },
+                    {
+                        "id": "sli_4koq6M32V.choice_V1lIhTGnhV.id",
+                        "label": "choice_V1lIhTGnhV",
+                        "value": "choice_V1lIhTGnhV"
+                    },
+                    {
+                        "id": "sli_4koq6M32V.choice_NyO3pz3hE.id",
+                        "label": "choice_NyO3pz3hE",
+                        "value": "choice_NyO3pz3hE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkVh6M3nE",
+                        "choice_4JLnpfhhN",
+                        "choice_V1lIhTGnhV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the common pitfalls when it comes to delegation?",
+            "explanation": "Select the correct answers.",
+            "klf": "You should avoid giving instructions in passing, entering into a two-way arrangement or denying any responsibility in the event of an error made by the delegatee.",
+            "tips": "Here are some other phrases to avoid: “They know what they are doing.” “Talk to my assistant. That will help them to understand that it is a part of their job.” “It is up to everyone to take responsibility when I am not around.”",
+            "clue": "A positive intruder.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkVh6M3nE": "Giving instructions in passing",
+            "choice_4JLnpfhhN": "Entering into a two-way arrangement without informing the other team members",
+            "choice_V1lIhTGnhV": "Denying any responsibility in the event of an error made by the delegatee",
+            "choice_NyO3pz3hE": "Asking for management’s approval"
+        },
+        "fr": {
+            "header": "Quels sont les pièges les plus courants en matière de licence?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Si le défendeur commet une erreur, vous devez éviter les instructions de passage, prendre des dispositions à double sens ou refuser toute responsabilité.",
+            "tips": "Voici d'autres phrases à éviter: \"Ils savent ce qu'ils font.\" \"Parlez à mon assistant. Cela les aidera à comprendre que cela fait partie de leur travail.\" \"Quand je ne suis pas là, tout le monde Devrait porter la responsabilité. \"",
+            "clue": "Un intrus positif.",
+            "choice_VkVh6M3nE": "Donner des instructions",
+            "choice_4JLnpfhhN": "Entrez un arrangement à double sens sans notifier les autres membres de l'équipe",
+            "choice_V1lIhTGnhV": "Si la personne autorisée a une erreur, elle ne sera pas tenue responsable",
+            "choice_NyO3pz3hE": "Demander l'approbation de la direction",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "¿Cuáles son los peligros comunes cuando se trata de delegación?",
+            "explanation": "Seleccione las respuestas correctas.",
+            "klf": "Debe evitar dar instrucciones de paso, celebrar un acuerdo de dos vías o negar cualquier responsabilidad en caso de error cometido por el delegado.",
+            "tips": "Aquí hay algunas otras frases para evitar: Ellos saben lo que están haciendo. Hable con mi asistente. Eso los ayudará a entender que es parte de su trabajo.  Depende de todos asumir la responsabilidad cuando yo no estoy cerca .",
+            "clue": "Un intruso positivo.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkVh6M3nE": "Dando instrucciones al pasar",
+            "choice_4JLnpfhhN": "Entrar en un acuerdo de dos vías sin informar a los otros miembros del equipo",
+            "choice_V1lIhTGnhV": "Negar cualquier responsabilidad en caso de error cometido por el delegado",
+            "choice_NyO3pz3hE": "Pidiendo la aprobación de la gerencia"
+        },
+        "it": {
+            "header": "Quali sono le insidie ​​più comuni quando si tratta di delegare?",
+            "explanation": "Seleziona le risposte corrette.",
+            "klf": "Evitare di dare istruzioni di passaggio, di stipulare un accordo a doppio senso o di negare qualsiasi responsabilità in caso di errore commesso dal delegato.",
+            "tips": "Ecco alcune altre frasi da evitare: Sanno cosa stanno facendo. Parla con il mio assistente. Questo li aiuterà a capire che fa parte del loro lavoro.  Spetta a tutti assumersi la responsabilità quando non sono in giro.",
+            "clue": "Un intruso positivo.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkVh6M3nE": "Dare istruzioni di passaggio",
+            "choice_4JLnpfhhN": "Entrare in un accordo a due vie senza informare gli altri membri del team",
+            "choice_V1lIhTGnhV": "Negare qualsiasi responsabilità in caso di errore commesso dal delegato",
+            "choice_NyO3pz3hE": "Chiedere lapprovazione della direzione"
+        },
+        "de": {
+            "header": "What are the common pitfalls when it comes to delegation?",
+            "explanation": "Select the correct answers.",
+            "klf": "You should avoid giving instructions in passing, entering into a two-way arrangement or denying any responsibility in the event of an error made by the delegatee.",
+            "tips": "Here are some other phrases to avoid: “They know what they are doing.” “Talk to my assistant. That will help them to understand that it is a part of their job.” “It is up to everyone to take responsibility when I am not around.”",
+            "clue": "A positive intruder.",
+            "choice_VkVh6M3nE": "Giving instructions in passing",
+            "choice_4JLnpfhhN": "Entering into a two-way arrangement without informing the other team members",
+            "choice_V1lIhTGnhV": "Denying any responsibility in the event of an error made by the delegatee",
+            "choice_NyO3pz3hE": "Asking for management’s approval",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "대표단과 관련된 일반적인 함정은 무엇입니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "합격, 지시서 제출 또는 대리인의 실수로 인한 책임을 면제하십시오.",
+            "tips": "피할 수있는 다른 구절은 다음과 같습니다. 그들이하는 일을 알고 있습니다. 내 조수와상의하십시오. 그것은 그들이 자신의 일의 일부임을 이해하는 데 도움이 될 것입니다. 내가 주변에 없을 때 책임을지는 것은 모든 사람에게 달려있다.",
+            "clue": "긍정적 인 침입자.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkVh6M3nE": "통과시 지침 제시",
+            "choice_4JLnpfhhN": "다른 팀 멤버들에게 알리지 않고 양방향으로 진입한다.",
+            "choice_V1lIhTGnhV": "대의원이 실수했을 경우 책임을지지 않습니다.",
+            "choice_NyO3pz3hE": "경영진의 승인 요청"
+        },
+        "ru": {
+            "header": "Каковы общие проблемы, связанные с делегацией?",
+            "explanation": "Выберите правильные ответы.",
+            "klf": "Вам следует избегать указания инструкций, вступая в двустороннюю договоренность или отрицая какую-либо ответственность в случае ошибки, допущенной делегатом.",
+            "tips": "Вот некоторые другие фразы, которые следует избегать: «Они знают, что они делают». «Поговорите с моим помощником. Это поможет им понять, что это часть их работы. - «Каждый может взять на себя ответственность, когда меня нет».",
+            "clue": "Положительный злоумышленник.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkVh6M3nE": "Предоставление инструкций",
+            "choice_4JLnpfhhN": "Вступление в двухстороннее соглашение без информирования других членов команды",
+            "choice_V1lIhTGnhV": "Отказ в любой ответственности в случае ошибки, допущенной делегатом",
+            "choice_NyO3pz3hE": "Просить разрешения руководства"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "Quais são as armadilhas comuns quando se trata de delegação?",
+            "explanation": "Selecione as respostas corretas.",
+            "klf": "Você deve evitar dar instruções de passagem, entrar em um acordo bidirecional ou negar qualquer responsabilidade no caso de um erro cometido pelo delegado.",
+            "tips": "Aqui estão algumas outras frases para evitar: “Eles sabem o que estão fazendo.” “Fale com meu assistente. Isso os ajudará a entender que isso faz parte do trabalho deles. ”“ Cabe a todos assumir a responsabilidade quando eu não estiver por perto. ”",
+            "clue": "Um intruso positivo.",
+            "choice_VkVh6M3nE": "Dando instruções de passagem",
+            "choice_4JLnpfhhN": "Entrando em um acordo bidirecional sem informar os outros membros da equipe",
+            "choice_V1lIhTGnhV": "Negar qualquer responsabilidade em caso de erro cometido pelo delegado",
+            "choice_NyO3pz3hE": "Pedir a aprovação da gerência"
+        },
+        "zh": {
+            "header": "在授权方面有哪些常见的陷阱？",
+            "explanation": "选择正确的答案。",
+            "klf": "如果被告人发生错误，您应该避免顺便指示，进行双向安排或拒绝承担任何责任。",
+            "tips": "以下是其他一些要避免的短语：“他们知道自己在做什么。”“和我的助手谈谈。这将有助于他们理解这是他们工作的一部分。“”当我不在身边时，每个人都应该承担责任。“",
+            "clue": "一个积极的入侵者。",
+            "choice_VkVh6M3nE": "给予指示",
+            "choice_4JLnpfhhN": "在没有通知其他团队成员的情况下进入双向安排",
+            "choice_V1lIhTGnhV": "如果被授权人发生错误，则不承担任何责任",
+            "choice_NyO3pz3hE": "要求管理层批准"
+        }
+    }
+}

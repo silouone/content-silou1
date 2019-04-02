@@ -1,0 +1,123 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T10:22:29.486Z",
+            "updatedAt": "2018-10-12T15:17:08.240Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_N1sMEK7LH",
+        "universalRef": "sli_N1sMEK7LH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1sMEK7LH.choice_EkKrVtm8H.id",
+                        "label": "choice_EkKrVtm8H",
+                        "value": "choice_EkKrVtm8H"
+                    },
+                    {
+                        "id": "sli_N1sMEK7LH.choice_4JFv4tQ8B.id",
+                        "label": "choice_4JFv4tQ8B",
+                        "value": "choice_4JFv4tQ8B"
+                    },
+                    {
+                        "id": "sli_N1sMEK7LH.choice_EyK2EFQLH.id",
+                        "label": "choice_EyK2EFQLH",
+                        "value": "choice_EyK2EFQLH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkKrVtm8H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'est-ce que le taux de conversion ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le taux de conversion correspond au nombre de personnes qui ont accompli l’action souhaitée (effectuer un achat, commenter une publication… cela dépend de vous !) rapporté au nombre total de visiteurs ou de visites. Un bon indicateur à suivre pour évaluer vos opérations marketing !",
+            "tips": "Il est possible d'observer le taux de conversion à deux moments : en évaluant les achats réalisés au cours de la visite d'un site, ou un certain laps de temps après la visite. Dans ce second cas, on parle de \"conversion décalée\".",
+            "clue": "Combien de clients ont acheté votre produit ou commenté un de vos posts ?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkKrVtm8H": "C'est le nombre de personnes qui ont accompli l’action souhaitée rapporté au nombre total de visiteurs",
+            "choice_4JFv4tQ8B": "C'est la proportion de clients qui changent d'avis sur un produit ou service",
+            "choice_EyK2EFQLH": "C'est la vitesse moyenne d'affichage des pages d'un site internet"
+        },
+        "en": {
+            "header": "What is the conversion rate?",
+            "explanation": "Select the correct answer.",
+            "klf": "The conversion rate is the number of people who did the desired action (make a purchase, comment on a publication ... it depends on you!) Based on the total number of visitors or visits. A good indicator to follow to evaluate your marketing operations!",
+            "tips": "It is possible to observe the conversion rate at two points: by evaluating the purchases made during the visit of a site, or a certain lapse of time after the visit. In this second case, we speak of \"offset conversion\".",
+            "clue": "How many customers have purchased your product or commented on one of your posts?",
+            "choice_EkKrVtm8H": "This is the number of people who accomplished the desired action based on the total number of visitors",
+            "choice_4JFv4tQ8B": "This is the proportion of customers who change their mind about a product or service",
+            "choice_EyK2EFQLH": "This is the average speed of the pages of a website",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Was ist eine Conversion-Rate?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Die Conversion-Rate bezieht sich auf die Anzahl der Personen, die die gewünschte Aktion ausgeführt haben (Abschluss eines Kaufs, Kommentierung der von Ihnen veröffentlichten Informationen, es liegt an Ihnen!) Im Verhältnis zur Gesamtzahl der Besucher. Dies ist ein guter Indikator für die Überwachung Ihrer Marketingaktivitäten!",
+            "tips": "Sie können die Conversion-Rate in zwei Schritten überwachen: Bewerten Sie entweder die Anzahl der Einkäufe, die Sie beim Besuch einer Website getätigt haben, oder innerhalb eines bestimmten Zeitraums nach ihrem Besuch. Die zweite Instanz wird als \"Konversionsverzögerung\" bezeichnet.",
+            "clue": "Wie viele Kunden haben Ihr Produkt gekauft oder Ihre Beiträge kommentiert?",
+            "choice_EkKrVtm8H": "Es ist die Anzahl der Personen, die die gewünschte Aktion im Verhältnis zur Gesamtzahl der Besucher durchgeführt haben",
+            "choice_4JFv4tQ8B": "Es ist der Anteil der Kunden, die ihre Meinung zu einem Produkt oder einer Dienstleistung ändern",
+            "choice_EyK2EFQLH": "Dies ist die durchschnittliche Anzeigegeschwindigkeit für die Seiten einer Website",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer.",
+            "header": "What is a conversion rate?",
+            "klf": "Conversion rate refers to the number of people who have completed the desired action (completing a purchase, commenting on something you have published, it’s up to you!) in relation to the total number of visitors. This is a good indicator to monitor in order to assess your marketing operations!",
+            "tips": "You can monitor the conversion rate at two stages: by evaluating either the number of purchases made while visiting a website, or within a certain time frame after their visit. The second instance is referred to as “conversion lag”.",
+            "clue": "How many customers bought your product or commented on your posts?",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkKrVtm8H": "It is the number of people who have completed the desired action in relation to the total number of visitors",
+            "choice_4JFv4tQ8B": "It is the proportion of customers who change their opinion about a product or service",
+            "choice_EyK2EFQLH": "It is the average display speed for the pages on a website"
+        },
+        "zh": {
+            "header": "什么是转换率？",
+            "explanation": "选择正确的答案。",
+            "klf": "转换率是指完成所需操作（完成购买，评论您发布的内容，由您决定！）的人数与访问者总数的关系。这是一个很好的监控指标，以评估您的营销业务！",
+            "tips": "您可以分两个阶段监控转换率：评估访问网站时的购买次数，或访问后的特定时间范围内。第二个实例称为“转换滞后”。",
+            "clue": "有多少客户购买了您的产品或对您的帖子发表了评论？",
+            "choice_EkKrVtm8H": "这是完成与访客总数相关的所需操作的人数",
+            "choice_4JFv4tQ8B": "客户改变对产品或服务的看法的比例",
+            "choice_EyK2EFQLH": "它是网站页面的平均显示速度",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

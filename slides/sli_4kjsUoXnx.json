@@ -1,0 +1,119 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T10:43:37.847Z",
+            "updatedAt": "2017-12-04T18:26:29.097Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWuCjz9g"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kjsUoXnx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kjsUoXnx.choice_EkwSPjQne.id",
+                        "label": "choice_EkwSPjQne",
+                        "value": "choice_EkwSPjQne"
+                    },
+                    {
+                        "id": "sli_4kjsUoXnx.choice_VJKSwiXhg.id",
+                        "label": "choice_VJKSwiXhg",
+                        "value": "choice_VJKSwiXhg"
+                    },
+                    {
+                        "id": "sli_4kjsUoXnx.choice_Vkorvi7hx.id",
+                        "label": "choice_Vkorvi7hx",
+                        "value": "choice_Vkorvi7hx"
+                    },
+                    {
+                        "id": "sli_4kjsUoXnx.choice_4JhrvjX2x.id",
+                        "label": "choice_4JhrvjX2x",
+                        "value": "choice_4JhrvjX2x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJKSwiXhg",
+                        "choice_4JhrvjX2x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4kjsUoXnx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pendant la négociation, votre interlocuteur devient agressif. Comment réagis-tu?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Aussi hostile qu'il soit, mettez-vous à la place de l'autre. L'agression cache souvent une autre émotion. Ensuite, essayez de reformuler. Si l'autre personne a le sentiment d'être entendue, elle sera plus susceptible de vous écouter.",
+            "tips": "Selon Roger Fisher et Daniel Shapiro, les émotions permettent de déterminer si cinq préoccupations sont prises en compte: besoin d'appréciation, affiliation, autonomie, reconnaissance du statut et rôle gratifiant.",
+            "clue": "Apaisement.",
+            "choice_EkwSPjQne": "Vous le provoquez jusqu'à ce qu'il exprime réellement sa colère",
+            "choice_VJKSwiXhg": "Vous essayez de comprendre l'origine de son agressivité",
+            "choice_Vkorvi7hx": "Vous répondez sur le même ton",
+            "choice_4JhrvjX2x": "Vous essayez de reformuler son émotion"
+        },
+        "en": {
+            "header": "During the negotiation, your interlocutor becomes aggressive. How do you react ?",
+            "explanation": "Select the correct answers.",
+            "klf": "As hostile as it is, put yourself in the other's shoes. Aggression often hides another emotion. Then try to reformulate. If the other person has the feeling of being heard, he or she will be more likely to listen to you.",
+            "tips": "According to Roger Fisher and Daniel Shapiro, emotions inform about whether or not five concerns are taken into account: the need for appreciation, affiliation, autonomy, recognition of one's status and having a gratifying role.",
+            "clue": "Appeasement.",
+            "choice_EkwSPjQne": "You provoke him until he really expresses his anger",
+            "choice_VJKSwiXhg": "You try to understand the origin of his aggressiveness",
+            "choice_Vkorvi7hx": "You answer in the same tone",
+            "choice_4JhrvjX2x": "You try to reformulate his emotion"
+        },
+        "de": {
+            "header": "Während der Verhandlung wird Ihr Gesprächspartner aggressiv. Wie reagierst du?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "So feindselig es auch ist, versetze dich in die Lage des anderen. Aggression verbirgt oft eine andere Emotion. Versuchen Sie dann, umzuformulieren. Wenn die andere Person das Gefühl hat, gehört zu werden, wird sie wahrscheinlich eher auf Sie hören.",
+            "tips": "Laut Roger Fisher und Daniel Shapiro geben Emotionen an, ob fünf Anliegen berücksichtigt werden oder nicht: das Bedürfnis nach Wertschätzung, Zugehörigkeit, Autonomie, Anerkennung des eigenen Status und eine erfreuliche Rolle.",
+            "clue": "Beschwichtigung.",
+            "choice_EkwSPjQne": "Sie provozieren ihn, bis er seinen Ärger wirklich zum Ausdruck bringt",
+            "choice_VJKSwiXhg": "Sie versuchen den Ursprung seiner Aggressivität zu verstehen",
+            "choice_Vkorvi7hx": "Sie antworten im selben Ton",
+            "choice_4JhrvjX2x": "Sie versuchen, seine Emotionen neu zu formulieren"
+        },
+        "es": {
+            "header": "During negotiations, your colleague becomes aggressive. How do you react?",
+            "explanation": "Select the correct answers.",
+            "klf": "As difficult as it might be, put yourself in the other persons place. Aggressiveness often hides another emotion. So try to reformulate. If the person feels like they are being listened to, they will be more likely to listen to you in turn.",
+            "tips": "According to Roger Fisher and Daniel Shapiro, emotions are influenced by five concerns and whether or not these have been taken into account: the need for appreciation, affiliation, autonomy, recognition of their status and having a rewarding role.",
+            "choice_EkwSPjQne": "You provoke them until they get really angry",
+            "choice_VJKSwiXhg": "You try to understand the reason behind their aggression",
+            "choice_Vkorvi7hx": "You respond in the same tone",
+            "choice_4JhrvjX2x": "You try to reformulate their emotion",
+            "clue": "Pacification."
+        },
+        "zh": {
+            "header": "在谈判期间，你的同事变得好斗。你怎么反应？",
+            "explanation": "选择正确的答案。",
+            "klf": "尽可能困难，把自己放在其他人的地方。激进通常会隐藏另一种情绪。所以试着重新制定。如果这个人感觉他们正在被倾听，他们将更有可能依次听你的。",
+            "tips": "根据Roger Fisher和Daniel Shapiro的观点，情绪受到五个问题的影响以及是否考虑到了这些问题：需要欣赏，加入，自治，承认自己的地位以及获得奖励。",
+            "clue": "绥靖。",
+            "choice_EkwSPjQne": "你挑衅他们直到他们真的生气",
+            "choice_VJKSwiXhg": "你试图了解他们侵略背后的原因",
+            "choice_Vkorvi7hx": "你的回答是相同的",
+            "choice_4JhrvjX2x": "你试着改变他们的情绪"
+        }
+    }
+}

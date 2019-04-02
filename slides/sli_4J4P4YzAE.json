@@ -1,0 +1,129 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-14T13:57:33.608Z",
+            "updatedAt": "2018-06-21T10:52:26.455Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJKt6uN5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4J4P4YzAE",
+        "universalRef": "sli_4J4P4YzAE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50285",
+                        "label": "label_EyhqVKMR4",
+                        "items": [
+                            {
+                                "text": "choice_Eyeh5EtGRV",
+                                "value": "choice_Eyeh5EtGRV"
+                            },
+                            {
+                                "text": "choice_Vybn5EYfRV",
+                                "value": "choice_Vybn5EYfRV"
+                            },
+                            {
+                                "text": "choice_4yMTVYGCV",
+                                "value": "choice_4yMTVYGCV"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel66826",
+                        "label": "label_Vkk2NFM0N",
+                        "items": [
+                            {
+                                "text": "choice_VyeJ3NFz04",
+                                "value": "choice_VyeJ3NFz04"
+                            },
+                            {
+                                "text": "choice_Vkb1hEtz04",
+                                "value": "choice_Vkb1hEtz04"
+                            },
+                            {
+                                "text": "choice_4JIySFMC4",
+                                "value": "choice_4JIySFMC4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50285",
+                        "answers": [
+                            "choice_Eyeh5EtGRV"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel66826",
+                        "answers": [
+                            "choice_Vkb1hEtz04"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La présence attentive nous permet de nous placer en position d'observateur de nos propres émotions. Quels bénéfices en tirons-nous ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "La position d'observateur de nos ressentis à laquelle nous invite la pleine conscience donne lieu à une plus grande stabilité émotionnelle, un recul objectivant et des sautes d’humeur moins importantes.",
+            "tips": "Dans son livre <i>Les Rêveries du promeneur solitaire</i>, Rousseau se consacre à observer la relation entre ses sensations intérieures et extérieures à travers plusieurs récits.",
+            "clue": "Un pas de côté.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Se placer comme observateur de nos émotions et ressentis permet une plus grande {{sel50285}} et {{sel66826}}.",
+            "label_EyhqVKMR4": " ",
+            "choice_Eyeh5EtGRV": "stabilité émotionnelle",
+            "choice_Vybn5EYfRV": "sagesse",
+            "label_Vkk2NFM0N": " ",
+            "choice_VyeJ3NFz04": "un sommeil plus réparateur",
+            "choice_Vkb1hEtz04": "une prise de recul",
+            "choice_4yMTVYGCV": "ouverture d'esprit",
+            "choice_4JIySFMC4": "une charge de travail moins lourde"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menus.",
+            "header": "When we’re mindful, it’s much easier to observe our own emotions. How is this beneficial?",
+            "klf": "Mindfulness makes us aware of our feelings, leading to greater emotional stability and perspective. We are also less likely to suffer mood swings.",
+            "tips": "In Rousseau’s book, <i>Reveries of a Solitary Walker</i>, he includes several essays on the relationship between your inner feelings and perceptions of the outside world.",
+            "clue": "A step back.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Observing our own emotions and feelings brings greater {{sel50285}} and {{sel66826}}.",
+            "label_EyhqVKMR4": " ",
+            "choice_Eyeh5EtGRV": "emotional stability",
+            "choice_Vybn5EYfRV": "wisdom",
+            "label_Vkk2NFM0N": " ",
+            "choice_VyeJ3NFz04": "restorative sleep",
+            "choice_Vkb1hEtz04": "perspective",
+            "choice_4yMTVYGCV": "openness",
+            "choice_4JIySFMC4": "a lighter work load"
+        }
+    }
+}

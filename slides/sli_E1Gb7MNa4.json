@@ -1,0 +1,195 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-03T15:01:57.704Z",
+            "updatedAt": "2018-08-10T09:07:16.729Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQ497NiE"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_E1Gb7MNa4",
+        "universalRef": "sli_E1Gb7MNa4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel56070",
+                        "label": "label_NyIr7fVaE",
+                        "items": [
+                            {
+                                "text": "choice_EkPHmz4pN",
+                                "value": "choice_EkPHmz4pN"
+                            },
+                            {
+                                "text": "choice_E1lPSmzVpE",
+                                "value": "choice_E1lPSmzVpE"
+                            },
+                            {
+                                "text": "choice_VyABQfNT4",
+                                "value": "choice_VyABQfNT4"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel56070",
+                        "answers": [
+                            "choice_VyABQfNT4"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The SMART method recommends that objectives remain simple and universally understandable. What characteristic should it have in this case?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "According to the SMART method, the objective should be “Specific” and relate directly to the activity. It should not be too vague or general.",
+            "tips": "In addition to quantitative objectives, qualitative objectives are expected results in terms of behaviour and skills development. Whether they have been attained will be evaluated during an observation.",
+            "clue": "First letter.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The objective should be {{sel56070}}",
+            "label_NyIr7fVaE": "",
+            "choice_EkPHmz4pN": "vague",
+            "choice_E1lPSmzVpE": "general",
+            "choice_VyABQfNT4": "specific"
+        },
+        "fr": {
+            "header": "L'approche SMART suggère que l'objectif reste simple et généralement compréhensible. Quelles caractéristiques devrait-il avoir dans ce cas?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Selon l'approche SMART, les objectifs doivent être «spécifiques» et directement liés à l'activité. Cela ne devrait pas être trop vague ou général.",
+            "tips": "Outre la quantification des objectifs, les objectifs qualitatifs sont des résultats attendus en termes de développement comportemental et de compétences. Qu'ils soient atteints ou non, ils seront évalués pendant la période d'observation.",
+            "clue": "La première lettre",
+            "template": "L'objectif doit être {{sel56070}}",
+            "choice_EkPHmz4pN": "Flou",
+            "choice_E1lPSmzVpE": "Général",
+            "choice_VyABQfNT4": "Spécifique",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_NyIr7fVaE": ""
+        },
+        "es": {
+            "header": "El método SMART recomienda que los objetivos sean simples y universalmente comprensibles. ¿Qué característica debería tener en este caso?",
+            "explanation": "Seleccione la respuesta correcta del menú desplegable.",
+            "klf": "De acuerdo con el método SMART, el objetivo debe ser Específico y se relaciona directamente con la actividad. No debería ser demasiado vago o general.",
+            "tips": "Además de los objetivos cuantitativos, los objetivos cualitativos son los resultados esperados en términos de comportamiento y desarrollo de habilidades. Si se han alcanzado se evaluarán durante una observación.",
+            "clue": "Primera letra.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The objective should be {{sel56070}}",
+            "label_NyIr7fVaE": " ",
+            "choice_EkPHmz4pN": "vago",
+            "choice_E1lPSmzVpE": "general",
+            "choice_VyABQfNT4": "específico"
+        },
+        "it": {
+            "header": "Il metodo SMART raccomanda che gli obiettivi rimangano semplici e universalmente comprensibili. Quale caratteristica dovrebbe avere in questo caso?",
+            "explanation": "Seleziona la risposta corretta dal menu a discesa.",
+            "klf": "Secondo il metodo SMART, lobiettivo dovrebbe essere Specifico e riguardare direttamente lattività. Non dovrebbe essere troppo vago o generale.",
+            "tips": "Oltre agli obiettivi quantitativi, sono previsti risultati qualitativi in ​​termini di comportamento e sviluppo delle competenze. Se sono stati raggiunti, saranno valutati durante unosservazione.",
+            "clue": "Prima lettera.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The objective should be {{sel56070}}",
+            "label_NyIr7fVaE": " ",
+            "choice_EkPHmz4pN": "vago",
+            "choice_E1lPSmzVpE": "generale",
+            "choice_VyABQfNT4": "specifica"
+        },
+        "de": {
+            "header": "The SMART method recommends that objectives remain simple and universally understandable. What characteristic should it have in this case?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "According to the SMART method, the objective should be “Specific” and relate directly to the activity. It should not be too vague or general.",
+            "tips": "In addition to quantitative objectives, qualitative objectives are expected results in terms of behaviour and skills development. Whether they have been attained will be evaluated during an observation.",
+            "clue": "First letter.",
+            "template": "The objective should be {{sel56070}}",
+            "choice_EkPHmz4pN": "vague",
+            "choice_E1lPSmzVpE": "general",
+            "choice_VyABQfNT4": "specific",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "label_NyIr7fVaE": " "
+        },
+        "ko": {
+            "header": "SMART 방법은 목적이 간단하고 보편적으로 이해 가능한 상태로 유지할 것을 권고합니다. 이 경우 어떤 특성이 있어야합니까?",
+            "explanation": "드롭 다운 메뉴에서 정답을 선택하십시오.",
+            "klf": "SMART 방법에 따르면, 목표는 구체적이어야하며 활동과 직접 관련이 있어야합니다. 너무 애매하거나 일반적이어서는 안됩니다.",
+            "tips": "양적 목표뿐만 아니라, 질적 목표는 행동 및 기술 개발 측면에서 기대되는 결과이다. 그들이 달성되었는지 여부는 관찰 중에 평가됩니다.",
+            "clue": "첫 편지.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The objective should be {{sel56070}}",
+            "label_NyIr7fVaE": " ",
+            "choice_EkPHmz4pN": "막연한",
+            "choice_E1lPSmzVpE": "일반",
+            "choice_VyABQfNT4": "특유한"
+        },
+        "ru": {
+            "header": "Метод SMART рекомендует, чтобы цели оставались простыми и универсальными. Какую характеристику он должен иметь в этом случае?",
+            "explanation": "Выберите правильный ответ в раскрывающемся меню.",
+            "klf": "Согласно методу SMART, цель должна быть «конкретной» и непосредственно относиться к этой деятельности. Это не должно быть слишком неопределенным или общим.",
+            "tips": "В дополнение к количественным целям, качественные цели ожидаются с точки зрения поведения и развития навыков. Достигнуты ли они, будут оценены во время наблюдения.",
+            "clue": "Первое письмо.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The objective should be {{sel56070}}",
+            "label_NyIr7fVaE": " ",
+            "choice_EkPHmz4pN": "расплывчатый",
+            "choice_E1lPSmzVpE": "Генеральная",
+            "choice_VyABQfNT4": "конкретный"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O método SMART recomenda que os objetivos permaneçam simples e universalmente compreensíveis. Que característica deveria ter neste caso?",
+            "explanation": "Selecione a resposta correta no menu suspenso.",
+            "klf": "De acordo com o método SMART, o objetivo deve ser “específico” e se relacionar diretamente com a atividade. Não deve ser muito vago ou geral.",
+            "tips": "Além dos objetivos quantitativos, os objetivos qualitativos são resultados esperados em termos de comportamento e desenvolvimento de habilidades. Se eles foram atingidos serão avaliados durante uma observação.",
+            "clue": "Primeira carta.",
+            "template": "O objetivo deve ser {{sel56070}}",
+            "choice_EkPHmz4pN": "vago",
+            "choice_E1lPSmzVpE": "geral",
+            "choice_VyABQfNT4": "específico"
+        },
+        "zh": {
+            "header": "SMART方法建议目标保持简单且普遍可理解。在这种情况下它应该具有什么特征？",
+            "explanation": "从下拉菜单中选择正确的答案。",
+            "klf": "根据SMART方法，目标应该是“特定的”并且直接与活动相关。它不应该太模糊或笼统。",
+            "tips": "除量化目标外，定性目标是行为和技能发展方面的预期结果。是否达到它们将在观察期间进行评估。",
+            "clue": "第一封信。",
+            "template": "目标应为{{sel56070}}",
+            "choice_EkPHmz4pN": "模糊",
+            "choice_E1lPSmzVpE": "一般",
+            "choice_VyABQfNT4": "具体"
+        }
+    }
+}

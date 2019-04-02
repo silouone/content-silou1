@@ -1,0 +1,159 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-25T17:00:54.556Z",
+            "updatedAt": "2018-07-26T14:56:25.339Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1fNqmEjE"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_VkTufiK3N",
+        "universalRef": "sli_VkTufiK3N",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkTufiK3N.choice_Eyx8y7oYn4.id",
+                        "label": "choice_Eyx8y7oYn4",
+                        "value": "choice_Eyx8y7oYn4",
+                        "media": "med_4J8JQjF2N"
+                    },
+                    {
+                        "id": "sli_VkTufiK3N.choice_VyxwyQjt2V.id",
+                        "label": "choice_VyxwyQjt2V",
+                        "value": "choice_VyxwyQjt2V",
+                        "media": "med_VJvJXiF2N"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyxwyQjt2V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The manager should only review their team’s work results at the end of the project. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The manager should conduct a final review of the results but also check in throughout the implementation to make sure that everything is going well.",
+            "tips": "The final review ensures that the product complies with commitments in terms of quality, costs and deadlines.",
+            "clue": "Regular monitoring.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyx8y7oYn4": "TRUE",
+            "choice_VyxwyQjt2V": "FALSE"
+        },
+        "fr": {
+            "header": "Les gestionnaires doivent examiner le travail de leur équipe uniquement à la fin du projet. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Le responsable devrait avoir un dernier examen des résultats, mais il devrait également être vérifié tout au long du processus de mise en œuvre pour s'assurer que tout se passe bien.",
+            "tips": "L’audit final garantit que le produit est conforme à la promesse de qualité, de coût et de délai.",
+            "clue": "Surveillance régulière",
+            "choice_Eyx8y7oYn4": "Vraiment",
+            "choice_VyxwyQjt2V": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "El gerente solo debe revisar los resultados de trabajo de su equipo al final del proyecto. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "El gerente debe realizar una revisión final de los resultados, pero también debe verificar durante la implementación para asegurarse de que todo va bien.",
+            "tips": "La revisión final asegura que el producto cumpla con los compromisos en términos de calidad, costos y plazos.",
+            "clue": "Monitoreo regular.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyx8y7oYn4": "Cierto",
+            "choice_VyxwyQjt2V": "Falso"
+        },
+        "it": {
+            "header": "Il manager dovrebbe solo rivedere i risultati del lavoro del proprio team alla fine del progetto. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Il manager dovrebbe condurre una revisione finale dei risultati, ma anche controllare durante limplementazione per assicurarsi che tutto stia andando bene.",
+            "tips": "La revisione finale garantisce che il prodotto rispetti gli impegni in termini di qualità, costi e scadenze.",
+            "clue": "Monitoraggio regolare",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyx8y7oYn4": "Vero",
+            "choice_VyxwyQjt2V": "falso"
+        },
+        "de": {
+            "header": "The manager should only review their team’s work results at the end of the project. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The manager should conduct a final review of the results but also check in throughout the implementation to make sure that everything is going well.",
+            "tips": "The final review ensures that the product complies with commitments in terms of quality, costs and deadlines.",
+            "clue": "Regular monitoring.",
+            "choice_Eyx8y7oYn4": "TRUE",
+            "choice_VyxwyQjt2V": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "관리자는 프로젝트가 끝날 때 팀의 업무 결과 만 검토해야합니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "관리자는 결과에 대한 최종 검토를 수행해야하며 모든 사항이 잘 진행되고 있는지 확인하기 위해 구현 전반에 걸쳐 체크인해야합니다.",
+            "tips": "최종 검토를 통해 제품이 품질, 비용 및 마감 기한에 대한 약속을 준수하는지 확인할 수 있습니다.",
+            "clue": "정기적 인 모니터링.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyx8y7oYn4": "참된",
+            "choice_VyxwyQjt2V": "그릇된"
+        },
+        "ru": {
+            "header": "Менеджер должен только просмотреть результаты своей команды в конце проекта. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Менеджер должен провести окончательный обзор результатов, а также проверить на протяжении всей реализации, чтобы убедиться, что все идет хорошо.",
+            "tips": "Окончательный обзор гарантирует, что продукт соответствует обязательствам с точки зрения качества, затрат и сроков.",
+            "clue": "Регулярный мониторинг.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyx8y7oYn4": "Правда",
+            "choice_VyxwyQjt2V": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "O gerente deve rever apenas os resultados do trabalho da equipe no final do projeto. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "O gerente deve conduzir uma revisão final dos resultados, mas também fazer o check-in durante a implementação para garantir que tudo esteja indo bem.",
+            "tips": "A revisão final garante que o produto esteja em conformidade com os compromissos em termos de qualidade, custos e prazos.",
+            "clue": "Monitoramento regular.",
+            "choice_Eyx8y7oYn4": "VERDADE",
+            "choice_VyxwyQjt2V": "FALSO"
+        },
+        "zh": {
+            "header": "经理应该只在项目结束时审查他们团队的工作成果。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "经理应该对结果进行最终审查，但也要在整个实施过程中检查，以确保一切顺利。",
+            "tips": "最终审核确保产品符合质量，成本和截止日期方面的承诺。",
+            "clue": "定期监测。",
+            "choice_Eyx8y7oYn4": "真正",
+            "choice_VyxwyQjt2V": "假"
+        }
+    }
+}

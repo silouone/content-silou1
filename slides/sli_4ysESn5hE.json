@@ -1,0 +1,186 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-26T12:32:07.403Z",
+            "updatedAt": "2018-08-10T09:11:07.609Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JdwqmNo4"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_4ysESn5hE",
+        "universalRef": "sli_4ysESn5hE",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4ysESn5hE.choice_NJVurhqnV.id",
+                        "label": "choice_NJVurhqnV",
+                        "value": "choice_NJVurhqnV"
+                    },
+                    {
+                        "id": "sli_4ysESn5hE.choice_EkIuHnqhE.id",
+                        "label": "choice_EkIuHnqhE",
+                        "value": "choice_EkIuHnqhE"
+                    },
+                    {
+                        "id": "sli_4ysESn5hE.choice_VJDOrnchE.id",
+                        "label": "choice_VJDOrnchE",
+                        "value": "choice_VJDOrnchE"
+                    },
+                    {
+                        "id": "sli_4ysESn5hE.choice_NJuOHn5h4.id",
+                        "label": "choice_NJuOHn5h4",
+                        "value": "choice_NJuOHn5h4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJVurhqnV",
+                        "choice_EkIuHnqhE"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "At the end of a meeting, what should you remember to do?",
+            "explanation": "Select the correct answers.",
+            "klf": "At the end of the meeting, request feedback from some participants. Decide on any actions to be taken, such as writing a report, and make sure to relay this to everyone!",
+            "tips": "32% of managers surveyed in an IFOP study admitted to falling asleep during a meeting.",
+            "clue": "Follow up...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJVurhqnV": "Request feedback from some participants",
+            "choice_EkIuHnqhE": "Decide on any actions to be taken",
+            "choice_VJDOrnchE": "Set a date for the next meeting",
+            "choice_NJuOHn5h4": "Highlight any shortcomings and omissions"
+        },
+        "fr": {
+            "header": "De quoi devriez-vous vous souvenir à la fin de la réunion?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "À la fin de la réunion, demandez des commentaires de certains participants. Décidez des actions que vous souhaitez entreprendre, telles que la rédaction d'un rapport et la transmission à tout le monde!",
+            "tips": "Trente-deux pour cent des gestionnaires interrogés dans le cadre de l'étude IFOP ont admis s'être endormis au cours de la réunion.",
+            "clue": "Suivi ...",
+            "choice_NJVurhqnV": "Demander des commentaires à certains participants",
+            "choice_EkIuHnqhE": "Décidé de prendre des mesures",
+            "choice_VJDOrnchE": "Fixer la date de la prochaine réunion",
+            "choice_NJuOHn5h4": "Souligner les lacunes et les omissions",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "Al final de una reunión, ¿qué debe recordar hacer?",
+            "explanation": "Seleccione las respuestas correctas.",
+            "klf": "Al final de la reunión, solicite comentarios de algunos participantes. ¡Decida sobre cualquier acción a tomar, como escribir un informe, y asegúrese de transmitir esto a todos!",
+            "tips": "El 32% de los gerentes encuestados en un estudio de IFOP admitió quedarse dormido durante una reunión.",
+            "clue": "Seguir...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJVurhqnV": "Solicitar comentarios de algunos participantes",
+            "choice_EkIuHnqhE": "Decidir sobre cualquier acción que deba tomarse",
+            "choice_VJDOrnchE": "Establecer una fecha para la próxima reunión",
+            "choice_NJuOHn5h4": "Resalte cualquier defecto y omisión"
+        },
+        "it": {
+            "header": "Alla fine di un incontro, cosa dovresti ricordare di fare?",
+            "explanation": "Seleziona le risposte corrette.",
+            "klf": "Al termine dellincontro, richiedere il feedback di alcuni partecipanti. Decidi quali azioni intraprendere, come scrivere un rapporto, e assicurati di trasmetterlo a tutti!",
+            "tips": "Il 32% dei dirigenti intervistati in uno studio IFOP ha ammesso di essersi addormentato durante una riunione.",
+            "clue": "Azione supplementare...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJVurhqnV": "Richiedi feedback da alcuni partecipanti",
+            "choice_EkIuHnqhE": "Decidere su eventuali azioni da intraprendere",
+            "choice_VJDOrnchE": "Imposta una data per la prossima riunione",
+            "choice_NJuOHn5h4": "Evidenzia eventuali carenze e omissioni"
+        },
+        "de": {
+            "header": "At the end of a meeting, what should you remember to do?",
+            "explanation": "Select the correct answers.",
+            "klf": "At the end of the meeting, request feedback from some participants. Decide on any actions to be taken, such as writing a report, and make sure to relay this to everyone!",
+            "tips": "32% of managers surveyed in an IFOP study admitted to falling asleep during a meeting.",
+            "clue": "Follow up...",
+            "choice_NJVurhqnV": "Request feedback from some participants",
+            "choice_EkIuHnqhE": "Decide on any actions to be taken",
+            "choice_VJDOrnchE": "Set a date for the next meeting",
+            "choice_NJuOHn5h4": "Highlight any shortcomings and omissions",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "회의가 끝나면 무엇을 기억해야합니까?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "회의가 끝나면 일부 참가자의 의견을 요청하십시오. 보고서 작성과 같은 취할 조치를 결정하고이를 모든 사람에게 전달하십시오!",
+            "tips": "IFOP 연구에서 조사한 관리자의 32 %는 회의 중 잠들었다고 인정했다.",
+            "clue": "후속 조치 ...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJVurhqnV": "일부 참가자의 의견 요청",
+            "choice_EkIuHnqhE": "취할 조치 결정",
+            "choice_VJDOrnchE": "다음 회의 날짜 설정",
+            "choice_NJuOHn5h4": "단점과 누락 사항 강조"
+        },
+        "ru": {
+            "header": "В конце встречи, что вы должны помнить?",
+            "explanation": "Выберите правильные ответы.",
+            "klf": "По завершении встречи запросите отзывы у некоторых участников. Решите о любых действиях, которые необходимо предпринять, например, написать отчет и обязательно передать это всем!",
+            "tips": "32% менеджеров, опрошенных в исследовании IFOP, признались, что заснули во время встречи.",
+            "clue": "Следовать за...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJVurhqnV": "Запросить обратную связь от некоторых участников",
+            "choice_EkIuHnqhE": "Определите любые действия, которые необходимо предпринять",
+            "choice_VJDOrnchE": "Установите дату для следующего собрания",
+            "choice_NJuOHn5h4": "Выделите все недостатки и упущения"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "No final de uma reunião, o que você deve se lembrar de fazer?",
+            "explanation": "Selecione as respostas corretas.",
+            "klf": "No final da reunião, solicite feedback de alguns participantes. Decida sobre quaisquer ações a serem tomadas, como escrever um relatório, e certifique-se de retransmitir isso para todos!",
+            "tips": "32% dos gerentes entrevistados em um estudo do IFOP admitiram adormecer durante uma reunião.",
+            "clue": "Acompanhamento...",
+            "choice_NJVurhqnV": "Solicitar feedback de alguns participantes",
+            "choice_EkIuHnqhE": "Decidir sobre quaisquer ações a serem tomadas",
+            "choice_VJDOrnchE": "Definir uma data para a próxima reunião",
+            "choice_NJuOHn5h4": "Realce quaisquer deficiências e omissões"
+        },
+        "zh": {
+            "header": "在会议结束时，您应该记得做什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "在会议结束时，请求一些参与者的反馈。决定要采取的任何行动，例如撰写报告，并确保将此转发给每个人！",
+            "tips": "在IFOP研究中接受调查的32％的经理承认在会议期间入睡。",
+            "clue": "跟进...",
+            "choice_NJVurhqnV": "请求一些参与者的反馈",
+            "choice_EkIuHnqhE": "决定采取任何行动",
+            "choice_VJDOrnchE": "设置下次会议的日期",
+            "choice_NJuOHn5h4": "突出显示任何缺点和遗漏"
+        }
+    }
+}

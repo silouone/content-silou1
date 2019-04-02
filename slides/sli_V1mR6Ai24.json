@@ -1,0 +1,102 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-27T09:36:59.367Z",
+            "updatedAt": "2018-06-21T10:26:46.047Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41Y-6uV54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1mR6Ai24",
+        "universalRef": "sli_V1mR6Ai24",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1mR6Ai24.choice_Ek~GR0snN.id",
+                        "label": "choice_Ek~GR0snN",
+                        "value": "choice_Ek~GR0snN"
+                    },
+                    {
+                        "id": "sli_V1mR6Ai24.choice_EkgERRj3E.id",
+                        "label": "choice_EkgERRj3E",
+                        "value": "choice_EkgERRj3E"
+                    },
+                    {
+                        "id": "sli_V1mR6Ai24.choice_EyVNCCinE.id",
+                        "label": "choice_EyVNCCinE",
+                        "value": "choice_EyVNCCinE"
+                    },
+                    {
+                        "id": "sli_V1mR6Ai24.choice_EySS0Ai2V.id",
+                        "label": "choice_EySS0Ai2V",
+                        "value": "choice_EySS0Ai2V"
+                    },
+                    {
+                        "id": "sli_V1mR6Ai24.choice_VyivE1EA4.id",
+                        "label": "choice_VyivE1EA4",
+                        "value": "choice_VyivE1EA4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ek~GR0snN",
+                        "choice_EkgERRj3E",
+                        "choice_EySS0Ai2V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Nous avons tendance à juger hâtivement les situations ou les actions de nos collègues. Quelles phrases, parmi celles-ci, illustrent un tel jugement ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "L’interprétation hâtive des faits et des paroles conduit à de nombreux biais cognitifs qui altèrent notre jugement. Lorsque nous jugeons trop vite l’attitude ou les paroles de nos collègues, notre perception cesse d’être neutre et devient \"filtrée\". Ainsi, nous perdons toute possibilité d’écoute réelle et de découverte.",
+            "tips": "La présence attentive nous fait prendre conscience et nous libère de nos jugements envers autrui mais aussi envers nous-mêmes, comme la culpabilité.",
+            "clue": "Avoir un avis sur la question ne signifie pas juger hâtivement...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyC~ACoh4": "\"Je ne pense pas que cette solution soit très adaptée\"",
+            "choice_Ek~GR0snN": "\"Je pense qu'il est jaloux\"",
+            "choice_EkgERRj3E": "\"Il m’exaspère\"",
+            "choice_EyVNCCinE": "\"J’entends ce que tu me dis, mais je ne suis pas entièrement d'accord\"",
+            "choice_EySS0Ai2V": "\"Je crains le pire, avec son idée...\"",
+            "choice_VyivE1EA4": "\"Je ne pense pas que cette solution soit très adaptée\""
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "We have a tendency to judge situations or colleagues’ actions too quickly. Which of the following phrases sum up this kind of judgement?",
+            "klf": "Interpreting facts and words too quickly can lead to cognitive bias which influences how we evaluate things. If we judge our colleagues’ attitudes or words too quickly, we stop being neutral and our judgement becomes “filtered”. And then we can’t listen properly or learn new things.",
+            "tips": "Mindfulness improves our conscious awareness and prevents us from judging others and ourselves (when we feel guilty, for example).",
+            "clue": "Having an opinion on a matter doesn’t mean you need to judge too hastily…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyC~ACoh4": "\"Je ne pense pas que cette solution soit très adaptée\"",
+            "choice_Ek~GR0snN": "“I think he’s jealous”",
+            "choice_EkgERRj3E": "“He frustrates me”",
+            "choice_EyVNCCinE": "“I hear what you’re saying, but I don’t entirely agree”",
+            "choice_EySS0Ai2V": "“His idea makes me fear the worst…”",
+            "choice_VyivE1EA4": "“I don’t think this solution is very suitable”"
+        }
+    }
+}

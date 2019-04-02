@@ -1,0 +1,80 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-31T13:57:17.493Z",
+            "updatedAt": "2018-06-22T16:18:11.641Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkoLAdN9E"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "taggedNewUntil": "2018-07-31T13:57:17.493Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vyi2TytkS",
+        "universalRef": "sli_Vyi2TytkS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vyi2TytkS.choice_4kxDERJtkr.id",
+                        "label": "choice_4kxDERJtkr",
+                        "value": "choice_4kxDERJtkr",
+                        "media": "med_NkPEC1FJH"
+                    },
+                    {
+                        "id": "sli_Vyi2TytkS.choice_EkxsrCJY1H.id",
+                        "label": "choice_EkxsrCJY1H",
+                        "value": "choice_EkxsrCJY1H",
+                        "media": "med_41sS0Jtkr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkxsrCJY1H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "La nature de votre public ne doit pas influencer vos choix esthétiques pour votre mind map. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Votre présentation doit être adaptée au type de public auquel vous vous adressez, afin d'être plus personnalisée, plus pertinente et plus efficace.",
+            "tips": "Il n'est pas souhaitable d'utiliser trop de couleurs dans votre carte au risque de donner naissance à un véritable patchwork. En règle générale, n'utilisez pas plus de trois couleurs, principalement au coeur de la carte.",
+            "clue": "Caméléon.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxDERJtkr": "Vrai",
+            "choice_EkxsrCJY1H": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "The type of audience you’re facing shouldn’t influence your aesthetic choices for your mind map. True or false?",
+            "klf": "Your presentation should be adapted to its audience so that it’s more tailored to their interests, more relevant – and more effective.",
+            "tips": "It’s not ideal to use too many colours in your map or it will end up looking like a patchwork quilt. As a general rule of thumb, you shouldn’t use more than three colours, and most of them should be in the middle of the map.",
+            "clue": "Think chameleon.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxDERJtkr": "True",
+            "choice_EkxsrCJY1H": "False"
+        }
+    }
+}

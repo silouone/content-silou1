@@ -1,0 +1,159 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-30T08:19:55.253Z",
+            "updatedAt": "2018-08-10T12:56:28.420Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9DcQ4sV"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ClaireAUBE",
+            "coreBranch": "devTrad"
+        },
+        "ref": "sli_Vk3ggTkaN",
+        "universalRef": "sli_Vk3ggTkaN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vk3ggTkaN.choice_EJeRMl6kp4.id",
+                        "label": "choice_EJeRMl6kp4",
+                        "value": "choice_EJeRMl6kp4",
+                        "media": "med_NyAzeTkaN"
+                    },
+                    {
+                        "id": "sli_Vk3ggTkaN.choice_4ygl7ea1aV.id",
+                        "label": "choice_4ygl7ea1aV",
+                        "value": "choice_4ygl7ea1aV",
+                        "media": "med_EkgQeayp4"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4ygl7ea1aV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Email is a tool which enables open dialogue. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Email is suitable for sending instructions but not for opening dialogue! You should pick up the phone to check in or organise videoconferences.",
+            "tips": "One study conducted on virtual teams found that the participants received an average of 60 emails per day, 50% of which were unnecessary.",
+            "clue": "Trash!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJeRMl6kp4": "TRUE",
+            "choice_4ygl7ea1aV": "FALSE"
+        },
+        "fr": {
+            "header": "Le courrier électronique est un outil qui prend en charge les conversations ouvertes. Vrai ou faux?",
+            "explanation": "Choisissez la bonne réponse.",
+            "klf": "Le courrier électronique convient à l'envoi d'instructions, mais pas à la conversation! Vous devez prendre le téléphone pour l'enregistrement ou organiser une vidéoconférence.",
+            "tips": "Une étude des équipes virtuelles a révélé que les participants recevaient en moyenne 60 courriels par jour, dont 50% étaient inutiles.",
+            "clue": "Des ordures!",
+            "choice_EJeRMl6kp4": "Vraiment",
+            "choice_4ygl7ea1aV": "Faux",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "header": "El correo electrónico es una herramienta que permite el diálogo abierto. ¿Verdadero o falso?",
+            "explanation": "Selecciona la respuesta correcta.",
+            "klf": "¡El correo electrónico es adecuado para enviar instrucciones pero no para abrir el diálogo! Debe levantar el teléfono para registrar o organizar videoconferencias.",
+            "tips": "Un estudio realizado en equipos virtuales descubrió que los participantes recibían un promedio de 60 correos electrónicos por día, el 50% de los cuales eran innecesarios.",
+            "clue": "¡Basura!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJeRMl6kp4": "Cierto",
+            "choice_4ygl7ea1aV": "Falso"
+        },
+        "it": {
+            "header": "Lemail è uno strumento che consente il dialogo aperto. Vero o falso?",
+            "explanation": "Seleziona la risposta corretta.",
+            "klf": "Lemail è adatta per inviare istruzioni ma non per aprire il dialogo! Dovresti sollevare il telefono per effettuare il check-in o organizzare videoconferenze.",
+            "tips": "Uno studio condotto su team virtuali ha rilevato che i partecipanti hanno ricevuto in media 60 email al giorno, il 50% delle quali non era necessario.",
+            "clue": "Spazzatura!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJeRMl6kp4": "Vero",
+            "choice_4ygl7ea1aV": "falso"
+        },
+        "de": {
+            "header": "Email is a tool which enables open dialogue. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Email is suitable for sending instructions but not for opening dialogue! You should pick up the phone to check in or organise videoconferences.",
+            "tips": "One study conducted on virtual teams found that the participants received an average of 60 emails per day, 50% of which were unnecessary.",
+            "clue": "Trash!",
+            "choice_EJeRMl6kp4": "TRUE",
+            "choice_4ygl7ea1aV": "FALSE",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "ko": {
+            "header": "이메일은 대화를 가능하게하는 도구입니다. 사실인가 거짓인가?",
+            "explanation": "정답을 선택하십시오.",
+            "klf": "이메일은 지침을 보내는 데 적합하지만 대화를 시작하는 데 적합하지 않습니다! 전화를 받아서 화상 회의를 체크인하거나 구성해야합니다.",
+            "tips": "가상 팀을 대상으로 실시한 한 연구에 따르면 참가자는 하루 평균 60 개의 이메일을 받았으며 그 중 50 %는 불필요한 것으로 나타났습니다.",
+            "clue": "폐물!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJeRMl6kp4": "참된",
+            "choice_4ygl7ea1aV": "그릇된"
+        },
+        "ru": {
+            "header": "Электронная почта - это инструмент, который позволяет открывать диалог. Правда или ложь?",
+            "explanation": "Выберите правильный ответ.",
+            "klf": "Электронная почта подходит для отправки инструкций, но не для открытия диалога! Вы должны забрать телефон для регистрации или проведения видеоконференций.",
+            "tips": "В одном исследовании, проведенном на виртуальных командах, было установлено, что участники получили в среднем 60 писем в день, 50% из которых не нужны.",
+            "clue": "Trash!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJeRMl6kp4": "Правда",
+            "choice_4ygl7ea1aV": "Ложь"
+        },
+        "en,fr,ru,ko,es,de,it": {},
+        "vi": {},
+        "pt": {
+            "header": "E-mail é uma ferramenta que permite o diálogo aberto. Verdadeiro ou falso?",
+            "explanation": "Selecione a resposta correta.",
+            "klf": "E-mail é adequado para enviar instruções, mas não para abrir o diálogo! Você deve pegar o telefone para fazer check-in ou organizar videoconferências.",
+            "tips": "Um estudo realizado em equipes virtuais descobriu que os participantes recebiam uma média de 60 e-mails por dia, dos quais 50% eram desnecessários.",
+            "clue": "Lixo!",
+            "choice_EJeRMl6kp4": "VERDADE",
+            "choice_4ygl7ea1aV": "FALSO"
+        },
+        "zh": {
+            "header": "电子邮件是一种支持公开对话的工具。对或错？",
+            "explanation": "选择正确的答案。",
+            "klf": "电子邮件适用于发送说明但不适合打开对话！您应该拿起电话办理登机手续或组织视频会议。",
+            "tips": "一项针对虚拟团队的研究发现，参与者平均每天收到60封电子邮件，其中50％是不必要的。",
+            "clue": "垃圾！",
+            "choice_EJeRMl6kp4": "真正",
+            "choice_4ygl7ea1aV": "假"
+        }
+    }
+}

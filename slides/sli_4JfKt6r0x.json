@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-31T08:17:26.334Z",
+            "updatedAt": "2016-09-06T11:33:27.515Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1zRuIAjg"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4JfKt6r0x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JfKt6r0x.choice_NJwe2aBRg.id",
+                        "label": "choice_NJwe2aBRg",
+                        "value": "choice_NJwe2aBRg"
+                    },
+                    {
+                        "id": "sli_4JfKt6r0x.choice_4yOgnTBAx.id",
+                        "label": "choice_4yOgnTBAx",
+                        "value": "choice_4yOgnTBAx"
+                    },
+                    {
+                        "id": "sli_4JfKt6r0x.choice_VkYenTHRg.id",
+                        "label": "choice_VkYenTHRg",
+                        "value": "choice_VkYenTHRg"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yOgnTBAx"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4JfKt6r0x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'est-ce que le \"quotient féminin\", selon la haute fonctionnaire Agnès Arcier ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Nous avons vu dans les chapitres précédents comment l'éducation, notamment, pouvait influencer les compétences que l'on développe. Certaines qualités sont ainsi plus souvent présentes chez les femmes. La haute fonctionnaire Agnès Arcier désigne ces caractéristiques par l'expression \"quotient féminin\".",
+            "tips": "Dans son livre \"Quotient féminin\", Agnès Arcier invite les hommes à développer leur propre quotient féminin et les entreprises à \"atteindre un nombre critique de femmes dans les postes de décision\".",
+            "clue": "Et non des défauts.",
+            "choice_NJwe2aBRg": "Le quotat de femmes dans les conseils d'administration",
+            "choice_4yOgnTBAx": "Des qualités plus souvent présentes chez les femmes",
+            "choice_VkYenTHRg": "Une partie de l'intelligence émotionnelle"
+        },
+        "en": {
+            "header": "What is the \"female quotient\", according to the senior civil servant Agnès Arcier?",
+            "explanation": "Select the correct answer.",
+            "klf": "We have seen in previous chapters how education, in particular, can influence the skills that we develop. Some qualities are thus more often present in women. Senior official Agnès Arcier refers to these characteristics as \"female quotient\".",
+            "tips": "In her book \"Female Quotient\", Agnès Arcier invites men to develop their own female quota and companies to \"reach a critical number of women in decision-making positions\".",
+            "clue": "And not defects.",
+            "choice_NJwe2aBRg": "The number of women on the boards",
+            "choice_4yOgnTBAx": "Qualities more often present in women",
+            "choice_VkYenTHRg": "Part of the emotional intelligence"
+        },
+        "de": {
+            "header": "Was ist \"weiblicher Quotient\" laut der leitenden Beamten Agnes Arcier?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wir haben in den vorangegangenen Kapiteln gesehen, wie insbesondere die Bildung unsere Fähigkeiten beeinflussen kann. Bestimmte Eigenschaften sind häufiger bei Frauen vorhanden. Die leitende Beamte Agnes Arcier bezeichnet diese Merkmale als \"weiblichen Quotienten\".",
+            "tips": "In ihrem Buch \"Female Quotient\" lädt Agnes Arcier die Menschen dazu ein, einen eigenen weiblichen Quotienten und Unternehmen zu entwickeln, um \"eine kritische Anzahl von Frauen in Entscheidungspositionen zu erreichen\".",
+            "clue": "Keine Fehler",
+            "choice_NJwe2aBRg": "Frauenquote in Aufsichtsräten",
+            "choice_4yOgnTBAx": "Qualitäten treten häufiger bei Frauen auf",
+            "choice_VkYenTHRg": "Teil der emotionalen Intelligenz"
+        },
+        "es": {
+            "header": "What is \"female quotient,\" according to the senior official Agnes Arcier?",
+            "explanation": "Select the correct answer.",
+            "klf": "We have seen in previous chapters how education in particular can influence the skills that we develop. Certain qualities are more often present in women. Senior official Agnes Arcier refers to these characteristics as the \"female quotient\".",
+            "tips": "In her book \"Female Quotient\" Agnes Arcier invites people to develop their own female quotient and businesses to \"reach a critical number of women in decision-making positions.\"",
+            "choice_NJwe2aBRg": "The quota of women on supervisory boards",
+            "choice_4yOgnTBAx": "Qualities more often present in women",
+            "choice_VkYenTHRg": "Part of emotional intelligence",
+            "clue": "No flaws"
+        },
+        "zh": {
+            "header": "根据Agnes Arcier高级官员的说法，什么是“女性商数”？",
+            "explanation": "选择正确的答案。",
+            "klf": "我们在前面的章节中已经看到，特别是教育如何影响我们发展的技能。某些品质更常出现在女性身上。高级官员Agnes Arcier将这些特征称为“女性商”。",
+            "tips": "在她的“女性商数”一书中，Agnes Arcier邀请人们发展自己的女性商和企业，以“在决策职位上达到关键数量的女性”。",
+            "clue": "没有瑕疵",
+            "choice_NJwe2aBRg": "监督委员会中妇女的配额",
+            "choice_4yOgnTBAx": "女性更常出现这种品质",
+            "choice_VkYenTHRg": "情绪智力的一部分"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T11:51:36.981Z",
+            "updatedAt": "2018-08-01T14:12:34.105Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgphUHXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1XmvaImB",
+        "universalRef": "sli_N1XmvaImB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1XmvaImB.choice_VJiBDaLQr.id",
+                        "label": "choice_VJiBDaLQr",
+                        "value": "choice_VJiBDaLQr"
+                    },
+                    {
+                        "id": "sli_N1XmvaImB.choice_4kU8DT8mH.id",
+                        "label": "choice_4kU8DT8mH",
+                        "value": "choice_4kU8DT8mH"
+                    },
+                    {
+                        "id": "sli_N1XmvaImB.choice_4yqUwpLmH.id",
+                        "label": "choice_4yqUwpLmH",
+                        "value": "choice_4yqUwpLmH"
+                    },
+                    {
+                        "id": "sli_N1XmvaImB.choice_E1Mwv6UXr.id",
+                        "label": "choice_E1Mwv6UXr",
+                        "value": "choice_E1Mwv6UXr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kU8DT8mH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il faire avec les tâches non urgentes et importantes ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La matrice d’Eisenhower propose de planifier les tâches non urgentes et importantes pour les effectuer au moment le plus propice.",
+            "tips": "Lister ses tâches avant de dormir permet de réduire de 36 % le temps nécessaire pour s’endormir ! (Source <i>Cerveau et Psycho</i>, N°97, mars 2018)",
+            "clue": "le diagramme de Gantt",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJiBDaLQr": "Les faire tout de suite et soi-même",
+            "choice_4kU8DT8mH": "Les planifier",
+            "choice_4yqUwpLmH": "Les éliminer",
+            "choice_E1Mwv6UXr": "Les déléguer"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Que faut-il faire avec les tâches non urgentes et importantes ?",
+            "klf": "La matrice d’Eisenhower propose de planifier les tâches non urgentes et importantes pour les effectuer au moment le plus propice.",
+            "tips": "Lister ses tâches avant de dormir permet de réduire de 36 % le temps nécessaire pour s’endormir ! (Source <i>Cerveau et Psycho</i>, N°97, mars 2018)",
+            "clue": "le diagramme de Gantt",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJiBDaLQr": "Les faire tout de suite et soi-même",
+            "choice_4kU8DT8mH": "Les planifier",
+            "choice_4yqUwpLmH": "Les éliminer",
+            "choice_E1Mwv6UXr": "Les déléguer"
+        }
+    }
+}

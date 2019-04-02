@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-06T08:53:20.921Z",
+            "updatedAt": "2018-10-08T15:03:44.132Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTV6LrXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NkPwsebSS",
+        "universalRef": "sli_NkPwsebSS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkPwsebSS.choice_Ekx9YjgWHS.id",
+                        "label": "choice_Ekx9YjgWHS",
+                        "value": "choice_Ekx9YjgWHS",
+                        "media": "med_4yqFig~rS"
+                    },
+                    {
+                        "id": "sli_NkPwsebSS.choice_4kgz5ixWBr.id",
+                        "label": "choice_4kgz5ixWBr",
+                        "value": "choice_4kgz5ixWBr",
+                        "media": "med_41MqsgZHS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kgz5ixWBr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "On peut remplacer toutes les réunions en présentiel par des interactions par mail ou messagerie instantanée. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est souhaitable de garder les réunions en présentiel lorsqu'une interaction forte est nécessaire.",
+            "tips": "Selon le baromètre annuel 2016 de Wisembly, 62 % des décisions les plus importantes sont prises en réunion. Seules 22 % d’entre elles sont prises par conférence téléphonique, 20 % par e-mails et 14 % de manière informelle.",
+            "clue": "Ne poussons pas le bouchon.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekx9YjgWHS": "Vrai",
+            "choice_4kgz5ixWBr": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "All face-to-face meetings can be replaced by email exchanges or instant messaging. True or false?",
+            "klf": "You only really need to meet face-to-face when a high level of interaction is required.",
+            "tips": "Wisembly’s 2016 annual survey found that 62% of the most important decisions are made in face-to-face meetings. Only 22% of important decisions are made during conference calls, 20% over email and 14% during informal discussions.",
+            "clue": "Don’t push the boundaries.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekx9YjgWHS": "True",
+            "choice_4kgz5ixWBr": "False"
+        }
+    }
+}

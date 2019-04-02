@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T11:04:07.127Z",
+            "updatedAt": "2016-05-23T11:04:27.464Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VyxtGAoMb",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VyxtGAoMb.choice_EyjiG0if~.id",
+                        "label": "choice_EyjiG0if~",
+                        "value": "choice_EyjiG0if~"
+                    },
+                    {
+                        "id": "sli_VyxtGAoMb.choice_4yGnMRizZ.id",
+                        "label": "choice_4yGnMRizZ",
+                        "value": "choice_4yGnMRizZ"
+                    },
+                    {
+                        "id": "sli_VyxtGAoMb.choice_E1qnMCoMW.id",
+                        "label": "choice_E1qnMCoMW",
+                        "value": "choice_E1qnMCoMW"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1qnMCoMW"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VyxtGAoMb"
+    },
+    "locales": {
+        "fr": {
+            "header": "Laquelle de ces positions devrait être évitée?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "L'entraîneur China Lanzmann recommande d'éviter les jambes \"cow-boy\". Cette position peut en réalité refléter une impression d'arrogance, qui est rarement bien accueillie par le public.",
+            "tips": "Un autre piège à éviter, selon Béatrice Toulon, conseillère en communication, le fait de sauter, ce qui donne une impression d’instabilité.",
+            "clue": "N'en fais pas trop.",
+            "choice_EyjiG0if~": "Avoir les pieds écartés",
+            "choice_4yGnMRizZ": "Mains ouvertes",
+            "choice_E1qnMCoMW": "Avoir les jambes écartées \"au cow-boy\""
+        },
+        "en": {
+            "header": "Which of these positions should be avoided?",
+            "explanation": "Select the correct answer.",
+            "klf": "Coach China Lanzmann advises to avoid \"cowboy\" legs. This position may actually reflect an impression of arrogance, which is rarely well received by an audience.",
+            "tips": "Another pitfall to avoid, according to communication advisor Béatrice Toulon, jumping, which gives a sense of instability.",
+            "clue": "Do not overdo it.",
+            "choice_EyjiG0if~": "To have your feet apart",
+            "choice_4yGnMRizZ": "Open hands",
+            "choice_E1qnMCoMW": "Having your legs apart \"to the cowboy\""
+        },
+        "de": {
+            "header": "Welche dieser Positionen sollte vermieden werden?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Coach China Lanzmann rät, \"Cowboy\" -Beinen zu vermeiden. Diese Position spiegelt möglicherweise einen Eindruck von Arroganz wider, der von einem Publikum selten gut angenommen wird.",
+            "tips": "Eine weitere Fallstricke, die laut Kommunikationsberater Béatrice Toulon das Springen vermeiden sollte, was ein Gefühl der Instabilität vermittelt.",
+            "clue": "Übertreibe es nicht.",
+            "choice_EyjiG0if~": "Um die Füße auseinander zu halten",
+            "choice_4yGnMRizZ": "Hände öffnen",
+            "choice_E1qnMCoMW": "Mit den Beinen \"zum Cowboy\""
+        },
+        "es": {
+            "header": "Laquelle de ces positions est à éviter ?",
+            "explanation": "Select the correct answer.",
+            "klf": "La coach Chine Lanzmann conseille d'éviter les jambes \"à la cowboy\". Cette position peut effectivement renvoyer une impression d'arrogance, ce qui est rarement bien perçu par un auditoire.",
+            "tips": "Autre écueil à éviter, selon la conseillère en communication Béatrice Toulon, le sautillement, qui donne un sentiment d'instabilité.",
+            "choice_EyjiG0if~": "Avoir les pieds écartés",
+            "choice_4yGnMRizZ": "Ouvrir les mains",
+            "choice_E1qnMCoMW": "Avoir les jambes écartées \"à la cowboy\"",
+            "clue": "Ne pas en faire trop."
+        },
+        "zh": {
+            "header": "应该避免哪些职位？",
+            "explanation": "选择正确的答案。",
+            "klf": "教练中国兰兹曼建议避免“牛仔”腿。这种立场实际上可能反映出一种傲慢的印象，这种印象很少受到观众的欢迎。",
+            "tips": "根据沟通顾问BéatriceToulon的说法，要避免的另一个陷阱是跳跃，这给人一种不稳定感。",
+            "clue": "不要过头了。",
+            "choice_EyjiG0if~": "让你的双脚分开",
+            "choice_4yGnMRizZ": "张开双手",
+            "choice_E1qnMCoMW": "将你的双腿分开“对牛仔”"
+        }
+    }
+}

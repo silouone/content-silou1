@@ -1,0 +1,103 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T13:04:49.697Z",
+            "updatedAt": "2018-10-08T14:53:28.643Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkWVa8BXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VkOyMBpES",
+        "universalRef": "sli_VkOyMBpES",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkOyMBpES.choice_E1XPb0XSS.id",
+                        "label": "choice_E1XPb0XSS",
+                        "value": "choice_E1XPb0XSS"
+                    },
+                    {
+                        "id": "sli_VkOyMBpES.choice_4kIPZ0Xrr.id",
+                        "label": "choice_4kIPZ0Xrr",
+                        "value": "choice_4kIPZ0Xrr"
+                    },
+                    {
+                        "id": "sli_VkOyMBpES.choice_NyJOZCmHS.id",
+                        "label": "choice_NyJOZCmHS",
+                        "value": "choice_NyJOZCmHS"
+                    },
+                    {
+                        "id": "sli_VkOyMBpES.choice_4kiOW0QSr.id",
+                        "label": "choice_4kiOW0QSr",
+                        "value": "choice_4kiOW0QSr"
+                    },
+                    {
+                        "id": "sli_VkOyMBpES.choice_Eyq5WRmHr.id",
+                        "label": "choice_Eyq5WRmHr",
+                        "value": "choice_Eyq5WRmHr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kiOW0QSr",
+                        "choice_4kIPZ0Xrr",
+                        "choice_NyJOZCmHS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles sont les bénéfices majeurs du Kanban ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous pouvez utiliser votre kanban non seulement pour visualiser l'avancement de vos tâches mais aussi de vos projets collaboratifs. Par ailleurs, cette méthode impulse une énergie ludique à la gestion de vos projets.",
+            "tips": "Le Kanban engage à l’action grâce à son usage de la dimension kinesthésique. En déplaçant les Post-it, nous devenons actifs, et ce début d’action nous engage à réaliser les tâches matérialisées par les Post-it en question.",
+            "clue": "Pour les nouvelles idées, il vous suffit de brainstormer !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1XPb0XSS": "Réaliser plus de tâches plus rapidement",
+            "choice_4kIPZ0Xrr": "Visualiser sa charge de travail",
+            "choice_NyJOZCmHS": "Gérer ses projets de façon dynamique et ludique",
+            "choice_4kiOW0QSr": "Partager l'avancement d'un projet avec son équipe",
+            "choice_Eyq5WRmHr": "Générer de nouvelles idées",
+            "choice_Vy7oWR7HS": "visualiser l'avancement des projets"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "What are the main benefits of Kanban?",
+            "klf": "A Kanban board can be used to help you visualise your own tasks as well as collaborative projects. Kanban can even make project management a bit more energetic and fun.",
+            "tips": "It’s the system’s kinaesthetic (physical and tactile) component that encourages activity and progress. We first become active by moving around the Post-it notes. This initial action drives us to achieve the tasks we are moving. And each task has a tangible form from the get-go: the Post-it notes in question.",
+            "clue": "To generate ideas, you just need to have a brainstorming session!",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1XPb0XSS": "Achieving more tasks more rapidly",
+            "choice_4kIPZ0Xrr": "Visualising your workload",
+            "choice_NyJOZCmHS": "Managing projects in an energetic, fun way",
+            "choice_4kiOW0QSr": "Sharing the progress of a project with your team",
+            "choice_Eyq5WRmHr": "Generating new ideas",
+            "choice_Vy7oWR7HS": "visualiser l'avancement des projets"
+        }
+    }
+}

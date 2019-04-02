@@ -1,0 +1,109 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:45:42.047Z",
+            "updatedAt": "2017-12-01T16:35:19.208Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VkfpZRQ3e",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_VkfpZRQ3e.field_N1rGGCX3l.id",
+                        "type": "text",
+                        "name": "inp18818",
+                        "label": "label_EygrMMCQ2x",
+                        "placeholder": "placeholder_Vk~SfGCm2x"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp18818",
+                        "answers": [
+                            "choice_VJfSMG072e"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_VkfpZRQ3e"
+    },
+    "locales": {
+        "fr": {
+            "header": "Par quel indicateur la mesure de l'intelligence émotionnelle est-elle donnée?",
+            "explanation": "Entrez votre réponse.",
+            "klf": "L'intelligence émotionnelle serait mesurée par le \"quotient émotionnel\", comme le quotient intellectuel. Ce dernier est souvent mis en cause car il ne prend pas en compte l'adaptabilité, l'initiative ou la confiance en soi.",
+            "tips": "Le terme quotient intellectuel a été inventé en 1912 par le psychologue allemand William Stern.",
+            "clue": "Quant à l'intellect.",
+            "template": "L'émotionnel {{inp18818}}.",
+            "label_EygrMMCQ2x": " ",
+            "choice_VJfSMG072e": "quotient",
+            "placeholder_Vk~SfGCm2x": " "
+        },
+        "en": {
+            "header": "By which indicator is the measure of emotional intelligence given?",
+            "explanation": "Enter your answer.",
+            "klf": "Emotional intelligence would be measured by the \"emotional quotient\", like the intelligence quotient. The latter is often questioned because it does not take into account adaptability, initiative or self-confidence.",
+            "tips": "The term intelligence quotient was coined in 1912 by the German psychologist William Stern.",
+            "clue": "As for the intellect.",
+            "template": "The emotional {{inp18818}}.",
+            "label_EygrMMCQ2x": " ",
+            "choice_VJfSMG072e": "quotient",
+            "placeholder_Vk~SfGCm2x": " "
+        },
+        "de": {
+            "header": "Durch welchen Indikator wird das Maß der emotionalen Intelligenz angegeben?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Emotionale Intelligenz wird wie der Intelligenzquotient anhand des \"emotionalen Quotienten\" gemessen. Letzteres wird oft in Frage gestellt, weil Anpassungsfähigkeit, Initiative oder Selbstvertrauen nicht berücksichtigt werden.",
+            "tips": "Der Begriff Intelligenzquotient wurde 1912 vom deutschen Psychologen William Stern geprägt.",
+            "clue": "Wie für den Intellekt.",
+            "template": "Die emotionale {{inp18818}}.",
+            "label_EygrMMCQ2x": " ",
+            "choice_VJfSMG072e": "Quotient",
+            "placeholder_Vk~SfGCm2x": " "
+        },
+        "es": {
+            "header": "What indicator measures emotional intelligence?",
+            "explanation": "Type your answer (one word).",
+            "klf": "Emotional intelligence is measured by the \"emotional quotient\", just like the intellectual quotient. The latter is often questioned since it does not take into account adaptability, taking initiative or self-confidence.",
+            "tips": "The term intellectual quotient was invented in 1912 by the German psychologist William Stern.",
+            "template": "The emotional {{inp18818}}",
+            "label_EygrMMCQ2x": " ",
+            "placeholder_Vk~SfGCm2x": " ",
+            "choice_VJfSMG072e": "quotient",
+            "clue": "Same as for the intellect."
+        },
+        "zh": {
+            "header": "什么指标衡量情商？",
+            "explanation": "输入你的答案（一个字）。",
+            "klf": "情绪智力是通过“情商”来衡量的，就像智商一样。后者经常受到质疑，因为它没有考虑适应性，主动性或自信心。",
+            "tips": "智商这一术语于1912年由德国心理学家威廉斯特恩发明。",
+            "clue": "与智力相同。",
+            "template": "情绪{{inp18818}}",
+            "label_EygrMMCQ2x": " ",
+            "choice_VJfSMG072e": "商",
+            "placeholder_Vk~SfGCm2x": " "
+        }
+    }
+}

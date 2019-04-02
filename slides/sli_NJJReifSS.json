@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T14:51:01.637Z",
+            "updatedAt": "2018-10-08T15:18:17.015Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJJReifSS",
+        "universalRef": "sli_NJJReifSS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel99437",
+                        "items": [
+                            {
+                                "text": "choice_4Je-9pNyDH",
+                                "value": "choice_4Je-9pNyDH"
+                            },
+                            {
+                                "text": "choice_EJZO9pNJDr",
+                                "value": "choice_EJZO9pNJDr"
+                            },
+                            {
+                                "text": "choice_Ey-iaVkPH",
+                                "value": "choice_Ey-iaVkPH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel99437",
+                        "answers": [
+                            "choice_Ey-iaVkPH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelle est la condition essentielle pour rendre les outils digitaux productifs ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les outils digitaux favorisent indéniablement la productivité, lorsque nous les mettons au service de nos objectifs précis. Le tout est d'arriver à limiter leur utilisation à une durée corrélée à ces objectifs.",
+            "tips": "Selon une étude menée par l’agence Qapa.fr en 2016, 42 % des professionnels regardent leurs emails professionnels plusieurs fois par jour pendant les vacances, devant d’autres, plus mesurés, qui ne les lisent que quotidiennement (33 %) et ceux qui se contentent de le faire de façon hebdomadaire (8 %).",
+            "clue": "La fin justifie les moyens.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour rendre les outils digitaux productifs, il est conseillé de {{sel99437}}.",
+            "choice_4Je-9pNyDH": "les consulter le plus souvent possible",
+            "choice_EJZO9pNJDr": "ne les utiliser que pour des objectifs personnels",
+            "choice_Ey-iaVkPH": "les mettre au service d’objectifs précis"
+        },
+        "en": {
+            "explanation": "Select the right answer from the drop-down menu.",
+            "header": "What’s the best way to make digital tools productive?",
+            "klf": "There’s no doubting the fact that digital tools boost productivity when we use them with specific objectives in mind. The trick is to set a limited period of time for consulting digital tools, and that time period should be line with your objectives.",
+            "tips": "According to a 2016 study by recruitment agency, Qapa.fr, 42% of professionals look at their work emails several times a day during holidays. Others, who are more moderate, only read them once a day (33%), and a small percentage is happy to read them weekly (8%).",
+            "clue": "The end justifies the means.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "To make digital tools productive, you should {{sel99437}}.",
+            "choice_4Je-9pNyDH": "check them as often as possible",
+            "choice_EJZO9pNJDr": "only use them for personal reasons",
+            "choice_Ey-iaVkPH": "use them for specific purposes"
+        }
+    }
+}

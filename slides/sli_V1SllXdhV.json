@@ -1,0 +1,131 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-24T13:32:07.457Z",
+            "updatedAt": "2018-06-22T12:36:35.211Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1SllXdhV",
+        "universalRef": "sli_V1SllXdhV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1SllXdhV.choice_EyVpgX-2V.id",
+                        "label": "choice_EyVpgX-2V",
+                        "value": "choice_EyVpgX-2V"
+                    },
+                    {
+                        "id": "sli_V1SllXdhV.choice_EykRgmd2N.id",
+                        "label": "choice_EykRgmd2N",
+                        "value": "choice_EykRgmd2N"
+                    },
+                    {
+                        "id": "sli_V1SllXdhV.choice_Vk7AxQ-n4.id",
+                        "label": "choice_Vk7AxQ-n4",
+                        "value": "choice_Vk7AxQ-n4"
+                    },
+                    {
+                        "id": "sli_V1SllXdhV.choice_N1IRxQu2V.id",
+                        "label": "choice_N1IRxQu2V",
+                        "value": "choice_N1IRxQu2V"
+                    },
+                    {
+                        "id": "sli_V1SllXdhV.choice_VksCeX-nN.id",
+                        "label": "choice_VksCeX-nN",
+                        "value": "choice_VksCeX-nN"
+                    },
+                    {
+                        "id": "sli_V1SllXdhV.choice_EkxJ~Qu24.id",
+                        "label": "choice_EkxJ~Qu24",
+                        "value": "choice_EkxJ~Qu24"
+                    },
+                    {
+                        "id": "sli_V1SllXdhV.choice_N1HkbQ-24.id",
+                        "label": "choice_N1HkbQ-24",
+                        "value": "choice_N1HkbQ-24"
+                    },
+                    {
+                        "id": "sli_V1SllXdhV.choice_V18fpQ00V.id",
+                        "label": "choice_V18fpQ00V",
+                        "value": "choice_V18fpQ00V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyVpgX-2V",
+                        "choice_EykRgmd2N",
+                        "choice_Vk7AxQ-n4",
+                        "choice_N1IRxQu2V",
+                        "choice_VksCeX-nN",
+                        "choice_EkxJ~Qu24",
+                        "choice_N1HkbQ-24",
+                        "choice_V18fpQ00V"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "À quelles questions correspond l’acronyme QQOQCCPP utilisé pour faire le tour d’un sujet?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La méthode QQOQCCPP vous permettra d'aborder votre sujet sous les angles suivants : qui ? quoi ? où ? quand ? comment ? combien ? pourquoi ? pour quoi ?",
+            "tips": "Le QQOQCCPP est utilisé non seulement en démarche qualité mais aussi en journalisme. Cette méthode est ainsi associée aux \"cinq règles fondamentales du reportage\" mises en évidence par le journalisme américain du début du xx<sup>e</sup> siècle.",
+            "clue": "8 à Huit.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVpgX-2V": "qui ?",
+            "choice_4yoTxQu2E": "quantité ?",
+            "choice_EykRgmd2N": "quoi ?",
+            "choice_Vk7AxQ-n4": "quand ?",
+            "choice_N1IRxQu2V": "comment ?",
+            "choice_VksCeX-nN": "combien ?",
+            "choice_EkxJ~Qu24": "pourquoi ?",
+            "choice_N1HkbQ-24": "pour quoi ?",
+            "choice_N1Yc5W004": "où ?",
+            "choice_V18fpQ00V": "où ?"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "What words does the W stand for in the “Five W’s” technique for covering every aspect of an issue?",
+            "klf": "The Five W’s method helps you to tackle your subject from the angles of who, what, where, when and why. (We might also add to this “how much” and “what for”.)",
+            "tips": "The Five W’s are not just used for quality control purposes – journalists also use this technique in their work. They are therefore often associated with the “five golden rules for reporters” used in American journalism at the start of the 20<sup>th</sup> century.",
+            "clue": "Quintilian’s method",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVpgX-2V": "who?",
+            "choice_4yoTxQu2E": "quantité ?",
+            "choice_EykRgmd2N": "what?",
+            "choice_Vk7AxQ-n4": "when?",
+            "choice_N1IRxQu2V": "how?",
+            "choice_VksCeX-nN": "how much?",
+            "choice_EkxJ~Qu24": "why?",
+            "choice_N1HkbQ-24": "what for?",
+            "choice_N1Yc5W004": "où ?",
+            "choice_V18fpQ00V": "where?"
+        }
+    }
+}

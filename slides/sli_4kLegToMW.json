@@ -1,0 +1,129 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-05-23T09:45:42.970Z",
+            "updatedAt": "2016-08-23T13:26:02.299Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yQa9hiG~"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Margaux-Schmitt",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4kLegToMW",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kLegToMW.choice_V1hExTofZ.id",
+                        "label": "choice_V1hExTofZ",
+                        "value": "choice_V1hExTofZ"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_NymrepjM~.id",
+                        "label": "choice_NymrepjM~",
+                        "value": "choice_NymrepjM~"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_Vk5Sx6oGZ.id",
+                        "label": "choice_Vk5Sx6oGZ",
+                        "value": "choice_Vk5Sx6oGZ"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_EkeUg6jM~.id",
+                        "label": "choice_EkeUg6jM~",
+                        "value": "choice_EkeUg6jM~"
+                    },
+                    {
+                        "id": "sli_4kLegToMW.choice_VydUg6izb.id",
+                        "label": "choice_VydUg6izb",
+                        "value": "choice_VydUg6izb"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NymrepjM~",
+                        "choice_Vk5Sx6oGZ"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_4kLegToMW"
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour parler à un public, la position idéale consiste à avoir les pieds bien ancrés au sol. Pourquoi ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "En ce qui concerne le public, l’idéal est d’avoir les pieds sur terre. En effet, cela donne une image de force et de confiance.",
+            "tips": "Selon Béatrice Toulon, journaliste et formatrice en communication, \"le charisme est aussi une histoire de posture\".",
+            "clue": "Force et robustesse.",
+            "choice_V1hExTofZ": "Cela permet de dominer le public",
+            "choice_NymrepjM~": "Ça donne une image de solidité",
+            "choice_Vk5Sx6oGZ": "Cela donne une image de confiance",
+            "choice_EkeUg6jM~": "Il oblige les gens à regarder l'orateur",
+            "choice_VydUg6izb": "Elle est moins fatigante"
+        },
+        "en": {
+            "header": "The ideal position when speaking to an audience is to have both feet anchored to the floor. Why ?",
+            "explanation": "Select the correct answers.",
+            "klf": "When it comes to an audience, the ideal is to have both feet firmly on the ground. Indeed, it gives an image of strength and confidence.",
+            "tips": "According to journalist and communication trainer Béatrice Toulon, \"charisma is also a story of posture\".",
+            "clue": "Strength and robustness.",
+            "choice_V1hExTofZ": "It allows to dominate the audience",
+            "choice_NymrepjM~": "It gives an image of solidity",
+            "choice_Vk5Sx6oGZ": "It gives a picture of trust",
+            "choice_EkeUg6jM~": "It forces people to look at the speaker",
+            "choice_VydUg6izb": "She is less tiring"
+        },
+        "de": {
+            "header": "Wenn Sie mit einem Publikum sprechen, ist es ideal, wenn Sie beide Füße am Boden verankern. Warum ?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Wenn es um ein Publikum geht, ist es ideal, beide Füße fest auf dem Boden zu haben. In der Tat gibt es ein Bild von Stärke und Vertrauen.",
+            "tips": "Laut dem Journalisten und Kommunikationstrainer Béatrice Toulon \"ist Charisma auch eine Geschichte der Haltung\".",
+            "clue": "Stärke und Robustheit.",
+            "choice_V1hExTofZ": "Es erlaubt das Publikum zu dominieren",
+            "choice_NymrepjM~": "Es gibt ein Bild von Solidität",
+            "choice_Vk5Sx6oGZ": "Es gibt ein Bild des Vertrauens",
+            "choice_EkeUg6jM~": "Es zwingt die Menschen, den Sprecher anzusehen",
+            "choice_VydUg6izb": "Sie ist weniger anstrengend"
+        },
+        "es": {
+            "header": "The ideal position when speaking to an audience is to have both feet firmly on the ground. Why?",
+            "explanation": "Select the correct answers.",
+            "klf": "When appearing before an audience, the ideal is to have both feet firmly on the ground. This gives an image of strength and confidence.",
+            "tips": "According to journalist and trainer in communication Béatrice Toulon, \"charisma is also about posture.\"",
+            "choice_V1hExTofZ": "It allows you to dominate the audience.",
+            "choice_NymrepjM~": "It reflects an image of solidity.",
+            "choice_Vk5Sx6oGZ": "It reflects an image of confidence.",
+            "choice_EkeUg6jM~": "It forces people to look at the speaker.",
+            "choice_VydUg6izb": "It is less tiring.",
+            "clue": "Strength and robustness."
+        },
+        "zh": {
+            "header": "与观众交谈时的理想位置是双脚坚定地站在地面上。为什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "当出现在观众面前时，理想的是将双脚牢牢地放在地上。这给出了力量和自信的形象。",
+            "tips": "根据BéatriceToulon传播的记者和培训师的说法，“魅力也与姿势有关。”",
+            "clue": "力量和稳健性。",
+            "choice_V1hExTofZ": "它可以让你主宰观众。",
+            "choice_NymrepjM~": "它反映了一种坚固的形象。",
+            "choice_Vk5Sx6oGZ": "它反映了一种信心的形象。",
+            "choice_EkeUg6jM~": "它迫使人们看着演讲者。",
+            "choice_VydUg6izb": "它不那么累人了。"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-24T13:01:57.156Z",
+            "updatedAt": "2018-06-22T12:28:03.417Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3~0-V54"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vka3-Mdh4",
+        "universalRef": "sli_Vka3-Mdh4",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vka3-Mdh4.choice_EJaHYGdh4.id",
+                        "label": "choice_EJaHYGdh4",
+                        "value": "choice_EJaHYGdh4"
+                    },
+                    {
+                        "id": "sli_Vka3-Mdh4.choice_E11FKfdh4.id",
+                        "label": "choice_E11FKfdh4",
+                        "value": "choice_E11FKfdh4"
+                    },
+                    {
+                        "id": "sli_Vka3-Mdh4.choice_4yejtfO2V.id",
+                        "label": "choice_4yejtfO2V",
+                        "value": "choice_4yejtfO2V"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJaHYGdh4"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "En quoi consiste un brainstorming ?",
+            "explanation": "Sélectionnez la (les) bonne(s) réponse(s).",
+            "klf": "Le brainstorming est une technique qui permet de formuler un grand nombre d’idées en un temps réduit, en suivant une logique associative et sans censure.",
+            "tips": "Le mot \"brainstorming\" vient de \"brain\", cerveau, et de \"storming\", la prise d'assaut d'une position militaire par un commando ou un ensemble de combattants. Alex Osborn, le publicitaire américain à l'origine de cette technique, explique que le brainstorming correspond à l'attaque d'un problème dans le style d'un commando.",
+            "clue": "Il est interdit d’interdire.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJaHYGdh4": "Générer un maximum d’idées sans censure ",
+            "choice_E11FKfdh4": "S'échauffer avant de trouver de vraies solutions aux problèmes rencontrés",
+            "choice_4yejtfO2V": "Générer peu d’idées mais des bonnes"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "What does brainstorming involve?",
+            "klf": "Brainstorming is a technique that let you formulate lots of ideas in a short space of time by associating concepts and banishing all boundaries.",
+            "tips": "The “storm” in “brainstorming” actually refers not to a meteorological event but the storming of the enemy’s position by a group of combatants. Alex Osborn explained that brainstorming means attacking a problem commando-style.",
+            "clue": "The only rule is that there are no rules.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJaHYGdh4": "Generating as many ideas as you can, no holds barred ",
+            "choice_E11FKfdh4": "It’s a way of warming up before you start to really tackle a problem",
+            "choice_4yejtfO2V": "Generating a small number of really good ideas"
+        }
+    }
+}

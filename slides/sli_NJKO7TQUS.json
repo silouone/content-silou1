@@ -1,0 +1,112 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-20T15:29:44.056Z",
+            "updatedAt": "2018-08-24T15:14:11.921Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1VlRZYNr"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_NJKO7TQUS",
+        "universalRef": "sli_NJKO7TQUS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_NJKO7TQUS.field_41SpnpQIr.id",
+                        "type": "text",
+                        "name": "inp44673"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp44673",
+                        "answers": [
+                            "choice_VkGB6npQ8S"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "A VOIR Quel est le grand principe qui est appliqué lorsque l'on met tout en œuvre pour permettre au client d'acheter depuis son portable ?",
+            "explanation": "Saisissez votre réponse ou sélectionnez la bonne réponse dans le(s) menu(s) déroulant(s).",
+            "klf": "Permettre au client d'acheter directement depuis son portable, c'est faire le jeu du « mobile first », indissociable des logiques du social commerce.",
+            "tips": "En choisissant des outils qui favorisent l’achat direct, on élimine un risque : celui de perdre le client à cause d’une plateforme de paiement qui ne fonctionne plus ou qui n’inspire pas confiance.",
+            "clue": "Mouvement.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Permettre au client d'acheter directement depuis son portable, c'est faire le jeu du « {{inp44673}} first ».",
+            "choice_VkGB6npQ8S": "mobile"
+        },
+        "en": {
+            "header": "SEE What is the main principle that is applied when everything is done to allow the customer to buy from his mobile?",
+            "explanation": "Enter your answer or select the correct answer in the drop-down menu (s).",
+            "klf": "Allowing the customer to buy directly from their mobile phone is the game of \"mobile first\", inseparable from the logic of social commerce.",
+            "tips": "By choosing tools that favor direct purchase, we eliminate a risk: that of losing the customer because of a payment platform that no longer works or that does not inspire confidence.",
+            "clue": "Movement.",
+            "template": "Allowing the customer to buy directly from their mobile phone is the game of \"{{inp44673}} first\".",
+            "choice_VkGB6npQ8S": "mobile",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "SEE Was ist das Hauptprinzip, das angewendet wird, wenn der Kunde über sein Handy kaufen kann?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Wenn der Kunde direkt von seinem Handy kaufen kann, ist das Spiel \"mobile first\" untrennbar mit der Logik des Social Commerce verbunden.",
+            "tips": "Durch die Wahl von Tools, die den Direktkauf bevorzugen, vermeiden wir ein Risiko: den Verlust des Kunden aufgrund einer Zahlungsplattform, die nicht mehr funktioniert oder die kein Vertrauen schafft.",
+            "clue": "Bewegung.",
+            "template": "Wenn der Kunde direkt von seinem Handy kaufen kann, ist das Spiel \"{{inp44673}} zuerst\".",
+            "choice_VkGB6npQ8S": "Handy, Mobiltelefon",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "es": {
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "header": "A VOIR Quel est le grand principe qui est appliqué lorsque l'on met tout en œuvre pour permettre au client d'acheter depuis son portable ?",
+            "klf": "Permettre au client d'acheter directement depuis son portable, c'est faire le jeu du « mobile first », indissociable des logiques du social commerce.",
+            "tips": "En choisissant des outils qui favorisent l’achat direct, on élimine un risque : celui de perdre le client à cause d’une plateforme de paiement qui ne fonctionne plus ou qui n’inspire pas confiance.",
+            "clue": "Mouvement.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Permettre au client d'acheter directement depuis son portable, c'est faire le jeu du « {{inp44673}} first ».",
+            "choice_VkGB6npQ8S": "mobile"
+        },
+        "zh": {
+            "header": "SEE当完成所有操作以允许客户从他的手机购买时，应用的主要原则是什么？",
+            "explanation": "输入您的答案或在下拉菜单中选择正确的答案。",
+            "klf": "允许客户直接从他们的手机购买是“移动优先”的游戏，与社交商务的逻辑密不可分。",
+            "tips": "通过选择有利于直接购买的工具，我们消除了一种风险：由于支付平台不再有效或不能激发信心而失去客户。",
+            "clue": "运动。",
+            "template": "允许客户直接从他们的手机购买是“{{inp44673}}首先”的游戏。",
+            "choice_VkGB6npQ8S": "移动",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        }
+    }
+}

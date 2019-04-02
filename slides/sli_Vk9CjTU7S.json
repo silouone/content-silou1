@@ -1,0 +1,132 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-07-17T12:12:14.564Z",
+            "updatedAt": "2018-10-18T14:34:39.037Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_Vk9CjTU7S",
+        "universalRef": "sli_Vk9CjTU7S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_Vk9CjTU7S.field_N10n22GrB.id",
+                        "type": "text",
+                        "name": "inp95455"
+                    },
+                    {
+                        "id": "sli_Vk9CjTU7S.field_41~A33MSr.id",
+                        "type": "text",
+                        "name": "inp92402"
+                    },
+                    {
+                        "id": "sli_Vk9CjTU7S.field_4ysAn3zHH.id",
+                        "type": "text",
+                        "name": "inp63169"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp95455",
+                        "answers": [
+                            "choice_4JG0222MHH",
+                            "choice_EJV~T2MHS",
+                            "choice_V1r-iXWjB",
+                            "choice_4k3-jXZir"
+                        ]
+                    },
+                    {
+                        "fieldName": "inp92402",
+                        "answers": [
+                            "choice_VyG~Rn3Mrr",
+                            "choice_EkSzp2fHr",
+                            "choice_4kDssXWjH",
+                            "choice_N10ism~sH"
+                        ]
+                    },
+                    {
+                        "fieldName": "inp63169",
+                        "answers": [
+                            "choice_E1zoA2nfSH",
+                            "choice_V1IndFZir",
+                            "choice_Nk5n-t~jB"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Compléter cette phrase avec les termes correspondants suivants : \"prend plus de deux minutes\" ; \"comporte plusieurs tâches\" ; \"prend moins de deux minutes\".",
+            "explanation": "Complétez chaque blanc avec la bonne réponse.",
+            "klf": "Si votre action prend moins de deux minutes, vous pourrez vous en débarrasser rapidement en l'effectuant immédiatement. En revanche, si elle est plus longue, n'hésitez pas à la déléguer ou à la placer dans un dossier \"À faire\" dont vous échelonnerez la réalisation. Enfin, si l'action comporte plusieurs tâches, cela lui donnera davantage de sens de la transformer en projet.",
+            "tips": "De nombreuses personnes utilisent le mind mapping pour appliquer la méthode GTD. En effet, le mind mapping offre la possibilité de découper facilement un projet en tâches élémentaires.",
+            "clue": "Graduation temporelle logique.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Selon la méthode Getting Things Done, lorsque les tâches de sa to-do list peuvent être associées à des actions concrètes, il faut déterminer quelles sont ces actions concrètes à entreprendre. Si l'action {{inp95455}}, il faut l'effectuer immédiatement. Si elle {{inp92402}}, il vaudra mieux la déléguer ou la placer dans un dossier \"À faire\". Si l'action {{inp63169}}, autant la transformer en projet.",
+            "choice_N1lD1nT8QB": "moins 2 minutes",
+            "choice_NJ~w1hp8mH": "moins 15 min",
+            "choice_4JKgh6IXH": "plus de 2 minutes",
+            "choice_4JG0222MHH": "prend moins de deux minutes",
+            "choice_VyG~Rn3Mrr": "prend plus de deux minutes",
+            "choice_E1zoA2nfSH": "comporte plusieurs tâches",
+            "choice_EJV~T2MHS": "prend moins de 2 minutes",
+            "choice_EkSzp2fHr": "prend plus de 2 minutes",
+            "choice_V1r-iXWjB": "prend moins de 2mn",
+            "choice_4k3-jXZir": "prend moins de 2 min",
+            "choice_4kDssXWjH": "prend plus de 2mn",
+            "choice_N10ism~sH": "prend plus de 2 min",
+            "choice_V1IndFZir": "inclut différentes tâches",
+            "choice_Nk5n-t~jB": "comprend plusieurs tâches"
+        },
+        "en": {
+            "explanation": "Fill in each blank with the correct answer.",
+            "header": "Complete the following text using the right phrase in the right place: “takes more than two minutes”; “incorporates several different tasks”; “takes less than two minutes”.",
+            "klf": "If an action is going to take less than two minutes, do it immediately so you can get rid of it. However, if it’s going to take longer than that, either delegate it straight away or put it in a folder marked “To Do”, the contents of which should be spread out over a period of time. Finally, if the action point means several different tasks need to be carried out, then it would make sense to turn the action point into a project.",
+            "tips": "Many people integrate mind mapping into the GTD method. Mind mapping makes it easy to break up a project into straight-forward tasks.",
+            "clue": "Logical temporal graduation.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "According to the Getting Things Done method, when there are items on your To Do list that are linked to concrete action points, you need to work out how to deal with each of those action points. If you think the action {{inp95455}}, you should do it immediately. If it {{inp92402}}, it’s best to delegate that task or put it in a file marked “To Do”. If the action {{inp63169}}, it’s best to turn it into a project.",
+            "choice_N1lD1nT8QB": "moins 2 minutes",
+            "choice_NJ~w1hp8mH": "moins 15 min",
+            "choice_4JKgh6IXH": "plus de 2 minutes",
+            "choice_4JG0222MHH": "will take less than two minutes",
+            "choice_VyG~Rn3Mrr": "will take more than two minutes",
+            "choice_E1zoA2nfSH": "includes several different tasks",
+            "choice_EJV~T2MHS": "will take less than 2 minutes",
+            "choice_EkSzp2fHr": "will take more than 2 minutes",
+            "choice_V1r-iXWjB": "will take less than 2mn",
+            "choice_4k3-jXZir": "will take less than 2 min",
+            "choice_4kDssXWjH": "will take more than 2mn",
+            "choice_N10ism~sH": "will take more than 2 min",
+            "choice_V1IndFZir": "includes several tasks",
+            "choice_Nk5n-t~jB": "includes different tasks"
+        }
+    }
+}

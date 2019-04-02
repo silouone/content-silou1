@@ -1,0 +1,135 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T13:39:29.266Z",
+            "updatedAt": "2017-12-01T16:32:19.790Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkx-Cozql"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_4yUvRT73x",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel64420",
+                        "label": "label_EJxZgRXnl",
+                        "items": [
+                            {
+                                "text": "choice_NylgWgRQ3g",
+                                "value": "choice_NylgWgRQ3g"
+                            },
+                            {
+                                "text": "choice_V1~eWeRQhg",
+                                "value": "choice_V1~eWeRQhg"
+                            },
+                            {
+                                "text": "choice_NkQWg073l",
+                                "value": "choice_NkQWg073l"
+                            },
+                            {
+                                "text": "choice_VyNWeAX3x",
+                                "value": "choice_VyNWeAX3x"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel64420",
+                        "answers": [
+                            "choice_V1~eWeRQhg"
+                        ]
+                    }
+                ]
+            }
+        },
+        "universalRef": "sli_4yUvRT73x"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quand les premières études sur l'intelligence émotionnelle ont-elles été publiées?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Dans les années 1990, les psychologues Peter Salovey et John D. Mayer ont développé la notion d'intelligence émotionnelle. Il est ensuite popularisé par le journaliste et psychologue Daniel Goleman. Les différents textes soutiennent que notre succès dépend de notre intelligence émotionnelle plutôt que de notre expertise.",
+            "tips": "Avant ce travail, le psychologue Howard Gardner développait déjà la théorie des intelligences multiples (linguistique, interpersonnelle, spatiale, musicale ...).",
+            "clue": "Au vingtième siècle.",
+            "template": "Dans les années {{sel64420}}",
+            "label_EJxZgRXnl": " ",
+            "choice_NylgWgRQ3g": "1970",
+            "choice_V1~eWeRQhg": "1990",
+            "choice_NkQWg073l": "2000",
+            "choice_VyNWeAX3x": "2010"
+        },
+        "en": {
+            "header": "When did the first studies on emotional intelligence come up?",
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "klf": "In the 1990s, psychologists Peter Salovey and John D. Mayer developed the notion of emotional intelligence. It is then popularized by journalist and psychologist Daniel Goleman. The various texts argue that our success depends on our emotional intelligence rather than our expertise.",
+            "tips": "Before this work, the psychologist Howard Gardner was already developing the theory of multiple intelligences (linguistics, interpersonal, spatial, musical ...).",
+            "clue": "In the twentieth century.",
+            "template": "In the years {{sel64420}}",
+            "label_EJxZgRXnl": " ",
+            "choice_NylgWgRQ3g": "1970",
+            "choice_V1~eWeRQhg": "1990",
+            "choice_NkQWg073l": "2000",
+            "choice_VyNWeAX3x": "2010"
+        },
+        "de": {
+            "header": "Wann entstanden die ersten Studien zur emotionalen Intelligenz?",
+            "explanation": "Wählen Sie die richtige Antwort aus dem Dropdown-Menü.",
+            "klf": "In den 1990er Jahren entwickelten die Psychologen Peter Salovey und John D. Mayer den Begriff der emotionalen Intelligenz. Es wird dann von dem Journalisten und Psychologen Daniel Goleman populär gemacht. Die verschiedenen Texte argumentieren, dass unser Erfolg von unserer emotionalen Intelligenz und nicht von unserer Expertise abhängt.",
+            "tips": "Vor dieser Arbeit entwickelte der Psychologe Howard Gardner bereits die Theorie der multiplen Intelligenzen (Linguistik, zwischenmenschliche, räumliche, musikalische ...).",
+            "clue": "Im zwanzigsten Jahrhundert.",
+            "template": "In den Jahren {{sel64420}}",
+            "label_EJxZgRXnl": " ",
+            "choice_NylgWgRQ3g": "1970",
+            "choice_V1~eWeRQhg": "1990",
+            "choice_NkQWg073l": "2000",
+            "choice_VyNWeAX3x": "2010"
+        },
+        "es": {
+            "header": "When do the first studies on emotional intelligence date back to? ",
+            "explanation": "Select the correct answer in the drop-down menu.",
+            "klf": "In the 1990s, psychologists Peter Salovey and John D. Mayer developed the concept of emotional intelligence. It was then popularised by the journalist and psychologist Daniel Goleman. Different texts suggest that our success depends on our emotional intelligence rather than our expertise.",
+            "tips": "Prior to this work, the psychologist Howard Gardner had already developed the theory of multiple intelligences (linguistic, interpersonal, spatial, musical, etc.).",
+            "template": "To the {{sel64420}}",
+            "label_EJxZgRXnl": " ",
+            "choice_NylgWgRQ3g": "1970s",
+            "choice_V1~eWeRQhg": "1990s",
+            "choice_NkQWg073l": "2000s",
+            "choice_VyNWeAX3x": "2010s",
+            "clue": "In the 20th century."
+        },
+        "zh": {
+            "header": "关于情绪智力的第一次研究何时可以追溯到？",
+            "explanation": "在下拉菜单中选择正确的答案。",
+            "klf": "在20世纪90年代，心理学家Peter Salovey和John D. Mayer发展了情商的概念。然后由记者和心理学家Daniel Goleman推广。不同的文本表明我们的成功取决于我们的情商而不是我们的专业知识。",
+            "tips": "在这项工作之前，心理学家霍华德加德纳已经发展了多元智能理论（语言，人际关系，空间，音乐等）。",
+            "clue": "在20世纪。",
+            "template": "致{{sel64420}}",
+            "label_EJxZgRXnl": " ",
+            "choice_NylgWgRQ3g": "20世纪70年代",
+            "choice_V1~eWeRQhg": "20世纪90年代",
+            "choice_NkQWg073l": "2000年",
+            "choice_VyNWeAX3x": "2010年代"
+        }
+    }
+}

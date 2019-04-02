@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T06:54:53.351Z",
+            "updatedAt": "2018-10-17T12:16:27.101Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOeqY9Vr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_4yh-mhcYS",
+        "universalRef": "sli_4yh-mhcYS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel35313",
+                        "items": [
+                            {
+                                "text": "choice_4JeucyoH9r",
+                                "value": "choice_4JeucyoH9r"
+                            },
+                            {
+                                "text": "choice_4k~O9kiH5S",
+                                "value": "choice_4k~O9kiH5S"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel35313",
+                        "answers": [
+                            "choice_4JeucyoH9r"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Complétez la phrase suivante.",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les critères de qualification varient d’une entreprise à l'autre et dépendent souvent d’un grand nombre de critères : profil et comportement des contacts ciblés, profil des entreprises ciblés… Si commerciaux et marketeurs ne partagent pas les mêmes critères de qualification, il leur sera difficile d’être performants.",
+            "tips": "La définition et les critères d'un MQL (marketing qualifier lead) sont très importants. En effet, une fois qu’un lead est considéré comme qualifié par le marketing, il sera transmis aux commerciaux.",
+            "clue": "Une bonne communication est essentielle.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour être performantes, les équipes marketing et vente doivent {{sel35313}}.",
+            "choice_4JeucyoH9r": "parler le même langage",
+            "choice_4k~O9kiH5S": "garder chacune leur terminologie"
+        },
+        "en": {
+            "header": "Complétez la phrase suivante.",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les critères de qualification varient d’une entreprise à lautre et dépendent souvent d’un grand nombre de critères : profil et comportement des contacts ciblés, profil des entreprises ciblés… Si commerciaux et marketeurs ne partagent pas les mêmes critères de qualification, il leur sera difficile d’être performants.",
+            "tips": "La définition et les critères dun MQL (marketing qualifier lead) sont très importants. En effet, une fois qu’un lead est considéré comme qualifié par le marketing, il sera transmis aux commerciaux.",
+            "clue": "Une bonne communication est essentielle.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pour être performantes, les équipes marketing et vente doivent {{sel35313}}.",
+            "choice_4JeucyoH9r": "parler le même langage",
+            "choice_4k~O9kiH5S": "garder chacune leur terminologie"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:42:44.686Z",
+            "updatedAt": "2018-05-23T11:47:56.606Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJDERdNq4"
+            ],
+            "status": "draft",
+            "modifiedBy": "dunod",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_NJgZNBBpN",
+        "universalRef": "sli_NJgZNBBpN",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJgZNBBpN.choice_V1cBNrHTE.id",
+                        "label": "choice_V1cBNrHTE",
+                        "value": "choice_V1cBNrHTE"
+                    },
+                    {
+                        "id": "sli_NJgZNBBpN.choice_EklUVHBTN.id",
+                        "label": "choice_EklUVHBTN",
+                        "value": "choice_EklUVHBTN"
+                    },
+                    {
+                        "id": "sli_NJgZNBBpN.choice_NkKIVHHpV.id",
+                        "label": "choice_NkKIVHHpV",
+                        "value": "choice_NkKIVHHpV"
+                    },
+                    {
+                        "id": "sli_NJgZNBBpN.choice_4JoUESHTE.id",
+                        "label": "choice_4JoUESHTE",
+                        "value": "choice_4JoUESHTE"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1cBNrHTE",
+                        "choice_EklUVHBTN",
+                        "choice_NkKIVHHpV"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Saurez-vous identifier les questions correspondant au verbe Substituer de la méthode SCAMPER ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Substituer est le fait de remplacer, d’échanger un élément par un autre afin de favoriser un changement, une idée inattendue, un renouvellement.\nLe principe est donc de se demander ce qui peut être remplacé pour apporter une amélioration : puis-je utiliser d’autres ingrédients ou matériaux ? Peut-on utiliser une autre approche ?",
+            "tips": "Selon la dernière étude Adobe \"State of Create: 2016\" produite par le cabinet d’études Edelman Intelligence, 70% des participants en France estiment que la créativité fait d'eux de meilleurs dirigeants, parents ou étudiants.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1cBNrHTE": "Que puis-je remplacer pour apporter une amélioration ? ",
+            "choice_EklUVHBTN": "Puis-je utiliser d’autres ingrédients ou matériaux ? ",
+            "choice_NkKIVHHpV": "Peut-on utiliser une autre approche ?\t",
+            "choice_4JoUESHTE": "Y a-t-il déjà eu des produits semblables, mais utilisés dans le contexte différent ?"
+        },
+        "en": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Saurez-vous identifier les questions correspondant au verbe Substituer de la méthode SCAMPER ?",
+            "klf": "Substituer est le fait de remplacer, d’échanger un élément par un autre afin de favoriser un changement, une idée inattendue, un renouvellement.\nLe principe est donc de se demander ce qui peut être remplacé pour apporter une amélioration : puis-je utiliser d’autres ingrédients ou matériaux ? Peut-on utiliser une autre approche ?",
+            "tips": "Selon la dernière étude Adobe \"State of Create: 2016\" produite par le cabinet d’études Edelman Intelligence, 70% des participants en France estiment que la créativité fait d'eux de meilleurs dirigeants, parents ou étudiants.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1cBNrHTE": "Que puis-je remplacer pour apporter une amélioration ? ",
+            "choice_EklUVHBTN": "Puis-je utiliser d’autres ingrédients ou matériaux ? ",
+            "choice_NkKIVHHpV": "Peut-on utiliser une autre approche ?\t",
+            "choice_4JoUESHTE": "Y a-t-il déjà eu des produits semblables, mais utilisés dans le contexte différent ?"
+        }
+    }
+}

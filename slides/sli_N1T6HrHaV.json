@@ -1,0 +1,108 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-05-04T12:49:47.311Z",
+            "updatedAt": "2018-07-05T10:38:14.753Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1er0OE9N"
+            ],
+            "status": "draft",
+            "modifiedBy": "ValentineMichaud",
+            "createdBy": "dunod",
+            "taggedNewUntil": "2018-07-04T12:49:47.311Z",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1T6HrHaV",
+        "universalRef": "sli_N1T6HrHaV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1T6HrHaV.choice_NkmnzhNyr.id",
+                        "label": "choice_NkmnzhNyr",
+                        "value": "choice_NkmnzhNyr"
+                    },
+                    {
+                        "id": "sli_N1T6HrHaV.choice_Vk63M2VyS.id",
+                        "label": "choice_Vk63M2VyS",
+                        "value": "choice_Vk63M2VyS"
+                    },
+                    {
+                        "id": "sli_N1T6HrHaV.choice_4kQ6zhNkS.id",
+                        "label": "choice_4kQ6zhNkS",
+                        "value": "choice_4kQ6zhNkS"
+                    },
+                    {
+                        "id": "sli_N1T6HrHaV.choice_E1FpfhEkB.id",
+                        "label": "choice_E1FpfhEkB",
+                        "value": "choice_E1FpfhEkB"
+                    },
+                    {
+                        "id": "sli_N1T6HrHaV.choice_N1tAzh41S.id",
+                        "label": "choice_N1tAzh41S",
+                        "value": "choice_N1tAzh41S"
+                    },
+                    {
+                        "id": "sli_N1T6HrHaV.choice_VJVy73EJr.id",
+                        "label": "choice_VJVy73EJr",
+                        "value": "choice_VJVy73EJr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkmnzhNyr",
+                        "choice_E1FpfhEkB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quelles précautions faut-il prendre pour un brainstorming de groupe ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Brainstormer en groupe nécessite de définir quelques règles de fonctionnement, comme mettre les portables en silencieux, être bienveillant, ne pas interrompre, etc.",
+            "tips": "<i>La Sagesse des foules</i>, un livre écrit par le journaliste américain James Surowiecki, présente la supériorité du groupe par rapport au jugement individuel pour évaluer une information.",
+            "clue": "Mettre les portables en silencieux.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkmnzhNyr": "Rappeler quelques règles de fonctionnement",
+            "choice_Vk63M2VyS": "Rien : mieux vaut démarrer tout de suite !",
+            "choice_4kQ6zhNkS": "Compter le nombre de participants",
+            "choice_E1FpfhEkB": "Laisser à chacun la possibilité de s'exprimer",
+            "choice_N1tAzh41S": "Prévoir une grande salle",
+            "choice_VJVy73EJr": "Ne pas faire participer les timides"
+        },
+        "en": {
+            "explanation": "Choose the right answers from below.",
+            "header": "What precautions do you need to take when brainstorming as a group?",
+            "klf": "If you’re brainstorming as a group, certain rules need to be laid down, such as putting phones on silent, having a constructive attitude and not interrupting others.",
+            "tips": "A book by American journalist James Surowiecki, <i>The Wisdom of Crowds</i>, looks at how groups offer superior results when it comes to evaluating information.",
+            "clue": "Put phones on silent mode.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkmnzhNyr": "Remind everyone of the rules",
+            "choice_Vk63M2VyS": "Nothing – just jump right in!",
+            "choice_4kQ6zhNkS": "Count the number of participants",
+            "choice_E1FpfhEkB": "Let everyone express themselves",
+            "choice_N1tAzh41S": "Book a large room",
+            "choice_VJVy73EJr": "Don’t force quiet people to get involved"
+        }
+    }
+}

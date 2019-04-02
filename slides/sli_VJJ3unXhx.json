@@ -1,0 +1,136 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T11:59:47.018Z",
+            "updatedAt": "2016-09-05T16:19:16.673Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WrOLRjl"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_VJJ3unXhx",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJJ3unXhx.choice_NkKfY37hg.id",
+                        "label": "choice_NkKfY37hg",
+                        "value": "choice_NkKfY37hg"
+                    },
+                    {
+                        "id": "sli_VJJ3unXhx.choice_NyCzF3X3e.id",
+                        "label": "choice_NyCzF3X3e",
+                        "value": "choice_NyCzF3X3e"
+                    },
+                    {
+                        "id": "sli_VJJ3unXhx.choice_N117F3Xhe.id",
+                        "label": "choice_N117F3Xhe",
+                        "value": "choice_N117F3Xhe"
+                    },
+                    {
+                        "id": "sli_VJJ3unXhx.choice_EJZmKn72g.id",
+                        "label": "choice_EJZmKn72g",
+                        "value": "choice_EJZmKn72g"
+                    },
+                    {
+                        "id": "sli_VJJ3unXhx.choice_E1zXKnQ3x.id",
+                        "label": "choice_E1zXKnQ3x",
+                        "value": "choice_E1zXKnQ3x"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyCzF3X3e",
+                        "choice_N117F3Xhe",
+                        "choice_E1zXKnQ3x"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_VJJ3unXhx"
+    },
+    "locales": {
+        "fr": {
+            "header": "Que faut-il faire pour construire une relation durable avec les membres de son réseau ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Prendre contact ne suffit pas, il faut bâtir des relations durables. Pour cela, il ne faut pas hésiter à demander de l'aide quand on en a besoin mais sans oublier de remercier. Tenez les personnes aidantes au courant de vos projets. Enfin, rendez des services mais ne promettez rien si vous ne pouvez pas honorer votre promesse.",
+            "tips": "Vous pouvez identifier des personnes à (re)contacter en priorité. Pour les autres, vous pouvez vous mettre des rappels pour ne pas les oublier (source : La place des réseaux, 2010).",
+            "clue": "Comme pour toute relation.",
+            "choice_NkKfY37hg": "Ne faire qu'une ou deux demandes",
+            "choice_NyCzF3X3e": "Remercier les personnes",
+            "choice_N117F3Xhe": "Tenir au courant de ses projets",
+            "choice_EyeyXthQ2e": "Fêter les anniversaires",
+            "choice_EJZmKn72g": "Dire oui à toutes les demandes",
+            "choice_E1zXKnQ3x": "Ne rien promettre si on n'est pas sûr"
+        },
+        "en": {
+            "header": "What does it take to build a lasting relationship with members of your network?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Making contact is not enough, you have to build lasting relationships. For this, do not hesitate to ask for help when you need it but do not forget to thank. Keep helping people informed about your projects. Finally, do service but do not promise anything if you can not honor your promise.",
+            "tips": "You can identify people to (re) contact first. For others, you can put reminders not to forget them (source: The place of networks, 2010).",
+            "clue": "As for any relationship.",
+            "choice_NkKfY37hg": "Only make one or two requests",
+            "choice_NyCzF3X3e": "Thank people",
+            "choice_N117F3Xhe": "Keep abreast of his plans",
+            "choice_EJZmKn72g": "Say yes to all requests",
+            "choice_E1zXKnQ3x": "Do not promise anything if you are not sure",
+            "choice_EyeyXthQ2e": "Fêter les anniversaires"
+        },
+        "de": {
+            "header": "Was sollten Sie tun, um eine dauerhafte Beziehung zu den Mitgliedern Ihres Netzwerks aufzubauen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Kontakt ist nicht genug, Sie müssen dauerhafte Beziehungen aufbauen. Dafür sollten Sie nicht zögern, wenn Sie Hilfe benötigen, aber vergessen Sie nicht, ihnen zu danken. Stellen Sie sicher, dass die Personen, die Ihnen helfen, sich Ihrer Projekte bewusst sind. Schließe schließlich die Gunst ab, aber verspreche nicht etwas, das du nicht ehren kannst.",
+            "tips": "Sie können zuerst Personen identifizieren, die (erneut) kontaktiert werden sollen. Für andere können Sie Erinnerungen einstellen, damit Sie sie nicht vergessen. (Quelle: Networks Places, 2010)",
+            "clue": "Wie bei jeder Beziehung.",
+            "choice_NkKfY37hg": "Machen Sie nur eine oder zwei Anfragen",
+            "choice_NyCzF3X3e": "Stellen Sie sicher, dass Sie den Leuten danken",
+            "choice_N117F3Xhe": "Bleiben Sie auf dem Laufenden über Ihre Projekte",
+            "choice_EJZmKn72g": "Sag ja zu allen Anfragen",
+            "choice_E1zXKnQ3x": "Versprechen Sie nichts, wenn Sie sich nicht sicher sind",
+            "choice_EyeyXthQ2e": "Fêter les anniversaires"
+        },
+        "es": {
+            "header": "What should you do to build a lasting relationship with the members of your network?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Contact is not enough, you need to build lasting relationships. For this, you should not hesitate to ask for help when you need it, but don't forget to thank them. Make sure that the people helping you are aware of your projects. Finally, return the favour, but do not promise something you will not be able honour.",
+            "tips": "You can identify people to (re)contact first. For others, you can set reminders so you don't forget them. (Source: Networks Places, 2010)",
+            "choice_NkKfY37hg": "Only make one or two requests",
+            "choice_NyCzF3X3e": "Make sure you thank people",
+            "choice_N117F3Xhe": "Keep abreast of your projects",
+            "choice_EyeyXthQ2e": "Fêter les anniversaires",
+            "choice_EJZmKn72g": "Say yes to all requests",
+            "choice_E1zXKnQ3x": "Do not promise anything if not sure",
+            "clue": "As with any relationship."
+        },
+        "zh": {
+            "header": "你应该怎么做才能与你的网络成员建立持久的关系？",
+            "explanation": "在下面选择正确的答案。",
+            "klf": "联系是不够的，你需要建立持久的关系。为此，您应该在需要时随时寻求帮助，但不要忘记感谢他们。确保帮助您的人了解您的项目。最后，给予回报，但不要承诺你将无法兑现。",
+            "tips": "您可以先识别（重新）联系人。对于其他人，您可以设置提醒，这样您就不会忘记它们。 （来源：Networks Places，2010）",
+            "clue": "和任何关系一样。",
+            "choice_NkKfY37hg": "只发出一两个请求",
+            "choice_NyCzF3X3e": "一定要感谢别人",
+            "choice_N117F3Xhe": "及时了解您的项目",
+            "choice_EJZmKn72g": "对所有请求说“是”",
+            "choice_E1zXKnQ3x": "如果不确定，不要承诺任何事情",
+            "choice_EyeyXthQ2e": "Fêter les anniversaires"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-10-01T07:00:10.634Z",
+            "updatedAt": "2018-10-17T12:17:54.178Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOeqY9Vr"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_VJbp439FB",
+        "universalRef": "sli_VJbp439FB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJbp439FB.choice_NyZ~rh5KH.id",
+                        "label": "choice_NyZ~rh5KH",
+                        "value": "choice_NyZ~rh5KH"
+                    },
+                    {
+                        "id": "sli_VJbp439FB.choice_VJLZBn9tr.id",
+                        "label": "choice_VJLZBn9tr",
+                        "value": "choice_VJLZBn9tr"
+                    },
+                    {
+                        "id": "sli_VJbp439FB.choice_NkC~Hh5KH.id",
+                        "label": "choice_NkC~Hh5KH",
+                        "value": "choice_NkC~Hh5KH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyZ~rh5KH",
+                        "choice_VJLZBn9tr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Comment les commerciaux peuvent-ils exploiter les contenus produits par le marketing ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les commerciaux ont tout intérêt à exploiter les contenus produits par le marketing afin de se rendre visibles sur les médias sociaux (notamment LinkedIn) ainsi qu’à alimenter leurs clients en bons contenus pour les intéresser et nouer la confiance.",
+            "tips": "Le social selling vise à utiliser les médias sociaux dans le processus de vente B2B. Il consiste à associer notamment LinkedIn et Twitter à des techniques d'inbound marketing afin de générer des leads.",
+            "clue": "Chouchoutons nos clients !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "null": "",
+            "choice_NyZ~rh5KH": "Pour alimenter leur profil LinkedIn ",
+            "choice_VJLZBn9tr": "Pour alimenter leurs clients via e-mail",
+            "choice_NkC~Hh5KH": "Pour optimiser le référencement naturel"
+        },
+        "en": {
+            "header": "Comment les commerciaux peuvent-ils exploiter les contenus produits par le marketing ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les commerciaux ont tout intérêt à exploiter les contenus produits par le marketing afin de se rendre visibles sur les médias sociaux (notamment LinkedIn) ainsi qu’à alimenter leurs clients en bons contenus pour les intéresser et nouer la confiance.",
+            "tips": "Le social selling vise à utiliser les médias sociaux dans le processus de vente B2B. Il consiste à associer notamment LinkedIn et Twitter à des techniques dinbound marketing afin de générer des leads.",
+            "clue": "Chouchoutons nos clients !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyZ~rh5KH": "Pour alimenter leur profil LinkedIn ",
+            "choice_VJLZBn9tr": "Pour alimenter leurs clients via e-mail",
+            "choice_NkC~Hh5KH": "Pour optimiser le référencement naturel"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-07T14:52:01.673Z",
+            "updatedAt": "2018-10-08T15:18:54.020Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkHYp8HmH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_V1gWZifHB",
+        "universalRef": "sli_V1gWZifHB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1gWZifHB.choice_NklnM~izHr.id",
+                        "label": "choice_NklnM~izHr",
+                        "value": "choice_NklnM~izHr",
+                        "media": "med_Vy3fZozBr"
+                    },
+                    {
+                        "id": "sli_V1gWZifHB.choice_VkgHXbiGrr.id",
+                        "label": "choice_VkgHXbiGrr",
+                        "value": "choice_VkgHXbiGrr",
+                        "media": "med_EkSXWifSB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NklnM~izHr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "50 mails prennent en moyenne 3 heures à traiter. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "C'est bien vrai : une cinquantaine de mails sollicite environ 3 heures de notre temps ! C'est pour cela que lorsque l’usage des outils digitaux ne se fait pas en fonction de nos objectifs bien définis, ils peuvent consumer l’intégralité de notre temps et nous faire perdre des heures que nous pourrions redistribuer aux projets importants pour nous.",
+            "tips": "Le FOMO (<i>Fear Of Missing Out</i>) correspond à la peur de manquer quelque chose d’important. C’est pourquoi certaines personnes restent constamment connectées à leur messagerie.",
+            "clue": "Chronophage.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklnM~izHr": "Vrai",
+            "choice_VkgHXbiGrr": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "50 emails take on average 3 hours to deal with. True or false?",
+            "klf": "This is completely true: around 50 emails requires about 3 hours of our time! So, digital tools can take up lots of our time and when their use isn’t contributing to attaining specific objectives, we could be using that time on projects that are more of a priority.",
+            "tips": "FOMO is the <i>Fear Of Missing Out</i> on something important. And it’s this fear that makes some people constantly check their email.",
+            "clue": "Time consuming.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklnM~izHr": "True",
+            "choice_VkgHXbiGrr": "False"
+        }
+    }
+}

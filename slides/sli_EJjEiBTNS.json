@@ -1,0 +1,79 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-03T13:45:12.892Z",
+            "updatedAt": "2018-10-08T14:09:03.018Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkACnIrQH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJjEiBTNS",
+        "universalRef": "sli_EJjEiBTNS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJjEiBTNS.choice_EklNDjSTNS.id",
+                        "label": "choice_EklNDjSTNS",
+                        "value": "choice_EklNDjSTNS",
+                        "media": "med_4kEDoSa4H"
+                    },
+                    {
+                        "id": "sli_EJjEiBTNS.choice_NklFuiBaVH.id",
+                        "label": "choice_NklFuiBaVH",
+                        "value": "choice_NklFuiBaVH",
+                        "media": "med_4yt-iBT4S"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NklFuiBaVH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Un fois établie, la to-do list d'un projet doit être immuable : c'est ce que préconise la méthode Getting Things Done pour ne pas s'éparpiller. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Efficacité n'est pas synonyme d'inflexibilité ! La méthode GTD recommande de consulter sa to-do list de façon régulière pour s'assurer que chaque tâche est encore pertinente avec l'évolution du projet.",
+            "tips": "La méthode GTD conseille de réaliser une revue hebdomadaire de votre système d’organisation.",
+            "clue": "Pensez agile...",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EklNDjSTNS": "Vrai",
+            "choice_NklFuiBaVH": "Faux"
+        },
+        "en": {
+            "explanation": "Select the correct answer.",
+            "header": "The GTD method says that once you’ve finished creating your To Do list, it shouldn’t change. Otherwise, you’ll spread yourself too thin.  True or false?",
+            "klf": "Efficiency isn’t the same as inflexibility! The GTD method recommends checking your To Do list regularly to make sure each task is still relevant as the project moves forward.",
+            "tips": "The GTD method suggests you conduct a weekly review of your organisation system.",
+            "clue": "Think agile…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EklNDjSTNS": "True",
+            "choice_NklFuiBaVH": "False"
+        }
+    }
+}

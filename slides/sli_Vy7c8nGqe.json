@@ -1,0 +1,87 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-02-09T11:08:26.593Z",
+            "updatedAt": "2016-09-03T14:33:48.699Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yMz0jzce"
+            ],
+            "status": "draft",
+            "modifiedBy": "TOLENG1",
+            "createdBy": "Hortensel",
+            "coreBranch": "partner-au-feminin"
+        },
+        "ref": "sli_Vy7c8nGqe",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy7c8nGqe.choice_4yPFPnzqe.id",
+                        "label": "choice_4yPFPnzqe",
+                        "value": "choice_4yPFPnzqe"
+                    },
+                    {
+                        "id": "sli_Vy7c8nGqe.choice_EyKtvhG9g.id",
+                        "label": "choice_EyKtvhG9g",
+                        "value": "choice_EyKtvhG9g"
+                    },
+                    {
+                        "id": "sli_Vy7c8nGqe.choice_NkeYFDnM5e.id",
+                        "label": "choice_NkeYFDnM5e",
+                        "value": "choice_NkeYFDnM5e"
+                    },
+                    {
+                        "id": "sli_Vy7c8nGqe.choice_V12FP2Gqx.id",
+                        "label": "choice_V12FP2Gqx",
+                        "value": "choice_V12FP2Gqx"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yPFPnzqe"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_Vy7c8nGqe"
+    },
+    "locales": {
+        "fr": {
+            "header": "Selon un rapport du Sénat, comment les jouets \"pour les filles\" ou \"pour les garçons\" influencent-ils les enfants ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Selon un rapport du Sénat de 2014, les jouets contribueraient à renforcer les stéréotypes et ne développeraient pas les mêmes aptitudes. Schématiquement, on a la maîtresse pour les filles, l'astronaute pour les garçons. Cette division se retrouve dans les filières scientifiques post-bac françaises, qui ne comptent que 30% de filles.",
+            "tips": "Une étude du cabinet d'études Trezego a montré que dans les catalogues de jouets de Noël 2013, seuls 22% des véhicules étaient associés à des filles.",
+            "clue": "Cantonner à des rôles...",
+            "choice_4yPFPnzqe": "Ils renforcent les stéréotypes",
+            "choice_EyKtvhG9g": "Ils n'influencent pas les enfants",
+            "choice_NkeYFDnM5e": "Ils modifient leur façon de s'exprimer",
+            "choice_4JcFDhf9x": "Ils développent des aptitudes différentes",
+            "choice_V12FP2Gqx": "Ils font croire au Père Noël"
+        },
+        "en": {
+            "header": "According to a Senate report, how do toys \"for girls\" or \"for boys\" influence children?",
+            "explanation": "Select the correct answer.",
+            "klf": "According to a report from the Senate in 2014, toys help reinforce stereotypes and do not allow the same skills to develop. Schematically, it was the school-mistress for girls, the astronaut for boys. This division is reflected in the French post-baccalaureate scientific fields, in which only 30% are girls.",
+            "tips": "A study by the research firm Trezego showed that in the 2013 Christmas toy catalogues, only 22% of vehicles were associated with girls.",
+            "choice_4yPFPnzqe": "They reinforce stereotypes",
+            "choice_EyKtvhG9g": "They don't influence children",
+            "choice_NkeYFDnM5e": "They modify their way of expressing themselves",
+            "choice_4JcFDhf9x": "Ils développent des aptitudes différentes",
+            "choice_V12FP2Gqx": "They make them believe in Father Christmas",
+            "clue": "Confined to roles..."
+        }
+    }
+}

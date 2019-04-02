@@ -1,0 +1,100 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-04-06T15:19:58.260Z",
+            "updatedAt": "2018-06-21T07:44:12.153Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yGxTOV5N"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_N1A2COljV",
+        "universalRef": "sli_N1A2COljV",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel78940",
+                        "label": "label_VJtKEmO34",
+                        "items": [
+                            {
+                                "text": "choice_Vkxtt47dn4",
+                                "value": "choice_Vkxtt47dn4"
+                            },
+                            {
+                                "text": "choice_41bKK4QOn4",
+                                "value": "choice_41bKK4QOn4"
+                            },
+                            {
+                                "text": "choice_E1f34XO3N",
+                                "value": "choice_E1f34XO3N"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel78940",
+                        "answers": [
+                            "choice_Vkxtt47dn4"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Qu'est-ce que la technique du rappel à soi ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La pleine conscience est une pratique simple dont le seul objectif est d’être présent à soi-même à chaque instant.",
+            "tips": "La pratique de l’attention consciente est aussi à la base de nombreux enseignements, comme le yoga, le tai chi gong, la méditation ou la sophrologie.",
+            "clue": "La pleine conscience se vit au présent.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le rappel à soi est une technique de méditation de pleine conscience qui consiste à revenir à soi, {{sel78940}}, en conscience de ses sensations.",
+            "label_NkxDCC-esN": " ",
+            "placeholder_EyZD00ulsE": " ",
+            "label_VJtKEmO34": " ",
+            "choice_Vkxtt47dn4": "ici et maintenant",
+            "choice_41bKK4QOn4": "en silence et dans l'obscurité",
+            "choice_E1f34XO3N": "en tailleur et les yeux fermés"
+        },
+        "en": {
+            "explanation": "Select the correct answer from the drop-down menu.",
+            "header": "How would you describe self-remembering as a technique?",
+            "klf": "Mindfulness is easy; you just need to be present in yourself at each moment in time.",
+            "tips": "Concentrated attention forms the basis of numerous other disciplines such as yoga, tai chi, qi gong, meditation or sophrology.",
+            "clue": "Mindfulness is about living in the present.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "In mindfulness, self-remembering is a meditation technique used to refocus your attention on yourself, {{sel78940}}, and develop a heightened awareness of your feelings.",
+            "label_NkxDCC-esN": " ",
+            "placeholder_EyZD00ulsE": " ",
+            "label_VJtKEmO34": " ",
+            "choice_Vkxtt47dn4": "here and now",
+            "choice_41bKK4QOn4": "in silence and obscurity",
+            "choice_E1f34XO3N": "cross-legged and eyes closed"
+        }
+    }
+}

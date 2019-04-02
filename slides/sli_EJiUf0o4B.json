@@ -1,0 +1,118 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-08-02T11:02:07.290Z",
+            "updatedAt": "2018-09-11T15:16:36.174Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek5ipWtVH"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_EJiUf0o4B",
+        "universalRef": "sli_EJiUf0o4B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJiUf0o4B.choice_Nyu5MRoVB.id",
+                        "label": "choice_Nyu5MRoVB",
+                        "value": "choice_Nyu5MRoVB"
+                    },
+                    {
+                        "id": "sli_EJiUf0o4B.choice_E13if0sNS.id",
+                        "label": "choice_E13if0sNS",
+                        "value": "choice_E13if0sNS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E13if0sNS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Pour une stratégie de social commerce efficace, qu'est-il conseillé de faire ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Quand on lance une campagne de social commerce, l'idée est de publier sur un maximum de plateformes différentes. L'objectif : partager l'information le plus largement possible.",
+            "tips": "Pour désigner le social commerce, on utilise également le terme contracté de \"s-commerce\".",
+            "clue": "Visez large !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyu5MRoVB": "Concentrer ses publications sur quelques plateformes bien ciblées",
+            "choice_E13if0sNS": "Publier sur un maximum de plateformes",
+            "choice_Nkj2f0jVr": ""
+        },
+        "en": {
+            "header": "For an effective social business strategy, what is it advisable to do?",
+            "explanation": "Select the correct answer.",
+            "klf": "When we launch a social commerce campaign, the idea is to publish on as many different platforms as possible. The goal: share information as widely as possible.",
+            "tips": "To designate social commerce, the term \"s-commerce\" is also used.",
+            "clue": "Aim wide!",
+            "choice_Nyu5MRoVB": "Focus your publications on some well-targeted platforms",
+            "choice_E13if0sNS": "Publish on a maximum of platforms",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkj2f0jVr": ""
+        },
+        "de": {
+            "header": "Was ist für eine effektive Social Business-Strategie ratsam?",
+            "explanation": "Wählen Sie die richtige Antwort (en) aus.",
+            "klf": "Wenn wir eine Social-Commerce-Kampagne starten, möchten wir auf so vielen verschiedenen Plattformen wie möglich veröffentlichen. Das Ziel: Informationen so weit wie möglich weitergeben.",
+            "tips": "Zur Bezeichnung des Social Commerce wird auch der Begriff \"S-Commerce\" verwendet.",
+            "clue": "Weit zielen!",
+            "choice_Nyu5MRoVB": "Konzentrieren Sie Ihre Publikationen auf einige zielgerichtete Plattformen",
+            "choice_E13if0sNS": "Auf maximaler Plattform veröffentlichen",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkj2f0jVr": ""
+        },
+        "es": {
+            "explanation": "Select the correct answer(s).",
+            "header": "Pour une stratégie de social commerce efficace, qu'est-il conseillé de faire ?",
+            "klf": "Quand on lance une campagne de social commerce, l'idée est de publier sur un maximum de plateformes différentes. L'objectif : partager l'information le plus largement possible.",
+            "tips": "Pour désigner le social commerce, on utilise également le terme contracté de \"s-commerce\".",
+            "clue": "Visez large !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyu5MRoVB": "Concentrer ses publications sur quelques plateformes bien ciblées",
+            "choice_E13if0sNS": "Publier sur un maximum de plateformes",
+            "choice_Nkj2f0jVr": ""
+        },
+        "zh": {
+            "header": "对于有效的社会商业战略，建议做什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "当我们发起社交商务活动时，我们的想法是在尽可能多的不同平台上发布。目标：尽可能广泛地分享信息。",
+            "tips": "为了指定社交商务，还使用术语“s-commerce”。",
+            "clue": "瞄准广泛！",
+            "choice_Nyu5MRoVB": "将您的出版物集中在一些目标明确的平台上",
+            "choice_E13if0sNS": "在最多平台上发布",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkj2f0jVr": ""
+        }
+    }
+}

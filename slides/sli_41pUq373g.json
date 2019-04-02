@@ -1,0 +1,119 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2016-03-05T12:07:28.555Z",
+            "updatedAt": "2017-12-01T11:30:45.850Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41xLdU0oe"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "Hortensel",
+            "coreBranch": "test-trad"
+        },
+        "ref": "sli_41pUq373g",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41pUq373g.choice_NJmej372g.id",
+                        "label": "choice_NJmej372g",
+                        "value": "choice_NJmej372g"
+                    },
+                    {
+                        "id": "sli_41pUq373g.choice_4JHljh7nx.id",
+                        "label": "choice_4JHljh7nx",
+                        "value": "choice_4JHljh7nx"
+                    },
+                    {
+                        "id": "sli_41pUq373g.choice_4yUxjnXne.id",
+                        "label": "choice_4yUxjnXne",
+                        "value": "choice_4yUxjnXne"
+                    },
+                    {
+                        "id": "sli_41pUq373g.choice_VyeIei27hl.id",
+                        "label": "choice_VyeIei27hl",
+                        "value": "choice_VyeIei27hl"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JHljh7nx",
+                        "choice_4yUxjnXne"
+                    ]
+                ]
+            }
+        },
+        "universalRef": "sli_41pUq373g"
+    },
+    "locales": {
+        "fr": {
+            "header": "Quels sont les rôles du mentor auprès de son protégé ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Selon la chercheuse Kathy Kram, le mentor remplit deux fonctions principales. D'abord, le développement de carrière en valorisant son protégé auprès des entreprises, en l'aidant à être visible et à progresser. Ensuite, des fonctions psychosociales en aidant le mentoré à être plus performant.",
+            "tips": "Pour Kathy Krams, les fonctions psychosociales correspondent “aux aspects de la relation qui renforcent l'identité, le sentiment de compétence et l'efficacité dans le rôle professionnel” (source : mémoire “Mentor et protégé durant la phase d'initialisation de la relation” de David Abonneau et Éric Campoy).",
+            "clue": "Accompagner, pas pistonner.",
+            "choice_NJmej372g": "Le faire entrer dans son entreprise",
+            "choice_4JHljh7nx": "L'aider à progresser dans sa vie professionnelle",
+            "choice_4yUxjnXne": "L'accompagner pour qu'il soit plus performant",
+            "choice_VyeIei27hl": "Le préparer à remplacer son mentor à son poste"
+        },
+        "en": {
+            "header": "What are the mentor's roles with his protégé?",
+            "explanation": "Select the correct answers.",
+            "klf": "According to researcher Kathy Kram, the mentor serves two main functions. First, career development by valuing your protégé with companies, helping them to be visible and to progress. Then, psychosocial functions by helping the mentee to be more efficient.",
+            "tips": "For Kathy Krams, psychosocial functions correspond to \"aspects of the relationship that reinforce identity, sense of competence and efficiency in the professional role\" (source: memory \"Mentor and protected during the initial phase of the relationship \"By David Abonneau and Eric Campoy).",
+            "clue": "Accompany, not boost.",
+            "choice_NJmej372g": "Get him into his business",
+            "choice_4JHljh7nx": "Help him to progress in his professional life",
+            "choice_4yUxjnXne": "Accompany him so that he is more efficient",
+            "choice_VyeIei27hl": "Prepare him to replace his mentor at his position"
+        },
+        "de": {
+            "header": "Was ist die Rolle eines Mentors, wenn er seinem Mentoree hilft?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Laut der Forscherin Kathy Kram hat der Mentor zwei Hauptfunktionen. Erstens, Karriereentwicklung durch Entwicklung ihres Schützlings in Unternehmen, damit sie sichtbar werden und wachsen können. Dann helfen psychosoziale Funktionen dem Mentee, effizienter zu sein.",
+            "tips": "Laut Kathy Krams entsprechen pyschosoziale Funktionen \"Aspekten der Beziehung, die die Identität stärken, ein Gefühl für Kompetenz und Effizienz in der beruflichen Rolle\". (Quelle: Erinnerung \"Mentor und Protegé während der Initialisierungsphase der Beziehung\" David Abonneau und Eric Campoy)",
+            "clue": "Helfen Sie ihnen, ohne Fäden zu ziehen.",
+            "choice_NJmej372g": "Bring sie in dein Geschäft",
+            "choice_4JHljh7nx": "Helfen Sie ihnen, in ihrer Karriere voranzukommen",
+            "choice_4yUxjnXne": "Begleiten Sie sie, um effizienter zu sein",
+            "choice_VyeIei27hl": "Bereiten Sie sie darauf vor, ihren Mentor in ihrem Job zu ersetzen"
+        },
+        "es": {
+            "header": "What is a mentor's role when helping their mentoree?",
+            "explanation": "Select the correct answers.",
+            "klf": "According to researcher Kathy Kram, the mentor has two main functions. First, career development by developing their protégé in businesses, helping them to be visible and grow. Then psychosocial functions help the mentee to be more efficient.",
+            "tips": "According to Kathy Krams, pyschosocial functions correspond \"to aspects of the relationship that strengthen identity, a sense of competence and efficiency in the professional role.\" (Source: memory \"Mentor and protégé during the initialisation phase of the relationship\" David Abonneau and Eric Campoy)",
+            "choice_NJmej372g": "Get them into your business",
+            "choice_4JHljh7nx": "Help them progress in their career",
+            "choice_4yUxjnXne": "Accompany them so they can be more efficient",
+            "choice_VyeIei27hl": "Prepare them to replace their mentor in their job",
+            "clue": "Help them without pulling strings."
+        },
+        "zh": {
+            "header": "在帮助他们的心理辅导员时，导师的角色是什么？",
+            "explanation": "选择正确的答案。",
+            "klf": "根据研究员Kathy Kram的说法，导师有两个主要功能。首先，通过在企业中发展他们的门徒，帮助他们看到和发展，实现职业发展。然后心理社会功能帮助受指导者提高效率。",
+            "tips": "根据Kathy Krams的观点，心理社会功能对应于“加强身份认同，能力感和专业角色效率”的关系。 （来源：记忆“关系初始化阶段的导师和门徒”David Abonneau和Eric Campoy）",
+            "clue": "帮助他们不要拉弦。",
+            "choice_NJmej372g": "让他们进入您的业务",
+            "choice_4JHljh7nx": "帮助他们在职业生涯中取得进步",
+            "choice_4yUxjnXne": "随附它们，以便它们更有效率",
+            "choice_VyeIei27hl": "准备他们在工作中替换他们的导师"
+        }
+    }
+}

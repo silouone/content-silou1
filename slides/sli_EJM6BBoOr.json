@@ -1,0 +1,76 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": true,
+            "createdAt": "2018-09-19T14:17:00.881Z",
+            "updatedAt": "2018-10-17T09:42:59.324Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekm7qt5VS"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "dunod",
+            "coreBranch": "dunod"
+        },
+        "ref": "sli_EJM6BBoOr",
+        "universalRef": "sli_EJM6BBoOr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_EJM6BBoOr.field_4yA6rrjuB.id",
+                        "type": "text",
+                        "name": "inp18504"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp18504",
+                        "answers": [
+                            "choice_4JfCarHsdS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "fr": {
+            "header": "Quel est l'objectif du Growth Hacking ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L’hyper-croissance est souvent liée à l’accélération technologique et à la capacité de certaines entreprises à saisir les opportunités. On retrouve dans le profil des bons growth hackers cette dualité. Ils doivent en effet être très portés sur la technologie qui permet de gagner fortement en agilité et utiliser cette dernière au service de la performance en testant continuellement de nouvelles actions afin de créer de nouvelles opportunités.",
+            "tips": "Le growth hacking est particulièrement adapté aux petites structures agiles pour faire gagner de l’efficacité aux collaborateurs en charge de développer plusieurs aspects de l’activité : commercial, marketing, relation client…",
+            "clue": "On parle désormais d’hyper-croissance.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le growth hacking est souvent défini comme un ensemble de techniques marketing qui permet d’assurer rapidement à l’entreprise une forte {{inp18504}} à faible coût.",
+            "choice_4JfCarHsdS": "croissance"
+        },
+        "en": {
+            "header": "Quel est lobjectif du Growth Hacking ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L’hyper-croissance est souvent liée à l’accélération technologique et à la capacité de certaines entreprises à saisir les opportunités. On retrouve dans le profil des bons growth hackers cette dualité. Ils doivent en effet être très portés sur la technologie qui permet de gagner fortement en agilité et utiliser cette dernière au service de la performance en testant continuellement de nouvelles actions afin de créer de nouvelles opportunités.",
+            "tips": "Le growth hacking est particulièrement adapté aux petites structures agiles pour faire gagner de l’efficacité aux collaborateurs en charge de développer plusieurs aspects de l’activité : commercial, marketing, relation client…",
+            "clue": "On parle désormais d’hyper-croissance.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le growth hacking est souvent défini comme un ensemble de techniques marketing qui permet d’assurer rapidement à l’entreprise une forte {{inp18504}} à faible coût.",
+            "choice_4JfCarHsdS": "croissance"
+        }
+    }
+}
