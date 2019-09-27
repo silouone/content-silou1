@@ -1,0 +1,24 @@
+{
+    "name": "DEMO - JOAN",
+    "autoPush": true,
+    "locales": [
+        "fr",
+        "en",
+        "es",
+        "cs",
+        "da",
+        "za",
+        "de"
+    ],
+    "s3Bucket": "static.coorpacademy.com/content/test-joan",
+    "videoProvider": "jwplayer",
+    "coreBranches": [
+        "partner-au-feminin",
+        "partner-institut-bocquet"
+    ],
+    "catalogBranches": [
+        "partner-au-feminin",
+        "partner-institut-bocquet"
+    ],
+    "picture": "https://cloud.githubusercontent.com/assets/7602475/18754589/7d1037e8-80e9-11e6-890e-c8a20ea2d586.jpg"
+}
