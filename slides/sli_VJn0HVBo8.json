@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-03T13:55:49.428Z",
+            "updatedAt": "2019-06-03T09:23:41.574Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ~KxVBjL"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VJn0HVBo8",
+        "universalRef": "sli_VJn0HVBo8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel49590",
+                        "items": [
+                            {
+                                "text": "choice_41lIIL4BoL",
+                                "value": "choice_41lIIL4BoL"
+                            },
+                            {
+                                "text": "choice_VkZI884BsI",
+                                "value": "choice_VkZI884BsI"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel81178",
+                        "items": [
+                            {
+                                "text": "choice_N1gOILNSsL",
+                                "value": "choice_N1gOILNSsL"
+                            },
+                            {
+                                "text": "choice_NJ~uUUESoI",
+                                "value": "choice_NJ~uUUESoI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel49590",
+                        "answers": [
+                            "choice_41lIIL4BoL"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel81178",
+                        "answers": [
+                            "choice_NJ~uUUESoI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Can you name the negotiating tactic consisting in making a large request before your genuine smaller request to make sure the second won't be rejected?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To get people to agree to a request, you can use the 'rejection and retreat' strategy.",
+            "tips": "In case the 'rejection and retreat' tactic doesn't help you to get what you want, you can still listen to <a href=\"https://www.youtube.com/watch?v=jv9sDn_2XkI\" target=\"_blank\">this song</a> and pay attention to the chorus lyrics.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "This tactic is called '{{sel49590}} then {{sel81178}}'.",
+            "choice_41lIIL4BoL": "rejection",
+            "choice_VkZI884BsI": "abort",
+            "choice_N1gOILNSsL": "delete",
+            "choice_NJ~uUUESoI": "retreat"
+        },
+        "fr": {
+            "header": "Pouvez-vous nommer la tactique de négociation consistant à faire une demande élevée avant votre véritable demande plus petite pour vous assurer que la seconde ne sera pas rejetée ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Pour amener les gens à accepter une demande, vous pouvez utiliser la stratégie « du rejet et de la retraite » (de l'anglais, « rejection and retreat »).",
+            "tips": "Au cas où la tactique du &quot;rejet et de la retraite&quot; ne vous aiderait pas à obtenir ce que vous voulez, vous pouvez toujours écouter <a href=\"https://www.youtube.com/watch?v=jv9sDn_2XkI\" target=\"_blank\">cette chanson</a> et faire attention aux paroles du refrain.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Cette tactique s'appelle « {{sel49590}} et {{sel81178}} ».",
+            "choice_41lIIL4BoL": "du rejet",
+            "choice_VkZI884BsI": "de l'abandon",
+            "choice_N1gOILNSsL": "de l'effacement",
+            "choice_NJ~uUUESoI": "de la retraite"
+        },
+        "de": {
+            "header": "Can you name the negotiating tactic consisting in making a large request before your genuine smaller request to make sure the second won't be rejected?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To get people to agree to a request, you can use the 'rejection and retreat' strategy.",
+            "tips": "In case the 'rejection and retreat' tactic doesn't help you to get what you want, you can still listen to <a href=\"https://www.youtube.com/watch?v=jv9sDn_2XkI\" target=\"_blank\">this song</a> and pay attention to the chorus lyrics.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "This tactic is called '{{sel49590}} then {{sel81178}}'.",
+            "choice_41lIIL4BoL": "rejection",
+            "choice_VkZI884BsI": "abort",
+            "choice_N1gOILNSsL": "delete",
+            "choice_NJ~uUUESoI": "retreat"
+        },
+        "th": {
+            "header": "Can you name the negotiating tactic consisting in making a large request before your genuine smaller request to make sure the second won't be rejected?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To get people to agree to a request, you can use the 'rejection and retreat' strategy.",
+            "tips": "In case the 'rejection and retreat' tactic doesn't help you to get what you want, you can still listen to <a href=\"https://www.youtube.com/watch?v=jv9sDn_2XkI\" target=\"_blank\">this song</a> and pay attention to the chorus lyrics.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "This tactic is called '{{sel49590}} then {{sel81178}}'.",
+            "choice_41lIIL4BoL": "rejection",
+            "choice_VkZI884BsI": "abort",
+            "choice_N1gOILNSsL": "delete",
+            "choice_NJ~uUUESoI": "retreat"
+        }
+    }
+}

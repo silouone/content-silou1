@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-15T10:56:19.044Z",
+            "updatedAt": "2019-02-18T10:52:18.676Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V15K0JSEL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Ny8tKYkHL",
+        "universalRef": "sli_Ny8tKYkHL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ny8tKYkHL.choice_V1gg5FFkrU.id",
+                        "label": "choice_V1gg5FFkrU",
+                        "value": "choice_V1gg5FFkrU",
+                        "media": "med_NkxctFJS8"
+                    },
+                    {
+                        "id": "sli_Ny8tKYkHL.choice_V1gz5FYJrU.id",
+                        "label": "choice_V1gz5FYJrU",
+                        "value": "choice_V1gz5FYJrU",
+                        "media": "med_E1McYYkSL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1gz5FYJrU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? It’s important to praise people even for things they haven’t done.",
+            "explanation": "Select the correct answer.",
+            "klf": "Be honest. Praising everyone for nothing is no better than praising no one for anything.",
+            "tips": "Don’t take anybody for granted. Employees that are constantly deserving still need to be praised for their work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gg5FFkrU": "TRUE",
+            "choice_V1gz5FYJrU": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Il est important de féliciter les gens même pour des choses qu’ils n’ont pas faites.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Soyez honnête. Féliciter tout le monde pour rien n'est pas mieux que de féliciter personne pour quoi que ce soit.",
+            "tips": "Ne prenez personne pour acquis. Les employés qui le méritent constamment doivent toujours être félicités pour leur travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gg5FFkrU": "Vrai",
+            "choice_V1gz5FYJrU": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Es ist wichtig, die Menschen zu loben, selbst wenn sie etwas nicht getan haben.",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Sei ehrlich. Jeder für nichts zu loben ist nicht besser, als niemanden für irgendwas zu loben.",
+            "tips": "Nehmen Sie niemanden für selbstverständlich. Mitarbeiter, die es ständig verdienen, müssen für ihre Arbeit dennoch gelobt werden.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gg5FFkrU": "Wahr",
+            "choice_V1gz5FYJrU": "Falsch"
+        },
+        "th": {
+            "header": "True or false? It’s important to praise people even for things they haven’t done.",
+            "explanation": "Select the correct answer.",
+            "klf": "Be honest. Praising everyone for nothing is no better than praising no one for anything.",
+            "tips": "Don’t take anybody for granted. Employees that are constantly deserving still need to be praised for their work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gg5FFkrU": "TRUE",
+            "choice_V1gz5FYJrU": "FALSE"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-11T13:13:55.343Z",
+            "updatedAt": "2019-06-28T12:49:46.674Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey7-L8OAL"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VJXkO5O08",
+        "universalRef": "sli_VJXkO5O08",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJXkO5O08.choice_N12Wd9u0I.id",
+                        "label": "choice_N12Wd9u0I",
+                        "value": "choice_N12Wd9u0I"
+                    },
+                    {
+                        "id": "sli_VJXkO5O08.choice_VJa~dqdR8.id",
+                        "label": "choice_VJa~dqdR8",
+                        "value": "choice_VJa~dqdR8"
+                    },
+                    {
+                        "id": "sli_VJXkO5O08.choice_NkkGOqd0U.id",
+                        "label": "choice_NkkGOqd0U",
+                        "value": "choice_NkkGOqd0U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkkGOqd0U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If sales can sell 10,000 cases a week, production can make 12,000 cases a week and distribution can ship 8,000 a week, what is the limiting factor?",
+            "explanation": "Select the correct answer below.",
+            "klf": "To figure out your limiting factor, first ask yourself how many cases you can sell, make and distribute with your actual workforce, for example. The lowest of these numbers will be your limiting factor.",
+            "tips": "In ecology, limiting factors refer to environmental conditions that limit the growth, abundance or distribution of an organism or a population of organisms in an ecosystem. This came into usage after Liebig’s Law of the Minimum was published: in a few words, it states that growth is controlled not by the total amount of resources available, but by the scarcest resource.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N12Wd9u0I": "Sales",
+            "choice_VJa~dqdR8": "Production",
+            "choice_NkkGOqd0U": "Distribution"
+        },
+        "fr": {
+            "header": "Si les ventes permettent de vendre 10 000 caisses par semaine, que la production est de 12 000 caisses par semaine et que la distribution expédie 8 000 caisses par semaine, quel est le facteur limitant ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Pour déterminer votre facteur limitant, demandez-vous d'abord combien de caisses vous pouvez vendre, fabriquer et distribuer avec votre effectif réel, par exemple. Le plus petit de ces chiffres sera votre facteur limitant.",
+            "tips": "En écologie, les facteurs limitants désignent les conditions environnementales qui limitent la croissance, l'abondance ou la distribution d'un organisme ou d'une population d'organismes dans un écosystème. Cette loi est entrée en vigueur après la publication de la loi du minimum de Liebig : en quelques mots, elle stipule que la croissance est contrôlée non pas par la quantité totale de ressources disponibles, mais par la ressource la plus rare.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N12Wd9u0I": "Les ventes",
+            "choice_VJa~dqdR8": "La production",
+            "choice_NkkGOqd0U": "La distribution"
+        },
+        "de": {
+            "header": "If sales can sell 10,000 cases a week, production can make 12,000 cases a week and distribution can ship 8,000 a week, what is the limiting factor?",
+            "explanation": "Select the correct answer below.",
+            "klf": "To figure out your limiting factor, first ask yourself how many cases you can sell, make and distribute with your actual workforce, for example. The lowest of these numbers will be your limiting factor.",
+            "tips": "In ecology, limiting factors refer to environmental conditions that limit the growth, abundance or distribution of an organism or a population of organisms in an ecosystem. This came into usage after Liebig’s Law of the Minimum was published: in a few words, it states that growth is controlled not by the total amount of resources available, but by the scarcest resource.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N12Wd9u0I": "Sales",
+            "choice_VJa~dqdR8": "Production",
+            "choice_NkkGOqd0U": "Distribution"
+        },
+        "th": {
+            "header": "If sales can sell 10,000 cases a week, production can make 12,000 cases a week and distribution can ship 8,000 a week, what is the limiting factor?",
+            "explanation": "Select the correct answer below.",
+            "klf": "To figure out your limiting factor, first ask yourself how many cases you can sell, make and distribute with your actual workforce, for example. The lowest of these numbers will be your limiting factor.",
+            "tips": "In ecology, limiting factors refer to environmental conditions that limit the growth, abundance or distribution of an organism or a population of organisms in an ecosystem. This came into usage after Liebig’s Law of the Minimum was published: in a few words, it states that growth is controlled not by the total amount of resources available, but by the scarcest resource.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N12Wd9u0I": "Sales",
+            "choice_VJa~dqdR8": "Production",
+            "choice_NkkGOqd0U": "Distribution"
+        }
+    }
+}

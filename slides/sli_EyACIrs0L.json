@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-13T14:05:33.897Z",
+            "updatedAt": "2019-06-25T15:24:56.601Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kixeMiA8"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EyACIrs0L",
+        "universalRef": "sli_EyACIrs0L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyACIrs0L.choice_VJg3EwBjCI.id",
+                        "label": "choice_VJg3EwBjCI",
+                        "value": "choice_VJg3EwBjCI",
+                        "media": "med_VJn4vSsCU"
+                    },
+                    {
+                        "id": "sli_EyACIrs0L.choice_N1gZBDBj0U.id",
+                        "label": "choice_N1gZBDBj0U",
+                        "value": "choice_N1gZBDBj0U",
+                        "media": "med_NyZrwHi08"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJg3EwBjCI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? You are more likely to regret the things you <i>don't</i> do than the things you <i>do</i> do.",
+            "explanation": "Select the correct answer.",
+            "klf": "Research says that we are more likely to regret the things we <i>don't</i> do than the things we <i>do</i> do.",
+            "tips": "When you struggle to make a choice, think about what advice you would give a friend in the same situation, and act accordingly. We are often more clear-headed if we take this step back.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJg3EwBjCI": "True",
+            "choice_N1gZBDBj0U": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Vous êtes plus susceptible de regretter les choses que vous <i>ne</i> faites <i>pas</i> plutôt que les choses que vous <i>faites</i>.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Une étude montre que nous sommes plus susceptibles de regretter les choses que nous <i>ne</i> faisons <i>pas</i> plutôt que les choses que nous <i>faisons</i>.",
+            "tips": "Lorsque vous avez du mal à faire un choix, pensez aux conseils que vous donneriez à un ami dans la même situation et agissez en conséquence. Nous sommes souvent plus lucides quand nous prenons du recul.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJg3EwBjCI": "Vrai",
+            "choice_N1gZBDBj0U": "Faux"
+        },
+        "de": {
+            "header": "True or false? You are more likely to regret the things you <i>don't</i> do than the things you <i>do</i> do. ",
+            "explanation": "Select the correct answer.",
+            "klf": "Research says that we are more likely to regret the things we <i>don't</i> do than the things we <i>do</i> do.",
+            "tips": "When you struggle to make a choice, think about what advice you would give a friend in the same situation, and act accordingly. We are often more clear-headed if we take this step back.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJg3EwBjCI": "True",
+            "choice_N1gZBDBj0U": "False"
+        },
+        "th": {
+            "header": "True or false? You are more likely to regret the things you <i>don't</i> do than the things you <i>do</i> do. ",
+            "explanation": "Select the correct answer.",
+            "klf": "Research says that we are more likely to regret the things we <i>don't</i> do than the things we <i>do</i> do.",
+            "tips": "When you struggle to make a choice, think about what advice you would give a friend in the same situation, and act accordingly. We are often more clear-headed if we take this step back.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJg3EwBjCI": "True",
+            "choice_N1gZBDBj0U": "False"
+        }
+    }
+}

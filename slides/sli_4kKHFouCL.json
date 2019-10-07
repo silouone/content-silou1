@@ -1,0 +1,112 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-11T14:29:54.671Z",
+            "updatedAt": "2019-06-28T13:05:46.174Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWvILOAU"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4kKHFouCL",
+        "universalRef": "sli_4kKHFouCL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4kKHFouCL.field_417UFjO0I.id",
+                        "type": "text",
+                        "name": "inp99144"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp99144",
+                        "answers": [
+                            "choice_E1f78FjOAI",
+                            "choice_E1JnFjdRL",
+                            "choice_E1tnKjORI",
+                            "choice_Nk22Fsu08"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you call the difference between budgeted and actual performance?",
+            "explanation": "Type your answer.",
+            "klf": "Variance is the difference between budgeted and actual performance; a deviation from the standard. It could be positive or negative. Either way, it will have consequences for the budget as a whole and so action must be taken to allow for its effects.",
+            "tips": "’Variance analysis’ is when you measure actual performance against the standards and the co-ordinated plan you have set.",
+            "clue": "A deviation from the standard, starting with a 'V'.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp99144}}",
+            "choice_E1f78FjOAI": "Variance",
+            "choice_E1JnFjdRL": "varience",
+            "choice_E1tnKjORI": "variances",
+            "choice_Nk22Fsu08": "varyance"
+        },
+        "fr": {
+            "header": "Comment appelle-t-on la différence entre le rendement prévu au budget et le rendement réel ?",
+            "explanation": "Tapez votre réponse.",
+            "klf": "L'écart est la différence entre le rendement prévu au budget et le rendement réel, il s'agit d'une variation par rapport à la norme. Il peut être être positif ou négatif. Dans les deux cas, cela aura des conséquences sur l'ensemble du budget et des mesures doivent donc être prises pour en tenir compte.",
+            "tips": "« L’analyse de l'écart » consiste à mesurer le rendement réel par rapport aux normes et au plan coordonné que vous avez définis.",
+            "clue": "Une variation par rapport à la norme, commençant par un « E ».",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp99144}}",
+            "choice_E1f78FjOAI": "L'écart",
+            "choice_E1JnFjdRL": "L'escarre",
+            "choice_E1tnKjORI": "Les écarts",
+            "choice_Nk22Fsu08": "Les cars"
+        },
+        "de": {
+            "header": "How do you call the difference between budgeted and actual performance?",
+            "explanation": "Type your answer.",
+            "klf": "Variance is the difference between budgeted and actual performance; a deviation from the standard. It could be positive or negative. Either way, it will have consequences for the budget as a whole and so action must be taken to allow for its effects.",
+            "tips": "’Variance analysis’ is when you measure actual performance against the standards and the co-ordinated plan you have set.",
+            "clue": "A deviation from the standard, starting with a 'V'.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp99144}}",
+            "choice_E1f78FjOAI": "Variance",
+            "choice_E1JnFjdRL": "varience",
+            "choice_E1tnKjORI": "variances",
+            "choice_Nk22Fsu08": "varyance"
+        },
+        "th": {
+            "header": "How do you call the difference between budgeted and actual performance?",
+            "explanation": "Type your answer.",
+            "klf": "Variance is the difference between budgeted and actual performance; a deviation from the standard. It could be positive or negative. Either way, it will have consequences for the budget as a whole and so action must be taken to allow for its effects.",
+            "tips": "’Variance analysis’ is when you measure actual performance against the standards and the co-ordinated plan you have set.",
+            "clue": "A deviation from the standard, starting with a 'V'.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp99144}}",
+            "choice_E1f78FjOAI": "Variance",
+            "choice_E1JnFjdRL": "varience",
+            "choice_E1tnKjORI": "variances",
+            "choice_Nk22Fsu08": "varyance"
+        }
+    }
+}

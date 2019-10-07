@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T12:56:05.758Z",
+            "updatedAt": "2019-02-12T09:01:02.830Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EymR0grV8"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_41qjp8c4L",
+        "universalRef": "sli_41qjp8c4L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_41qjp8c4L.choice_41nykvcVI.id",
+                        "label": "choice_41nykvcVI",
+                        "value": "choice_41nykvcVI"
+                    },
+                    {
+                        "id": "sli_41qjp8c4L.choice_41aJJPqV8.id",
+                        "label": "choice_41aJJPqV8",
+                        "value": "choice_41aJJPqV8"
+                    },
+                    {
+                        "id": "sli_41qjp8c4L.choice_41VbJv54L.id",
+                        "label": "choice_41VbJv54L",
+                        "value": "choice_41VbJv54L"
+                    },
+                    {
+                        "id": "sli_41qjp8c4L.choice_EyDfyP5EU.id",
+                        "label": "choice_EyDfyP5EU",
+                        "value": "choice_EyDfyP5EU"
+                    },
+                    {
+                        "id": "sli_41qjp8c4L.choice_4JGHyD9N8.id",
+                        "label": "choice_4JGHyD9N8",
+                        "value": "choice_4JGHyD9N8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyDfyP5EU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NJIaJD5NI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you start with to finish your working day properly?",
+            "explanation": "Select the correct answer below.",
+            "klf": "We put off tasks because they are boring, difficult, scary, or otherwise unpleasant. We can try to overcome these issues in our heads through various strategies and exercises, but taking the bins out will still be horrible and you'll never ‘feel motivated’.",
+            "tips": "According to neurologist Richard Lévy, before acting, human beings evaluate permanently the value of an action according to a profit/effort balance.",
+            "clue": "",
+            "context_title": "The remaining Post-it",
+            "context_description": "Your working day is finished…finally! Oh wait, what about this old Post-it that remains on your desk? It says 'Don't forget to complete that horrible mailing task (you know what I'm talking about)'. OK, let's go!",
+            "context_media_description": "",
+            "choice_41nykvcVI": "Throw this horrible Post-it in the bin",
+            "choice_41aJJPqV8": "Empty the bin",
+            "choice_41VbJv54L": "Clean your desk",
+            "choice_EyDfyP5EU": "Just complete that horrible mailing task",
+            "choice_4JGHyD9N8": "Take a short yoga lesson to be focused"
+        },
+        "fr": {
+            "header": "Quelle est la première chose à faire pour bien terminer votre journée de travail ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Nous reportons certaines tâches parce qu'elles sont ennuyeuses, difficiles, effrayantes ou déplaisantes. Nous pouvons essayer de les surmonter dans notre tête au moyen de diverses stratégies et d’exercices, mais s'en débarrasser restera tout de même horrible et vous ne vous sentirez jamais « motivé ».",
+            "tips": "Selon le neurologue Richard Lévy, avant d'agir, l'homme évalue en permanence la valeur d'une action en fonction d'un équilibre bénéfice / effort.",
+            "clue": "",
+            "context_title": "Le Post-it restant",
+            "context_description": "Votre journée de travail est terminée… enfin ! Oh, attendez, et ce vieux Post-it qui reste sur votre bureau ? Il dit : « N'oublie pas de finir cette épouvantable mission courrier (tu sais de quoi je parle) ». OK allons-y !",
+            "context_media_description": "",
+            "choice_41nykvcVI": "Jeter cet horrible Post-it à la poubelle",
+            "choice_41aJJPqV8": "Vider la poubelle",
+            "choice_41VbJv54L": "Nettoyer votre bureau",
+            "choice_EyDfyP5EU": "Finir cette affreuse mission courrier",
+            "choice_4JGHyD9N8": "Prendre une courte leçon de yoga pour vous concentrer"
+        },
+        "de": {
+            "header": "Womit sollten Sie anfangen, um Ihren Arbeitstag richtig zu beenden?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Wir schieben Aufgaben auf, weil sie langweilig, schwierig, beängstigend oder auf andere Weise unangenehm sind. Wir können versuchen, diese Probleme in unseren Köpfen durch verschiedene Strategien und Übungen zu überwinden, aber die Mülleimer herauszunehmen, wird immer noch schrecklich sein und Sie werden sich niemals \"motiviert\" fühlen.",
+            "tips": "Laut Neurologe Richard Lévy bewerten Menschen vor einer Tätigkeit den Wert einer Handlung permanent anhand einer Gewinn-Aufwand-Bilanz.",
+            "clue": "",
+            "context_title": "Das restliche Post-it",
+            "context_description": "Ihr Arbeitstag ist beendet… endlich! Warten Sie, was ist mit diesem alten Post-it, das auf Ihrem Schreibtisch bleibt? Es heißt: \"Vergiss nicht, diese schreckliche Mail-Aufgabe zu erledigen (du weißt, wovon ich rede)\". OK los geht's!",
+            "context_media_description": "",
+            "choice_41nykvcVI": "Werfen Sie dieses schreckliche Post-it in den Mülleimer",
+            "choice_41aJJPqV8": "Leeren Sie den Mülleimer",
+            "choice_41VbJv54L": "Reinigen Sie Ihren Schreibtisch",
+            "choice_EyDfyP5EU": "Beenden Sie einfach diese schreckliche Mail-Aufgabe",
+            "choice_4JGHyD9N8": "Machen Sie eine kurze Yogastunde für die Konzentration"
+        },
+        "th": {
+            "header": "What should you start with to finish your working day properly?",
+            "explanation": "Select the correct answer below.",
+            "klf": "We put off tasks because they are boring, difficult, scary, or otherwise unpleasant. We can try to overcome these issues in our heads through various strategies and exercises, but taking the bins out will still be horrible and you'll never ‘feel motivated’.",
+            "tips": "According to neurologist Richard Lévy, before acting, human beings evaluate permanently the value of an action according to a profit/effort balance.",
+            "clue": "",
+            "context_title": "The remaining Post-it",
+            "context_description": "Your working day is finished…finally! Oh wait, what about this old Post-it that remains on your desk? It says 'Don't forget to complete that horrible mailing task (you know what I'm talking about)'. OK, let's go!",
+            "context_media_description": "",
+            "choice_41nykvcVI": "Throw this horrible Post-it in the bin",
+            "choice_41aJJPqV8": "Empty the bin",
+            "choice_41VbJv54L": "Clean your desk",
+            "choice_EyDfyP5EU": "Just complete that horrible mailing task",
+            "choice_4JGHyD9N8": "Take a short yoga lesson to be focused"
+        }
+    }
+}

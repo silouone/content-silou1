@@ -1,0 +1,67 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-03T12:46:03.740Z",
+            "updatedAt": "2019-05-27T08:55:35.975Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-06-05T12:43:07.082Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "dis_4ki-tqTOU",
+        "universalRef": "dis_4ki-tqTOU",
+        "name": "name",
+        "partnershipType": "paidpartner",
+        "position": 0,
+        "hidden": false,
+        "draft": true,
+        "cover": {
+            "coverDescription": "coverDescription",
+            "resource": null,
+            "poster": "med_4JkdluI38"
+        },
+        "courses": [],
+        "thematiques": [],
+        "partners": [
+            "part_V18SxMYsr"
+        ],
+        "conditions": [],
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "name": "Team development",
+            "coverDescription": "In 1965, Dr Bruce Tuckman designed a Team-Development model based on 4 stages: Forming, Storming, Norming, and Performing. In this course, you will discover how each of these steps should be carried out by a good … and a bad manager! No doubt it will help leaders develop strong, confident teams who need little direction to perform well."
+        },
+        "fr": {
+            "name": "Développer la cohésion dans les équipes",
+            "coverDescription": "En 1965, le Dr Bruce Tuckman a conçu un modèle de développement de la cohésion d'équipe basé sur 4 étapes : la formation, la tension, la normalisation et l'exécution. Dans ce cours, vous découvrirez comment chacune de ces étapes peut être menée par un bon… et un mauvais manager ! Cela aidera sans aucun doute les dirigeants à former des équipes solides, confiantes et qui n'ont besoin que de peu d’instructions pour être productives."
+        },
+        "de": {
+            "name": "Teamentwicklung",
+            "coverDescription": "<b> DEMNÄCHST BALD AUF DEUTSCH </b>\nIn 1965, Dr Bruce Tuckman designed a Team-Development model based on 4 stages: Forming, Storming, Norming, and Performing. In this course, you will discover how each of these steps should be carried out by a good … and a bad manager! No doubt it will help leaders develop strong, confident teams who need little direction to perform well."
+        },
+        "th": {
+            "name": "Team development",
+            "coverDescription": "In 1965, Dr Bruce Tuckman designed a Team-Development model based on 4 stages: Forming, Storming, Norming, and Performing. In this course, you will discover how each of these steps should be carried out by a good … and a bad manager! No doubt it will help leaders develop strong, confident teams who need little direction to perform well."
+        }
+    }
+}

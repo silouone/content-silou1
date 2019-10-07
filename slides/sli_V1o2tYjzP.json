@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:54:40.704Z",
+            "updatedAt": "2019-08-01T07:54:40.704Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny7ja6vMD"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_V1o2tYjzP",
+        "universalRef": "sli_V1o2tYjzP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1o2tYjzP.choice_EJlT6KYoMP.id",
+                        "label": "choice_EJlT6KYoMP",
+                        "value": "choice_EJlT6KYoMP",
+                        "media": "med_4kapKKsMw"
+                    },
+                    {
+                        "id": "sli_V1o2tYjzP.choice_EyxJRFYsMD.id",
+                        "label": "choice_EyxJRFYsMD",
+                        "value": "choice_EyxJRFYsMD",
+                        "media": "med_VykRFFoMP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyxJRFYsMD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The interviewer’s job is just to ask the right questions. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "To find the right candidate, it’s your job not just to ask the right questions, but to get the candidate talking. So, put them at ease.",
+            "tips": "Everyone gets nervous at interviews, regardless of how skilled, experienced or confident they are.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJlT6KYoMP": "True",
+            "choice_EyxJRFYsMD": "False"
+        },
+        "fr": {
+            "header": "Le travail du recruteur consiste simplement à poser les bonnes questions. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour trouver le bon candidat, votre travail ne consiste pas seulement à poser les bonnes questions, mais également à les faire parler. Alors, mettez-les à l'aise.",
+            "tips": "Tout le monde est nerveux lors d'un entretien, peu importe le niveau de compétence, l'expérience ou la confiance en soi.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJlT6KYoMP": "Vrai",
+            "choice_EyxJRFYsMD": "Faux"
+        },
+        "de": {
+            "header": "The interviewer’s job is just to ask the right questions. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "To find the right candidate, it’s your job not just to ask the right questions, but to get the candidate talking. So, put them at ease.",
+            "tips": "Everyone gets nervous at interviews, regardless of how skilled, experienced or confident they are.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJlT6KYoMP": "True",
+            "choice_EyxJRFYsMD": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJlT6KYoMP": "",
+            "choice_EyxJRFYsMD": ""
+        }
+    }
+}

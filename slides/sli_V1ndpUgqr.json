@@ -1,0 +1,112 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-05T15:01:14.752Z",
+            "updatedAt": "2018-10-05T15:07:50.741Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yx5i8eqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_V1ndpUgqr",
+        "universalRef": "sli_V1ndpUgqr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel36145",
+                        "items": [
+                            {
+                                "text": "choice_Eke5ERIxcS",
+                                "value": "choice_Eke5ERIxcS"
+                            },
+                            {
+                                "text": "choice_VJW5VAIecB",
+                                "value": "choice_VJW5VAIecB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel36145",
+                        "answers": [
+                            "choice_Eke5ERIxcS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to facilitate team thinking and decision making?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "That’s right ! Encourage contribution to facilitate team thinking and decision making.",
+            "tips": "(XXX)",
+            "clue": "(XXX)",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Team thinking and decision making will be facilitated if you {{sel36145}}",
+            "choice_Eke5ERIxcS": "Encourage everyone to contribute",
+            "choice_VJW5VAIecB": "Get the team to email their ideas"
+        },
+        "fr": {
+            "header": "What’s the best way to facilitate team thinking and decision making?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "That’s right ! Encourage contribution to facilitate team thinking and decision making.",
+            "tips": "(XXX)",
+            "clue": "(XXX)",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Team thinking and decision making will be facilitated if you {{sel36145}}",
+            "choice_Eke5ERIxcS": "Encourage everyone to contribute",
+            "choice_VJW5VAIecB": "Get the team to email their ideas"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um Teamdenken und Entscheidungsfindung zu erleichtern?",
+            "explanation": "Geben Sie Ihre Antwort ein oder wählen Sie die richtige Antwort in den Dropdown-Menüs aus.",
+            "klf": "Stimmt ! Ermutigen Sie einen Beitrag, um das Teamdenken und die Entscheidungsfindung zu erleichtern.",
+            "tips": "(XXX)",
+            "clue": "(XXX)",
+            "template": "Teamdenken und Entscheidungsfindung werden erleichtert, wenn Sie {{sel36145}}",
+            "choice_Eke5ERIxcS": "Ermutigen Sie alle, einen Beitrag zu leisten",
+            "choice_VJW5VAIecB": "Holen Sie sich das Team, um ihre Ideen per E-Mail zu senden",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "th": {
+            "header": "What’s the best way to facilitate team thinking and decision making?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "That’s right ! Encourage contribution to facilitate team thinking and decision making.",
+            "tips": "(XXX)",
+            "clue": "(XXX)",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Team thinking and decision making will be facilitated if you {{sel36145}}",
+            "choice_Eke5ERIxcS": "Encourage everyone to contribute",
+            "choice_VJW5VAIecB": "Get the team to email their ideas"
+        }
+    }
+}

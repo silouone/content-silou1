@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T13:13:38.375Z",
+            "updatedAt": "2018-11-09T11:26:09.729Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkziTzV5H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NJiNOcB5B",
+        "universalRef": "sli_NJiNOcB5B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJiNOcB5B.choice_V1YYdqB9r.id",
+                        "label": "choice_V1YYdqB9r",
+                        "value": "choice_V1YYdqB9r"
+                    },
+                    {
+                        "id": "sli_NJiNOcB5B.choice_VyrRhcBcr.id",
+                        "label": "choice_VyrRhcBcr",
+                        "value": "choice_VyrRhcBcr"
+                    },
+                    {
+                        "id": "sli_NJiNOcB5B.choice_NyNZejH9B.id",
+                        "label": "choice_NyNZejH9B",
+                        "value": "choice_NyNZejH9B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1YYdqB9r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is it stressful to try to remember all your tasks?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you don't write your tasks down and try to remember everything, you run the risk of being stressed out about forgetting something.",
+            "tips": "To be more efficient, identify the times of the day when you're most productive at work. That way, you can align the more complex tasks on your list with your most effective work times.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1YYdqB9r": "Because you will be worried about forgetting something",
+            "choice_VyrRhcBcr": "Because your brain can only remember 3 items at any given time",
+            "choice_NyNZejH9B": "Because working is stressful"
+        },
+        "fr": {
+            "header": "Pourquoi est-ce stressant de tenter de mémoriser toutes vos tâches ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si vous ne notez pas vos tâches et que vous tentez de toutes les mémoriser, vous courrez le risque d’être stressé à l’idée d’oublier quelque chose.",
+            "tips": "Pour gagner en efficacité, identifiez les moments de la journée où vous êtes plus productif au travail. Ainsi, vous pouvez programmer les tâches plus complexes de votre liste sur les créneaux horaires les plus productifs.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1YYdqB9r": "Parce que vous allez vous inquiéter à l’idée d’oublier quelque chose",
+            "choice_VyrRhcBcr": "Parce que votre cerveau ne peut mémoriser que 3 éléments à un moment donné",
+            "choice_NyNZejH9B": "Parce que travailler c’est stressant"
+        },
+        "de": {
+            "header": "Warum ist es anstrengend, sich an alle Ihre Aufgaben zu erinnern?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wenn Sie Ihre Aufgaben nicht aufschreiben und versuchen, sich an alles zu erinnern, laufen Sie Gefahr, gestresst zu werden, wenn Sie etwas vergessen.",
+            "tips": "Um effizienter zu sein, ermitteln Sie die Tageszeiten, zu denen Sie bei der Arbeit am produktivsten sind. Auf diese Weise können Sie die komplexeren Aufgaben auf Ihrer Liste an Ihre effektivsten Arbeitszeiten anpassen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1YYdqB9r": "Weil Sie sich Sorgen machen werden, etwas zu vergessen",
+            "choice_VyrRhcBcr": "Weil sich Ihr Gehirn immer nur 3 Elemente merken kann",
+            "choice_NyNZejH9B": "Weil das Arbeiten anstrengend ist"
+        },
+        "th": {
+            "header": "Why is it stressful to try to remember all your tasks?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you don't write your tasks down and try to remember everything, you run the risk of being stressed out about forgetting something.",
+            "tips": "To be more efficient, identify the times of the day when you're most productive at work. That way, you can align the more complex tasks on your list with your most effective work times.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1YYdqB9r": "Because you will be worried about forgetting something",
+            "choice_VyrRhcBcr": "Because your brain can only remember 3 items at any given time",
+            "choice_NyNZejH9B": "Because working is stressful"
+        }
+    }
+}

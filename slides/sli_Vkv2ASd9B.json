@@ -1,0 +1,99 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-11T14:42:18.379Z",
+            "updatedAt": "2018-10-11T14:42:56.322Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1m6r84cr"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_Vkv2ASd9B",
+        "universalRef": "sli_Vkv2ASd9B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vkv2ASd9B.choice_41QPgLu5B.id",
+                        "label": "choice_41QPgLu5B",
+                        "value": "choice_41QPgLu5B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41QPgLu5B"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "XX",
+            "explanation": "Select the correct answers below.",
+            "klf": "XXX",
+            "tips": "XXX",
+            "clue": "",
+            "context_title": "",
+            "context_description": "Bla bla",
+            "context_media_description": "",
+            "choice_41QPgLu5B": "Bla"
+        },
+        "fr": {
+            "header": "XX",
+            "explanation": "Select the correct answers below.",
+            "klf": "XXX",
+            "tips": "XXX",
+            "clue": "",
+            "context_title": "",
+            "context_description": "Bla bla",
+            "context_media_description": "",
+            "choice_41QPgLu5B": "Bla"
+        },
+        "de": {
+            "header": "XX",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "XXX",
+            "tips": "XXX",
+            "context_description": "Bla durchsuchen",
+            "choice_41QPgLu5B": "blättern",
+            "clue": "",
+            "context_title": "",
+            "context_media_description": ""
+        },
+        "th": {
+            "header": "XX",
+            "explanation": "Select the correct answers below.",
+            "klf": "XXX",
+            "tips": "XXX",
+            "clue": "",
+            "context_title": "",
+            "context_description": "Bla bla",
+            "context_media_description": "",
+            "choice_41QPgLu5B": "Bla"
+        }
+    }
+}

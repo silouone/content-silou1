@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T08:22:56.676Z",
+            "updatedAt": "2018-11-08T17:27:02.934Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJiXiLl9S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_41M32l45H",
+        "universalRef": "sli_41M32l45H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41M32l45H.choice_VkgJVRxV5H.id",
+                        "label": "choice_VkgJVRxV5H",
+                        "value": "choice_VkgJVRxV5H",
+                        "media": "med_41J4RlE5r"
+                    },
+                    {
+                        "id": "sli_41M32l45H.choice_EJxWSAgVcr.id",
+                        "label": "choice_EJxWSAgVcr",
+                        "value": "choice_EJxWSAgVcr",
+                        "media": "med_EJbSAeN9H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkgJVRxV5H"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4JMyNZ49H",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How would you qualify James’s behaviour?",
+            "explanation": "Select the correct answer.",
+            "klf": "Ego is the first barrier to getting a good team decision. Listen to your team and you’ll jump above that fence!",
+            "tips": "Want to learn more about ego clashes at work? <a href=\"https://www.startupdonut.co.uk/employees/recruitment-contracts-discipline-and-grievance/how-to-deal-with-workplace-ego-clashes\" target=\"_blank\">Click here ! </a>",
+            "clue": "Me, myself and I.",
+            "context_title": "James’s product strategy meeting",
+            "context_description": "In a meeting with his team, James, Product Owner, shuts everyone down before their ideas even have a chance to be heard.",
+            "context_media_description": "",
+            "choice_VkgJVRxV5H": "He’s behaving as an egomaniac",
+            "choice_EJxWSAgVcr": "He’s being a firm leader"
+        },
+        "fr": {
+            "header": "Comment qualifieriez-vous le comportement de James ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "L’égo est la première barrière à entraver une prise de décision sereine en équipe. Écoutez votre équipe et vous surmonterez cet obstacle !",
+            "tips": "Vous voulez en savoir plus sur les conflits d’égo au travail ? <a href=\"https://www.startupdonut.co.uk/employees/recruitment-contracts-discipline-and-grievance/how-to-deal-with-workplace-ego-clashes\" target=\"_blank\">Cliquez ici !</a>",
+            "clue": "Me, myself and I.",
+            "context_title": "Réunion de stratégie produit de James",
+            "context_description": "Lors d’une réunion avec son équipe, James, Responsable produit, coupe la parole à toute personne avant que ses idées aient une chance d’être entendues.",
+            "context_media_description": "",
+            "choice_VkgJVRxV5H": "Il se comporte de manière égocentrique",
+            "choice_EJxWSAgVcr": "C’est un leader déterminé"
+        },
+        "de": {
+            "header": "Wie würden Sie James Verhalten benennen?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Das Ego ist das erste Hindernis für eine gute Teamentscheidung. Hören Sie Ihrem Team zu und Sie überwinden diese Hürde!",
+            "tips": "Möchten Sie mehr über Ego-Zusammenstöße bei der Arbeit erfahren? <a href=\"https://www.startupdonut.co.uk/employees/recruitment-contracts-discipline-and-grievance/how-to-deal-with-workplace-ego-clashes\" target=\"_blank\">Klick hier !</a>",
+            "clue": "Ich, ich und ich.",
+            "context_title": "Das Produktstrategie-Meeting von James",
+            "context_description": "In einem Meeting mit seinem Team schließt James, Product Owner, jeden aus, bevor deren Ideen überhaupt eine Chance haben gehört zu werden.",
+            "context_media_description": "",
+            "choice_VkgJVRxV5H": "Er benimmt sich wie Egomane",
+            "choice_EJxWSAgVcr": "Er ist ein strenger Führer"
+        },
+        "th": {
+            "header": "คุณจะจัดให้เจมส์มีพฤติกรรมอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "อัตตาเป็นอุปสรรคอย่างแรกที่ขัดขวางการได้รับการตัดสินใจเป็นทีมที่ดี รับฟังทีมงานของคุณ แล้วคุณจะก้าวข้ามอุปสรรคไปได้",
+            "tips": "ต้องการเรียนรู้เพิ่มเติมเกี่ยวกับความขัดแย้งของอัตตาในที่ทำงานหรือไม่ <a href=\"https://www.startupdonut.co.uk/employees/recruitment-contracts-discipline-and-grievance/how-to-deal-with-workplace-ego-clashes\" target=\"_blank\">คลิกที่นี่ </a>",
+            "clue": "ฉันและตัวของฉัน",
+            "context_title": "การประชุมกลยุทธ์ผลิตภัณฑ์ของเจมส์",
+            "context_description": "ในการประชุมกับทีมของเขา เจมส์ ซึ่งเป็นเจ้าของผลิตภัณฑ์ ปิดโอกาสทุกๆ คนไม่ให้แสดงความคิดเห็นออกมา",
+            "context_media_description": "",
+            "choice_VkgJVRxV5H": "เขาทำตัวเป็นคนหลงอัตตาตัวเอง",
+            "choice_EJxWSAgVcr": "เขาเป็นผู้นำที่เข้มแข็ง"
+        }
+    }
+}

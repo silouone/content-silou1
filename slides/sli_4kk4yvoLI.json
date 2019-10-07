@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T13:42:36.987Z",
+            "updatedAt": "2019-03-18T10:46:41.022Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nym~TEsU8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4kk4yvoLI",
+        "universalRef": "sli_4kk4yvoLI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kk4yvoLI.choice_VJBgVDo8L.id",
+                        "label": "choice_VJBgVDo8L",
+                        "value": "choice_VJBgVDo8L"
+                    },
+                    {
+                        "id": "sli_4kk4yvoLI.choice_VJClVvj88.id",
+                        "label": "choice_VJClVvj88",
+                        "value": "choice_VJClVvj88"
+                    },
+                    {
+                        "id": "sli_4kk4yvoLI.choice_VJfzNvo8L.id",
+                        "label": "choice_VJfzNvo8L",
+                        "value": "choice_VJfzNvo8L"
+                    },
+                    {
+                        "id": "sli_4kk4yvoLI.choice_EyxXVwjUI.id",
+                        "label": "choice_EyxXVwjUI",
+                        "value": "choice_EyxXVwjUI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJBgVDo8L",
+                        "choice_VJClVvj88",
+                        "choice_EyxXVwjUI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is it vital to keep records of attendance?",
+            "explanation": "Select the correct answers.",
+            "klf": "Keeping records of attendance not only allows you to tackle the absence problem right away, but also to base your discussion with employees on factual evidence. And discussions often lead to solutions. That's a fact!",
+            "tips": "Creating an official employee attendance policy and getting everyone to sign it might as well be a good idea...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJBgVDo8L": "You can handle the absence problem right away, without letting it fester",
+            "choice_VJClVvj88": "You have factual evidence when discussing absence with the employee",
+            "choice_VJfzNvo8L": "Employees know you are watching them, which will deter absences",
+            "choice_EyxXVwjUI": "You can create solutions such as flexible hours"
+        },
+        "fr": {
+            "header": "Pourquoi est-il essentiel de conserver des registres de présence ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Tenir un registre de présence vous permet non seulement de régler les problèmes d'absentéisme immédiatement, mais également de fonder votre discussion avec vos employés sur des preuves factuelles. Et les discussions mènent souvent à des solutions. C'est un fait !",
+            "tips": "Créer une politique officielle de présence des employés et la faire signer par tout le monde pourrait également être une bonne idée ...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJBgVDo8L": "Vous pouvez gérer les problèmes d'absentéisme immédiatement, sans les laisser s'envenimer",
+            "choice_VJClVvj88": "Vous avez des preuves factuelles lorsque vous discutez absentéisme avec votre employé",
+            "choice_VJfzNvo8L": "Les employés savent que vous les regardez, ce qui dissuadera les absences",
+            "choice_EyxXVwjUI": "Vous pouvez proposer des solutions telles que des horaires flexibles"
+        },
+        "de": {
+            "header": "Why is it vital to keep records of attendance? ",
+            "explanation": "Select the correct answers.",
+            "klf": "Keeping records of attendance not only allows you to tackle the absence problem right away, but also to base your discussion with employees on factual evidence. And discussions often lead to solutions. That's a fact!",
+            "tips": "Creating an official employee attendance policy and getting everyone to sign it might as well be a good idea...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJBgVDo8L": "You can handle the absence problem right away, without letting it fester",
+            "choice_VJClVvj88": "You have factual evidence when discussing absence with the employee",
+            "choice_VJfzNvo8L": "Employees know you are watching them, which will deter absences",
+            "choice_EyxXVwjUI": "You can create solutions such as flexible hours\n"
+        },
+        "th": {
+            "header": "Why is it vital to keep records of attendance?",
+            "explanation": "Select the correct answers.",
+            "klf": "Keeping records of attendance not only allows you to tackle the absence problem right away, but also to base your discussion with employees on factual evidence. And discussions often lead to solutions. That's a fact!",
+            "tips": "Creating an official employee attendance policy and getting everyone to sign it might as well be a good idea...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJBgVDo8L": "You can handle the absence problem right away, without letting it fester",
+            "choice_VJClVvj88": "You have factual evidence when discussing absence with the employee",
+            "choice_VJfzNvo8L": "Employees know you are watching them, which will deter absences",
+            "choice_EyxXVwjUI": "You can create solutions such as flexible hours"
+        }
+    }
+}

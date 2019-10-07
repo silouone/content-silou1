@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-15T09:02:44.143Z",
+            "updatedAt": "2019-02-21T17:04:31.413Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41a7is6b8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_V1MscYLzL",
+        "universalRef": "sli_V1MscYLzL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel17334",
+                        "items": [
+                            {
+                                "text": "choice_E1eoiqtUMI",
+                                "value": "choice_E1eoiqtUMI"
+                            },
+                            {
+                                "text": "choice_41bsocKUzU",
+                                "value": "choice_41bsocKUzU"
+                            },
+                            {
+                                "text": "choice_Nkps9KUzI",
+                                "value": "choice_Nkps9KUzI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel17334",
+                        "answers": [
+                            "choice_41bsocKUzU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When trying to find out why an employee has performance issues…",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Ask questions, listen instead of talking and keep an open mind. It's the only way to find out what's really going on with someone's work issues.",
+            "tips": "Big talker? Experts tend to agree that people who talk compulsively are prone to insecurity or anxiety. Be the confident listener, it's a far cooler role to have.",
+            "clue": "Blank slate.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "…try not to {{sel17334}}.",
+            "choice_E1eoiqtUMI": "be friendly",
+            "choice_41bsocKUzU": "jump to conclusions",
+            "choice_Nkps9KUzI": "pick your nose"
+        },
+        "fr": {
+            "header": "Lorsque vous cherchez à découvrir l'origine d'un problème de performance d'un employé...",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Posez des questions, écoutez au lieu de parler et restez ouvert à la discussion. C'est le seul moyen de découvrir ce qui se cache réellement derrière les problèmes de performance d'un employé.",
+            "tips": "Grand bavard ? Les spécialistes tendent à affirmer que les personnes qui parlent sans arrêt sont sujettes à l'insécurité et à l'anxiété. Faites preuve d'une écoute confiante, c'est un rôle bien plus agréable.",
+            "clue": "Blank slate.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "...essayez de ne pas {{sel17334}}.",
+            "choice_E1eoiqtUMI": "être trop amical",
+            "choice_41bsocKUzU": "tirer des conclusions hâtives",
+            "choice_Nkps9KUzI": "mettre les doigts dans votre nez"
+        },
+        "de": {
+            "header": "Wenn Sie versuchen herauszufinden, warum ein Mitarbeiter Leistungsprobleme hat…",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Stellen Sie Fragen, hören Sie zu, anstatt zu reden, und bleiben Sie offen. Nur so können Sie herausfinden, was bei den Arbeitsproblemen von jemandem wirklich los ist.",
+            "tips": "Großer Redner? Experten sind sich darin einig, dass Menschen, die zwanghaft sprechen, zu Unsicherheit oder Angstzuständen neigen. Seien Sie der zuversichtliche Zuhörer, dies ist eine weitaus coolere Rolle.",
+            "clue": "Unbeschriebenes Blatt.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Versuchen Sie es nicht  {{sel17334}}.",
+            "choice_E1eoiqtUMI": "freundlich zu sein",
+            "choice_41bsocKUzU": "voreilig Schlussfolgerungen zu ziehen ",
+            "choice_Nkps9KUzI": "sich in der Nase zu bohren"
+        },
+        "th": {
+            "header": "When trying to find out why an employee has performance issues…",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Ask questions, listen instead of talking and keep an open mind. It's the only way to find out what's really going on with someone's work issues.",
+            "tips": "Big talker? Experts tend to agree that people who talk compulsively are prone to insecurity or anxiety. Be the confident listener, it's a far cooler role to have.",
+            "clue": "Blank slate.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "…try not to {{sel17334}}.",
+            "choice_E1eoiqtUMI": "be friendly",
+            "choice_41bsocKUzU": "jump to conclusions",
+            "choice_Nkps9KUzI": "pick your nose"
+        }
+    }
+}

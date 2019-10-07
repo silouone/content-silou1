@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T14:09:14.526Z",
+            "updatedAt": "2019-05-20T14:09:49.961Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JWrq-P2U"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJiW4io3U",
+        "universalRef": "sli_NJiW4io3U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJiW4io3U.choice_41lKG4iinL.id",
+                        "label": "choice_41lKG4iinL",
+                        "value": "choice_41lKG4iinL",
+                        "media": "med_VkFMVji28"
+                    },
+                    {
+                        "id": "sli_NJiW4io3U.choice_EkxiM4ishU.id",
+                        "label": "choice_EkxiM4ishU",
+                        "value": "choice_EkxiM4ishU",
+                        "media": "med_4yszEjs3I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkxiM4ishU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? You must involve you team in all the problems you are dealing with.",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s all about balance. While you should never keep the team completely in the dark, it’s a mistake to burden them with problems over which they have no control.",
+            "tips": "As a leader, it’s your responsibility to manage the team’s doubts and uncertainties, as well as your own.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41lKG4iinL": "TRUE",
+            "choice_EkxiM4ishU": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Vous devez impliquer votre équipe dans tous les problèmes que vous rencontrez.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "C’est une question d’équilibre. Même si vous ne devez jamais garder les membres de l'équipe complètement dans l’ignorance, c’est une erreur de leur imposer des problèmes sur lesquels ils n'ont aucun contrôle.",
+            "tips": "En tant que leader, il vous incombe de gérer les doutes et les incertitudes de l’équipe, ainsi que les vôtres.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41lKG4iinL": "VRAI",
+            "choice_EkxiM4ishU": "FAUX"
+        },
+        "de": {
+            "header": "True or false? You must involve you team in all the problems you are dealing with.",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s all about balance. While you should never keep the team completely in the dark, it’s a mistake to burden them with problems over which they have no control.",
+            "tips": "As a leader, it’s your responsibility to manage the team’s doubts and uncertainties, as well as your own.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41lKG4iinL": "True",
+            "choice_EkxiM4ishU": "False"
+        },
+        "th": {
+            "header": "True or false? You must involve you team in all the problems you are dealing with.",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s all about balance. While you should never keep the team completely in the dark, it’s a mistake to burden them with problems over which they have no control.",
+            "tips": "As a leader, it’s your responsibility to manage the team’s doubts and uncertainties, as well as your own.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41lKG4iinL": "TRUE",
+            "choice_EkxiM4ishU": "FALSE"
+        }
+    }
+}

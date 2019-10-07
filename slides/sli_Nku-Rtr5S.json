@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T12:47:05.906Z",
+            "updatedAt": "2018-11-09T11:21:22.006Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJu96GN9S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_Nku-Rtr5S",
+        "universalRef": "sli_Nku-Rtr5S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nku-Rtr5S.choice_4k250YS9B.id",
+                        "label": "choice_4k250YS9B",
+                        "value": "choice_4k250YS9B"
+                    },
+                    {
+                        "id": "sli_Nku-Rtr5S.choice_N1jjAYHcS.id",
+                        "label": "choice_N1jjAYHcS",
+                        "value": "choice_N1jjAYHcS"
+                    },
+                    {
+                        "id": "sli_Nku-Rtr5S.choice_E1jpe9HcB.id",
+                        "label": "choice_E1jpe9HcB",
+                        "value": "choice_E1jpe9HcB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1jjAYHcS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Is it possible to predict your own emotional state for the rest of the day with accuracy?",
+            "explanation": "Select the correct answer.",
+            "klf": "Emotions are difficult to predict, as they are susceptible to the elements around us, such as our diet, our hormones, our sleep, the time of year… Emotional uncertainty is part of the human condition.",
+            "tips": "It was originally thought that there are 6 universal human emotions (happiness, sadness, anger, surprise, fear and disgust). However, according to a 2017 study by researchers at UC Berkeley, the range is wider: they discovered 27 emotions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k250YS9B": "Yes, if you know yourself well, you can predict your emotions",
+            "choice_N1jjAYHcS": "No, emotions come and go without our control",
+            "choice_E1jpe9HcB": "Yes, you can predict your emotions if your day follows your usual routine"
+        },
+        "fr": {
+            "header": "Est-il possible de prévoir avec précision votre état émotionnel pour le reste de la journée ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les émotions sont difficiles à prévoir, car elles sont soumises à divers éléments qui nous entourent, tels notre régime alimentaire, nos hormones, notre sommeil, l’époque de l’année… L’incertitude émotionnelle fait partie intégrante de la condition humaine.",
+            "tips": "On pensait à l’origine qu’il existait 6 émotions humaines universelles (joie, tristesse, colère, surprise, peur et dégoût). Cependant, selon une étude de 2017 réalisée par des chercheurs de l’Université de Berkeley, celles-ci sont bien plus nombreuses : Ils ont découvert 27 émotions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k250YS9B": "Oui, si vous vous connaissez bien, vous pouvez prévoir vos émotions",
+            "choice_N1jjAYHcS": "Non, les émotions vont et viennent sans que nous puissions les contrôler",
+            "choice_E1jpe9HcB": "Oui, vous pouvez prévoir vos émotions si votre journée suit sa routine habituelle"
+        },
+        "de": {
+            "header": "Kann man den eigenen emotionalen Zustand für den Rest des Tages genau vorhersagen?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Emotionen sind schwer vorhersagbar, da sie für die Elemente um uns herum empfindlich sind, z. B. für unsere Ernährung, unsere Hormone, unseren Schlaf, die Jahreszeit… Emotionale Ungewissheit ist Teil des menschlichen Zustands.",
+            "tips": "Es wurde ursprünglich angenommen, dass es 6 universelle menschliche Emotionen gibt (Glück, Trauer, Wut, Überraschung, Angst und Abscheu). Laut einer Studie von Forschern von UC Berkeley aus dem Jahr 2017 ist das Angebot jedoch breiter: Sie entdeckten 27 Emotionen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k250YS9B": "Ja, wenn Sie sich gut kennen, können Sie Ihre Emotionen vorhersagen",
+            "choice_N1jjAYHcS": "Nein, Emotionen kommen und gehen ohne unsere Kontrolle",
+            "choice_E1jpe9HcB": "Ja, Sie können Ihre Gefühle vorhersagen, wenn Ihr Tag Ihrer üblichen Routine folgt"
+        },
+        "th": {
+            "header": "Is it possible to predict your own emotional state for the rest of the day with accuracy?",
+            "explanation": "Select the correct answer.",
+            "klf": "Emotions are difficult to predict, as they are susceptible to the elements around us, such as our diet, our hormones, our sleep, the time of year… Emotional uncertainty is part of the human condition.",
+            "tips": "It was originally thought that there are 6 universal human emotions (happiness, sadness, anger, surprise, fear and disgust). However, according to a 2017 study by researchers at UC Berkeley, the range is wider: they discovered 27 emotions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k250YS9B": "Yes, if you know yourself well, you can predict your emotions",
+            "choice_N1jjAYHcS": "No, emotions come and go without our control",
+            "choice_E1jpe9HcB": "Yes, you can predict your emotions if your day follows your usual routine"
+        }
+    }
+}

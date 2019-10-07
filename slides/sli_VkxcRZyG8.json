@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T16:22:12.481Z",
+            "updatedAt": "2019-02-22T12:02:42.716Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1dlTx1fI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_VkxcRZyG8",
+        "universalRef": "sli_VkxcRZyG8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel53849",
+                        "items": [
+                            {
+                                "text": "choice_EJeo2RZkf8",
+                                "value": "choice_EJeo2RZkf8"
+                            },
+                            {
+                                "text": "choice_4JZjnA~yz8",
+                                "value": "choice_4JZjnA~yz8"
+                            },
+                            {
+                                "text": "choice_Vy2nRZyzU",
+                                "value": "choice_Vy2nRZyzU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel53849",
+                        "answers": [
+                            "choice_4JZjnA~yz8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which kind of environments provide the best natural restorative powers?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Any green space has a positive effect on our rejuvenation. In fact, just a short time in a garden or park can significantly boost your mood, reduce your stress, and restore your motivation.",
+            "tips": "Other restorative spaces include ‘blue spaces’ (spaces that incorporate water), as well as museums and art galleries.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53849}}",
+            "choice_EJeo2RZkf8": "Urban landscapes",
+            "choice_4JZjnA~yz8": "Parks and green spaces",
+            "choice_Vy2nRZyzU": "Indoor spaces"
+        },
+        "fr": {
+            "header": "Quels types d'environnement ont les meilleurs pouvoirs naturels régénérants ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "N'importe quel espace vert nous aide à nous ressourcer. En fait, quelques minutes dans un jardin ou un parc suffisent à vous remonter le moral, à réduire votre stress et à retrouver votre motivation.",
+            "tips": "Les espaces régénérants incluent également les « espaces bleus » (espaces comprenant de l'eau), ainsi que les musées et les galeries d'art.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53849}}",
+            "choice_EJeo2RZkf8": "Espaces urbains",
+            "choice_4JZjnA~yz8": "Parcs et espaces verts",
+            "choice_Vy2nRZyzU": "Espaces intérieurs"
+        },
+        "de": {
+            "header": "Welche Umgebungen bieten die besten natürlichen Wiederherstellungskräfte?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Jede Grünfläche wirkt sich positiv auf unsere Erholung aus. Schon eine kurze Zeit in einem Garten oder Park kann Ihre Stimmung erheblich verbessern, Ihren Stress reduzieren und Ihre Motivation wiederherstellen.",
+            "tips": "Andere restaurative Räume sind „blaue Räume“ (Räume, die Wasser enthalten) sowie Museen und Kunstgalerien.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53849}}",
+            "choice_EJeo2RZkf8": "Stadtlandschaften",
+            "choice_4JZjnA~yz8": "Parks und Grünflächen",
+            "choice_Vy2nRZyzU": "Innenräume"
+        },
+        "th": {
+            "header": "Which kind of environments provide the best natural restorative powers?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Any green space has a positive effect on our rejuvenation. In fact, just a short time in a garden or park can significantly boost your mood, reduce your stress, and restore your motivation.",
+            "tips": "Other restorative spaces include ‘blue spaces’ (spaces that incorporate water), as well as museums and art galleries.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53849}}",
+            "choice_EJeo2RZkf8": "Urban landscapes",
+            "choice_4JZjnA~yz8": "Parks and green spaces",
+            "choice_Vy2nRZyzU": "Indoor spaces"
+        }
+    }
+}

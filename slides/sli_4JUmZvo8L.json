@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T13:56:57.532Z",
+            "updatedAt": "2019-03-08T13:56:57.532Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nym~TEsU8"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4JUmZvo8L",
+        "universalRef": "sli_4JUmZvo8L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JUmZvo8L.choice_EyLQMviL8.id",
+                        "label": "choice_EyLQMviL8",
+                        "value": "choice_EyLQMviL8"
+                    },
+                    {
+                        "id": "sli_4JUmZvo8L.choice_Vy~4MvoUI.id",
+                        "label": "choice_Vy~4MvoUI",
+                        "value": "choice_Vy~4MvoUI"
+                    },
+                    {
+                        "id": "sli_4JUmZvo8L.choice_VJi4MPjIU.id",
+                        "label": "choice_VJi4MPjIU",
+                        "value": "choice_VJi4MPjIU"
+                    },
+                    {
+                        "id": "sli_4JUmZvo8L.choice_Vk2rGPsIL.id",
+                        "label": "choice_Vk2rGPsIL",
+                        "value": "choice_Vk2rGPsIL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vy~4MvoUI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When is it best to tackle absenteeism?",
+            "explanation": "Select the correct answer.",
+            "klf": "When it comes to tackling absenteeism, the sooner the better!",
+            "tips": "In the US army jargon, ASAP means Army Substance Abuse Program.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyLQMviL8": "Within a calendar month",
+            "choice_Vy~4MvoUI": "As soon as possible",
+            "choice_VJi4MPjIU": "At a convenient time for the staff member",
+            "choice_Vk2rGPsIL": "When the manager has a spare moment"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moment pour aborder une question d'absentéisme ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "S'agissant de l'absentéisme, le plus tôt sera le mieux !",
+            "tips": "Dans le jargon de l'armée américaine, ASAP signifie Army Substance Abuse Program (Programme de désintoxication de l'armée).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyLQMviL8": "Dans un délai d'un mois civil",
+            "choice_Vy~4MvoUI": "Dès que possible",
+            "choice_VJi4MPjIU": "À un moment opportun pour le membre du personnel",
+            "choice_Vk2rGPsIL": "Quand le manager a un moment de libre"
+        },
+        "de": {
+            "header": "When is it best to tackle absenteeism? ",
+            "explanation": "Select the correct answer.",
+            "klf": "When it comes to tackling absenteeism, the sooner the better!",
+            "tips": "In the US army jargon, ASAP means Army Substance Abuse Program.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyLQMviL8": "Within a calendar month",
+            "choice_Vy~4MvoUI": "As soon as possible",
+            "choice_VJi4MPjIU": "At a convenient time for the staff member",
+            "choice_Vk2rGPsIL": "When the manager has a spare moment"
+        },
+        "th": {
+            "header": "When is it best to tackle absenteeism?",
+            "explanation": "Select the correct answer.",
+            "klf": "When it comes to tackling absenteeism, the sooner the better!",
+            "tips": "In the US army jargon, ASAP means Army Substance Abuse Program.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyLQMviL8": "Within a calendar month",
+            "choice_Vy~4MvoUI": "As soon as possible",
+            "choice_VJi4MPjIU": "At a convenient time for the staff member",
+            "choice_Vk2rGPsIL": "When the manager has a spare moment"
+        }
+    }
+}

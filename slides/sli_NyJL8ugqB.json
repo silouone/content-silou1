@@ -1,0 +1,102 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-05T15:57:36.386Z",
+            "updatedAt": "2018-11-09T10:42:38.851Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yx5i8eqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NyJL8ugqB",
+        "universalRef": "sli_NyJL8ugqB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyJL8ugqB.choice_Nkuw-ue9H.id",
+                        "label": "choice_Nkuw-ue9H",
+                        "value": "choice_Nkuw-ue9H"
+                    },
+                    {
+                        "id": "sli_NyJL8ugqB.choice_Eyf-OOx9H.id",
+                        "label": "choice_Eyf-OOx9H",
+                        "value": "choice_Eyf-OOx9H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Eyf-OOx9H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to come up with choices and options?",
+            "explanation": "Select the correct answer.",
+            "klf": "Getting everyone’s input based on a sharply focused question is the best way to come up with choices and options.",
+            "tips": "Asking ‘What if?’ questions is one of the best ways to anticipate the consequences of your decisions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkuw-ue9H": "Get your best man or woman on the job",
+            "choice_Eyf-OOx9H": "Come up with sharply focused questions and then get everyone’s input",
+            "null": ""
+        },
+        "fr": {
+            "header": "Quel est le moyen le plus efficace d’identifier des alternatives et des options ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Recueillir la vision de chacun en posant une question très ciblée est le moyen le plus efficace d’identifier les alternatives et les options.",
+            "tips": "Poser des questions du type « Que faire si... ? » est le moyen le plus efficace d’anticiper les conséquences de vos décisions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkuw-ue9H": "Confier cette tâche au collaborateur ou la collaboratrice le/la plus efficace",
+            "choice_Eyf-OOx9H": "Poser des questions très ciblées et recueillir l’opinion de chacun"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um Alternativen und Optionen zu finden?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Es ist der beste Weg, anhand einer konkreten Fragestellung, den Input aller zu erhalten, um Alternativen und Optionen finden",
+            "tips": "Fragen zu „Was wäre wenn?“ ist eine der besten Möglichkeiten, um die Auswirkungen Ihrer Entscheidungen zu antizipieren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkuw-ue9H": "Holen Sie sich Ihren besten Mann oder Ihre beste Frau bei der Arbeit",
+            "choice_Eyf-OOx9H": "Stellen Sie konkrete Fragestellungen und lassen sie alle ihren Input beitragen.",
+            "null": ""
+        },
+        "th": {
+            "header": "วิธีที่ดีที่สุดในการได้มาซึ่งทางเลือกและตัวเลือกคืออะไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "การได้รับความคิดเห็นจากทุกคนโดยใช้คำถามที่เน้นเฉพาะจุดอย่างชัดเจนเป็นวิธีที่ดีที่สุดในการได้มาซึ่งทางเลือกและตัวเลือก",
+            "tips": "การถามคำถาม ‘อะไรจะเกิดขึ้นถ้า’ เป็นวิธีที่สุดวิธีหนึ่งในการเตรียมรับมือกับผลที่ตามมาของการตัดสินใจของคุณ",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkuw-ue9H": "นำบุคลากรที่ดีที่สุดมาร่วมงาน",
+            "choice_Eyf-OOx9H": "ตั้งคำถามที่เน้นเฉพาะจุดอย่างชัดเจน แล้วรับฟังความคิดเห็นจากทุกคน",
+            "null": ""
+        }
+    }
+}

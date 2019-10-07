@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T09:56:57.880Z",
+            "updatedAt": "2019-02-11T09:58:22.786Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1pCAeB4I"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VkI5HN94I",
+        "universalRef": "sli_VkI5HN94I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel82651",
+                        "items": [
+                            {
+                                "text": "choice_4ke0kIE5NU",
+                                "value": "choice_4ke0kIE5NU"
+                            },
+                            {
+                                "text": "choice_E1b01U494I",
+                                "value": "choice_E1b01U494I"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel82651",
+                        "answers": [
+                            "choice_4ke0kIE5NU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Getting stuff done is about knowing how to do nothing at some key moments of the day. But how should you manage these breaks?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The longer you go between breaks, the longer they need to be to be beneficial. Try to take breaks frequently, and you'll find that they needn't be more than a couple of minutes long.",
+            "tips": "It seems logical that we should take a break when we feel tired. But recent studies have found that taking breaks early, before tiredness sets in, provide a bigger benefit for you later in the day.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The longer you go between breaks, the {{sel82651}} they need to be to be beneficial.",
+            "choice_4ke0kIE5NU": "longer",
+            "choice_E1b01U494I": "shorter"
+        },
+        "fr": {
+            "header": "Être productif, c'est savoir comment ne rien faire à certains moments clés de la journée. Mais comment gérer ces pauses ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Plus le temps entre vos pauses est long, plus elles devront être longues pour être bénéfiques. Essayez de prendre des pauses fréquemment et vous constaterez qu’elles n'ont pas besoin de durer plus de deux minutes.",
+            "tips": "Il semble logique de faire une pause quand on se sent fatigué. Mais des études récentes ont montré que prendre des pauses plus tôt, avant que la fatigue ne s'installe, vous sera plus bénéfique plus tard dans la journée.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Plus le temps entre vos pauses est long, plus elles devront être {{sel82651}} pour être bénéfiques.",
+            "choice_4ke0kIE5NU": "longues",
+            "choice_E1b01U494I": "courtes"
+        },
+        "de": {
+            "header": "Um Dinge zu erledigen, geht es darum, zu wissen, wie man in wichtigen Momenten des Tages nichts tut. Aber wie sollten Sie diese Pausen bewältigen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Je länger Sie zwischen den Pausen arbeiten, desto länger müssen sie sein, um von Nutzen zu sein. Versuchen Sie häufig, Pausen einzulegen, und Sie werden feststellen, dass sie nicht länger als ein paar Minuten brauchen.",
+            "tips": "Es erscheint logisch, dass wir eine Pause machen sollten, wenn wir müde sind. Aktuelle Studien haben jedoch gezeigt, dass eine frühzeitige Einnahme von Pausen, bevor Müdigkeit einsetzt, später am Tag einen größeren Nutzen für Sie bedeutet.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Je länger Sie zwischen den Pausen arbeiten, desto {{sel82651}} müssen sie sein, um vorteilhaft sein.",
+            "choice_4ke0kIE5NU": "länger",
+            "choice_E1b01U494I": "kürzer"
+        },
+        "th": {
+            "header": "Getting stuff done is about knowing how to do nothing at some key moments of the day. But how should you manage these breaks?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The longer you go between breaks, the longer they need to be to be beneficial. Try to take breaks frequently, and you'll find that they needn't be more than a couple of minutes long.",
+            "tips": "It seems logical that we should take a break when we feel tired. But recent studies have found that taking breaks early, before tiredness sets in, provide a bigger benefit for you later in the day.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The longer you go between breaks, the {{sel82651}} they need to be to be beneficial.",
+            "choice_4ke0kIE5NU": "longer",
+            "choice_E1b01U494I": "shorter"
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T14:45:30.304Z",
+            "updatedAt": "2019-03-20T16:36:44.538Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1dlTx1fI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_41iQcflQ8",
+        "universalRef": "sli_41iQcflQ8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel31558",
+                        "items": [
+                            {
+                                "text": "choice_VkeixsfxQI",
+                                "value": "choice_VkeixsfxQI"
+                            },
+                            {
+                                "text": "choice_VkZieoMgX8",
+                                "value": "choice_VkZieoMgX8"
+                            },
+                            {
+                                "text": "choice_4JEbjMeXU",
+                                "value": "choice_4JEbjMeXU"
+                            },
+                            {
+                                "text": "choice_EkFZszxQI",
+                                "value": "choice_EkFZszxQI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel31558",
+                        "answers": [
+                            "choice_VkeixsfxQI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When dealing with a stressful challenge, spending time in nature has been shown to help. But how long do you need to spend in a green space before feeling beneficial effects?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "If you are stuck in a stressful situation at the office and need a refresher, time in nature is priceless. Even spending five minutes in the park has been shown to help!",
+            "tips": "In addition to the known benefits of spending time in nature, studies are trying to establish whether or not simply listening to natural sounds could also have beneficial effects.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel31558}}",
+            "choice_VkeixsfxQI": "5 minutes",
+            "choice_VkZieoMgX8": "30 minutes",
+            "choice_4JEbjMeXU": "2 hours",
+            "choice_EkFZszxQI": "A full week"
+        },
+        "fr": {
+            "header": "Lorsque vous devez relever un défi particulièrement stressant, passez du temps au contact de la nature pour vous ressourcer. Combien de temps devez-vous passer dans un espace vert pour en ressentir les effets bénéfiques ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Si vous êtes bloqué sur un cas stressant au travail et que vous avez besoin de vous ressourcer, passer un moment en pleine nature est la solution idéale. Il a été démontré que cinq minutes passées dans un parc suffisaient à procurer du bien-être !",
+            "tips": "Outre les bienfaits connus du contact avec la nature, des études tentent de montrer si le fait d'écouter des sons naturels peut oui ou non également avoir des effets bénéfiques.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel31558}}",
+            "choice_VkeixsfxQI": "5 minutes",
+            "choice_VkZieoMgX8": "30 minutes",
+            "choice_4JEbjMeXU": "2 heures",
+            "choice_EkFZszxQI": "1 semaine entière"
+        },
+        "de": {
+            "header": "Bei einer stressigen Herausforderung hat sich gezeigt, dass Zeit in der Natur hilft. Aber wie lange müssen Sie in einem grünen Bereich verbringen, bevor Sie die wohltuende Wirkungen spüren?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie im Büro in einer stressigen Situation stecken und eine Auffrischung benötigen, ist die Zeit in der Natur von unschätzbarem Wert. Sogar fünf Minuten im Park zu verbringen, hat sich als hilfreich erwiesen!",
+            "tips": "Zusätzlich zu den bekannten Vorteilen von Zeit in der Natur, versuchen Studien zu ermitteln, ob allein das hören natürlicher Klänge auch positive Auswirkungen haben kann.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel31558}}",
+            "choice_VkeixsfxQI": "5 Minuten",
+            "choice_VkZieoMgX8": "30 Minuten",
+            "choice_4JEbjMeXU": "2 Stunden",
+            "choice_EkFZszxQI": "Eine ganze Woche"
+        },
+        "th": {
+            "header": "When dealing with a stressful challenge, spending time in nature has been shown to help. But how long do you need to spend in a green space before feeling beneficial effects?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "If you are stuck in a stressful situation at the office and need a refresher, time in nature is priceless. Even spending five minutes in the park has been shown to help!",
+            "tips": "In addition to the known benefits of spending time in nature, studies are trying to establish whether or not simply listening to natural sounds could also have beneficial effects.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel31558}}",
+            "choice_VkeixsfxQI": "5 minutes",
+            "choice_VkZieoMgX8": "30 minutes",
+            "choice_4JEbjMeXU": "2 hours",
+            "choice_EkFZszxQI": "A full week"
+        }
+    }
+}

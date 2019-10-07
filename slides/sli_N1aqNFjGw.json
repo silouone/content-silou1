@@ -1,0 +1,124 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:36:24.673Z",
+            "updatedAt": "2019-08-01T07:36:24.673Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tPTTPfv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_N1aqNFjGw",
+        "universalRef": "sli_N1aqNFjGw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1aqNFjGw.choice_EJRPHYoGw.id",
+                        "label": "choice_EJRPHYoGw",
+                        "value": "choice_EJRPHYoGw"
+                    },
+                    {
+                        "id": "sli_N1aqNFjGw.choice_EkxuStoMw.id",
+                        "label": "choice_EkxuStoMw",
+                        "value": "choice_EkxuStoMw"
+                    },
+                    {
+                        "id": "sli_N1aqNFjGw.choice_VkZdBKofw.id",
+                        "label": "choice_VkZdBKofw",
+                        "value": "choice_VkZdBKofw"
+                    },
+                    {
+                        "id": "sli_N1aqNFjGw.choice_NkM5HKsfw.id",
+                        "label": "choice_NkM5HKsfw",
+                        "value": "choice_NkM5HKsfw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkxuStoMw",
+                        "choice_VkZdBKofw"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_VyB7SFsMP",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you deal with this issue?",
+            "explanation": "Select the correct answers.",
+            "klf": "You are part of a team: support your colleagues in what they do. Also be loyal to your customers, you are not here to judge them.",
+            "tips": "While you are to avoid making the customer feel bad, it is important that you confirm your confidence in the quality of the product you are selling.",
+            "clue": "",
+            "context_title": "Arriving at the scene of the crime",
+            "context_description": "You’ve been called to help a customer who has an issue with a printer he just bought. It appears the customer used the wrong type of paper, causing the incident.",
+            "context_media_description": "",
+            "choice_EJRPHYoGw": "Blame the customer who made the mistake",
+            "choice_EkxuStoMw": "Explain the issue clearly",
+            "choice_VkZdBKofw": "Make necessary arrangements to fix the issue",
+            "choice_NkM5HKsfw": "Criticize the colleague who probably forgot to provide critical information"
+        },
+        "fr": {
+            "header": "Comment devriez-vous régler ce problème ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Vous faites partie d'une équipe : soutenez vos collègues dans leurs tâches. Soyez également fidèle à vos clients, vous n'êtes pas là pour les juger.",
+            "tips": "Tout en évitant de mettre le client mal à l'aise, il est important que vous confirmiez votre confiance en la qualité du produit que vous vendez.",
+            "clue": "",
+            "context_title": "Arriver sur les lieux du crime",
+            "context_description": "Vous avez été appelé pour aider un client qui a un problème avec une imprimante qu'il vient d'acheter. Il semble que le client ait utilisé le mauvais type de papier, ce qui a provoqué l'incident.",
+            "context_media_description": "",
+            "choice_EJRPHYoGw": "En blâmant le client qui a commis l'erreur",
+            "choice_EkxuStoMw": "En expliquant clairement le problème",
+            "choice_VkZdBKofw": "En prenant les dispositions nécessaires pour résoudre le problème",
+            "choice_NkM5HKsfw": "En critiquant le collègue qui a probablement oublié de fournir des informations importantes"
+        },
+        "de": {
+            "header": "How should you deal with this issue?",
+            "explanation": "Select the correct answers.",
+            "klf": "You are part of a team: support your colleagues in what they do. Also be loyal to your customers, you are not here to judge them.",
+            "tips": "While you are to avoid making the customer feel bad, it is important that you confirm your confidence in the quality of the product you are selling.",
+            "clue": "",
+            "context_title": "Arriving at the scene of the crime",
+            "context_description": "You’ve been called to help a customer who has an issue with a printer he just bought. It appears the customer used the wrong type of paper, causing the incident.",
+            "context_media_description": "",
+            "choice_EJRPHYoGw": "Blame the customer who made the mistake",
+            "choice_EkxuStoMw": "Explain the issue clearly",
+            "choice_VkZdBKofw": "Make necessary arrangements to fix the issue",
+            "choice_NkM5HKsfw": "Criticize the colleague who probably forgot to provide critical information"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJRPHYoGw": "",
+            "choice_EkxuStoMw": "",
+            "choice_VkZdBKofw": "",
+            "choice_NkM5HKsfw": ""
+        }
+    }
+}

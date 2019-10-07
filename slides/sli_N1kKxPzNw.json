@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-18T15:48:14.322Z",
+            "updatedAt": "2019-09-03T09:14:37.389Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny8VckEmD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_N1kKxPzNw",
+        "universalRef": "sli_N1kKxPzNw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel29371",
+                        "items": [
+                            {
+                                "text": "choice_N1x5TlPMED",
+                                "value": "choice_N1x5TlPMED"
+                            },
+                            {
+                                "text": "choice_4yZ9pePGEv",
+                                "value": "choice_4yZ9pePGEv"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel14177",
+                        "items": [
+                            {
+                                "text": "choice_Ekgx0evGNP",
+                                "value": "choice_Ekgx0evGNP"
+                            },
+                            {
+                                "text": "choice_NkWxCgvGVD",
+                                "value": "choice_NkWxCgvGVD"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel29371",
+                        "answers": [
+                            "choice_N1x5TlPMED"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel14177",
+                        "answers": [
+                            "choice_NkWxCgvGVD"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When trying to close with a client, what is the most productive way to sell your product?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "People buy products whose benefits match their needs; in other words, when they know that the product's benefits are meaningful to them. Unlike the salesperson, they do not need to know about every single feature; they just need to know how the product will make their life better and/or easier!",
+            "tips": "To quote Steve Jobs's famous words, ‘You’ve got to start with the customer experience and work backwards to the technology. You cannot start with the technology and try to figure out where you are going to sell it.’ Understand the customer needs and how your product fulfills them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sell the product's {{sel29371}}, not its {{sel14177}}.",
+            "choice_N1x5TlPMED": "benefits",
+            "choice_4yZ9pePGEv": "features",
+            "choice_Ekgx0evGNP": "benefits",
+            "choice_NkWxCgvGVD": "features"
+        },
+        "fr": {
+            "header": "Lorsque vous essayez de fermer avec un client, quel est le moyen le plus productif de vendre votre produit?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Les gens achètent des produits dont les bénéfices correspondent à leurs besoins; en d'autres termes, quand ils savent que les avantages du produit sont significatifs pour eux. Contrairement au vendeur, ils n'ont pas besoin de connaître chaque fonctionnalité. ils ont juste besoin de savoir comment le produit va leur rendre la vie meilleure et / ou plus facile!",
+            "tips": "Pour citer les célèbres mots de Steve Jobs, «Vous devez commencer par l’expérience client et revenir à la technologie. Vous ne pouvez pas commencer avec la technologie et essayer de déterminer où vous allez la vendre. »Comprenez les besoins du client et la manière dont votre produit les satisfait.",
+            "template": "Vendez le {{sel29371}} , pas son {{sel14177}} .",
+            "choice_N1x5TlPMED": "avantages",
+            "choice_4yZ9pePGEv": "traits",
+            "choice_Ekgx0evGNP": "avantages",
+            "choice_NkWxCgvGVD": "traits",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "When trying to close with a client, what is the most productive way to sell your product?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "People buy products whose benefits match their needs; in other words, when they know that the product's benefits are meaningful to them. Unlike the salesperson, they do not need to know about every single feature; they just need to know how the product will make their life better and/or easier!",
+            "tips": "To quote Steve Jobs's famous words, ‘You’ve got to start with the customer experience and work backwards to the technology. You cannot start with the technology and try to figure out where you are going to sell it.’ Understand the customer needs and how your product fulfills them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sell the product's {{sel29371}}, not its {{sel14177}}.",
+            "choice_N1x5TlPMED": "benefits",
+            "choice_4yZ9pePGEv": "features",
+            "choice_Ekgx0evGNP": "benefits",
+            "choice_NkWxCgvGVD": "features"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel29371}} {{sel14177}}",
+            "choice_N1x5TlPMED": "",
+            "choice_4yZ9pePGEv": "",
+            "choice_Ekgx0evGNP": "",
+            "choice_NkWxCgvGVD": ""
+        }
+    }
+}

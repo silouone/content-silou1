@@ -1,0 +1,131 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-17T09:18:25.583Z",
+            "updatedAt": "2019-02-22T12:01:00.973Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJNeaekfU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_Vy7VwEKz8",
+        "universalRef": "sli_Vy7VwEKz8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy7VwEKz8.choice_NkYdv4FMI.id",
+                        "label": "choice_NkYdv4FMI",
+                        "value": "choice_NkYdv4FMI"
+                    },
+                    {
+                        "id": "sli_Vy7VwEKz8.choice_Ek9-vNYf8.id",
+                        "label": "choice_Ek9-vNYf8",
+                        "value": "choice_Ek9-vNYf8"
+                    },
+                    {
+                        "id": "sli_Vy7VwEKz8.choice_4kodwVFML.id",
+                        "label": "choice_4kodwVFML",
+                        "value": "choice_4kodwVFML"
+                    },
+                    {
+                        "id": "sli_Vy7VwEKz8.choice_4knuDVKG8.id",
+                        "label": "choice_4knuDVKG8",
+                        "value": "choice_4knuDVKG8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ek9-vNYf8",
+                        "choice_4kodwVFML"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NyGyiEKGI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Based on the preceding context, what are the likely consequences of your decision to skip lunch?",
+            "explanation": "Select the correct answers.",
+            "klf": "Skipping meals to fit in more work can set off our ‘food swings’ or make us ‘hangry’. But on top of becoming irritable or aggressive, hunger and dehydration also affect our concentration. They impact our cognitive functions, focus, alertness, and short-term memory.",
+            "tips": "Low blood sugar, or hypoglycemia, can cause negative reactions such as fatigue, headache, nausea, or in severe cases loss of consciousness or seizures. If you feel any of these adverse symptoms after skipping a meal, immediately eat or drink something to quickly raise your blood sugar levels.",
+            "clue": "",
+            "context_title": "This report is due in a few hours!",
+            "context_description": "You are under a lot of stress at work. Your boss wants the final version of the annual marketing report on his desk… for yesterday. Needless to say, you haven't had much time to sleep this week. In order to get everything finished in time, you decide to skip lunch.",
+            "context_media_description": "",
+            "choice_NkYdv4FMI": "Obviously, it's the right decision: you will be more efficient, work faster, and your boss and coworkers will like you more",
+            "choice_Ek9-vNYf8": "It's not a good idea: your sugar level will crash, weakening your state even more",
+            "choice_4kodwVFML": "It's a bad idea: your stress level is going to go through the roof, making you inefficient, and difficult to work with",
+            "choice_4knuDVKG8": "Obviously, it's the right decision: wasting time to eat lunch is for the weak",
+            "null": "",
+            "choice_41zdaVtfU": ""
+        },
+        "fr": {
+            "header": "Dans ce contexte, quelles sont les conséquences probables de votre décision de sauter le déjeuner ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Sauter des repas pour travailler plus peut provoquer un « déséquilibre alimentaire » ou déclencher des « colères alimentaires ». Mais en plus de nous rendre irritables ou agressifs, la faim et la déshydratation nuisent également à notre concentration. Elles nuisent à nos fonctions cognitives, à notre attention, notre vigilance, et notre mémoire à court terme.",
+            "tips": "Une carence en sucre, ou hypoglycémie, peut entraîner des réactions négatives comme la fatigue, les maux de tête, la nausée, ou dans les cas les plus graves, une perte de connaissance ou des convulsions. Si vous ressentez l'un de ces symptômes indésirables après avoir sauté un repas, mangez ou buvez immédiatement pour faire remonter votre taux de sucre.",
+            "clue": "",
+            "context_title": "Ce rapport doit être livré dans quelques heures !",
+            "context_description": "Vous subissez un stress important au travail. Votre directeur veut la version finale du rapport de marketing annuel sur son bureau...pour hier. Inutile de préciser que vous n'avez pas beaucoup dormi cette semaine. Pour pouvoir tout terminer dans les temps, vous décidez de ne pas déjeuner.",
+            "context_media_description": "",
+            "choice_NkYdv4FMI": "Évidemment, c'est la meilleure décision : vous serez plus efficace, travaillerez plus rapidement, et votre directeur et vos collègues vous apprécieront encore plus",
+            "choice_Ek9-vNYf8": "Ce n'est pas une bonne idée : votre niveau de sucre va chuter et vous affaiblir encore plus",
+            "choice_4kodwVFML": "C'est une mauvaise idée : votre niveau de stress va grimper en flèche, ce qui vous rendra inefficace et vous éprouverez des difficultés à travailler avec les autres",
+            "choice_4knuDVKG8": "Évidemment, c'est la meilleure décision : perdre du temps à déjeuner est réservé aux faibles",
+            "choice_41zdaVtfU": ""
+        },
+        "de": {
+            "header": "Was sind die wahrscheinlichen Konsequenzen Ihrer Entscheidung, das Mittagessen auszulassen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Wenn Sie Mahlzeiten auslassen, um mehr Arbeit zu erledigen, können Sie „Essensschwankungen“ auslösen oder „hungrig“ machen. Hunger und Dehydrierung machen uns nicht nur gereizt und aggressiv, sondern beeinflussen auch unsere Konzentration. Sie beeinflussen unsere kognitiven Funktionen, den Fokus, die Wachheit und das Kurzzeitgedächtnis.",
+            "tips": "Niedriger Blutzucker oder Hypoglykämie kann negative Reaktionen wie Müdigkeit, Kopfschmerzen, Übelkeit oder in schweren Fällen Bewusstseinsverlust oder Krampfanfälle verursachen. Wenn Sie nach dem Auslassen einer Mahlzeit eines dieser unerwünschten Symptome verspüren, essen oder trinken Sie sofort etwas, um den Blutzuckerspiegel schnell zu erhöhen.",
+            "clue": "",
+            "context_title": "Dieser Bericht ist in wenigen Stunden fällig!",
+            "context_description": "Sie stehen bei der Arbeit unter Stress. Ihr Chef möchte die endgültige Version des jährlichen Marketingberichts auf seinem Schreibtisch… gestern schon. Es ist unnötig zu erwähnen, dass Sie diese Woche nicht viel Zeit zum Schlafen hatten. Um alles rechtzeitig fertig zu stellen, verzichten Sie auf das Mittagessen.",
+            "context_media_description": "",
+            "choice_NkYdv4FMI": "Natürlich ist es die richtige Entscheidung: Sie werden effizienter arbeiten, schneller arbeiten und Ihr Chef und Ihre Kollegen werden Sie mehr mögen",
+            "choice_Ek9-vNYf8": "Das ist keine gute Idee: Ihr Zuckerspiegel wird zusammenbrechen und Ihren Zustand verschlechtern",
+            "choice_4kodwVFML": "Das ist eine schlechte Idee: Ihr Stresslevel wird durch das Dach gehen, Sie ineffizient arbeiten lassun und die Arbeit erschweren",
+            "choice_4knuDVKG8": "Natürlich ist es die richtige Entscheidung: Zeit zu verschwenden, um Mittag zu essen, ist was für Schwachen",
+            "choice_41zdaVtfU": ""
+        },
+        "th": {
+            "header": "Based on the preceding context, what are the likely consequences of your decision to skip lunch?",
+            "explanation": "Select the correct answers.",
+            "klf": "Skipping meals to fit in more work can set off our ‘food swings’ or make us ‘hangry’. But on top of becoming irritable or aggressive, hunger and dehydration also affect our concentration. They impact our cognitive functions, focus, alertness, and short-term memory.",
+            "tips": "Low blood sugar, or hypoglycemia, can cause negative reactions such as fatigue, headache, nausea, or in severe cases loss of consciousness or seizures. If you feel any of these adverse symptoms after skipping a meal, immediately eat or drink something to quickly raise your blood sugar levels.",
+            "clue": "",
+            "context_title": "This report is due in a few hours!",
+            "context_description": "You are under a lot of stress at work. Your boss wants the final version of the annual marketing report on his desk… for yesterday. Needless to say, you haven't had much time to sleep this week. In order to get everything finished in time, you decide to skip lunch.",
+            "context_media_description": "",
+            "choice_NkYdv4FMI": "Obviously, it's the right decision: you will be more efficient, work faster, and your boss and coworkers will like you more",
+            "choice_Ek9-vNYf8": "It's not a good idea: your sugar level will crash, weakening your state even more",
+            "choice_4kodwVFML": "It's a bad idea: your stress level is going to go through the roof, making you inefficient, and difficult to work with",
+            "choice_4knuDVKG8": "Obviously, it's the right decision: wasting time to eat lunch is for the weak",
+            "null": "",
+            "choice_41zdaVtfU": ""
+        }
+    }
+}

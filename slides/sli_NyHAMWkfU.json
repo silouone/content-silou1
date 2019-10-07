@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T15:34:27.505Z",
+            "updatedAt": "2019-02-22T11:54:02.554Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkDpnlyf8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NyHAMWkfU",
+        "universalRef": "sli_NyHAMWkfU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyHAMWkfU.choice_VyPkX~yfL.id",
+                        "label": "choice_VyPkX~yfL",
+                        "value": "choice_VyPkX~yfL"
+                    },
+                    {
+                        "id": "sli_NyHAMWkfU.choice_Vk-yX~JG8.id",
+                        "label": "choice_Vk-yX~JG8",
+                        "value": "choice_Vk-yX~JG8"
+                    },
+                    {
+                        "id": "sli_NyHAMWkfU.choice_N1t1m~JzU.id",
+                        "label": "choice_N1t1m~JzU",
+                        "value": "choice_N1t1m~JzU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1t1m~JzU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How does multi-tasking affect your work?",
+            "explanation": "Select the correct answer.",
+            "klf": "Multi-tasking isn’t a thing. It just means failing to do any one thing properly. In fact, if you try to multi-task, you will waste time and lose focus.",
+            "tips": "Multi-tasking actually means that you are never giving 100% of your attention to a task at a given time.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyPkX~yfL": "You get more done by working on many things at once",
+            "choice_Vk-yX~JG8": "You concentrate more when working on many tasks at once, so your quality of work increases",
+            "choice_N1t1m~JzU": "You waste time and lose focus switching between tasks while multi-tasking, adversely affecting your work"
+        },
+        "fr": {
+            "header": "Comment le multitâche affecte-t-il votre travail ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le multitâche n'est pas une solution. Cela signifie que vous ne parvenez pas à réaliser une activité unique correctement. En réalité, si vous pratiquez le multitâche, vous allez perdre du temps et votre concentration.",
+            "tips": "Le multitâche signifie en fait que vous n'accordez jamais 100 % de votre attention à une tâche à un moment donné.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyPkX~yfL": "Vous êtes plus performant en travaillant sur plusieurs tâches à la fois",
+            "choice_Vk-yX~JG8": "Vous êtes plus concentré lorsque vous réalisez plusieurs tâches à la fois, ce qui augmente la qualité de votre travail",
+            "choice_N1t1m~JzU": "Vous perdez du temps et votre concentration à jongler entre plusieurs tâches, ce qui nuit à votre travail"
+        },
+        "de": {
+            "header": "Wie wirkt sich Multitasking auf Ihre Arbeit aus?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Multitasking ist kein Trend. Es bedeutet nur, dass Sie etwas nicht richtig machen. Wenn Sie versuchen, mehrere Aufgaben zu erledigen, verlieren Sie Zeit und verlieren den Fokus.",
+            "tips": "Multitasking bedeutet eigentlich, dass Sie sich zu einem bestimmten Zeitpunkt niemals zu 100% auf eine Aufgabe konzentrieren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyPkX~yfL": "Sie erledigen mehr, wenn Sie an vielen Dingen gleichzeitig arbeiten",
+            "choice_Vk-yX~JG8": "Sie konzentrieren sich mehr auf viele Aufgaben gleichzeitig und erhöhen so Ihre Arbeitsqualität",
+            "choice_N1t1m~JzU": "Sie verlieren Zeit und verlieren den Fokus beim Wechseln zwischen Aufgaben während des Multitaskings, was sich negativ auf Ihre Arbeit auswirkt"
+        },
+        "th": {
+            "header": "How does multi-tasking affect your work?",
+            "explanation": "Select the correct answer.",
+            "klf": "Multi-tasking isn’t a thing. It just means failing to do any one thing properly. In fact, if you try to multi-task, you will waste time and lose focus.",
+            "tips": "Multi-tasking actually means that you are never giving 100% of your attention to a task at a given time.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyPkX~yfL": "You get more done by working on many things at once",
+            "choice_Vk-yX~JG8": "You concentrate more when working on many tasks at once, so your quality of work increases",
+            "choice_N1t1m~JzU": "You waste time and lose focus switching between tasks while multi-tasking, adversely affecting your work"
+        }
+    }
+}

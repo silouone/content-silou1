@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-13T12:34:51.475Z",
+            "updatedAt": "2019-03-05T15:28:48.541Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9H4yENI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VyCWjlaEI",
+        "universalRef": "sli_VyCWjlaEI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyCWjlaEI.choice_NkFK2e6EU.id",
+                        "label": "choice_NkFK2e6EU",
+                        "value": "choice_NkFK2e6EU"
+                    },
+                    {
+                        "id": "sli_VyCWjlaEI.choice_NyxtY2laV8.id",
+                        "label": "choice_NyxtY2laV8",
+                        "value": "choice_NyxtY2laV8"
+                    },
+                    {
+                        "id": "sli_VyCWjlaEI.choice_Nk4yaxTEI.id",
+                        "label": "choice_Nk4yaxTEI",
+                        "value": "choice_Nk4yaxTEI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nk4yaxTEI"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NyHvhxTE8",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As the team manager, how do you react to Mark's frustration?",
+            "explanation": "Select the correct answer.",
+            "klf": "When your team members share their frustration with you, it's your job as their manager to listen to them and help them find solutions that make them enjoy their work.",
+            "tips": "You should accept to be challenged by your employees and to reconsider a work organisation, the nature of a task… Steve Jobs hit the finger on the nail when he said: ‘It doesn’t make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.’",
+            "clue": "",
+            "context_title": "The boreout is real",
+            "context_description": "One of your team members, Mark, tells you he's getting bored in his job. He explains that he has started to look for offers elsewhere to see how his expertise can be valued differently.",
+            "context_media_description": "",
+            "choice_NkFK2e6EU": "‘I understand. I wish you good luck in finding something that will suit you better.’",
+            "choice_NyxtY2laV8": "‘If you're bored, it means you're not involved enough in the company, and we can't waste time on unmotivated people.’",
+            "choice_Nk4yaxTEI": "‘I'm so sorry to hear that. Let's see how we can adapt your tasks, you're a key element and I want your job to be fulfilling.’"
+        },
+        "fr": {
+            "header": "En tant que manager, comment réagissez-vous à la frustration de Mark ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque les membres de votre équipe partagent leur frustration avec vous, il vous appartient, en tant que responsable, de les écouter et de les aider à trouver des solutions pour rendre leur travail agréable.",
+            "tips": "Vous devez accepter d'être mis au défi par vos employés et de reconsidérer l'organisation d'un travail, la nature d'une tâche… Steve Jobs a souligné ce point lorsqu'il a déclaré : « Cela n'a pas de sens d'engager des personnes intelligentes et de leur dire quoi faire. Nous embauchons des gens intelligents pour qu'eux puissent nous dire quoi faire. »",
+            "clue": "",
+            "context_title": "Le « bore out » existe vraiment",
+            "context_description": "Mark, l'un des membres de votre équipe, vous dit qu'il s'ennuie dans son travail. Il explique qu'il a commencé à chercher des offres ailleurs pour voir comment son savoir-faire peut être différemment valorisé.",
+            "context_media_description": "",
+            "choice_NkFK2e6EU": "« Je comprends. Je vous souhaite bonne chance pour trouver quelque chose qui vous conviendra mieux. »",
+            "choice_NyxtY2laV8": "« Si vous vous ennuyez, cest que vous n'êtes pas suffisamment impliqué dans l'entreprise et nous ne pouvons pas perdre du temps avec des gens qui ne sont pas motivés. »",
+            "choice_Nk4yaxTEI": "« Je suis désolé d'apprendre ça. Voyons comment nous pouvons adapter vos tâches, vous êtes un élément clé et je veux que votre travail soit épanouissant. »"
+        },
+        "de": {
+            "header": "Wie reagieren Sie als Teammanager auf Marks Frustration?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wenn Ihre Teammitglieder ihre Frustration mit Ihnen teilen, ist es Ihre Aufgabe als Manager, ihnen zuzuhören und ihnen zu helfen, Lösungen zu finden, die ihnen die Arbeit erleichtern.",
+            "tips": "Sie sollten akzeptieren, von Ihren Mitarbeitern herausgefordert zu werden und eine Arbeitsorganisation zu überdenken, die Art einer Aufgabe zu… Steve Jobs hat den Finger auf den Nagel gedrückt, als er sagte: „Es macht keinen Sinn, kluge Leute einzustellen und ihnen zu sagen, was sie tun sollen; Wir stellen intelligente Leute ein, damit sie uns sagen können, was zu tun ist. “",
+            "clue": "",
+            "context_title": "Das Durchbohren ist echt",
+            "context_description": "Eines Ihrer Teammitglieder, Mark, sagt Ihnen, dass es ihm langweilig wird. Er erklärt, dass er begonnen hat, anderswo nach Angeboten zu suchen, um zu sehen, wie sein Fachwissen unterschiedlich bewertet werden kann.",
+            "context_media_description": "",
+            "choice_NkFK2e6EU": "Ich verstehe. Ich wünsche Ihnen viel Glück bei der Suche nach etwas, das besser zu Ihnen passt. “",
+            "choice_NyxtY2laV8": "Wenn Sie sich langweilen, bedeutet das, dass Sie nicht genug im Unternehmen involviert sind, und wir können keine Zeit mit unmotivierten Menschen verschwenden.",
+            "choice_Nk4yaxTEI": "Es tut mir leid das zu hören. Mal sehen, wie wir Ihre Aufgaben anpassen können, Sie sind ein Schlüsselelement und ich möchte, dass Ihre Aufgabe erfüllt wird. “"
+        },
+        "th": {
+            "header": "As the team manager, how do you react to Mark's frustration?",
+            "explanation": "Select the correct answer.",
+            "klf": "When your team members share their frustration with you, it's your job as their manager to listen to them and help them find solutions that make them enjoy their work.",
+            "tips": "You should accept to be challenged by your employees and to reconsider a work organisation, the nature of a task… Steve Jobs hit the finger on the nail when he said: ‘It doesn’t make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.’",
+            "clue": "",
+            "context_title": "The boreout is real",
+            "context_description": "One of your team members, Mark, tells you he's getting bored in his job. He explains that he has started to look for offers elsewhere to see how his expertise can be valued differently.",
+            "context_media_description": "",
+            "choice_NkFK2e6EU": "‘I understand. I wish you good luck in finding something that will suit you better.’",
+            "choice_NyxtY2laV8": "‘If you're bored, it means you're not involved enough in the company, and we can't waste time on unmotivated people.’",
+            "choice_Nk4yaxTEI": "‘I'm so sorry to hear that. Let's see how we can adapt your tasks, you're a key element and I want your job to be fulfilling.’"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T10:06:46.293Z",
+            "updatedAt": "2019-04-23T13:03:08.744Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1cxohDqI"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_E1cEG0D9L",
+        "universalRef": "sli_E1cEG0D9L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1cEG0D9L.choice_4ygUfCPq8.id",
+                        "label": "choice_4ygUfCPq8",
+                        "value": "choice_4ygUfCPq8"
+                    },
+                    {
+                        "id": "sli_E1cEG0D9L.choice_NkHIGRv5L.id",
+                        "label": "choice_NkHIGRv5L",
+                        "value": "choice_NkHIGRv5L"
+                    },
+                    {
+                        "id": "sli_E1cEG0D9L.choice_E1iLGRvc8.id",
+                        "label": "choice_E1iLGRvc8",
+                        "value": "choice_E1iLGRvc8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1iLGRvc8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "‘Ah, I see you've booked a 3-day trip on our ship… Will you take the meals included pack or fish by yourselves? And have you thought of which rods you would need?’ In which order are those questions?",
+            "explanation": "Select the correct answer.",
+            "klf": "To help guide and control your customer’s interest, use rhetorical questions to confirm understanding, assumptive questions to create decisions, and leading questions to direct them towards a sale or solution.",
+            "tips": "Rhetorical questions are not superfluous: they will avoid customer dissatisfaction as they will feel they've been understood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygUfCPq8": "Rhetorical question + Leading question + Assumptive question",
+            "choice_NkHIGRv5L": "Leading question + Assumptive question + Rhetorical question",
+            "choice_E1iLGRvc8": "Rhetorical question + Assumptive question + Leading question"
+        },
+        "fr": {
+            "header": "« Ah, je vois que vous avez réservé un voyage de 3 jours sur notre bateau… Prendrez-vous l'offre repas compris, ou pêcherez-vous par vous-même ? Et avez-vous pensé aux cannes dont vous auriez besoin ? » Dans quel ordre se trouvent ces questions?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour vous aider à orienter et à contrôler les intérêts de vos clients, utilisez des questions rhétoriques pour confirmer votre compréhension, des questions alternatives pour inciter à la prise de décisions et des questions suggestives pour les orienter vers une vente ou une solution.",
+            "tips": "Les questions rhétoriques ne sont pas superflues : elles éviteront l'insatisfaction des clients car ils auront le sentiment d'avoir été compris.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygUfCPq8": "Question rhétorique + Question suggestive + Question alternative",
+            "choice_NkHIGRv5L": "Question suggestive + Question alternative + Question rhétorique",
+            "choice_E1iLGRvc8": "Question rhétorique + Question alternative + Question suggestive"
+        },
+        "de": {
+            "header": "‘Ah, I see you've booked a 3-day trip on our ship… Will you take the meals included pack or fish by yourselves? And have you thought of which rods you would need?’ In which order are those questions?",
+            "explanation": "Select the correct answer.",
+            "klf": "To help guide and control your customer’s interest, use rhetorical questions to confirm understanding, assumptive questions to create decisions, and leading questions to direct them towards a sale or solution.",
+            "tips": "Rhetorical questions are not superfluous: they will avoid customer dissatisfaction as they will feel they've been understood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygUfCPq8": "Rhetorical question + Leading question + Assumptive question",
+            "choice_NkHIGRv5L": "Leading question + Assumptive question + Rhetorical question",
+            "choice_E1iLGRvc8": "Rhetorical question + Assumptive question + Leading question"
+        },
+        "th": {
+            "header": "‘Ah, I see you've booked a 3-day trip on our ship… Will you take the meals included pack or fish by yourselves? And have you thought of which rods you would need?’ In which order are those questions?",
+            "explanation": "Select the correct answer.",
+            "klf": "To help guide and control your customer’s interest, use rhetorical questions to confirm understanding, assumptive questions to create decisions, and leading questions to direct them towards a sale or solution.",
+            "tips": "Rhetorical questions are not superfluous: they will avoid customer dissatisfaction as they will feel they've been understood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygUfCPq8": "Rhetorical question + Leading question + Assumptive question",
+            "choice_NkHIGRv5L": "Leading question + Assumptive question + Rhetorical question",
+            "choice_E1iLGRvc8": "Rhetorical question + Assumptive question + Leading question"
+        }
+    }
+}

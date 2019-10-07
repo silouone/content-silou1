@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T04:38:14.155Z",
+            "updatedAt": "2019-03-17T04:38:14.155Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyJTm4JP8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EyJmC28PI",
+        "universalRef": "sli_EyJmC28PI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyJmC28PI.choice_416VA3UwI.id",
+                        "label": "choice_416VA3UwI",
+                        "value": "choice_416VA3UwI"
+                    },
+                    {
+                        "id": "sli_EyJmC28PI.choice_EJRNC3Iw8.id",
+                        "label": "choice_EJRNC3Iw8",
+                        "value": "choice_EJRNC3Iw8"
+                    },
+                    {
+                        "id": "sli_EyJmC28PI.choice_VyJHAhUvU.id",
+                        "label": "choice_VyJHAhUvU",
+                        "value": "choice_VyJHAhUvU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_416VA3UwI",
+                        "choice_EJRNC3Iw8",
+                        "choice_VyJHAhUvU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you do during the performance review?",
+            "explanation": "Select the correct answers.",
+            "klf": "During a performance review, remember to discuss performance, not personality, and facts more than opinions. Finally, you need to listen to the evidence.",
+            "tips": "According to some studies, up to 30% of performance reviews end up in decreased employee performance! Try to be in the other 70%!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_416VA3UwI": "Discuss performance, not personality",
+            "choice_EJRNC3Iw8": "Discuss facts, not opinions",
+            "choice_VyJHAhUvU": "Listen to the evidence"
+        },
+        "fr": {
+            "header": "Que devriez-vous faire lors de l'évaluation de performance ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Lors d'une évaluation de performance, n'oubliez pas de discuter de performance, et non de personnalité, et de faits plus que d'opinions. Enfin, vous devez écouter les arguments.",
+            "tips": "Selon certaines études, jusqu'à 30% des évaluations de performance aboutissent à une baisse de performance des employés ! Essayez de faire partie des 70% !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_416VA3UwI": "Discuter de la performance, et non de la personnalité",
+            "choice_EJRNC3Iw8": "Discuter des faits, et non des opinions",
+            "choice_VyJHAhUvU": "Écouter les arguments"
+        },
+        "de": {
+            "header": "What should you do during the performance review?",
+            "explanation": "Select the correct answers.",
+            "klf": "During a performance review, remember to discuss performance, not personality, and facts more than opinions. Finally, you need to listen to the evidence.",
+            "tips": "According to some studies, up to 30% of performance reviews end up in decreased employee performance! Try to be in the other 70%!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_416VA3UwI": "Discuss performance, not personality",
+            "choice_EJRNC3Iw8": "Discuss facts, not opinions",
+            "choice_VyJHAhUvU": "Listen to the evidence"
+        },
+        "th": {
+            "header": "What should you do during the performance review?",
+            "explanation": "Select the correct answers.",
+            "klf": "During a performance review, remember to discuss performance, not personality, and facts more than opinions. Finally, you need to listen to the evidence.",
+            "tips": "According to some studies, up to 30% of performance reviews end up in decreased employee performance! Try to be in the other 70%!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_416VA3UwI": "Discuss performance, not personality",
+            "choice_EJRNC3Iw8": "Discuss facts, not opinions",
+            "choice_VyJHAhUvU": "Listen to the evidence"
+        }
+    }
+}

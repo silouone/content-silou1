@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T10:06:36.249Z",
+            "updatedAt": "2018-11-09T13:09:28.105Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkxsHvBcS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_NyYQhwH9r",
+        "universalRef": "sli_NyYQhwH9r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyYQhwH9r.choice_EyXd2Dr9S.id",
+                        "label": "choice_EyXd2Dr9S",
+                        "value": "choice_EyXd2Dr9S"
+                    },
+                    {
+                        "id": "sli_NyYQhwH9r.choice_VkkY2wHcS.id",
+                        "label": "choice_VkkY2wHcS",
+                        "value": "choice_VkkY2wHcS"
+                    },
+                    {
+                        "id": "sli_NyYQhwH9r.choice_41aYhDrqB.id",
+                        "label": "choice_41aYhDrqB",
+                        "value": "choice_41aYhDrqB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyXd2Dr9S",
+                        "choice_VkkY2wHcS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are some positive steps to keep our emotions under control?",
+            "explanation": "Select the correct answers.",
+            "klf": "Avoid the situations which trigger negative emotions, by planning ahead to avoid a last-minute panic, for example.",
+            "tips": "If it helps, you can write down your feelings to help you understand where they are coming from.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyXd2Dr9S": "Avoid the triggers that set off negative emotions",
+            "choice_VkkY2wHcS": "Plan ahead to avoid stressful situations. For example, schedule enough time to meet deadlines",
+            "choice_41aYhDrqB": "Send emails to convey your thoughts rather than talking with someone face-to-face"
+        },
+        "fr": {
+            "header": "Quelles sont les étapes positives permettant de maîtriser nos émotions ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Évitez les situations déclenchant des émotions négatives, en planifiant à l’avance pour prévenir la panique de dernière minute, par exemple.",
+            "tips": "Pour vous aider, vous pouvez noter vos sentiments afin d’en comprendre la provenance.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyXd2Dr9S": "Éviter les déclencheurs entraînant des émotions négatives",
+            "choice_VkkY2wHcS": "Planifier à l’avance pour éviter les situations stressantes. Par exemple, prévoir un délai suffisant qui permettra de respecter les échéances",
+            "choice_41aYhDrqB": "Envoyer des e-mails pour faire part de vos réflexions au lieu de vous entretenir avec quelqu’un face à face"
+        },
+        "de": {
+            "header": "Was sind einige positive Schritte, um unsere Emotionen unter Kontrolle zu halten?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Vermeiden Sie die Situationen, die negative Emotionen auslösen, indem Sie beispielsweise vorausschauend planen, um in letzter Minute Panik zu vermeiden.",
+            "tips": "Wenn es hilft, können Sie Ihre Gefühle aufschreiben, um zu verstehen, woher sie kommen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyXd2Dr9S": "Vermeiden Sie die Auslöser, die negative Emotionen hervorrufen",
+            "choice_VkkY2wHcS": "Planen Sie im Voraus, um Stresssituationen zu vermeiden. Planen Sie zum Beispiel genügend Zeit ein, um Termine einzuhalten",
+            "choice_41aYhDrqB": "Senden Sie E-Mails, um Ihre Gedanken zu vermitteln, anstatt mit jemandem persönlich zu sprechen"
+        },
+        "th": {
+            "header": "มีวิธีเชิงบวกใดบ้างที่จะช่วยควบคุมอารมณ์ของเรา",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "หลีกเลี่ยงสถานการณ์ที่จะสร้างอารมณ์ในแง่ลบ โดยการวางแผนล่วงหน้าเพื่อหลีกเลี่ยงความตื่นตระหนกในนาทีสุดท้าย เช่น",
+            "tips": "อาจจะช่วยได้บ้างหากลองเขียนความรู้สึกของคุณลงไปเพื่อช่วยให้คุณเข้าใจที่มาของความรู้สึกนั้น",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyXd2Dr9S": "หลีกเลี่ยงสิ่งกระตุ้นที่ก่อให้เกิดอารมรณ์ในทางลบ",
+            "choice_VkkY2wHcS": "วางแผนล่วงหน้าเพื่อหลีกเลี่ยงสถานการณ์ตึงเครียด เช่น วางแผนเวลาให้เพียงพอที่จะทำงานให้เสร็จได้ตามกำหนดเวลา",
+            "choice_41aYhDrqB": "ส่งอีเมลเพื่อสื่อสารความคิดของคุณแทนที่จะคุยกันต่อหน้า"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-20T14:46:33.672Z",
+            "updatedAt": "2019-06-20T14:49:06.427Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yncdVkv"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_EkVfOFEyv",
+        "universalRef": "sli_EkVfOFEyv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkVfOFEyv.choice_EypGdF4kv.id",
+                        "label": "choice_EypGdF4kv",
+                        "value": "choice_EypGdF4kv"
+                    },
+                    {
+                        "id": "sli_EkVfOFEyv.choice_VyxEdtEJD.id",
+                        "label": "choice_VyxEdtEJD",
+                        "value": "choice_VyxEdtEJD"
+                    },
+                    {
+                        "id": "sli_EkVfOFEyv.choice_VyySuF4yD.id",
+                        "label": "choice_VyySuF4yD",
+                        "value": "choice_VyySuF4yD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EypGdF4kv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What makes up a good call structure?",
+            "explanation": "Select the correct answer.",
+            "klf": "To follow a good call structure, you must: greet, listen, question, listen, summarise, talk about next actions, and finally close the call.",
+            "tips": "It is helpful to take notes during a long phone conversation, especially if it is a support call.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EypGdF4kv": "Greeting, listening, questioning, listening, summarising, next actions, close call",
+            "choice_VyxEdtEJD": "Greeting, listening, questioning, close call",
+            "choice_VyySuF4yD": "Greeting, questioning, closing call"
+        },
+        "fr": {
+            "header": "Qu'est-ce qui constitue une bonne structure d'appel ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pour suivre une bonne structure d’appel, vous devez : saluer, écouter, interroger, écouter, résumer, parler des prochaines mesures à suivre et enfin, conclure l’appel.",
+            "tips": "Il est utile de prendre des notes pendant une longue conversation téléphonique, surtout s'il s'agit d'un appel d'assistance technique.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EypGdF4kv": "Saluer, écouter, interroger, écouter, résumer, parler des prochaines mesures à suivre, conclure l'appel",
+            "choice_VyxEdtEJD": "Saluer, écouter, interroger, conclure l'appel",
+            "choice_VyySuF4yD": "Saluer, interroger, conclure l'appel"
+        },
+        "de": {
+            "header": "What makes up a good call structure?",
+            "explanation": "Select the correct answer.",
+            "klf": "To follow a good call structure, you must: greet, listen, question, listen, summarise, talk about next actions, and finally close the call.",
+            "tips": "It is helpful to take notes during a long phone conversation, especially if it is a support call.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EypGdF4kv": "Greeting, listening, questioning, listening, summarising, next actions, close call",
+            "choice_VyxEdtEJD": "Greeting, listening, questioning, close call",
+            "choice_VyySuF4yD": "Greeting, questioning, closing call"
+        },
+        "th": {
+            "header": "What makes up a good call structure?",
+            "explanation": "Select the correct answer.",
+            "klf": "To follow a good call structure, you must: greet, listen, question, listen, summarise, talk about next actions, and finally close the call.",
+            "tips": "It is helpful to take notes during a long phone conversation, especially if it is a support call.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EypGdF4kv": "Greeting, listening, questioning, listening, summarising, next actions, close call",
+            "choice_VyxEdtEJD": "Greeting, listening, questioning, close call",
+            "choice_VyySuF4yD": "Greeting, questioning, closing call"
+        }
+    }
+}

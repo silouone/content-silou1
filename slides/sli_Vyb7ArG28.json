@@ -1,0 +1,160 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-13T12:57:39.599Z",
+            "updatedAt": "2019-05-15T12:37:51.245Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyRWwMGhL"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_Vyb7ArG28",
+        "universalRef": "sli_Vyb7ArG28",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vyb7ArG28.choice_VJ0wRHznI.id",
+                        "label": "choice_VJ0wRHznI",
+                        "value": "choice_VJ0wRHznI"
+                    },
+                    {
+                        "id": "sli_Vyb7ArG28.choice_411tASMhU.id",
+                        "label": "choice_411tASMhU",
+                        "value": "choice_411tASMhU"
+                    },
+                    {
+                        "id": "sli_Vyb7ArG28.choice_VJV9RSM3I.id",
+                        "label": "choice_VJV9RSM3I",
+                        "value": "choice_VJV9RSM3I"
+                    },
+                    {
+                        "id": "sli_Vyb7ArG28.choice_Ny0hRBG28.id",
+                        "label": "choice_Ny0hRBG28",
+                        "value": "choice_Ny0hRBG28"
+                    },
+                    {
+                        "id": "sli_Vyb7ArG28.choice_EkNkkUz28.id",
+                        "label": "choice_EkNkkUz28",
+                        "value": "choice_EkNkkUz28"
+                    },
+                    {
+                        "id": "sli_Vyb7ArG28.choice_Ey8k1UG28.id",
+                        "label": "choice_Ey8k1UG28",
+                        "value": "choice_Ey8k1UG28"
+                    },
+                    {
+                        "id": "sli_Vyb7ArG28.choice_EJQe1UfnI.id",
+                        "label": "choice_EJQe1UfnI",
+                        "value": "choice_EJQe1UfnI"
+                    },
+                    {
+                        "id": "sli_Vyb7ArG28.choice_4JRzJ8fnL.id",
+                        "label": "choice_4JRzJ8fnL",
+                        "value": "choice_4JRzJ8fnL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JRzJ8fnL",
+                        "choice_EJQe1UfnI",
+                        "choice_Ey8k1UG28",
+                        "choice_EkNkkUz28",
+                        "choice_Ny0hRBG28",
+                        "choice_VJV9RSM3I",
+                        "choice_411tASMhU",
+                        "choice_VJ0wRHznI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of these aspects of life can be used to make a connection with someone?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can build rapport with anyone, even with a complete stranger, if you find similarities in certain characteristics such as education, family, work, hobbies, age, places you visited, the reason that brings you to the same place, or aspirations.",
+            "tips": "The first impression we make is crucial when we meet someone new. People usually base their judgement on 6 elements: appearance, smile, handshake, body language, timeliness and mannerisms.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ0wRHznI": "Education",
+            "choice_411tASMhU": "Hobbies",
+            "choice_VJV9RSM3I": "Age",
+            "choice_Ny0hRBG28": "Going places",
+            "choice_EkNkkUz28": "Family",
+            "choice_Ey8k1UG28": "Aspirations",
+            "choice_EJQe1UfnI": "What brings you to the same place",
+            "choice_4JRzJ8fnL": "Work"
+        },
+        "fr": {
+            "header": "Lesquels de ces aspects de la vie peuvent être utilisés pour établir un lien avec quelqu'un ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous pouvez créer des liens avec n'importe qui, même avec un inconnu, si certaines caractéristiques telles que l’éducation, la famille, le travail, les loisirs, l’âge, les lieux que vous avez visités, la raison qui vous amène au même endroit ou vos aspirations sont similaires.",
+            "tips": "La première impression que nous nous faisons de quelqu'un est cruciale lorsque nous le rencontrons pour la première fois. Les gens fondent généralement leur jugement sur six éléments : l’apparence, le sourire, la poignée de main, le langage corporel, la rapidité et les manières.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ0wRHznI": "L'éducation",
+            "choice_411tASMhU": "Les loisirs",
+            "choice_VJV9RSM3I": "L'âge",
+            "choice_Ny0hRBG28": "Les endroits où vous êtes allés",
+            "choice_EkNkkUz28": "La famille",
+            "choice_Ey8k1UG28": "Les aspirations",
+            "choice_EJQe1UfnI": "Ce qui vous amène au même endroit",
+            "choice_4JRzJ8fnL": "Le travail"
+        },
+        "de": {
+            "header": "Which of these aspects of life can be used to make a connection with someone?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can build rapport with anyone, even with a complete stranger, if you find similarities in certain characteristics such as education, family, work, hobbies, age, places you visited, the reason that brings you to the same place, or aspirations.",
+            "tips": "The first impression we make is crucial when we meet someone new. People usually base their judgement on 6 elements: appearance, smile, handshake, body language, timeliness and mannerisms.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ0wRHznI": "Education",
+            "choice_411tASMhU": "Hobbies ",
+            "choice_VJV9RSM3I": "Age",
+            "choice_Ny0hRBG28": "Going places ",
+            "choice_EkNkkUz28": "Family",
+            "choice_Ey8k1UG28": "Aspirations",
+            "choice_EJQe1UfnI": "What brings you to the same place",
+            "choice_4JRzJ8fnL": "Work"
+        },
+        "th": {
+            "header": "Which of these aspects of life can be used to make a connection with someone?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can build rapport with anyone, even with a complete stranger, if you find similarities in certain characteristics such as education, family, work, hobbies, age, places you visited, the reason that brings you to the same place, or aspirations.",
+            "tips": "The first impression we make is crucial when we meet someone new. People usually base their judgement on 6 elements: appearance, smile, handshake, body language, timeliness and mannerisms.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ0wRHznI": "Education",
+            "choice_411tASMhU": "Hobbies",
+            "choice_VJV9RSM3I": "Age",
+            "choice_Ny0hRBG28": "Going places",
+            "choice_EkNkkUz28": "Family",
+            "choice_Ey8k1UG28": "Aspirations",
+            "choice_EJQe1UfnI": "What brings you to the same place",
+            "choice_4JRzJ8fnL": "Work"
+        }
+    }
+}

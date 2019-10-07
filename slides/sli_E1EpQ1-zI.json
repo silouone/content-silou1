@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-16T09:30:15.473Z",
+            "updatedAt": "2019-02-21T16:59:17.384Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJMQsoTbI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_E1EpQ1-zI",
+        "universalRef": "sli_E1EpQ1-zI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel33910",
+                        "items": [
+                            {
+                                "text": "choice_VyeyCXJdfL",
+                                "value": "choice_VyeyCXJdfL"
+                            },
+                            {
+                                "text": "choice_EkbJ07kufU",
+                                "value": "choice_EkbJ07kufU"
+                            },
+                            {
+                                "text": "choice_Nk1uNy-fI",
+                                "value": "choice_Nk1uNy-fI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel33910",
+                        "answers": [
+                            "choice_Nk1uNy-fI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How does constructive criticism work?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When someone encounters difficulties, sit down with them and go through everything that's not going so well. It's the best way to mutually agree upon what steps need to be taken to make the situation better.",
+            "tips": "In a way, constructivism was a form of constructive criticism of its own kind. The Russian artists and architects who developed the concept in the early 20th century wanted to construct a new type of art that would serve social purposes.",
+            "clue": "For the better.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Constructive criticism consists in {{sel33910}}.",
+            "choice_VyeyCXJdfL": "avoiding direct criticism",
+            "choice_EkbJ07kufU": "being blunt but honest",
+            "choice_Nk1uNy-fI": "agreeing what needs to change"
+        },
+        "fr": {
+            "header": "Comment fonctionne la critique constructive ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Lorsqu'une personne est confrontée à des difficultés, prenez le temps de vous asseoir avec elle et de passer en revue tout ce qui ne fonctionne pas correctement. C'est la meilleure solution pour convenir ensemble des différentes actions nécessaires à mettre en oeuvre pour améliorer la situation.",
+            "tips": "D'une certaine manière, le constructivisme était une forme de critique constructive unique en son genre. Les artistes et architectes russes à l'origine de ce concept au début du 20e siècle souhaitaient concevoir une nouvelle forme d'art à vocation sociale.",
+            "clue": "For the better.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La critique constructive consiste à {{sel33910}}.",
+            "choice_VyeyCXJdfL": "éviter la critique directe",
+            "choice_EkbJ07kufU": "se montrer franc mais honnête",
+            "choice_Nk1uNy-fI": "convenir de ce qui doit changer"
+        },
+        "de": {
+            "header": "Wie funktioniert konstruktive Kritik?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn jemand Schwierigkeiten hat, setzen Sie sich mit ihnen zusammen und sprechen Sie alles durch, was nicht so gut läuft. Es ist der beste Weg, sich gegenseitig darauf zu verständigen, welche Schritte unternommen werden müssen, um die Situation zu verbessern.",
+            "tips": "In gewisser Weise war der Konstruktivismus eine Form konstruktiver Kritik seiner Art. Die russischen Künstler und Architekten, die das Konzept zu Beginn des 20. Jahrhunderts entwickelt haben, wollten eine neue Art von Kunst konstruieren, die sozialen Zwecken dient.",
+            "clue": "Zum Zweck der Besserung.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Konstruktive Kritik besteht darin {{sel33910}}.",
+            "choice_VyeyCXJdfL": "direkte Kritik zu vermeiden",
+            "choice_EkbJ07kufU": "direkt aber ehrlich zu sein",
+            "choice_Nk1uNy-fI": "sich darüber zu einigen, was sich ändern muss"
+        },
+        "th": {
+            "header": "How does constructive criticism work?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When someone encounters difficulties, sit down with them and go through everything that's not going so well. It's the best way to mutually agree upon what steps need to be taken to make the situation better.",
+            "tips": "In a way, constructivism was a form of constructive criticism of its own kind. The Russian artists and architects who developed the concept in the early 20th century wanted to construct a new type of art that would serve social purposes.",
+            "clue": "For the better.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Constructive criticism consists in {{sel33910}}.",
+            "choice_VyeyCXJdfL": "avoiding direct criticism",
+            "choice_EkbJ07kufU": "being blunt but honest",
+            "choice_Nk1uNy-fI": "agreeing what needs to change"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T14:39:31.554Z",
+            "updatedAt": "2019-01-23T15:26:42.134Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ewaPy1U"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4kZ7etyk8",
+        "universalRef": "sli_4kZ7etyk8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kZ7etyk8.choice_NyS9gtyJ8.id",
+                        "label": "choice_NyS9gtyJ8",
+                        "value": "choice_NyS9gtyJ8"
+                    },
+                    {
+                        "id": "sli_4kZ7etyk8.choice_41UcxF1yL.id",
+                        "label": "choice_41UcxF1yL",
+                        "value": "choice_41UcxF1yL"
+                    },
+                    {
+                        "id": "sli_4kZ7etyk8.choice_V1~3etJ1L.id",
+                        "label": "choice_V1~3etJ1L",
+                        "value": "choice_V1~3etJ1L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyS9gtyJ8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What the best outcome for any meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "The best outcome is one that everyone agrees on!",
+            "tips": "Produce the evidence that will form the basis of the discussion. Then circulate the document to everyone attending the meeting. It’s important you do this before the meeting so that everyone has time to digest the information and come up with points for discussion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyS9gtyJ8": "A conclusion that everyone is happy with",
+            "choice_41UcxF1yL": "More information to debate at the next meeting",
+            "choice_V1~3etJ1L": "A schedule for the next meeting"
+        },
+        "fr": {
+            "header": "Quel est le meilleur résultat d’une réunion ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "La meilleure solution est celle qui fait l’unanimité !",
+            "tips": "Produire les faits sur lesquels s’appuieront les discussions. Diffuser ensuite le document à l’ensemble des participants à la réunion. Il est important de le faire avant la réunion pour que chaque participant ait le temps d’assimiler les informations et arrive avec des éléments de discussion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyS9gtyJ8": "Une conclusion qui satisfait tout le monde",
+            "choice_41UcxF1yL": "D’autres informations à discuter lors de la prochaine réunion",
+            "choice_V1~3etJ1L": "Le programme de la prochaine réunion"
+        },
+        "de": {
+            "header": "Was ist das beste Ergebnis für ein Meeting?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Das beste Ergebnis ist eines, dem alle zustimmen!",
+            "tips": "Erstellen Sie die Beweise, die die Grundlage der Diskussion bilden. Verteilen Sie dann das Dokument an alle, die an der Besprechung teilnehmen. Es ist wichtig, dass Sie dies vor dem Meeting tun, damit jeder Zeit hat, die Informationen zu verdauen und Diskussionspunkte zu erarbeiten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyS9gtyJ8": "Eine Schlussfolgerung, mit der alle zufrieden sind",
+            "choice_41UcxF1yL": "Weitere Informationen zur Debatte beim nächsten Treffen",
+            "choice_V1~3etJ1L": "Ein Zeitplan für das nächste Meeting"
+        },
+        "th": {
+            "header": "What the best outcome for any meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "The best outcome is one that everyone agrees on!",
+            "tips": "Produce the evidence that will form the basis of the discussion. Then circulate the document to everyone attending the meeting. It’s important you do this before the meeting so that everyone has time to digest the information and come up with points for discussion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyS9gtyJ8": "A conclusion that everyone is happy with",
+            "choice_41UcxF1yL": "More information to debate at the next meeting",
+            "choice_V1~3etJ1L": "A schedule for the next meeting"
+        }
+    }
+}

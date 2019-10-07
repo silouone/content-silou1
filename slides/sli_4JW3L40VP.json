@@ -1,0 +1,154 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-27T15:16:30.160Z",
+            "updatedAt": "2019-09-02T12:18:21.064Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1MYcJVQv"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_4JW3L40VP",
+        "universalRef": "sli_4JW3L40VP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel79572",
+                        "items": [
+                            {
+                                "text": "choice_NyeBfv4AVP",
+                                "value": "choice_NyeBfv4AVP"
+                            },
+                            {
+                                "text": "choice_VyWrzDNAEP",
+                                "value": "choice_VyWrzDNAEP"
+                            },
+                            {
+                                "text": "choice_N1lBw40EP",
+                                "value": "choice_N1lBw40EP"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel34766",
+                        "items": [
+                            {
+                                "text": "choice_4JlkQDNREv",
+                                "value": "choice_4JlkQDNREv"
+                            },
+                            {
+                                "text": "choice_Vybkmv4RNv",
+                                "value": "choice_Vybkmv4RNv"
+                            },
+                            {
+                                "text": "choice_41CLv4AEw",
+                                "value": "choice_41CLv4AEw"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel79572",
+                        "answers": [
+                            "choice_NyeBfv4AVP"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel34766",
+                        "answers": [
+                            "choice_Vybkmv4RNv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Before closing a sale with an existing customer, what is a good way to generate more sales?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Always look for further sales opportunities. Your customer may need more (or different) products than what they usually order. Listen for other requirements you could fulfill.",
+            "tips": "Be attentive to your repeat customers: according to Bain & Company, they spend 67% more than first-time customers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Look for other {{sel79572}} for your {{sel34766}}.",
+            "choice_NyeBfv4AVP": "products",
+            "choice_VyWrzDNAEP": "providers",
+            "choice_4JlkQDNREv": "competition",
+            "choice_Vybkmv4RNv": "customer",
+            "choice_N1lBw40EP": "payment options",
+            "choice_41CLv4AEw": "company"
+        },
+        "fr": {
+            "header": "Avant de conclure une vente avec un client existant, quel est le bon moyen de générer plus de ventes?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Recherchez toujours d'autres opportunités de vente. Votre client peut avoir besoin de plus de produits (ou de produits différents) que ceux habituellement commandés. Écoutez les autres exigences que vous pourriez remplir.",
+            "tips": "Soyez attentif à vos clients fidèles: selon Bain & Company, ils dépensent 67% de plus que les premiers clients.",
+            "template": "Recherchez les autres {{sel79572}} pour votre {{sel34766}} .",
+            "choice_NyeBfv4AVP": "des produits",
+            "choice_VyWrzDNAEP": "fournisseurs",
+            "choice_N1lBw40EP": "options de paiement",
+            "choice_4JlkQDNREv": "concurrence",
+            "choice_Vybkmv4RNv": "client",
+            "choice_41CLv4AEw": "compagnie",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Before closing a sale with an existing customer, what is a good way to generate more sales?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Always look for further sales opportunities. Your customer may need more (or different) products than what they usually order. Listen for other requirements you could fulfill.",
+            "tips": "Be attentive to your repeat customers: according to Bain & Company, they spend 67% more than first-time customers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Look for other {{sel79572}} for your {{sel34766}}.",
+            "choice_NyeBfv4AVP": "products",
+            "choice_VyWrzDNAEP": "providers",
+            "choice_N1lBw40EP": "payment options",
+            "choice_4JlkQDNREv": "competition",
+            "choice_Vybkmv4RNv": "customer",
+            "choice_41CLv4AEw": "company"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel79572}} {{sel34766}}",
+            "choice_NyeBfv4AVP": "",
+            "choice_VyWrzDNAEP": "",
+            "choice_4JlkQDNREv": "",
+            "choice_Vybkmv4RNv": "",
+            "choice_N1lBw40EP": "",
+            "choice_41CLv4AEw": ""
+        }
+    }
+}

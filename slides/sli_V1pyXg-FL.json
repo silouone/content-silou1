@@ -1,0 +1,136 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-11T09:13:43.664Z",
+            "updatedAt": "2019-04-11T10:34:07.760Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ncHmEtI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_V1pyXg-FL",
+        "universalRef": "sli_V1pyXg-FL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1pyXg-FL.choice_4ynNXlOKL.id",
+                        "label": "choice_4ynNXlOKL",
+                        "value": "choice_4ynNXlOKL"
+                    },
+                    {
+                        "id": "sli_V1pyXg-FL.choice_N1x3VmxOF8.id",
+                        "label": "choice_N1x3VmxOF8",
+                        "value": "choice_N1x3VmxOF8"
+                    },
+                    {
+                        "id": "sli_V1pyXg-FL.choice_41ySmlOtI.id",
+                        "label": "choice_41ySmlOtI",
+                        "value": "choice_41ySmlOtI"
+                    },
+                    {
+                        "id": "sli_V1pyXg-FL.choice_VkMRmeOYI.id",
+                        "label": "choice_VkMRmeOYI",
+                        "value": "choice_VkMRmeOYI"
+                    },
+                    {
+                        "id": "sli_V1pyXg-FL.choice_VkSJNxdtI.id",
+                        "label": "choice_VkSJNxdtI",
+                        "value": "choice_VkSJNxdtI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4ynNXlOKL",
+                        "choice_VkMRmeOYI"
+                    ]
+                ]
+            }
+        },
+        "context": null
+    },
+    "locales": {
+        "en": {
+            "header": "Consider a job interview scenario. Does it matter if you're the first interviewed as opposed to the last?",
+            "explanation": "Select the correct answers.",
+            "klf": "The order that things are presented affect how an audience will feel about them.",
+            "tips": "The software publisher Tilkee conducted a study and found that the majority of CVs was read on Tuesdays. Now you know when is the best time to apply for a job!",
+            "clue": "",
+            "context_title": "The job interview scenario",
+            "context_description": "You're",
+            "context_media_description": "",
+            "choice_4ynNXlOKL": "Going first, an interviewer is comparing you to what the ideal job candidate would be",
+            "choice_N1x3VmxOF8": "Going first, you increase your chances as the interviewer has not point of comparison yet",
+            "choice_41ySmlOtI": "Going last, your profile is more likely to disappoint the interviewer, compared to what they have already seen",
+            "choice_VkMRmeOYI": "Going last, the interviewer is comparing you to the other, real world candidates that they have already seen",
+            "choice_VkSJNxdtI": "The order does not matter at all",
+            "choice_Vk0E7gdYL": "Going last, ",
+            "choice_4yCZNgdtI": ""
+        },
+        "fr": {
+            "header": "Imaginez le scénario d'un entretien d'embauche. Est-ce important d'être le premier interviewé par opposition au dernier ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "L'ordre dans lequel les choses sont présentées affecte ce que le public ressentira à leur sujet.",
+            "tips": "L’éditeur de logiciels Tilkee a mené une étude et a constaté que la majorité des CV étaient lus le mardi. Vous savez maintenant quel est le meilleur moment pour postuler à un emploi !",
+            "clue": "",
+            "context_title": "Le scénario de l'entretien d'embauche",
+            "context_description": "Vous",
+            "context_media_description": "",
+            "choice_4ynNXlOKL": "Passez en premier, la personne qui vous fait passer l'entretien vous compare à ce que serait le candidat idéal.",
+            "choice_N1x3VmxOF8": "Passez en premier, vos chances d'être embauché augmentent, car la personne qui vous fait passer l'entretien n'a encore personne avec qui vous comparer",
+            "choice_41ySmlOtI": "Passez en dernier, votre profil risque davantage de décevoir la personne qui vous fait passer l'entretien, comparé aux candidats qu'il a déjà vus",
+            "choice_VkMRmeOYI": "Passez en dernier, la personne qui vous fait passer l'entretien vous compare aux autres candidats du monde réel qu'il a déjà vus",
+            "choice_VkSJNxdtI": "L'ordre n'a aucune importance",
+            "choice_Vk0E7gdYL": "",
+            "choice_4yCZNgdtI": ""
+        },
+        "de": {
+            "header": "Consider a job interview scenario. Does it matter if you're the first interviewed as opposed to the last?",
+            "explanation": "Select the correct answers.",
+            "klf": "The order that things are presented affect how an audience will feel about them.",
+            "tips": "The software publisher Tilkee conducted a study and found that the majority of CVs was read on Tuesdays. Now you know when is the best time to apply for a job!",
+            "clue": "",
+            "context_title": "The job interview scenario",
+            "context_description": "You're",
+            "context_media_description": "",
+            "choice_4ynNXlOKL": "Going first, an interviewer is comparing you to what the ideal job candidate would be",
+            "choice_N1x3VmxOF8": "Going first, you increase your chances as the interviewer has not point of comparison yet",
+            "choice_41ySmlOtI": "Going last, your profile is more likely to disappoint the interviewer, compared to what they have already seen",
+            "choice_VkMRmeOYI": "Going last, the interviewer is comparing you to the other, real world candidates that they have already seen",
+            "choice_VkSJNxdtI": "The order does not matter at all",
+            "choice_Vk0E7gdYL": "",
+            "choice_4yCZNgdtI": ""
+        },
+        "th": {
+            "header": "Consider a job interview scenario. Does it matter if you're the first interviewed as opposed to the last?",
+            "explanation": "Select the correct answers.",
+            "klf": "The order that things are presented affect how an audience will feel about them.",
+            "tips": "The software publisher Tilkee conducted a study and found that the majority of CVs was read on Tuesdays. Now you know when is the best time to apply for a job!",
+            "clue": "",
+            "context_title": "The job interview scenario",
+            "context_description": "You're",
+            "context_media_description": "",
+            "choice_4ynNXlOKL": "Going first, an interviewer is comparing you to what the ideal job candidate would be",
+            "choice_N1x3VmxOF8": "Going first, you increase your chances as the interviewer has not point of comparison yet",
+            "choice_41ySmlOtI": "Going last, your profile is more likely to disappoint the interviewer, compared to what they have already seen",
+            "choice_VkMRmeOYI": "Going last, the interviewer is comparing you to the other, real world candidates that they have already seen",
+            "choice_VkSJNxdtI": "The order does not matter at all",
+            "choice_Vk0E7gdYL": "Going last, ",
+            "choice_4yCZNgdtI": ""
+        }
+    }
+}

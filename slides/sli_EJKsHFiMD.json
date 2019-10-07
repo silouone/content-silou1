@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:38:03.305Z",
+            "updatedAt": "2019-08-01T09:54:28.625Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tPTTPfv"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EJKsHFiMD",
+        "universalRef": "sli_EJKsHFiMD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel45753",
+                        "items": [
+                            {
+                                "text": "choice_V1elJIYsfP",
+                                "value": "choice_V1elJIYsfP"
+                            },
+                            {
+                                "text": "choice_EJWgyItjfv",
+                                "value": "choice_EJWgyItjfv"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel45753",
+                        "answers": [
+                            "choice_EJWgyItjfv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When dealing with an after sales issue, what should be your priority?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "A competitive or arrogant attitude, like trying to look more knowledgeable than your colleagues or customers, usually comes with quickly jumping to conclusions. Make sure you always conduct a thorough investigation of the issue.",
+            "tips": "According to a recent study, witnessing an act of incivility between employees usually ‘induces consumer anger and causes consumers to make broad and negative conclusions (generalizations) about the firm as a whole, other employees who work there, and expectations about future encounters with the firm; conclusions that go well beyond the uncivil incident.’",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should always focus on {{sel45753}}.",
+            "choice_V1elJIYsfP": "looking more knowledgeable than others",
+            "choice_EJWgyItjfv": "investigating thoroughly the issue"
+        },
+        "fr": {
+            "header": "Quelle doit être votre priorité lorsque vous réglez un problème après-vente ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une attitude concurrentielle ou arrogante, comme essayer de paraître plus compétent que vos collègues ou vos clients, entraîne généralement des conclusions hâtives. Assurez-vous de toujours mener une enquête approfondie du problème.",
+            "tips": "Selon une étude récente, être témoin d'un acte d'incivilité entre employés « provoque généralement la colère des consommateurs et les pousse à tirer des conclusions générales et négatives (généralisations) sur l'entreprise dans son ensemble, les autres employés qui y travaillent, et sur leurs attentes quant à leurs futures rencontres avec l'entreprise ; conclusions qui vont bien au-delà de l’incident d'incivilité. »",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous devriez toujours vous concentrer sur {{sel45753}} .",
+            "choice_V1elJIYsfP": "avoir l'air plus compétent que les autres",
+            "choice_EJWgyItjfv": "mener une enquête approfondie du problème"
+        },
+        "de": {
+            "header": "When dealing with an after sales issue, what should be your priority?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "A competitive or arrogant attitude, like trying to look more knowledgeable than your colleagues or customers, usually comes with quickly jumping to conclusions. Make sure you always conduct a thorough investigation of the issue.",
+            "tips": "According to a recent study, witnessing an act of incivility between employees usually ‘induces consumer anger and causes consumers to make broad and negative conclusions (generalizations) about the firm as a whole, other employees who work there, and expectations about future encounters with the firm; conclusions that go well beyond the uncivil incident.’",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should always focus on {{sel45753}}.",
+            "choice_V1elJIYsfP": "looking more knowledgeable than others",
+            "choice_EJWgyItjfv": "investigating thoroughly the issue"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel45753}}",
+            "choice_V1elJIYsfP": "",
+            "choice_EJWgyItjfv": ""
+        }
+    }
+}

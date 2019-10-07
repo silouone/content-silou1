@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T14:01:20.032Z",
+            "updatedAt": "2019-08-01T14:13:28.705Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1O1xi5fD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_V1st1k2fv",
+        "universalRef": "sli_V1st1k2fv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1st1k2fv.choice_N1rhkkhfw.id",
+                        "label": "choice_N1rhkkhfw",
+                        "value": "choice_N1rhkkhfw"
+                    },
+                    {
+                        "id": "sli_V1st1k2fv.choice_NyUhJJ2zv.id",
+                        "label": "choice_NyUhJJ2zv",
+                        "value": "choice_NyUhJJ2zv"
+                    },
+                    {
+                        "id": "sli_V1st1k2fv.choice_4y0h113zv.id",
+                        "label": "choice_4y0h113zv",
+                        "value": "choice_4y0h113zv"
+                    },
+                    {
+                        "id": "sli_V1st1k2fv.choice_V1wp1y3fP.id",
+                        "label": "choice_V1wp1y3fP",
+                        "value": "choice_V1wp1y3fP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1rhkkhfw",
+                        "choice_4y0h113zv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are key things to remember when dealing with a chatty customer?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Don't give up and make sure you focus on the issues at hand.",
+            "tips": "Indulging in long and personal conversations will look unprofessional in the eyes of other clients.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rhkkhfw": "Be patient",
+            "choice_NyUhJJ2zv": "Share stories",
+            "choice_4y0h113zv": "Check your understanding of the key issues",
+            "choice_V1wp1y3fP": "Speak more quickly"
+        },
+        "fr": {
+            "header": "Quels sont les éléments clés à retenir lorsque vous êtes confronté à un client bavard ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "N'abandonnez pas et assurez-vous de vous concentrer sur les problèmes auxquels il faut palier.",
+            "tips": "S'engager dans de longues conversations personnelles semblera peu professionnel aux yeux des autres clients.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rhkkhfw": "Être patient",
+            "choice_NyUhJJ2zv": "Partager des anecdotes",
+            "choice_4y0h113zv": "Vérifier votre compréhension des principaux problèmes",
+            "choice_V1wp1y3fP": "Parler plus rapidement"
+        },
+        "de": {
+            "header": "What are key things to remember when dealing with a chatty customer?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Don't give up and make sure you focus on the issues at hand.",
+            "tips": "Indulging in long and personal conversations will look unprofessional in the eyes of other clients.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rhkkhfw": "Be patient",
+            "choice_NyUhJJ2zv": "Share stories",
+            "choice_4y0h113zv": "Check your understanding of the key issues",
+            "choice_V1wp1y3fP": "Speak more quickly"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1rhkkhfw": "",
+            "choice_NyUhJJ2zv": "",
+            "choice_4y0h113zv": "",
+            "choice_V1wp1y3fP": ""
+        }
+    }
+}

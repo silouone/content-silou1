@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-11T12:34:28.980Z",
+            "updatedAt": "2018-11-09T12:26:30.533Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ84zr49S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_EyqIzE-qS",
+        "universalRef": "sli_EyqIzE-qS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyqIzE-qS.choice_VJNvMNdcB.id",
+                        "label": "choice_VJNvMNdcB",
+                        "value": "choice_VJNvMNdcB"
+                    },
+                    {
+                        "id": "sli_EyqIzE-qS.choice_EkHwMVd5S.id",
+                        "label": "choice_EkHwMVd5S",
+                        "value": "choice_EkHwMVd5S"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJNvMNdcB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s often the best way to come up with an idea or a solution?",
+            "explanation": "Select the correct answer.",
+            "klf": "Think about something else and let your subconscious work for you.",
+            "tips": "If you want to boost your creativity, consider taking a walk: walking has been shown to have a positive impact on our ability to find creative solutions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJNvMNdcB": "Think about something else – your subconscious will do the work for you if you let it",
+            "choice_EkHwMVd5S": "Think hard until you come up with something – give yourself an hour to think about it"
+        },
+        "fr": {
+            "header": "Quel est souvent le meilleur moyen d’avoir une idée ou de trouver une solution ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Pensez à autre chose et laissez votre subconscient travailler pour vous.",
+            "tips": "Pour booster votre créativité, allez marcher : la marche est réputée pour avoir un impact positif sur notre capacité à trouver des solutions innovantes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJNvMNdcB": "Penser à autre chose – notre subconscient travaillera pour nous si nous le laissons faire",
+            "choice_EkHwMVd5S": "Se concentrer jusqu’à trouver quelque chose – prendre une heure pour y réfléchir"
+        },
+        "de": {
+            "header": "Was ist oft der beste Weg, um eine Idee oder Lösung zu finden?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Denken Sie an etwas anderes und lassen Sie Ihr Unterbewusstsein für Sie arbeiten.",
+            "tips": "Wenn Sie Ihre Kreativität steigern möchten, sollten Sie einen Spaziergang in Betracht ziehen: Es hat sich gezeigt, dass das Gehen positive Auswirkungen auf unsere Fähigkeit hat, kreative Lösungen zu finden.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJNvMNdcB": "Denken Sie an etwas anderes - Ihr Unterbewusstsein erledigt die Arbeit für Sie, wenn Sie es zulassen",
+            "choice_EkHwMVd5S": "Überlegen Sie, bis Sie sich etwas einfallen lassen - geben Sie sich eine Stunde Zeit, um darüber nachzudenken"
+        },
+        "th": {
+            "header": "What’s often the best way to come up with an idea or a solution?",
+            "explanation": "Select the correct answer.",
+            "klf": "Think about something else and let your subconscious work for you.",
+            "tips": "If you want to boost your creativity, consider taking a walk: walking has been shown to have a positive impact on our ability to find creative solutions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJNvMNdcB": "Think about something else – your subconscious will do the work for you if you let it",
+            "choice_EkHwMVd5S": "Think hard until you come up with something – give yourself an hour to think about it"
+        }
+    }
+}

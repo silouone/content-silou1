@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-11T11:35:43.094Z",
+            "updatedAt": "2019-09-26T09:36:52.492Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkDUULd0U"
+            ],
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_N1tFlK-RI",
+        "universalRef": "sli_N1tFlK-RI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel93321",
+                        "items": [
+                            {
+                                "text": "choice_NyejheYdRU",
+                                "value": "choice_NyejheYdRU"
+                            },
+                            {
+                                "text": "choice_NkbshlY-RU",
+                                "value": "choice_NkbshlY-RU"
+                            },
+                            {
+                                "text": "choice_V1lplKuCU",
+                                "value": "choice_V1lplKuCU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel93321",
+                        "answers": [
+                            "choice_NkbshlY-RU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the best attitude to adopt when constructing a budget?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "One of the most important things when constructing a budget is to make sure your assumptions are realistic.",
+            "tips": "We tend to categorise people as either optimistic or pessimistic. But does anyone actually recognises themselves in one of these binary tags? <a href=\"https://medium.com/@shendosstx/optimistic-pessimistic-or-realistic-b28716f7234d\" target=\"_blank\">Here</a> is a very human and thoughtful article on optimism and pessimism.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When constructing a budget, it is important to be {{sel93321}}",
+            "choice_NyejheYdRU": "optimistic.",
+            "choice_NkbshlY-RU": "realistic.",
+            "choice_V1lplKuCU": "pessimistic."
+        },
+        "fr": {
+            "header": "Quelle est la meilleure attitude à adopter lors de l'élaboration d'un budget ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lors de l'élaboration d’un budget, l’un des éléments les plus importants est de s’assurer que vos hypothèses soient réalistes.",
+            "tips": "Nous avons tendance à catégoriser les gens comme optimistes ou pessimistes. Mais est-ce que quelqu'un se reconnaît réellement dans l'une de ces étiquettes binaires ? <a href=\"https://medium.com/@shendosstx/optimistic-pessimistic-or-realistic-b28716f7234d\" target=\"_blank\">Voici</a> est un article très humain et bien pensé sur l'optimisme et le pessimisme.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Lors de l'élaboration d'un budget, il est important d'être {{sel93321}}",
+            "choice_NyejheYdRU": "optimiste.",
+            "choice_NkbshlY-RU": "réaliste.",
+            "choice_V1lplKuCU": "pessimiste."
+        },
+        "de": {
+            "header": "What is the best attitude to adopt when constructing a budget?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "One of the most important things when constructing a budget is to make sure your assumptions are realistic.",
+            "tips": "We tend to categorise people as either optimistic or pessimistic. But does anyone actually recognises themselves in one of these binary tags? <a href=\"https://medium.com/@shendosstx/optimistic-pessimistic-or-realistic-b28716f7234d\" target=\"_blank\">Here</a> is a very human and thoughtful article on optimism and pessimism.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When constructing a budget, it is important to be {{sel93321}}",
+            "choice_NyejheYdRU": "optimistic.",
+            "choice_NkbshlY-RU": "realistic.",
+            "choice_V1lplKuCU": "pessimistic."
+        },
+        "th": {
+            "header": "What is the best attitude to adopt when constructing a budget?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "One of the most important things when constructing a budget is to make sure your assumptions are realistic.",
+            "tips": "We tend to categorise people as either optimistic or pessimistic. But does anyone actually recognises themselves in one of these binary tags? <a href=\"https://medium.com/@shendosstx/optimistic-pessimistic-or-realistic-b28716f7234d\" target=\"_blank\">Here</a> is a very human and thoughtful article on optimism and pessimism.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When constructing a budget, it is important to be {{sel93321}}",
+            "choice_NyejheYdRU": "optimistic.",
+            "choice_NkbshlY-RU": "realistic.",
+            "choice_V1lplKuCU": "pessimistic."
+        }
+    }
+}

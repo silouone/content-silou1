@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T14:13:39.255Z",
+            "updatedAt": "2019-01-23T15:26:05.431Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Od6wk18"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VyspHdkJL",
+        "universalRef": "sli_VyspHdkJL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VyspHdkJL.choice_NJm3UuyyI.id",
+                        "label": "choice_NJm3UuyyI",
+                        "value": "choice_NJm3UuyyI"
+                    },
+                    {
+                        "id": "sli_VyspHdkJL.choice_V1NhUd1JU.id",
+                        "label": "choice_V1NhUd1JU",
+                        "value": "choice_V1NhUd1JU"
+                    },
+                    {
+                        "id": "sli_VyspHdkJL.choice_NyShUuk1U.id",
+                        "label": "choice_NyShUuk1U",
+                        "value": "choice_NyShUuk1U"
+                    },
+                    {
+                        "id": "sli_VyspHdkJL.choice_4yvsPuJk8.id",
+                        "label": "choice_4yvsPuJk8",
+                        "value": "choice_4yvsPuJk8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJm3UuyyI",
+                        "choice_NyShUuk1U",
+                        "choice_4yvsPuJk8"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NyOscuk18",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What information should you be sharing before the meeting?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Plan your meetings: set objectives and issues on the agenda in advance. Focus on what you're going to discuss, why you are discussing it and the aim of the discussion.",
+            "tips": "During a virtual meeting, cutting your microphone while you're not talking can make the whole discussion easier. Echo happens!",
+            "clue": "",
+            "context_title": "The Good Virtual Manager",
+            "context_description": "Ok, good manager. You're on lead for the next virtual meeting about your new office pencils, that no one managed to write with. You have plenty of time. But how are you going to use it?",
+            "context_media_description": "",
+            "choice_NJm3UuyyI": "The Object: ‘our new office pencils’",
+            "choice_V1NhUd1JU": "The How: ‘I already know the solution’",
+            "choice_NyShUuk1U": "The Why: ‘anyone succeeded in using it?’",
+            "choice_4yvsPuJk8": "The Aim: ‘let's decide what to do’"
+        },
+        "fr": {
+            "header": "Quelles informations devez-vous partager avant la réunion ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Planifiez vos réunions : définissez à l’avance les objectifs et les questions à porter à l’ordre du jour. Concentrez-vous sur les points à discuter, le motif de la discussion et son objectif.",
+            "tips": "Lors d’une réunion virtuelle, couper votre micro lorsque vous ne vous exprimez pas peut améliorer l’ensemble des débats. Cela peut éviter d’entendre un écho !",
+            "clue": "",
+            "context_title": "Le bon Manager des réunions virtuelles",
+            "context_description": "Ok, bon Manager. Vous animez la prochaine réunion virtuelle sur les nouveaux crayons du bureau avec lesquels personne ne parvient à écrire correctement. Vous disposez de beaucoup de temps. Mais comment allez-vous l’utiliser ?",
+            "context_media_description": "",
+            "choice_NJm3UuyyI": "Objet : « nos nouveaux crayons »",
+            "choice_V1NhUd1JU": "Comment : « J’ai déjà la solution »",
+            "choice_NyShUuk1U": "Pourquoi : « quelqu’un a-t-il réussi à l’utiliser ? »",
+            "choice_4yvsPuJk8": "Objectif : « décidons de ce que nous devons faire »"
+        },
+        "de": {
+            "header": "Welche Informationen sollten Sie vor dem Meeting teilen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Planen Sie Ihre Besprechungen: Legen Sie im Voraus Ziele und Themen auf der Agenda fest. Konzentrieren Sie sich auf das, was Sie besprechen werden, warum Sie darüber reden und das Ziel der Diskussion.",
+            "tips": "Wenn Sie während eines virtuellen Meetings das Mikrofon ausschalten, wenn Sie nicht sprechen, kann dies die gesamte Diskussion erleichtern. Echos passieren!",
+            "clue": "",
+            "context_title": "Der gute virtuelle Manager",
+            "context_description": "Ok, guter Manager. Sie sind an der Spitze des nächsten virtuellen Meetings über Ihre neuen Bürostifte, mit denen niemand schreiben konnte. Du hast viel Zeit. Aber wie benutzt du es?",
+            "context_media_description": "",
+            "choice_NJm3UuyyI": "Das Objekt: \"unsere neuen Bürostifte\"",
+            "choice_V1NhUd1JU": "Das Wie: \"Ich kenne die Lösung bereits\"",
+            "choice_NyShUuk1U": "Das Warum: \"Hat es jemand geschafft, es zu benutzen?\"",
+            "choice_4yvsPuJk8": "Das Ziel: \"Lass uns entscheiden, was zu tun ist\""
+        },
+        "th": {
+            "header": "What information should you be sharing before the meeting?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Plan your meetings: set objectives and issues on the agenda in advance. Focus on what you're going to discuss, why you are discussing it and the aim of the discussion.",
+            "tips": "During a virtual meeting, cutting your microphone while you're not talking can make the whole discussion easier. Echo happens!",
+            "clue": "",
+            "context_title": "The Good Virtual Manager",
+            "context_description": "Ok, good manager. You're on lead for the next virtual meeting about your new office pencils, that no one managed to write with. You have plenty of time. But how are you going to use it?",
+            "context_media_description": "",
+            "choice_NJm3UuyyI": "The Object: ‘our new office pencils’",
+            "choice_V1NhUd1JU": "The How: ‘I already know the solution’",
+            "choice_NyShUuk1U": "The Why: ‘anyone succeeded in using it?’",
+            "choice_4yvsPuJk8": "The Aim: ‘let's decide what to do’"
+        }
+    }
+}

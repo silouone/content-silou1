@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-17T10:26:15.256Z",
+            "updatedAt": "2019-06-17T08:57:35.120Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ9yTjab8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_Vyv1vHYzI",
+        "universalRef": "sli_Vyv1vHYzI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vyv1vHYzI.choice_4k~LDrtMI.id",
+                        "label": "choice_4k~LDrtMI",
+                        "value": "choice_4k~LDrtMI"
+                    },
+                    {
+                        "id": "sli_Vyv1vHYzI.choice_E1GUPHFM8.id",
+                        "label": "choice_E1GUPHFM8",
+                        "value": "choice_E1GUPHFM8"
+                    },
+                    {
+                        "id": "sli_Vyv1vHYzI.choice_E1VLDBYzI.id",
+                        "label": "choice_E1VLDBYzI",
+                        "value": "choice_E1VLDBYzI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1VLDBYzI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following is a key element for any project plan?",
+            "explanation": "Select the correct answer.",
+            "klf": "When planning a project, it’s very important to define the role of each team member, and ensure that all responsibilities are clear and agreed upon. Put it on paper, and voila!",
+            "tips": "When drafting your planning document, remember that it doesn't need to be a novel. A one-page document should be enough.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k~LDrtMI": "A list of suppliers",
+            "choice_E1GUPHFM8": "A list of the competition",
+            "choice_E1VLDBYzI": "A document stating roles and responsibilities"
+        },
+        "fr": {
+            "header": "Parmi les éléments suivants, lequel est indispensable à toute planification de projet ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque vous planifier un projet, il est très important de définir le rôle de chaque membre de l'équipe et de s'assurer que chacun a compris et accepté ses responsabilités. Notez tout cela sur papier, et voilà !",
+            "tips": "Lorsque vous préparez votre planification de projet, rappelez-vous que ce n'est pas un roman. Un document d'une page doit suffire.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k~LDrtMI": "La liste des fournisseurs",
+            "choice_E1GUPHFM8": "La liste des concurrents",
+            "choice_E1VLDBYzI": "Un document qui définit les rôles et les responsabilités de chacun"
+        },
+        "de": {
+            "header": "Welches der folgenden Elemente ist ein Schlüsselelement für einen Projektplan?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Bei der Planung eines Projekts ist es sehr wichtig, die Rolle jedes Teammitglieds zu definieren und sicherzustellen, dass alle Verantwortlichkeiten klar und abgestimmt sind. Setzen Sie es auf Papier und voila!",
+            "tips": "Denken Sie beim Erstellen Ihres Planungsdokuments daran, dass es sich nicht um einen Roman handeln muss. Ein einseitiges Dokument sollte ausreichen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k~LDrtMI": "Eine Liste der Lieferanten",
+            "choice_E1GUPHFM8": "Eine Liste des Wettbewerbs",
+            "choice_E1VLDBYzI": "Ein Dokument mit Rollen und Verantwortlichkeiten"
+        },
+        "th": {
+            "header": "Which of the following is a key element for any project plan?",
+            "explanation": "Select the correct answer.",
+            "klf": "When planning a project, it’s very important to define the role of each team member, and ensure that all responsibilities are clear and agreed upon. Put it on paper, and voila!",
+            "tips": "When drafting your planning document, remember that it doesn't need to be a novel. A one-page document should be enough.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k~LDrtMI": "A list of suppliers",
+            "choice_E1GUPHFM8": "A list of the competition",
+            "choice_E1VLDBYzI": "A document stating roles and responsibilities"
+        }
+    }
+}

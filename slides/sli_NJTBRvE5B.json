@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T16:09:45.315Z",
+            "updatedAt": "2018-11-09T10:48:30.685Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4J72oUgqB"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NJTBRvE5B",
+        "universalRef": "sli_NJTBRvE5B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJTBRvE5B.choice_E1x9CwVcB.id",
+                        "label": "choice_E1x9CwVcB",
+                        "value": "choice_E1x9CwVcB"
+                    },
+                    {
+                        "id": "sli_NJTBRvE5B.choice_E1qMJdNqr.id",
+                        "label": "choice_E1qMJdNqr",
+                        "value": "choice_E1qMJdNqr"
+                    },
+                    {
+                        "id": "sli_NJTBRvE5B.choice_417rJuE5S.id",
+                        "label": "choice_417rJuE5S",
+                        "value": "choice_417rJuE5S"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1qMJdNqr",
+                        "choice_417rJuE5S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "choice_417rJuE5S": "‘Could we increase the market share with a new flavour?’",
+            "header": "In the following list, can you pick the instances of sharply focused questions?",
+            "explanation": "Select the correct answers.",
+            "klf": "A sharply focused question calls for sharply focused answers. That’s why ‘any ideas?’ isn’t a sharply focused question and should be avoided to collect useful answers.",
+            "tips": "When organizing a team decision meeting, make sure you know what others think before they know what you want them to think!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x9CwVcB": "‘Any ideas?’",
+            "choice_E1qMJdNqr": "‘What new markets could we expand to?’"
+        },
+        "fr": {
+            "header": "Dans la liste suivante, pouvez-vous indiquer les exemples de questions très ciblées ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Une question très ciblée exige des réponses très ciblées. C’est pourquoi la question « d’autres idées ? » n’est pas une question très ciblée et qu’elle doit être évitée pour recueillir des réponses dignes d’intérêt.",
+            "tips": "Lorsque vous organisez une réunion de prise de décision en équipe, veillez à connaître les idées des autres participants avant qu’ils sachent ce vers quoi vous souhaitez les diriger !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x9CwVcB": "« D’autres idées ? »",
+            "choice_E1qMJdNqr": "« Quels nouveaux marchés pourrions-nous explorer ? »",
+            "choice_417rJuE5S": "« Pourrions-nous augmenter notre part de marché avec un nouvel arôme ? »"
+        },
+        "de": {
+            "header": "Können Sie in der folgenden Liste die Fälle von konkreten Fragestellungen auswählen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Eine konkrete Fragestellung erfordert zielgerichtete Antworten. Aus diesem Grund stellen „irgendwelche Ideen?“ keine konkrete Fragestellung dar und sollte vermieden werden, damit sich nützliche Antworten ergeben.",
+            "tips": "Wenn Sie ein Teamentscheidungsmeeting veranstalten, stellen Sie sicher, dass Sie wissen, was andere denken, bevor sie wissen, was Sie sollten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x9CwVcB": "Irgendwelche Ideen?'",
+            "choice_E1qMJdNqr": "In welche neuen Märkte könnten wir expandieren?",
+            "choice_417rJuE5S": "Könnten wir den Marktanteil mit einer neuen Geschmacksrichtung steigern?"
+        },
+        "th": {
+            "header": "โปรดเลือกตัวอย่างคำถามที่เน้นเฉพาะจุดอย่างชัดเจนในรายการต่อไปนี้",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "คำถามที่เน้นเฉพาะจุดอย่างชัดเจนจะทำให้ได้รับคำตอบที่เน้นเฉพาะจุดอย่างชัดเจน นั่นจึงเป็นเหตุผลที่ ‘มีไอเดียไหม’ ไม่ใช่คำถามที่เน้นเฉพาะจุดอย่างชัดเจนและควรเลี่ยง หากต้องการรวบรวมคำตอบที่มีประโยชน์",
+            "tips": "เมื่อจัดการประชุมการตัดสินใจเป็นทีม คุณต้องแน่ใจว่าคุณรู้ว่าผู้อื่นคิดอะไร ก่อนที่พวกเขาจะรู้ว่าคุณอยากให้พวกเขาคิดอะไร",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x9CwVcB": "‘มีไอเดียไหม’",
+            "choice_E1qMJdNqr": "‘เราสามารถขยายไปยังตลาดใหม่แห่งใดได้บ้าง’",
+            "choice_417rJuE5S": "‘เราสามารถเพิ่มส่วนแบ่งตลาดด้วยรสใหม่ได้หรือเปล่า’"
+        }
+    }
+}

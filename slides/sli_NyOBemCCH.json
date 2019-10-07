@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-03T13:57:09.494Z",
+            "updatedAt": "2019-01-21T14:07:15.871Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1rgTIq0S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NyOBemCCH",
+        "universalRef": "sli_NyOBemCCH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel69660",
+                        "items": [
+                            {
+                                "text": "choice_41g-z~XRCB",
+                                "value": "choice_41g-z~XRCB"
+                            },
+                            {
+                                "text": "choice_EyZOf~XR0H",
+                                "value": "choice_EyZOf~XR0H"
+                            },
+                            {
+                                "text": "choice_4JbRbQ0AS",
+                                "value": "choice_4JbRbQ0AS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel69660",
+                        "answers": [
+                            "choice_EyZOf~XR0H"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "To deal with failure in a productive way, how can you choose to see it?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "You can view failure as a sign of growth: it shows that you have reached the end of your comfort zone!",
+            "tips": "Many initiatives have been created to encourage the celebration of failure in the workplace. For example, ‘Failure Nights’, a global movement and event series, aims for participants to share stories of professional failure!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Failure is a sign that you have reached the end of {{sel69660}}",
+            "choice_41g-z~XRCB": "your capabilities",
+            "choice_EyZOf~XR0H": "your comfort zone",
+            "choice_4JbRbQ0AS": "the world"
+        },
+        "fr": {
+            "header": "Pour gérer l’échec de manière productive, comment pouvez-vous choisir de le considérer ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Vous pouvez considérer l’échec comme un signe d’évolution : il montre que vous avez atteint les limites de votre zone de confort !",
+            "tips": "De nombreuses initiatives ont vu le jour afin d’encourager l’éloge de l’échec au travail. Le mouvement global intitulé les « Nuits de l’échec », propose par exemple une série d’événements où les participants sont invités à partager leurs échecs professionnels !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L’échec prouve que vous avez atteint les limites {{sel69660}}",
+            "choice_41g-z~XRCB": "de vos capacités",
+            "choice_EyZOf~XR0H": "de votre zone de confort",
+            "choice_4JbRbQ0AS": "du monde"
+        },
+        "de": {
+            "header": "Wie können Sie sich entscheiden, um mit dem Scheitern auf produktive Weise umzugehen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Sie können Misserfolg als Zeichen des Wachstums betrachten: sie zeigen, dass Sie das Ende Ihrer Komfortzone erreicht haben!",
+            "tips": "Es wurden viele Initiativen ins Leben gerufen, um das Zelebrieren des Versagens am Arbeitsplatz zu fördern. Mit „Failure Nights“, einer globalen Bewegungs- und Veranstaltungsreihe, sollen die Teilnehmer beispielsweise Geschichten über berufliches Versagen austauschen!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Fehler ist ein Zeichen dafür, dass Sie das Ende von {{sel69660}} erreicht haben.",
+            "choice_41g-z~XRCB": "Ihren Fähigkeiten",
+            "choice_EyZOf~XR0H": "deiner Komfortzone",
+            "choice_4JbRbQ0AS": "der Welt"
+        },
+        "th": {
+            "header": "To deal with failure in a productive way, how can you choose to see it?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "You can view failure as a sign of growth: it shows that you have reached the end of your comfort zone!",
+            "tips": "Many initiatives have been created to encourage the celebration of failure in the workplace. For example, ‘Failure Nights’, a global movement and event series, aims for participants to share stories of professional failure!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Failure is a sign that you have reached the end of {{sel69660}}",
+            "choice_41g-z~XRCB": "your capabilities",
+            "choice_EyZOf~XR0H": "your comfort zone",
+            "choice_4JbRbQ0AS": "the world"
+        }
+    }
+}

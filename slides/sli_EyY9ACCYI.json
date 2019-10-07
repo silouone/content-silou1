@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-16T15:36:21.437Z",
+            "updatedAt": "2019-04-16T15:46:57.790Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJC~5XuKI"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_EyY9ACCYI",
+        "universalRef": "sli_EyY9ACCYI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EyY9ACCYI.choice_4JOix11qU.id",
+                        "label": "choice_4JOix11qU",
+                        "value": "choice_4JOix11qU"
+                    },
+                    {
+                        "id": "sli_EyY9ACCYI.choice_VyQhgyycI.id",
+                        "label": "choice_VyQhgyycI",
+                        "value": "choice_VyQhgyycI"
+                    },
+                    {
+                        "id": "sli_EyY9ACCYI.choice_VymTeJkqU.id",
+                        "label": "choice_VymTeJkqU",
+                        "value": "choice_VymTeJkqU"
+                    },
+                    {
+                        "id": "sli_EyY9ACCYI.choice_V16lbJk9I.id",
+                        "label": "choice_V16lbJk9I",
+                        "value": "choice_V16lbJk9I"
+                    },
+                    {
+                        "id": "sli_EyY9ACCYI.choice_Vk-MbJJ9I.id",
+                        "label": "choice_Vk-MbJJ9I",
+                        "value": "choice_Vk-MbJJ9I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyQhgyycI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You now have identified good potential partners for mentoring. What should they be doing next?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Identify good potential partners for mentoring and encourage them to establish clear goals and expectations.",
+            "tips": "To get the most of a mentoring scheme, communication between mentor and mentee should always be clear and specific.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JOix11qU": "Argue that their generation is best",
+            "choice_VyQhgyycI": "Establish clear goals and expectations",
+            "choice_VymTeJkqU": "Play board games together",
+            "choice_V16lbJk9I": "Let the senior employee do his job",
+            "choice_Vk-MbJJ9I": "Identify each other's weaknesses"
+        },
+        "fr": {
+            "header": "Vous avez maintenant trouvé de bons partenaires potentiels de mentorat. Que doivent-ils faire ensuite ?",
+            "explanation": "Sélectionnez la réponse correcte ci-dessous.",
+            "klf": "Trouvez de bons partenaires potentiels de mentorat et encouragez-les à définir des objectifs et des attentes claires.",
+            "tips": "Pour tirer le meilleur parti d'un programme de mentorat, la communication entre le mentor et le mentoré doit toujours être claire et spécifique.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JOix11qU": "Argumenter que leur génération est la meilleure",
+            "choice_VyQhgyycI": "Définir des objectifs et des attentes claires",
+            "choice_VymTeJkqU": "Jouer ensemble à des jeux de société",
+            "choice_V16lbJk9I": "Laisser l'employé senior faire son travail",
+            "choice_Vk-MbJJ9I": "Identifier les faiblesses de chacun"
+        },
+        "de": {
+            "header": "You now have identified good potential partners for mentoring. What should they be doing next?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Identify good potential partners for mentoring and encourage them to establish clear goals and expectations.",
+            "tips": "To get the most of a mentoring scheme, communication between mentor and mentee should always be clear and specific.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JOix11qU": "Argue that their generation is best",
+            "choice_VyQhgyycI": "Establish clear goals and expectations",
+            "choice_VymTeJkqU": "Play board games together",
+            "choice_V16lbJk9I": "Let the senior employee do his job",
+            "choice_Vk-MbJJ9I": "Identify each other's weaknesses"
+        },
+        "th": {
+            "header": "You now have identified good potential partners for mentoring. What should they be doing next?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Identify good potential partners for mentoring and encourage them to establish clear goals and expectations.",
+            "tips": "To get the most of a mentoring scheme, communication between mentor and mentee should always be clear and specific.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JOix11qU": "Argue that their generation is best",
+            "choice_VyQhgyycI": "Establish clear goals and expectations",
+            "choice_VymTeJkqU": "Play board games together",
+            "choice_V16lbJk9I": "Let the senior employee do his job",
+            "choice_Vk-MbJJ9I": "Identify each other's weaknesses"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T10:14:21.784Z",
+            "updatedAt": "2019-01-21T14:13:06.898Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kHfT89CB"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4J-67JGyL",
+        "universalRef": "sli_4J-67JGyL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel92934",
+                        "items": [
+                            {
+                                "text": "choice_NkeI6VyG1U",
+                                "value": "choice_NkeI6VyG1U"
+                            },
+                            {
+                                "text": "choice_4y~8pNkz1L",
+                                "value": "choice_4y~8pNkz1L"
+                            },
+                            {
+                                "text": "choice_VJAaNyzJU",
+                                "value": "choice_VJAaNyzJU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel92934",
+                        "answers": [
+                            "choice_VJAaNyzJU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What does treating yourself well imply?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Catch yourself in the act of self-criticism and remember that it is not self-indulgent to treat yourself well. Be kind to yourself!",
+            "tips": "Move from self-criticism to self-compassion: treat yourself with self-kindness, humanity and mindfulness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It is not {{sel92934}} to treat yourself well.",
+            "choice_NkeI6VyG1U": "appropriate",
+            "choice_4y~8pNkz1L": "acceptable",
+            "choice_VJAaNyzJU": "self-indulgent"
+        },
+        "fr": {
+            "header": "Que signifie se traiter avec égards ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Surprenez-vous en train de vous auto-critiquer, et rappelez-vous qu’être plus agréable avec soi-même ne signifie pas faire preuve d’auto-complaisance. Soyez indulgent avec vous-même !",
+            "tips": "Passer de l’auto-critique à l’auto-compassion : faites preuve de bienveillance, d’humanité et d’attention envers vous-même.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Se traiter avec égards n’est pas {{sel92934}}",
+            "choice_NkeI6VyG1U": "approprié",
+            "choice_4y~8pNkz1L": "acceptable",
+            "choice_VJAaNyzJU": "auto-complaisant"
+        },
+        "de": {
+            "header": "Was bedeutet es, sich gut zu behandeln?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Erwischen Sie sich dabei selbstkritisch zu sein und errinern Sie sich daran, dass es nicht nachsichtig ist sich selber gut zu behandeln. Sei nett zu dir selbst!",
+            "tips": "Wechseln Sie von Selbstkritik zu Selbstmitgefühl: Gönnen Sie Nettigkeit, Menschlichkeit und Achtsamkeit sich selber.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Es ist nicht {{sel92934}}, sich gut zu behandeln.",
+            "choice_NkeI6VyG1U": "angemessen",
+            "choice_4y~8pNkz1L": "akzeptabel",
+            "choice_VJAaNyzJU": "nachsichtig"
+        },
+        "th": {
+            "header": "What does treating yourself well imply?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Catch yourself in the act of self-criticism and remember that it is not self-indulgent to treat yourself well. Be kind to yourself!",
+            "tips": "Move from self-criticism to self-compassion: treat yourself with self-kindness, humanity and mindfulness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It is not {{sel92934}} to treat yourself well.",
+            "choice_NkeI6VyG1U": "appropriate",
+            "choice_4y~8pNkz1L": "acceptable",
+            "choice_VJAaNyzJU": "self-indulgent"
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T09:42:50.365Z",
+            "updatedAt": "2019-02-18T10:53:32.330Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyS90kHNU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VkelaP7SL",
+        "universalRef": "sli_VkelaP7SL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkelaP7SL.choice_EymM6vQrU.id",
+                        "label": "choice_EymM6vQrU",
+                        "value": "choice_EymM6vQrU"
+                    },
+                    {
+                        "id": "sli_VkelaP7SL.choice_NJNz6vmSU.id",
+                        "label": "choice_NJNz6vmSU",
+                        "value": "choice_NJNz6vmSU"
+                    },
+                    {
+                        "id": "sli_VkelaP7SL.choice_VJ8G6vmrU.id",
+                        "label": "choice_VJ8G6vmrU",
+                        "value": "choice_VJ8G6vmrU"
+                    },
+                    {
+                        "id": "sli_VkelaP7SL.choice_NJvMaPQrU.id",
+                        "label": "choice_NJvMaPQrU",
+                        "value": "choice_NJvMaPQrU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJvMaPQrU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When criticising someone during a review, what is the most important first step?",
+            "explanation": "Select the correct answer.",
+            "klf": "When giving criticism, come to an agreement with the individual about what actually happened, rather than just assigning blame.",
+            "tips": "Don’t catch anyone by surprise. Schedule a meeting with the person you need to discuss with, and mention the subject of the conversation beforehand.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EymM6vQrU": "Telling the individual you know it was his or her fault",
+            "choice_NJNz6vmSU": "Reading the riot act",
+            "choice_VJ8G6vmrU": "Giving your opinion on the situation",
+            "choice_NJvMaPQrU": "Getting agreement with the individual about what happened"
+        },
+        "fr": {
+            "header": "Lorsque vous critiquez quelqu'un lors d'une évaluation, quelle est la première étape la plus importante ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque vous formulez des critiques, convenez avec l'individu de ce qui s'est réellement passé, plutôt que de simplement le blâmer.",
+            "tips": "Ne prenez personne par surprise. Planifiez une réunion avec la personne avec laquelle vous avez besoin de discuter et mentionnez le sujet de la conversation à l'avance.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EymM6vQrU": "Dire à la personne que vous savez que c'est de sa faute",
+            "choice_NJNz6vmSU": "Lui faire la leçon",
+            "choice_VJ8G6vmrU": "Donner votre avis sur la situation",
+            "choice_NJvMaPQrU": "Convenir avec la personne de ce qui s'est passé"
+        },
+        "de": {
+            "header": "Was ist der wichtigste erste Schritt, wenn Sie jemanden während einer Überprüfung kritisieren?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Vereinbaren Sie bei der Kritik mit dem einzelnen Menschen, was tatsächlich passiert ist, anstatt nur Schuldzuweisungen zuzuweisen.",
+            "tips": "Überraschen Sie niemanden. Planen Sie ein Meeting mit der Person, mit der Sie sprechen müssen, und erwähnen Sie das Gesprächsthema vorher.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EymM6vQrU": "Der Person sagen, dass Sie wissen, dass es seine oder ihre Schuld war",
+            "choice_NJNz6vmSU": "Lesen Sie den Aufstand",
+            "choice_VJ8G6vmrU": "Geben Sie Ihre Meinung zur Situation ab",
+            "choice_NJvMaPQrU": "Übereinstimmung mit dem Individuum über das, was passiert ist"
+        },
+        "th": {
+            "header": "When criticising someone during a review, what is the most important first step?",
+            "explanation": "Select the correct answer.",
+            "klf": "When giving criticism, come to an agreement with the individual about what actually happened, rather than just assigning blame.",
+            "tips": "Don’t catch anyone by surprise. Schedule a meeting with the person you need to discuss with, and mention the subject of the conversation beforehand.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EymM6vQrU": "Telling the individual you know it was his or her fault",
+            "choice_NJNz6vmSU": "Reading the riot act",
+            "choice_VJ8G6vmrU": "Giving your opinion on the situation",
+            "choice_NJvMaPQrU": "Getting agreement with the individual about what happened"
+        }
+    }
+}

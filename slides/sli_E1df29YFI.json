@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T15:22:44.254Z",
+            "updatedAt": "2019-04-12T15:22:44.254Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyt4VewKU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_E1df29YFI",
+        "universalRef": "sli_E1df29YFI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1df29YFI.choice_Ekrr35ttL.id",
+                        "label": "choice_Ekrr35ttL",
+                        "value": "choice_Ekrr35ttL"
+                    },
+                    {
+                        "id": "sli_E1df29YFI.choice_EypH25FtL.id",
+                        "label": "choice_EypH25FtL",
+                        "value": "choice_EypH25FtL"
+                    },
+                    {
+                        "id": "sli_E1df29YFI.choice_4yf82cFF8.id",
+                        "label": "choice_4yf82cFF8",
+                        "value": "choice_4yf82cFF8"
+                    },
+                    {
+                        "id": "sli_E1df29YFI.choice_NkuLh9FtI.id",
+                        "label": "choice_NkuLh9FtI",
+                        "value": "choice_NkuLh9FtI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yf82cFF8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to carry your voice when giving your presentation?",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s important to be natural when you’re giving a presentation. Speak as you would normally.",
+            "tips": "Don’t forget to smile: it greatly helps to build rapport with your audience.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekrr35ttL": "Loud, there may be people at the back who can’t hear you",
+            "choice_EypH25FtL": "Slowly, especially if you need to convey complicated information",
+            "choice_4yf82cFF8": "Naturally: speak as you would do normally.",
+            "choice_NkuLh9FtI": "Emphasise important points by speaking in a lower tone to convey authority"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure façon de vous exprimer lors de votre présentation ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est important d’être naturel lorsque vous faites une présentation. Parlez comme vous le feriez normalement.",
+            "tips": "N'oubliez pas de sourire : c'est très utile pour établir une relation avec votre auditoire.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekrr35ttL": "Fort, il y a peut-être des gens à l'arrière qui ne peuvent pas vous entendre",
+            "choice_EypH25FtL": "Lentement, surtout si vous devez transmettre des informations complexes",
+            "choice_4yf82cFF8": "Naturellement : parlez comme vous le feriez normalement.",
+            "choice_NkuLh9FtI": "Souligner les points importants en parlant plus bas pour exprimer votre autorité"
+        },
+        "de": {
+            "header": "What’s the best way to carry your voice when giving your presentation?",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s important to be natural when you’re giving a presentation. Speak as you would normally.",
+            "tips": "Don’t forget to smile: it greatly helps to build rapport with your audience.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekrr35ttL": "Loud, there may be people at the back who can’t hear you",
+            "choice_EypH25FtL": "Slowly, especially if you need to convey complicated information",
+            "choice_4yf82cFF8": "Naturally: speak as you would do normally.",
+            "choice_NkuLh9FtI": "Emphasise important points by speaking in a lower tone to convey authority"
+        },
+        "th": {
+            "header": "What’s the best way to carry your voice when giving your presentation?",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s important to be natural when you’re giving a presentation. Speak as you would normally.",
+            "tips": "Don’t forget to smile: it greatly helps to build rapport with your audience.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekrr35ttL": "Loud, there may be people at the back who can’t hear you",
+            "choice_EypH25FtL": "Slowly, especially if you need to convey complicated information",
+            "choice_4yf82cFF8": "Naturally: speak as you would do normally.",
+            "choice_NkuLh9FtI": "Emphasise important points by speaking in a lower tone to convey authority"
+        }
+    }
+}

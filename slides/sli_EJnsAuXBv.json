@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-31T15:22:51.215Z",
+            "updatedAt": "2019-08-31T15:22:51.215Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JPO5147D"
+            ],
+            "modifiedBy": "ChRitzmannch",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_EJnsAuXBv",
+        "universalRef": "sli_EJnsAuXBv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJnsAuXBv.choice_EJ4pAumrw.id",
+                        "label": "choice_EJ4pAumrw",
+                        "value": "choice_EJ4pAumrw"
+                    },
+                    {
+                        "id": "sli_EJnsAuXBv.choice_N1ST0umHD.id",
+                        "label": "choice_N1ST0umHD",
+                        "value": "choice_N1ST0umHD"
+                    },
+                    {
+                        "id": "sli_EJnsAuXBv.choice_VJLTA-mHP.id",
+                        "label": "choice_VJLTA-mHP",
+                        "value": "choice_VJLTA-mHP"
+                    },
+                    {
+                        "id": "sli_EJnsAuXBv.choice_VyupAOXHP.id",
+                        "label": "choice_VyupAOXHP",
+                        "value": "choice_VyupAOXHP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJ4pAumrw",
+                        "choice_N1ST0umHD",
+                        "choice_VyupAOXHP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the advantages of asking questions in a sales meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Asking questions is one of the most powerful tool a salesperson can use. Questions help gain control of the meeting, keep the dialogue flowing, and are a great way to learn from your customer about their needs.",
+            "tips": "Open questions are useful to identify issues or ask for a person's opinion; close questions will allow you to identify details and specific requirements, but they tend to restrict the flow of the conversation as they call for short answers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ4pAumrw": "It opens up the dialogue with the customer",
+            "choice_N1ST0umHD": "It helps you learn from your customer",
+            "choice_VJLTA-mHP": "It helps you hide it if you don't have the answers",
+            "choice_VyupAOXHP": "It helps you gain control of the meeting"
+        },
+        "fr": {
+            "header": "Quels sont les avantages de poser des questions lors d'une réunion de vente?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Poser des questions est l'un des outils les plus puissants qu'un vendeur puisse utiliser. Les questions permettent de prendre le contrôle de la réunion, de maintenir le dialogue et constituent un excellent moyen de connaître les besoins de vos clients.",
+            "tips": "Les questions ouvertes sont utiles pour identifier des problèmes ou demander l'opinion d'une personne. Des questions proches vous permettront d'identifier des détails et des exigences spécifiques, mais elles tendent à restreindre le déroulement de la conversation car elles appellent des réponses courtes.",
+            "choice_EJ4pAumrw": "Cela ouvre le dialogue avec le client",
+            "choice_N1ST0umHD": "Cela vous aide à apprendre de votre client",
+            "choice_VJLTA-mHP": "Cela vous aide à le cacher si vous n'avez pas les réponses",
+            "choice_VyupAOXHP": "Cela vous aide à prendre le contrôle de la réunion",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What are the advantages of asking questions in a sales meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Asking questions is one of the most powerful tool a salesperson can use. Questions help gain control of the meeting, keep the dialogue flowing, and are a great way to learn from your customer about their needs.",
+            "tips": "Open questions are useful to identify issues or ask for a person's opinion; close questions will allow you to identify details and specific requirements, but they tend to restrict the flow of the conversation as they call for short answers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ4pAumrw": "It opens up the dialogue with the customer",
+            "choice_N1ST0umHD": "It helps you learn from your customer",
+            "choice_VJLTA-mHP": "It helps you hide it if you don't have the answers",
+            "choice_VyupAOXHP": "It helps you gain control of the meeting"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJ4pAumrw": "",
+            "choice_N1ST0umHD": "",
+            "choice_VJLTA-mHP": "",
+            "choice_VyupAOXHP": ""
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T15:25:51.326Z",
+            "updatedAt": "2019-04-12T15:25:51.326Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyt4VewKU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Ey6TncFtL",
+        "universalRef": "sli_Ey6TncFtL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ey6TncFtL.choice_NJ-lacFtU.id",
+                        "label": "choice_NJ-lacFtU",
+                        "value": "choice_NJ-lacFtU"
+                    },
+                    {
+                        "id": "sli_Ey6TncFtL.choice_N1FxT5tFL.id",
+                        "label": "choice_N1FxT5tFL",
+                        "value": "choice_N1FxT5tFL"
+                    },
+                    {
+                        "id": "sli_Ey6TncFtL.choice_NyqxT5YYU.id",
+                        "label": "choice_NyqxT5YYU",
+                        "value": "choice_NyqxT5YYU"
+                    },
+                    {
+                        "id": "sli_Ey6TncFtL.choice_41F~T9YK8.id",
+                        "label": "choice_41F~T9YK8",
+                        "value": "choice_41F~T9YK8"
+                    },
+                    {
+                        "id": "sli_Ey6TncFtL.choice_Nk~zp5KKI.id",
+                        "label": "choice_Nk~zp5KKI",
+                        "value": "choice_Nk~zp5KKI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nk~zp5KKI",
+                        "choice_N1FxT5tFL",
+                        "choice_NJ-lacFtU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you tailor your presentation?",
+            "explanation": "Select the correct answers.",
+            "klf": "No two audiences are the same. You can tailor your presentation by recognising the objectives of your audience, by selecting your arguments carefully to meet these objectives, and by using appropriate humour.",
+            "tips": "‘Eloquent speech is not from lip to ear, but rather from heart to heart.’ (William Jennings Bryan)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ-lacFtU": "Use appropriate humour",
+            "choice_N1FxT5tFL": "Recognise the objectives of your audience",
+            "choice_NyqxT5YYU": "Explain right at the beginning what your objective is",
+            "choice_41F~T9YK8": "Pick your 3 best arguments and avoid lengthy explanations",
+            "choice_Nk~zp5KKI": "Select your arguments to meet the objectives of your audience",
+            "null": ""
+        },
+        "fr": {
+            "header": "Comment pouvez-vous adapter votre présentation ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Il n'y a pas deux auditoires identiques. Vous pouvez personnaliser votre présentation en reconnaissant les objectifs de votre auditoire, en sélectionnant vos arguments avec soin pour les atteindre et en utilisant un humour approprié.",
+            "tips": "« Un discours éloquent ne se transmet pas de bouche à oreille, mais plutôt de cœur à coeur. » (William Jennings Bryan)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ-lacFtU": "En utilisant un humour approprié",
+            "choice_N1FxT5tFL": "En reconnaissant les objectifs de votre auditoire",
+            "choice_NyqxT5YYU": "En expliquant votre objectif dès le début",
+            "choice_41F~T9YK8": "En choisissant vos 3 meilleurs arguments et en évitant les longues explications",
+            "choice_Nk~zp5KKI": "En sélectionnant des arguments qui répondent aux objectifs de votre auditoire"
+        },
+        "de": {
+            "header": "How can you tailor your presentation?",
+            "explanation": "Select the correct answers.",
+            "klf": "No two audiences are the same. You can tailor your presentation by recognising the objectives of your audience, by selecting your arguments carefully to meet these objectives, and by using appropriate humour.",
+            "tips": "‘Eloquent speech is not from lip to ear, but rather from heart to heart.’ (William Jennings Bryan)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ-lacFtU": "Use appropriate humour",
+            "choice_N1FxT5tFL": "Recognise the objectives of your audience",
+            "choice_NyqxT5YYU": "Explain right at the beginning what your objective is",
+            "choice_41F~T9YK8": "Pick your 3 best arguments and avoid lengthy explanations",
+            "choice_Nk~zp5KKI": "Select your arguments to meet the objectives of your audience"
+        },
+        "th": {
+            "header": "How can you tailor your presentation?",
+            "explanation": "Select the correct answers.",
+            "klf": "No two audiences are the same. You can tailor your presentation by recognising the objectives of your audience, by selecting your arguments carefully to meet these objectives, and by using appropriate humour.",
+            "tips": "‘Eloquent speech is not from lip to ear, but rather from heart to heart.’ (William Jennings Bryan)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ-lacFtU": "Use appropriate humour",
+            "choice_N1FxT5tFL": "Recognise the objectives of your audience",
+            "choice_NyqxT5YYU": "Explain right at the beginning what your objective is",
+            "choice_41F~T9YK8": "Pick your 3 best arguments and avoid lengthy explanations",
+            "choice_Nk~zp5KKI": "Select your arguments to meet the objectives of your audience",
+            "null": ""
+        }
+    }
+}

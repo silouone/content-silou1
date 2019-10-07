@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T14:01:05.516Z",
+            "updatedAt": "2019-02-12T09:47:20.971Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JWuX074L"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NkvDDCm48",
+        "universalRef": "sli_NkvDDCm48",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NkvDDCm48.choice_VkruwA7VU.id",
+                        "label": "choice_VkruwA7VU",
+                        "value": "choice_VkruwA7VU"
+                    },
+                    {
+                        "id": "sli_NkvDDCm48.choice_NyU-vAQE8.id",
+                        "label": "choice_NyU-vAQE8",
+                        "value": "choice_NyU-vAQE8"
+                    },
+                    {
+                        "id": "sli_NkvDDCm48.choice_VJd-vRmEU.id",
+                        "label": "choice_VJd-vRmEU",
+                        "value": "choice_VJd-vRmEU"
+                    },
+                    {
+                        "id": "sli_NkvDDCm48.choice_E1tdPAQ4L.id",
+                        "label": "choice_E1tdPAQ4L",
+                        "value": "choice_E1tdPAQ4L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkruwA7VU",
+                        "choice_NyU-vAQE8",
+                        "choice_E1tdPAQ4L"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the effect of pushing blame onto someone or something else from a customer perspective?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Pushing blame onto someone else is never helpful, even if you might feel that it is justified! It always yields negative results, as it makes you and the company look bad.",
+            "tips": "Instead of blaming someone else when something doesn't go according to plan, focus on what you can control.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkruwA7VU": "It reduces confidence in you",
+            "choice_NyU-vAQE8": "It makes the company look bad",
+            "choice_VJd-vRmEU": "It's fine when it’s the truth",
+            "choice_E1tdPAQ4L": "It’s negative"
+        },
+        "fr": {
+            "header": "Du point de vue du client, qu'a pour effet le fait de rejeter la faute sur quelqu'un ou quelque chose d'autre ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Rejeter la faute sur quelqu'un d'autre n'est jamais utile, même si vous pensez que c'est justifié ! Cela engendre toujours des résultats négatifs en donnant une mauvaise image de vous-même et votre entreprise.",
+            "tips": "Au lieu de blâmer quelqu'un d'autre quand quelque chose ne se passe pas comme prévu, concentrez-vous sur ce que vous pouvez contrôler.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkruwA7VU": "Cela réduit la confiance qu'on vous porte",
+            "choice_NyU-vAQE8": "Cela donne une mauvaise image de l'entreprise",
+            "choice_VJd-vRmEU": "C’est bien quand c’est la vérité",
+            "choice_E1tdPAQ4L": "C’est négatif"
+        },
+        "de": {
+            "header": "Wie wirkt sich aus Kundensicht aus, wenn jemandem oder etwas anderem die Schuld auferlegt wird?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Es ist nie hilfreich, jemand anderem die Schuld zu geben, selbst wenn Sie das Gefühl haben, dass dies gerechtfertigt ist! Es führt immer zu negativen Ergebnissen, da Sie und das Unternehmen schlecht aussehen.",
+            "tips": "Anstatt jemandem die Schuld zu geben, wenn etwas nicht nach Plan verläuft, konzentrieren Sie sich auf das, was Sie kontrollieren können.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkruwA7VU": "Es verringert das Vertrauen in Sie",
+            "choice_NyU-vAQE8": "Das Unternehmen sieht dadurch schlecht aus",
+            "choice_VJd-vRmEU": "Es ist gut, wenn es die Wahrheit ist",
+            "choice_E1tdPAQ4L": "Es ist negativ"
+        },
+        "th": {
+            "header": "What is the effect of pushing blame onto someone or something else from a customer perspective?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Pushing blame onto someone else is never helpful, even if you might feel that it is justified! It always yields negative results, as it makes you and the company look bad.",
+            "tips": "Instead of blaming someone else when something doesn't go according to plan, focus on what you can control.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkruwA7VU": "It reduces confidence in you",
+            "choice_NyU-vAQE8": "It makes the company look bad",
+            "choice_VJd-vRmEU": "It's fine when it’s the truth",
+            "choice_E1tdPAQ4L": "It’s negative"
+        }
+    }
+}

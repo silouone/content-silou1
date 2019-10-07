@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T12:44:30.837Z",
+            "updatedAt": "2019-03-15T16:31:17.946Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ndF7XvL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Nkbwo47DI",
+        "universalRef": "sli_Nkbwo47DI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Nkbwo47DI.choice_VkovsVQD8.id",
+                        "label": "choice_VkovsVQD8",
+                        "value": "choice_VkovsVQD8"
+                    },
+                    {
+                        "id": "sli_Nkbwo47DI.choice_VkhvoNQPU.id",
+                        "label": "choice_VkhvoNQPU",
+                        "value": "choice_VkhvoNQPU"
+                    },
+                    {
+                        "id": "sli_Nkbwo47DI.choice_VJbuj4mD8.id",
+                        "label": "choice_VJbuj4mD8",
+                        "value": "choice_VJbuj4mD8"
+                    },
+                    {
+                        "id": "sli_Nkbwo47DI.choice_NJDuiVXvU.id",
+                        "label": "choice_NJDuiVXvU",
+                        "value": "choice_NJDuiVXvU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJDuiVXvU",
+                        "choice_VJbuj4mD8",
+                        "choice_VkovsVQD8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following are stereotypes regarding millennials?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Common stereotypes about millennials are that they are tech savvy, they value innovation and change, they are entitled and lazy, and they just hop around jobs.",
+            "tips": "The word stereotype comes from <i>stereós</i>, a Greek word which can be translated by ‘strong’, ‘firm’, or ‘solid’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkovsVQD8": "They are tech savvy",
+            "choice_VkhvoNQPU": "They resist change",
+            "choice_VJbuj4mD8": "They are entitled and whine a lot",
+            "choice_NJDuiVXvU": "They quickly move between jobs"
+        },
+        "fr": {
+            "header": "Lesquels des stéréotypes suivants concernant la génération Y ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les stéréotypes les plus courants à propos de la génération Y sont qu'ils sont férus de technologie, qu'ils valorisent l'innovation et le changement, qu'ils pensent avoir tous les droits, qu'ils sont paresseux et qu'ils changent souvent de travail.",
+            "tips": "Le mot stéréotype vient de <i>stereós</i> , un mot grec qui peut être traduit par « fort », « ferme » ou « solide ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkovsVQD8": "Ils sont férus de technologie",
+            "choice_VkhvoNQPU": "Ils résistent au changement",
+            "choice_VJbuj4mD8": "Ils ont tous les droits et se plaignent beaucoup",
+            "choice_NJDuiVXvU": "Ils passent rapidement d'un emploi à l'autre"
+        },
+        "de": {
+            "header": "Which of the following are stereotypes regarding millennials?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Common stereotypes about millennials are that they are tech savvy, they value innovation and change, they are entitled and lazy, and they just hop around jobs.",
+            "tips": "The word stereotype comes from <i>stereós</i>, a Greek word which can be translated by ‘strong’, ‘firm’, or ‘solid’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkovsVQD8": "They are tech savvy",
+            "choice_VkhvoNQPU": "They resist change",
+            "choice_VJbuj4mD8": "They are entitled and whine a lot",
+            "choice_NJDuiVXvU": "They quickly move between jobs"
+        },
+        "th": {
+            "header": "Which of the following are stereotypes regarding millennials?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Common stereotypes about millennials are that they are tech savvy, they value innovation and change, they are entitled and lazy, and they just hop around jobs.",
+            "tips": "The word stereotype comes from <i>stereós</i>, a Greek word which can be translated by ‘strong’, ‘firm’, or ‘solid’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkovsVQD8": "They are tech savvy",
+            "choice_VkhvoNQPU": "They resist change",
+            "choice_VJbuj4mD8": "They are entitled and whine a lot",
+            "choice_NJDuiVXvU": "They quickly move between jobs"
+        }
+    }
+}

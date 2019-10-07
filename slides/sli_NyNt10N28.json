@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-15T09:49:49.720Z",
+            "updatedAt": "2019-05-19T15:54:29.776Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vyp8KAusU"
+            ],
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_NyNt10N28",
+        "universalRef": "sli_NyNt10N28",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyNt10N28.choice_Ekz2k0Vh8.id",
+                        "label": "choice_Ekz2k0Vh8",
+                        "value": "choice_Ekz2k0Vh8"
+                    },
+                    {
+                        "id": "sli_NyNt10N28.choice_VJeMn1RV28.id",
+                        "label": "choice_VJeMn1RV28",
+                        "value": "choice_VJeMn1RV28"
+                    },
+                    {
+                        "id": "sli_NyNt10N28.choice_Eym2kC42U.id",
+                        "label": "choice_Eym2kC42U",
+                        "value": "choice_Eym2kC42U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ekz2k0Vh8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What do requesters tend to focus on when asking for help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Requesters focus on the economic costs that people will incur if they do accept to help them (such as their time and resources).",
+            "tips": "Humans are naturally cooperative. It’s always smarter to avoid working in isolation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekz2k0Vh8": "The time and resources that the helper will need to spend",
+            "choice_VJeMn1RV28": "How nice it will be for the helper to help",
+            "choice_Eym2kC42U": "The social costs of not accepting the plea for help"
+        },
+        "fr": {
+            "header": "Sur quoi les solliciteurs d'aide ont-ils tendance à se focaliser lorsqu'ils en demandent ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les solliciteurs d'aide se concentrent sur les coûts économiques que les personnes devront supporter si elles acceptent de les aider (tels que leur temps et leurs ressources).",
+            "tips": "Les humains sont naturellement coopératifs. Il est toujours plus intelligent d’éviter de travailler en vase clos.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekz2k0Vh8": "Le temps et les ressources que le sollicité devra dépenser",
+            "choice_VJeMn1RV28": "Comme ce sera agréable pour le sollicité d'aider",
+            "choice_Eym2kC42U": "Ce que ça peut coûter socialement de ne pas répondre à un appel à l'aide"
+        },
+        "de": {
+            "header": "What do requesters tend to focus on when asking for help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Requesters focus on the economic costs that people will incur if they do accept to help them (such as their time and resources).",
+            "tips": "Humans are naturally cooperative. It’s always smarter to avoid working in isolation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekz2k0Vh8": "The time and resources that the helper will need to spend",
+            "choice_VJeMn1RV28": "How nice it will be for the helper to help",
+            "choice_Eym2kC42U": "The social costs of not accepting the plea for help"
+        },
+        "th": {
+            "header": "What do requesters tend to focus on when asking for help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Requesters focus on the economic costs that people will incur if they do accept to help them (such as their time and resources).",
+            "tips": "Humans are naturally cooperative. It’s always smarter to avoid working in isolation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekz2k0Vh8": "The time and resources that the helper will need to spend",
+            "choice_VJeMn1RV28": "How nice it will be for the helper to help",
+            "choice_Eym2kC42U": "The social costs of not accepting the plea for help"
+        }
+    }
+}

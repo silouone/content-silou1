@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T13:28:59.754Z",
+            "updatedAt": "2019-01-23T15:24:03.647Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Od6wk18"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4J1OkdJ1I",
+        "universalRef": "sli_4J1OkdJ1I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4J1OkdJ1I.choice_EyMj1-yyU.id",
+                        "label": "choice_EyMj1-yyU",
+                        "value": "choice_EyMj1-yyU"
+                    },
+                    {
+                        "id": "sli_4J1OkdJ1I.choice_41z2yO1kU.id",
+                        "label": "choice_41z2yO1kU",
+                        "value": "choice_41z2yO1kU"
+                    },
+                    {
+                        "id": "sli_4J1OkdJ1I.choice_Vyt6Ju11I.id",
+                        "label": "choice_Vyt6Ju11I",
+                        "value": "choice_Vyt6Ju11I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyMj1-yyU",
+                        "choice_41z2yO1kU",
+                        "choice_Vyt6Ju11I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What main information should you send your colleagues before a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Before a meeting, make sure your collaborators know its time and place, the main points for discussion, have the relevant information and time to read it.",
+            "tips": "Make sure the right people have been contacted and can attend the meeting!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMj1-yyU": "The main points for discussion",
+            "choice_41z2yO1kU": "Relevant information and enough time to read it",
+            "choice_Vyt6Ju11I": "Time and place of the meeting"
+        },
+        "fr": {
+            "header": "Quelles informations principales devez-vous communiquer à vos collaborateurs avant une réunion ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Avant une réunion, veillez à communiquer à vos collaborateurs l’horaire et le lieu, les points majeurs de la discussion, les informations pertinentes et veillez à leur laisser du temps pour en prendre connaissance.",
+            "tips": "Assurez-vous que les participants ont été contactés et qu’ils peuvent assister à la réunion!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMj1-yyU": "Les points majeurs de la discussion",
+            "choice_41z2yO1kU": "Les informations pertinentes et suffisamment de temps pour en prendre connaissance",
+            "choice_Vyt6Ju11I": "L’heure et le lieu de la réunion"
+        },
+        "de": {
+            "header": "Welche Hauptinformationen sollten Sie Ihren Kollegen vor einem Meeting schicken?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Stellen Sie vor einem Meeting sicher, dass Ihre Mitarbeiter über Zeit und Ort, die wichtigsten Diskussionspunkte und die relevanten Informationen Bescheid wissen und Zeit zum Lesen der Informationen haben.",
+            "tips": "Stellen Sie sicher, dass die richtigen Personen kontaktiert wurden und an dem Meeting teilnehmen können!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMj1-yyU": "Die wichtigsten Punkte für die Diskussion",
+            "choice_41z2yO1kU": "Relevante Informationen und genug Zeit, um sie zu lesen",
+            "choice_Vyt6Ju11I": "Zeit und Ort des Treffens"
+        },
+        "th": {
+            "header": "What main information should you send your colleagues before a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Before a meeting, make sure your collaborators know its time and place, the main points for discussion, have the relevant information and time to read it.",
+            "tips": "Make sure the right people have been contacted and can attend the meeting!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMj1-yyU": "The main points for discussion",
+            "choice_41z2yO1kU": "Relevant information and enough time to read it",
+            "choice_Vyt6Ju11I": "Time and place of the meeting"
+        }
+    }
+}

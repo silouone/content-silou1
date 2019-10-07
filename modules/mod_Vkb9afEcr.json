@@ -1,0 +1,67 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T10:16:48.701Z",
+            "updatedAt": "2019-03-20T16:52:30.609Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2018-12-08T11:16:16.406Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_V1AlpzVqS"
+            ],
+            "status": "draft",
+            "modifiedBy": "jmdebatte",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "mod_Vkb9afEcr",
+        "universalRef": "mod_Vkb9afEcr",
+        "level": 2,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 10,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_N1FGeWejS",
+            "skill_E1cGgbljr"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "creditsToAccess": 1,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_N1FGeWejS": "Better deal with your emotions",
+            "skill_E1cGgbljr": "Reduce stress by using lists"
+        },
+        "fr": {
+            "skill_N1FGeWejS": "Mieux gérer vos émotions",
+            "skill_E1cGgbljr": "Réduire votre stress grâce aux listes"
+        },
+        "de": {
+            "skill_N1FGeWejS": "Besser mit Ihren Emotionen umgehen",
+            "skill_E1cGgbljr": "Reduzieren Sie Stress, indem Sie Listen verwenden"
+        },
+        "th": {
+            "skill_N1FGeWejS": "Better deal with your emotions",
+            "skill_E1cGgbljr": "Reduce stress by using lists"
+        }
+    }
+}

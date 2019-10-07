@@ -1,0 +1,106 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T11:33:57.580Z",
+            "updatedAt": "2019-01-21T16:11:12.888Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJXmUr80H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4JkFWI1JU",
+        "universalRef": "sli_4JkFWI1JU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JkFWI1JU.choice_NkEh4IJJU.id",
+                        "label": "choice_NkEh4IJJU",
+                        "value": "choice_NkEh4IJJU"
+                    },
+                    {
+                        "id": "sli_4JkFWI1JU.choice_E1cTNLJkL.id",
+                        "label": "choice_E1cTNLJkL",
+                        "value": "choice_E1cTNLJkL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkEh4IJJU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a good manager, what kind of feedback should you favour?",
+            "explanation": "Select the correct answer.",
+            "klf": "Being assertive is about being honest about what you need, want, feel or believe in a way that’s respectful of the views of others.",
+            "tips": "The third principle of assertiveness is communicating as equals: listen to one another, use open, positive body language and ask relevant questions. Test your understanding of the other person’s position, suggest solutions and build on each other’s suggestions.",
+            "clue": "",
+            "context_title": "Would you like a cup of relevant honesty?",
+            "context_description": "Julia, a new copywriter in the department that you manage, asks you for feedback about her last piece of work. There are many things she got wrong, from your point of view. Now it's time to use your assertive management skills to tell her how you feel about it.",
+            "context_media_description": "",
+            "choice_NkEh4IJJU": "It was OK, Julia, but I think you could improve your professional writing skills",
+            "choice_E1cTNLJkL": "Julia, your last paper was rubbish, you're not in college any more!"
+        },
+        "fr": {
+            "header": "En qualité de bon Manager, quel type de feedback devez-vous privilégier ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Être assertif signifie être honnête sur ce dont nous avons besoin, ce que nous voulons, ressentons ou ce que nous croyons, tout en nous montrant respectueux des autres personnes.",
+            "tips": "Le troisième principe de l’assertivité est de communiquer d’égal à égal : s’écouter mutuellement, adopter un langage corporel ouvert et positif, et poser des questions pertinentes. Tester votre compréhension de la position de l’autre personne, suggérer des solutions et tirer parti des suggestions de chacun.",
+            "clue": "",
+            "context_title": "Prendrez-vous une dose d’honnêteté ?",
+            "context_description": "Julie, nouvelle rédactrice dans le département que vous gérez, demande votre feedback sur son dernier article. De votre point de vue, elle a fait de nombreuses erreurs. L’heure est maintenant venue d’adopter un management assertif pour lui faire part de votre ressenti.",
+            "context_media_description": "",
+            "choice_NkEh4IJJU": "C’était correct Julie, mais je pense que vous pourriez améliorer vos compétences en rédaction professionnelle.",
+            "choice_E1cTNLJkL": "Julie, votre dernier article ne valait rien, vous n’êtes plus à l’école !"
+        },
+        "de": {
+            "header": "Welche Art von Feedback sollten Sie als guter Manager bevorzugen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Durchsetzungsvermögen bedeutet, ehrlich zu sein, was Sie brauchen, wollen, fühlen oder glauben auf eine Art und Weise, die die Ansichten anderer respektiert.",
+            "tips": "Das dritte Prinzip der Durchsetzungsfähigkeit ist gleichberechtigte Kommunikation: Hören Sie einander zu, verwenden Sie eine offene, positive Körpersprache und stellen Sie relevante Fragen. Testen Sie Ihr Verständnis der Position von der anderen Person, schlagen Sie Lösungen vor und bauen Sie ggenseitig auf den Vorschlägen der anderen Person auf.",
+            "clue": "",
+            "context_title": "Möchten Sie eine Tasse relevanter Ehrlichkeit?",
+            "context_description": "Julia, eine neue Texterin in der von Ihnen verwalteten Abteilung, bittet Sie um Rückmeldung zu ihrer letzten Arbeit. Es gibt viele Dinge, die sie falsch verstanden hat. Jetzt ist es an der Zeit, Ihre durchsetzungsfähigen Managementfähigkeiten einzusetzen, um ihr mitzuteilen, wie Sie sich dazu fühlen.",
+            "context_media_description": "",
+            "choice_NkEh4IJJU": "Es war in Ordnung, Julia, aber ich denke, Sie könnten Ihre Schreibfähigkeiten verbessern",
+            "choice_E1cTNLJkL": "Julia, dein letzter Zettel war Müll, du bist nicht mehr im College!"
+        },
+        "th": {
+            "header": "หากคุณเป็นผู้จัดการที่ดี คุณจะให้คำติชมประเภทใด",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "การกล้าแสดงออกคือการซื่อสัตย์ต่อสิ่งที่คุณจำเป็นต้องใช้ ต้องการ รู้สึก หรือเชื่อมั่นในทางที่เป็นการแสดงความเคารพต่อความเห็นของผู้อื่น",
+            "tips": "หลักการประการที่สามของการกล้าแสดงออกคือการพูดคุยกันอย่างผู้ที่เท่าเทียม กล่าวคือ การรับฟังอีกฝ่าย ใช้ภาษากายเชิงบวกและตรงไปตรงมา และถามคำถามที่ตรงประเด็น ทดสอบความเข้าใจเกี่ยวกับสถานะของผู้อื่น เสนอวิธีการแก้ปัญหา และต่อยอดคำแนะนำของแต่ละคน",
+            "clue": "",
+            "context_title": "สนใจรับความจริงใจที่ตรงประเด็นสักหน่อยไหม",
+            "context_description": "จูเลีย คนเขียนต้นฉบับคนใหม่ในแผนกที่คุณดูแลอยู่ขอให้คุณติชมงานชิ้นล่าสุดของเธอ คุณเห็นว่ามีเรื่องที่เธอเข้าใจผิดหลายอย่าง ตอนนี้ถึงเวลาที่จะใช้ทักษะการจัดการแบบกล้าแสดงออกของคุณในการบอกเธอว่าคุณรู้สึกอย่างไร",
+            "context_media_description": "",
+            "choice_NkEh4IJJU": "งานคุณพอใช้ได้ จูเลีย แต่ผมคิดว่าคุณน่าจะพัฒนาทักษะการเขียนอย่างมืออาชีพของคุณนะ",
+            "choice_E1cTNLJkL": "จูเลีย งานเขียนชิ้นล่าสุดของคุณแย่มากเลย คุณไม่ได้เรียนอยู่ในวิทยาลัยแล้วนะ"
+        }
+    }
+}

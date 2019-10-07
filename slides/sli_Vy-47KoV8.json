@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-12T09:42:39.727Z",
+            "updatedAt": "2019-02-15T15:28:28.013Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1M0hvcNU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Vy-47KoV8",
+        "universalRef": "sli_Vy-47KoV8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vy-47KoV8.choice_EkYrmtiVL.id",
+                        "label": "choice_EkYrmtiVL",
+                        "value": "choice_EkYrmtiVL"
+                    },
+                    {
+                        "id": "sli_Vy-47KoV8.choice_V19S7FsV8.id",
+                        "label": "choice_V19S7FsV8",
+                        "value": "choice_V19S7FsV8"
+                    },
+                    {
+                        "id": "sli_Vy-47KoV8.choice_NyeqrmtjV8.id",
+                        "label": "choice_NyeqrmtjV8",
+                        "value": "choice_NyeqrmtjV8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkYrmtiVL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Whose tasks should you concentrate on first?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When you're really busy, it may be more complicated to turn off your manager's demands, and yet it's important that you complete your own tasks first. Explain calmly and assertively why you can't accede to their demand for the moment and when you will be able to help on that matter.",
+            "tips": "The 2-20-2-2 method offers to help dealing with your manager's demands on the basis of the time it will take you. If the tasks takes less than 2 minutes, you can concede to do it now. For a 20-minute task, I can offer to help once I am done with my current task. For a task that would last 2 hours, you can negotiate the deadline or the format. For a task that would last about 2 days, re-prioritise your tasks with your manager.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkYrmtiVL": "Your own tasks",
+            "choice_V19S7FsV8": "Your manager's demands",
+            "choice_NyeqrmtjV8": "Your colleagues' demands"
+        },
+        "fr": {
+            "header": "Sur quelles tâches devriez-vous tout d'abord vous concentrer ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Lorsque vous êtes très occupé, il peut être d'autant plus compliqué de refuser les demandes de votre responsable, mais il est important que vous accomplissiez d'abord vos propres tâches. Expliquez calmement mais fermement pourquoi vous ne pouvez pas répondre à sa demande pour le moment et quand vous serez en mesure d'aider sur cette question.",
+            "tips": "La méthode 2-20-2-2 vous aide à gérer les demandes de votre responsable en fonction du temps qu'elles vous prendront. Si la tâche prend moins de 2 minutes, vous pouvez vous permettre de le faire maintenant. Pour une tâche de 20 minutes, vous pouvez proposer votre aide une fois votre tâche actuelle terminée. Pour une tâche qui prendrait 2 heures, vous pouvez négocier le délai ou le format. Pour une tâche qui prendrait environ 2 jours, re-hiérarchisez vos tâches avec votre responsable.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkYrmtiVL": "Vos propres tâches",
+            "choice_V19S7FsV8": "Les demandes de votre manager",
+            "choice_NyeqrmtjV8": "Les demandes de vos collègues"
+        },
+        "de": {
+            "header": "Auf welche Aufgaben sollten Sie sich zuerst konzentrieren?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Wenn Sie sehr beschäftigt sind, ist es möglicherweise komplizierter, die Anforderungen Ihres Vorgesetzten zu ignorieren. Dennoch müssen Sie zuerst Ihre eigenen Aufgaben erledigen. Erklären Sie ruhig und entschieden, warum Sie ihrer Forderung momentan nicht nachkommen können und wann Sie in dieser Angelegenheit helfen können.",
+            "tips": "Die 2-20-2-2-Methode bietet Unterstützung bei der Bearbeitung der Anforderungen Ihres Vorgesetzten anhand der Zeit, die Sie dafür benötigen. Wenn die Aufgaben weniger als 2 Minuten dauern, können Sie dies jetzt tun. Für eine 20-minütige Aufgabe kann ich Hilfe anbieten, sobald ich mit meiner aktuellen Aufgabe fertig bin. Für eine Aufgabe mit einer Dauer von 2 Stunden können Sie die Frist oder das Format aushandeln. Für eine Aufgabe, die etwa zwei Tage dauern würde, priorisieren Sie Ihre Aufgaben erneut mit Ihrem Vorgesetzten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkYrmtiVL": "Ihre eigenen Aufgaben",
+            "choice_V19S7FsV8": "Die Anforderungen Ihres Managers",
+            "choice_NyeqrmtjV8": "Die Forderungen Ihrer Kollegen"
+        },
+        "th": {
+            "header": "Whose tasks should you concentrate on first?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When you're really busy, it may be more complicated to turn off your manager's demands, and yet it's important that you complete your own tasks first. Explain calmly and assertively why you can't accede to their demand for the moment and when you will be able to help on that matter.",
+            "tips": "The 2-20-2-2 method offers to help dealing with your manager's demands on the basis of the time it will take you. If the tasks takes less than 2 minutes, you can concede to do it now. For a 20-minute task, I can offer to help once I am done with my current task. For a task that would last 2 hours, you can negotiate the deadline or the format. For a task that would last about 2 days, re-prioritise your tasks with your manager.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkYrmtiVL": "Your own tasks",
+            "choice_V19S7FsV8": "Your manager's demands",
+            "choice_NyeqrmtjV8": "Your colleagues' demands"
+        }
+    }
+}

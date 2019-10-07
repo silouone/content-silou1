@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T15:01:40.312Z",
+            "updatedAt": "2019-02-11T13:42:29.571Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJDtNJV4L"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_Ek0iryVE8",
+        "universalRef": "sli_Ek0iryVE8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel72665",
+                        "items": [
+                            {
+                                "text": "choice_Nye-CS14VL",
+                                "value": "choice_Nye-CS14VL"
+                            },
+                            {
+                                "text": "choice_4k~OCS1E4U",
+                                "value": "choice_4k~OCS1E4U"
+                            },
+                            {
+                                "text": "choice_VJ9CSyEVL",
+                                "value": "choice_VJ9CSyEVL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel72665",
+                        "answers": [
+                            "choice_4k~OCS1E4U"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Once a decision is made it should be confirmed...?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Any decisions that affect your team should always be confirmed in writing.",
+            "tips": "When communicating with your team, be it in person, on the phone, or in writing, always strive for accuracy, clarity, and thoroughness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel72665}}",
+            "choice_Nye-CS14VL": "Before the end of the project",
+            "choice_4k~OCS1E4U": "In writing",
+            "choice_VJ9CSyEVL": "To the managing director"
+        },
+        "fr": {
+            "header": "Une fois la décision prise, elle doit être confirmée...",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Toute décision qui affecte votre équipe doit toujours être confirmée par écrit.",
+            "tips": "Lorsque vous communiquez avec votre équipe, que ce soit en personne, au téléphone ou par écrit, veillez toujours à être précis, clair et minutieux.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel72665}}",
+            "choice_Nye-CS14VL": "avant la fin du projet",
+            "choice_4k~OCS1E4U": "par écrit",
+            "choice_VJ9CSyEVL": "au directeur général"
+        },
+        "de": {
+            "header": "Sobald eine Entscheidung getroffen wurde, sollte sie bestätigt werden ...?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Entscheidungen, die Ihr Team betreffen, sollten immer schriftlich bestätigt werden.",
+            "tips": "Achten Sie bei der Kommunikation mit Ihrem Team, sei es persönlich, telefonisch oder schriftlich, stets auf Genauigkeit, Klarheit und Gründlichkeit.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel72665}}",
+            "choice_Nye-CS14VL": "Vor dem Ende des Projekts",
+            "choice_4k~OCS1E4U": "Schriftlich",
+            "choice_VJ9CSyEVL": "An den Geschäftsführer"
+        },
+        "th": {
+            "header": "Once a decision is made it should be confirmed...?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Any decisions that affect your team should always be confirmed in writing.",
+            "tips": "When communicating with your team, be it in person, on the phone, or in writing, always strive for accuracy, clarity, and thoroughness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel72665}}",
+            "choice_Nye-CS14VL": "Before the end of the project",
+            "choice_4k~OCS1E4U": "In writing",
+            "choice_VJ9CSyEVL": "To the managing director"
+        }
+    }
+}

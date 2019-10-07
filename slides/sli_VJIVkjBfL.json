@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T15:58:44.303Z",
+            "updatedAt": "2019-02-21T17:11:15.834Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41J72iabL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_VJIVkjBfL",
+        "universalRef": "sli_VJIVkjBfL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJIVkjBfL.choice_VJRUyjrM8.id",
+                        "label": "choice_VJRUyjrM8",
+                        "value": "choice_VJRUyjrM8"
+                    },
+                    {
+                        "id": "sli_VJIVkjBfL.choice_NylD1irGU.id",
+                        "label": "choice_NylD1irGU",
+                        "value": "choice_NylD1irGU"
+                    },
+                    {
+                        "id": "sli_VJIVkjBfL.choice_NJ~vJjSz8.id",
+                        "label": "choice_NJ~vJjSz8",
+                        "value": "choice_NJ~vJjSz8"
+                    },
+                    {
+                        "id": "sli_VJIVkjBfL.choice_V1fvJjHfI.id",
+                        "label": "choice_V1fvJjHfI",
+                        "value": "choice_V1fvJjHfI"
+                    },
+                    {
+                        "id": "sli_VJIVkjBfL.choice_4JZjzvWXL.id",
+                        "label": "choice_4JZjzvWXL",
+                        "value": "choice_4JZjzvWXL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ~vJjSz8",
+                        "choice_V1fvJjHfI"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_VkASmTGXU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you be concerned about?",
+            "explanation": "Select the correct answers.",
+            "klf": "When in a crisis, it's important to communicate fully, know who you need to contact, and keep your team, suppliers and customers informed if they risk being affected.",
+            "tips": "The Ten Plagues of Egypt can have a very scientific explanation, as explained <a href=\"https://www.telegraph.co.uk/news/science/science-news/7530678/Biblical-plagues-really-happened-say-scientists.html\" target=\"_blank\">in this article from the Telegraph</a>.",
+            "clue": "",
+            "context_title": "The Plagues of Egypt",
+            "context_description": "You are having a good day at work, business as usual. Suddenly, one of your employees barges into your office, shouting about the coming of the Ten Plagues. Before he slams the door behind him, you can see and hear what appears to be a large swarm of flies…",
+            "context_media_description": "",
+            "choice_VJRUyjrM8": "Keeping the issue secret",
+            "choice_NylD1irGU": "How to shift the blame if this turns out to be serious",
+            "choice_NJ~vJjSz8": "Communicating with your head office",
+            "choice_V1fvJjHfI": "Communicating with your customers",
+            "choice_4JZjzvWXL": "Imploring the gods' mercy",
+            "choice_NJENvA9z8": "Calling pest control."
+        },
+        "fr": {
+            "header": "De quoi devez-vous vous soucier ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Lorsqu'une crise éclate, il est important de communiquer en toute transparence, de savoir qui vous devez contacter, et d'informer votre équipe, vos fournisseurs et vos clients s'ils risquent d'être impactés.",
+            "tips": "Les Dix plaies d'Égypte peuvent avoir une explication très scientifique, comme le montre <a href=\"https://www.telegraph.co.uk/news/science/science-news/7530678/Biblical-plagues-really-happened-say-scientists.html\" target=\"_blank\">in this article from the Telegraph</a>.",
+            "clue": "",
+            "context_title": "Les dix plaies d'Égypte s'abattent sur nous",
+            "context_description": "Vous avez passé une journée agréable au bureau avec une charge de travail habituelle. Lorsque soudain, l'un de vos employés fait irruption dans votre bureau en criant et en annonçant l'arrivée d'un fléau semblable aux Dix plaies d'Égypte. Avant qu'il s'en aille en claquant la porte derrière lui, vous avez le temps d'imaginer le lot de problèmes qui va s'abattre sur vous...",
+            "context_media_description": "",
+            "choice_VJRUyjrM8": "Garder le problème secret",
+            "choice_NylD1irGU": "Comment faire porter la responsabilité à quelqu'un d'autre si cela devient trop grave",
+            "choice_NJ~vJjSz8": "Communiquer avec votre siège social",
+            "choice_V1fvJjHfI": "Communiquer avec vos clients",
+            "choice_4JZjzvWXL": "Implorer la miséricorde de Dieu",
+            "choice_NJENvA9z8": ""
+        },
+        "de": {
+            "header": "Worüber sollten Sie besorgt sein?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "In einer Krise ist es wichtig, umfassend zu kommunizieren, zu wissen, wen Sie kontaktieren müssen, und Ihr Team, Ihre Lieferanten und Kunden auf dem Laufenden zu halten, wenn sie davon betroffen sind.",
+            "tips": "Die zehn Seuchen in Ägypten können eine sehr wissenschaftliche Erklärung haben, wie <a href=\"https://www.telegraph.co.uk/news/science/science-news/7530678/Biblical-plagues-really-happened-say-scientists.html\" target=\"_blank\">in diesem Artikel des Telegraphen</a> erläutert.",
+            "clue": "",
+            "context_title": "Die Seuchen in Ägypten",
+            "context_description": "Sie haben einen gewöhnlichen Tag auf der Arbeit. Plötzlich taucht einer Ihrer Angestellten in Ihrem Büro auf und ruft über das Kommen der Zehn Seuchen. Bevor er die Tür hinter sich zuknallt, kann man einen großen Fliegenschwarm sehen und hören…",
+            "context_media_description": "",
+            "choice_VJRUyjrM8": "Das Problem geheim halten",
+            "choice_NylD1irGU": "Wie kann man die Schuld verschieben, wenn sich dies als ernst herausstellt?",
+            "choice_NJ~vJjSz8": "Kommunizieren Sie mit Ihrer Zentrale",
+            "choice_V1fvJjHfI": "Kommunikation mit Ihren Kunden",
+            "choice_4JZjzvWXL": "Die Gnade der Götter beschwören",
+            "choice_NJENvA9z8": ""
+        },
+        "th": {
+            "header": "What should you be concerned about?",
+            "explanation": "Select the correct answers.",
+            "klf": "When in a crisis, it's important to communicate fully, know who you need to contact, and keep your team, suppliers and customers informed if they risk being affected.",
+            "tips": "The Ten Plagues of Egypt can have a very scientific explanation, as explained <a href=\"https://www.telegraph.co.uk/news/science/science-news/7530678/Biblical-plagues-really-happened-say-scientists.html\" target=\"_blank\">in this article from the Telegraph</a>.",
+            "clue": "",
+            "context_title": "The Plagues of Egypt",
+            "context_description": "You are having a good day at work, business as usual. Suddenly, one of your employees barges into your office, shouting about the coming of the Ten Plagues. Before he slams the door behind him, you can see and hear what appears to be a large swarm of flies…",
+            "context_media_description": "",
+            "choice_VJRUyjrM8": "Keeping the issue secret",
+            "choice_NylD1irGU": "How to shift the blame if this turns out to be serious",
+            "choice_NJ~vJjSz8": "Communicating with your head office",
+            "choice_V1fvJjHfI": "Communicating with your customers",
+            "choice_4JZjzvWXL": "Imploring the gods' mercy",
+            "choice_NJENvA9z8": "Calling pest control."
+        }
+    }
+}

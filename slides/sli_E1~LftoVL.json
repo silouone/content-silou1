@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-12T09:38:22.125Z",
+            "updatedAt": "2019-02-15T15:28:00.074Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1M0hvcNU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_E1~LftoVL",
+        "universalRef": "sli_E1~LftoVL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1~LftoVL.choice_Nkeu9GFiNI.id",
+                        "label": "choice_Nkeu9GFiNI",
+                        "value": "choice_Nkeu9GFiNI",
+                        "media": "med_4yO5fYo4U"
+                    },
+                    {
+                        "id": "sli_E1~LftoVL.choice_EJlEjGtoE8.id",
+                        "label": "choice_EJlEjGtoE8",
+                        "value": "choice_EJlEjGtoE8",
+                        "media": "med_EkEiftiE8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJlEjGtoE8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Multi-tasking is a key professional asset to have. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Multi-tasking means your attention is divided. Repeatedly switching between different tasks breaks your concentration and makes it difficult to pick up from where you left off. It can also result in errors and poorly thought out decisions. You'll get a lot more done if you focus completely on one task at a time.",
+            "tips": "On average, workers lose 2.2 hours of productivity each day to distractions and recovery time.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkeu9GFiNI": "TRUE",
+            "choice_EJlEjGtoE8": "FALSE"
+        },
+        "fr": {
+            "header": "Le fonctionnement multi-tâches est un atout professionnel essentiel. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un fonctionnement multi-tâches signifie que votre attention est divisée. Le fait de basculer de façon répétée entre différentes tâches brise votre concentration et rend difficile la reprise du travail là où vous l'avez laissé. Cela peut également entraîner des erreurs et des décisions mal pensées. Vous avancerez beaucoup plus vite en vous concentrant pleinement sur une tâche à la fois.",
+            "tips": "En moyenne, les travailleurs perdent 2,2 heures de productivité chaque jour du fait des distractions et du temps de reconcentration.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkeu9GFiNI": "Vrai",
+            "choice_EJlEjGtoE8": "Faux"
+        },
+        "de": {
+            "header": "Multitasking ist ein wichtiges professionelles Tool. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Multitasking bedeutet, dass Ihre Aufmerksamkeit geteilt ist. Durch wiederholtes Wechseln zwischen verschiedenen Aufgaben wird die Konzentration unterbrochen und es ist schwierig, an der Stelle fortzufahren, an der Sie aufgehört haben. Dies kann auch zu Fehlern und schlecht durchdachten Entscheidungen führen. Wenn Sie sich vollständig auf eine Aufgabe konzentrieren, können Sie mehr erreichen.",
+            "tips": "Im Durchschnitt verlieren die Arbeiter täglich 2,2 Stunden an Produktivität durch Ablenkungen und Erholungszeiten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkeu9GFiNI": "Wahr",
+            "choice_EJlEjGtoE8": "Falsch"
+        },
+        "th": {
+            "header": "Multi-tasking is a key professional asset to have. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Multi-tasking means your attention is divided. Repeatedly switching between different tasks breaks your concentration and makes it difficult to pick up from where you left off. It can also result in errors and poorly thought out decisions. You'll get a lot more done if you focus completely on one task at a time.",
+            "tips": "On average, workers lose 2.2 hours of productivity each day to distractions and recovery time.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkeu9GFiNI": "TRUE",
+            "choice_EJlEjGtoE8": "FALSE"
+        }
+    }
+}

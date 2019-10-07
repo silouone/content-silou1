@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:17:41.252Z",
+            "updatedAt": "2019-06-21T14:17:41.252Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJC9VCSkv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJ~gLCSyD",
+        "universalRef": "sli_NJ~gLCSyD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ~gLCSyD.choice_EyubUCSyD.id",
+                        "label": "choice_EyubUCSyD",
+                        "value": "choice_EyubUCSyD"
+                    },
+                    {
+                        "id": "sli_NJ~gLCSyD.choice_4JtWICHJw.id",
+                        "label": "choice_4JtWICHJw",
+                        "value": "choice_4JtWICHJw"
+                    },
+                    {
+                        "id": "sli_NJ~gLCSyD.choice_Eycz8RH1w.id",
+                        "label": "choice_Eycz8RH1w",
+                        "value": "choice_Eycz8RH1w"
+                    },
+                    {
+                        "id": "sli_NJ~gLCSyD.choice_VkCM80r1D.id",
+                        "label": "choice_VkCM80r1D",
+                        "value": "choice_VkCM80r1D"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Eycz8RH1w",
+                        "choice_VkCM80r1D"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What things make a customer feel good about a service interaction?",
+            "explanation": "Select the correct answers.",
+            "klf": "Customers feel good about the interaction if they believe they are speaking to an expert and get everything they need.",
+            "tips": "A customer satisfaction survey is a simple way to assess whether the service you are providing pleases your customers. Scale questions will allow them to rate specific points, and open-text questions will be useful to get more detailed opinions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyubUCSyD": "Getting exactly what they asked for and nothing else",
+            "choice_4JtWICHJw": "Spending as little as possible",
+            "choice_Eycz8RH1w": "Feeling as though they are speaking to an expert",
+            "choice_VkCM80r1D": "Getting everything they need, even if it means spending a little more"
+        },
+        "fr": {
+            "header": "Qu'est-ce qui fait qu'une interaction de service est une expérience agréable pour le client ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les clients apprécient l’interaction s’ils pensent parler à un expert et obtenir tout ce dont ils ont besoin.",
+            "tips": "Une enquête de satisfaction client est un moyen simple d’évaluer si le service que vous offrez plaît à vos clients. Les questions avec échelle d'évaluation leur permettront de noter des points spécifiques et les questions à texte ouvert seront utiles pour obtenir des opinions plus détaillées.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyubUCSyD": "Obtenir exactement ce qu'ils ont demandé et rien d'autre",
+            "choice_4JtWICHJw": "Dépenser le moins possible",
+            "choice_Eycz8RH1w": "Avoir l'impression de parler à un expert",
+            "choice_VkCM80r1D": "Obtenir tout ce dont ils ont besoin, même si cela signifie dépenser un peu plus"
+        },
+        "de": {
+            "header": "What things make a customer feel good about a service interaction?",
+            "explanation": "Select the correct answers.",
+            "klf": "Customers feel good about the interaction if they believe they are speaking to an expert and get everything they need.",
+            "tips": "A customer satisfaction survey is a simple way to assess whether the service you are providing pleases your customers. Scale questions will allow them to rate specific points, and open-text questions will be useful to get more detailed opinions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyubUCSyD": "Getting exactly what they asked for and nothing else",
+            "choice_4JtWICHJw": "Spending as little as possible",
+            "choice_Eycz8RH1w": "Feeling as though they are speaking to an expert",
+            "choice_VkCM80r1D": "Getting everything they need, even if it means spending a little more"
+        },
+        "th": {
+            "header": "What things make a customer feel good about a service interaction?",
+            "explanation": "Select the correct answers.",
+            "klf": "Customers feel good about the interaction if they believe they are speaking to an expert and get everything they need.",
+            "tips": "A customer satisfaction survey is a simple way to assess whether the service you are providing pleases your customers. Scale questions will allow them to rate specific points, and open-text questions will be useful to get more detailed opinions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyubUCSyD": "Getting exactly what they asked for and nothing else",
+            "choice_4JtWICHJw": "Spending as little as possible",
+            "choice_Eycz8RH1w": "Feeling as though they are speaking to an expert",
+            "choice_VkCM80r1D": "Getting everything they need, even if it means spending a little more"
+        }
+    }
+}

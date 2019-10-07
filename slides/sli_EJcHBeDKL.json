@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T15:07:58.748Z",
+            "updatedAt": "2019-04-15T08:31:45.973Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJyQVlPYL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EJcHBeDKL",
+        "universalRef": "sli_EJcHBeDKL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJcHBeDKL.choice_Vygr0HxPFL.id",
+                        "label": "choice_Vygr0HxPFL",
+                        "value": "choice_Vygr0HxPFL",
+                        "media": "med_NJBABxvYI"
+                    },
+                    {
+                        "id": "sli_EJcHBeDKL.choice_4yev0HevKU.id",
+                        "label": "choice_4yev0HevKU",
+                        "value": "choice_4yev0HevKU",
+                        "media": "med_NkwArxwtU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yev0HevKU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4kjwBxwKL",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Improvisation accounts for most of the success of a presentation. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Preparation is THE single most important part of a successful presentation.",
+            "tips": "Preparing doesn’t mean over-rehearsing. According to the <i>Harvard Business Review</i>, you should practise your presentation three times: once you finish preparing it, another time the day before, and finally a few hours ahead of your presentation.",
+            "clue": "",
+            "context_title": "Time to shine!",
+            "context_description": "It’s your turn to present the annual report in front of the entire Board. You have little time to prepare but you feel up to the task, considering your speaking skills are high above average. And your natural talent for acting should be enough to keep everyone’s attention focused.",
+            "context_media_description": "",
+            "choice_Vygr0HxPFL": "TRUE",
+            "choice_4yev0HevKU": "FALSE"
+        },
+        "fr": {
+            "header": "L'improvisation est à l'origine de l'essentiel du succès d'une présentation. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La préparation est LA partie la plus importante d’une présentation réussie.",
+            "tips": "Préparer ne signifie pas répéter à outrance. Selon le <i>Harvard Business Review</i>, vous devez vous exercer à trois reprises : une fois la préparation terminée, une autre fois la veille et enfin quelques heures avant votre exposé.",
+            "clue": "",
+            "context_title": "C'est votre moment de gloire !",
+            "context_description": "C’est à vous de présenter le rapport annuel devant l’ensemble du Conseil. Vous avez peu de temps pour vous préparer mais vous vous sentez à la hauteur de la tâche, sachant que vos compétences orales sont très au-dessus de la moyenne. Et votre talent naturel d'acteur devrait suffire à attirer l’attention de chacun.",
+            "context_media_description": "",
+            "choice_Vygr0HxPFL": "VRAI",
+            "choice_4yev0HevKU": "FAUX"
+        },
+        "de": {
+            "header": "Improvisation accounts for most of the success of a presentation. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Preparation is THE single most important part of a successful presentation.",
+            "tips": "Preparing doesn’t mean over-rehearsing. According to the <i>Harvard Business Review</i>, you should practise your presentation three times: once you finish preparing it, another time the day before, and finally a few hours ahead of your presentation.",
+            "clue": "",
+            "context_title": "Time to shine!",
+            "context_description": "It’s your turn to present the annual report in front of the entire Board. You have little time to prepare but you feel up to the task, considering your speaking skills are high above average. And your natural talent for acting should be enough to keep everyone’s attention focused.",
+            "context_media_description": "",
+            "choice_Vygr0HxPFL": "True",
+            "choice_4yev0HevKU": "False"
+        },
+        "th": {
+            "header": "Improvisation accounts for most of the success of a presentation. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Preparation is THE single most important part of a successful presentation.",
+            "tips": "Preparing doesn’t mean over-rehearsing. According to the <i>Harvard Business Review</i>, you should practise your presentation three times: once you finish preparing it, another time the day before, and finally a few hours ahead of your presentation.",
+            "clue": "",
+            "context_title": "Time to shine!",
+            "context_description": "It’s your turn to present the annual report in front of the entire Board. You have little time to prepare but you feel up to the task, considering your speaking skills are high above average. And your natural talent for acting should be enough to keep everyone’s attention focused.",
+            "context_media_description": "",
+            "choice_Vygr0HxPFL": "TRUE",
+            "choice_4yev0HevKU": "FALSE"
+        }
+    }
+}

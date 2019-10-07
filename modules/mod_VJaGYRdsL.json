@@ -1,0 +1,65 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-06T08:03:20.179Z",
+            "updatedAt": "2019-06-21T14:16:17.722Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-07-06T08:02:04.760Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_4JnZK0OsL"
+            ],
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "ThereseG"
+        },
+        "ref": "mod_VJaGYRdsL",
+        "universalRef": "mod_VJaGYRdsL",
+        "level": 1,
+        "position": 0,
+        "timeAlloted": 10,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_E1wibR42L",
+            "skill_4JOsb0E2U"
+        ],
+        "ineligibleBattle": false,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        },
+        "version": "2",
+        "creditsToAccess": 1
+    },
+    "locales": {
+        "en": {
+            "skill_E1wibR42L": "Leverage the help you give",
+            "skill_4JOsb0E2U": "Ask for help in the most efficient way"
+        },
+        "fr": {
+            "skill_E1wibR42L": "Tirer parti de l'aide que vous donnez",
+            "skill_4JOsb0E2U": "Demander de l'aide de la manière la plus efficace"
+        },
+        "de": {
+            "skill_E1wibR42L": "Leverage the help you give",
+            "skill_4JOsb0E2U": "Ask for help in the most efficient way"
+        },
+        "th": {
+            "skill_E1wibR42L": "Leverage the help you give",
+            "skill_4JOsb0E2U": "Ask for help in the most efficient way"
+        }
+    }
+}

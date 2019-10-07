@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-28T12:51:09.889Z",
+            "updatedAt": "2019-06-28T13:41:59.887Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOD-xoRI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_N1Sg3lygD",
+        "universalRef": "sli_N1Sg3lygD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1Sg3lygD.choice_EJZQheklD.id",
+                        "label": "choice_EJZQheklD",
+                        "value": "choice_EJZQheklD"
+                    },
+                    {
+                        "id": "sli_N1Sg3lygD.choice_E1hQnl1eD.id",
+                        "label": "choice_E1hQnl1eD",
+                        "value": "choice_E1hQnl1eD"
+                    },
+                    {
+                        "id": "sli_N1Sg3lygD.choice_V16N2e1gw.id",
+                        "label": "choice_V16N2e1gw",
+                        "value": "choice_V16N2e1gw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1hQnl1eD",
+                        "choice_EJZQheklD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to give your team context to their roles?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Informed employees do their jobs better. Show them the context of their job and how it fits into the bigger picture.",
+            "tips": "In their book 'Rethinking context: an introduction', A. Duranti and C. Goodwin define context as : 'a frame that surrounds the event and provides resources for its appropriate interpretation'.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJZQheklD": "Tell them why it's important",
+            "choice_E1hQnl1eD": "Tell them how it fits into the bigger picture",
+            "choice_V16N2e1gw": "Tell them what to do"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure façon de contextualiser les rôles de chacun au sein de l'équipe ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Des employés informés font mieux leur travail. Contextualisez leur travail et montrez-leur la façon dont ce dernier s’intègre dans cette vision d'ensemble.",
+            "tips": "Dans leur livre « Rethinking context: an Introduction », A. Duranti et C. Goodwin définissent le contexte comme étant : « un cadre qui entoure l'événement et fournit des ressources afin de bien l'interpréter ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJZQheklD": "Dites-leur pourquoi leur rôle est important",
+            "choice_E1hQnl1eD": "Dites-leur comment il s'inscrit dans la vision d'ensemble",
+            "choice_V16N2e1gw": "Dites-leur ce qu'ils doivent faire"
+        },
+        "de": {
+            "header": "What’s the best way to give your team context to their roles?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Informed employees do their jobs better. Show them the context of their job and how it fits into the bigger picture.",
+            "tips": "In their book 'Rethinking context: an introduction', A. Duranti and C. Goodwin define context as : 'a frame that surrounds the event and provides resources for its appropriate interpretation'.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJZQheklD": "Tell them why it's important",
+            "choice_E1hQnl1eD": "Tell them how it fits into the bigger picture",
+            "choice_V16N2e1gw": "Tell them what to do"
+        },
+        "th": {
+            "header": "What’s the best way to give your team context to their roles?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Informed employees do their jobs better. Show them the context of their job and how it fits into the bigger picture.",
+            "tips": "In their book 'Rethinking context: an introduction', A. Duranti and C. Goodwin define context as : 'a frame that surrounds the event and provides resources for its appropriate interpretation'.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJZQheklD": "Tell them why it's important",
+            "choice_E1hQnl1eD": "Tell them how it fits into the bigger picture",
+            "choice_V16N2e1gw": "Tell them what to do"
+        }
+    }
+}

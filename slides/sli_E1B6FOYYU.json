@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T13:01:02.743Z",
+            "updatedAt": "2019-04-12T13:01:02.743Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkmNpQ4YL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_E1B6FOYYU",
+        "universalRef": "sli_E1B6FOYYU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1B6FOYYU.choice_VJxSG9utt8.id",
+                        "label": "choice_VJxSG9utt8",
+                        "value": "choice_VJxSG9utt8",
+                        "media": "med_41rz5OKY8"
+                    },
+                    {
+                        "id": "sli_E1B6FOYYU.choice_NJxJ4qutKU.id",
+                        "label": "choice_NJxJ4qutKU",
+                        "value": "choice_NJxJ4qutKU",
+                        "media": "med_EkyEc-YYU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJxSG9utt8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Anxious thoughts often slow the work down. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Anxious thoughts more often get in the way of work than making it happen faster.",
+            "tips": "Do not think too much about anxiety! As the more you fear it, the more powerful it becomes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxSG9utt8": "TRUE",
+            "choice_NJxJ4qutKU": "FALSE"
+        },
+        "fr": {
+            "header": "Les pensées anxieuses ralentissent souvent le travail. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les pensées anxieuses entravent le travail plus souvent qu'elles ne l'accélèrent.",
+            "tips": "Ne pensez pas trop à l'anxiété ! Plus vous en avez peur, plus elle sera puissante.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxSG9utt8": "Vrai",
+            "choice_NJxJ4qutKU": "Faux"
+        },
+        "de": {
+            "header": "Anxious thoughts often slow the work down. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Anxious thoughts more often get in the way of work than making it happen faster.",
+            "tips": "Do not think too much about anxiety! As the more you fear it, the more powerful it becomes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxSG9utt8": "True",
+            "choice_NJxJ4qutKU": "False"
+        },
+        "th": {
+            "header": "Anxious thoughts often slow the work down. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Anxious thoughts more often get in the way of work than making it happen faster.",
+            "tips": "Do not think too much about anxiety! As the more you fear it, the more powerful it becomes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxSG9utt8": "TRUE",
+            "choice_NJxJ4qutKU": "FALSE"
+        }
+    }
+}

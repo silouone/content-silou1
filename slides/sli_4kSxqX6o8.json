@@ -1,0 +1,170 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-09T15:16:35.486Z",
+            "updatedAt": "2019-05-09T15:16:35.486Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1Z7oOciI"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4kSxqX6o8",
+        "universalRef": "sli_4kSxqX6o8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel30810",
+                        "items": [
+                            {
+                                "text": "choice_4yl3d3XaiL",
+                                "value": "choice_4yl3d3XaiL"
+                            },
+                            {
+                                "text": "choice_V1~2u3QpjU",
+                                "value": "choice_V1~2u3QpjU"
+                            },
+                            {
+                                "text": "choice_V1yv6maiL",
+                                "value": "choice_V1yv6maiL"
+                            },
+                            {
+                                "text": "choice_V1bYT7TiU",
+                                "value": "choice_V1bYT7TiU"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel92953",
+                        "items": [
+                            {
+                                "text": "choice_4kx0u07psL",
+                                "value": "choice_4kx0u07psL"
+                            },
+                            {
+                                "text": "choice_VkZCO0mpjL",
+                                "value": "choice_VkZCO0mpjL"
+                            },
+                            {
+                                "text": "choice_Ny7cAmpoU",
+                                "value": "choice_Ny7cAmpoU"
+                            },
+                            {
+                                "text": "choice_NJUcC76sI",
+                                "value": "choice_NJUcC76sI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel30810",
+                        "answers": [
+                            "choice_4yl3d3XaiL"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel92953",
+                        "answers": [
+                            "choice_Ny7cAmpoU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Through which words can you let the other party know that you want something in return?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To express that you want something in return, ‘if’ and ‘then’ are the magic words. This indicates that you are prepared to move, but without giving anything away.",
+            "tips": "Being able to say ‘no’ might as well change your life.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel92953}} you go shopping, {{sel30810}} I'll clean the house.",
+            "choice_4yl3d3XaiL": "then",
+            "choice_V1~2u3QpjU": "if",
+            "choice_V1yv6maiL": "never",
+            "choice_V1bYT7TiU": "whenever",
+            "choice_4kx0u07psL": "Wherever",
+            "choice_VkZCO0mpjL": "Yes",
+            "choice_Ny7cAmpoU": "If",
+            "choice_NJUcC76sI": "Don't"
+        },
+        "fr": {
+            "header": "Par quels mots pouvez-vous faire savoir à l'autre partie que vous voulez quelque chose en retour ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Pour exprimer que vous voulez quelque chose en retour, « si » et « alors » sont les mots magiques. Cela indique que vous êtes prêt à avancer mais sans abandonner quoi que ce soit.",
+            "tips": "Savoir dire « non » pourrait tout aussi bien changer votre vie.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel92953}} vous faites les courses, {{sel30810}} je ferai le ménage",
+            "choice_4yl3d3XaiL": "alors",
+            "choice_V1~2u3QpjU": "si",
+            "choice_V1yv6maiL": "jamais",
+            "choice_V1bYT7TiU": "quand",
+            "choice_4kx0u07psL": "Peu importe où",
+            "choice_VkZCO0mpjL": "Oui",
+            "choice_Ny7cAmpoU": "Si",
+            "choice_NJUcC76sI": "Non"
+        },
+        "de": {
+            "header": "Through which words can you let the other party know that you want something in return?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To express that you want something in return, ‘if’ and ‘then’ are the magic words. This indicates that you are prepared to move, but without giving anything away.",
+            "tips": "Being able to say ‘no’ might as well change your life.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel92953}} you go shopping, {{sel30810}} I'll clean the house.",
+            "choice_4yl3d3XaiL": "then ",
+            "choice_V1~2u3QpjU": "if",
+            "choice_V1yv6maiL": "never",
+            "choice_V1bYT7TiU": "whenever",
+            "choice_4kx0u07psL": "Wherever",
+            "choice_VkZCO0mpjL": "Yes",
+            "choice_Ny7cAmpoU": "If",
+            "choice_NJUcC76sI": "Don't"
+        },
+        "th": {
+            "header": "Through which words can you let the other party know that you want something in return?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To express that you want something in return, ‘if’ and ‘then’ are the magic words. This indicates that you are prepared to move, but without giving anything away.",
+            "tips": "Being able to say ‘no’ might as well change your life.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel92953}} you go shopping, {{sel30810}} I'll clean the house.",
+            "choice_4yl3d3XaiL": "then",
+            "choice_V1~2u3QpjU": "if",
+            "choice_V1yv6maiL": "never",
+            "choice_V1bYT7TiU": "whenever",
+            "choice_4kx0u07psL": "Wherever",
+            "choice_VkZCO0mpjL": "Yes",
+            "choice_Ny7cAmpoU": "If",
+            "choice_NJUcC76sI": "Don't"
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-13T10:21:13.260Z",
+            "updatedAt": "2019-03-20T10:10:23.833Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1QXhs-J8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_NywtWXskU",
+        "universalRef": "sli_NywtWXskU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NywtWXskU.choice_EyVsbXo18.id",
+                        "label": "choice_EyVsbXo18",
+                        "value": "choice_EyVsbXo18"
+                    },
+                    {
+                        "id": "sli_NywtWXskU.choice_NJUoZQjyI.id",
+                        "label": "choice_NJUoZQjyI",
+                        "value": "choice_NJUoZQjyI"
+                    },
+                    {
+                        "id": "sli_NywtWXskU.choice_NkPiWQsyI.id",
+                        "label": "choice_NkPiWQsyI",
+                        "value": "choice_NkPiWQsyI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyVsbXo18",
+                        "choice_NkPiWQsyI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way of reassuring the employee they’re not a failure as a result of the bad news?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Reassure employees by reminding them of their strengths and focus on the future. Help them work out the reasons they were unsuccessful if it was a promotion or interview situation. Tell them that this decision doesn't make them a failure.",
+            "tips": "Once you've announced bad news to your employees, keep in touch on a regular basis with every member of the team. For example, schedule follow-up meetings to make sure that they've been able to move on.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVsbXo18": "Focus on the future",
+            "choice_NJUoZQjyI": "Offer them a handkerchief",
+            "choice_NkPiWQsyI": "Remind them of their strengths"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen de rassurer un employé et de lui faire comprendre que son travail n’est pas remis en cause du fait de cette mauvaise nouvelle ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Rassurez vos employés en leur rappelant leurs points forts et concentrez-vous sur l’avenir. Aidez-les à comprendre les raisons de leur demande de promotion infructueuse ou posez des questions sur la situation. Dites-leur que cette décision ne remet pas en cause leur travail.",
+            "tips": "Dès lors que vous avez annoncé la mauvaise nouvelle à vos employés, gardez un contact régulier avec chacun d’entre eux. Par exemple, programmez des réunions de suivi pour vous assurer qu’ils ont été capables d’aller de l’avant.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVsbXo18": "Concentrez-vous sur l’avenir",
+            "choice_NJUoZQjyI": "Proposez un mouchoir",
+            "choice_NkPiWQsyI": "Rappelez-leur leurs points forts"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um den Angestellten zu versichern, dass sie nicht versagten aufgrund der schlechten Nachrichten?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus. Sie können mehrere Optionen auswählen.",
+            "klf": "Beruhigen Sie die Mitarbeiter, indem Sie sie an ihre Stärken erinnern und sich auf die Zukunft konzentrieren. Helfen Sie ihnen, die Gründe zu ermitteln, warum sie nicht erfolgreich waren, wenn es sich um eine Beförderungs- oder Interviewsituation handelte. Sagen Sie ihnen, dass diese Entscheidung sie nicht zum Scheitern bringt.",
+            "tips": "Wenn Sie Ihren Mitarbeitern schlechte Nachrichten angekündigt haben, bleiben Sie regelmäßig mit jedem Mitglied des Teams in Kontakt. Planen Sie beispielsweise Folgetermine, um sicherzustellen, dass sie fortfahren können.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVsbXo18": "Konzentriere dich auf die Zukunft",
+            "choice_NJUoZQjyI": "Bieten Sie ihnen ein Taschentuch",
+            "choice_NkPiWQsyI": "Erinnern Sie sie an ihre Stärken"
+        },
+        "th": {
+            "header": "วิธีที่ดีที่สุดในการสร้างความมั่นใจให้พนักงานว่าพวกเขาไม่ได้เป็นคนที่ล้มเหลวหลังจากได้รับผลจากข่าวร้ายนั้นคืออะไร",
+            "explanation": "เลือกคำตอบที่ถูกต้องด้านล่าง",
+            "klf": "สร้างความมั่นใจให้พนักงานโดยให้เขารู้ถึงจุดแข็งของตนเองและมุ่งเน้นที่อนาคต ช่วยพวกเขาหาเหตุผลว่าทำไมจึงไม่ประสบความสำเร็จ หากเป็นเรื่องเลื่อนตำแหน่งหรือการสัมภาษณ์ บอกว่าการตัดสินใจเช่นนี้ ไม่ได้ทำให้พวกเขากลายเป็นบุคคลที่ล้มเหลว",
+            "tips": "เมื่อคุณได้ประกาศข่าวร้ายให้พนักงานทราบแล้ว ให้ติดต่อกับสมาชิกทุกคนในทีมอย่างสม่ำเสมอ เช่น จัดประชุมติดตามผลตามเรื่อยๆ เพื่อให้มั่นใจว่าพนักงานสามารถทำงานต่อไปได้ตามปกติ",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyVsbXo18": "มุ่งเน้นที่อนาคต",
+            "choice_NJUoZQjyI": "ยื่นผ้าเช็ดหน้าให้",
+            "choice_NkPiWQsyI": "ให้พนักงานทราบถึงจุดแข็งของตนเอง"
+        }
+    }
+}

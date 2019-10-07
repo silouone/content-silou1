@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T17:09:09.832Z",
+            "updatedAt": "2019-03-12T16:52:35.589Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nym~TEsU8"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_NJLh8FiLI",
+        "universalRef": "sli_NJLh8FiLI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJLh8FiLI.choice_E1VqvYiU8.id",
+                        "label": "choice_E1VqvYiU8",
+                        "value": "choice_E1VqvYiU8"
+                    },
+                    {
+                        "id": "sli_NJLh8FiLI.choice_EyQ2uFiL8.id",
+                        "label": "choice_EyQ2uFiL8",
+                        "value": "choice_EyQ2uFiL8"
+                    },
+                    {
+                        "id": "sli_NJLh8FiLI.choice_VJQ7Fto8L.id",
+                        "label": "choice_VJQ7Fto8L",
+                        "value": "choice_VJQ7Fto8L"
+                    },
+                    {
+                        "id": "sli_NJLh8FiLI.choice_4kWLFYi8U.id",
+                        "label": "choice_4kWLFYi8U",
+                        "value": "choice_4kWLFYi8U"
+                    },
+                    {
+                        "id": "sli_NJLh8FiLI.choice_V1UYYKsUL.id",
+                        "label": "choice_V1UYYKsUL",
+                        "value": "choice_V1UYYKsUL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJQ7Fto8L",
+                        "choice_V1UYYKsUL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You have some reasons to think an employee is struggling with problems that might affect their presence at work. What should you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "If you think an employee's problems might affect their presence at work, be ready to listen to them if they feel the need. Whatever happens, always try to look out for signs and patterns!",
+            "tips": "A survey from CareerBuilder listed some of the most absurd reasons for missing work. One of them was: ‘I ate cat food instead of tuna and was deathly ill’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1VqvYiU8": "Remind them what they are paid for",
+            "choice_EyQ2uFiL8": "Check their social media accounts",
+            "choice_VJQ7Fto8L": "Listen to their problems",
+            "choice_4kWLFYi8U": "Put a camera in their living room",
+            "choice_V1UYYKsUL": "Look out for signs and patterns"
+        },
+        "fr": {
+            "header": "Vous avez des raisons de penser qu'un employé fait face à des problèmes pouvant affecter sa présence au travail. Que devriez-vous faire ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Si vous pensez que les problèmes d'un employé peuvent affecter sa présence au travail, soyez prêt à l'écouter s'il en ressent le besoin. Quoi qu'il arrive, essayez de toujours faire attention aux signes et aux comportements !",
+            "tips": "Une enquête de CareerBuilder a répertorié certaines des raisons les plus absurdes de l’absence au travail. L’une d’elle était : « J’ai mangé de la nourriture pour chats au lieu de thon et j’étais affreusement malade ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1VqvYiU8": "Leur rappeler ce pour quoi ils sont payés",
+            "choice_EyQ2uFiL8": "Vérifier leurs comptes sur les réseaux sociaux",
+            "choice_VJQ7Fto8L": "Écouter leurs problèmes",
+            "choice_4kWLFYi8U": "Mettre une caméra dans leur salon",
+            "choice_V1UYYKsUL": "Faire attention aux signes et aux comportements"
+        },
+        "de": {
+            "header": "You have some reasons to think an employee is struggling with problems that might affect their presence at work. What should you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "If you think an employee's problems might affect their presence at work, be ready to listen to them if they feel the need. Whatever happens, always try to look out for signs and patterns!",
+            "tips": "A survey from CareerBuilder listed some of the most absurd reasons for missing work. One of them was: ‘I ate cat food instead of tuna and was deathly ill’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1VqvYiU8": "Remind them what they are paid for",
+            "choice_EyQ2uFiL8": "Check their social media accounts",
+            "choice_VJQ7Fto8L": "Listen to their problems",
+            "choice_4kWLFYi8U": "Put a camera in their living room",
+            "choice_V1UYYKsUL": "Look out for signs and patterns"
+        },
+        "th": {
+            "header": "You have some reasons to think an employee is struggling with problems that might affect their presence at work. What should you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "If you think an employee's problems might affect their presence at work, be ready to listen to them if they feel the need. Whatever happens, always try to look out for signs and patterns!",
+            "tips": "A survey from CareerBuilder listed some of the most absurd reasons for missing work. One of them was: ‘I ate cat food instead of tuna and was deathly ill’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1VqvYiU8": "Remind them what they are paid for",
+            "choice_EyQ2uFiL8": "Check their social media accounts",
+            "choice_VJQ7Fto8L": "Listen to their problems",
+            "choice_4kWLFYi8U": "Put a camera in their living room",
+            "choice_V1UYYKsUL": "Look out for signs and patterns"
+        }
+    }
+}

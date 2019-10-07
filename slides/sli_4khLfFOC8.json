@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-11T11:58:18.788Z",
+            "updatedAt": "2019-06-28T12:41:24.721Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkDUULd0U"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4khLfFOC8",
+        "universalRef": "sli_4khLfFOC8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4khLfFOC8.choice_EkgbuBY-A8.id",
+                        "label": "choice_EkgbuBY-A8",
+                        "value": "choice_EkgbuBY-A8",
+                        "media": "med_Ey~-rKORL"
+                    },
+                    {
+                        "id": "sli_4khLfFOC8.choice_VJxN9SFO0I.id",
+                        "label": "choice_VJxN9SFO0I",
+                        "value": "choice_VJxN9SFO0I",
+                        "media": "med_NJ49HYOAI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJxN9SFO0I"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EkSr4K-CU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Sales going up can only mean one thing: profits will follow and go up. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Total heresy! Sales might double but profits might go down… You may need to leave that Ferrari leaflet aside for next year, sorry!",
+            "tips": "You might think of profits as mere accounting entries in a ledger, while they are a true statement of your performance: if profits are down, it means you did not do as well as last year, and you don't want this to happen!",
+            "clue": "",
+            "context_title": "The sinews of war.",
+            "context_description": "It's this time of the year…again. Budget time. But there's some good news: Budget projections seem to indicate that your sales are doubling.",
+            "context_media_description": "",
+            "choice_EkgbuBY-A8": "TRUE",
+            "choice_VJxN9SFO0I": "FALSE"
+        },
+        "fr": {
+            "header": "La hausse des ventes ne peut signifier qu'une chose : les bénéfices suivront et augmenteront. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Une hérésie totale ! Les ventes peuvent doubler, mais les bénéfices diminuer… Vous devrez peut-être laisser ce dépliant Ferrari de côté pour l’année prochaine, désolé !",
+            "tips": "Vous pouvez considérer les bénéfices comme de simples écritures comptables dans un grand livre, alors qu’ils constituent une véritable déclaration de votre performance : si les bénéfices sont en baisse, cela signifie que vous n’avez pas été aussi performants que l’année dernière et vous ne voulez pas que cela arrive !",
+            "clue": "",
+            "context_title": "Le nerf de la guerre.",
+            "context_description": "C'est cette période de l'année… encore. La période du budget. Mais il y a une bonne nouvelle : les prévisions budgétaires semblent indiquer que vos ventes doublent.",
+            "context_media_description": "",
+            "choice_EkgbuBY-A8": "VRAI",
+            "choice_VJxN9SFO0I": "FAUX"
+        },
+        "de": {
+            "header": "Sales going up can only mean one thing: profits will follow and go up. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Total heresy! Sales might double but profits might go down… You may need to leave that Ferrari leaflet aside for next year, sorry!",
+            "tips": "You might think of profits as mere accounting entries in a ledger, while they are a true statement of your performance: if profits are down, it means you did not do as well as last year, and you don't want this to happen!",
+            "clue": "",
+            "context_title": "The sinews of war.",
+            "context_description": "It's this time of the year…again. Budget time. But there's some good news: Budget projections seem to indicate that your sales are doubling.",
+            "context_media_description": "",
+            "choice_EkgbuBY-A8": "True",
+            "choice_VJxN9SFO0I": "False"
+        },
+        "th": {
+            "header": "Sales going up can only mean one thing: profits will follow and go up. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Total heresy! Sales might double but profits might go down… You may need to leave that Ferrari leaflet aside for next year, sorry!",
+            "tips": "You might think of profits as mere accounting entries in a ledger, while they are a true statement of your performance: if profits are down, it means you did not do as well as last year, and you don't want this to happen!",
+            "clue": "",
+            "context_title": "The sinews of war.",
+            "context_description": "It's this time of the year…again. Budget time. But there's some good news: Budget projections seem to indicate that your sales are doubling.",
+            "context_media_description": "",
+            "choice_EkgbuBY-A8": "True",
+            "choice_VJxN9SFO0I": "False"
+        }
+    }
+}

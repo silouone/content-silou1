@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T08:01:04.855Z",
+            "updatedAt": "2019-08-01T08:01:04.855Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny3opawGP"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Nys4oFsfv",
+        "universalRef": "sli_Nys4oFsfv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nys4oFsfv.choice_4Jey8otofP.id",
+                        "label": "choice_4Jey8otofP",
+                        "value": "choice_4Jey8otofP",
+                        "media": "med_Eyk8otjGP"
+                    },
+                    {
+                        "id": "sli_Nys4oFsfv.choice_EkleLiYjzP.id",
+                        "label": "choice_EkleLiYjzP",
+                        "value": "choice_EkleLiYjzP",
+                        "media": "med_4kxLiYofD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkleLiYjzP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? All candidates tend to talk too much about themselves.",
+            "explanation": "Select the correct answer.",
+            "klf": "There are two types of candidate: those giving too much detail and those that tend to clam up. You must know how to deal with these different personality types.",
+            "tips": "A job interview is a two-way street. According to the Harvard Business Review, the main purpose of an interview is indeed to assess the candidate, but it’s also the right moment to sell candidates on the job and on your firm.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jey8otofP": "True",
+            "choice_EkleLiYjzP": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Tous les candidats ont tendance à trop parler d'eux-mêmes.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il existe deux types de candidats : ceux qui donnent trop de détails et ceux qui ont tendance à se replier sur eux-mêmes. Vous devez savoir comment faire face à ces différents types de personnalité.",
+            "tips": "Un entretien d'embauche va dans les deux sens. Selon le Harvard Business Review, le but principal d’un entretien est certes d’évaluer le candidat, mais c'est aussi le bon moment pour mettre en avant le poste ainsi que votre entreprise auprès des candidats.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jey8otofP": "Vrai",
+            "choice_EkleLiYjzP": "Faux"
+        },
+        "de": {
+            "header": "True or false? All candidates tend to talk too much about themselves.",
+            "explanation": "Select the correct answer.",
+            "klf": "There are two types of candidate: those giving too much detail and those that tend to clam up. You must know how to deal with these different personality types.",
+            "tips": "A job interview is a two-way street. According to the Harvard Business Review, the main purpose of an interview is indeed to assess the candidate, but it’s also the right moment to sell candidates on the job and on your firm.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jey8otofP": "True",
+            "choice_EkleLiYjzP": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jey8otofP": "",
+            "choice_EkleLiYjzP": ""
+        }
+    }
+}

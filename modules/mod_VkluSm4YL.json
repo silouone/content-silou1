@@ -1,0 +1,67 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T11:55:06.237Z",
+            "updatedAt": "2019-05-28T08:46:57.845Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-06-08T11:53:51.969Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_V1EDS7VFU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "mod_VkluSm4YL",
+        "universalRef": "mod_VkluSm4YL",
+        "level": 1,
+        "draft": true,
+        "position": 0,
+        "timeAlloted": 10,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_N1k7xiYYU",
+            "skill_N1x7gitKU"
+        ],
+        "ineligibleBattle": false,
+        "version": "3",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        },
+        "creditsToAccess": 1
+    },
+    "locales": {
+        "en": {
+            "skill_N1k7xiYYU": "Use your relations to get introduced without appearing boastful",
+            "skill_N1x7gitKU": "Picture how your flaws can make you look trustworthy"
+        },
+        "fr": {
+            "skill_N1k7xiYYU": "Utiliser vos relations pour être présenté sans apparaître prétentieux",
+            "skill_N1x7gitKU": "Imaginer comment vos défauts peuvent vous faire paraître digne de confiance"
+        },
+        "de": {
+            "skill_N1k7xiYYU": "Use your relations to get introduced without appearing boastful",
+            "skill_N1x7gitKU": "Picture how your flaws can make you look trustworthy"
+        },
+        "th": {
+            "skill_N1k7xiYYU": "Use your relations to get introduced without appearing boastful",
+            "skill_N1x7gitKU": "Picture how your flaws can make you look trustworthy"
+        }
+    }
+}

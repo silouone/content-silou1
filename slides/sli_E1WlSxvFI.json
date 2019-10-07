@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T15:04:52.229Z",
+            "updatedAt": "2019-04-15T08:29:42.367Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJyQVlPYL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_E1WlSxvFI",
+        "universalRef": "sli_E1WlSxvFI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1WlSxvFI.choice_4yPzHgwYU.id",
+                        "label": "choice_4yPzHgwYU",
+                        "value": "choice_4yPzHgwYU"
+                    },
+                    {
+                        "id": "sli_E1WlSxvFI.choice_VyCGSgvtU.id",
+                        "label": "choice_VyCGSgvtU",
+                        "value": "choice_VyCGSgvtU"
+                    },
+                    {
+                        "id": "sli_E1WlSxvFI.choice_VJMmrlDtU.id",
+                        "label": "choice_VJMmrlDtU",
+                        "value": "choice_VJMmrlDtU"
+                    },
+                    {
+                        "id": "sli_E1WlSxvFI.choice_41D7rewtU.id",
+                        "label": "choice_41D7rewtU",
+                        "value": "choice_41D7rewtU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41D7rewtU",
+                        "choice_4yPzHgwYU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the below are good ways to prepare for your presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To prepare well, you should know your audience and plan ahead what you want to say.",
+            "tips": "Knowing your audience is about understanding what people will expect from your presentation. Look for information on their background, values, interests, etc.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yPzHgwYU": "Knowing your audience",
+            "choice_VyCGSgvtU": "Finding some good jokes",
+            "choice_VJMmrlDtU": "Drinking lots of coffee",
+            "choice_41D7rewtU": "Planning what you want to say"
+        },
+        "fr": {
+            "header": "Parmi les propositions ci-dessous, lesquelles sont de bonnes façons de préparer votre présentation ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour bien vous préparer, vous devez connaître votre auditoire et planifier à l'avance ce que vous voulez dire.",
+            "tips": "Connaître votre auditoire, c'est comprendre ce que les gens attendent de votre présentation. Rechercher des informations sur leurs antécédents, leurs valeurs, leurs intérêts, etc.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yPzHgwYU": "Connaître votre auditoire",
+            "choice_VyCGSgvtU": "Trouver de bonnes blagues",
+            "choice_VJMmrlDtU": "Boire beaucoup de café",
+            "choice_41D7rewtU": "Planifier ce que vous voulez dire"
+        },
+        "de": {
+            "header": "Which of the below are good ways to prepare for your presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To prepare well, you should know your audience and plan ahead what you want to say.",
+            "tips": "Knowing your audience is about understanding what people will expect from your presentation. Look for information on their background, values, interests, etc.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yPzHgwYU": "Knowing your audience",
+            "choice_VyCGSgvtU": "Finding some good jokes",
+            "choice_VJMmrlDtU": "Drinking lots of coffee",
+            "choice_41D7rewtU": "Planning what you want to say"
+        },
+        "th": {
+            "header": "Which of the below are good ways to prepare for your presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To prepare well, you should know your audience and plan ahead what you want to say.",
+            "tips": "Knowing your audience is about understanding what people will expect from your presentation. Look for information on their background, values, interests, etc.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yPzHgwYU": "Knowing your audience",
+            "choice_VyCGSgvtU": "Finding some good jokes",
+            "choice_VJMmrlDtU": "Drinking lots of coffee",
+            "choice_41D7rewtU": "Planning what you want to say"
+        }
+    }
+}

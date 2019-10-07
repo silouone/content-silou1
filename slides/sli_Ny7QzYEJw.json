@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-20T14:28:08.969Z",
+            "updatedAt": "2019-06-26T08:21:44.935Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yncdVkv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_Ny7QzYEJw",
+        "universalRef": "sli_Ny7QzYEJw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ny7QzYEJw.choice_V1SDQt4Jv.id",
+                        "label": "choice_V1SDQt4Jv",
+                        "value": "choice_V1SDQt4Jv"
+                    },
+                    {
+                        "id": "sli_Ny7QzYEJw.choice_Vk4dXFVJP.id",
+                        "label": "choice_Vk4dXFVJP",
+                        "value": "choice_Vk4dXFVJP"
+                    },
+                    {
+                        "id": "sli_Ny7QzYEJw.choice_NJlY7YVyD.id",
+                        "label": "choice_NJlY7YVyD",
+                        "value": "choice_NJlY7YVyD"
+                    },
+                    {
+                        "id": "sli_Ny7QzYEJw.choice_E1oYQKNyD.id",
+                        "label": "choice_E1oYQKNyD",
+                        "value": "choice_E1oYQKNyD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk4dXFVJP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are good questions to use with someone who is agitated?",
+            "explanation": "Select the correct answer.",
+            "klf": "Start by using open questions if the caller is agitated.",
+            "tips": "Open questions begin with words such as: <i>describe, where, when, why, how, what</i>...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1SDQt4Jv": "Rhetorical questions then assumptive ones to state next actions",
+            "choice_Vk4dXFVJP": "Open questions to understand then closed or leading ones to drive actions",
+            "choice_NJlY7YVyD": "Open questions then close the call",
+            "choice_E1oYQKNyD": "Assumptive questions"
+        },
+        "fr": {
+            "header": "Quelles sont les bonnes questions à poser lorsque l'on est face à quelqu'un d'agité ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si l'interlocuteur est agité, commencez par utiliser des questions ouvertes.",
+            "tips": "Les questions ouvertes commencent par des mots tels que : <i>décrivez, où, quand, pourquoi, comment, quoi</i> ...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1SDQt4Jv": "Des questions rhétoriques puis hypothétiques pour préciser les prochaines mesures à suivre",
+            "choice_Vk4dXFVJP": "Des questions ouvertes pour comprendre, puis des questions fermées ou suggestives pour mener aux prochaines mesures",
+            "choice_NJlY7YVyD": "Des questions ouvertes puis conclure l'appel",
+            "choice_E1oYQKNyD": "Des questions alternatives"
+        },
+        "de": {
+            "header": "What are good questions to use with someone who is agitated? ",
+            "explanation": "Select the correct answer.",
+            "klf": "Start by using open questions if the caller is agitated.",
+            "tips": "Open questions begin with words such as: <i>describe, where, when, why, how, what</i>...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1SDQt4Jv": "Rhetorical questions then assumptive ones to state next actions",
+            "choice_Vk4dXFVJP": "Open questions to understand then closed or leading ones to drive actions",
+            "choice_NJlY7YVyD": "Open questions then close the call",
+            "choice_E1oYQKNyD": "Assumptive questions"
+        },
+        "th": {
+            "header": "What are good questions to use with someone who is agitated? ",
+            "explanation": "Select the correct answer.",
+            "klf": "Start by using open questions if the caller is agitated.",
+            "tips": "Open questions begin with words such as: <i>describe, where, when, why, how, what</i>...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1SDQt4Jv": "Rhetorical questions then assumptive ones to state next actions",
+            "choice_Vk4dXFVJP": "Open questions to understand then closed or leading ones to drive actions",
+            "choice_NJlY7YVyD": "Open questions then close the call",
+            "choice_E1oYQKNyD": "Assumptive questions"
+        }
+    }
+}

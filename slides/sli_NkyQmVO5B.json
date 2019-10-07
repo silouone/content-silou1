@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-11T12:38:04.890Z",
+            "updatedAt": "2018-11-09T12:27:04.434Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ84zr49S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_NkyQmVO5B",
+        "universalRef": "sli_NkyQmVO5B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkyQmVO5B.choice_VJvXQNdqH.id",
+                        "label": "choice_VJvXQNdqH",
+                        "value": "choice_VJvXQNdqH"
+                    },
+                    {
+                        "id": "sli_NkyQmVO5B.choice_4kFQ7V-qB.id",
+                        "label": "choice_4kFQ7V-qB",
+                        "value": "choice_4kFQ7V-qB"
+                    },
+                    {
+                        "id": "sli_NkyQmVO5B.choice_4kqmXVd9r.id",
+                        "label": "choice_4kqmXVd9r",
+                        "value": "choice_4kqmXVd9r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kFQ7V-qB",
+                        "choice_VJvXQNdqH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Some of the best ideas come to us during the night or on our way to work. How can you capture these ideas?",
+            "explanation": "Select the correct answers.",
+            "klf": "Be prepared. Carry a pen and pad or use your mobile or tablet to record your ideas.",
+            "tips": "Writing down your ideas will ensure that you don't forget them. It will also help you organize and link your thoughts: ideal if you want to try creative brainstorming, for example!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJvXQNdqH": "Carry a pen and pad",
+            "choice_4kFQ7V-qB": "Use your mobile/tablet to record them",
+            "choice_4kqmXVd9r": "Repeat them over and over in your head until you memorise them"
+        },
+        "fr": {
+            "header": "Certaines des idées les plus brillantes surgissent la nuit ou sur le chemin du travail. Comment retenir ces idées ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Soyez prêt. Gardez un bloc-notes et un stylo sur vous ou utilisez votre portable ou tablette pour consigner vos idées.",
+            "tips": "Noter vos idées vous permettra de ne pas les oublier. Cela vous aidera également à vous organiser et à relier vos pensées : idéal si vous souhaitez expérimenter un brainstorming créatif par exemple !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJvXQNdqH": "Garder un bloc-notes et un stylo sur soi",
+            "choice_4kFQ7V-qB": "Utiliser son portable / sa tablette pour les noter",
+            "choice_4kqmXVd9r": "Les répéter mentalement jusqu’à les mémoriser"
+        },
+        "de": {
+            "header": "Einige der besten Ideen kommen während der Nacht oder auf dem Weg zur Arbeit zu uns. Wie können Sie diese Ideen erfassen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Seien Sievorbereitet. Tragen Sie einen Stift und ein Pad oder nehmen Sie Ihre Ideen mit Ihrem Handy oder Tablet auf.",
+            "tips": "Wenn Sie Ihre Ideen aufschreiben, wird sichergestellt, dass Sie sie nicht vergessen. Es hilft Ihnen auch beim Organisieren und Verknüpfen Ihrer Gedanken: Ideal, wenn Sie beispielsweise kreatives Brainstorming ausprobieren möchten!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJvXQNdqH": "Tragen Sie einen Stift und ein Pad",
+            "choice_4kFQ7V-qB": "Verwenden Sie Ihr Handy / Tablet, um sie aufzunehmen",
+            "choice_4kqmXVd9r": "Wiederholen Sie sie immer wieder in Ihrem Kopf, bis Sie sie auswendig lernen"
+        },
+        "th": {
+            "header": "Some of the best ideas come to us during the night or on our way to work. How can you capture these ideas?",
+            "explanation": "Select the correct answers.",
+            "klf": "Be prepared. Carry a pen and pad or use your mobile or tablet to record your ideas.",
+            "tips": "Writing down your ideas will ensure that you don't forget them. It will also help you organize and link your thoughts: ideal if you want to try creative brainstorming, for example!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJvXQNdqH": "Carry a pen and pad",
+            "choice_4kFQ7V-qB": "Use your mobile/tablet to record them",
+            "choice_4kqmXVd9r": "Repeat them over and over in your head until you memorise them"
+        }
+    }
+}

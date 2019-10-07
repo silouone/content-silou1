@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-12T14:26:21.977Z",
+            "updatedAt": "2019-06-14T09:16:45.880Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJY7R3YAI"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EkFIqe5RU",
+        "universalRef": "sli_EkFIqe5RU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkFIqe5RU.choice_VJlq55ecAU.id",
+                        "label": "choice_VJlq55ecAU",
+                        "value": "choice_VJlq55ecAU",
+                        "media": "med_Ey5c9e5RU"
+                    },
+                    {
+                        "id": "sli_EkFIqe5RU.choice_V1fls5l9C8.id",
+                        "label": "choice_V1fls5l9C8",
+                        "value": "choice_V1fls5l9C8",
+                        "media": "med_4k~es9eqRI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1fls5l9C8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Closed-ended questions are more efficient for helping people, because they are straight to the point.",
+            "explanation": "Select the correct answer.",
+            "klf": "False. Closed-ended questions hinder the dialogue and do not encourage the other person to talk further.",
+            "tips": "Asking closed-ended question already orientates the conversation in one direction and doesn't give a chance to the other person to take it in another direction.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlq55ecAU": "True",
+            "choice_V1fls5l9C8": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Les questions fermées sont plus efficaces pour aider les gens car elles vont droit au but.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Faux. Les questions fermées entravent le dialogue et n'encouragent pas l'autre personne à parler davantage.",
+            "tips": "Poser une question fermée oriente déjà la conversation vers un sujet déterminé et ne laisse aucune chance à l'autre personne de changer de sujet.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlq55ecAU": "Vrai",
+            "choice_V1fls5l9C8": "Faux"
+        },
+        "de": {
+            "header": "True or false? Closed-ended questions are more efficient for helping people, because they are straight to the point.",
+            "explanation": "Select the correct answer.",
+            "klf": "False. Closed-ended questions hinder the dialogue and do not encourage the other person to talk further.",
+            "tips": "Asking closed-ended question already orientates the conversation in one direction and doesn't give a chance to the other person to take it in another direction.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlq55ecAU": "True",
+            "choice_V1fls5l9C8": "False"
+        },
+        "th": {
+            "header": "True or false? Closed-ended questions are more efficient for helping people, because they are straight to the point.",
+            "explanation": "Select the correct answer.",
+            "klf": "False. Closed-ended questions hinder the dialogue and do not encourage the other person to talk further.",
+            "tips": "Asking closed-ended question already orientates the conversation in one direction and doesn't give a chance to the other person to take it in another direction.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlq55ecAU": "True",
+            "choice_V1fls5l9C8": "False"
+        }
+    }
+}

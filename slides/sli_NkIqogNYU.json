@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T08:58:26.638Z",
+            "updatedAt": "2019-04-29T16:08:23.659Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1fm99TO8"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NkIqogNYU",
+        "universalRef": "sli_NkIqogNYU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_NkIqogNYU.field_EkbbnxVYI.id",
+                        "type": "text",
+                        "name": "inp61122"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp61122",
+                        "answers": [
+                            "choice_V1fbW3lEKI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Can you fullfil this sentence with the right personal pronoun?",
+            "explanation": "Type your answer.",
+            "klf": "Thre is no I in team.",
+            "tips": "As human beings, we undergo a daily pressure to fit in : we all want to be part of the tribe, and the 'I' that constitutes a barrier to the success of a team comes up when you are feeling vulnerable and insecure, so you feel the need to exaggerate your successes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "There's no '{{inp61122}}' in a team.",
+            "choice_V1fbW3lEKI": "I"
+        },
+        "fr": {
+            "header": "Pouvez-vous compléter cette phrase avec le pronom personnel correct ?",
+            "explanation": "Tapez votre réponse.",
+            "klf": "Il n'y a pas de JE dans une équipe.",
+            "tips": "En tant qu’êtres humains, nous subissons une pression quotidienne afin de nous intégrer : nous voulons tous faire partie de la tribu et le « JE », qui constitue un obstacle à la réussite d’une équipe, se manifeste lorsque vous vous sentez fragile et vulnérable, vous ressentez alors le besoin d'exagérer vos succès.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Il n'y a pas de '{{inp61122}}' dans une équipe.",
+            "choice_V1fbW3lEKI": "JE"
+        },
+        "de": {
+            "header": "Can you fullfil this sentence with the right personal pronoun?",
+            "explanation": "Type your answer.",
+            "klf": "Thre is no I in team.",
+            "tips": "As human beings, we undergo a daily pressure to fit in : we all want to be part of the tribe, and the 'I' that constitutes a barrier to the success of a team comes up when you are feeling vulnerable and insecure, so you feel the need to exaggerate your successes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "There's no '{{inp61122}}' in a team.",
+            "choice_V1fbW3lEKI": "I"
+        },
+        "th": {
+            "header": "Can you fullfil this sentence with the right personal pronoun?",
+            "explanation": "Type your answer.",
+            "klf": "Thre is no I in team.",
+            "tips": "As human beings, we undergo a daily pressure to fit in : we all want to be part of the tribe, and the 'I' that constitutes a barrier to the success of a team comes up when you are feeling vulnerable and insecure, so you feel the need to exaggerate your successes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "There's no '{{inp61122}}' in a team.",
+            "choice_V1fbW3lEKI": "I"
+        }
+    }
+}

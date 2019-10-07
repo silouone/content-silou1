@@ -1,0 +1,130 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-05T14:16:32.882Z",
+            "updatedAt": "2019-08-02T08:24:23.564Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkjNrEdxD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E1WVYrOeD",
+        "universalRef": "sli_E1WVYrOeD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_E1WVYrOeD.choice_NkQsYBOeP.id",
+                        "label": "choice_NkQsYBOeP",
+                        "value": "choice_NkQsYBOeP"
+                    },
+                    {
+                        "id": "sli_E1WVYrOeD.choice_4k9oYSOev.id",
+                        "label": "choice_4k9oYSOev",
+                        "value": "choice_4k9oYSOev"
+                    },
+                    {
+                        "id": "sli_E1WVYrOeD.choice_N1osKHdew.id",
+                        "label": "choice_N1osKHdew",
+                        "value": "choice_N1osKHdew"
+                    },
+                    {
+                        "id": "sli_E1WVYrOeD.choice_EJm3KSdxw.id",
+                        "label": "choice_EJm3KSdxw",
+                        "value": "choice_EJm3KSdxw"
+                    },
+                    {
+                        "id": "sli_E1WVYrOeD.choice_4JNntBdxw.id",
+                        "label": "choice_4JNntBdxw",
+                        "value": "choice_4JNntBdxw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1osKHdew",
+                        "choice_4JNntBdxw",
+                        "choice_4k9oYSOev",
+                        "choice_NkQsYBOeP",
+                        "choice_EJm3KSdxw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are, in chronological order, the 5 steps to behaving ethically when it's tempting to do otherwise?",
+            "explanation": "Select the answers below in chronological order.",
+            "klf": "First, gather the relevant facts, and think about who is going to be affected by your decision. Ask yourself: what is the guiding principle here? Then, assess the ethics of each possible alternative. Finally, ponder upon how your decision will also affect you, now and in the future.",
+            "tips": "Ever wondered what's the difference between morality and ethics? Well, even though the 2 terms are often used interchangeably, morality is rather something that's personal and normative, whereas ethics is the standards of ‘good and bad’ distinguished by a certain community or social setting. In other words, morality seems to be more universal than ethics, and thus your morality could sometimes contradict the ethics of your community.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkQsYBOeP": "Assess the ethics of each possible alternative",
+            "choice_4k9oYSOev": "Ask yourself: what is the guiding principle here?",
+            "choice_N1osKHdew": "Gather the relevant facts",
+            "choice_EJm3KSdxw": "Reflect on how your decision will also affect you, now and in the future",
+            "choice_4JNntBdxw": "Think about who is going to be affected by your decision"
+        },
+        "fr": {
+            "header": "Quelles sont, dans l'ordre chronologique, les 5 étapes d'un comportement éthique lorsqu'il est tentant de faire autrement ?",
+            "explanation": "Sélectionnez les réponses ci-dessous par ordre chronologique.",
+            "klf": "Tout d’abord, rassemblez les faits pertinents et pensez aux personnes qui seront touchées par votre décision. Demandez-vous : quel est le principe directeur ici ? Ensuite, évaluez l’éthique de chaque alternative possible. Enfin, réfléchissez à la manière dont votre décision vous affectera également, maintenant et à l'avenir.",
+            "tips": "Vous êtes-vous déjà demandé quelle était la différence entre la morale et éthique ? Bien que les deux termes soient souvent utilisés de manière interchangeable, la morale est plutôt personnelle et normative, alors que l’éthique est la norme du « bien et du mal » qui se distingue par une communauté ou un environnement social donné. En d'autres termes, la morale semble être plus universelle que l'éthique et votre morale pourrait donc parfois contredire l'éthique de votre communauté.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkQsYBOeP": "Évaluer l'éthique de chaque alternative possible",
+            "choice_4k9oYSOev": "Vous demander : quel est le principe directeur ici ?",
+            "choice_N1osKHdew": "Rassembler les faits pertinents",
+            "choice_EJm3KSdxw": "Réfléchir à la manière dont votre décision vous affectera également, maintenant et à l'avenir",
+            "choice_4JNntBdxw": "Penser aux personnes qui seront touchées par votre décision"
+        },
+        "de": {
+            "header": "What are, in chronological order, the 5 steps to behaving ethically when it's tempting to do otherwise?",
+            "explanation": "Select the answers below in chronological order.",
+            "klf": "First, gather the relevant facts, and think about who is going to be affected by your decision. Ask yourself: what is the guiding principle here? Then, assess the ethics of each possible alternative. Finally, ponder upon how your decision will also affect you, now and in the future.",
+            "tips": "Ever wondered what's the difference between morality and ethics? Well, even though the 2 terms are often used interchangeably, morality is rather something that's personal and normative, whereas ethics is the standards of ‘good and bad’ distinguished by a certain community or social setting. In other words, morality seems to be more universal than ethics, and thus your morality could sometimes contradict the ethics of your community.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkQsYBOeP": "Assess the ethics of each possible alternative",
+            "choice_4k9oYSOev": "Ask yourself: what is the guiding principle here?",
+            "choice_N1osKHdew": "Gather the relevant facts",
+            "choice_EJm3KSdxw": "Reflect on how your decision will also affect you, now and in the future",
+            "choice_4JNntBdxw": "Think about who is going to be affected by your decision"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkQsYBOeP": "",
+            "choice_4k9oYSOev": "",
+            "choice_N1osKHdew": "",
+            "choice_EJm3KSdxw": "",
+            "choice_4JNntBdxw": ""
+        }
+    }
+}

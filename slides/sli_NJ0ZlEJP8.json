@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-11T11:20:16.470Z",
+            "updatedAt": "2019-06-13T10:14:29.734Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyw1zKsII"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_NJ0ZlEJP8",
+        "universalRef": "sli_NJ0ZlEJP8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ0ZlEJP8.choice_EylZYxEkDU.id",
+                        "label": "choice_EylZYxEkDU",
+                        "value": "choice_EylZYxEkDU",
+                        "media": "med_NJbtlNyvI"
+                    },
+                    {
+                        "id": "sli_NJ0ZlEJP8.choice_EyeVFgEJDI.id",
+                        "label": "choice_EyeVFgEJDI",
+                        "value": "choice_EyeVFgEJDI",
+                        "media": "med_E1EFlE1vL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyeVFgEJDI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "It is better to tell new employees directly what they have to do. It is a time-saver both for the coach and for the newbie.",
+            "explanation": "Select the correct answer.",
+            "klf": "Telling new employees what to do is rather counter-productive. You'll help them perform if you give them the chance to discover by themselves how the job can be done. They could even think about a plan you'd never thought about before!",
+            "tips": "The coaching process of new employees must be integrated in a more global and comprehensive onboarding journey that guides the new hire through the different steps to discover the company, to ensure they have all the keys to perform their best.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylZYxEkDU": "TRUE",
+            "choice_EyeVFgEJDI": "FALSE"
+        },
+        "fr": {
+            "header": "Il est préférable de dire directement aux nouveaux employés ce qu’ils doivent faire. C'est un gain de temps à la fois pour le coach et pour le débutant. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Faux ! Dire aux nouveaux employés quoi faire est plutôt contre-productif. Vous les aiderez à travailler si vous leur donnez la chance de découvrir par eux-mêmes comment le travail peut être accompli. Ils pourraient même penser à un plan auquel vous n'aviez jamais pensé auparavant !",
+            "tips": "Le processus de coaching des nouveaux employés doit s'inscrire dans un processus d'intégration plus global et plus complet, qui saura guider le nouvel employé à travers les différentes étapes de sa découverte de l'entreprise, afin de s'assurer qu'ils possèdent toutes les clés pour effectuer le meilleur travail possible. ",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylZYxEkDU": "VRAI",
+            "choice_EyeVFgEJDI": "FAUX"
+        },
+        "de": {
+            "header": "It is better to tell new employees directly what they have to do. It is a time-saver both for the coach and for the newbie.",
+            "explanation": "Select the correct answer.",
+            "klf": "Telling new employees what to do is rather counter-productive. You'll help them perform if you give them the chance to discover by themselves how the job can be done. They could even think about a plan you'd never thought about before!",
+            "tips": "The coaching process of new employees must be integrated in a more global and comprehensive onboarding journey that guides the new hire through the different steps to discover the company, to ensure they have all the keys to perform their best.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylZYxEkDU": "True",
+            "choice_EyeVFgEJDI": "False"
+        },
+        "th": {
+            "header": "It is better to tell new employees directly what they have to do. It is a time-saver both for the coach and for the newbie.",
+            "explanation": "Select the correct answer.",
+            "klf": "Telling new employees what to do is rather counter-productive. You'll help them perform if you give them the chance to discover by themselves how the job can be done. They could even think about a plan you'd never thought about before!",
+            "tips": "The coaching process of new employees must be integrated in a more global and comprehensive onboarding journey that guides the new hire through the different steps to discover the company, to ensure they have all the keys to perform their best.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylZYxEkDU": "TRUE",
+            "choice_EyeVFgEJDI": "FALSE"
+        }
+    }
+}

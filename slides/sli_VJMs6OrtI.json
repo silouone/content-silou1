@@ -1,0 +1,141 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-09T12:53:35.681Z",
+            "updatedAt": "2019-04-09T13:08:40.896Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kY59jpOL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_VJMs6OrtI",
+        "universalRef": "sli_VJMs6OrtI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel16544",
+                        "items": [
+                            {
+                                "text": "choice_4kxT1CuSt8",
+                                "value": "choice_4kxT1CuSt8"
+                            },
+                            {
+                                "text": "choice_Nk~pkCOHtI",
+                                "value": "choice_Nk~pkCOHtI"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel13091",
+                        "items": [
+                            {
+                                "text": "choice_Nkgoe0OHKL",
+                                "value": "choice_Nkgoe0OHKL"
+                            },
+                            {
+                                "text": "choice_E1ZsxAOSKU",
+                                "value": "choice_E1ZsxAOSKU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel16544",
+                        "answers": [
+                            "choice_4kxT1CuSt8"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel13091",
+                        "answers": [
+                            "choice_E1ZsxAOSKU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the difference between stress and pressure?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Pressure is a part of simply being alive; it’s positive and drives us towards our goals. However, when the amount of pressure we are experiencing rises above what we believe we can cope with, it can easily turn into stress and that can be a very bad thing.",
+            "tips": "Nearly half of the world's adult population suffer adverse health effects from stress.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pressure is {{sel16544}}, stress is {{sel13091}}.",
+            "choice_4kxT1CuSt8": "positive",
+            "choice_Nk~pkCOHtI": "negative",
+            "choice_Nkgoe0OHKL": "positive",
+            "choice_E1ZsxAOSKU": "negative",
+            "null": ""
+        },
+        "fr": {
+            "header": "Quelle est la différence entre stress et pression ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "La pression est inhérente au fait d’être en vie ; c’est positif et nous pousse vers nos objectifs. Cependant, lorsque la pression à laquelle nous faisons face augmente au-delà de ce que nous croyons pouvoir supporter, cela peut facilement se transformer en stress, ce qui peut être une très mauvaise chose.",
+            "tips": "Près de la moitié de la population adulte mondiale subit les effets nocifs du stress sur la santé.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La pression est {{sel16544}}, le stress est {{sel13091}}.",
+            "choice_4kxT1CuSt8": "positive",
+            "choice_Nk~pkCOHtI": "négative",
+            "choice_Nkgoe0OHKL": "positif",
+            "choice_E1ZsxAOSKU": "négatif"
+        },
+        "de": {
+            "header": "What is the difference between stress and pressure?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Pressure is a part of simply being alive; it’s positive and drives us towards our goals. However, when the amount of pressure we are experiencing rises above what we believe we can cope with, it can easily turn into stress and that can be a very bad thing.",
+            "tips": "Nearly half of the world's adult population suffer adverse health effects from stress.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pressure is {{sel16544}}, stress is {{sel13091}}.",
+            "choice_4kxT1CuSt8": "positive",
+            "choice_Nk~pkCOHtI": "negative",
+            "choice_Nkgoe0OHKL": "positive ",
+            "choice_E1ZsxAOSKU": "negative"
+        },
+        "th": {
+            "header": "What is the difference between stress and pressure?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Pressure is a part of simply being alive; it’s positive and drives us towards our goals. However, when the amount of pressure we are experiencing rises above what we believe we can cope with, it can easily turn into stress and that can be a very bad thing.",
+            "tips": "Nearly half of the world's adult population suffer adverse health effects from stress.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Pressure is {{sel16544}}, stress is {{sel13091}}.",
+            "choice_4kxT1CuSt8": "positive",
+            "choice_Nk~pkCOHtI": "negative",
+            "choice_Nkgoe0OHKL": "positive",
+            "choice_E1ZsxAOSKU": "negative",
+            "null": ""
+        }
+    }
+}

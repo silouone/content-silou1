@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-09T14:28:26.209Z",
+            "updatedAt": "2019-04-09T15:43:20.804Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4k~CcoTd8"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_N1UWOqSKL",
+        "universalRef": "sli_N1UWOqSKL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel75492",
+                        "items": [
+                            {
+                                "text": "choice_E1xwqY9BKI",
+                                "value": "choice_E1xwqY9BKI"
+                            },
+                            {
+                                "text": "choice_4kZDqYcrtU",
+                                "value": "choice_4kZDqYcrtU"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel28642",
+                        "items": [
+                            {
+                                "text": "choice_Eyl7V99BKI",
+                                "value": "choice_Eyl7V99BKI"
+                            },
+                            {
+                                "text": "choice_N1Z74q9SY8",
+                                "value": "choice_N1Z74q9SY8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel75492",
+                        "answers": [
+                            "choice_4kZDqYcrtU"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel28642",
+                        "answers": [
+                            "choice_N1Z74q9SY8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which models could help you prioritise?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To help you prioritise, you can use the Important versus urgent and Scaling from ‘1-10’ models.",
+            "tips": "Urgent does not necessarily mean important...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The {{sel75492}} and {{sel28642}} models",
+            "choice_E1xwqY9BKI": "AIDA",
+            "choice_4kZDqYcrtU": "Important versus urgent",
+            "choice_Eyl7V99BKI": "Toyotism",
+            "choice_N1Z74q9SY8": "Scaling from ‘1-10’"
+        },
+        "fr": {
+            "header": "Quels modèles pourraient vous aider à établir des priorités ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Pour vous aider à établir des priorités, vous pouvez utiliser les modèles « Important versus urgent » et « Echelle de 1 à 10 ».",
+            "tips": "Urgent ne veut pas forcément dire important...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les modèles {{sel75492}} et {{sel28642}}",
+            "choice_E1xwqY9BKI": "AIDA",
+            "choice_4kZDqYcrtU": "Important versus urgent",
+            "choice_Eyl7V99BKI": "Toyotisme",
+            "choice_N1Z74q9SY8": "Echelle de 1 à 10"
+        },
+        "de": {
+            "header": "Which models could help you prioritise? ",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To help you prioritise, you can use the Important versus urgent and Scaling from ‘1-10’ models.",
+            "tips": "Urgent does not necessarily mean important...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The {{sel75492}} and {{sel28642}} models",
+            "choice_E1xwqY9BKI": "AIDA",
+            "choice_4kZDqYcrtU": "Important versus urgent",
+            "choice_Eyl7V99BKI": "Toyotism",
+            "choice_N1Z74q9SY8": "Scaling from ‘1-10’"
+        },
+        "th": {
+            "header": "Which models could help you prioritise?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To help you prioritise, you can use the Important versus urgent and Scaling from ‘1-10’ models.",
+            "tips": "Urgent does not necessarily mean important...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The {{sel75492}} and {{sel28642}} models",
+            "choice_E1xwqY9BKI": "AIDA",
+            "choice_4kZDqYcrtU": "Important versus urgent",
+            "choice_Eyl7V99BKI": "Toyotism",
+            "choice_N1Z74q9SY8": "Scaling from ‘1-10’"
+        }
+    }
+}

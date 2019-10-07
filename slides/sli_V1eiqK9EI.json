@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T16:09:20.289Z",
+            "updatedAt": "2019-02-25T09:24:42.050Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkLYV14VU"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_V1eiqK9EI",
+        "universalRef": "sli_V1eiqK9EI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel73885",
+                        "items": [
+                            {
+                                "text": "choice_VkemZsKcEL",
+                                "value": "choice_VkemZsKcEL"
+                            },
+                            {
+                                "text": "choice_E1ZXZit54L",
+                                "value": "choice_E1ZXZit54L"
+                            },
+                            {
+                                "text": "choice_41HEoYqN8",
+                                "value": "choice_41HEoYqN8"
+                            },
+                            {
+                                "text": "choice_E1vzhY5VL",
+                                "value": "choice_E1vzhY5VL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel73885",
+                        "answers": [
+                            "choice_E1ZXZit54L"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you help your team feel united?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Working as a team starts with feeling like a team: and it implies equitably distributing tasks that no one wants to take on, sharing skills and encouraging collaborations",
+            "tips": "Kin selection is the evolutionary strategy that favours the reproductive success of an organism's relatives, even at a cost to the organism's own survival and reproduction… If two groups of relatives are considered as small boats in the middle of an ocean, this strategy may end up paying.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can help your team feel united by equitably {{sel73885}} tasks that no one wants to take on, sharing skills and encouraging collaborations.",
+            "choice_VkemZsKcEL": "analyzing",
+            "choice_E1ZXZit54L": "distributing",
+            "choice_41HEoYqN8": "rating",
+            "choice_E1vzhY5VL": "doing"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous aider votre équipe à se sentir unie ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Travailler en équipe commence par se sentir en équipe : cela implique de répartir équitablement les tâches que personne ne veut entreprendre, de partage les compétences et d'encourager les collaborations.",
+            "tips": "La sélection de parentèle est la stratégie de l'évolution qui favorise le succès reproducteur des membres apparentés d'un organisme, même au détriment de sa survie et de sa reproduction. Si deux groupes apparentés sont considérés comme de petits bateaux au milieu d'un océan, cette stratégie peut s'avérer payante.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous pouvez aider votre équipe à se sentir unie en {{sel73885}} équitablement les tâches que personne ne veut entreprendre, en partageant les compétences et en encourageant les collaborations.",
+            "choice_VkemZsKcEL": "analysant",
+            "choice_E1ZXZit54L": "répartissant",
+            "choice_41HEoYqN8": "évaluant",
+            "choice_E1vzhY5VL": "faisant"
+        },
+        "de": {
+            "header": "Wie können Sie Ihrem Team helfen, sich vereint zu fühlen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Die Arbeit als Team fängt mit dem Gefühl an, als wäre man ein Team: Das bedeutet, Aufgaben, die niemand übernehmen möchte, gleich zu verteilen, Fähigkeiten zu teilen und Kollaborationen zu fördern",
+            "tips": "Kin Selection ist die evolutionäre Strategie, die den Fortpflanzungserfolg der Verwandten eines Organismus begünstigt, auch wenn dies zu Kosten des eigenen Überlebens und Fortpflanzung des Organismus geht. Wenn zwei Gruppen von Verwandten als kleine Boote in der Mitte eines Ozeans betrachtet werden, kann diese Strategie sich auszahlen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sie können Ihrem Team helfen, sich vereinigt zu fühlen, indem Sie {{sel73885}} - Aufgaben übernehmen, die niemand übernehmen möchte, indem Sie Fähigkeiten teilen und Kooperationen fördern.",
+            "choice_VkemZsKcEL": "Analysieren",
+            "choice_E1ZXZit54L": "verteilen",
+            "choice_41HEoYqN8": "bewerten",
+            "choice_E1vzhY5VL": "machen"
+        },
+        "th": {
+            "header": "How can you help your team feel united?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Working as a team starts with feeling like a team: and it implies equitably distributing tasks that no one wants to take on, sharing skills and encouraging collaborations",
+            "tips": "Kin selection is the evolutionary strategy that favours the reproductive success of an organism's relatives, even at a cost to the organism's own survival and reproduction… If two groups of relatives are considered as small boats in the middle of an ocean, this strategy may end up paying.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can help your team feel united by equitably {{sel73885}} tasks that no one wants to take on, sharing skills and encouraging collaborations.",
+            "choice_VkemZsKcEL": "analyzing",
+            "choice_E1ZXZit54L": "distributing",
+            "choice_41HEoYqN8": "rating",
+            "choice_E1vzhY5VL": "doing"
+        }
+    }
+}

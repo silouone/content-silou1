@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-18T10:00:31.835Z",
+            "updatedAt": "2019-04-18T10:00:31.835Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJYBcX-tU"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_E1nh-VZcI",
+        "universalRef": "sli_E1nh-VZcI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1nh-VZcI.choice_NJ6AuNW5I.id",
+                        "label": "choice_NJ6AuNW5I",
+                        "value": "choice_NJ6AuNW5I"
+                    },
+                    {
+                        "id": "sli_E1nh-VZcI.choice_V1tgYVW98.id",
+                        "label": "choice_V1tgYVW98",
+                        "value": "choice_V1tgYVW98"
+                    },
+                    {
+                        "id": "sli_E1nh-VZcI.choice_NkSbYNZqL.id",
+                        "label": "choice_NkSbYNZqL",
+                        "value": "choice_NkSbYNZqL"
+                    },
+                    {
+                        "id": "sli_E1nh-VZcI.choice_4k~4FEbc8.id",
+                        "label": "choice_4k~4FEbc8",
+                        "value": "choice_4k~4FEbc8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ6AuNW5I",
+                        "choice_4k~4FEbc8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Making mistakes is fine, under certain conditions. Which are they?",
+            "explanation": "Select the correct answers.",
+            "klf": "Let your team know that mistakes are fine as long as they understand what went wrong and how to avoid them in the future.",
+            "tips": "No matter what the outcomes are, making mistakes is always a sign that something is in motion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ6AuNW5I": "Making mistakes is fine as long as you understand what went wrong",
+            "choice_V1tgYVW98": "Making mistakes is fine as long as no one is impacted",
+            "choice_NkSbYNZqL": "Making mistakes is fine as long as it does not happen at work",
+            "choice_4k~4FEbc8": "Making mistakes is fine as long as you understand how to avoid them in the future"
+        },
+        "fr": {
+            "header": "Il n'est pas grave de faire des erreurs, sous certaines conditions. Lesquelles ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Dites à votre équipe que faire des erreurs n'est pas grave du moment qu'ils comprennent ce qui s'est mal passé et comment les éviter.",
+            "tips": "Quels que soient les résultats, faire des erreurs est toujours le signe que quelque chose est en mouvement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ6AuNW5I": "Faire des erreurs, ce n'est pas grave, du moment que vous comprenez ce qui s'est mal passé",
+            "choice_V1tgYVW98": "Faire des erreurs, ce n'est pas grave, du moment que personne n'est touché",
+            "choice_NkSbYNZqL": "Faire des erreurs, ce n'est pas grave, du moment que ça n'est pas au travail",
+            "choice_4k~4FEbc8": "Faire des erreurs, ce n'est pas grave, du moment que vous comprenez comment les éviter à l'avenir"
+        },
+        "de": {
+            "header": "Making mistakes is fine, under certain conditions. Which are they?",
+            "explanation": "Select the correct answers.",
+            "klf": "Let your team know that mistakes are fine as long as they understand what went wrong and how to avoid them in the future.",
+            "tips": "No matter what the outcomes are, making mistakes is always a sign that something is in motion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ6AuNW5I": "Making mistakes is fine as long as you understand what went wrong",
+            "choice_V1tgYVW98": "Making mistakes is fine as long as no one is impacted",
+            "choice_NkSbYNZqL": "Making mistakes is fine as long as it does not happen at work",
+            "choice_4k~4FEbc8": "Making mistakes is fine as long as you understand how to avoid them in the future"
+        },
+        "th": {
+            "header": "Making mistakes is fine, under certain conditions. Which are they?",
+            "explanation": "Select the correct answers.",
+            "klf": "Let your team know that mistakes are fine as long as they understand what went wrong and how to avoid them in the future.",
+            "tips": "No matter what the outcomes are, making mistakes is always a sign that something is in motion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ6AuNW5I": "Making mistakes is fine as long as you understand what went wrong",
+            "choice_V1tgYVW98": "Making mistakes is fine as long as no one is impacted",
+            "choice_NkSbYNZqL": "Making mistakes is fine as long as it does not happen at work",
+            "choice_4k~4FEbc8": "Making mistakes is fine as long as you understand how to avoid them in the future"
+        }
+    }
+}

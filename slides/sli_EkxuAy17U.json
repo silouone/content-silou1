@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-21T17:21:07.283Z",
+            "updatedAt": "2019-02-22T11:38:11.339Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vkina11z8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EkxuAy17U",
+        "universalRef": "sli_EkxuAy17U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkxuAy17U.choice_V1H9CkkQL.id",
+                        "label": "choice_V1H9CkkQL",
+                        "value": "choice_V1H9CkkQL"
+                    },
+                    {
+                        "id": "sli_EkxuAy17U.choice_4JqcRkkQU.id",
+                        "label": "choice_4JqcRkkQU",
+                        "value": "choice_4JqcRkkQU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JqcRkkQU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to avoid control freakery?",
+            "explanation": "Select the correct answer.",
+            "klf": "Being a leader doesn’t mean having to make all the decisions. Letting the team make decisions by themselves is a great way to avoid control freakery.",
+            "tips": "Letting the team make decisions doesn’t mean not checking in, it means your presence should not be overwhelming. You are expected to periodically make sure everything is on the right track.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1H9CkkQL": "Be involved in every decision, every step of the way",
+            "choice_4JqcRkkQU": "Let go. Allow the team to make decisions by themselves"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen pour éviter de vouloir tout contrôler ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Être leader ne signifie pas que vous ayez à prendre toutes les décisions. Laisser l'équipe prendre ses propres décisions est le moyen idéal de ne pas céder à l'obsession du contrôle.",
+            "tips": "Laisser l'équipe prendre des décisions ne veut pas dire ne pas vérifier, cela signifie que vous ne devez pas être omniprésent lors des prises de décisions. Votre rôle consiste à vérifier régulièrement que l'équipe est sur la bonne voie.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1H9CkkQL": "Être impliqué dans chaque décision, chaque étape du processus",
+            "choice_4JqcRkkQU": "Lâcher prise. Laisser l'équipe prendre ses propres décisions"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um Kontrollzwang zu vermeiden?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Führungsstärke bedeutet nicht, alle Entscheidungen treffen zu müssen. Wenn das Team Entscheidungen alleine treffen kann, ist dies eine großartige Möglichkeit, um Kontrollzwang zu vermeiden.",
+            "tips": "Wenn das Team Entscheidungen triift, bedeutet das nicht, dass Sie nicht vorbeischauen sollten, sondern Ihre Präsenz sollte nicht überwältigend sein. Sie müssen regelmäßig sicherstellen, dass alles auf dem richtigen Weg ist.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1H9CkkQL": "Seien Sie in jede Entscheidung, jeden Schritt des Weges involviert",
+            "choice_4JqcRkkQU": "Loslassen. Erlauben Sie dem Team, selbst Entscheidungen zu treffen"
+        },
+        "th": {
+            "header": "What’s the best way to avoid control freakery?",
+            "explanation": "Select the correct answer.",
+            "klf": "Being a leader doesn’t mean having to make all the decisions. Letting the team make decisions by themselves is a great way to avoid control freakery.",
+            "tips": "Letting the team make decisions doesn’t mean not checking in, it means your presence should not be overwhelming. You are expected to periodically make sure everything is on the right track.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1H9CkkQL": "Be involved in every decision, every step of the way",
+            "choice_4JqcRkkQU": "Let go. Allow the team to make decisions by themselves"
+        }
+    }
+}

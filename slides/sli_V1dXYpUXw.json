@@ -1,0 +1,154 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T20:41:43.607Z",
+            "updatedAt": "2019-09-03T13:19:23.195Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JPO5147D"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_V1dXYpUXw",
+        "universalRef": "sli_V1dXYpUXw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel21771",
+                        "items": [
+                            {
+                                "text": "choice_EJfzwLPBw",
+                                "value": "choice_EJfzwLPBw"
+                            },
+                            {
+                                "text": "choice_EyxfzwLvHP",
+                                "value": "choice_EyxfzwLvHP"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel19733",
+                        "items": [
+                            {
+                                "text": "choice_4ygazPIPBv",
+                                "value": "choice_4ygazPIPBv"
+                            },
+                            {
+                                "text": "choice_VyZazP8wBv",
+                                "value": "choice_VyZazP8wBv"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel21771",
+                        "answers": [
+                            "choice_EyxfzwLvHP"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel19733",
+                        "answers": [
+                            "choice_4ygazPIPBv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When is it better to use open or closed questions?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Asking questions is the most powerful tool a sales person has. It helps you establish the needs of your customers and keep control of the meeting. Use open questions when trying to get a sense of the big picture, and closed questions to identify detail and specific requirements.",
+            "tips": "Closed questions usually begin with verbs, such as ‘can‘, ‘have’, ‘do’, ‘will’, and so on. They are often answered with a ‘yes’, a ‘no’, or another one-word response.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Open questions are better to {{sel21771}}, while closed questions can be very useful to {{sel19733}}.",
+            "choice_N1xRVt6IQP": "Specific, detailed buying needs",
+            "choice_41Z0NYT8mv": "Budgetary constraints",
+            "choice_4yzHYp8Qw": " Attitudes about Alex’s organisation",
+            "choice_4JXSYT8XD": "Opinions about advertising",
+            "choice_EJfzwLPBw": "identify detail or specific requirements",
+            "choice_EyxfzwLvHP": "get a sense of the big picture",
+            "choice_4ygazPIPBv": "identify detail or specific requirements",
+            "choice_VyZazP8wBv": "get a sense of the big picture"
+        },
+        "fr": {
+            "header": "Quand est-il préférable d'utiliser des questions ouvertes ou fermées?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Poser des questions est l'outil le plus puissant dont dispose un vendeur. Il vous aide à établir les besoins de vos clients et à garder le contrôle de la réunion. Utilisez des questions ouvertes lorsque vous essayez de vous faire une idée globale et des questions fermées pour identifier les détails et les exigences spécifiques.",
+            "tips": "Les questions fermées commencent généralement par des verbes, tels que \"pouvoir\", \"avoir\", \"faire\", \"volonté\", etc. On leur répond souvent par «oui», par «non» ou par une autre réponse d'un mot.",
+            "template": "Les questions ouvertes valent mieux pour {{sel21771}} , alors que les questions fermées peuvent être très utiles pour {{sel19733}} .",
+            "choice_EJfzwLPBw": "identifier les détails ou les exigences spécifiques",
+            "choice_EyxfzwLvHP": "avoir une idée de la situation dans son ensemble",
+            "choice_4ygazPIPBv": "identifier les détails ou les exigences spécifiques",
+            "choice_VyZazP8wBv": "avoir une idée de la situation dans son ensemble",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1xRVt6IQP": "",
+            "choice_41Z0NYT8mv": "",
+            "choice_4yzHYp8Qw": "",
+            "choice_4JXSYT8XD": ""
+        },
+        "de": {
+            "header": "When is it better to use open or closed questions?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Asking questions is the most powerful tool a sales person has. It helps you establish the needs of your customers and keep control of the meeting. Use open questions when trying to get a sense of the big picture, and closed questions to identify detail and specific requirements.",
+            "tips": "Closed questions usually begin with verbs, such as ‘can‘, ‘have’, ‘do’, ‘will’, and so on. They are often answered with a ‘yes’, a ‘no’, or another one-word response.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Open questions are better to {{sel21771}}, while closed questions can be very useful to {{sel19733}}.",
+            "choice_EJfzwLPBw": "identify detail or specific requirements",
+            "choice_EyxfzwLvHP": "get a sense of the big picture",
+            "choice_4ygazPIPBv": "identify detail or specific requirements",
+            "choice_VyZazP8wBv": "get a sense of the big picture",
+            "choice_N1xRVt6IQP": "",
+            "choice_41Z0NYT8mv": "",
+            "choice_4yzHYp8Qw": "",
+            "choice_4JXSYT8XD": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel21771}} {{sel19733}}",
+            "choice_N1xRVt6IQP": "",
+            "choice_41Z0NYT8mv": "",
+            "choice_4yzHYp8Qw": "",
+            "choice_4JXSYT8XD": "",
+            "choice_EJfzwLPBw": "",
+            "choice_EyxfzwLvHP": "",
+            "choice_4ygazPIPBv": "",
+            "choice_VyZazP8wBv": ""
+        }
+    }
+}

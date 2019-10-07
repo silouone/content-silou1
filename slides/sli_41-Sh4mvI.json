@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T12:48:32.195Z",
+            "updatedAt": "2019-03-15T16:51:01.707Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ndF7XvL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_41-Sh4mvI",
+        "universalRef": "sli_41-Sh4mvI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41-Sh4mvI.choice_41gKL3VmDI.id",
+                        "label": "choice_41gKL3VmDI",
+                        "value": "choice_41gKL3VmDI",
+                        "media": "med_N1YIhVmwU"
+                    },
+                    {
+                        "id": "sli_41-Sh4mvI.choice_Nkej83N7D8.id",
+                        "label": "choice_Nkej83N7D8",
+                        "value": "choice_Nkej83N7D8",
+                        "media": "med_4yiIh4QDL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nkej83N7D8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Baby boomers and millennials are generations apart when it comes to their motivations.",
+            "explanation": "Select the correct answer.",
+            "klf": "So-called ‘baby boomers’ and ‘millennials’ may be generations apart in terms of where they are in life, but their motivations are not so different. Most people want the same things from work, regardless of their age: impact, challenge, and recognition.",
+            "tips": "People are sometimes unintentionally perpetuating stereotypes about themselves. Be alert to language such as ‘<i>my generation likes…</i>’ or ‘<i>that’s how we millennials think</i>’, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gKL3VmDI": "TRUE",
+            "choice_Nkej83N7D8": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Les baby-boomers et la génération Y sont des générations à part pour ce qui est de leurs motivations.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les soi-disant « baby-boomers » et « génération Y » peuvent être des générations à part en ce qui concerne leur situation de vie, mais leurs motivations ne sont pas si différentes. La plupart des gens attendent les mêmes choses de leur travail, et ce peu importe leur âge : impact, défi et reconnaissance.",
+            "tips": "Les gens perpétuent parfois sans le vouloir des stéréotypes sur eux-mêmes. Soyez attentif aux mots tels que « <i>ma génération aime…</i> » ou « <i>c'est ce que nous, la génération Y, pensons</i>, par exemple.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gKL3VmDI": "VRAI",
+            "choice_Nkej83N7D8": "FAUX"
+        },
+        "de": {
+            "header": "True or false? Baby boomers and millennials are generations apart when it comes to their motivations.",
+            "explanation": "Select the correct answer.",
+            "klf": "So-called ‘baby boomers’ and ‘millennials’ may be generations apart in terms of where they are in life, but their motivations are not so different. Most people want the same things from work, regardless of their age: impact, challenge, and recognition.",
+            "tips": "People are sometimes unintentionally perpetuating stereotypes about themselves. Be alert to language such as ‘<i>my generation likes…</i>’ or ‘<i>that’s how we millennials think</i>’, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gKL3VmDI": "True",
+            "choice_Nkej83N7D8": "False"
+        },
+        "th": {
+            "header": "True or false? Baby boomers and millennials are generations apart when it comes to their motivations.",
+            "explanation": "Select the correct answer.",
+            "klf": "So-called ‘baby boomers’ and ‘millennials’ may be generations apart in terms of where they are in life, but their motivations are not so different. Most people want the same things from work, regardless of their age: impact, challenge, and recognition.",
+            "tips": "People are sometimes unintentionally perpetuating stereotypes about themselves. Be alert to language such as ‘<i>my generation likes…</i>’ or ‘<i>that’s how we millennials think</i>’, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gKL3VmDI": "TRUE",
+            "choice_Nkej83N7D8": "FALSE"
+        }
+    }
+}

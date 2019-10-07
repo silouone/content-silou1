@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-13T13:16:15.324Z",
+            "updatedAt": "2019-07-19T13:04:14.416Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkjrOesAI"
+            ],
+            "modifiedBy": "marcmdm",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VyjNsNjRU",
+        "universalRef": "sli_VyjNsNjRU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VyjNsNjRU.choice_EyJDiVo0U.id",
+                        "label": "choice_EyJDiVo0U",
+                        "value": "choice_EyJDiVo0U"
+                    },
+                    {
+                        "id": "sli_VyjNsNjRU.choice_4J3wo4j0L.id",
+                        "label": "choice_4J3wo4j0L",
+                        "value": "choice_4J3wo4j0L"
+                    },
+                    {
+                        "id": "sli_VyjNsNjRU.choice_Eyr-jViCU.id",
+                        "label": "choice_Eyr-jViCU",
+                        "value": "choice_Eyr-jViCU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyJDiVo0U",
+                        "choice_4J3wo4j0L",
+                        "choice_Eyr-jViCU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What would be the consequences of throwing your employees in at the deep end with little or no training?",
+            "explanation": "Select the correct answers below",
+            "klf": "You should give your employees enough time to gain the confidence they need to do their job successfully. Throwing them on key missions without proper training would damage both the employee's confidence and the company's image.",
+            "tips": "You can't just train for the sake of training: you've got to have a purpose and a methodology adapted to your company and your employees. In 2018, only 34 % of companies felt that training was effective! Which means that the most important thing is choosing the right training methods.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJDiVo0U": "It could shatter their self-confidence",
+            "choice_4J3wo4j0L": "You company could seem unprofessional",
+            "choice_Eyr-jViCU": "You could lose clients"
+        },
+        "fr": {
+            "header": "Jeter vos employés dans la fausse aux lions avec peu voire aucune formation aurait quelles conséquences ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous devez donner à vos employés suffisamment de temps pour acquérir la confiance dont ils ont besoin pour bien faire leur travail. Les envoyer dans des missions clés sans formation adéquate porterait atteinte à leur confiance en eux et à l'image de l'entreprise.",
+            "tips": "Vous ne pouvez pas simplement former par souci de formation : vous devez avoir un but et une méthodologie adaptés à votre entreprise et à vos employés. En 2018, seulement 34 % des entreprises estimaient que la formation était efficace ! Ce qui signifie que le plus important est de choisir les bonnes méthodes de formation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJDiVo0U": "Cela pourrait briser leur confiance en eux",
+            "choice_4J3wo4j0L": "Votre entreprise pourrait sembler peu professionnelle",
+            "choice_Eyr-jViCU": "Vous pourriez perdre des clients"
+        },
+        "de": {
+            "header": "What would be the consequences of throwing your employees in at the deep end with little or no training?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You should give your employees enough time to gain the confidence they need to do their job successfully. Throwing them on key missions without proper training would damage both the employee's confidence and the company's image.",
+            "tips": "You can't just train for the sake of training: you've got to have a purpose and a methodology adapted to your company and your employees. In 2018, only 34 % of companies felt that training was effective! Which means that the most important thing is choosing the right training methods.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJDiVo0U": "It could shatter their self-confidence",
+            "choice_4J3wo4j0L": "You company could seem unprofessional",
+            "choice_Eyr-jViCU": "You could lose clients"
+        },
+        "th": {
+            "header": "What would be the consequences of throwing your employees in at the deep end with little or no training?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You should give your employees enough time to gain the confidence they need to do their job successfully. Throwing them on key missions without proper training would damage both the employee's confidence and the company's image.",
+            "tips": "In 2014, most companies still used more money on coffee than training!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJDiVo0U": "It could shatter their self-confidence",
+            "choice_4J3wo4j0L": "You company could seem unprofessional",
+            "choice_Eyr-jViCU": "You could lose clients"
+        }
+    }
+}

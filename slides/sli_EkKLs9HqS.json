@@ -1,0 +1,132 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T13:52:21.311Z",
+            "updatedAt": "2018-11-09T13:45:53.730Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ6G9qS9B"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_EkKLs9HqS",
+        "universalRef": "sli_EkKLs9HqS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkKLs9HqS.choice_V1eHws9rqS.id",
+                        "label": "choice_V1eHws9rqS",
+                        "value": "choice_V1eHws9rqS",
+                        "media": "med_V1rDjcB9S"
+                    },
+                    {
+                        "id": "sli_EkKLs9HqS.choice_4JlPDs9BqB.id",
+                        "label": "choice_4JlPDs9BqB",
+                        "value": "choice_4JlPDs9BqB",
+                        "media": "med_NJwPi9S9B"
+                    },
+                    {
+                        "id": "sli_EkKLs9HqS.choice_EJgOwjcH5S.id",
+                        "label": "choice_EJgOwjcH5S",
+                        "value": "choice_EJgOwjcH5S",
+                        "media": "med_EydPocSqr"
+                    },
+                    {
+                        "id": "sli_EkKLs9HqS.choice_41ltwjcrqB.id",
+                        "label": "choice_41ltwjcrqB",
+                        "value": "choice_41ltwjcrqB",
+                        "media": "med_EJKPs5HcH"
+                    },
+                    {
+                        "id": "sli_EkKLs9HqS.choice_NylcPicrcS.id",
+                        "label": "choice_NylcPicrcS",
+                        "value": "choice_NylcPicrcS",
+                        "media": "med_4k5Ps9B9H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJgOwjcH5S",
+                        "choice_V1eHws9rqS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In the following list, select the rewards that seem relevant for ‘grown-ups’.",
+            "explanation": "Select the correct answers.",
+            "klf": "Rewarding people like grown-ups simply means rewarding people the way YOU would like to be rewarded (not your niece). Most of the time, the best rewards tend to be non-physical, like praise and respect.",
+            "tips": "If you lack ideas, some companies offer a catalogue of rewards, though you can also ask for custom ones.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eHws9rqS": "Praise",
+            "choice_4JlPDs9BqB": "Chocolate",
+            "choice_EJgOwjcH5S": "Recognition from management and peers",
+            "choice_41ltwjcrqB": "Flowers",
+            "choice_NylcPicrcS": "A brand new mouse pad"
+        },
+        "fr": {
+            "header": "Dans la liste suivante, veuillez sélectionner les récompenses qui paraissent pertinentes aux « adultes ».",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Récompenser les personnes en adultes signifie simplement récompenser des personnes de la manière dont VOUS souhaiteriez être récompensé (pas votre nièce). La plupart du temps, les meilleures récompenses sont en général immatérielles, comme les félicitations et le respect.",
+            "tips": "Si vous manquez d’imagination, certaines entreprises proposent un catalogue de récompenses, mais vous pouvez aussi en demander un personnalisé.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eHws9rqS": "Les félicitations",
+            "choice_4JlPDs9BqB": "Du chocolat",
+            "choice_EJgOwjcH5S": "Reconnaissance du management et des collègues",
+            "choice_41ltwjcrqB": "Des fleurs",
+            "choice_NylcPicrcS": "Un nouveau tapis de souris"
+        },
+        "de": {
+            "header": "Wählen Sie in der folgenden Liste die Belohnungen aus, die für „Erwachsene“ relevant erscheinen.",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Menschen wie Erwachsene zu belohnen, bedeutet einfach, Menschen so zu belohnen, wie Sie es möchten (nicht Ihre Nichte). Meistens sind die besten Belohnungen eher unphysikalisch, wie Lob und Respekt.",
+            "tips": "Wenn Ihnen Ideen fehlen, bieten einige Unternehmen einen Katalog von Belohnungen an. Sie können jedoch auch kundenspezifische Angebote anfordern.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eHws9rqS": "Loben",
+            "choice_4JlPDs9BqB": "Schokolade",
+            "choice_EJgOwjcH5S": "Anerkennung von Management und Kollegen",
+            "choice_41ltwjcrqB": "Blumen",
+            "choice_NylcPicrcS": "Ein brandneues Mauspad"
+        },
+        "th": {
+            "header": "In the following list, select the rewards that seem relevant for ‘grown-ups’.",
+            "explanation": "Select the correct answers.",
+            "klf": "Rewarding people like grown-ups simply means rewarding people the way YOU would like to be rewarded (not your niece). Most of the time, the best rewards tend to be non-physical, like praise and respect.",
+            "tips": "If you lack ideas, some companies offer a catalogue of rewards, though you can also ask for custom ones.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eHws9rqS": "Praise",
+            "choice_4JlPDs9BqB": "Chocolate",
+            "choice_EJgOwjcH5S": "Recognition from management and peers",
+            "choice_41ltwjcrqB": "Flowers",
+            "choice_NylcPicrcS": "A brand new mouse pad"
+        }
+    }
+}

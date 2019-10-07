@@ -1,0 +1,106 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-15T10:22:38.070Z",
+            "updatedAt": "2018-11-09T12:36:17.219Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkATBUVqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_V1XKFUT5S",
+        "universalRef": "sli_V1XKFUT5S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1XKFUT5S.choice_N19tYLT5H.id",
+                        "label": "choice_N19tYLT5H",
+                        "value": "choice_N19tYLT5H"
+                    },
+                    {
+                        "id": "sli_V1XKFUT5S.choice_4yl5KtUpcB.id",
+                        "label": "choice_4yl5KtUpcB",
+                        "value": "choice_4yl5KtUpcB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yl5KtUpcB"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EyN13-acr",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's the best way for you to engage and persuade him that your idea is relevant and brilliant—in all modesty?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you want to win the game, you have to get to know your opponent. But in this situation, you don't have to crush him but make him choose your side. So think psychologically and adapt your speech to the person you're speaking to.",
+            "tips": "You can rely on nonviolent communication (NVC) to establish a healthy conversation and express your needs and feelings without coming into conflict with your gatekeeper.",
+            "clue": "",
+            "context_title": "Convince your bossy boss!",
+            "context_description": "Eureka! You've just found a great way to reorganise remote working in your team. But the hardest part is yet to come: today, you have to convince your boss that your idea could be beneficial for the whole company—indeed, your employees demand more flexibility and agility. It won't be a pleasure cruise. Your boss is quite… bossy! Icing on the cake: he slipped on a banana peel this morning…",
+            "context_media_description": "",
+            "choice_N19tYLT5H": "You prepare a strongly structured speech: you'll rely on factual arguments and data about remote working, let's play it safe!",
+            "choice_4yl5KtUpcB": "You decide to make it short: you invite him to a 15-minute meeting and detail your employees' concerns and how remote working will be good for their well-being"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure manière de lui parler et de le persuader que votre idée est pertinente et brillante – en toute modestie ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si vous voulez remporter la partie, vous devez connaître votre adversaire. Dans une telle situation, vous ne devez pas le presser, mais l’amener à choisir votre idée. Faites donc preuve de psychologie et adaptez votre discours à la personne à qui vous vous adressez.",
+            "tips": "Vous pouvez recourir à la communication non violente (CNV) pour établir un dialogue serein et exprimer vos besoins et votre ressenti sans entrer en conflit avec votre gardien.",
+            "clue": "",
+            "context_title": "Vous devez convaincre votre grand patron !",
+            "context_description": "Eurêka ! Vous venez juste de trouver une idée géniale pour réorganiser le télétravail de votre équipe. Mais le plus difficile reste à venir : aujourd’hui, vous devez convaincre votre patron que votre idée pourrait s’appliquer à l’ensemble de l’entreprise – en effet, vos collègues exigent plus de flexibilité et de souplesse. Cela ne va pas être une partie de plaisir. Votre patron est plutôt… autoritaire ! Cerise sur le gâteau : il a glissé sur une peau de banane ce matin…",
+            "context_media_description": "",
+            "choice_N19tYLT5H": "Préparez un discours parfaitement structuré : vous vous appuierez sur une argumentation factuelle et sur des données relatives au télétravail ; ne prenez pas de risques !",
+            "choice_4yl5KtUpcB": "Décidez d’être bref : vous le conviez à une réunion de 15 minutes et vous détaillez les préoccupations de vos collaborateurs et en quoi le télétravail contribuera à leur bien-être"
+        },
+        "de": {
+            "header": "Wie können Sie ihn am besten überzeugen, dass Ihre Idee relevant und brillant ist - in aller Bescheidenheit?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wenn Sie das Spiel gewinnen möchten, müssen Sie Ihren Gegner kennenlernen. Aber in dieser Situation müssen Sie ihn nicht zerschmettern, sondern ihn dazu bringen, Ihre Seite zu wählen. Denken Sie also psychologisch nach und passen Sie Ihre Sprache an die Person an, mit der Sie sprechen.",
+            "tips": "Sie können sich auf die gewaltfreie Kommunikation (NVC) verlassen, um ein gesundes Gespräch herzustellen und Ihre Bedürfnisse und Gefühle auszudrücken, ohne mit Ihrem Gatekeeper in Konflikt zu geraten.",
+            "clue": "",
+            "context_title": "Überzeugen Sie Ihren Chef!",
+            "context_description": "Eureka! Sie haben gerade eine großartige Möglichkeit gefunden, Remote-Arbeiten in Ihrem Team neu zu organisieren. Der schwierigste Teil steht jedoch noch aus: Heute müssen Sie Ihren Chef davon überzeugen, dass Ihre Idee für das gesamte Unternehmen von Nutzen sein könnte - tatsächlich verlangen Ihre Mitarbeiter mehr Flexibilität und Beweglichkeit. Es wird keine Vergnügungsreise sein. Ihr Chef ist ziemlich… herrisch! Zuckerguss auf dem Kuchen: Er ist heute Morgen auf eine Bananenschale gerutscht…",
+            "context_media_description": "",
+            "choice_N19tYLT5H": "Sie bereiten eine stark strukturierte Rede vor: Sie verlassen sich auf sachliche Argumente und Daten zum Remote-Arbeiten. Gehen wir auf Nummer sicher!",
+            "choice_4yl5KtUpcB": "Sie beschließen, es kurz zu machen: Sie laden ihn zu einer 15-minütigen Besprechung ein und beschreiben detailliert die Anliegen Ihrer Mitarbeiter und wie gut Remote-Arbeit für ihr Wohlbefinden ist"
+        },
+        "th": {
+            "header": "What's the best way for you to engage and persuade him that your idea is relevant and brilliant—in all modesty?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you want to win the game, you have to get to know your opponent. But in this situation, you don't have to crush him but make him choose your side. So think psychologically and adapt your speech to the person you're speaking to.",
+            "tips": "You can rely on nonviolent communication (NVC) to establish a healthy conversation and express your needs and feelings without coming into conflict with your gatekeeper.",
+            "clue": "",
+            "context_title": "Convince your bossy boss!",
+            "context_description": "Eureka! You've just found a great way to reorganise remote working in your team. But the hardest part is yet to come: today, you have to convince your boss that your idea could be beneficial for the whole company—indeed, your employees demand more flexibility and agility. It won't be a pleasure cruise. Your boss is quite… bossy! Icing on the cake: he slipped on a banana peel this morning…",
+            "context_media_description": "",
+            "choice_N19tYLT5H": "You prepare a strongly structured speech: you'll rely on factual arguments and data about remote working, let's play it safe!",
+            "choice_4yl5KtUpcB": "You decide to make it short: you invite him to a 15-minute meeting and detail your employees' concerns and how remote working will be good for their well-being"
+        }
+    }
+}

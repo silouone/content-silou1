@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-12T15:14:08.572Z",
+            "updatedAt": "2019-06-13T10:12:24.879Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkyyGtiU8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_Eyvrc3gvU",
+        "universalRef": "sli_Eyvrc3gvU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Eyvrc3gvU.choice_E1xTgi3eDL.id",
+                        "label": "choice_E1xTgi3eDL",
+                        "value": "choice_E1xTgi3eDL",
+                        "media": "med_4k6li3lPI"
+                    },
+                    {
+                        "id": "sli_Eyvrc3gvU.choice_4JgJWinlvL.id",
+                        "label": "choice_4JgJWinlvL",
+                        "value": "choice_4JgJWinlvL",
+                        "media": "med_Nyk~i3lwL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1xTgi3eDL"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4J735hxv8",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You can coach one of your collaborators on how to become a coach. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "True! Everyone can be a coach and it’s something we can all learn. And what can be better than a coaching to learn to be a coach?",
+            "tips": "Coaching is slightly different from training: Instead of testing the collaborator on virtual tasks or exercises, coaching takes place on the job, using real work as a starting point.",
+            "clue": "",
+            "context_title": "Who will coach the coach?",
+            "context_description": "Coaching is the most important method managers can use to increase knowledge, skills and experience among their staff. Unfortunately many managers don’t do enough of it and some avoid it all together because they just don’t know how to go about it.",
+            "context_media_description": "",
+            "choice_E1xTgi3eDL": "TRUE",
+            "choice_4JgJWinlvL": "FALSE"
+        },
+        "fr": {
+            "header": "Vous pouvez coacher l'un de vos collaborateurs à devenir un coach. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vrai ! Tout le monde peut être un coach et c’est quelque chose que nous pouvons tous apprendre. Et quoi de mieux qu'un coaching pour apprendre à être coach ?",
+            "tips": "Le coaching est légèrement différent de la formation : au lieu de tester le collaborateur sur des tâches ou des exercices virtuels, le coaching se déroule sur le tas, en utilisant le travail réel comme point de départ.",
+            "clue": "",
+            "context_title": "Qui va coacher le coach ?",
+            "context_description": "Le coaching est la méthode la plus importante que les managers puissent utiliser afin d'accroître les connaissances, les compétences et l'expérience de leurs employés. Malheureusement, beaucoup de managers n’en font pas assez et certains l’évitent entièrement parce qu’ils ne savent tout simplement pas comment s'y prendre.",
+            "context_media_description": "",
+            "choice_E1xTgi3eDL": "VRAI",
+            "choice_4JgJWinlvL": "FAUX"
+        },
+        "de": {
+            "header": "You can coach one of your collaborators on how to become a coach. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "True! Everyone can be a coach and it’s something we can all learn. And what can be better than a coaching to learn to be a coach?",
+            "tips": "Coaching is slightly different from training: Instead of testing the collaborator on virtual tasks or exercises, coaching takes place on the job, using real work as a starting point.",
+            "clue": "",
+            "context_title": "Who will coach the coach?",
+            "context_description": "Coaching is the most important method managers can use to increase knowledge, skills and experience among their staff. Unfortunately many managers don’t do enough of it and some avoid it all together because they just don’t know how to go about it.",
+            "context_media_description": "",
+            "choice_E1xTgi3eDL": "True",
+            "choice_4JgJWinlvL": "False"
+        },
+        "th": {
+            "header": "You can coach one of your collaborators on how to become a coach. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "True! Everyone can be a coach and it’s something we can all learn. And what can be better than a coaching to learn to be a coach?",
+            "tips": "Coaching is slightly different from training: Instead of testing the collaborator on virtual tasks or exercises, coaching takes place on the job, using real work as a starting point.",
+            "clue": "",
+            "context_title": "Who will coach the coach?",
+            "context_description": "Coaching is the most important method managers can use to increase knowledge, skills and experience among their staff. Unfortunately many managers don’t do enough of it and some avoid it all together because they just don’t know how to go about it.",
+            "context_media_description": "",
+            "choice_E1xTgi3eDL": "TRUE",
+            "choice_4JgJWinlvL": "FALSE"
+        }
+    }
+}

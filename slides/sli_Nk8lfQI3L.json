@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-16T09:56:38.260Z",
+            "updatedAt": "2019-05-23T08:40:24.734Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey6m4E9iU"
+            ],
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_Nk8lfQI3L",
+        "universalRef": "sli_Nk8lfQI3L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel46086",
+                        "items": [
+                            {
+                                "text": "choice_NkgxWfXIhI",
+                                "value": "choice_NkgxWfXIhI"
+                            },
+                            {
+                                "text": "choice_Ek~lbGm8hU",
+                                "value": "choice_Ek~lbGm8hU"
+                            },
+                            {
+                                "text": "choice_NJezzXL2U",
+                                "value": "choice_NJezzXL2U"
+                            },
+                            {
+                                "text": "choice_41UGfXUnI",
+                                "value": "choice_41UGfXUnI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel46086",
+                        "answers": [
+                            "choice_Ek~lbGm8hU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What does FOMO mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "FOMO, or the fear of missing out, is linked to the social media and the always growing opportunities it offers. Confronted to these endless choices, the millennials, mostly, are suffering from FOMO: it leads to apprehension, stress and anxiety.",
+            "tips": "Too many choices can also affect your happiness. The American psychologist Barry Schwartz calls this ‘Choice Overload’: ‘As the number of options increases, the costs, in time and effort, of gathering the information needed to make a good choice also increase. The level of certainty people have about their choice decreases. And the anticipation that they will regret their choice increases.’ With this comes anxiety and a reduction in happiness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46086}}",
+            "choice_NkgxWfXIhI": "Friends of Maureen O’Hara",
+            "choice_Ek~lbGm8hU": "Fear of Missing Out",
+            "choice_NJezzXL2U": "Fleet Operations and Maintenance Officer",
+            "choice_41UGfXUnI": "Fellowship of Martians Observers"
+        },
+        "fr": {
+            "header": "Que signifie « FOMO » ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "« FOMO », ou la peur de passer à côté de quelque chose (en anglais, « fear of missing out »), est liée aux réseaux sociaux et aux opportunités toujours croissantes qu’ils offrent. Face à ces choix sans fin, les Millennials souffrent le plus souvent de « FOMO » : cela crée de l’appréhension, du stress et de l’anxiété.",
+            "tips": "Trop de choix peuvent également affecter votre bonheur. Le psychologue américain Barry Schwartz appelle cela la « surcharge de choix » : « À mesure que le nombre d’options augmente, le coût, en temps et en efforts, essentiel à la collecte des informations nécessaires pour faire un bon choix augmente également. Le degré de certitude que les gens ont sur leur choix diminue. L'anticipation qu'ils regretteront leur choix s’accroît. » Il en découle de l'anxiété et un bonheur moindre.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46086}}",
+            "choice_NkgxWfXIhI": "Friends of Maureen O’Hara (en français, « Amis de Maureen O'Hara »)",
+            "choice_Ek~lbGm8hU": "Fear of Missing Out (en français, « peur de passer à côté de quelque chose »)",
+            "choice_NJezzXL2U": "Fleet Operations and Maintenance Officer (en français, « Officier de maintenance et des opérations de la flotte »)",
+            "choice_41UGfXUnI": "Fellowship of Martians Observers (en français, « Association des observateurs de martiens »)"
+        },
+        "de": {
+            "header": "What does FOMO mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "FOMO, or the fear of missing out, is linked to the social media and the always growing opportunities it offers. Confronted to these endless choices, the millennials, mostly, are suffering from FOMO: it leads to apprehension, stress and anxiety.",
+            "tips": "Too many choices can also affect your happiness. The American psychologist Barry Schwartz calls this ‘Choice Overload’: ‘As the number of options increases, the costs, in time and effort, of gathering the information needed to make a good choice also increase. The level of certainty people have about their choice decreases. And the anticipation that they will regret their choice increases.’ With this comes anxiety and a reduction in happiness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46086}}",
+            "choice_NkgxWfXIhI": "Friends of Maureen O’Hara",
+            "choice_Ek~lbGm8hU": "Fear of Missing Out",
+            "choice_NJezzXL2U": "Fleet Operations and Maintenance Officer",
+            "choice_41UGfXUnI": "Fellowship of Martians Observers"
+        },
+        "th": {
+            "header": "What does FOMO mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "FOMO, or the fear of missing out, is linked to the social media and the always growing opportunities it offers. Confronted to these endless choices, the millennials, mostly, are suffering from FOMO: it leads to apprehension, stress and anxiety.",
+            "tips": "Too many choices can also affect your happiness. The American psychologist Barry Schwartz calls this ‘Choice Overload’: ‘As the number of options increases, the costs, in time and effort, of gathering the information needed to make a good choice also increase. The level of certainty people have about their choice decreases. And the anticipation that they will regret their choice increases.’ With this comes anxiety and a reduction in happiness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46086}}",
+            "choice_NkgxWfXIhI": "Friends of Maureen O’Hara",
+            "choice_Ek~lbGm8hU": "Fear of Missing Out",
+            "choice_NJezzXL2U": "Fleet Operations and Maintenance Officer",
+            "choice_41UGfXUnI": "Fellowship of Martians Observers"
+        }
+    }
+}

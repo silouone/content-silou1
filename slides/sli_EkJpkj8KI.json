@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T09:10:43.085Z",
+            "updatedAt": "2019-04-10T09:10:43.085Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJCo5s6-I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_EkJpkj8KI",
+        "universalRef": "sli_EkJpkj8KI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkJpkj8KI.choice_E1pQxi8t8.id",
+                        "label": "choice_E1pQxi8t8",
+                        "value": "choice_E1pQxi8t8"
+                    },
+                    {
+                        "id": "sli_EkJpkj8KI.choice_EJF4gjIt8.id",
+                        "label": "choice_EJF4gjIt8",
+                        "value": "choice_EJF4gjIt8"
+                    },
+                    {
+                        "id": "sli_EkJpkj8KI.choice_E1EHeoLt8.id",
+                        "label": "choice_E1EHeoLt8",
+                        "value": "choice_E1EHeoLt8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1pQxi8t8",
+                        "choice_EJF4gjIt8",
+                        "choice_E1EHeoLt8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is it important to delegate work from time to time?",
+            "explanation": "Select the correct answers.",
+            "klf": "Delegating your work will instil a sense of trust in your colleagues, prevents isolation through over work and reduces stress levels.",
+            "tips": "When delegating work, try to give the person a whole task to do whenever possible.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1pQxi8t8": "It reduces your stress levels",
+            "choice_EJF4gjIt8": "Shows a sense of trust in your colleagues",
+            "choice_E1EHeoLt8": "Prevents you from isolating yourself through overwork"
+        },
+        "fr": {
+            "header": "Pourquoi est-il important de déléguer du travail de temps en temps ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Déléguer votre travail va instaurer un sentiment de confiance chez vos collègues, vous évitera l'isolement dû au surmenage et réduira votre niveau de stress.",
+            "tips": "Lorsque vous déléguez du travail, essayez, dans la mesure du possible, de donner à l'autre une tâche entière à accomplir.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1pQxi8t8": "Cela réduit votre niveau de stress",
+            "choice_EJF4gjIt8": "Cela prouve votre confiance en vos collègues",
+            "choice_E1EHeoLt8": "Cela vous évitera de vous isoler du fait du surmenage"
+        },
+        "de": {
+            "header": "Why is it important to delegate work from time to time?",
+            "explanation": "Select the correct answers.",
+            "klf": "Delegating your work will instil a sense of trust in your colleagues, prevents isolation through over work and reduces stress levels.",
+            "tips": "When delegating work, try to give the person a whole task to do whenever possible.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1pQxi8t8": "It reduces your stress levels",
+            "choice_EJF4gjIt8": "Shows a sense of trust in your colleagues",
+            "choice_E1EHeoLt8": "Prevents you from isolating yourself through overwork"
+        },
+        "th": {
+            "header": "Why is it important to delegate work from time to time?",
+            "explanation": "Select the correct answers.",
+            "klf": "Delegating your work will instil a sense of trust in your colleagues, prevents isolation through over work and reduces stress levels.",
+            "tips": "When delegating work, try to give the person a whole task to do whenever possible.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1pQxi8t8": "It reduces your stress levels",
+            "choice_EJF4gjIt8": "Shows a sense of trust in your colleagues",
+            "choice_E1EHeoLt8": "Prevents you from isolating yourself through overwork"
+        }
+    }
+}

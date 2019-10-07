@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-12T09:22:57.669Z",
+            "updatedAt": "2019-02-15T15:25:40.387Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1M0hvcNU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EykSkKjNL",
+        "universalRef": "sli_EykSkKjNL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EykSkKjNL.choice_EJYLyKoEU.id",
+                        "label": "choice_EJYLyKoEU",
+                        "value": "choice_EJYLyKoEU"
+                    },
+                    {
+                        "id": "sli_EykSkKjNL.choice_EyT8JFs4U.id",
+                        "label": "choice_EyT8JFs4U",
+                        "value": "choice_EyT8JFs4U"
+                    },
+                    {
+                        "id": "sli_EykSkKjNL.choice_VkOPyYjNL.id",
+                        "label": "choice_VkOPyYjNL",
+                        "value": "choice_VkOPyYjNL"
+                    },
+                    {
+                        "id": "sli_EykSkKjNL.choice_N19uktoEU.id",
+                        "label": "choice_N19uktoEU",
+                        "value": "choice_N19uktoEU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyT8JFs4U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way of dealing with people who make demands on your time when you’re too busy to help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Make sure you get your tasks done first and then offer to help.",
+            "tips": "Don't hesitate to create a system to let your colleagues know when you're potentially available or when you're not: this way, it will deter them from interrupting you for matters that are not really urgent. It can be a tag on your desk, a status on your instant messenger… find what works best for you, and if you use it wisely, you'll be surprised to see that people respect it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJYLyKoEU": "Tell them it’s not your responsibility to help when you’ve got your own work to do",
+            "choice_EyT8JFs4U": "Offer to help once you’ve completed your tasks",
+            "choice_VkOPyYjNL": "Tell them you're too busy to help",
+            "choice_N19uktoEU": "It’s better to get it out of the way; help them first and then focus on your own tasks"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure manière de traiter avec les personnes qui vous demandent de leur accorder du temps quand vous êtes trop occupé pour aider ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Assurez-vous d’effectuer vos tâches d’abord, puis proposez votre aide.",
+            "tips": "N'hésitez pas à créer un système permettant à vos collègues de savoir quand vous êtes potentiellement disponible ou non. Ainsi, cela les dissuadera de vous interrompre pour des questions qui ne sont pas vraiment urgentes. Cela peut être une étiquette sur votre bureau, un statut sur votre messagerie instantanée… trouvez ce qui vous convient le mieux et si vous l'utilisez à bon escient, vous serez surpris de voir que les gens le respectent.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJYLyKoEU": "Dites-leur que ce n’est pas de votre responsabilité d’aider lorsque vous avez votre propre travail à faire.",
+            "choice_EyT8JFs4U": "Offrez votre aide une fois vos tâches terminées",
+            "choice_VkOPyYjNL": "Dites-leur que vous êtes trop occupé pour aider",
+            "choice_N19uktoEU": "Il vaut mieux s'en débarrasser : aidez-les d'abord et concentrez-vous sur vos propres tâches ensuite"
+        },
+        "de": {
+            "header": "Wie gehen Sie am besten mit Menschen um, die Zeit beanspruchen, wenn Sie zu beschäftigt sind, um zu helfen?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Stellen Sie sicher, dass Sie Ihre Aufgaben zuerst erledigen und dann Hilfe anbieten.",
+            "tips": "Zögern Sie nicht, ein System einzurichten, das Ihren Kollegen mitteilt, wann Sie potenziell verfügbar sind oder nicht: Auf diese Weise werden Sie davon abgehalten, Sie für Angelegenheiten zu unterbrechen, die nicht wirklich dringend sind. Es kann sich um einen Post-it auf Ihrem Schreibtisch handeln, um einen Status auf Ihrem Instant Messenger. Finden Sie heraus, was für Sie am besten geeignet ist. Wenn Sie es sinnvoll einsetzen, werden Sie überrascht sein, dass die Leute es respektieren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJYLyKoEU": " Sagen Sie ihnen, dass Sie nicht dafür verantwortlich sind, zu helfen, wenn Sie Ihre eigene Arbeit erledigen müssen",
+            "choice_EyT8JFs4U": "Bieten Sie Hilfe an, sobald Sie Ihre Aufgaben erledigt haben",
+            "choice_VkOPyYjNL": "Sagen Sie ihnen, dass Sie zu beschäftigt sind, um zu helfen",
+            "choice_N19uktoEU": "Es ist besser, es aus dem Weg zu räumen; Hilf ihnen zuerst und konzentriere dich dann auf deine eigenen Aufgaben"
+        },
+        "th": {
+            "header": "What’s the best way of dealing with people who make demands on your time when you’re too busy to help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Make sure you get your tasks done first and then offer to help.",
+            "tips": "Don't hesitate to create a system to let your colleagues know when you're potentially available or when you're not: this way, it will deter them from interrupting you for matters that are not really urgent. It can be a tag on your desk, a status on your instant messenger… find what works best for you, and if you use it wisely, you'll be surprised to see that people respect it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJYLyKoEU": "Tell them it’s not your responsibility to help when you’ve got your own work to do",
+            "choice_EyT8JFs4U": "Offer to help once you’ve completed your tasks",
+            "choice_VkOPyYjNL": "Tell them you're too busy to help",
+            "choice_N19uktoEU": "It’s better to get it out of the way; help them first and then focus on your own tasks"
+        }
+    }
+}

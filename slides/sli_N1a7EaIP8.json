@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T05:04:10.441Z",
+            "updatedAt": "2019-03-17T05:04:10.441Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41DnQEyvL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_N1a7EaIP8",
+        "universalRef": "sli_N1a7EaIP8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1a7EaIP8.choice_NJUr4p8P8.id",
+                        "label": "choice_NJUr4p8P8",
+                        "value": "choice_NJUr4p8P8"
+                    },
+                    {
+                        "id": "sli_N1a7EaIP8.choice_VJwrVaLv8.id",
+                        "label": "choice_VJwrVaLv8",
+                        "value": "choice_VJwrVaLv8"
+                    },
+                    {
+                        "id": "sli_N1a7EaIP8.choice_NyuSNaUDI.id",
+                        "label": "choice_NyuSNaUDI",
+                        "value": "choice_NyuSNaUDI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJwrVaLv8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "At the end of the performance review, which of the following should you agree upon with the employee?",
+            "explanation": "Select the correct answer.",
+            "klf": "At the end of the review, it’s a good idea to schedule an update meeting.",
+            "tips": "A majority of performance management systems are said to misidentify high performers… don’t let that be your case!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJUr4p8P8": "Disciplinary procedures for gaps in performance",
+            "choice_VJwrVaLv8": "A schedule for update meetings",
+            "choice_NyuSNaUDI": "Scheduled holidays that could interrupt work"
+        },
+        "fr": {
+            "header": "À la fin de l'évaluation de performance, sur lequel des sujets suivants devriez-vous vous mettre d'accord avec l'employé ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "À la fin de l’examen, c'est une bonne idée de planifier un rendez-vous de mise à jour.",
+            "tips": "On dit que la majorité des systèmes de gestion de la performance identifient de manière erronée les personnes les plus performantes… n'en faites pas votre cas !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJUr4p8P8": "Des procédures disciplinaires pour les écarts de performance",
+            "choice_VJwrVaLv8": "Un calendrier pour les rendez-vous de mise à jour",
+            "choice_NyuSNaUDI": "Des vacances planifiées pouvant interrompre le travail"
+        },
+        "de": {
+            "header": "At the end of the performance review, which of the following should you agree upon with the employee?",
+            "explanation": "Select the correct answer.",
+            "klf": "At the end of the review, it’s a good idea to schedule an update meeting.",
+            "tips": "A majority of performance management systems are said to misidentify high performers… don’t let that be your case!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJUr4p8P8": "Disciplinary procedures for gaps in performance",
+            "choice_VJwrVaLv8": "A schedule for update meetings",
+            "choice_NyuSNaUDI": "Scheduled holidays that could interrupt work"
+        },
+        "th": {
+            "header": "At the end of the performance review, which of the following should you agree upon with the employee?",
+            "explanation": "Select the correct answer.",
+            "klf": "At the end of the review, it’s a good idea to schedule an update meeting.",
+            "tips": "A majority of performance management systems are said to misidentify high performers… don’t let that be your case!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJUr4p8P8": "Disciplinary procedures for gaps in performance",
+            "choice_VJwrVaLv8": "A schedule for update meetings",
+            "choice_NyuSNaUDI": "Scheduled holidays that could interrupt work"
+        }
+    }
+}

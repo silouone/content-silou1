@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-13T10:18:59.004Z",
+            "updatedAt": "2019-03-20T10:08:52.689Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1QXhs-J8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_41VRgQs1U",
+        "universalRef": "sli_41VRgQs1U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41VRgQs1U.choice_NJHfZmsyL.id",
+                        "label": "choice_NJHfZmsyL",
+                        "value": "choice_NJHfZmsyL"
+                    },
+                    {
+                        "id": "sli_41VRgQs1U.choice_NkUzWXsyL.id",
+                        "label": "choice_NkUzWXsyL",
+                        "value": "choice_NkUzWXsyL"
+                    },
+                    {
+                        "id": "sli_41VRgQs1U.choice_VyPM~7okL.id",
+                        "label": "choice_VyPM~7okL",
+                        "value": "choice_VyPM~7okL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJHfZmsyL",
+                        "choice_NkUzWXsyL",
+                        "choice_VyPM~7okL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way of informing other employees about bad news?",
+            "explanation": "Select the correct answers.",
+            "klf": "All of these options are the best ways to go about sharing bad news with other employees. Think about how you let other people know the news. Ask them how the news should be broken and where, when and to whom.",
+            "tips": "Even if it's hard to announce bad news, don't wait for too long to deliver it to the whole team. It could be misunderstood by your people.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJHfZmsyL": "First, decide if it’s necessary for them to know",
+            "choice_NkUzWXsyL": "If other employees do need to know – do it quickly",
+            "choice_VyPM~7okL": "Ask the employee concerned how they’d like this to happen"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen d’annoncer une mauvaise nouvelle à tous les autres employés ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Toutes ces options sont d’excellents moyens pour partager une mauvaise nouvelle avec les autres employés. Réfléchissez à la manière d’annoncer la nouvelle aux autres employés. Demandez-leur comment cette nouvelle doit être partagée, où, quand et avec qui ?",
+            "tips": "Même s’il est difficile de partager une mauvaise nouvelle, n’attendez pas trop pour l’annoncer à l’ensemble de l’équipe. Cela pourrait être source de malentendus pour vos collaborateurs.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJHfZmsyL": "Tout d’abord, décidez s’il est nécessaire de les informer",
+            "choice_NkUzWXsyL": "Si d’autres employés ont besoin de le savoir – faites-le rapidement",
+            "choice_VyPM~7okL": "Demandez à l’employé concerné comment il souhaiterait que cela se fasse"
+        },
+        "de": {
+            "header": "Wie kann ich andere Mitarbeiter am besten über schlechte Nachrichten informieren?",
+            "explanation": "Wählen Sie die richtige Antwort (en) aus. Sie können mehrere Optionen auswählen.",
+            "klf": "Alle diese Optionen sind der beste Weg, schlechte Nachrichten mit anderen Mitarbeitern zu teilen. Denken Sie darüber nach, wie Sie andere Menschen über die Neuigkeiten informieren. Fragen Sie sie, wie die Nachrichten überbracht werden sollen und wo, wann und an wen.",
+            "tips": "Selbst wenn es schwierig ist, schlechte Nachrichten zu verkünden, warten Sie nicht zu lange, um sie dem gesamten Team zu überbringen. Es könnte von Ihrem Leuten missverstanden werden.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJHfZmsyL": "Entscheiden Sie zuerst, ob es notwendig ist, dass sie es wissen",
+            "choice_NkUzWXsyL": "Wenn andere Mitarbeiter es wissen müssen - machen Sie es schnell",
+            "choice_VyPM~7okL": "Fragen Sie den betroffenen Mitarbeiter, wie es Ihnen gefällt"
+        },
+        "th": {
+            "header": "วิธีใดเป็นวิธีที่ดีที่สุดในการแจ้งให้พนักงานคนอื่นๆ ทราบถึงข่าวร้าย",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "ตัวเลือกทั้งหมดนี้เป็นวิธีทีดีที่สุดในการแบ่งปันข่าวร้ายให้พนักงานคนอื่นๆ ทราบ คิดถึงวิธีที่คุณจะให้คนอื่นๆ ทราบข่าว สอบถามว่าควรจะแจ้งข่าวออกไปอย่างไร รวมถึงที่ไหน เมื่อไร และให้ใครทราบ",
+            "tips": "แม้ว่าการประกาศข่าวร้ายจะเป็นเรื่องยาก อย่ารอนานเกินไปที่จะแจ้งข่าวให้ทั้งทีมทราบ พนักงานของคุณอาจเข้าใจผิดได้",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJHfZmsyL": "อย่างแรก ต้องตัดสินใจก่อนว่าคนเหล่านี้จำเป็นต้องรับรู้ไหม",
+            "choice_NkUzWXsyL": "ถ้าหากพนักงานคนอื่นๆ จำเป็นต้องทราบ ให้ดำเนินการอย่างรวดเร็ว",
+            "choice_VyPM~7okL": "ถามพนักงานที่เกี่ยวข้องดังกล่าวว่าต้องการให้ทำอย่างไร"
+        }
+    }
+}

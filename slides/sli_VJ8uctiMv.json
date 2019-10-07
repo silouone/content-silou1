@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:58:16.703Z",
+            "updatedAt": "2019-08-01T07:58:16.703Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny3opawGP"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VJ8uctiMv",
+        "universalRef": "sli_VJ8uctiMv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel48831",
+                        "items": [
+                            {
+                                "text": "choice_41x2Y9KjMv",
+                                "value": "choice_41x2Y9KjMv"
+                            },
+                            {
+                                "text": "choice_4y~3KctsGw",
+                                "value": "choice_4y~3KctsGw"
+                            },
+                            {
+                                "text": "choice_NkQqqYsGv",
+                                "value": "choice_NkQqqYsGv"
+                            },
+                            {
+                                "text": "choice_Ek-5cYiGw",
+                                "value": "choice_Ek-5cYiGw"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel48831",
+                        "answers": [
+                            "choice_NkQqqYsGv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As an interviewer, what types of questions should you try to ask the candidate to see how they can handle difficult situations?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When interviewing candidates, make sur you ask awkward questions to see how they can handle difficult situations.",
+            "tips": "You can ask the candidate how long they plan on staying in the company, for example, or if they can explain employment history gaps, or why they are looking for another job. Anything that will actually help you determine whether the candidate has the right personal qualities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should ask {{sel48831}} questions.",
+            "choice_41x2Y9KjMv": "basic",
+            "choice_4y~3KctsGw": "impossible",
+            "choice_NkQqqYsGv": "awkward",
+            "choice_Ek-5cYiGw": "complicated"
+        },
+        "fr": {
+            "header": "En tant que recruteur, quels types de questions devriez-vous essayer de poser au candidat pour observer sa façon de gérer des situations difficiles ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsque vous interviewez des candidats, assurez-vous de leur poser des questions délicates pour voir comment ils savent gérer des situations difficiles.",
+            "tips": "Vous pouvez demander au candidat combien de temps il compte rester dans l'entreprise, par exemple, ou s'il peut expliquer les lacunes dans ses antécédents professionnels ou pourquoi il cherche un autre emploi. Tout ce qui peut réellement vous aider à déterminer si le candidat possède de bonnes qualités personnelles.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous devriez poser des questions {{sel48831}}.",
+            "choice_41x2Y9KjMv": "basiques",
+            "choice_4y~3KctsGw": "impossibles",
+            "choice_NkQqqYsGv": "délicates",
+            "choice_Ek-5cYiGw": "compliquées"
+        },
+        "de": {
+            "header": "As an interviewer, what types of questions should you try to ask the candidate to see how they can handle difficult situations?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When interviewing candidates, make sur you ask awkward questions to see how they can handle difficult situations.",
+            "tips": "You can ask the candidate how long they plan on staying in the company, for example, or if they can explain employment history gaps, or why they are looking for another job. Anything that will actually help you determine whether the candidate has the right personal qualities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should ask {{sel48831}} questions.",
+            "choice_41x2Y9KjMv": "basic",
+            "choice_4y~3KctsGw": "impossible",
+            "choice_NkQqqYsGv": "awkward",
+            "choice_Ek-5cYiGw": "complicated"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel48831}}",
+            "choice_41x2Y9KjMv": "",
+            "choice_4y~3KctsGw": "",
+            "choice_NkQqqYsGv": "",
+            "choice_Ek-5cYiGw": ""
+        }
+    }
+}

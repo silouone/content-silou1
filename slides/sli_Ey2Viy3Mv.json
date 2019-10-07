@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T14:58:13.269Z",
+            "updatedAt": "2019-08-08T16:29:31.347Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4Jygxo9MD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Ey2Viy3Mv",
+        "universalRef": "sli_Ey2Viy3Mv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ey2Viy3Mv.choice_41HFhknGP.id",
+                        "label": "choice_41HFhknGP",
+                        "value": "choice_41HFhknGP"
+                    },
+                    {
+                        "id": "sli_Ey2Viy3Mv.choice_414o2knGD.id",
+                        "label": "choice_414o2knGD",
+                        "value": "choice_414o2knGD"
+                    },
+                    {
+                        "id": "sli_Ey2Viy3Mv.choice_EJyp2y2MD.id",
+                        "label": "choice_EJyp2y2MD",
+                        "value": "choice_EJyp2y2MD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJyp2y2MD"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NynakgnfP",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you deal with Mr Picky?",
+            "explanation": "Select the correct answer.",
+            "klf": "Good open questions will help at the beginning, followed by leading questions to help decide on a course of action.",
+            "tips": "Make sure you use a clear, visual langage to which the client can clearly relate. Avoid a too technical jargon.",
+            "clue": "",
+            "context_title": "Bedtime stories",
+            "context_description": "You are a sales assistant in a bedroom furniture shop. A client comes in to buy a pillow, but he is not sure which one yet. <br/>He begins, ‘I have made a spreadsheet allowing me to enter all the features I want for my pillow, so I'm getting closer and closer... but I can't make a decision between a soft and memory-foam pillow, a memory-foam and anti-allergy pillow or a soft and micro-ventilated pillow. Let me show you how I've designed my spreadsheet.’",
+            "context_media_description": "",
+            "choice_41HFhknGP": "‘Listen, Sir, we won't spend all day talking about a pillow. Anyway, you'll be sleeping every time you use it, so no big deal.’",
+            "choice_414o2knGD": "‘Are you sure these are the options you want in your shortlist? Because we have many other different types of pillows!’",
+            "choice_EJyp2y2MD": "‘Starting from your shortlist, let's see what features are the most important for you and why, and let's select 2 options. You'll then try both of them and choose your favourite.’"
+        },
+        "fr": {
+            "header": "Comment faites vous face à M. Pointilleux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Utiliser des questions ouvertes pertinentes vous servira au début, suivies de questions orientées pour vous aider à décider d'un plan d’action.",
+            "tips": "Veillez à utiliser un langage visuel clair auquel le client puisse s'identifier. Évitez un jargon trop technique.",
+            "clue": "",
+            "context_title": "Des histoires pour s'endormir",
+            "context_description": "Vous êtes assistante commerciale dans un magasin de literie. Un client vient acheter un oreiller, mais il ne sait pas encore lequel.<br/>Il commence par vous dire : « J'ai créé un tableur me permettant d'entrer toutes les caractéristiques que je veux pour mon oreiller, alors je suis presque prêt à faire mon choix… mais je ne peux me décider entre un oreiller doux en mousse à mémoire de forme, un oreiller en mousse hypoallergénique à mémoire de forme ou un oreiller doux et micro-ventilé. Laissez-moi vous montrer comment j'ai conçu mon tableur. »",
+            "context_media_description": "",
+            "choice_41HFhknGP": "« Écoutez, Monsieur, nous ne passerons pas toute la journée à parler d’un oreiller. De toute façon, vous dormirez chaque fois que vous l’utiliserez, alors ce n’est pas très important. »",
+            "choice_414o2knGD": "« Etes-vous sûr que ce sont les options que vous voulez faire figurer dans votre liste ? Parce que nous avons beaucoup d’autres types d’oreillers ! »",
+            "choice_EJyp2y2MD": "« À partir de votre liste concise, voyons quelles fonctionnalités sont les plus importantes selon vous et pourquoi, et sélectionnons deux options. Vous essayerez ensuite les deux et choisirez votre préférée. »"
+        },
+        "de": {
+            "header": "How do you deal with Mr Picky?",
+            "explanation": "Select the correct answer.",
+            "klf": "Good open questions will help at the beginning, followed by leading questions to help decide on a course of action.",
+            "tips": "Make sure you use a clear, visual langage to which the client can clearly relate. Avoid a too technical jargon.",
+            "clue": "",
+            "context_title": "Bedtime stories",
+            "context_description": "You are a sales assistant in a bedroom furniture shop. A client comes in to buy a pillow, but he is not sure which one yet. \nHe begins, ‘I have made a spreadsheet allowing me to enter all the features I want for my pillow, so I'm getting closer and closer... but I can't make a decision between a soft and memory-foam pillow, a memory-foam and anti-allergy pillow or a soft and micro-ventilated pillow. Let me show you how I've designed my spreadsheet.’",
+            "context_media_description": "",
+            "choice_41HFhknGP": "‘Listen, Sir, we won't spend all day talking about a pillow. Anyway, you'll be sleeping every time you use it, so no big deal.’",
+            "choice_414o2knGD": "‘Are you sure these are the options you want in your shortlist? Because we have many other different types of pillows!’",
+            "choice_EJyp2y2MD": "‘Starting from your shortlist, let's see what features are the most important for you and why, and let's select 2 options. You'll then try both of them and choose your favourite.’"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41HFhknGP": "",
+            "choice_414o2knGD": "",
+            "choice_EJyp2y2MD": ""
+        }
+    }
+}

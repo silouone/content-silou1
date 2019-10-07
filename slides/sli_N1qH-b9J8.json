@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-12T14:20:42.781Z",
+            "updatedAt": "2019-01-21T14:21:42.898Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyH72ouJ8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_N1qH-b9J8",
+        "universalRef": "sli_N1qH-b9J8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1qH-b9J8.choice_EJwIOWqyI.id",
+                        "label": "choice_EJwIOWqyI",
+                        "value": "choice_EJwIOWqyI"
+                    },
+                    {
+                        "id": "sli_N1qH-b9J8.choice_N1lwIdWqy8.id",
+                        "label": "choice_N1lwIdWqy8",
+                        "value": "choice_N1lwIdWqy8"
+                    },
+                    {
+                        "id": "sli_N1qH-b9J8.choice_NJNAXz91L.id",
+                        "label": "choice_NJNAXz91L",
+                        "value": "choice_NJNAXz91L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJwIOWqyI"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_41LyBGqyI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you react?",
+            "explanation": "Select the correct answer.",
+            "klf": "When employees get aggressive and argue with the decision, think how you can stand your ground. Re-state your decision and stay cool, neutral and dispassionate. That means avoiding to come up with other reasons on the spur of the moment. Even if the person in front of you is driving you crazy…",
+            "tips": "Always stick to the facts. But if you feel there's an underlying issue or unsaid things, look deeper into it to understand what's wrong with your employee.",
+            "clue": "",
+            "context_title": "The grumpy employee",
+            "context_description": "You had to come to a drastic decision: you will not give the Christmas bonus to Gary. He's been showing lack of willing these last past months –not to mention his perpetual grumpiness. As you have a very tight budget, you want to reward the most reliable members of your team. You decide to be transparent and explain to him the reason behind your choice. Of course, Gary is not very happy with it, to say the least! He begins to argue with your decision…",
+            "context_media_description": "",
+            "choice_EJwIOWqyI": "Gary, I have a very tight budget. I decided to reward the people who are the most committed to their job and to the team.",
+            "choice_N1lwIdWqy8": "Gary, frankly, how could I give you the Christmas bonus? Do you want to talk about your bad temper?",
+            "choice_NJNAXz91L": "Gary, I've made my decision, I'm not going back on it."
+        },
+        "fr": {
+            "header": "Comment réagir ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque des employés deviennent agressifs et contestent votre décision, réfléchissez à la manière de défendre votre position. Réaffirmez votre décision et restez calme, neutre et impartial. Cela suppose de n’aborder aucun autre sujet sur un coup de tête. Même si la personne devant vous est en train de vous rendre fou…",
+            "tips": "Toujours s’en tenir aux faits. Mais si vous soupçonnez l’existence d’une problématique sous-jacente ou de non-dits, creusez la question pour comprendre ce qui ne va pas chez votre employé.",
+            "clue": "",
+            "context_title": "Le collaborateur grincheux",
+            "context_description": "Vous devez prendre une décision drastique : vous n’accorderez pas la prime de Noël à Gaëtan. Il a brillé par son manque de volonté ces derniers mois – sans parler de sa mauvaise humeur permanente. Puisque votre budget est serré, vous tenez à récompenser les collaborateurs les plus consciencieux. Vous décidez d’être honnête avec lui et lui expliquez les raisons de votre décision. Bien entendu, Gaëtan n’est pas très content, c’est le moins que l’on puisse dire ! Il commence à contester votre décision…",
+            "context_media_description": "",
+            "choice_EJwIOWqyI": "Gaëtan, je ne dispose que d’un budget très serré. J’ai décidé de récompenser les personnes les plus investies dans leur travail et au sein de l’équipe.",
+            "choice_N1lwIdWqy8": "Franchement Gaëtan, comment pourrais-je vous accorder la prime de Noël ? Souhaitez-vous parler de votre mauvaise humeur ?",
+            "choice_NJNAXz91L": "Gaëtan, j’ai pris ma décision et je n’y reviendrai pas."
+        },
+        "de": {
+            "header": "Wie solltest du reagieren?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wenn Mitarbeiter aggressiv werden und die Entscheidung anfechten, sollten Sie sich überlegen, wie Sie sich behaupten können. Stellen Sie Ihre Entscheidung erneut fest und bleiben Sie kühl, neutral und leidenschaftslos. Das heißt, dass Sie vermeiden müssen, spontan andere Gründe zu nennen. Auch wenn die Person vor Ihnen Sie verrückt macht…",
+            "tips": "Halten Sie sich immer an die Fakten. Wenn Sie jedoch das Gefühl haben, dass ein zugrundelegendes Problem oder ungesagte Dinge vorliegen, sollten Sie sich eingehender damit befassen, um zu verstehen, was mit Ihrem Mitarbeiter nicht in Ordnung ist.",
+            "clue": "",
+            "context_title": "Der mürrische Angestellte",
+            "context_description": "Sie mussten eine drastische Entscheidung treffen: Sie geben den Weihnachtsbonus nicht an Gary. Er hat in den letzten Monaten einen Mangel an Willen gezeigt - nicht zu vergessen, dass er ständig mürrisch ist. Da Sie über ein sehr knappes Budget verfügen, möchten Sie die zuverlässigsten Mitglieder Ihres Teams belohnen. Sie entscheiden sich transparent zu sein und erklären ihm den Grund für Ihre Entscheidung. Natürlich ist Gary damit nicht sehr glücklich, um es gelinde auszudrücken! Er beginnt Ihre Entscheidung anzufechten…",
+            "context_media_description": "",
+            "choice_EJwIOWqyI": "Gary, ich habe ein sehr knappes Budget. Ich entschied mich dafür, die Leute zu belohnen, die sich am meisten für ihre Arbeit und das Team einsetzen.",
+            "choice_N1lwIdWqy8": "Gary, ehrlich gesagt, wie könnte ich Ihnen den Weihnachtsbonus geben? Möchten Sie über Ihre schlechte Laune sprechen?",
+            "choice_NJNAXz91L": "Gary, ich habe meine Entscheidung getroffen, ich gehe nicht weiter darauf ein."
+        },
+        "th": {
+            "header": "คุณควรจะตอบโต้อย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "เมื่อพนักงานเริ่มก้าวร้าวและโต้เถียงการตัดสินใจ ให้พิจารณาว่าคุณจะยืนยันความคิดของคุณอย่างไรดี ให้กล่าวถึงการตัดสินใจของคุณอีกครั้ง ใจเย็นเข้าไว้ เป็นกลาง และไม่มีอคติ ซึ่งหมายความว่าให้หลีกเลี่ยงการหาเหตุผลอื่นมาใช้เป็นข้ออ้างในเวลานั้น ถึงแม้ว่าบุคคลที่อยู่ตรงหน้าคุณกำลังทำให้คุณสติแตกก็ตาม...",
+            "tips": "ให้ยึดถือข้อเท็จจริงเป็นหลักเสมอ แต่ถ้าหากคุณรู้สึกว่ามีปัญหาซ่อนเร้นอยู่หรือมีอะไรที่ยังไม่ได้เปิดเผย ลองมองให้ลึกขึ้นไปเพื่อทำความเข้าใจว่าพนักงานของคุณไม่สบายใจเรื่องอะไร",
+            "clue": "",
+            "context_title": "พนักงานขี้บ่น",
+            "context_description": "คุณจะต้องทำการตัดสินใจอย่างเฉียบขาด: คุณจะไม่ให้โบนัสคริสมาสต์กับแกรี่ เขาแสดงให้เห็นว่าขาดความตั้งใจในช่วงหลายเดือนที่ผ่านมา นี่ยังไม่นับความขี้บ่นมาโดยตลอดของเขา เนื่องจากคุณมีงบประมาณจำกัดมาก คุณต้องการจะให้รางวัลสมาชิกที่ไว้ใจได้มากที่สุดในทีมของคุณ คุณจึงตัดสินใจว่าจะต้องโปร่งใสและอธิบายให้เขาทราบถึงเหตุผลที่คุณตัดสินใจเช่นนี้ แน่นอนว่าแกรี่รู้สึกไม่พอใจอย่างมากกับเรื่องนี้ เขาเริ่มโต้เถียงการตัดสินใจของคุณ...",
+            "context_media_description": "",
+            "choice_EJwIOWqyI": "แกรี่ ฉันมีงบประมาณจำกัดมาก ฉันตัดสินใจให้รางวัลแก่คนที่ทุ่มเทให้กับงานและกับทีมมากที่สุด",
+            "choice_N1lwIdWqy8": "แกรี่ พูดตรงๆ เลยนะ จะให้ฉันให้โบนัสคริสมาสต์กับคุณได้อย่างไรกัน เรามาคุยเรื่องอารมณ์ร้ายของคุณกันหน่อยไหม",
+            "choice_NJNAXz91L": "แกรี่ ฉันตัดสินใจแล้ว ฉันไม่เปลี่ยนใจ"
+        }
+    }
+}

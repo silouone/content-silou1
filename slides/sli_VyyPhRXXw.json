@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-07T15:28:01.833Z",
+            "updatedAt": "2019-08-28T08:43:22.758Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJc5KRXXw"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VyyPhRXXw",
+        "universalRef": "sli_VyyPhRXXw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel97499",
+                        "items": [
+                            {
+                                "text": "choice_EyebgaAQmv",
+                                "value": "choice_EyebgaAQmv"
+                            },
+                            {
+                                "text": "choice_V1W~l607QD",
+                                "value": "choice_V1W~l607QD"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel51719",
+                        "items": [
+                            {
+                                "text": "choice_4ylh~TCQXw",
+                                "value": "choice_4ylh~TCQXw"
+                            },
+                            {
+                                "text": "choice_4JZ3b60X7P",
+                                "value": "choice_4JZ3b60X7P"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel97499",
+                        "answers": [
+                            "choice_EyebgaAQmv"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel51719",
+                        "answers": [
+                            "choice_4JZ3b60X7P"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do Dictators usually consider themselves?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "The Dictator is the overbearing autocrat who has a very high opinion of themselves and of their opinions, and no time for people who disagree.",
+            "tips": "Dictators hold strong opinions in general ; and while it is tempting to try to change it, you probably won't manage to achieve that.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The Dictator is the overbearing autocrat who has a very {{sel97499}} opinion of themselves and of their opinions. They {{sel51719}} for people who disagree.",
+            "choice_EyebgaAQmv": "high",
+            "choice_V1W~l607QD": "low",
+            "choice_4ylh~TCQXw": "are always available",
+            "choice_4JZ3b60X7P": "have no time"
+        },
+        "fr": {
+            "header": "Comment les dictateurs se considèrent-ils généralement?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Le dictateur est l’autocrate autoritaire qui a une très haute opinion de lui-même et de ses opinions et qui n’a pas le temps de laisser le temps aux gens qui sont en désaccord.",
+            "tips": "Les dictateurs ont des opinions fortes en général; et bien qu'il soit tentant d'essayer de le changer, vous n'y parviendrez probablement pas.",
+            "template": "Le dictateur est l’autocrate autoritaire qui a une très {{sel97499}} opinion sur lui-même et sur ses opinions. Ils {{sel51719}} pour les personnes en désaccord.",
+            "choice_EyebgaAQmv": "haute",
+            "choice_V1W~l607QD": "faible",
+            "choice_4ylh~TCQXw": "sont toujours disponibles",
+            "choice_4JZ3b60X7P": "pas le temps",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "How do Dictators usually consider themselves?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "The Dictator is the overbearing autocrat who has a very high opinion of themselves and of their opinions, and no time for people who disagree.",
+            "tips": "Dictators hold strong opinions in general ; and while it is tempting to try to change it, you probably won't manage to achieve that.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The Dictator is the overbearing autocrat who has a very {{sel97499}} opinion of themselves and of their opinions. They {{sel51719}} for people who disagree.",
+            "choice_EyebgaAQmv": "high",
+            "choice_V1W~l607QD": "low",
+            "choice_4ylh~TCQXw": "are always available",
+            "choice_4JZ3b60X7P": "have no time"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel97499}} {{sel51719}}",
+            "choice_EyebgaAQmv": "",
+            "choice_V1W~l607QD": "",
+            "choice_4ylh~TCQXw": "",
+            "choice_4JZ3b60X7P": ""
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T17:48:07.372Z",
+            "updatedAt": "2019-02-22T11:45:08.492Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkF26kyGI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NkMS8BlXI",
+        "universalRef": "sli_NkMS8BlXI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NkMS8BlXI.choice_4kq8Url7L.id",
+                        "label": "choice_4kq8Url7L",
+                        "value": "choice_4kq8Url7L"
+                    },
+                    {
+                        "id": "sli_NkMS8BlXI.choice_4JiL8HgXU.id",
+                        "label": "choice_4JiL8HgXU",
+                        "value": "choice_4JiL8HgXU"
+                    },
+                    {
+                        "id": "sli_NkMS8BlXI.choice_NJnU8rxXI.id",
+                        "label": "choice_NJnU8rxXI",
+                        "value": "choice_NJnU8rxXI"
+                    },
+                    {
+                        "id": "sli_NkMS8BlXI.choice_VJa8UBg7I.id",
+                        "label": "choice_VJa8UBg7I",
+                        "value": "choice_VJa8UBg7I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JiL8HgXU",
+                        "choice_VJa8UBg7I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to avoid dithering on every single decision?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To avoid dithering, learn to know whether the situation requires a quick decision or whether you have time to deliberate. You can eventually ask for other opinions: get other people’s advice to put your decision into perspective.",
+            "tips": "To determine whether you can wait to make a decision, ask yourself simple questions: is waiting necessary, and could it cause important harm?  Would waiting allow important information to emerge?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kq8Url7L": "Avoid all decisions",
+            "choice_4JiL8HgXU": "Understand the situation",
+            "choice_NJnU8rxXI": "Say yes to everything",
+            "choice_VJa8UBg7I": "Ask for other opinions"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen pour ne pas tergiverser à chaque décision ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour ne pas tergiverser, apprenez à évaluer la situation afin de savoir si elle requiert une décision rapide ou si vous pouvez prendre le temps d'y réfléchir. Vous pouvez aussi demander conseil à d'autres personnes pour prendre du recul sur votre décision.",
+            "tips": "Pour savoir si vous pouvez reporter votre décision, posez-vous des questions simples : est-il nécessaire d'attendre, et cela peut-il entraîner de graves conséquences ? Reporter la décision permettra-t-il d'obtenir des informations importantes ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kq8Url7L": "Éviter toute prise de décision",
+            "choice_4JiL8HgXU": "Comprendre la situation",
+            "choice_NJnU8rxXI": "Dire oui à tout",
+            "choice_VJa8UBg7I": "Demander d'autres avis"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um bei jeder einzelnen Entscheidung Verzögerungen zu vermeiden?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Um Verzögerungen zu vermeiden, sollten Sie wissen, ob die Situation eine schnelle Entscheidung erfordert oder ob Sie Zeit zum Überlegen haben. Sie können nach anderen Meinungen fragen: Lassen Sie sich von anderen Personen beraten, um Ihre Entscheidung in die richtige Perspektive zu bringen.",
+            "tips": "Um festzustellen, ob Sie warten können, um eine Entscheidung zu treffen, stellen Sie sich einfache Fragen: Ist Warten erforderlich, und könnte dies zu erheblichem Schaden führen? Würde Warten das Auftauchen wichtiger Informationen ermöglichen?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kq8Url7L": "Vermeiden Sie alle Entscheidungen",
+            "choice_4JiL8HgXU": "Verstehen Sie die Situation",
+            "choice_NJnU8rxXI": "Sagen Sie zu allem ja",
+            "choice_VJa8UBg7I": "Bitten Sie um andere Meinungen"
+        },
+        "th": {
+            "header": "What’s the best way to avoid dithering on every single decision?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To avoid dithering, learn to know whether the situation requires a quick decision or whether you have time to deliberate. You can eventually ask for other opinions: get other people’s advice to put your decision into perspective.",
+            "tips": "To determine whether you can wait to make a decision, ask yourself simple questions: is waiting necessary, and could it cause important harm?  Would waiting allow important information to emerge?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kq8Url7L": "Avoid all decisions",
+            "choice_4JiL8HgXU": "Understand the situation",
+            "choice_NJnU8rxXI": "Say yes to everything",
+            "choice_VJa8UBg7I": "Ask for other opinions"
+        }
+    }
+}

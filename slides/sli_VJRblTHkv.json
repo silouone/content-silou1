@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T12:54:14.115Z",
+            "updatedAt": "2019-06-21T12:54:14.115Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny5PFhBJD"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_VJRblTHkv",
+        "universalRef": "sli_VJRblTHkv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_VJRblTHkv.choice_V1zslTryP.id",
+                        "label": "choice_V1zslTryP",
+                        "value": "choice_V1zslTryP"
+                    },
+                    {
+                        "id": "sli_VJRblTHkv.choice_EJmngpBJv.id",
+                        "label": "choice_EJmngpBJv",
+                        "value": "choice_EJmngpBJv"
+                    },
+                    {
+                        "id": "sli_VJRblTHkv.choice_VkbagpB1v.id",
+                        "label": "choice_VkbagpB1v",
+                        "value": "choice_VkbagpB1v"
+                    },
+                    {
+                        "id": "sli_VJRblTHkv.choice_NJO6l6HJD.id",
+                        "label": "choice_NJO6l6HJD",
+                        "value": "choice_NJO6l6HJD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJO6l6HJD",
+                        "choice_EJmngpBJv",
+                        "choice_V1zslTryP",
+                        "choice_VkbagpB1v"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Can you put these service channels in order of how fast the customer expects a response?",
+            "explanation": "Select the correct answers below in the right order.",
+            "klf": "The correct sequence is telephone, web chat, email, letter.",
+            "tips": "The average response time for live chat support is 2 minutes and 40 seconds.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zslTryP": "Email",
+            "choice_EJmngpBJv": "Web chat",
+            "choice_VkbagpB1v": "Letter",
+            "choice_NJO6l6HJD": "Telephone"
+        },
+        "fr": {
+            "header": "Pouvez-vous classer ces canaux de service en fonction de la rapidité de la réponse attendue par le client ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous dans le bon ordre.",
+            "klf": "L'ordre correcte est le téléphone, les conversations en ligne, l'e-mail et la lettre.",
+            "tips": "Le temps de réponse moyen pour l'assistance par chat en direct est de 2 minutes et 40 secondes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zslTryP": "L'e-mail",
+            "choice_EJmngpBJv": "Les conversations en ligne",
+            "choice_VkbagpB1v": "La lettre",
+            "choice_NJO6l6HJD": "Le téléphone"
+        },
+        "de": {
+            "header": "Can you put these service channels in order of how fast the customer expects a response?",
+            "explanation": "Select the correct answers below in the right order.",
+            "klf": "The correct sequence is telephone, web chat, email, letter.",
+            "tips": "The average response time for live chat support is 2 minutes and 40 seconds.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zslTryP": "Email",
+            "choice_EJmngpBJv": "Web chat",
+            "choice_VkbagpB1v": "Letter",
+            "choice_NJO6l6HJD": "Telephone"
+        },
+        "th": {
+            "header": "Can you put these service channels in order of how fast the customer expects a response?",
+            "explanation": "Select the correct answers below in the right order.",
+            "klf": "The correct sequence is telephone, web chat, email, letter.",
+            "tips": "The average response time for live chat support is 2 minutes and 40 seconds.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zslTryP": "Email",
+            "choice_EJmngpBJv": "Web chat",
+            "choice_VkbagpB1v": "Letter",
+            "choice_NJO6l6HJD": "Telephone"
+        }
+    }
+}

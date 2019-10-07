@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T09:02:24.294Z",
+            "updatedAt": "2019-04-23T12:38:41.019Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkY1s3w5I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_EyxXfpwcI",
+        "universalRef": "sli_EyxXfpwcI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EyxXfpwcI.choice_VJVK7av5I.id",
+                        "label": "choice_VJVK7av5I",
+                        "value": "choice_VJVK7av5I"
+                    },
+                    {
+                        "id": "sli_EyxXfpwcI.choice_Ek1cQ6Dq8.id",
+                        "label": "choice_Ek1cQ6Dq8",
+                        "value": "choice_Ek1cQ6Dq8"
+                    },
+                    {
+                        "id": "sli_EyxXfpwcI.choice_V1xoQTv58.id",
+                        "label": "choice_V1xoQTv58",
+                        "value": "choice_V1xoQTv58"
+                    },
+                    {
+                        "id": "sli_EyxXfpwcI.choice_4k-o7av5I.id",
+                        "label": "choice_4k-o7av5I",
+                        "value": "choice_4k-o7av5I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJVK7av5I",
+                        "choice_V1xoQTv58",
+                        "choice_4k-o7av5I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do open questions usually start?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Open questions give a customer a chance to expand on a subject, potentially giving information that wasn’t known about. They let a customer feel as though they are being listened to.",
+            "tips": "If you have trouble remembering the definition of open questions and closed questions, think of doors: closed, the door is not inviting… Opened? It leads to dialogue!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJVK7av5I": "Who or what…",
+            "choice_Ek1cQ6Dq8": "Did you…",
+            "choice_V1xoQTv58": "When or why…",
+            "choice_4k-o7av5I": "How…"
+        },
+        "fr": {
+            "header": "Comment les questions ouvertes commencent-elles habituellement ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les questions ouvertes offrent aux clients l'opportunité de s'épandre sur un sujet, et potentiellement d'y apporter des informations inédites. Elles permettent aux clients de se sentir écoutés.",
+            "tips": "Si vous avez du mal à vous souvenir de la définition des questions ouvertes et des questions fermées, pensez aux portes : fermée, la porte n'invite pas… Ouvertes ? Cela mène au dialogue !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJVK7av5I": "Qui ou quoi…",
+            "choice_Ek1cQ6Dq8": "Avez-vous…",
+            "choice_V1xoQTv58": "Quand ou pourquoi…",
+            "choice_4k-o7av5I": "Comment…"
+        },
+        "de": {
+            "header": "How do open questions usually start?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Open questions give a customer a chance to expand on a subject, potentially giving information that wasn’t known about. They let a customer feel as though they are being listened to.",
+            "tips": "If you have trouble remembering the definition of open questions and closed questions, think of doors: closed, the door is not inviting… Opened? It leads to dialogue!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJVK7av5I": "Who or what…",
+            "choice_Ek1cQ6Dq8": "Did you…",
+            "choice_V1xoQTv58": "When or why…",
+            "choice_4k-o7av5I": "How…"
+        },
+        "th": {
+            "header": "How do open questions usually start?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Open questions give a customer a chance to expand on a subject, potentially giving information that wasn’t known about. They let a customer feel as though they are being listened to.",
+            "tips": "If you have trouble remembering the definition of open questions and closed questions, think of doors: closed, the door is not inviting… Opened? It leads to dialogue!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJVK7av5I": "Who or what…",
+            "choice_Ek1cQ6Dq8": "Did you…",
+            "choice_V1xoQTv58": "When or why…",
+            "choice_4k-o7av5I": "How…"
+        }
+    }
+}

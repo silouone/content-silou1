@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T18:32:41.670Z",
+            "updatedAt": "2019-08-19T12:34:02.267Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkeJ51V7P"
+            ],
+            "modifiedBy": "ChRitzmannch",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_N1Sfii8Xw",
+        "universalRef": "sli_N1Sfii8Xw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel84658",
+                        "items": [
+                            {
+                                "text": "choice_VkeNVioIXD",
+                                "value": "choice_VkeNVioIXD"
+                            },
+                            {
+                                "text": "choice_4kZ4Nos8Xv",
+                                "value": "choice_4kZ4Nos8Xv"
+                            },
+                            {
+                                "text": "choice_EJl8sjLQP",
+                                "value": "choice_EJl8sjLQP"
+                            },
+                            {
+                                "text": "choice_NJ~Uoj8Xw",
+                                "value": "choice_NJ~Uoj8Xw"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel84658",
+                        "answers": [
+                            "choice_EJl8sjLQP"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who ultimately benefits from an expanded order?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Think of all the positive reasons the client should say yes: prepare a strong case for your expanded order before going in, one that will help them as much as it will help you. A successful expanded order is beneficial to both parties!",
+            "tips": "Don't forget customer rewards. You can offer a special deal on the customer's birthday, or include a free bonus for a certain number of purchases, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel84658}}",
+            "choice_VkeNVioIXD": "The salesperson",
+            "choice_4kZ4Nos8Xv": "The customer",
+            "choice_EJl8sjLQP": "Both the salesperson and the customer",
+            "choice_NJ~Uoj8Xw": "Neither"
+        },
+        "fr": {
+            "header": "À qui profite finalement une commande élargie?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pensez à toutes les raisons positives pour lesquelles le client doit dire oui: préparez un dossier solide pour votre commande élargie avant d'entrer, un argument qui l'aidera autant qu'il vous aidera. Une commande élargie réussie est bénéfique pour les deux parties!",
+            "tips": "N'oubliez pas les récompenses client. Vous pouvez offrir une offre spéciale à l'anniversaire du client ou inclure un bonus gratuit pour un certain nombre d'achats, par exemple.",
+            "template": "{{sel84658}}",
+            "choice_VkeNVioIXD": "Le vendeur",
+            "choice_4kZ4Nos8Xv": "Le consommateur",
+            "choice_EJl8sjLQP": "Le vendeur et le client",
+            "choice_NJ~Uoj8Xw": "Ni",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Who ultimately benefits from an expanded order?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Think of all the positive reasons the client should say yes: prepare a strong case for your expanded order before going in, one that will help them as much as it will help you. A successful expanded order is beneficial to both parties!",
+            "tips": "Don't forget customer rewards. You can offer a special deal on the customer's birthday, or include a free bonus for a certain number of purchases, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel84658}}",
+            "choice_VkeNVioIXD": "The salesperson",
+            "choice_4kZ4Nos8Xv": "The customer",
+            "choice_EJl8sjLQP": "Both the salesperson and the customer",
+            "choice_NJ~Uoj8Xw": "Neither"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel84658}}",
+            "choice_VkeNVioIXD": "",
+            "choice_4kZ4Nos8Xv": "",
+            "choice_EJl8sjLQP": "",
+            "choice_NJ~Uoj8Xw": ""
+        }
+    }
+}

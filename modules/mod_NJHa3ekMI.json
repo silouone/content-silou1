@@ -1,0 +1,66 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T15:06:18.907Z",
+            "updatedAt": "2019-03-19T17:05:56.757Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-03-09T15:05:08.252Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_4yIs2lyf8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "mod_NJHa3ekMI",
+        "universalRef": "mod_NJHa3ekMI",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 10,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_VkJozuzQL",
+            "skill_E1xizOGXL"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_VkJozuzQL": "Understand why you should focus on a single task",
+            "skill_E1xizOGXL": "Perform acts of kindness that benefit others and yourself"
+        },
+        "fr": {
+            "skill_VkJozuzQL": "Comprendre pourquoi vous devez vous concentrer sur une seule tâche à la fois",
+            "skill_E1xizOGXL": "Faire preuve de bienveillance, source de bienfaits à la fois pour les autres et pour vous-même"
+        },
+        "de": {
+            "skill_VkJozuzQL": "Verstehen Sie, warum Sie sich auf eine einzelne Aufgabe konzentrieren sollten",
+            "skill_E1xizOGXL": "Erhalten Sie Freundschaften aus, die anderen und Ihnen selbst zugute kommen"
+        },
+        "th": {
+            "skill_VkJozuzQL": "Understand why you should focus on a single task",
+            "skill_E1xizOGXL": "Perform acts of kindness that benefit others and yourself"
+        }
+    }
+}

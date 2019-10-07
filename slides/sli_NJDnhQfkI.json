@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T15:18:42.671Z",
+            "updatedAt": "2019-01-21T14:52:03.534Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vytwu9lyL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_NJDnhQfkI",
+        "universalRef": "sli_NJDnhQfkI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJDnhQfkI.choice_EJl70n7GJU.id",
+                        "label": "choice_EJl70n7GJU",
+                        "value": "choice_EJl70n7GJU",
+                        "media": "med_E1QCnQGJU"
+                    },
+                    {
+                        "id": "sli_NJDnhQfkI.choice_NJl81pmz1L.id",
+                        "label": "choice_NJl81pmz1L",
+                        "value": "choice_NJl81pmz1L",
+                        "media": "med_Ek8JaQzkU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJl81pmz1L"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The only way to acknowledge someone is verbally. True of false?",
+            "explanation": "Select the correct answer.",
+            "klf": "You can acknowledge someone not only verbally (by greeting them or using their name, for example) but also visually (by looking them in the eyes and using an open and friendly body language).",
+            "tips": "About 55 % of the impact of a message we want to send when interacting with someone is non verbal.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJl70n7GJU": "True",
+            "choice_NJl81pmz1L": "False"
+        },
+        "fr": {
+            "header": "La seule manière d’accueillir quelqu’un ne peut se faire que verbalement. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vous pouvez accueillir quelqu’un verbalement (en vous adressant à lui pour le saluer ou en l’appelant par son nom par exemple), mais également visuellement (en le regardant dans les yeux et en utilisant un langage corporel ouvert et bienveillant).",
+            "tips": "Environ 55 % du message que nous adressons à un public est basé sur le non verbal.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJl70n7GJU": "Vrai",
+            "choice_NJl81pmz1L": "Faux"
+        },
+        "de": {
+            "header": "Die einzige Möglichkeit, jemanden zu bestätigen, ist verbal. Wahr von falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Sie können jemanden nicht nur verbal (z. B. durch Begrüßung oder Verwendung des Namens), sondern auch visuell (durch Blick in die Augen und eine offene und freundliche Körpersprache) bestätigen.",
+            "tips": "Ungefähr 55% der Auswirkungen einer Nachricht, die wir senden möchten, wenn sie mit jemandem interagieren, sind nicht verbal.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJl70n7GJU": "Wahr",
+            "choice_NJl81pmz1L": "Falsch"
+        },
+        "th": {
+            "header": "วิธีเดียวในการแสดงออกว่าเขามีตัวตนคือด้วยวาจาเท่านั้น ถูกหรือผิด",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "คุณไม่เพียงแต่สามารถแสดงออกว่าคุณยอมรับคนอื่นด้วยวาจาได้เท่านั้น (ด้วยการทักทายหรือพูดชื่อเขา เป็นต้น) แต่ยังใช้สิ่งที่เขามองเห็นได้อีกด้วย (เช่น สบตากับเขาและส่งภาษากายที่จริงใจและเป็นมิตร)",
+            "tips": "เวลาที่เรามีปฏิสัมพันธ์กับใครสักคน ผลกระทบของข้อความที่เราต้องการจะส่งออกไปราว 55% ไม่ใช่ผลกระทบจากทางวาจา",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJl70n7GJU": "TRUE",
+            "choice_NJl81pmz1L": "FALSE"
+        }
+    }
+}

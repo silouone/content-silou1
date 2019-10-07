@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T14:51:53.010Z",
+            "updatedAt": "2019-04-15T07:52:18.840Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JForXVKU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EkLkfgvKU",
+        "universalRef": "sli_EkLkfgvKU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkLkfgvKU.choice_EkfMzgwYL.id",
+                        "label": "choice_EkfMzgwYL",
+                        "value": "choice_EkfMzgwYL"
+                    },
+                    {
+                        "id": "sli_EkLkfgvKU.choice_4kCGGlDtU.id",
+                        "label": "choice_4kCGGlDtU",
+                        "value": "choice_4kCGGlDtU"
+                    },
+                    {
+                        "id": "sli_EkLkfgvKU.choice_4kz7GgPKI.id",
+                        "label": "choice_4kz7GgPKI",
+                        "value": "choice_4kz7GgPKI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kz7GgPKI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the optimal number of positive arguments to make a case for yourself?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Three positive arguments has been shown to be the most persuasive number. More arguments can actually undermine your success.",
+            "tips": "‘In making a speech, one must study three points: first, the means of producing persuasion; second, the language; third, the proper arrangement of the various parts of the speech.’ (Aristotle)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkfMzgwYL": "Five",
+            "choice_4kCGGlDtU": "Four",
+            "choice_4kz7GgPKI": "Three"
+        },
+        "fr": {
+            "header": "Quel est le nombre optimal d’arguments positifs pour créer un argumentaire en votre faveur ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Il s'avère que trois arguments positifs est le nombre le plus convaincant. Davantage d'arguments peuvent en réalité nuire à votre réussite.",
+            "tips": "« Comme il y a trois questions à traiter en ce qui concerne le discours : premièrement, d'où seront tirées les preuves ; deuxièmement, ce qui touche à l'élocution ; en troisième lieu, comment il faut disposer les parties d'un discours […] » (Aristote)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkfMzgwYL": "Cinq",
+            "choice_4kCGGlDtU": "Quatre",
+            "choice_4kz7GgPKI": "Trois"
+        },
+        "de": {
+            "header": "What’s the optimal number of positive arguments to make a case for yourself?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Three positive arguments has been shown to be the most persuasive number. More arguments can actually undermine your success.",
+            "tips": "‘In making a speech, one must study three points: first, the means of producing persuasion; second, the language; third, the proper arrangement of the various parts of the speech.’ (Aristotle)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkfMzgwYL": "Five",
+            "choice_4kCGGlDtU": "Four",
+            "choice_4kz7GgPKI": "Three"
+        },
+        "th": {
+            "header": "What’s the optimal number of positive arguments to make a case for yourself?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Three positive arguments has been shown to be the most persuasive number. More arguments can actually undermine your success.",
+            "tips": "‘In making a speech, one must study three points: first, the means of producing persuasion; second, the language; third, the proper arrangement of the various parts of the speech.’ (Aristotle)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkfMzgwYL": "Five",
+            "choice_4kCGGlDtU": "Four",
+            "choice_4kz7GgPKI": "Three"
+        }
+    }
+}

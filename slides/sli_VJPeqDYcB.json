@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-12T10:47:49.720Z",
+            "updatedAt": "2018-11-09T14:45:14.284Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kF5SDr5S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VJPeqDYcB",
+        "universalRef": "sli_VJPeqDYcB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJPeqDYcB.choice_4kxNr5DK5r.id",
+                        "label": "choice_4kxNr5DK5r",
+                        "value": "choice_4kxNr5DK5r",
+                        "media": "med_VyNB5Ptcr"
+                    },
+                    {
+                        "id": "sli_VJPeqDYcB.choice_V1lDIcDFqS.id",
+                        "label": "choice_V1lDIcDFqS",
+                        "value": "choice_V1lDIcDFqS",
+                        "media": "med_EywIcvK9r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1lDIcDFqS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "An empathetic leader always grants his employees' wishes. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Being empathetic doesn't mean saying yes to everything. It means taking your choices and your decisions as a leader with full background knowledge. It means that you should always try to understand your employees' emotions before you act.",
+            "tips": "In a Harvard Business Review article entitled ‘What Makes a Leader?’, Dr Daniel Goleman explains that ‘leaders with empathy do more than sympathize with people around them: they use their knowledge to improve their companies in subtle, but important ways (...) They thoughtfully consider employees' feelings in the process of making intelligent decisions.’",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxNr5DK5r": "TRUE",
+            "choice_V1lDIcDFqS": "FALSE"
+        },
+        "fr": {
+            "header": "Un leader empathique souhaite toujours que les vœux de ses collaborateurs se réalisent. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Faire preuve d’empathie ne signifie pas tout accepter. Cela implique de faire vos choix et vos décisions en tant que leader et en prenant en compte le contexte donné. Cela signifie que vous devez toujours essayer de comprendre les émotions de vos collaborateurs avant d’agir.",
+            "tips": "Dans un article de la Harvard Business Review intitulé « What Makes a Leader » ? (Leader : mode d'emploi), le Dr Daniel Goleman explique que « les leaders enclins à l’empathie font bien plus que sympathiser avec leur entourage : ils utilisent leur savoir pour améliorer le fonctionnement de leur entreprise de manière subtile, mais déterminante (…) Ils prennent sérieusement en compte les sentiments de leurs collaborateurs pour aboutir à un processus de prise de décision intelligent. »",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxNr5DK5r": "Vrai",
+            "choice_V1lDIcDFqS": "Faux"
+        },
+        "de": {
+            "header": "Ein einfühlsamer Manager erfüllt immer die Wünsche seiner Mitarbeiter. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Empathisch zu sein bedeutet nicht, zu allem Ja zu sagen. Es bedeutet, Ihre Entscheidungen und Ihre Entscheidungen als Führungskraft mit vollem Hintergrundwissen zu treffen. Das bedeutet, dass Sie immer versuchen sollten, die Emotionen Ihrer Mitarbeiter zu verstehen, bevor Sie handeln.",
+            "tips": "In einem Artikel der Harvard Business Review mit dem Titel \"Was macht einen Anführer aus?\" Erklärt Dr. Daniel Goleman: \"Führungskräfte mit Empathie tun mehr als nur zu sympathisieren mit Menschen: Sie nutzen ihr Wissen, um ihr Unternehmen auf subtile, aber wichtige Weise zu verbessern (.. .) Sie berücksichtigen die Gefühle der Mitarbeiter sorgfältig, wenn sie intelligente Entscheidungen treffen. '",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxNr5DK5r": "Richtig",
+            "choice_V1lDIcDFqS": "Falsch"
+        },
+        "th": {
+            "header": "ผู้นำที่มีความรู้สึกร่วมมักจะทำตามความต้องการของพนักงาน จริงหรือเท็จ",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "การมีความรู้สึกร่วมไม่ได้หมายความว่าต้องยอมรับทุกสิ่ง แต่หมายถึงการตัดสินใจเลือกในฐานะผู้นำโดยพิจารณาจากความรู้ในเรื่องราวที่อยู่เบื้องหลังทั้งหมด หมายความว่าคุณควรจะพยายามทำความเข้าใจกับอารมณ์ของพนักงานอยู่เสมอก่อนจะกระทำการใดๆ",
+            "tips": "ในบทความจาก Harvard Business Review ที่ชื่อว่า ‘ผู้นำจะต้องเป็นอย่างไร’ ดร.แดเนียล โกล์แมน อธิบายว่า ‘ผู้นำที่มีความรู้สึกร่วมจะทำมากกว่าแค่แสดงความเห็นอกเห็นใจคนที่อยู่รอบตัว: โดยพวกเขาจะใช้ความรู้เพื่อปรับปรุงบริษัทของตนด้วยวิธีที่แยบยล แต่มีความหมาย (...) พวกเขาจะรู้จักคำนึงถึงความรู้สึกของพนักงานในกระบวนการตัดสินใจอย่างชาญฉลาด’",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxNr5DK5r": "จริง",
+            "choice_V1lDIcDFqS": "เท็จ"
+        }
+    }
+}

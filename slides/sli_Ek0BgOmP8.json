@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T16:30:44.179Z",
+            "updatedAt": "2019-03-15T10:53:14.331Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kwsyulwI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Ek0BgOmP8",
+        "universalRef": "sli_Ek0BgOmP8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek0BgOmP8.choice_Eye58edmPU.id",
+                        "label": "choice_Eye58edmPU",
+                        "value": "choice_Eye58edmPU",
+                        "media": "med_4J5IeuQDI"
+                    },
+                    {
+                        "id": "sli_Ek0BgOmP8.choice_NJG2we-QwI.id",
+                        "label": "choice_NJG2we-QwI",
+                        "value": "choice_NJG2we-QwI",
+                        "media": "med_EkbnDgO7wU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJG2we-QwI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Thinking about the worst case scenario will only trigger negative thoughts in your head. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Knowing that we can bear the possible outcomes relieves the pressure that the fear of catastrophe puts on us, and enables us to perform better in the present moment.",
+            "tips": "The Stoics make a point of honor to accept peacefully everything that is not up to them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eye58edmPU": "TRUE",
+            "choice_NJG2we-QwI": "FALSE"
+        },
+        "fr": {
+            "header": "Penser au pire des scénarios ne fera que déclencher des pensées négatives dans votre tête. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le fait de savoir que nous pouvons supporter les conséquences possibles soulage la pression que la peur de la catastrophe nous impose et nous permet de mieux travailler dans le moment présent.",
+            "tips": "Les stoïciens mettent un point d'honneur à accepter pacifiquement tout ce qui ne les concerne pas.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eye58edmPU": "VRAI",
+            "choice_NJG2we-QwI": "FAUX"
+        },
+        "de": {
+            "header": "Thinking about the worst case scenario will only trigger negative thoughts in your head. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Knowing that we can bear the possible outcomes relieves the pressure that the fear of catastrophe puts on us, and enables us to perform better in the present moment.",
+            "tips": "The Stoics make a point of honor to accept peacefully everything that is not up to them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eye58edmPU": "True",
+            "choice_NJG2we-QwI": "False"
+        },
+        "th": {
+            "header": "Thinking about the worst case scenario will only trigger negative thoughts in your head. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Knowing that we can bear the possible outcomes relieves the pressure that the fear of catastrophe puts on us, and enables us to perform better in the present moment.",
+            "tips": "The Stoics make a point of honor to accept peacefully everything that is not up to them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eye58edmPU": "TRUE",
+            "choice_NJG2we-QwI": "FALSE"
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-03T14:03:34.020Z",
+            "updatedAt": "2019-04-03T15:15:30.543Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kY59jpOL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_N1SCsiTuI",
+        "universalRef": "sli_N1SCsiTuI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1SCsiTuI.choice_V10Jnj6-L.id",
+                        "label": "choice_V10Jnj6-L",
+                        "value": "choice_V10Jnj6-L"
+                    },
+                    {
+                        "id": "sli_N1SCsiTuI.choice_NJDe2j6uI.id",
+                        "label": "choice_NJDe2j6uI",
+                        "value": "choice_NJDe2j6uI"
+                    },
+                    {
+                        "id": "sli_N1SCsiTuI.choice_Vyrbnjp-8.id",
+                        "label": "choice_Vyrbnjp-8",
+                        "value": "choice_Vyrbnjp-8"
+                    },
+                    {
+                        "id": "sli_N1SCsiTuI.choice_EJ~G3jTuL.id",
+                        "label": "choice_EJ~G3jTuL",
+                        "value": "choice_EJ~G3jTuL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V10Jnj6-L",
+                        "choice_EJ~G3jTuL",
+                        "choice_NJDe2j6uI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are some of the lifestyle choices that could help you to reduce stress?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Getting more sleep, exercising regularly and eating a healthy diet can all help reduce stress.",
+            "tips": "If you feel a bit down, try sleeping in complete darkness. Indeed, it is the best way for your body to produce melatonin, a hormone that regulates mood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V10Jnj6-L": "Sleep",
+            "choice_NJDe2j6uI": "Diet",
+            "choice_Vyrbnjp-8": "TV viewing choice",
+            "choice_EJ~G3jTuL": "Exercise"
+        },
+        "fr": {
+            "header": "Quels choix dans votre mode de vie pourraient vous aider à réduire le stress ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Plus de sommeil, de l'exercice régulier et une alimentation saine peuvent contribuer à réduire le stress.",
+            "tips": "Si vous vous sentez un peu déprimé, essayez de dormir dans l'obscurité la plus totale. En effet, c'est la meilleure façon pour votre corps de produire de la mélatonine, une hormone qui régule l'humeur.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V10Jnj6-L": "Le sommeil",
+            "choice_NJDe2j6uI": "L'alimentation",
+            "choice_Vyrbnjp-8": "La télévision",
+            "choice_EJ~G3jTuL": "L'exercice"
+        },
+        "de": {
+            "header": "What are some of the lifestyle choices that could help you to reduce stress?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Getting more sleep, exercising regularly and eating a healthy diet can all help reduce stress.",
+            "tips": "If you feel a bit down, try sleeping in complete darkness. Indeed, it is the best way for your body to produce melatonin, a hormone that regulates mood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V10Jnj6-L": "Sleep",
+            "choice_NJDe2j6uI": "Diet",
+            "choice_Vyrbnjp-8": "TV viewing choice",
+            "choice_EJ~G3jTuL": "Exercise"
+        },
+        "th": {
+            "header": "What are some of the lifestyle choices that could help you to reduce stress?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Getting more sleep, exercising regularly and eating a healthy diet can all help reduce stress.",
+            "tips": "If you feel a bit down, try sleeping in complete darkness. Indeed, it is the best way for your body to produce melatonin, a hormone that regulates mood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V10Jnj6-L": "Sleep",
+            "choice_NJDe2j6uI": "Diet",
+            "choice_Vyrbnjp-8": "TV viewing choice",
+            "choice_EJ~G3jTuL": "Exercise"
+        }
+    }
+}

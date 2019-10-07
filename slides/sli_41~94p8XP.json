@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T20:25:20.218Z",
+            "updatedAt": "2019-09-16T10:07:39.411Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJnd9kE7P"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_41~94p8XP",
+        "universalRef": "sli_41~94p8XP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41~94p8XP.choice_NkUeSpLXP.id",
+                        "label": "choice_NkUeSpLXP",
+                        "value": "choice_NkUeSpLXP"
+                    },
+                    {
+                        "id": "sli_41~94p8XP.choice_EkulHaIXD.id",
+                        "label": "choice_EkulHaIXD",
+                        "value": "choice_EkulHaIXD"
+                    },
+                    {
+                        "id": "sli_41~94p8XP.choice_4kqeSTIXD.id",
+                        "label": "choice_4kqeSTIXD",
+                        "value": "choice_4kqeSTIXD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkUeSpLXP"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4k-WgatBD",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Even though the customer was initially interested, why couldn’t you secure an order?",
+            "explanation": "Select the correct answer.",
+            "klf": "Obviously, their <i>was</i> a special arrangement with this client... You did not take time to find out about the history your company had with the client, and you lost the sale. Prepare for your meeting by researching the relationship between the two organisations.",
+            "tips": "Think about your research style when looking for information on a client: you may use specialized publications to keep informed about their industry, web research, as well as personal contacts.",
+            "clue": "",
+            "context_title": "<i>The neverending argument</i>",
+            "context_description": "You just joined a company as a business developer, and today, you are meeting the Chef of a restaurant with whom your company already work. He contacted you to buy ten models of your new blenders. He seems quite convinced about your offer, so at the first buying signal, you suggest to close the sale. ‘Perfect!‘, he says. ’Can we go for a payment in 5 times then?‘ You reply ‘Oh I am sorry but we do not offer this option. Payment has to be immediate.‘\n<br/>He looks surprised and says, ‘But, I don't understand... last time I bought juicing machines from you, we made a deal: you become my official supplier if I can pay in instalments!’ You don't falter: the rule is the rule! ‘But this is absurd, he says, I feel like I have had this conversation a million times with your company already! Does anyone know what they're doing where you work?! You know what, forget it. I liked your products for sure, but I hate to be taken for a fool, so I'd rather cut it short now.‘",
+            "context_media_description": "",
+            "choice_NkUeSpLXP": "You hadn’t done any research on the relationship between the two companies",
+            "choice_EkulHaIXD": "You denied that he once ordered juicing machines",
+            "choice_4kqeSTIXD": "You didn’t understand the product you were selling",
+            "choice_4Jjlr6IXv": "He hadn’t done any research on the customer"
+        },
+        "fr": {
+            "header": "Même si le client était intéressé au départ, pourquoi ne pourriez-vous pas obtenir une commande?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "De toute évidence, il <i>s’agissait d’</i> un arrangement spécial avec ce client ... Vous n’avez pas pris le temps de connaître l’histoire de votre entreprise avec le client et vous avez perdu la vente. Préparez votre réunion en recherchant les relations entre les deux organisations.",
+            "tips": "Pensez à votre style de recherche lorsque vous recherchez des informations sur un client: vous pouvez utiliser des publications spécialisées pour rester informé de son secteur, de ses recherches sur le Web et de ses contacts personnels.",
+            "context_title": "<i>L'argument sans fin</i>",
+            "context_description": "Vous venez de rejoindre une entreprise en tant que développeur, et vous rencontrez aujourd'hui le chef d'un restaurant avec lequel votre entreprise travaille déjà. Il vous a contacté pour acheter dix modèles de vos nouveaux mélangeurs. Il semble assez convaincu de votre offre, alors au premier signal d'achat, vous proposez de conclure la vente. &quot;Parfait!&quot;, Dit-il. «Pouvons-nous faire un paiement dans 5 fois alors? Vous répondez 'Oh je suis désolé mais nous n'offrons pas cette option. Le paiement doit être immédiat. ' <br/> Il a l'air surpris et dit: &quot;Mais je ne comprends pas ... la dernière fois que j'ai acheté des machines à jus chez vous, nous avons conclu un marché: vous devenez mon fournisseur officiel si je peux payer en plusieurs fois!&quot; Vous ne faiblissez pas: la règle est la règle! «Mais c'est absurde, dit-il, j'ai l'impression d'avoir déjà eu cette conversation un million de fois avec votre entreprise! Est-ce que quelqu'un sait ce qu'ils font où tu travailles?! Tu sais quoi, oublie ça. J'aimais bien vos produits, mais je n'aime pas être pris pour un imbécile, alors je préfère le couper court maintenant. '",
+            "choice_NkUeSpLXP": "Vous n’avez fait aucune recherche sur les relations entre les deux sociétés",
+            "choice_EkulHaIXD": "Vous avez nié avoir déjà commandé des machines à jus",
+            "choice_4kqeSTIXD": "Vous n'avez pas compris le produit que vous vendiez",
+            "clue": "",
+            "context_media_description": "",
+            "choice_4Jjlr6IXv": ""
+        },
+        "de": {
+            "header": "Even though the customer was initially interested, why couldn’t you secure an order?",
+            "explanation": "Select the correct answer.",
+            "klf": "Obviously, their <i>was</i> a special arrangement with this client... You did not take time to find out about the history your company had with the client, and you lost the sale. Prepare for your meeting by researching the relationship between the two organisations.",
+            "tips": "Think about your research style when looking for information on a client: you may use specialized publications to keep informed about their industry, web research, as well as personal contacts.",
+            "clue": "",
+            "context_title": "<i>The neverending argument</i>",
+            "context_description": "You just joined a company as a business developer, and today, you are meeting the Chef of a restaurant with whom your company already work. He contacted you to buy ten models of your new blenders. He seems quite convinced about your offer, so at the first buying signal, you suggest to close the sale. ‘Perfect!‘, he says. ’Can we go for a payment in 5 times then?‘ You reply ‘Oh I am sorry but we do not offer this option. Payment has to be immediate.‘\n<br/>He looks surprised and says, ‘But, I don't understand... last time I bought juicing machines from you, we made a deal: you become my official supplier if I can pay in instalments!’ You don't falter: the rule is the rule! ‘But this is absurd, he says, I feel like I have had this conversation a million times with your company already! Does anyone know what they're doing where you work?! You know what, forget it. I liked your products for sure, but I hate to be taken for a fool, so I'd rather cut it short now.‘",
+            "context_media_description": "",
+            "choice_NkUeSpLXP": "You hadn’t done any research on the relationship between the two companies",
+            "choice_EkulHaIXD": "You denied that he once ordered juicing machines",
+            "choice_4kqeSTIXD": "You didn’t understand the product you were selling",
+            "choice_4Jjlr6IXv": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkUeSpLXP": "",
+            "choice_EkulHaIXD": "",
+            "choice_4kqeSTIXD": "",
+            "choice_4Jjlr6IXv": ""
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-11T11:52:46.317Z",
+            "updatedAt": "2019-05-02T09:51:12.658Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JOJpEs8L"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_41cYIVkPI",
+        "universalRef": "sli_41cYIVkPI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_41cYIVkPI.field_41t6841w8.id",
+                        "type": "text",
+                        "name": "inp16968"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp16968",
+                        "answers": [
+                            "choice_NyMYTIEJvI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What type of questions should you ask to make your employees open up and share information?",
+            "explanation": "Type your answer.",
+            "klf": "Asking open questions (starting with why, what, who, where and how) is likely to encourage someone to share information, and thereby speak about the reasons for absences.",
+            "tips": "Open questions in job interviews are a good way to assess a candidate's values, goals and self-awareness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp16968}} questions.",
+            "choice_NyMYTIEJvI": "Open"
+        },
+        "fr": {
+            "header": "Quel type de questions devriez-vous poser pour que vos employés s'ouvrent à vous et partagent des informations ?",
+            "explanation": "Tapez votre réponse.",
+            "klf": "Poser des questions ouvertes (à commencer par pourquoi, quoi, qui, où et comment) est susceptible d’encourager une personne à partager des informations et, ainsi, à parler des raisons de ses absences.",
+            "tips": "Les questions ouvertes dans les entretiens d'embauche sont un bon moyen d'évaluer les valeurs, les objectifs et la conscience de soi d'un candidat.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Questions {{inp16968}}.",
+            "choice_NyMYTIEJvI": "ouvertes"
+        },
+        "de": {
+            "header": "What type of questions should you ask to make your employees open up and share information?",
+            "explanation": "Type your answer.",
+            "klf": "Asking open questions (starting with why, what, who, where and how) is likely to encourage someone to share information, and thereby speak about the reasons for absences.",
+            "tips": "Open questions in job interviews are a good way to assess a candidate's values, goals and self-awareness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp16968}} questions.",
+            "choice_NyMYTIEJvI": "open"
+        },
+        "th": {
+            "header": "What type of questions should you ask to make your employees open up and share information?",
+            "explanation": "Type your answer.",
+            "klf": "Asking open questions (starting with why, what, who, where and how) is likely to encourage someone to share information, and thereby speak about the reasons for absences.",
+            "tips": "Open questions in job interviews are a good way to assess a candidate's values, goals and self-awareness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp16968}} questions.",
+            "choice_NyMYTIEJvI": "Open"
+        }
+    }
+}

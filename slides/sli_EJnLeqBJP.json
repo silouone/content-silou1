@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T10:09:05.508Z",
+            "updatedAt": "2019-06-26T08:56:19.034Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vyg-TYS1w"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_EJnLeqBJP",
+        "universalRef": "sli_EJnLeqBJP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJnLeqBJP.choice_VklYeqryw.id",
+                        "label": "choice_VklYeqryw",
+                        "value": "choice_VklYeqryw"
+                    },
+                    {
+                        "id": "sli_EJnLeqBJP.choice_EJNFl5BJv.id",
+                        "label": "choice_EJNFl5BJv",
+                        "value": "choice_EJNFl5BJv"
+                    },
+                    {
+                        "id": "sli_EJnLeqBJP.choice_4JJ5e9B1P.id",
+                        "label": "choice_4JJ5e9B1P",
+                        "value": "choice_4JJ5e9B1P"
+                    },
+                    {
+                        "id": "sli_EJnLeqBJP.choice_Nypcg9HkP.id",
+                        "label": "choice_Nypcg9HkP",
+                        "value": "choice_Nypcg9HkP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VklYeqryw",
+                        "choice_EJNFl5BJv",
+                        "choice_4JJ5e9B1P",
+                        "choice_Nypcg9HkP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What extra information could you offer a customer at the end of a call?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Extra information is never to be sniffed at by customers! Before hanging up, don‘t hesitate to repeat your name and give a phone number to call back on, a reference number or any other relevant information.",
+            "tips": "According to a study conducted by Temkin Group, 77% of customers would recommend a company to a friend after having a positive experience.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VklYeqryw": "A phone number to call back on if needed",
+            "choice_EJNFl5BJv": "Repeat your name",
+            "choice_4JJ5e9B1P": "Any other relevant information",
+            "choice_Nypcg9HkP": "A reference number"
+        },
+        "fr": {
+            "header": "Quelles informations supplémentaires pourriez-vous fournir à un client à la fin d'un appel ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Les clients ne devraient jamais avoir à chercher des informations supplémentaires ! Avant de raccrocher, n’hésitez pas à répéter votre nom et à donner un numéro de téléphone pour vous rappeler, un numéro de référence ou toute autre information pertinente.",
+            "tips": "Selon une étude réalisée par le groupe Temkin, 77 % des clients recommanderaient une entreprise à un ami après avoir eu une expérience positive.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VklYeqryw": "Un numéro de téléphone pour vous rappeler si nécessaire",
+            "choice_EJNFl5BJv": "Répéter son nom",
+            "choice_4JJ5e9B1P": "Toute autre information pertinente",
+            "choice_Nypcg9HkP": "Un numéro de référence"
+        },
+        "de": {
+            "header": "What extra information could you offer a customer at the end of a call?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Extra information is never to be sniffed at by customers! Before hanging up, don‘t hesitate to repeat your name and give a phone number to call back on, a reference number or any other relevant information.",
+            "tips": "According to a study conducted by Temkin Group, 77% of customers would recommend a company to a friend after having a positive experience.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VklYeqryw": "A phone number to call back on if needed",
+            "choice_EJNFl5BJv": "Repeat your name",
+            "choice_4JJ5e9B1P": "Any other relevant information",
+            "choice_Nypcg9HkP": "A reference number"
+        },
+        "th": {
+            "header": "What extra information could you offer a customer at the end of a call?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Extra information is never to be sniffed at by customers! Before hanging up, don‘t hesitate to repeat your name and give a phone number to call back on, a reference number or any other relevant information.",
+            "tips": "According to a study conducted by Temkin Group, 77% of customers would recommend a company to a friend after having a positive experience.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VklYeqryw": "A phone number to call back on if needed",
+            "choice_EJNFl5BJv": "Repeat your name",
+            "choice_4JJ5e9B1P": "Any other relevant information",
+            "choice_Nypcg9HkP": "A reference number"
+        }
+    }
+}

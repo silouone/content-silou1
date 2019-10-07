@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T15:37:16.374Z",
+            "updatedAt": "2019-02-18T15:41:44.516Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJP2Dh7rI"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJO9OnXS8",
+        "universalRef": "sli_NJO9OnXS8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJO9OnXS8.choice_4ku2O3mrI.id",
+                        "label": "choice_4ku2O3mrI",
+                        "value": "choice_4ku2O3mrI"
+                    },
+                    {
+                        "id": "sli_NJO9OnXS8.choice_E1AnuhXSL.id",
+                        "label": "choice_E1AnuhXSL",
+                        "value": "choice_E1AnuhXSL"
+                    },
+                    {
+                        "id": "sli_NJO9OnXS8.choice_41X6-nmrU.id",
+                        "label": "choice_41X6-nmrU",
+                        "value": "choice_41X6-nmrU"
+                    },
+                    {
+                        "id": "sli_NJO9OnXS8.choice_E1j6d3mrI.id",
+                        "label": "choice_E1j6d3mrI",
+                        "value": "choice_E1j6d3mrI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1AnuhXSL",
+                        "choice_41X6-nmrU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the difference between empathy and sympathy?",
+            "explanation": "Select the correct answers.",
+            "klf": "Empathy can be more detached whereas sympathy is always on a personal level.",
+            "tips": "Empathy is the ability to understand and share the feelings of another while sympathy means having feelings of pity and sorrow for someone else’s misfortune. (<i>Oxford Dictionary</i>)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ku2O3mrI": "Empathy is hard and sympathy is soft",
+            "choice_E1AnuhXSL": "Empathy can be emotionally detached, sympathy is emotionally engaged",
+            "choice_41X6-nmrU": "Empathy relates to a situation, sympathy comforts in a situation",
+            "choice_E1j6d3mrI": "Empathy means the customer is wrong, sympathy means they are right"
+        },
+        "fr": {
+            "header": "Quelle est la différence entre l'empathie et la sympathie ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "L'empathie peut être plus détachée alors que la sympathie est toujours personnelle.",
+            "tips": "L'empathie est la capacité de comprendre et de partager les sentiments d'un autre, tandis que la sympathie signifie ressentir de la pitié et du chagrin face au malheur de quelqu'un d'autre. ( <i>Oxford Dictionary</i> )",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ku2O3mrI": "L'empathie est dure et la sympathie est douce",
+            "choice_E1AnuhXSL": "L'empathie peut être détachée émotionnellement, la sympathie est engagée émotionnellement",
+            "choice_41X6-nmrU": "L'empathie se rapporte à une situation, la sympathie réconforte lors d'une situation",
+            "choice_E1j6d3mrI": "L'empathie signifie que le client a tort, la sympathie signifie qu'il a raison"
+        },
+        "de": {
+            "header": "Was ist der Unterschied zwischen Empathie und Mitgefühl?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Empathie kann distanzierter sein, während Sympathie immer auf persönlicher Ebene ist.",
+            "tips": "Empathie ist die Fähigkeit, die Gefühle eines anderen zu verstehen und zu teilen. Mitgefühl bedeutet, Mitleid und Trauer für das Unglück eines anderen zu haben. ( <i>Oxford Wörterbuch</i> )",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ku2O3mrI": "Einfühlungsvermögen ist hart und Mitgefühl ist weich",
+            "choice_E1AnuhXSL": "Empathie kann emotional losgelöst werden, Sympathie ist emotional verbunden",
+            "choice_41X6-nmrU": "Empathie bezieht sich auf eine Situation, Sympathie tröstet in einer Situation",
+            "choice_E1j6d3mrI": "Empathie bedeutet, dass der Kunde falsch liegt, Mitgefühl bedeutet, dass er Recht hat"
+        },
+        "th": {
+            "header": "What is the difference between empathy and sympathy?",
+            "explanation": "Select the correct answers.",
+            "klf": "Empathy can be more detached whereas sympathy is always on a personal level.",
+            "tips": "Empathy is the ability to understand and share the feelings of another while sympathy means having feelings of pity and sorrow for someone else’s misfortune. (<i>Oxford Dictionary</i>)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ku2O3mrI": "Empathy is hard and sympathy is soft",
+            "choice_E1AnuhXSL": "Empathy can be emotionally detached, sympathy is emotionally engaged",
+            "choice_41X6-nmrU": "Empathy relates to a situation, sympathy comforts in a situation",
+            "choice_E1j6d3mrI": "Empathy means the customer is wrong, sympathy means they are right"
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-07T13:20:28.613Z",
+            "updatedAt": "2019-05-14T14:53:02.231Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1n2JIFj8"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4kME7O5jU",
+        "universalRef": "sli_4kME7O5jU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4kME7O5jU.field_4kHEB-cjL.id",
+                        "type": "text",
+                        "name": "inp29160"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp29160",
+                        "answers": [
+                            "choice_VJfrVruqoL",
+                            "choice_Ek3r-Oqi8"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EkM1wu9sI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What word, meaning '<i>the last one</i>' in Latin, refers to Judy's deal proposal?",
+            "explanation": "Type your answer.",
+            "klf": "According to the Oxford Dictionary, an <i>ultimatum</i> is 'a final demand or statement of terms, the rejection of which will result in retaliation or a breakdown in relations.'",
+            "tips": "One of the most famous diplomatic ultimatums is the Austro-Hungarian empire's response to Archduke Franz Ferdinand of Austria's assassination by Serbs nationalists, which partly triggered First World War.",
+            "clue": "",
+            "context_title": "Just a matter of hair.",
+            "context_description": "John loves his moustache. But Judy hates it. It itches and often tastes like yesterday's leftovers. In a win-win situation, Judy and John would probably find a way for John to get a removable moustache. In a compromise, John might just shave half of his moustache. But on a grey winter afternoon, Judy breaks up:<br><i>'It's either me, or your moustache.'</i>",
+            "context_media_description": "",
+            "template": "{{inp29160}}",
+            "choice_VJfrVruqoL": "Ultimatum",
+            "choice_Ek3r-Oqi8": "ultimatum"
+        },
+        "fr": {
+            "header": "Quel mot, signifiant « <i>le dernier</i> » en latin, fait référence à la proposition d’accord de Judy ?",
+            "explanation": "Tapez votre réponse.",
+            "klf": "Selon le dictionnaire Oxford, un <i>ultimatum</i> est &quot;une demande finale ou un énoncé de conditions dont le rejet entraînera des représailles ou une rupture des relations&quot;.",
+            "tips": "L'un des ultimatums diplomatiques les plus connus est la réponse de l'empire austro-hongrois à l'assassinat de l'archiduc Franz Ferdinand d'Autriche par des nationalistes serbes, ce qui a en partie déclenché la Première Guerre mondiale.",
+            "clue": "",
+            "context_title": "Juste une histoire de poils",
+            "context_description": "John aime sa moustache. Mais Judy la déteste. Elle gratte et a souvent le goût des restes de la veille. Dans une situation gagnant-gagnant, Judy et John trouveraient probablement un moyen pour John d'avoir une moustache amovible. Dans un compromis, John pourrait simplement raser la moitié de sa moustache. Mais lors d'un après-midi gris d'hiver, Judy s'emporte : <br> <i>« C'est moi ou ta moustache ! »</i>",
+            "context_media_description": "",
+            "template": "{{inp29160}}",
+            "choice_VJfrVruqoL": "Ultimatum",
+            "choice_Ek3r-Oqi8": "ultimatum"
+        },
+        "de": {
+            "header": "What word, meaning '<i>the last one</i>' in Latin, refers to Judy's deal proposal?",
+            "explanation": "Type your answer.",
+            "klf": "According to the Oxford Dictionary, an <i>ultimatum</i> is 'a final demand or statement of terms, the rejection of which will result in retaliation or a breakdown in relations.'",
+            "tips": "One of the most famous diplomatic ultimatums is the Austro-Hungarian empire's response to Archduke Franz Ferdinand of Austria's assassination by Serbs nationalists, which partly triggered First World War.",
+            "clue": "",
+            "context_title": "Just a matter of hair.",
+            "context_description": "John loves his moustache. But Judy hates it. It itches and often tastes like yesterday's leftovers. In a win-win situation, Judy and John would probably find a way for John to get a removable moustache. In a compromise, John might just shave half of his moustache. But on a grey winter afternoon, Judy breaks up:\n<i>'It's either me, or your moustache.'</i>",
+            "context_media_description": "",
+            "template": "{{inp29160}}",
+            "choice_VJfrVruqoL": "Ultimatum",
+            "choice_Ek3r-Oqi8": "ultimatum"
+        },
+        "th": {
+            "header": "What word, meaning '<i>the last one</i>' in Latin, refers to Judy's deal proposal?",
+            "explanation": "Type your answer.",
+            "klf": "According to the Oxford Dictionary, an <i>ultimatum</i> is 'a final demand or statement of terms, the rejection of which will result in retaliation or a breakdown in relations.'",
+            "tips": "One of the most famous diplomatic ultimatums is the Austro-Hungarian empire's response to Archduke Franz Ferdinand of Austria's assassination by Serbs nationalists, which partly triggered First World War.",
+            "clue": "",
+            "context_title": "Just a matter of hair.",
+            "context_description": "John loves his moustache. But Judy hates it. It itches and often tastes like yesterday's leftovers. In a win-win situation, Judy and John would probably find a way for John to get a removable moustache. In a compromise, John might just shave half of his moustache. But on a grey winter afternoon, Judy breaks up:<br><i>'It's either me, or your moustache.'</i>",
+            "context_media_description": "",
+            "template": "{{inp29160}}",
+            "choice_VJfrVruqoL": "Ultimatum",
+            "choice_Ek3r-Oqi8": "ultimatum"
+        }
+    }
+}

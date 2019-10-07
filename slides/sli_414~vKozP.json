@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:43:21.160Z",
+            "updatedAt": "2019-08-01T07:43:21.160Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1tPTTPfv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_414~vKozP",
+        "universalRef": "sli_414~vKozP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_414~vKozP.choice_EJgvXvYsGw.id",
+                        "label": "choice_EJgvXvYsGw",
+                        "value": "choice_EJgvXvYsGw",
+                        "media": "med_4yw7DtsGv"
+                    },
+                    {
+                        "id": "sli_414~vKozP.choice_NkgY7DKszD.id",
+                        "label": "choice_NkgY7DKszD",
+                        "value": "choice_NkgY7DKszD",
+                        "media": "med_4yKXvYifv"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkgY7DKszD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? After sales service is just about fixing a customer’s immediate issue.",
+            "explanation": "Select the correct answer.",
+            "klf": "When dealing with a customer, it is important to think beyond the immediate issue they are facing. Try to anticipate and prevent other inconveniences that could occur.",
+            "tips": "One of the most essential qualities you must display as a service adviser is empathy. Always show genuine interest in the customer’s problem and frustration. You must be willing to listen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJgvXvYsGw": "True",
+            "choice_NkgY7DKszD": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Le service après-vente consiste simplement à résoudre le problème immédiat d'un client.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque vous vous occupez d'un client, il est important de penser au-delà du problème immédiat auquel il est confronté. Essayez d’anticiper et de prévenir d’autres inconvénients qui pourraient survenir.",
+            "tips": "L’empathie est l’une des qualités les plus essentielles dont vous devez faire preuve en tant que conseiller de service. Manifestez toujours un intérêt sincère pour le problème et la frustration du client. Vous devez être prêt à écouter.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJgvXvYsGw": "Vrai",
+            "choice_NkgY7DKszD": "Faux"
+        },
+        "de": {
+            "header": "True or false? After sales service is just about fixing a customer’s immediate issue.",
+            "explanation": "Select the correct answer.",
+            "klf": "When dealing with a customer, it is important to think beyond the immediate issue they are facing. Try to anticipate and prevent other inconveniences that could occur.",
+            "tips": "One of the most essential qualities you must display as a service adviser is empathy. Always show genuine interest in the customer’s problem and frustration. You must be willing to listen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJgvXvYsGw": "True",
+            "choice_NkgY7DKszD": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJgvXvYsGw": "",
+            "choice_NkgY7DKszD": ""
+        }
+    }
+}

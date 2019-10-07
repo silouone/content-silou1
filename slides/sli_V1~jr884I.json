@@ -1,0 +1,121 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-08T11:28:18.129Z",
+            "updatedAt": "2019-02-11T10:53:48.556Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJDtNJV4L"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_V1~jr884I",
+        "universalRef": "sli_V1~jr884I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_V1~jr884I.choice_4ywdIL84L.id",
+                        "label": "choice_4ywdIL84L",
+                        "value": "choice_4ywdIL84L"
+                    },
+                    {
+                        "id": "sli_V1~jr884I.choice_NJuu88U4U.id",
+                        "label": "choice_NJuu88U4U",
+                        "value": "choice_NJuu88U4U"
+                    },
+                    {
+                        "id": "sli_V1~jr884I.choice_4Jqu8I84L.id",
+                        "label": "choice_4Jqu8I84L",
+                        "value": "choice_4Jqu8I84L"
+                    },
+                    {
+                        "id": "sli_V1~jr884I.choice_Vks-ULIVL.id",
+                        "label": "choice_Vks-ULIVL",
+                        "value": "choice_Vks-ULIVL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jqu8I84L",
+                        "choice_4ywdIL84L",
+                        "choice_Vks-ULIVL",
+                        "choice_NJuu88U4U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In what order should you take the following steps, when making and implementing a decision?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "As a leader, follow these stages when making decisions and implementing them: consult; identify who will be affected; check the facts with them; get their opinions. Once you have made the decision, communicate it in writing and follow up.",
+            "tips": "Once you have made and implemented your decision, don't forget to monitor your solution, its effect and general progress. That way, you can adjust and correct if results aren't what you expect.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ywdIL84L": "Identify who will be affected",
+            "choice_NJuu88U4U": "Get affected people's opinions",
+            "choice_4Jqu8I84L": "Consult",
+            "choice_Vks-ULIVL": "Check the facts with those affected"
+        },
+        "fr": {
+            "header": "Dans quel ordre devriez-vous suivre les étapes suivantes pour prendre et instaurer une décision ?",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "En tant que leader, suivez ces étapes lorsque vous prenez une décision et l'instaurez : consultez ; identifiez qui sera touché ; vérifiez les faits avec eux ; recevez leurs avis. Une fois que vous avez pris la décision, communiquez-la par écrit et faites un suivi.",
+            "tips": "Une fois que vous avez pris et instauré votre décision, n'oubliez pas de surveiller votre solution, ses effets et son évolution générale. De cette façon, vous pourrez ajuster et corriger si les résultats ne sont pas conformes à vos attentes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ywdIL84L": "Identifier qui sera touché",
+            "choice_NJuu88U4U": "Recevoir l'avis des personnes touchées",
+            "choice_4Jqu8I84L": "Consulter",
+            "choice_Vks-ULIVL": "Vérifier les faits avec les personnes concernées"
+        },
+        "de": {
+            "header": "In welcher Reihenfolge sollten Sie die folgenden Schritte ausführen, wenn Sie eine Entscheidung treffen und umsetzen?",
+            "explanation": "Wählen Sie die Antworten unten in der richtigen Reihenfolge aus.",
+            "klf": "Als Führungskraft befolgen Sie diese Schritte, wenn Sie Entscheidungen treffen und umsetzen: konsultieren; identifizieren, wer betroffen sein wird; überprüfe die Fakten mit ihnen; Holen Sie sich ihre Meinungen. Sobald Sie die Entscheidung getroffen haben, teilen Sie sie schriftlich mit und verfolgen Sie sie.",
+            "tips": "Vergessen Sie nicht, Ihre Lösung, Ihre Auswirkungen und den allgemeinen Fortschritt zu überwachen, nachdem Sie Ihre Entscheidung getroffen und implementiert haben. Auf diese Weise können Sie anpassen und korrigieren, wenn die Ergebnisse nicht Ihren Erwartungen entsprechen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ywdIL84L": "Identifizieren Sie, wer betroffen ist",
+            "choice_NJuu88U4U": "Holen Sie sich die Meinungen der betroffenen Personen",
+            "choice_4Jqu8I84L": "Konsultieren",
+            "choice_Vks-ULIVL": "Überprüfen Sie die Fakten mit den Betroffenen"
+        },
+        "th": {
+            "header": "In what order should you take the following steps, when making and implementing a decision?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "As a leader, follow these stages when making decisions and implementing them: consult; identify who will be affected; check the facts with them; get their opinions. Once you have made the decision, communicate it in writing and follow up.",
+            "tips": "Once you have made and implemented your decision, don't forget to monitor your solution, its effect and general progress. That way, you can adjust and correct if results aren't what you expect.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ywdIL84L": "Identify who will be affected",
+            "choice_NJuu88U4U": "Get affected people's opinions",
+            "choice_4Jqu8I84L": "Consult",
+            "choice_Vks-ULIVL": "Check the facts with those affected"
+        }
+    }
+}

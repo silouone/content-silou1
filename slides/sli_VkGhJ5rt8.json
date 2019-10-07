@@ -1,0 +1,122 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-09T13:53:19.321Z",
+            "updatedAt": "2019-04-09T14:07:17.454Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJCo5s6-I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_VkGhJ5rt8",
+        "universalRef": "sli_VkGhJ5rt8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkGhJ5rt8.choice_4J70y9SYI.id",
+                        "label": "choice_4J70y9SYI",
+                        "value": "choice_4J70y9SYI"
+                    },
+                    {
+                        "id": "sli_VkGhJ5rt8.choice_4yg1lcHKL.id",
+                        "label": "choice_4yg1lcHKL",
+                        "value": "choice_4yg1lcHKL"
+                    },
+                    {
+                        "id": "sli_VkGhJ5rt8.choice_NJiHxcrFL.id",
+                        "label": "choice_NJiHxcrFL",
+                        "value": "choice_NJiHxcrFL"
+                    },
+                    {
+                        "id": "sli_VkGhJ5rt8.choice_Ey4k~9rF8.id",
+                        "label": "choice_Ey4k~9rF8",
+                        "value": "choice_Ey4k~9rF8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4J70y9SYI",
+                        "choice_4yg1lcHKL",
+                        "choice_NJiHxcrFL",
+                        "choice_Ey4k~9rF8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you do to avoid overload-related stress?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Manage your time! You must make sure you know what's important and what to prioritise. Also, allocate and plan how long tasks will take.",
+            "tips": "Never be afraid to ask for help! Our reliance on the help of others is also an important part of setting priorities and accomplishing goals.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4J70y9SYI": "Define what's important",
+            "choice_4yg1lcHKL": "Know what to prioritise",
+            "choice_NJiHxcrFL": "Allocate time for your tasks",
+            "choice_Ey4k~9rF8": "Plan how long tasks will take"
+        },
+        "fr": {
+            "header": "Que devriez-vous faire pour éviter le stress lié à la surcharge?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Gérer votre temps! Vous devez vous assurer de savoir ce qui est important et ce qu'il faut prioriser. En outre, allouez et planifiez la durée des tâches.",
+            "tips": "N'ayez jamais peur de demander de l'aide! Notre confiance dans l'aide des autres est également un élément important de la définition des priorités et de la réalisation des objectifs.",
+            "choice_4J70y9SYI": "Définir ce qui est important",
+            "choice_4yg1lcHKL": "Savoir quoi prioriser",
+            "choice_NJiHxcrFL": "Allouer du temps pour vos tâches",
+            "choice_Ey4k~9rF8": "Planifiez la durée des tâches",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What should you do to avoid overload-related stress?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Manage your time! You must make sure you know what's important and what to prioritise. Also, allocate and plan how long tasks will take.",
+            "tips": "Never be afraid to ask for help! Our reliance on the help of others is also an important part of setting priorities and accomplishing goals.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4J70y9SYI": "Define what's important",
+            "choice_4yg1lcHKL": "Know what to prioritise",
+            "choice_NJiHxcrFL": "Allocate time for your tasks",
+            "choice_Ey4k~9rF8": "Plan how long tasks will take"
+        },
+        "th": {
+            "header": "What should you do to avoid overload-related stress?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Manage your time! You must make sure you know what's important and what to prioritise. Also, allocate and plan how long tasks will take.",
+            "tips": "Never be afraid to ask for help! Our reliance on the help of others is also an important part of setting priorities and accomplishing goals.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4J70y9SYI": "Define what's important",
+            "choice_4yg1lcHKL": "Know what to prioritise",
+            "choice_NJiHxcrFL": "Allocate time for your tasks",
+            "choice_Ey4k~9rF8": "Plan how long tasks will take"
+        }
+    }
+}

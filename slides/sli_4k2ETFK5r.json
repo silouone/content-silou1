@@ -1,0 +1,113 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-12T13:15:29.843Z",
+            "updatedAt": "2018-11-09T13:13:02.383Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkriSwS5r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4k2ETFK5r",
+        "universalRef": "sli_4k2ETFK5r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4k2ETFK5r.choice_VyZD6FKcH.id",
+                        "label": "choice_VyZD6FKcH",
+                        "value": "choice_VyZD6FKcH"
+                    },
+                    {
+                        "id": "sli_4k2ETFK5r.choice_N13DpFYqB.id",
+                        "label": "choice_N13DpFYqB",
+                        "value": "choice_N13DpFYqB"
+                    },
+                    {
+                        "id": "sli_4k2ETFK5r.choice_4kI-pFtqS.id",
+                        "label": "choice_4kI-pFtqS",
+                        "value": "choice_4kI-pFtqS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N13DpFYqB",
+                        "choice_VyZD6FKcH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are some effective ways to limit the damage our negative moods might have on others?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can adopt physical reflexes such as counting to 10 while breathing slowly to limit the damage. Also, take a moment to think about the consequences of your wrath.",
+            "tips": "It is important to suspend judgement and think before acting. For example, don't send emails when you're angry.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyZD6FKcH": "Think of the consequences before lashing out",
+            "choice_N13DpFYqB": "Count to 10, breathe slowly and remove yourself from the situation.",
+            "choice_4kI-pFtqS": "Remember that if you have good reasons to be angry, then they probably deserved your outburst",
+            "null": ""
+        },
+        "fr": {
+            "header": "Quel sont les moyens les plus efficaces de limiter les dégâts de nos humeurs négatives sur les autres ? ",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous pouvez adopter certains réflexes comme compter jusqu’à 10 en veillant à respirer lentement pour limiter votre emportement. Prenez également le temps de réfléchir aux conséquences de votre colère.",
+            "tips": "Il est important d’interrompre tout jugement et de réfléchir avant d’agir. Par exemple, n’envoyez aucun e-mail lorsque vous êtes sous le coup de la colère.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyZD6FKcH": "Penser aux conséquences avant de s’emporter",
+            "choice_N13DpFYqB": "Compter jusqu’à 10, respirer calmement et prendre du recul vis-à-vis de la situation. ",
+            "choice_4kI-pFtqS": "Rappelez-vous que si vous avez de bonnes raisons d’être en colère, ils ont probablement mérité de subir cet accès de colère"
+        },
+        "de": {
+            "header": "Was sind einige wirksame Möglichkeiten, um den Schaden zu begrenzen, den unsere negativen Stimmungen bei anderen haben kann?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Sie können körperliche Reflexe anwenden, z. B. bis 10 zählen, während Sie langsam atmen, um den Schaden zu begrenzen. Nehmen Sie sich auch einen Moment Zeit, um über die Folgen Ihres Zorns nachzudenken.",
+            "tips": "Es ist wichtig, das Urteil auszusetzen und nachzudenken, bevor Sie handeln. Senden Sie beispielsweise keine E-Mails, wenn Sie verärgert sind.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyZD6FKcH": "Überlegen Sie sich die Konsequenzen, bevor Sie wild um sich schlagen. ",
+            "choice_N13DpFYqB": "Zählen Sie bis 10, atmen Sie langsam und entfernen Sie sich aus der Situation.",
+            "choice_4kI-pFtqS": "Denken Sie daran, dass Sie, wenn Sie gute Gründe haben, wütend zu sein, Ihren Ausbruch wahrscheinlich verdient haben",
+            "null": ""
+        },
+        "th": {
+            "header": "มีวิธีใดบ้างที่ใช้ได้ผลในการช่วยควบคุมอารมณ์ในแง่ลบของเราที่อาจจะก่อให้เกิดความเสียหายต่อผู้อื่น",
+            "explanation": "เลือกคำตอบที่ถูกต้องด้านล่าง",
+            "klf": "คุณสามารถนำปฏิกิริยาโต้ตอบหรือรีเฟล็กซ์ทางกายภาพมาใช้เช่น การนับถึง 10 โดยหายใจช้าๆ เพื่อจำกัดความเสียหาย ใช้เวลาสักครู่เพื่อคิดถึงผลที่ตามมาจากความโกรธของคุณ",
+            "tips": "สิ่งที่สำคัญคือ คุณต้องหยุดการตัดสินไว้และคิดก่อนทำ เช่น อย่าส่งอีเมลตอนที่คุณกำลังโกรธ",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyZD6FKcH": "คิดถึงผลที่จะตามมาก่อนจะระเบิดอารมณ์ออกไป",
+            "choice_N13DpFYqB": "นับถึง 10 หายใจช้าๆ แล้วพาตัวเองออกมาจากสถานการณ์นั้น",
+            "choice_4kI-pFtqS": "จำไว้ว่าหากคุณมีเหตุผลที่ดีที่จะโกรธ คนเหล่านั้นอาจสมควรที่จะได้รับรู้ความโกรธของคุณ",
+            "null": ""
+        }
+    }
+}

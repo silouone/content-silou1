@@ -1,0 +1,121 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T15:28:51.883Z",
+            "updatedAt": "2019-04-08T15:28:51.883Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkhdSmEKI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4kLtUU4tU",
+        "universalRef": "sli_4kLtUU4tU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kLtUU4tU.choice_V1zoILNK8.id",
+                        "label": "choice_V1zoILNK8",
+                        "value": "choice_V1zoILNK8"
+                    },
+                    {
+                        "id": "sli_4kLtUU4tU.choice_EyXj8IVt8.id",
+                        "label": "choice_EyXj8IVt8",
+                        "value": "choice_EyXj8IVt8"
+                    },
+                    {
+                        "id": "sli_4kLtUU4tU.choice_Nyt28UNYI.id",
+                        "label": "choice_Nyt28UNYI",
+                        "value": "choice_Nyt28UNYI"
+                    },
+                    {
+                        "id": "sli_4kLtUU4tU.choice_NJeaUUNKU.id",
+                        "label": "choice_NJeaUUNKU",
+                        "value": "choice_NJeaUUNKU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1zoILNK8",
+                        "choice_EyXj8IVt8",
+                        "choice_Nyt28UNYI",
+                        "choice_NJeaUUNKU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What qualifications and/or experience can give you the most authority in your field?",
+            "explanation": "Select the correct answers below.",
+            "klf": "It depends on the context! When being introduced, make sure the most relevant experience is given to boost your influence.",
+            "tips": "Don't rely on your business card to tell people about your credentials.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zoILNK8": "The numbers of years you worked in that field",
+            "choice_EyXj8IVt8": "A specific project you worked on",
+            "choice_Nyt28UNYI": "A company you worked with",
+            "choice_NJeaUUNKU": "Your education and degrees"
+        },
+        "fr": {
+            "header": "Quelles qualifications et / ou expériences peuvent vous donner le plus d'autorité dans votre domaine ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Ça dépend du contexte ! Lorsque l'on vous présente, assurez-vous que votre expérience la plus pertinente soit mentionnée afin de renforcer votre influence.",
+            "tips": "Ne comptez pas sur votre carte de visite pour informer les gens de vos qualifications.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zoILNK8": "Votre nombre d'années de travail dans ce domaine",
+            "choice_EyXj8IVt8": "Un projet spécifique sur lequel vous avez travaillé",
+            "choice_Nyt28UNYI": "Une entreprise avec laquelle vous avez travaillé",
+            "choice_NJeaUUNKU": "Votre éducation et vos diplômes"
+        },
+        "de": {
+            "header": "What qualifications and/or experience can give you the most authority in your field?",
+            "explanation": "Select the correct answers below.",
+            "klf": "It depends on the context! When being introduced, make sure the most relevant experience is given to boost your influence.",
+            "tips": "Don't rely on your business card to tell people about your credentials.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zoILNK8": "The numbers of years you worked in that field",
+            "choice_EyXj8IVt8": "A specific project you worked on",
+            "choice_Nyt28UNYI": "A company you worked with",
+            "choice_NJeaUUNKU": "Your education and degrees"
+        },
+        "th": {
+            "header": "What qualifications and/or experience can give you the most authority in your field?",
+            "explanation": "Select the correct answers below.",
+            "klf": "It depends on the context! When being introduced, make sure the most relevant experience is given to boost your influence.",
+            "tips": "Don't rely on your business card to tell people about your credentials.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1zoILNK8": "The numbers of years you worked in that field",
+            "choice_EyXj8IVt8": "A specific project you worked on",
+            "choice_Nyt28UNYI": "A company you worked with",
+            "choice_NJeaUUNKU": "Your education and degrees"
+        }
+    }
+}

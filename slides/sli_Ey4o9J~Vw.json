@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-17T13:12:38.917Z",
+            "updatedAt": "2019-08-27T14:38:14.636Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kiJ5k47D"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_Ey4o9J~Vw",
+        "universalRef": "sli_Ey4o9J~Vw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_Ey4o9J~Vw.choice_NJtTcJb4D.id",
+                        "label": "choice_NJtTcJb4D",
+                        "value": "choice_NJtTcJb4D"
+                    },
+                    {
+                        "id": "sli_Ey4o9J~Vw.choice_4yo69JZEv.id",
+                        "label": "choice_4yo69JZEv",
+                        "value": "choice_4yo69JZEv"
+                    },
+                    {
+                        "id": "sli_Ey4o9J~Vw.choice_4yTTc1WNw.id",
+                        "label": "choice_4yTTc1WNw",
+                        "value": "choice_4yTTc1WNw"
+                    },
+                    {
+                        "id": "sli_Ey4o9J~Vw.choice_NyyRcy~4P.id",
+                        "label": "choice_NyyRcy~4P",
+                        "value": "choice_NyyRcy~4P"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyyRcy~4P",
+                        "choice_4yo69JZEv",
+                        "choice_4yTTc1WNw",
+                        "choice_NJtTcJb4D"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Ask for the order! In which order should you take the following steps when faced with your client?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "Don't draw out your proposal or put off asking for the order. Come prepared with questions you know the customer will say yes to, use this agreement staircase, make your offer, then remain silent. Let the customer speak first.",
+            "tips": "Using the power of silence after an important part of your discourse will help underline crucial information.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJtTcJb4D": "Stay silent",
+            "choice_4yo69JZEv": "Use the agreement staircase",
+            "choice_4yTTc1WNw": "Make your offer",
+            "choice_NyyRcy~4P": "Prepare questions they will say yes to"
+        },
+        "fr": {
+            "header": "Demandez la commande! Dans quel ordre devriez-vous suivre les étapes suivantes face à votre client?",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "Ne rédigez pas votre proposition et ne tardez pas à demander votre commande. Préparez-vous avec des questions auxquelles le client répondra par l'affirmative, utilisez cet escalier prévu dans le contrat, faites votre offre puis restez silencieux. Laissez le client parler en premier.",
+            "tips": "Utiliser le pouvoir du silence après une partie importante de votre discours aidera à souligner des informations cruciales.",
+            "choice_NJtTcJb4D": "Rester silencieux",
+            "choice_4yo69JZEv": "Utilisez l'escalier de l'accord",
+            "choice_4yTTc1WNw": "Faites votre offre",
+            "choice_NyyRcy~4P": "Préparez des questions auxquelles ils répondront oui",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Ask for the order! In which order should you take the following steps when faced with your client?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "Don't draw out your proposal or put off asking for the order. Come prepared with questions you know the customer will say yes to, use this agreement staircase, make your offer, then remain silent. Let the customer speak first.",
+            "tips": "Using the power of silence after an important part of your discourse will help underline crucial information.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJtTcJb4D": "Stay silent",
+            "choice_4yo69JZEv": "Use the agreement staircase",
+            "choice_4yTTc1WNw": "Make your offer",
+            "choice_NyyRcy~4P": "Prepare questions they will say yes to"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJtTcJb4D": "",
+            "choice_4yo69JZEv": "",
+            "choice_4yTTc1WNw": "",
+            "choice_NyyRcy~4P": ""
+        }
+    }
+}

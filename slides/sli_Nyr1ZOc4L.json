@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T14:13:50.248Z",
+            "updatedAt": "2019-02-12T09:07:46.390Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJfl1WHVI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_Nyr1ZOc4L",
+        "universalRef": "sli_Nyr1ZOc4L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nyr1ZOc4L.choice_VkIj~-5NL.id",
+                        "label": "choice_VkIj~-5NL",
+                        "value": "choice_VkIj~-5NL"
+                    },
+                    {
+                        "id": "sli_Nyr1ZOc4L.choice_VkUCZ-qEU.id",
+                        "label": "choice_VkUCZ-qEU",
+                        "value": "choice_VkUCZ-qEU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkIj~-5NL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you make tomorrow's first hour great?",
+            "explanation": "Select the correct answer.",
+            "klf": "Before you leave work, pick out the next morning's task so you have it ready to complete as soon as you get in.",
+            "tips": "Jakob Nielsen’s eye-tracking study from 2008 showed that  less than 20% of the text content is actually read on the web.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkIj~-5NL": "Pick out the next morning's challenging task",
+            "choice_VkUCZ-qEU": "Send yourself emails with falling kitten websites to scroll on."
+        },
+        "fr": {
+            "header": "Comment pouvez-vous faire de la première heure de demain un succès ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Avant de quitter votre travail, choisissez la tâche du lendemain matin afin qu'elle soit prête à être réalisée dès votre arrivée.",
+            "tips": "L’étude de suivi du regard de Jakob Nielsen de 2008 a montré que moins de 20 % du contenu textuel est lu sur le Web.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkIj~-5NL": "Choisir la tâche difficile à accomplir le lendemain matin",
+            "choice_VkUCZ-qEU": "Vous envoyer par email des adresses de sites avec des chatons qui tombent pour les regarder"
+        },
+        "de": {
+            "header": "Wie können Sie die erste Stunde am morgen großartig gestalten?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Bevor Sie die Arbeit verlassen, sollten Sie sich die Aufgaben des nächsten Morgens aussuchen, damit Sie sie gleich nach dem Einstieg fertigstellen können.",
+            "tips": "Jakob Nielsens Eye-Tracking-Studie aus dem Jahr 2008 hat gezeigt, dass weniger als 20% des Textinhalts tatsächlich im Web gelesen werden.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkIj~-5NL": "Suchen Sie sich ein herausfordernde Aufgabe für den nächsten Morgen aus",
+            "choice_VkUCZ-qEU": "Senden Sie sich selbst E-Mails mit fallenden Kätzchen-Websites, auf denen Sie scrollen können."
+        },
+        "th": {
+            "header": "How can you make tomorrow's first hour great?",
+            "explanation": "Select the correct answer.",
+            "klf": "Before you leave work, pick out the next morning's task so you have it ready to complete as soon as you get in.",
+            "tips": "Jakob Nielsen’s eye-tracking study from 2008 showed that  less than 20% of the text content is actually read on the web.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkIj~-5NL": "Pick out the next morning's challenging task",
+            "choice_VkUCZ-qEU": "Send yourself emails with falling kitten websites to scroll on."
+        }
+    }
+}

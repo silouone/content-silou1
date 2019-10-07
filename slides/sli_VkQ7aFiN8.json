@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-12T10:22:43.780Z",
+            "updatedAt": "2019-02-15T15:35:25.569Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyS1pD9EU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VkQ7aFiN8",
+        "universalRef": "sli_VkQ7aFiN8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkQ7aFiN8.choice_V19V6FoE8.id",
+                        "label": "choice_V19V6FoE8",
+                        "value": "choice_V19V6FoE8"
+                    },
+                    {
+                        "id": "sli_VkQ7aFiN8.choice_VJAE6FiEU.id",
+                        "label": "choice_VJAE6FiEU",
+                        "value": "choice_VJAE6FiEU"
+                    },
+                    {
+                        "id": "sli_VkQ7aFiN8.choice_N1uSTFoNI.id",
+                        "label": "choice_N1uSTFoNI",
+                        "value": "choice_N1uSTFoNI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V19V6FoE8",
+                        "choice_VJAE6FiEU",
+                        "choice_N1uSTFoNI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are some helpful ways to put together a to-do list?",
+            "explanation": "Select the correct answers.",
+            "klf": "Estimate how long each task will take, then prioritise them. Batch smaller tasks together so that they can be done quickly. It's better to tackle one task at a time and complete the biggest first.",
+            "tips": "If you don't know how long a task will take you, multiplying your initial estimation by 1.5 is a good idea.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V19V6FoE8": "Estimate how long you think each task will take to complete",
+            "choice_VJAE6FiEU": "Prioritise tasks",
+            "choice_N1uSTFoNI": "List smaller, less important tasks together"
+        },
+        "fr": {
+            "header": "Quels moyens vous seront utiles pour élaborer une liste de tâches ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Estimez la durée de chaque tâche, puis hiérarchisez-les. Regroupez les tâches plus petites pour les effectuer rapidement. Mieux vaut s'attaquer à une tâche à la fois et terminer la plus grande en premier.",
+            "tips": "Si vous ne savez pas combien de temps une tâche vous prendra, multiplier votre estimation initiale par 1,5 est une bonne idée.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V19V6FoE8": "Estimer combien de temps chaque tâche prendra",
+            "choice_VJAE6FiEU": "Hiérarchiser les tâches",
+            "choice_N1uSTFoNI": "Regrouper les tâches plus petites et de moindre importance"
+        },
+        "de": {
+            "header": "Was sind einige hilfreiche Möglichkeiten, um eine To-Do-Liste zusammenzustellen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Schätzen Sie ab, wie lange die einzelnen Aufgaben dauern werden, und legen Sie dann Prioritäten fest. Gruppieren Sie kleinere Aufgaben zusammen, damit sie schnell erledigt werden können. Es ist besser, eine Aufgabe auf einmal zu lösen und die größte zuerst zu erledigen.",
+            "tips": "Wenn Sie nicht wissen, wie lange eine Aufgabe dauert, ist es eine gute Idee, Ihre anfängliche Schätzung mit 1,5 zu multiplizieren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V19V6FoE8": "Schätzen Sie, wie lange Sie denken, wann jede Aufgabe abgeschlossen sein wird",
+            "choice_VJAE6FiEU": "Aufgaben priorisieren",
+            "choice_N1uSTFoNI": "Listen Sie kleinere, weniger wichtige Aufgaben auf"
+        },
+        "th": {
+            "header": "What are some helpful ways to put together a to-do list?",
+            "explanation": "Select the correct answers.",
+            "klf": "Estimate how long each task will take, then prioritise them. Batch smaller tasks together so that they can be done quickly. It's better to tackle one task at a time and complete the biggest first.",
+            "tips": "If you don't know how long a task will take you, multiplying your initial estimation by 1.5 is a good idea.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V19V6FoE8": "Estimate how long you think each task will take to complete",
+            "choice_VJAE6FiEU": "Prioritise tasks",
+            "choice_N1uSTFoNI": "List smaller, less important tasks together"
+        }
+    }
+}

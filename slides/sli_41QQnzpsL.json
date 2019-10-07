@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-09T14:30:31.472Z",
+            "updatedAt": "2019-05-15T15:21:35.910Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1Z7oOciI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_41QQnzpsL",
+        "universalRef": "sli_41QQnzpsL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41QQnzpsL.choice_4Jx~jAM6sL.id",
+                        "label": "choice_4Jx~jAM6sL",
+                        "value": "choice_4Jx~jAM6sL",
+                        "media": "med_N1WsRMpo8"
+                    },
+                    {
+                        "id": "sli_41QQnzpsL.choice_Nkeel1mpiL.id",
+                        "label": "choice_Nkeel1mpiL",
+                        "value": "choice_Nkeel1mpiL",
+                        "media": "med_41lek7pjU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jx~jAM6sL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Agreeing to something without being aware of all requirements is not good practice. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Never agree to separate parts.",
+            "tips": "The strategy called ‘rank ordering’ can help you make the other party understand your priorities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jx~jAM6sL": "TRUE",
+            "choice_Nkeel1mpiL": "FALSE"
+        },
+        "fr": {
+            "header": "Accepter quelque chose sans connaître toutes les conditions n'est pas une bonne pratique. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Ne jamais accepter de parties distinctes.",
+            "tips": "La stratégie appelée « classement » peut vous aider à faire comprendre à l’autre partie quelles sont vos priorités.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jx~jAM6sL": "VRAI",
+            "choice_Nkeel1mpiL": "FAUX"
+        },
+        "de": {
+            "header": "Agreeing to something without being aware of all requirements is not good practice. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Never agree to separate parts.",
+            "tips": "The strategy called ‘rank ordering’ can help you make the other party understand your priorities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jx~jAM6sL": "True",
+            "choice_Nkeel1mpiL": "False"
+        },
+        "th": {
+            "header": "Agreeing to something without being aware of all requirements is not good practice. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Never agree to separate parts.",
+            "tips": "The strategy called ‘rank ordering’ can help you make the other party understand your priorities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jx~jAM6sL": "TRUE",
+            "choice_Nkeel1mpiL": "FALSE"
+        }
+    }
+}

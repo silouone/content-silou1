@@ -1,0 +1,114 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-09-04T15:32:06.166Z",
+            "updatedAt": "2019-09-04T15:32:06.166Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3GiyNmP"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_E1M6w6dHD",
+        "universalRef": "sli_E1M6w6dHD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1M6w6dHD.choice_Nkk~dTOrw.id",
+                        "label": "choice_Nkk~dTOrw",
+                        "value": "choice_Nkk~dTOrw"
+                    },
+                    {
+                        "id": "sli_E1M6w6dHD.choice_Vkl~-a-SD.id",
+                        "label": "choice_Vkl~-a-SD",
+                        "value": "choice_Vkl~-a-SD"
+                    },
+                    {
+                        "id": "sli_E1M6w6dHD.choice_EyW~uadSD.id",
+                        "label": "choice_EyW~uadSD",
+                        "value": "choice_EyW~uadSD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyW~uadSD"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_N1VCvTurP",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you react when discussions get stuck?",
+            "explanation": "Select the correct answer.",
+            "klf": "When discussions are at a dead end, you need to find out what the real problem is. Don’t offer an opinion or solution until you have all the facts. Listen to the client’s assessment and question them for gaps in your knowledge.",
+            "tips": "Don’t forget to summarise the facts. Ensure the client agrees that the facts are correct, relevant, and complete.",
+            "clue": "",
+            "context_title": "Garbage problem",
+            "context_description": "You are having a meeting with a client whose recycling facility can’t sort its waste fast enough. They need to double their productivity, and have come to you for advice. It looks like discussions have been brought to a dead end, however: they are declining every single option you are offering.",
+            "context_media_description": "",
+            "choice_Nkk~dTOrw": "Explain to the client that you simply have no solution that meets their needs",
+            "choice_Vkl~-a-SD": "Keep offering solutions even if you do not have all the facts",
+            "choice_EyW~uadSD": "Question the client for gaps in your knowledge"
+        },
+        "fr": {
+            "header": "Comment devez-vous réagir lorsque les discussions sont bloquées?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Lorsque les discussions sont dans l'impasse, vous devez savoir quel est le véritable problème. Ne donnez pas d’avis ou de solution avant d’avoir tous les faits. Écoutez l’évaluation du client et interrogez-le sur les lacunes de vos connaissances.",
+            "tips": "N’oubliez pas de résumer les faits. Assurez-vous que le client accepte que les faits sont corrects, pertinents et complets.",
+            "context_title": "Problème de déchets",
+            "context_description": "Vous rencontrez un client dont le centre de recyclage ne peut pas trier ses déchets assez rapidement. Ils doivent doubler leur productivité et vous ont demandé conseil. Il semble toutefois que les discussions aient abouti à une impasse: elles déclinent toutes les options que vous proposez.",
+            "choice_Nkk~dTOrw": "Expliquez au client que vous n'avez simplement aucune solution qui répond à ses besoins",
+            "choice_Vkl~-a-SD": "Continuez à proposer des solutions même si vous ne possédez pas tous les faits",
+            "choice_EyW~uadSD": "Interrogez le client sur les lacunes dans vos connaissances",
+            "clue": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "How should you react when discussions get stuck?",
+            "explanation": "Select the correct answer.",
+            "klf": "When discussions are at a dead end, you need to find out what the real problem is. Don’t offer an opinion or solution until you have all the facts. Listen to the client’s assessment and question them for gaps in your knowledge.",
+            "tips": "Don’t forget to summarise the facts. Ensure the client agrees that the facts are correct, relevant, and complete.",
+            "clue": "",
+            "context_title": "Garbage problem",
+            "context_description": "You are having a meeting with a client whose recycling facility can’t sort its waste fast enough. They need to double their productivity, and have come to you for advice. It looks like discussions have been brought to a dead end, however: they are declining every single option you are offering.",
+            "context_media_description": "",
+            "choice_Nkk~dTOrw": "Explain to the client that you simply have no solution that meets their needs",
+            "choice_Vkl~-a-SD": "Keep offering solutions even if you do not have all the facts",
+            "choice_EyW~uadSD": "Question the client for gaps in your knowledge"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nkk~dTOrw": "",
+            "choice_Vkl~-a-SD": "",
+            "choice_EyW~uadSD": ""
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-11-30T17:11:24.379Z",
+            "updatedAt": "2019-01-21T14:05:22.329Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1rgTIq0S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_N1VMCI9RH",
+        "universalRef": "sli_N1VMCI9RH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1VMCI9RH.choice_N1lX0UcAH.id",
+                        "label": "choice_N1lX0UcAH",
+                        "value": "choice_N1lX0UcAH"
+                    },
+                    {
+                        "id": "sli_N1VMCI9RH.choice_NJWXC85CH.id",
+                        "label": "choice_NJWXC85CH",
+                        "value": "choice_NJWXC85CH"
+                    },
+                    {
+                        "id": "sli_N1VMCI9RH.choice_N1G7RU5Ar.id",
+                        "label": "choice_N1G7RU5Ar",
+                        "value": "choice_N1G7RU5Ar"
+                    },
+                    {
+                        "id": "sli_N1VMCI9RH.choice_EymX0L5AH.id",
+                        "label": "choice_EymX0L5AH",
+                        "value": "choice_EymX0L5AH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1G7RU5Ar",
+                        "choice_EymX0L5AH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the responses below are productive ways to think about failure?",
+            "explanation": "Select the correct answers.",
+            "klf": "Failure is a sign of growth: take it as evidence that you are reaching the end of your comfort zone. If you try to learn from your mistakes instead of trying to achieve perfection, you may well be starting on the road to success!",
+            "tips": "Everyones knows the giant Ford Motor Company. But did you know that Henry Ford founded and bankrupted 2 companies before starting Ford?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1lX0UcAH": "Trying is the first step to failure",
+            "choice_NJWXC85CH": "Failure shows we are not prepared for a task",
+            "choice_N1G7RU5Ar": "Failure shows we are pushing beyond our limits",
+            "choice_EymX0L5AH": "We can learn from our failures"
+        },
+        "fr": {
+            "header": "Quelles réponses ci-dessous constituent des moyens productifs de réfléchir à l’échec ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "L’échec prouve que vous évoluez : considérez-le comme la preuve que vous avez atteint les limites de votre zone de confort. Si vous essayez d’apprendre à partir de vos erreurs plutôt que de rechercher la perfection, vous êtes peut-être sur la voie du succès !",
+            "tips": "Tout le monde connaît le géant automobile Ford. Mais savez-vous qu’Henry Ford a créé 2 entreprises et a fait faillite à deux reprises avant de lancer le géant de l’automobile Ford ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1lX0UcAH": "Essayer est la première étape vers l’échec",
+            "choice_NJWXC85CH": "L’échec montre que nous ne sommes pas prêts pour une tâche",
+            "choice_N1G7RU5Ar": "L’échec montre que nous repoussons nos limites",
+            "choice_EymX0L5AH": "Nous pouvons apprendre de nos échecs"
+        },
+        "de": {
+            "header": "Welche der folgenden Antworten sind produktive Wege, um über Misserfolg nachzudenken?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Misserfolg ist ein Zeichen von Wachstum: Nehmen Sie es als Beweis dafür an, dass Sie das Ende Ihrer Komfortzone erreichen. Wenn Sie versuchen, aus Ihren Fehlern zu lernen, anstatt Perfektion zu erreichen, sind Sie vielleicht auf dem Weg zum Erfolg!",
+            "tips": "Jeder kennt den Riesen Ford Motor Company. Aber wussten Sie, dass Henry Ford vor dem Start von Ford zwei Unternehmen gegründet und in Konkurs gebracht hat?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1lX0UcAH": "Versuchen ist der erste Schritt zum Scheitern",
+            "choice_NJWXC85CH": "Misserfolgt zeigt, dass wir nicht auf eine Aufgabe vorbereitet sind",
+            "choice_N1G7RU5Ar": "Misserfolge zeigen, dass wir unsere Grenzen überschreiten",
+            "choice_EymX0L5AH": "Wir können aus unseren Fehlern lernen"
+        },
+        "th": {
+            "header": "Which of the responses below are productive ways to think about failure?",
+            "explanation": "Select the correct answers.",
+            "klf": "Failure is a sign of growth: take it as evidence that you are reaching the end of your comfort zone. If you try to learn from your mistakes instead of trying to achieve perfection, you may well be starting on the road to success!",
+            "tips": "Everyones knows the giant Ford Motor Company. But did you know that Henry Ford founded and bankrupted 2 companies before starting Ford?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1lX0UcAH": "Trying is the first step to failure",
+            "choice_NJWXC85CH": "Failure shows we are not prepared for a task",
+            "choice_N1G7RU5Ar": "Failure shows we are pushing beyond our limits",
+            "choice_EymX0L5AH": "We can learn from our failures"
+        }
+    }
+}

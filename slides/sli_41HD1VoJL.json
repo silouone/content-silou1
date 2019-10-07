@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-13T11:25:25.513Z",
+            "updatedAt": "2019-01-21T14:34:04.880Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1QXhs-J8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_41HD1VoJL",
+        "universalRef": "sli_41HD1VoJL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41HD1VoJL.choice_VkJaeEik8.id",
+                        "label": "choice_VkJaeEik8",
+                        "value": "choice_VkJaeEik8"
+                    },
+                    {
+                        "id": "sli_41HD1VoJL.choice_4JgJplVsJL.id",
+                        "label": "choice_4JgJplVsJL",
+                        "value": "choice_4JgJplVsJL"
+                    },
+                    {
+                        "id": "sli_41HD1VoJL.choice_VyfalNi18.id",
+                        "label": "choice_VyfalNi18",
+                        "value": "choice_VyfalNi18"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JgJplVsJL"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_E1ALtDokL",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you do first?",
+            "explanation": "Select the correct answer.",
+            "klf": "In this case, you'd better ask Stuart how the news should be broken. This should be done quickly, as he will worry whether his colleagues know the news or not.",
+            "tips": "Find the best communication tool to inform your team. You want to send an email to everyone to get rid of it? Maybe you'd better plan a group meeting to speak up and avoid impersonal speech.",
+            "clue": "",
+            "context_title": "Share bad news with other employees",
+            "context_description": "Stuart, one of your team members, didn't get the assistant director job. You were sure he would make it but your boss used his veto – he thinks Stuart is not tough enough to handle it. Now you have to inform your team that the position is still vacant. But everybody knows that Stuart applied for the job…",
+            "context_media_description": "",
+            "choice_VkJaeEik8": "You send an email to every member of the team to inform them that the job is available",
+            "choice_4JgJplVsJL": "You ask Stuart how he'd like his colleagues to be informed",
+            "choice_VyfalNi18": "You ask your boss to announce it to your team"
+        },
+        "fr": {
+            "header": "Que devez-vous faire avant tout ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans le cas présent, il est préférable de demander à Stéphane comment la nouvelle doit être annoncée. Cela doit être fait rapidement, car il va se demander si ses collègues sont déjà au courant ou pas.",
+            "tips": "Trouvez le meilleur moyen pour informer votre équipe. Vous souhaitez envoyer un e-mail à chacun pour vous débarrasser de cette tâche ? Il peut être préférable de planifier une réunion d’équipe pour s’exprimer sur le sujet et éviter tout discours impersonnel.",
+            "clue": "",
+            "context_title": "Partager une mauvaise nouvelle avec d’autres employés",
+            "context_description": "Stéphane, l’un de vos collaborateurs, n’a pas obtenu le poste de directeur adjoint qu’il avait demandé. Vous étiez certain qu’il l’obtiendrait, mais votre supérieur a opposé son veto – il pense que Stéphane n’est pas assez tenace pour occuper ce poste. Vous devez maintenant annoncer à l’équipe que le poste est toujours vacant. Mais tout le monde sait que Stéphane a candidaté à ce poste…",
+            "context_media_description": "",
+            "choice_VkJaeEik8": "Vous souhaitez envoyer un e-mail à tous les membres de l’équipe pour les informer que le poste est toujours vacant",
+            "choice_4JgJplVsJL": "Vous demandez à Stéphane comment il souhaiterait que ses collègues soient informés",
+            "choice_VyfalNi18": "Vous demandez à votre supérieur de l’annoncer à votre équipe"
+        },
+        "de": {
+            "header": "Was solltest du zuerst machen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In diesem Fall sollten Sie Stuart besser fragen, wie die Nachrichten überbracht werden sollen. Dies sollte schnell geschehen, da er sich Sorgen machen wird, ob seine Kollegen die Neuigkeiten kennen oder nicht.",
+            "tips": "Finden Sie das beste Kommunikationsmittel, um Ihr Team zu informieren. Möchten Sie eine E-Mail an alle senden, um sie loszuwerden? Vielleicht planen Sie besser ein Gruppentreffen, um sich zu äußern und unpersönliche Reden zu vermeiden.",
+            "clue": "",
+            "context_title": "Teilen Sie schlechte Nachrichten mit anderen Mitarbeitern",
+            "context_description": "Stuart, einer Ihrer Teammitglieder, bekam den Job als Regieassisten nicht. Sie waren sicher, dass er es schaffen würde, aber Ihr Chef hat sein Veto eingesetzt - er denkt, dass Stuart nicht hart genug ist, um damit umzugehen. Nun müssen Sie Ihr Team informieren, dass die Stelle noch frei ist. Aber jeder weiß, dass sich Stuart für den Job beworben hat…",
+            "context_media_description": "",
+            "choice_VkJaeEik8": "Sie senden eine E-Mail an jedes Mitglied des Teams, um sie darüber zu informieren, dass der Job verfügbar ist",
+            "choice_4JgJplVsJL": "Sie fragen Stuart, wie er möchte, dass seine Kollegen informiert werden",
+            "choice_VyfalNi18": "Sie bitten Ihren Chef, es Ihrem Team mitzuteilen"
+        },
+        "th": {
+            "header": "คุณควรจะทำอะไรก่อน",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "ในกรณีนี้ คุณควรจะถามสจ๊วตว่าควรจะแจ้งข่าวนี้ออกไปอย่างไรดี ควรดำเนินการเรื่องนี้อย่างรวดเร็ว เนื่องจากเขาอาจเป็นกังวลว่าเพื่อนร่วมงานทราบข่าวนี้แล้วหรือยัง",
+            "tips": "หาเครื่องมือสื่อสารที่ดีที่สุดเพื่อแจ้งข่าวให้ทีมของคุณทราบ คุณอยากจะส่งอีเมลหาทุกคนเพื่อให้สิ้นเรื่องสิ้นราวไปใช่ไหม บางทีคุณควรจะวางแผนการประชุมกลุ่มเพื่อพูดคุยและหลีกเลี่ยงคำพูดแบบเหมารวมโดยขาดความเห็นอกเห็นใจ",
+            "clue": "",
+            "context_title": "แบ่งปันข่าวร้ายร่วมกับพนักงานคนอื่นๆ",
+            "context_description": "สจ๊วตที่เป็นสมาชิกคนหนึ่งในทีมของคุณไม่ได้รับตำแหน่งผู้ช่วยผู้อำนวยการ คุณมั่นใจว่า เขาจะต้องได้แน่ แต่หัวหน้าของคุณยับยั้งเอาไว้ เขาคิดว่าสจ๊วตไม่เข้มแข็งพอที่จะทำงานนี้ได้ ตอนนี้คุณจะต้องแจ้งให้ทีมของคุณทราบว่าตำแหน่งนี้ยังคงว่างอยู่ แต่ทุกคนทราบว่าสจ๊วตสมัครงานนี้…",
+            "context_media_description": "",
+            "choice_VkJaeEik8": "คุณส่งอีเมลหาสมาชิกทุกคนในทีมเพื่อแจ้งให้ทราบว่าตำแหน่งงานนี้ยังว่างอยู่",
+            "choice_4JgJplVsJL": "คุณถามสจ๊วตว่าเขาอยากให้แจ้งข่าวนี้แก่เพื่อนร่วมงานของเขาอย่างไรดี",
+            "choice_VyfalNi18": "คุณขอให้หัวหน้าของคุณประกาศข่าวนี้แก่ทีมของคุณ"
+        }
+    }
+}

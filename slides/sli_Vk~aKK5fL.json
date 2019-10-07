@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T09:35:52.891Z",
+            "updatedAt": "2019-02-21T17:06:14.210Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JNf2opW8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_Vk~aKK5fL",
+        "universalRef": "sli_Vk~aKK5fL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel22615",
+                        "items": [
+                            {
+                                "text": "choice_EJxERYt5fI",
+                                "value": "choice_EJxERYt5fI"
+                            },
+                            {
+                                "text": "choice_NybV0KK9fL",
+                                "value": "choice_NybV0KK9fL"
+                            },
+                            {
+                                "text": "choice_EyuAttqGI",
+                                "value": "choice_EyuAttqGI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel22615",
+                        "answers": [
+                            "choice_NybV0KK9fL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you do first when faced with a crisis?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When problems arise, immediate steps should be taken to act fast and help anyone affected.",
+            "tips": "One strategy to not follow is for the company's top managers to claim they don't know anything about the crisis and then reveal they actually did only a few days later. That's what Volkswagen executives did when the German car manufacturer's emissions scandal broke in 2015. How's that for flip-flopping?",
+            "clue": "Remediation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The first thing to do when a crisis breaks is to {{sel22615}}.",
+            "choice_EJxERYt5fI": "find who is responsible",
+            "choice_NybV0KK9fL": "take action and help solve it",
+            "choice_EyuAttqGI": "make sure the news doesn't spread"
+        },
+        "fr": {
+            "header": "Lorsque vous faites face à une crise, que devez-vous faire en premier lieu ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Lorsqu'un problème survient, prendre des mesures immédiates et aider les personnes impactées.",
+            "tips": "La stratégie à éviter est celle adoptée par les dirigeants d'une entreprise qui affirment ne rien connaître de la crise en question et qui, quelques jours plus tard, révèlent qu'en fait ils étaient au courant du problème. C'est ce qu'ont fait les dirigeants du constructeur automobile allemand Volkwagen lorsqu'a éclaté, en 2015, le scandale des émissions polluantes de ses véhicules. Que signifie ce revirement ?",
+            "clue": "Remediation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La première chose à faire lorsqu'une crise survient est de {{sel22615}}.",
+            "choice_EJxERYt5fI": "trouver qui est responsable",
+            "choice_NybV0KK9fL": "prendre des mesures pour tenter de la résoudre",
+            "choice_EyuAttqGI": "s'assurer que la nouvelle ne soit pas divulguée"
+        },
+        "de": {
+            "header": "Was sollten Sie als Erstes in einer Krise tun?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Bei Problemen sollten sofort Schritte unternommen werden, um schnell zu handeln und den Betroffenen zu helfen.",
+            "tips": "Eine Strategie, die nicht verfolgt werden sollte, besteht darin, dass die Top-Manager des Unternehmens behaupten, dass sie nichts über die Krise wissen und dann enthüllen, dass sie nur wenige Tage später sie darüber bescheid wussten. Das haben Volkswagen Führungskräfte getan, als der Abgasskandal des deutschen Autoherstellers 2015 ausbrach. Wie sieht es mit dem Flip-Floppen aus?",
+            "clue": "Korrektur",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Das erste, was zu tun ist, wenn eine Krise ausbricht, ist {{sel22615}}.",
+            "choice_EJxERYt5fI": "heraus zu finden, wer dafür verantwortlich ist,",
+            "choice_NybV0KK9fL": "Maßnahmen ergreifen und helfen, das Problem zu lösen",
+            "choice_EyuAttqGI": "Stellen Sie sicher, dass sich die Nachrichten nicht verbreiten"
+        },
+        "th": {
+            "header": "What should you do first when faced with a crisis?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When problems arise, immediate steps should be taken to act fast and help anyone affected.",
+            "tips": "One strategy to not follow is for the company's top managers to claim they don't know anything about the crisis and then reveal they actually did only a few days later. That's what Volkswagen executives did when the German car manufacturer's emissions scandal broke in 2015. How's that for flip-flopping?",
+            "clue": "Remediation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The first thing to do when a crisis breaks is to {{sel22615}}.",
+            "choice_EJxERYt5fI": "find who is responsible",
+            "choice_NybV0KK9fL": "take action and help solve it",
+            "choice_EyuAttqGI": "make sure the news doesn't spread"
+        }
+    }
+}

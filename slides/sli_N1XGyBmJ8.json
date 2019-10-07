@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-07T10:50:48.145Z",
+            "updatedAt": "2019-01-21T16:16:14.253Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JtCR4X1L"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_N1XGyBmJ8",
+        "universalRef": "sli_N1XGyBmJ8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel23297",
+                        "items": [
+                            {
+                                "text": "choice_4ylkKkrXkU",
+                                "value": "choice_4ylkKkrXkU"
+                            },
+                            {
+                                "text": "choice_E1~Jt1H71I",
+                                "value": "choice_E1~Jt1H71I"
+                            },
+                            {
+                                "text": "choice_E1d5JB7y8",
+                                "value": "choice_E1d5JB7y8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel23297",
+                        "answers": [
+                            "choice_4ylkKkrXkU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you help the members of your team stay motivated in their job?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "One of the key elements to maintain a high level of motivation in your team is to share with them information as to how their work fits in the company's objectives and why their missions matter.",
+            "tips": "In order for employees to feel more involved on the larger scale, it is interesting to design, at the beginning of each year or semester, a roadmap of cross-projects for the company, and to give employees the opportunity to lead and/or participate in those they're interested in, even if they're different from their field of work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should share with them {{sel23297}}",
+            "choice_4ylkKkrXkU": "the reasons why their work matters",
+            "choice_E1~Jt1H71I": "the number of people doing similar missions",
+            "choice_E1d5JB7y8": "the deadline for their personal objectives"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous aider vos collaborateurs à rester motivés dans leur travail ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Un des éléments clés pour maintenir un niveau de motivation élevé chez vos collaborateurs est de partager des informations avec eux et de leur faire savoir que leur travail contribue aux objectifs de l’organisation, et pourquoi leurs missions sont importantes.",
+            "tips": "Pour que vos employés se sentent plus investis, à plus grande échelle, il est intéressant d’établir, au début de chaque semestre, une feuille de route de projets croisés pour l’organisation, et de donner aux employés l’opportunité de diriger et/ou de participer à ceux qui les intéressent, même s’ils diffèrent de leur domaine d’activité.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous devez partager avec eux {{sel23297}}",
+            "choice_4ylkKkrXkU": "pourquoi leur travail est important",
+            "choice_E1~Jt1H71I": "le nombre de personnes qui effectuent des missions similaires",
+            "choice_E1d5JB7y8": "le délai de leurs objectifs personnels"
+        },
+        "de": {
+            "header": "Wie können Sie den Mitgliedern Ihres Teams helfen, motiviert zu bleiben?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Ein wichtiges Element für die Aufrechterhaltung einer hohen Motivation in Ihrem Team ist es, Informationen darüber zu teilen, wie ihre Arbeit zu den Unternehmenszielen passt und warum ihre Aufgaben wichtig sind.",
+            "tips": "Damit sich die Mitarbeiter stärker im größeren Rahmen einbezogen fühlen, ist es interessant, zu Beginn eines jeden Jahres oder Semesters eine Roadmap mit projektübergreifenden Projekten für das Unternehmen zu entwerfen und den Mitarbeitern die Möglichkeit zu geben, die zu leiten und / oder teilzunehmen an denen sie interessiert sind, auch wenn sie sich von ihrem Arbeitsbereich unterscheiden.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sie sollten mit ihnen teilen {{sel23297}}",
+            "choice_4ylkKkrXkU": "die Gründe, warum ihre Arbeit wichtig ist",
+            "choice_E1~Jt1H71I": "die Anzahl der Leute, die ähnliche Missionen machen",
+            "choice_E1d5JB7y8": "die Frist für ihre persönlichen Ziele"
+        },
+        "th": {
+            "header": "คุณจะช่วยให้สมาชิกทีมมีแรงจูงใจในการทำงานต่อไปได้อย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้องในเมนูดรอปดาวน์",
+            "klf": "หนึ่งในองค์ประกอบที่สำคัญในการรักษาแรงจูงใจของสมาชิกทีมไว้ในระดับสูงนั้นคือการแบ่งปันข้อมูลกับพวกเขา เช่นว่างานของพวกเขาเข้ากันกับเป้าหมายของบริษัทอย่างไร และเหตุใดภาระหน้าที่ของพวกเขาจึงสำคัญ",
+            "tips": "เพื่อให้พนักงานรู้สึกมีส่วนร่วมมากขึ้นในระดับที่ใหญ่ขึ้น การออกแบบแผนกลยุทธ์ในการทำงานข้ามโครงการ สำหรับบริษัทในตอนต้นปีหรือครึ่งปีของแต่ละปีจึงเป็นเรื่องที่น่าสนใจ และเพื่อให้โอกาสพนักงานได้เป็นผู้นำและ/หรือมีส่วนร่วมในกิจกรรมที่สนใจ แม้ว่ากิจกรรมเหล่านั้นจะต่างจากสายงานที่ทำอยู่ก็ตาม",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "ข้อมูลที่คุณควรแบ่งปันกับพนักงาน {{sel23297}}",
+            "choice_4ylkKkrXkU": "เหตุผลที่งานของพวกเขามีความสำคัญ",
+            "choice_E1~Jt1H71I": "จำนวนพนักงานที่ปฏิบัติภารกิจเดียวกัน",
+            "choice_E1d5JB7y8": "ขีดจำกัดเวลาสำหรับเป้าหมายส่วนบุคคลของพนักงาน"
+        }
+    }
+}

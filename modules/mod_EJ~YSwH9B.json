@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T09:36:06.356Z",
+            "updatedAt": "2019-07-05T10:16:26.836Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2018-12-09T10:35:28.944Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_NkYIXPH9r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Vitaplaisance",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "mod_EJ~YSwH9B",
+        "universalRef": "mod_EJ~YSwH9B",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_VyXW3qa9B",
+            "skill_VyI~2q65r",
+            "skill_EkPb2c65r"
+        ],
+        "ineligibleBattle": false,
+        "version": "3",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "validate"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_VyXW3qa9B": "Control the impact of your emotional responses",
+            "skill_VyI~2q65r": "Listen and take onboard the feelings of your team",
+            "skill_EkPb2c65r": "Become aware of the negative emotions affecting your mood"
+        },
+        "fr": {
+            "skill_VyXW3qa9B": "Contrôler l’impact de vos réactions émotionnelles",
+            "skill_VyI~2q65r": "Écouter et tenir compte du ressenti de vos collaborateurs",
+            "skill_EkPb2c65r": "Prendre conscience des émotions négatives qui affectent votre humeur"
+        },
+        "de": {
+            "skill_VyXW3qa9B": "Kontrollieren Sie die Auswirkungen Ihrer emotionalen Reaktionen",
+            "skill_VyI~2q65r": "Hören Sie zu und nehmen Sie die Gefühle Ihres Teams auf",
+            "skill_EkPb2c65r": "Machen Sie sich der negativen Emotionen bewusst, die Ihre Stimmung beeinflussen"
+        },
+        "th": {
+            "skill_VyXW3qa9B": "ควบคุมผลกระทบของการตอบสนองทางอารมณ์ของคุณ",
+            "skill_VyI~2q65r": "รับฟังและใส่ใจกับความรู้สึกของทีม",
+            "skill_EkPb2c65r": "ระวังอารมณ์ในแง่ลบที่มีผลกระทบกับความรู้สึกของคุณ"
+        }
+    }
+}

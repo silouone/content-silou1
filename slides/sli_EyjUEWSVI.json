@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-07T11:25:59.372Z",
+            "updatedAt": "2019-02-12T09:01:56.819Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1pCAeB4I"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_EyjUEWSVI",
+        "universalRef": "sli_EyjUEWSVI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyjUEWSVI.choice_VJIKVZH4I.id",
+                        "label": "choice_VJIKVZH4I",
+                        "value": "choice_VJIKVZH4I"
+                    },
+                    {
+                        "id": "sli_EyjUEWSVI.choice_NJRFVbB48.id",
+                        "label": "choice_NJRFVbB48",
+                        "value": "choice_NJRFVbB48"
+                    },
+                    {
+                        "id": "sli_EyjUEWSVI.choice_NyY5EZSEU.id",
+                        "label": "choice_NyY5EZSEU",
+                        "value": "choice_NyY5EZSEU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJRFVbB48"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you focus your day to make yourself more productive?",
+            "explanation": "Select the correct answer.",
+            "klf": "Focus on results: define the most important 3 results for your day and do them in the times you are naturally most productive. The rest of the day is for lesser tasks.",
+            "tips": "We all know about the 24 hours circadian cycle. But have you already heard of ultradian cycles? Made popular by Nathaniel Kleitman, 'the father of sleep', they involve alternating periods of high-frequency brain activity (about 90 minutes) followed by lower-frequency brain activity (about 20 minutes).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJIKVZH4I": "Sort out all your emails first",
+            "choice_NJRFVbB48": "Pick three priority tasks to be completed today",
+            "choice_NyY5EZSEU": "Don’t take any tea breaks"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous concentrer votre journée pour vous rendre plus productif ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Concentrez-vous sur les résultats : définissez les 3 résultats les plus importants de votre journée et travaillez-y aux moments où vous êtes naturellement le plus productif. Le reste de la journée est consacré à des tâches moins importantes.",
+            "tips": "Nous connaissons tous le cycle circadien de 24 heures. Mais avez-vous déjà entendu parler des cycles ultradiens ? Rendus populaires par Nathaniel Kleitman, « le père du sommeil », ils impliquent une alternance de périodes d'activité cérébrale à haute fréquence (environ 90 minutes), suivies d'une activité cérébrale à basse fréquence (environ 20 minutes).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJIKVZH4I": "Trier tous vos emails en premier",
+            "choice_NJRFVbB48": "Choisissez trois tâches prioritaires à accomplir aujourd'hui",
+            "choice_NyY5EZSEU": "Ne prenez pas de pauses"
+        },
+        "de": {
+            "header": "Wie können Sie sich auf Ihren Tag konzentrieren, um sich produktiver zu machen?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Konzentrieren Sie sich auf Ergebnisse: Definieren Sie die wichtigsten 3 Ergebnisse für Ihren Tag und führen Sie sie in Zeiten durch, in denen Sie von Natur aus am produktivsten sind. Der Rest des Tages ist für kleinere Aufgaben.",
+            "tips": "Wir alle wissen von dem 24-Stunden-Tageszyklus. Aber haben Sie schon von ultradianen Zyklen gehört? Sie wurden von Nathaniel Kleitman, dem Vater des Schlafes, populär gemacht und beinhalten abwechselnde Perioden hochfrequenter Hirnaktivität (ca. 90 Minuten), gefolgt von niederfrequenter Hirnaktivität (ca. 20 Minuten).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJIKVZH4I": "Sortieren Sie zuerst alle Ihre E-Mails",
+            "choice_NJRFVbB48": "Wählen Sie drei vorrangige Aufgaben aus, die heute abgeschlossen werden müssen",
+            "choice_NyY5EZSEU": "Machen Sie keine Teepause"
+        },
+        "th": {
+            "header": "How can you focus your day to make yourself more productive?",
+            "explanation": "Select the correct answer.",
+            "klf": "Focus on results: define the most important 3 results for your day and do them in the times you are naturally most productive. The rest of the day is for lesser tasks.",
+            "tips": "We all know about the 24 hours circadian cycle. But have you already heard of ultradian cycles? Made popular by Nathaniel Kleitman, 'the father of sleep', they involve alternating periods of high-frequency brain activity (about 90 minutes) followed by lower-frequency brain activity (about 20 minutes).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJIKVZH4I": "Sort out all your emails first",
+            "choice_NJRFVbB48": "Pick three priority tasks to be completed today",
+            "choice_NyY5EZSEU": "Don’t take any tea breaks"
+        }
+    }
+}

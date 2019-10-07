@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T15:03:32.681Z",
+            "updatedAt": "2019-02-11T13:05:11.187Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJDtNJV4L"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4yrm8JNNI",
+        "universalRef": "sli_4yrm8JNNI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yrm8JNNI.choice_4k8HU1NEI.id",
+                        "label": "choice_4k8HU1NEI",
+                        "value": "choice_4k8HU1NEI"
+                    },
+                    {
+                        "id": "sli_4yrm8JNNI.choice_4JwHLJEE8.id",
+                        "label": "choice_4JwHLJEE8",
+                        "value": "choice_4JwHLJEE8"
+                    },
+                    {
+                        "id": "sli_4yrm8JNNI.choice_4JlPHIy4EL.id",
+                        "label": "choice_4JlPHIy4EL",
+                        "value": "choice_4JlPHIy4EL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JlPHIy4EL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who should you communicate your decision to?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When you've made a decision, you only need to tell those affected by the decision. No need to tell everyone in the company!",
+            "tips": "Once you have communicated your decision, create a feedback mechanism to check that your message has been received and understood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k8HU1NEI": "Everyone in the team",
+            "choice_4JwHLJEE8": "Senior members within the team",
+            "choice_4JlPHIy4EL": "Those who will be affected"
+        },
+        "fr": {
+            "header": "À qui devriez-vous communiquer votre décision ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Une fois que vous avez pris une décision, il vous suffit d’en informer les personnes concernées. Pas besoin de le dire à tout le monde dans l'entreprise !",
+            "tips": "Une fois que vous avez communiqué votre décision, créez un mécanisme de rétroaction pour vérifier que votre message a bien été reçu et compris.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k8HU1NEI": "Tout le monde dans l'équipe",
+            "choice_4JwHLJEE8": "Les membres seniors au sein de l'équipe",
+            "choice_4JlPHIy4EL": "Les personnes concernées"
+        },
+        "de": {
+            "header": "Wem sollten Sie Ihre Entscheidung mitteilen?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Wenn Sie eine Entscheidung getroffen haben, müssen Sie nur die von der Entscheidung Betroffenen informieren. Keine Notwendigkeit, alle im Unternehmen zu informieren!",
+            "tips": "Nachdem Sie Ihre Entscheidung mitgeteilt haben, erstellen Sie einen Feedback-Mechanismus, um zu überprüfen, ob Ihre Nachricht empfangen und verstanden wurde.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k8HU1NEI": "Jeder im Team",
+            "choice_4JwHLJEE8": "Ältere Mitglieder im Team",
+            "choice_4JlPHIy4EL": "Diejenigen, die betroffen sein werden"
+        },
+        "th": {
+            "header": "Who should you communicate your decision to?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When you've made a decision, you only need to tell those affected by the decision. No need to tell everyone in the company!",
+            "tips": "Once you have communicated your decision, create a feedback mechanism to check that your message has been received and understood.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k8HU1NEI": "Everyone in the team",
+            "choice_4JwHLJEE8": "Senior members within the team",
+            "choice_4JlPHIy4EL": "Those who will be affected"
+        }
+    }
+}

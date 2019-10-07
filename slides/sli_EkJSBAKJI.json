@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-12T10:44:04.011Z",
+            "updatedAt": "2019-03-20T10:06:59.425Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyH72ouJ8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_EkJSBAKJI",
+        "universalRef": "sli_EkJSBAKJI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkJSBAKJI.choice_EJWurRF1L.id",
+                        "label": "choice_EJWurRF1L",
+                        "value": "choice_EJWurRF1L"
+                    },
+                    {
+                        "id": "sli_EkJSBAKJI.choice_V1z-BRFJ8.id",
+                        "label": "choice_V1z-BRFJ8",
+                        "value": "choice_V1z-BRFJ8"
+                    },
+                    {
+                        "id": "sli_EkJSBAKJI.choice_NJiOHAtyL.id",
+                        "label": "choice_NJiOHAtyL",
+                        "value": "choice_NJiOHAtyL"
+                    },
+                    {
+                        "id": "sli_EkJSBAKJI.choice_NkXFBRK1U.id",
+                        "label": "choice_NkXFBRK1U",
+                        "value": "choice_NkXFBRK1U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJWurRF1L",
+                        "choice_NJiOHAtyL",
+                        "choice_NkXFBRK1U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How would you cope with an interviewee who responds to your questions with a silence?",
+            "explanation": "Select the correct answers.",
+            "klf": "When employees clam up, start thinking about how you can probe for information. For example, ask open-ended questions.",
+            "tips": "Claming up and responding with a silence can be very negative for employees who constantly act this way. Indeed, as their manager, you will hesitate to give them feedback over time. It's important to be straightforward and ask them calmly if there's something you can do to change this situation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWurRF1L": "Give them time to respond and don’t hurry them",
+            "choice_V1z-BRFJ8": "Don’t interrupt them",
+            "choice_NJiOHAtyL": "Encourage them to talk",
+            "choice_NkXFBRK1U": "Show them you want to understand"
+        },
+        "fr": {
+            "header": "Comment faire face à un interlocuteur qui réagit à vos questions en demeurant silencieux ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Lorsque des collaborateurs se murent dans le silence, réfléchissez à la manière dont vous pouvez obtenir des informations. Par exemple, posez des questions ouvertes.",
+            "tips": "Se murer dans le silence peut s’avérer très néfaste pour les employés qui adoptent constamment ce comportement. En effet, en tant que Manager, vous hésiterez à leur fournir un feedback au fil du temps. Il est important d’être direct et de leur demander calmement si vous pouvez être utile pour changer la situation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWurRF1L": "Accordez-leur du temps pour répondre, ne les pressez pas",
+            "choice_V1z-BRFJ8": "Ne les interrompez pas",
+            "choice_NJiOHAtyL": "Encouragez-les à s’exprimer",
+            "choice_NkXFBRK1U": "Montrez-leur que vous cherchez à comprendre"
+        },
+        "de": {
+            "header": "Wie würden Sie mit einem Interviewpartner umgehen, der Ihre Fragen mit einem Schweigen beantwortet?",
+            "explanation": "Wählen Sie die richtige Antwort (en) aus. Sie können mehrere Optionen auswählen.",
+            "klf": "Wenn Mitarbeiter kein Wort mehr sagen, überlegen Sie, wie Sie nach Informationen suchen können. Stellen Sie zum Beispiel offene Fragen.",
+            "tips": "Kein Wort mehr zu sagen und zu schweigen ist sehr negativ für Mitarbeiter, die sich ständig auf diese Weise verhalten. Als Manager werden Sie in der Tat zögern, ihnen im Laufe der Zeit Feedback zu geben. Es ist wichtig, unkompliziert zu sein und sie ruhig zu fragen, ob Sie etwas tun können, um diese Situation zu ändern.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWurRF1L": "Geben Sie ihnen Zeit zu antworten und stressen Sie sich nicht.",
+            "choice_V1z-BRFJ8": "Unterbrechen Sie sie nicht.",
+            "choice_NJiOHAtyL": "Ermutigen Sie sie zu reden.",
+            "choice_NkXFBRK1U": "Zeigen Sie ihnen, dass Sie verstehen wollen."
+        },
+        "th": {
+            "header": "คุณจะจัดการอย่างไรกับผู้ถูกถามที่เงียบ ไม่ยอมตอบคำถามของคุณ",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "หากพนักงานไม่ยอมพูด ให้คิดหาวิธีที่คุณจะสามารถใช้ซักถามข้อมูล เช่น ถามคำถามปลายเปิด",
+            "tips": "การไม่ยอมพูดและตอบคำถามอาจจะส่งผลร้ายต่อพนักงานที่ประพฤติตนเช่นนี้บ่อยๆ อันที่จริงแล้ว ในฐานะที่เป็นผู้จัดการ เมื่อเวลาผ่านไป คุณจะมีความลังเลที่จะให้ความเห็นลูกน้อง สิ่งสำคัญคือ ต้องตรงไปตรงมาและถามอย่างใจเย็นว่าจะมีทางใดที่คุณจะสามารถทำเพื่อช่วยแก้ไขสถานการณ์นี้ได้",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWurRF1L": "ให้เวลาตอบและอย่าเร่งเขา",
+            "choice_V1z-BRFJ8": "อย่าขัดจังหวะ",
+            "choice_NJiOHAtyL": "ส่งเสริมให้พนักงานกล้าพูดออกมา",
+            "choice_NkXFBRK1U": "แสดงให้พนักงานเห็นว่าคุณอยากทำความเข้าใจ"
+        }
+    }
+}

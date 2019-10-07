@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-13T09:51:07.186Z",
+            "updatedAt": "2019-02-15T15:48:04.576Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WGRkBEI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4JabURhV8",
+        "universalRef": "sli_4JabURhV8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel55719",
+                        "items": [
+                            {
+                                "text": "choice_E1euiU0hE8",
+                                "value": "choice_E1euiU0hE8"
+                            },
+                            {
+                                "text": "choice_41ZOoLAhEU",
+                                "value": "choice_41ZOoLAhEU"
+                            },
+                            {
+                                "text": "choice_V1c2IRhN8",
+                                "value": "choice_V1c2IRhN8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel55719",
+                        "answers": [
+                            "choice_41ZOoLAhEU"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NkIxFR3EU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you focus on to build a good relationship with Richard?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Focusing on a person’s positive attributes is the ideal way to begin a relationship.",
+            "tips": "If the compliments you make are not genuine, you’ll have others think you’re simply trying to get something out of them.",
+            "clue": "",
+            "context_title": "Building rapports with people",
+            "context_description": "You have just been assigned to work on a project with Richard from accounting. Richard seems like a stern and boring person, and you fear you will not really get along with him.",
+            "context_media_description": "",
+            "template": "You should focus on {{sel55719}}",
+            "choice_E1euiU0hE8": "the fact that it’s a short-term project.",
+            "choice_41ZOoLAhEU": "Richard’s positive attributes.",
+            "choice_V1c2IRhN8": "how annoyingly picky Richard is."
+        },
+        "fr": {
+            "header": "Sur quoi devriez-vous vous concentrer pour construire une bonne relation avec Richard ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Se concentrer sur les attributs positifs d’une personne est le moyen idéal pour débuter une relation.",
+            "tips": "Si les compliments que vous faites ne sont pas authentiques, les autres penseront que vous essayez simplement d'obtenir quelque chose d'eux.",
+            "clue": "",
+            "context_title": "Construire des rapports avec les gens",
+            "context_description": "Vous venez de travailler sur un projet avec Richard en comptabilité. Richard semble être une personne sévère et ennuyeuse, et vous craignez de ne pas vous entendre avec lui.",
+            "context_media_description": "",
+            "template": "Vous devriez vous concentrer sur {{sel55719}}",
+            "choice_E1euiU0hE8": "le fait qu’il s’agisse d’un projet à court terme.",
+            "choice_41ZOoLAhEU": "les attributs positifs de Richard.",
+            "choice_V1c2IRhN8": "combien Richard est agaçant."
+        },
+        "de": {
+            "header": "Worauf sollten Sie sich konzentrieren, um eine gute Beziehung zu Richard aufzubauen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Sich auf die positiven Eigenschaften einer Person zu konzentrieren, ist der ideale Weg, um eine Beziehung zu beginnen.",
+            "tips": "Wenn die Komplimente, die Sie machen, nicht echt sind, denken andere, dass Sie einfach versuchen, etwas daraus zu machen.",
+            "clue": "",
+            "context_title": "Rapports mit Menschen aufbauen",
+            "context_description": "Sie wurden gerade beauftragt, an einem Projekt mit Richard aus dem Rechnungswesen zu arbeiten. Richard scheint eine strenge und langweilige Person zu sein, und Sie fürchten, dass Sie nicht wirklich mit ihm auskommen werden.",
+            "context_media_description": "",
+            "template": "Sie sollten sich auf {{sel55719}} konzentrieren.",
+            "choice_E1euiU0hE8": "die Tatsache, dass es sich um ein kurzfristiges Projekt handelt",
+            "choice_41ZOoLAhEU": "Richards positive Eigenschaften.",
+            "choice_V1c2IRhN8": "wie ärgerlich wählerisch Richard ist."
+        },
+        "th": {
+            "header": "What should you focus on to build a good relationship with Richard?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Focusing on a person’s positive attributes is the ideal way to begin a relationship.",
+            "tips": "If the compliments you make are not genuine, you’ll have others think you’re simply trying to get something out of them.",
+            "clue": "",
+            "context_title": "Building rapports with people",
+            "context_description": "You have just been assigned to work on a project with Richard from accounting. Richard seems like a stern and boring person, and you fear you will not really get along with him.",
+            "context_media_description": "",
+            "template": "You should focus on {{sel55719}}",
+            "choice_E1euiU0hE8": "the fact that it’s a short-term project.",
+            "choice_41ZOoLAhEU": "Richard’s positive attributes.",
+            "choice_V1c2IRhN8": "how annoyingly picky Richard is."
+        }
+    }
+}

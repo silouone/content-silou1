@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T17:51:53.214Z",
+            "updatedAt": "2019-02-22T11:49:05.002Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkkJC1yM8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4yy1vHemU",
+        "universalRef": "sli_4yy1vHemU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yy1vHemU.choice_4JQrPrg7L.id",
+                        "label": "choice_4JQrPrg7L",
+                        "value": "choice_4JQrPrg7L"
+                    },
+                    {
+                        "id": "sli_4yy1vHemU.choice_N1VHwHxQU.id",
+                        "label": "choice_N1VHwHxQU",
+                        "value": "choice_N1VHwHxQU"
+                    },
+                    {
+                        "id": "sli_4yy1vHemU.choice_41rHvHxm8.id",
+                        "label": "choice_41rHvHxm8",
+                        "value": "choice_41rHvHxm8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JQrPrg7L"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EJbWvSlmI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is a good way to get to know people you work with?",
+            "explanation": "Select the correct answer below.",
+            "klf": "You can get to know your team by thinking of interesting stories to tell them about yourself. Sharing aspects of your personal life creates bonds and motivates people to work harder for you.",
+            "tips": "Small talk goes both ways: it is not only about making others feel considered, but also about your own health and happiness. Studies show that feeling socially connected contributes to your well-being.",
+            "clue": "",
+            "context_title": "Getting to know people",
+            "context_description": "You have just been transferred to another department in your company, and you do not know anyone on the team you will now be managing.",
+            "context_media_description": "",
+            "choice_4JQrPrg7L": "Share stories",
+            "choice_N1VHwHxQU": "Hand out personality tests",
+            "choice_41rHvHxm8": "Stalk them on social networks"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen d'apprendre à connaître les personnes avec lesquelles vous travaillez ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Vous pouvez apprendre à connaître vos collaborateurs en partageant avec eux des événements intéressants de votre vie. Partager certains moments de votre vie privée crée des liens et motive les collaborateurs à s'investir plus pour vous.",
+            "tips": "La petite discussion fonctionne dans les deux sens : elle permet non seulement à votre interlocuteur de se sentir reconnu, mais elle a également des bienfaits sur votre santé et votre bien-être. Des études ont montré que la reconnaissance sociale contribuait au bien-être de chaque individu.",
+            "clue": "",
+            "context_title": "Apprendre à mieux connaître certaines personnes",
+            "context_description": "Vous venez d'être muté dans un autre département de votre entreprise et vous ne connaissez aucun collaborateur de l'équipe que vous allez diriger.",
+            "context_media_description": "",
+            "choice_4JQrPrg7L": "Partager des histoires",
+            "choice_N1VHwHxQU": "Faire passer des tests de personnalité",
+            "choice_41rHvHxm8": "Les traquer sur les réseaux sociaux"
+        },
+        "de": {
+            "header": "Wie lernen Sie die Leute kennen, mit denen Sie zusammenarbeiten?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Sie können Ihr Team kennenlernen, indem Sie über interessante Geschichten nachdenken, um über Sie selbst zu erzählen. Das Teilen von Aspekten Ihres persönlichen Lebens schafft Bindungen und motiviert die Menschen, härter für Sie zu arbeiten.",
+            "tips": "Small Talk geht in beide Richtungen: Es geht nicht nur darum, andere dazu zu bringen, sich selbst beachtet zu fühlen, sondern auch um Ihre eigene Gesundheit und Ihr Glück. Studien zeigen, dass das Gefühl, sozial verbunden zu sein, zu Ihrem Wohlbefinden beiträgt.",
+            "clue": "",
+            "context_title": "Leute kennenlernen",
+            "context_description": "Sie wurden gerade in eine andere Abteilung Ihres Unternehmens versetzt und kennen niemanden in dem Team, das Sie jetzt verwalten werden.",
+            "context_media_description": "",
+            "choice_4JQrPrg7L": "Geschichten teilen",
+            "choice_N1VHwHxQU": "Verteilen Sie Persönlichkeitstests",
+            "choice_41rHvHxm8": "Schauen Sie sie in sozialen Netzwerken nach"
+        },
+        "th": {
+            "header": "What is a good way to get to know people you work with?",
+            "explanation": "Select the correct answer below.",
+            "klf": "You can get to know your team by thinking of interesting stories to tell them about yourself. Sharing aspects of your personal life creates bonds and motivates people to work harder for you.",
+            "tips": "Small talk goes both ways: it is not only about making others feel considered, but also about your own health and happiness. Studies show that feeling socially connected contributes to your well-being.",
+            "clue": "",
+            "context_title": "Getting to know people",
+            "context_description": "You have just been transferred to another department in your company, and you do not know anyone on the team you will now be managing.",
+            "context_media_description": "",
+            "choice_4JQrPrg7L": "Share stories",
+            "choice_N1VHwHxQU": "Hand out personality tests",
+            "choice_41rHvHxm8": "Stalk them on social networks"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-14T06:58:11.789Z",
+            "updatedAt": "2019-08-19T12:34:45.677Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkeJ51V7P"
+            ],
+            "modifiedBy": "ChRitzmannch",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_VyFF0c3XP",
+        "universalRef": "sli_VyFF0c3XP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel14074",
+                        "items": [
+                            {
+                                "text": "choice_E1l0nCchQw",
+                                "value": "choice_E1l0nCchQw"
+                            },
+                            {
+                                "text": "choice_NJZChC52Xv",
+                                "value": "choice_NJZChC52Xv"
+                            },
+                            {
+                                "text": "choice_V1XgysnXv",
+                                "value": "choice_V1XgysnXv"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel14074",
+                        "answers": [
+                            "choice_E1l0nCchQw"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When trying to expand a sale, what should you look for?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Be on the lookout for opportunities to expand the sale: what other services or products can you provide for your customer, that will have added value for them? Upsell opportunities present themselves when you can get your customer interested in buying more products, add-ons, or a higher quality of product or service than they already have.",
+            "tips": "Upselling is a different technique from downselling, which consists of getting a client to buy a cheaper or downsized version of the product/service you originally had in mind.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Widen your horizons and look for {{sel14074}} opportunities.",
+            "choice_E1l0nCchQw": "upsell",
+            "choice_NJZChC52Xv": "downsell",
+            "choice_V1XgysnXv": "oversell"
+        },
+        "fr": {
+            "header": "Que devriez-vous rechercher lorsque vous tentez de développer une vente?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Soyez à l'affût des possibilités d'élargir la vente: quels autres services ou produits pouvez-vous fournir à vos clients, qui auront une valeur ajoutée pour eux? Les opportunités d’augmentation des ventes se présentent lorsque vous pouvez inciter vos clients à acheter plus de produits, d’add-ons, ou une qualité de produit ou de service supérieure à celle dont ils disposent déjà.",
+            "tips": "L'augmentation de prix est une technique différente de la réduction, qui consiste à obliger un client à acheter une version moins chère ou plus réduite du produit / service que vous aviez à l'esprit.",
+            "template": "Élargissez vos horizons et recherchez les opportunités {{sel14074}} .",
+            "choice_E1l0nCchQw": "vente incitative",
+            "choice_NJZChC52Xv": "sous-vendre",
+            "choice_V1XgysnXv": "survendre",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "When trying to expand a sale, what should you look for?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Be on the lookout for opportunities to expand the sale: what other services or products can you provide for your customer, that will have added value for them? Upsell opportunities present themselves when you can get your customer interested in buying more products, add-ons, or a higher quality of product or service than they already have.",
+            "tips": "Upselling is a different technique from downselling, which consists of getting a client to buy a cheaper or downsized version of the product/service you originally had in mind.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Widen your horizons and look for {{sel14074}} opportunities.",
+            "choice_E1l0nCchQw": "upsell",
+            "choice_NJZChC52Xv": "downsell",
+            "choice_V1XgysnXv": "oversell"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel14074}}",
+            "choice_E1l0nCchQw": "",
+            "choice_NJZChC52Xv": "",
+            "choice_V1XgysnXv": ""
+        }
+    }
+}

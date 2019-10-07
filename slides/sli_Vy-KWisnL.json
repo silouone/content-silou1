@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T13:59:42.924Z",
+            "updatedAt": "2019-05-20T13:59:42.924Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyhN5-vnU"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Vy-KWisnL",
+        "universalRef": "sli_Vy-KWisnL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy-KWisnL.choice_NJl4C~sinL.id",
+                        "label": "choice_NJl4C~sinL",
+                        "value": "choice_NJl4C~sinL",
+                        "media": "med_EyVA~ji2I"
+                    },
+                    {
+                        "id": "sli_Vy-KWisnL.choice_E1lLAbjo3I.id",
+                        "label": "choice_E1lLAbjo3I",
+                        "value": "choice_E1lLAbjo3I",
+                        "media": "med_VJLAWji3L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJl4C~sinL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Praise should always be immediate.",
+            "explanation": "Select the correct answer.",
+            "klf": "Be on the lookout for actions that deserve praise and be quick to do it. Praise has a short shelf life: don't save it up.",
+            "tips": "Praise should be specific and honest: be precise about what your team has done well, and don’t praise people for no reason.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl4C~sinL": "TRUE",
+            "choice_E1lLAbjo3I": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Les éloges devraient toujours se faire immédiatement.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Soyez attentif aux actions qui méritent des éloges et soyez prompt à les faire. L'éloge a une courte durée de vie : exprimez-vous !",
+            "tips": "Les éloges doivent être spécifiques et honnêtes : précisez ce que votre équipe a bien fait et ne complimentez pas les gens sans raison.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl4C~sinL": "VRAI",
+            "choice_E1lLAbjo3I": "FAUX"
+        },
+        "de": {
+            "header": "True or false? Praise should always be immediate.",
+            "explanation": "Select the correct answer.",
+            "klf": "Be on the lookout for actions that deserve praise and be quick to do it. Praise has a short shelf life: don't save it up.",
+            "tips": "Praise should be specific and honest: be precise about what your team has done well, and don’t praise people for no reason.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl4C~sinL": "True",
+            "choice_E1lLAbjo3I": "False"
+        },
+        "th": {
+            "header": "True or false? Praise should always be immediate.",
+            "explanation": "Select the correct answer.",
+            "klf": "Be on the lookout for actions that deserve praise and be quick to do it. Praise has a short shelf life: don't save it up.",
+            "tips": "Praise should be specific and honest: be precise about what your team has done well, and don’t praise people for no reason.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl4C~sinL": "TRUE",
+            "choice_E1lLAbjo3I": "FALSE"
+        }
+    }
+}

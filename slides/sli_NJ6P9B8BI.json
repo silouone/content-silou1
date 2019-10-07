@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-20T13:53:03.429Z",
+            "updatedAt": "2019-02-25T13:57:11.838Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkxHE14N8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJ6P9B8BI",
+        "universalRef": "sli_NJ6P9B8BI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel87620",
+                        "items": [
+                            {
+                                "text": "choice_4Jg0OqSUrU",
+                                "value": "choice_4Jg0OqSUrU"
+                            },
+                            {
+                                "text": "choice_EkZ0d9rLSI",
+                                "value": "choice_EkZ0d9rLSI"
+                            },
+                            {
+                                "text": "choice_VkotqBUB8",
+                                "value": "choice_VkotqBUB8"
+                            },
+                            {
+                                "text": "choice_Nklqqr8HU",
+                                "value": "choice_Nklqqr8HU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel87620",
+                        "answers": [
+                            "choice_VkotqBUB8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How will you help your team members feel their job is valued?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Giving people context for their job will help them see its value.",
+            "tips": "Explaining the ins and outs of a task allows your team members to understand the reasons why it has to be done and, therefore, the importance of their own role in the process.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "By giving them {{sel87620}} .",
+            "choice_4Jg0OqSUrU": "Deadlines",
+            "choice_EkZ0d9rLSI": "Budgets",
+            "choice_VkotqBUB8": "Context",
+            "choice_Nklqqr8HU": "Rules"
+        },
+        "fr": {
+            "header": "Comment allez-vous aider les membres de votre équipe à sentir que leur travail est valorisé ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Donner aux personnes le contexte de leur travail les aidera à comprendre sa valeur.",
+            "tips": "Expliquer les tenants et les aboutissants d'une tâche permet aux membres de votre équipe de comprendre les raisons pour lesquelles elle doit être faite et, par conséquent, l'importance de leur propre rôle dans le processus.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En leur donnant {{sel87620}}.",
+            "choice_4Jg0OqSUrU": "les délais",
+            "choice_EkZ0d9rLSI": "les budgets",
+            "choice_VkotqBUB8": "le contexte",
+            "choice_Nklqqr8HU": "des directives"
+        },
+        "de": {
+            "header": "Wie können Sie Ihren Teammitgliedern das Gefühl geben, dass ihre Arbeit wertgeschätzt wird?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie den Menschen einen Kontext für ihren Job geben, können Sie ihren Wert erkennen.",
+            "tips": "Wenn Sie die Vor- und Nachteile einer Aufgabe erklären, können Ihre Teammitglieder die Gründe dafür und die Bedeutung ihrer eigenen Rolle in dem Prozess verstehen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Indem Sie ihnen {{sel87620}} geben.",
+            "choice_4Jg0OqSUrU": "Fristen",
+            "choice_EkZ0d9rLSI": "Budgets",
+            "choice_VkotqBUB8": "Kontext",
+            "choice_Nklqqr8HU": "Regeln"
+        },
+        "th": {
+            "header": "How will you help your team members feel their job is valued?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Giving people context for their job will help them see its value.",
+            "tips": "Explaining the ins and outs of a task allows your team members to understand the reasons why it has to be done and, therefore, the importance of their own role in the process.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "By giving them {{sel87620}} .",
+            "choice_4Jg0OqSUrU": "Deadlines",
+            "choice_EkZ0d9rLSI": "Budgets",
+            "choice_VkotqBUB8": "Context",
+            "choice_Nklqqr8HU": "Rules"
+        }
+    }
+}

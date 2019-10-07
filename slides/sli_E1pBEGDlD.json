@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-04T16:24:51.126Z",
+            "updatedAt": "2019-08-01T16:24:31.240Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJm-2~vlD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E1pBEGDlD",
+        "universalRef": "sli_E1pBEGDlD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_E1pBEGDlD.field_NyJQIGPxv.id",
+                        "type": "text",
+                        "name": "inp38097"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp38097",
+                        "answers": [
+                            "choice_NkemUMvgv",
+                            "choice_EkPmLfwew",
+                            "choice_4kqXUGvlw",
+                            "choice_Nk7N8fweD"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the name for an attitude consisting in doing everything to have a happy and productive day, regardless of how it started?",
+            "explanation": "Type your answer",
+            "klf": "It is possible to create a spiral of positivity at work. Just let things go and give yourself a fresh start every day!",
+            "tips": "Negative spirals do exist as well. And they are more and more recognised as diseases by several health organisations. Burn-out and bore-out, for instance, are new kinds of depression affecting people at work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Creating a positive {{inp38097}}",
+            "choice_NkemUMvgv": "spiral",
+            "choice_EkPmLfwew": "spirale",
+            "choice_4kqXUGvlw": "spirral",
+            "choice_Nk7N8fweD": "spirall",
+            "choice_4yxjMUMPgP": "",
+            "choice_N1WozUzwev": ""
+        },
+        "fr": {
+            "header": "Comment nomme-t-on l'attitude qui consiste à tout faire pour passer une journée heureuse et productive, quelle que soit la façon dont elle a commencé ?",
+            "explanation": "Tapez votre réponse",
+            "klf": "Il est possible de créer une spirale de positivité au travail. Lâchez prise et prenez un nouveau départ chaque jour !",
+            "tips": "Les spirales négatives existent aussi. Et elles sont de plus en plus reconnues comme des maladies par plusieurs organisations de santé. L’épuisement professionnel et l'ennui, par exemple, sont de nouveaux types de dépression qui affectent les gens au travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Créer une {{inp38097}} positive",
+            "choice_NkemUMvgv": "spirale",
+            "choice_EkPmLfwew": "spiralle",
+            "choice_4kqXUGvlw": "spirrale",
+            "choice_Nk7N8fweD": "spirralle",
+            "choice_4yxjMUMPgP": "",
+            "choice_N1WozUzwev": ""
+        },
+        "de": {
+            "header": "What is the name for an attitude consisting in doing everything to have a happy and productive day, regardless of how it started?",
+            "explanation": "Type your answer",
+            "klf": "It is possible to create a spiral of positivity at work. Just let things go and give yourself a fresh start every day!",
+            "tips": "Negative spirals do exist as well. And they are more and more recognised as diseases by several health organisations. Burn-out and bore-out, for instance, are new kinds of depression affecting people at work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Creating a positive {{inp38097}}",
+            "choice_NkemUMvgv": "spiral",
+            "choice_EkPmLfwew": "spirale",
+            "choice_4kqXUGvlw": "spirral",
+            "choice_Nk7N8fweD": "spirall",
+            "choice_4yxjMUMPgP": "",
+            "choice_N1WozUzwev": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp38097}}",
+            "choice_4yxjMUMPgP": "",
+            "choice_N1WozUzwev": "",
+            "choice_NkemUMvgv": "",
+            "choice_EkPmLfwew": "",
+            "choice_4kqXUGvlw": "",
+            "choice_Nk7N8fweD": ""
+        }
+    }
+}

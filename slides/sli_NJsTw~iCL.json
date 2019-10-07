@@ -1,0 +1,121 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-13T09:37:50.682Z",
+            "updatedAt": "2019-06-28T13:34:30.622Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOD-xoRI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NJsTw~iCL",
+        "universalRef": "sli_NJsTw~iCL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel18048",
+                        "items": [
+                            {
+                                "text": "choice_EkgL~uZs0I",
+                                "value": "choice_EkgL~uZs0I"
+                            },
+                            {
+                                "text": "choice_NkWUW-ZiRL",
+                                "value": "choice_NkWUW-ZiRL"
+                            },
+                            {
+                                "text": "choice_VJSMdWjCU",
+                                "value": "choice_VJSMdWjCU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel18048",
+                        "answers": [
+                            "choice_NkWUW-ZiRL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is a good frequency for your collaborators' training?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Allow your collaborators to practise as often as they need to.",
+            "tips": "If you are reading this, you are playing on a platform that enables you to learn at your own pace. Your good frequency for training will be the only good frequency here, so take as much time as you need!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Allow them to practise {{sel18048}}",
+            "choice_EkgL~uZs0I": "once in a while.",
+            "choice_NkWUW-ZiRL": "as often as they need to.",
+            "choice_VJSMdWjCU": "at home.",
+            "null": ""
+        },
+        "fr": {
+            "header": "Quelle est la bonne fréquence pour la formation de vos collaborateurs?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Permettez à vos collaborateurs de pratiquer aussi souvent qu'ils le souhaitent.",
+            "tips": "Si vous lisez ceci, vous jouez sur une plate-forme qui vous permet d'apprendre à votre propre rythme. Votre bonne fréquence d’entraînement sera la seule bonne fréquence ici, alors prenez tout le temps dont vous avez besoin!",
+            "template": "Permettez-leur de s&#39;exercer {{sel18048}}",
+            "choice_EkgL~uZs0I": "de temps à autre.",
+            "choice_NkWUW-ZiRL": "aussi souvent qu'ils en ont besoin.",
+            "choice_VJSMdWjCU": "à la maison.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What is a good frequency for your collaborators' training?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Allow your collaborators to practise as often as they need to.",
+            "tips": "If you are reading this, you are playing on a platform that enables you to learn at your own pace. Your good frequency for training will be the only good frequency here, so take as much time as you need!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Allow them to practise {{sel18048}}",
+            "choice_EkgL~uZs0I": "once in a while.",
+            "choice_NkWUW-ZiRL": "as often as they need to.",
+            "choice_VJSMdWjCU": "at home."
+        },
+        "th": {
+            "header": "What is a good frequency for your collaborators' training?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Allow your collaborators to practise as often as they need to.",
+            "tips": "If you are reading this, you are playing on a platform that enables you to learn at your own pace. Your good frequency for training will be the only good frequency here, so take as much time as you need!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Allow them to practise {{sel18048}}",
+            "choice_EkgL~uZs0I": "once in a while.",
+            "choice_NkWUW-ZiRL": "as often as they need to.",
+            "choice_VJSMdWjCU": "at home.",
+            "null": ""
+        }
+    }
+}

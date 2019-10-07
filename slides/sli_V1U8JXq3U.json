@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-19T10:31:36.505Z",
+            "updatedAt": "2019-05-20T14:25:36.670Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kdTdCOsU"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_V1U8JXq3U",
+        "universalRef": "sli_V1U8JXq3U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1U8JXq3U.choice_NJghKJX52I.id",
+                        "label": "choice_NJghKJX52I",
+                        "value": "choice_NJghKJX52I",
+                        "media": "med_Ey3tym53I"
+                    },
+                    {
+                        "id": "sli_V1U8JXq3U.choice_4JgRKyX5nI.id",
+                        "label": "choice_4JgRKyX5nI",
+                        "value": "choice_4JgRKyX5nI",
+                        "media": "med_NJCYk752L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JgRKyX5nI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "It’s a good idea to agree on a price as soon as possible, even if that means working out small details later. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! You should never agree on price, or any part of a deal for that matter, before you have worked out the whole picture.",
+            "tips": "In a negotiation, there is almost always a reluctant party and an eager party. Try to adapt your body language and communication to appear as the reluctant one!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJghKJX52I": "TRUE",
+            "choice_4JgRKyX5nI": "FALSE"
+        },
+        "fr": {
+            "header": "C’est une bonne idée de s’entendre sur un prix le plus rapidement possible, même si cela implique de régler les petits détails ultérieurement. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Faux ! Vous ne devriez jamais vous mettre d’accord sur le prix, ni sur aucune partie d’un accord, avant de l’avoir étudié dans son ensemble.",
+            "tips": "Dans une négociation, il y a presque toujours une partie réticente et une partie enthousiaste. Essayez d’adapter votre langage corporel et votre communication pour être vu comme la partie réticente !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJghKJX52I": "VRAI",
+            "choice_4JgRKyX5nI": "FAUX"
+        },
+        "de": {
+            "header": "It’s a good idea to agree on a price as soon as possible, even if that means working out small details later. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! You should never agree on price, or any part of a deal for that matter, before you have worked out the whole picture.",
+            "tips": "In a negotiation, there is almost always a reluctant party and an eager party. Try to adapt your body language and communication to appear as the reluctant one!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJghKJX52I": "True",
+            "choice_4JgRKyX5nI": "False"
+        },
+        "th": {
+            "header": "It’s a good idea to agree on a price as soon as possible, even if that means working out small details later. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! You should never agree on price, or any part of a deal for that matter, before you have worked out the whole picture.",
+            "tips": "In a negotiation, there is almost always a reluctant party and an eager party. Try to adapt your body language and communication to appear as the reluctant one!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJghKJX52I": "TRUE",
+            "choice_4JgRKyX5nI": "FALSE"
+        }
+    }
+}

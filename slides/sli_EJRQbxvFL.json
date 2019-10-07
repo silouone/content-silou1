@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T14:48:38.942Z",
+            "updatedAt": "2019-04-10T14:48:38.942Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1PFrXEt8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EJRQbxvFL",
+        "universalRef": "sli_EJRQbxvFL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJRQbxvFL.choice_E1eH~ePFL.id",
+                        "label": "choice_E1eH~ePFL",
+                        "value": "choice_E1eH~ePFL"
+                    },
+                    {
+                        "id": "sli_EJRQbxvFL.choice_EyzHZePK8.id",
+                        "label": "choice_EyzHZePK8",
+                        "value": "choice_EyzHZePK8"
+                    },
+                    {
+                        "id": "sli_EJRQbxvFL.choice_EkwrWlwYU.id",
+                        "label": "choice_EkwrWlwYU",
+                        "value": "choice_EkwrWlwYU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkwrWlwYU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What reaction are you most likely to trigger when you admit a weakness?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Admitting a flaw gives you persuasive power: people are more likely to believe the next thing you say.",
+            "tips": "‘We confess our little faults to persuade people that we have no large ones.’ (François de la Rochefoucauld)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1eH~ePFL": "A lack of confidence in you",
+            "choice_EyzHZePK8": "A desire to test your skills",
+            "choice_EkwrWlwYU": "A tendency to believe what you say next"
+        },
+        "fr": {
+            "header": "Quelle réaction êtes-vous le plus susceptible de déclencher lorsque vous admettez une faiblesse ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Admettre une faiblesse vous accorde un pouvoir de persuasion : les gens sont plus enclins à croire ce que vous dites.",
+            "tips": "« Nous confessons nos petits défauts pour persuader les autres que nous n’en avons pas de plus grands. » (François de la Rochefoucauld)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1eH~ePFL": "Un manque de confiance envers vous",
+            "choice_EyzHZePK8": "Une envie de tester vos compétences",
+            "choice_EkwrWlwYU": "Une tendance à croire ce que vous dites par la suite"
+        },
+        "de": {
+            "header": "What reaction are you most likely to trigger when you admit a weakness?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Admitting a flaw gives you persuasive power: people are more likely to believe the next thing you say.",
+            "tips": "‘We confess our little faults to persuade people that we have no large ones.’ (François de la Rochefoucauld)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1eH~ePFL": "A lack of confidence in you",
+            "choice_EyzHZePK8": "A desire to test your skills",
+            "choice_EkwrWlwYU": "A tendency to believe what you say next"
+        },
+        "th": {
+            "header": "What reaction are you most likely to trigger when you admit a weakness?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Admitting a flaw gives you persuasive power: people are more likely to believe the next thing you say.",
+            "tips": "‘We confess our little faults to persuade people that we have no large ones.’ (François de la Rochefoucauld)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1eH~ePFL": "A lack of confidence in you",
+            "choice_EyzHZePK8": "A desire to test your skills",
+            "choice_EkwrWlwYU": "A tendency to believe what you say next"
+        }
+    }
+}

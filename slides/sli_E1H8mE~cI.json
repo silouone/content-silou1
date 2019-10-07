@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-18T09:44:06.439Z",
+            "updatedAt": "2019-04-18T15:50:52.104Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJYBcX-tU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_E1H8mE~cI",
+        "universalRef": "sli_E1H8mE~cI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel20398",
+                        "items": [
+                            {
+                                "text": "choice_VygaXEVZ9L",
+                                "value": "choice_VygaXEVZ9L"
+                            },
+                            {
+                                "text": "choice_41WpQVEZqI",
+                                "value": "choice_41WpQVEZqI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel20398",
+                        "answers": [
+                            "choice_VygaXEVZ9L"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Sometimes, we tend to be harsh on ourselves when we make mistakes. But what is important to remember?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Learning from mistakes is the most important take away.",
+            "tips": "‘Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.’ (Steve Jobs)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Everyone makes mistakes. The important thing is that {{sel20398}}  .",
+            "choice_VygaXEVZ9L": "we learn from them",
+            "choice_41WpQVEZqI": "someone else takes the blame"
+        },
+        "fr": {
+            "header": "Nous avons parfois tendance à être durs envers nous-mêmes lorsque nous commettons des erreurs. Mais qu'est-il important de retenir ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Apprendre de ses erreurs est ce que nous pouvons retirer de plus important.",
+            "tips": "« Parfois, lorsque vous innovez, vous faites des erreurs. Il vaut mieux les accepter rapidement afin d’améliorer vos autres innovations. » (Steve Jobs)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Tout le monde fait des erreurs. Le plus important est {{sel20398}}.",
+            "choice_VygaXEVZ9L": "d'apprendre de ses erreurs.",
+            "choice_41WpQVEZqI": "que quelqu'un d'autre soit blâmé."
+        },
+        "de": {
+            "header": "Sometimes, we tend to be harsh on ourselves when we make mistakes. But what is important to remember?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Learning from mistakes is the most important take away.",
+            "tips": "‘Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.’ (Steve Jobs)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Everyone makes mistakes. The important thing is that {{sel20398}}  .",
+            "choice_VygaXEVZ9L": "we learn from them",
+            "choice_41WpQVEZqI": "someone else takes the blame"
+        },
+        "th": {
+            "header": "Sometimes, we tend to be harsh on ourselves when we make mistakes. But what is important to remember?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Learning from mistakes is the most important take away.",
+            "tips": "‘Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.’ (Steve Jobs)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Everyone makes mistakes. The important thing is that {{sel20398}}  .",
+            "choice_VygaXEVZ9L": "we learn from them",
+            "choice_41WpQVEZqI": "someone else takes the blame"
+        }
+    }
+}

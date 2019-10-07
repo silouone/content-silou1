@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T13:59:58.062Z",
+            "updatedAt": "2019-08-01T15:26:09.911Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1O1xi5fD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_NyS8sRofv",
+        "universalRef": "sli_NyS8sRofv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel80593",
+                        "items": [
+                            {
+                                "text": "choice_NJlUOJknGw",
+                                "value": "choice_NJlUOJknGw"
+                            },
+                            {
+                                "text": "choice_VybUu1y3zw",
+                                "value": "choice_VybUu1y3zw"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel80593",
+                        "answers": [
+                            "choice_VybUu1y3zw"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What type of questions are more effective for managing overly chatty customers?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Closed questions are better to keep chatty customers on topic.",
+            "tips": "Don't hesitate to jump in and paraphrase the main issues that the client has raised so far, to refocus on the subject and make sure you understand their concerns.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel80593}}",
+            "choice_NJlUOJknGw": "Open questions",
+            "choice_VybUu1y3zw": "Closed questions"
+        },
+        "fr": {
+            "header": "Quels types de questions sont plus efficaces pour gérer des clients trop bavards ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les questions fermées sont préférables pour aider les clients bavards à ne pas dévier du sujet.",
+            "tips": "N'hésitez pas à intervenir et à paraphraser les principales questions que le client a soulevées jusqu'à présent, à recentrer la conversation sur le sujet et à bien comprendre les préoccupations de votre client.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel80593}}",
+            "choice_NJlUOJknGw": "Les questions ouvertes",
+            "choice_VybUu1y3zw": "Les questions fermées"
+        },
+        "de": {
+            "header": "What type of questions are more effective for managing overly chatty customers?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Closed questions are better to keep chatty customers on topic.",
+            "tips": "Don't hesitate to jump in and paraphrase the main issues that the client has raised so far, to refocus on the subject and make sure you understand their concerns.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel80593}}",
+            "choice_NJlUOJknGw": "Open questions",
+            "choice_VybUu1y3zw": "Closed questions"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel80593}}",
+            "choice_NJlUOJknGw": "",
+            "choice_VybUu1y3zw": ""
+        }
+    }
+}

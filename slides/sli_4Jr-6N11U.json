@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T10:07:51.113Z",
+            "updatedAt": "2019-07-24T13:59:44.144Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1DX8HLAr"
+            ],
+            "status": "draft",
+            "modifiedBy": "armellelavergne",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4Jr-6N11U",
+        "universalRef": "sli_4Jr-6N11U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel59005",
+                        "items": [
+                            {
+                                "text": "choice_V1gOt0NJJ8",
+                                "value": "choice_V1gOt0NJJ8"
+                            },
+                            {
+                                "text": "choice_N1~OtRVyJL",
+                                "value": "choice_N1~OtRVyJL"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel73357",
+                        "items": [
+                            {
+                                "text": "choice_Nyex60NyyL",
+                                "value": "choice_Nyex60NyyL"
+                            },
+                            {
+                                "text": "choice_4yWx6AVyJI",
+                                "value": "choice_4yWx6AVyJI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel59005",
+                        "answers": [
+                            "choice_V1gOt0NJJ8"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel73357",
+                        "answers": [
+                            "choice_4yWx6AVyJI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Being submissive and being aggressive are far from being the best behaviours to maintain good relationships with your colleagues. But what do they result in?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Being submissive avoids conflict but you won't be respected. Be aggressive and you won't be treated like a doormat, but you will get everyone's back up.",
+            "tips": "Putting yourself in an assertive frame of mind starts with being clear about the issues, knowing what you want, finding out what your colleague's position is, and making sure you won't get into an argument, whatever happens.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "\"Being {{sel59005}} avoids conflict but you won't be respected. Be {{sel73357}} and you won't be treated like a doormat, but you will get everyone's back up.\"",
+            "choice_V1gOt0NJJ8": "submissive",
+            "choice_N1~OtRVyJL": "aggressive",
+            "choice_Nyex60NyyL": "submissive",
+            "choice_4yWx6AVyJI": "aggressive"
+        },
+        "fr": {
+            "header": "Les comportements de soumission et d’agressivité ne sont vraiment pas les meilleurs comportements à adopter pour maintenir de bonnes relations avec vos collaborateurs. Mais qu’entraînent-ils ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Un comportement de soumission permet d’éviter les conflits, mais vous ne serez pas respecté. Vous montrer agressif vous évitera de vous laisser marcher sur les pieds, mais tous camperont sur leur position.",
+            "tips": "Adopter un état d’esprit assertif commence par bien connaître les problématiques, savoir ce que vous voulez, découvrir la position de vos collaborateurs, et s’assurer de ne pas entrer en conflit, quelle que soit la situation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "« Être {{sel59005}} permet d’éviter les conflits, mais vous ne serez pas respecté. Être {{sel73357}} vous évitera de vous laisser marcher sur les pieds, mais tous camperont sur leur position.",
+            "choice_V1gOt0NJJ8": "soumis",
+            "choice_N1~OtRVyJL": "agressif",
+            "choice_Nyex60NyyL": "soumis",
+            "choice_4yWx6AVyJI": "agressif"
+        },
+        "de": {
+            "header": "Unterwürfig und aggressiv zu sein, ist bei weitem nicht das beste Verhalten, um gute Beziehungen zu Ihren Kollegen zu pflegen. Aber worin resultieren sie?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "Unterwürfigkeit vermeidet Konflikte, aber Sie werden nicht respektiert. Seien Sie aggressiv und Sie werden nicht wie eine Fußmatte behandelt, sondern Sie bekommen die Unterstützung von jedem.",
+            "tips": "Sich selbst in eine durchsetzungsfähige Geistesverfassung zu bringen, beginnt damit, die Themen klar zu verstehen, zu wissen, was Sie wollen, die Position Ihres Kollegen herauszufinden und sicherzustellen, dass Sie nicht in einen Streit geraten, was auch immer passiert.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": " {{sel59005}} sein vermeidet Konflikte, aber Sie werden nicht respektiert. Seien Sie {{sel73357}} und Sie werden nicht wie eine Türmatte behandelt, aber Sie werden von allen unterstützt.",
+            "choice_V1gOt0NJJ8": "unterwürfig",
+            "choice_N1~OtRVyJL": "aggressiv",
+            "choice_Nyex60NyyL": "unterwürfig",
+            "choice_4yWx6AVyJI": "aggressiv"
+        },
+        "th": {
+            "header": "การเป็นคนอ่อนน้อมและการเป็นคนก้าวร้าวนั้นห่างไกลจากพฤติกรรมที่จะรักษาความสัมพันธ์อันดีกับเพื่อนร่วมงานของคุณได้อย่างมีประสิทธิภาพ แต่พฤติกรรมเหล่านี้จะทำให้เกิดอะไรขึ้น",
+            "explanation": "เลือกคำตอบที่ถูกต้องจากเมนูแบบดรอปดาวน์",
+            "klf": "การเป็นคนอ่อนน้อมทำให้หลีกเลี่ยงความขัดแย้งได้แต่คุณจะไม่ได้รับความเคารพ การเป็นคนก้าวร้าวจะทำให้คุณไม่ได้รับการปฏิบัติอย่างไร้ความเคารพ แต่จะไม่มีใครชอบหน้าคุณแทน",
+            "tips": "การมีสภาพจิตใจที่ทำให้กล้าแสดงออกเริ่มได้โดยคุณต้องชัดเจนว่าประเด็นคืออะไร รู้ว่าคุณต้องการอะไร ดูว่าสถานะของเพื่อนร่วมงานของคุณคืออะไร และต้องแน่ใจว่าคุณจะไม่โต้เถียงกันไม่ว่าจะเกิดอะไรขึ้น",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "การเป็นคน {{sel59005}} ทำให้หลีกเลี่ยงความขัดแย้งได้แต่คุณจะไม่ได้รับความเคารพ การเป็นคน {{sel73357}} จะทำให้คุณไม่ได้รับการปฏิบัติอย่างไร้ความเคารพ แต่จะไม่มีใครชอบหน้าคุณแทน",
+            "choice_V1gOt0NJJ8": "อ่อนน้อม",
+            "choice_N1~OtRVyJL": "ก้าวร้าว",
+            "choice_Nyex60NyyL": "อ่อนน้อม",
+            "choice_4yWx6AVyJI": "ก้าวร้าว"
+        }
+    }
+}

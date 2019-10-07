@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T13:49:57.777Z",
+            "updatedAt": "2019-05-20T13:49:57.777Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWN5-D2L"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_415Oysi2U",
+        "universalRef": "sli_415Oysi2U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_415Oysi2U.choice_VygbcJij2L.id",
+                        "label": "choice_VygbcJij2L",
+                        "value": "choice_VygbcJij2L",
+                        "media": "med_EJb5Jos3I"
+                    },
+                    {
+                        "id": "sli_415Oysi2U.choice_VygLcJionL.id",
+                        "label": "choice_VygLcJionL",
+                        "value": "choice_VygLcJionL",
+                        "media": "med_VkIqkoi2I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VygLcJionL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Leadership is a position, not an activity.",
+            "explanation": "Select the correct answer.",
+            "klf": "That is not true! Leadership is an activity, not a position: show your team how to get the job done by getting involved yourself.",
+            "tips": "If you want to show your employees that you care, relate to them instead of making them feel you’re above them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VygbcJij2L": "TRUE",
+            "choice_VygLcJionL": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Le leadership est une position, pas une activité.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Ce n'est pas vrai ! Le leadership est une activité et non une position : montrez à votre équipe comment faire le travail en vous engageant vous-même.",
+            "tips": "Si vous voulez montrer à vos employés que vous êtes engagé, intéressez-vous à eux plutôt que de leur faire sentir que vous êtes supérieur à eux.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VygbcJij2L": "VRAI",
+            "choice_VygLcJionL": "FAUX"
+        },
+        "de": {
+            "header": "True or false? Leadership is a position, not an activity.",
+            "explanation": "Select the correct answer.",
+            "klf": "That is not true! Leadership is an activity, not a position: show your team how to get the job done by getting involved yourself.",
+            "tips": "If you want to show your employees that you care, relate to them instead of making them feel you’re above them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VygbcJij2L": "True",
+            "choice_VygLcJionL": "False"
+        },
+        "th": {
+            "header": "True or false? Leadership is a position, not an activity.",
+            "explanation": "Select the correct answer.",
+            "klf": "That is not true! Leadership is an activity, not a position: show your team how to get the job done by getting involved yourself.",
+            "tips": "If you want to show your employees that you care, relate to them instead of making them feel you’re above them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VygbcJij2L": "TRUE",
+            "choice_VygLcJionL": "FALSE"
+        }
+    }
+}

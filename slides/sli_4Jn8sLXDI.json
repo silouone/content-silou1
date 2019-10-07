@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T15:00:54.871Z",
+            "updatedAt": "2019-03-14T15:53:37.640Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kJi1deDU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4Jn8sLXDI",
+        "universalRef": "sli_4Jn8sLXDI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel60008",
+                        "items": [
+                            {
+                                "text": "choice_V1xWKs8XPU",
+                                "value": "choice_V1xWKs8XPU"
+                            },
+                            {
+                                "text": "choice_V1ZbKoIXwI",
+                                "value": "choice_V1ZbKoIXwI"
+                            },
+                            {
+                                "text": "choice_EJgojLmPI",
+                                "value": "choice_EJgojLmPI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel60008",
+                        "answers": [
+                            "choice_V1ZbKoIXwI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What can we do to better empathise with someone?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It’s harder to be enraged by annoying colleagues when you stop a moment and try to consider why they’re behaving like that.",
+            "tips": "We can see empathy as a muscle that needs to be trained to get stronger!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60008}}",
+            "choice_V1xWKs8XPU": "Agree with their opinion",
+            "choice_V1ZbKoIXwI": "Ask ourselves how we would feel in their position",
+            "choice_EJgojLmPI": "Tell them their behaviour is out of order"
+        },
+        "fr": {
+            "header": "Que pouvons-nous faire pour faire preuve de plus d'empathie envers quelqu'un ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il devient plus difficile d’être furieux contre des collègues agaçants lorsque vous vous arrêtez un moment pour essayer de comprendre pourquoi ils se comportent de la sorte.",
+            "tips": "Nous considérerons l'empathie comme un muscle qui doit être formé pour devenir plus fort !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60008}}",
+            "choice_V1xWKs8XPU": "Partager son opinion",
+            "choice_V1ZbKoIXwI": "Se demander comment nous nous sentirions à sa place",
+            "choice_EJgojLmPI": "Lui dire que son comportement ne fonctionne plus"
+        },
+        "de": {
+            "header": "What can we do to better empathise with someone?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It’s harder to be enraged by annoying colleagues when you stop a moment and try to consider why they’re behaving like that.",
+            "tips": "We can see empathy as a muscle that needs to be trained to get stronger!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60008}}",
+            "choice_V1xWKs8XPU": "Agree with their opinion",
+            "choice_V1ZbKoIXwI": "Ask ourselves how we would feel in their position ",
+            "choice_EJgojLmPI": "Tell them their behaviour is out of order"
+        },
+        "th": {
+            "header": "What can we do to better empathise with someone?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It’s harder to be enraged by annoying colleagues when you stop a moment and try to consider why they’re behaving like that.",
+            "tips": "We can see empathy as a muscle that needs to be trained to get stronger!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60008}}",
+            "choice_V1xWKs8XPU": "Agree with their opinion",
+            "choice_V1ZbKoIXwI": "Ask ourselves how we would feel in their position",
+            "choice_EJgojLmPI": "Tell them their behaviour is out of order"
+        }
+    }
+}

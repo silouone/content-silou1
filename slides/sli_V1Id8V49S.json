@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T12:04:40.572Z",
+            "updatedAt": "2018-11-09T11:09:31.628Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJmmTzE9H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_V1Id8V49S",
+        "universalRef": "sli_V1Id8V49S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1Id8V49S.choice_E1TqINE9S.id",
+                        "label": "choice_E1TqINE9S",
+                        "value": "choice_E1TqINE9S"
+                    },
+                    {
+                        "id": "sli_V1Id8V49S.choice_EJAcL4E5B.id",
+                        "label": "choice_EJAcL4E5B",
+                        "value": "choice_EJAcL4E5B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJAcL4E5B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What happens when we try to ignore or suppress unwanted thoughts?",
+            "explanation": "Select the correct answer.",
+            "klf": "You can’t just push thoughts out of your head even if you want to. Indeed, trying to suppress negative thoughts usually makes them worse.",
+            "tips": "There have been several attempts to quantify how many thoughts are produced by a human brain every day, with results ranging between 12,000 and 70,000 thoughts a day.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1TqINE9S": "We easily push unwanted thoughts out of our heads",
+            "choice_EJAcL4E5B": "We think about them more"
+        },
+        "fr": {
+            "header": "Que se passe-t-il lorsque nous tentons d’ignorer ou d’éliminer des pensées indésirables ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Même si vous le voulez, vous ne pouvez pas tout simplement chasser des pensées de votre esprit. En effet, si vous essayez de chasser des pensées négatives, cela ne fait qu’aggraver la situation.",
+            "tips": "Plusieurs études ont été menées pour tenter de quantifier les pensées produites quotidiennement par un cerveau humain : elles seraient entre 12 000 et 70 000 chaque jour.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1TqINE9S": "Il est facile de chasser les pensées indésirables de notre esprit",
+            "choice_EJAcL4E5B": "Nous y pensons encore plus"
+        },
+        "de": {
+            "header": "Was passiert, wenn wir versuchen, unerwünschte Gedanken zu ignorieren oder zu unterdrücken?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Sie können Gedanken nicht einfach aus Ihrem Kopf verdrängen, selbst wenn Sie möchten. Der Versuch, negative Gedanken zu unterdrücken, macht sie in der Regel schlimmer.",
+            "tips": "Es gab mehrere Versuche, die Anzahl der Gedanken zu bestimmen, die ein menschliches Gehirn täglich produziert, wobei die Ergebnisse zwischen 12.000 und 70.000 Gedanken pro Tag liegen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1TqINE9S": "Wir drängen leicht unerwünschte Gedanken aus unseren Köpfen",
+            "choice_EJAcL4E5B": "Wir denken mehr darüber nach"
+        },
+        "th": {
+            "header": "What happens when we try to ignore or suppress unwanted thoughts?",
+            "explanation": "Select the correct answer.",
+            "klf": "You can’t just push thoughts out of your head even if you want to. Indeed, trying to suppress negative thoughts usually makes them worse.",
+            "tips": "There have been several attempts to quantify how many thoughts are produced by a human brain every day, with results ranging between 12,000 and 70,000 thoughts a day.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1TqINE9S": "We easily push unwanted thoughts out of our heads",
+            "choice_EJAcL4E5B": "We think about them more"
+        }
+    }
+}

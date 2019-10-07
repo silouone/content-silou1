@@ -1,0 +1,113 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-15T09:50:49.232Z",
+            "updatedAt": "2018-11-09T12:35:08.640Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkATBUVqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_VkVWMUa9B",
+        "universalRef": "sli_VkVWMUa9B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkVWMUa9B.choice_EJWzGI6qH.id",
+                        "label": "choice_EJWzGI6qH",
+                        "value": "choice_EJWzGI6qH"
+                    },
+                    {
+                        "id": "sli_VkVWMUa9B.choice_EJMff865B.id",
+                        "label": "choice_EJMff865B",
+                        "value": "choice_EJMff865B"
+                    },
+                    {
+                        "id": "sli_VkVWMUa9B.choice_VyHGGLa9B.id",
+                        "label": "choice_VyHGGLa9B",
+                        "value": "choice_VyHGGLa9B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJWzGI6qH",
+                        "choice_EJMff865B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you keep gatekeepers on board?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Address the gatekeepers' concerns and keep them informed of any changes in the process. Find out their preferred method of communication and when to communicate with them.",
+            "tips": "If you want the gatekeepers to support your ideas, you have to understand the corporate machinery, goals and vision. Empathising with them is key.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWzGI6qH": "Address their concerns",
+            "choice_EJMff865B": "Keep them informed",
+            "choice_VyHGGLa9B": "Send them monthly email reports",
+            "null": ""
+        },
+        "fr": {
+            "header": "Comment conserver l’adhésion des gardiens ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Abordez les préoccupations des gardiens et informez-les des changements de processus. Déterminez le mode de communication privilégié de ces interlocuteurs et le moment le plus propice pour communiquer avec eux.",
+            "tips": "Si vous voulez que les gardiens soutiennent vos idées, vous devez comprendre le fonctionnement, les objectifs et la vision de l’entreprise. Avoir de l’empathie pour eux est essentiel.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWzGI6qH": "Aborder leurs préoccupations",
+            "choice_EJMff865B": "Les tenir informés",
+            "choice_VyHGGLa9B": "Leur envoyer des rapports mensuels par e-mail"
+        },
+        "de": {
+            "header": "Wie können Sie Gatekeeper an Bord behalten?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Sprechen Sie die Bedenken der Gatekeeper an und halten Sie sie über alle Änderungen im Prozess auf dem Laufenden. Finden Sie heraus, welche Kommunikationsmethode sie bevorzugen und wann mit ihnen zu kommunizieren ist.",
+            "tips": "Wenn Sie möchten, dass die Gatekeeper Ihre Ideen unterstützen, müssen Sie die Unternehmensmaschinerie, -ziele und -vision verstehen. Einfühlungsvermögen mit ihnen ist der Schlüssel.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWzGI6qH": "Ihre Bedenken ansprechen",
+            "choice_EJMff865B": "Halten Sie sie auf dem Laufenden",
+            "choice_VyHGGLa9B": "Senden Sie ihnen monatliche E-Mail-Berichte",
+            "null": ""
+        },
+        "th": {
+            "header": "How can you keep gatekeepers on board?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Address the gatekeepers' concerns and keep them informed of any changes in the process. Find out their preferred method of communication and when to communicate with them.",
+            "tips": "If you want the gatekeepers to support your ideas, you have to understand the corporate machinery, goals and vision. Empathising with them is key.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJWzGI6qH": "Address their concerns",
+            "choice_EJMff865B": "Keep them informed",
+            "choice_VyHGGLa9B": "Send them monthly email reports",
+            "null": ""
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T19:10:48.184Z",
+            "updatedAt": "2019-08-27T14:39:07.743Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~bckE7D"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_VkjtmhUQw",
+        "universalRef": "sli_VkjtmhUQw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkjtmhUQw.choice_41d9X3Umw.id",
+                        "label": "choice_41d9X3Umw",
+                        "value": "choice_41d9X3Umw"
+                    },
+                    {
+                        "id": "sli_VkjtmhUQw.choice_Ekq9X3LQv.id",
+                        "label": "choice_Ekq9X3LQv",
+                        "value": "choice_Ekq9X3LQv"
+                    },
+                    {
+                        "id": "sli_VkjtmhUQw.choice_EJsqmhL7v.id",
+                        "label": "choice_EJsqmhL7v",
+                        "value": "choice_EJsqmhL7v"
+                    },
+                    {
+                        "id": "sli_VkjtmhUQw.choice_V1T5X3UQP.id",
+                        "label": "choice_V1T5X3UQP",
+                        "value": "choice_V1T5X3UQP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1T5X3UQP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When a customer says ‘no, thanks’ which of the below will progress the conversation?",
+            "explanation": "Select the correct answer.",
+            "klf": "If your offer gets turned down, find out why. You need to persist to find the objection if one is not volunteered. Repeating ‘are you sure?’ is not the solution!",
+            "tips": "When your client does state their objection, make sure you listen to them fully and let them state everything they have to say. Resist the impulse to jump in and respond immediately.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41d9X3Umw": "Are you sure about that?",
+            "choice_Ekq9X3LQv": "Really sure?",
+            "choice_EJsqmhL7v": "Final answer?",
+            "choice_V1T5X3UQP": "Could I ask why you're not interested?"
+        },
+        "fr": {
+            "header": "Lorsqu'un client dit «non merci», lequel des réponses ci-dessous fera avancer la conversation?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Si votre offre est refusée, découvrez pourquoi. Vous devez persister pour trouver l'objection si vous n'êtes pas volontaire. Répéter ‘es-tu sûr?’ N’est pas la solution!",
+            "tips": "Lorsque votre client énonce son objection, assurez-vous de bien l'écouter et laissez-le énoncer tout ce qu'il a à dire. Résistez à l’impulsion de sauter et répondez immédiatement.",
+            "choice_41d9X3Umw": "Êtes-vous sûr de cela?",
+            "choice_Ekq9X3LQv": "Vraiment sur?",
+            "choice_EJsqmhL7v": "Réponse finale?",
+            "choice_V1T5X3UQP": "Puis-je vous demander pourquoi vous n'êtes pas intéressé?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "When a customer says ‘no, thanks’ which of the below will progress the conversation?",
+            "explanation": "Select the correct answer.",
+            "klf": "If your offer gets turned down, find out why. You need to persist to find the objection if one is not volunteered. Repeating ‘are you sure?’ is not the solution!",
+            "tips": "When your client does state their objection, make sure you listen to them fully and let them state everything they have to say. Resist the impulse to jump in and respond immediately.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41d9X3Umw": "Are you sure about that?",
+            "choice_Ekq9X3LQv": "Really sure?",
+            "choice_EJsqmhL7v": "Final answer?",
+            "choice_V1T5X3UQP": "Could I ask why you're not interested?"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41d9X3Umw": "",
+            "choice_Ekq9X3LQv": "",
+            "choice_EJsqmhL7v": "",
+            "choice_V1T5X3UQP": ""
+        }
+    }
+}

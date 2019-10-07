@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T15:04:14.461Z",
+            "updatedAt": "2019-04-12T15:04:37.280Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1gEVxDFL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4yxsv9FYL",
+        "universalRef": "sli_4yxsv9FYL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yxsv9FYL.choice_41V6v9YK8.id",
+                        "label": "choice_41V6v9YK8",
+                        "value": "choice_41V6v9YK8"
+                    },
+                    {
+                        "id": "sli_4yxsv9FYL.choice_NkraPcFKU.id",
+                        "label": "choice_NkraPcFKU",
+                        "value": "choice_NkraPcFKU"
+                    },
+                    {
+                        "id": "sli_4yxsv9FYL.choice_EkIpPcFYI.id",
+                        "label": "choice_EkIpPcFYI",
+                        "value": "choice_EkIpPcFYI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41V6v9YK8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should your options be based on?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Be objective when stating the pros and cons for each option you’re presenting.",
+            "tips": "Evidence must be viewed as credible by your audience, otherwise nobody will consider it. If it’s not obvious, make sure you tell people where you got your information.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41V6v9YK8": "Evidence",
+            "choice_NkraPcFKU": "Your opinion",
+            "choice_EkIpPcFYI": "A team vote"
+        },
+        "fr": {
+            "header": "Sur quoi vos options doivent-elles être basées ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Soyez objectif lorsque vous exposez les points positifs et négatifs de chaque option que vous présentez.",
+            "tips": "Les preuves doivent être considérées comme crédibles par votre auditoire, sinon personne ne les prendra au sérieux. Si ce n’est pas évident, assurez-vous de dire aux gens où vous avez obtenu vos informations.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41V6v9YK8": "Des preuves",
+            "choice_NkraPcFKU": "Votre opinion",
+            "choice_EkIpPcFYI": "Un vote d'équipe"
+        },
+        "de": {
+            "header": "What should your options be based on?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Be objective when stating the pros and cons for each option you’re presenting.",
+            "tips": "Evidence must be viewed as credible by your audience, otherwise nobody will consider it. If it’s not obvious, make sure you tell people where you got your information.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41V6v9YK8": "Evidence",
+            "choice_NkraPcFKU": "Your opinion",
+            "choice_EkIpPcFYI": "A team vote"
+        },
+        "th": {
+            "header": "What should your options be based on?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Be objective when stating the pros and cons for each option you’re presenting.",
+            "tips": "Evidence must be viewed as credible by your audience, otherwise nobody will consider it. If it’s not obvious, make sure you tell people where you got your information.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41V6v9YK8": "Evidence",
+            "choice_NkraPcFKU": "Your opinion",
+            "choice_EkIpPcFYI": "A team vote"
+        }
+    }
+}

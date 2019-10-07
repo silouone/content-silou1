@@ -1,0 +1,105 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-18T14:46:33.820Z",
+            "updatedAt": "2019-03-20T15:35:51.826Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJwqYX7DL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4kkgC9OD8",
+        "universalRef": "sli_4kkgC9OD8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kkgC9OD8.choice_V1eOgAc-DU.id",
+                        "label": "choice_V1eOgAc-DU",
+                        "value": "choice_V1eOgAc-DU",
+                        "media": "med_41ux09-PU"
+                    },
+                    {
+                        "id": "sli_4kkgC9OD8.choice_VylFlCq-PU.id",
+                        "label": "choice_VylFlCq-PU",
+                        "value": "choice_VylFlCq-PU",
+                        "media": "med_EyFeRq-w8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VylFlCq-PU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? If you want to favour digital technologies over real-life interaction, it should always be completely up to you.",
+            "explanation": "Select the correct answer.",
+            "klf": "Some people just plain prefer speaking face-to-face rather than only exchanging through texts and emails, so go with it. Be open and work to the preferences of your clients, colleagues and stakeholders. Do not be so plugged in the digital world that you completely avoid real-life interaction.",
+            "tips": "When you need to have a difficult conversation with someone, always have it face-to-face, as it limits risks of misunderstanding.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eOgAc-DU": "TRUE",
+            "choice_VylFlCq-PU": "FALSE",
+            "choice_NJgJbR5OvL": ""
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Si vous souhaitez privilégier les technologies numériques au détriment des interactions réelles, vous devez toujours en décider entièrement.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Certaines personnes préfèrent tout simplement parler en face à face que d'échanger des textos et des e-mails, acceptez-le. Soyez ouvert et travaillez selon les préférences de vos clients, collègues et parties prenantes. Ne restez pas branché au monde numérique au point d'éviter complètement les interactions réelles.",
+            "tips": "Lorsque vous avez besoin d'avoir une conversation difficile avec quelqu'un, ayez-la toujours en face à face, car cela limite les risques de malentendus.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eOgAc-DU": "VRAI",
+            "choice_VylFlCq-PU": "FAUX",
+            "choice_NJgJbR5OvL": ""
+        },
+        "de": {
+            "header": "True or false? If you want to favour digital technologies over real-life interaction, it should always be completely up to you.",
+            "explanation": "Select the correct answer.",
+            "klf": "Some people just plain prefer speaking face-to-face rather than only exchanging through texts and emails, so go with it. Be open and work to the preferences of your clients, colleagues and stakeholders. Do not be so plugged in the digital world that you completely avoid real-life interaction.",
+            "tips": "When you need to have a difficult conversation with someone, always have it face-to-face, as it limits risks of misunderstanding.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eOgAc-DU": "True",
+            "choice_VylFlCq-PU": "False",
+            "choice_NJgJbR5OvL": ""
+        },
+        "th": {
+            "header": "True or false? If you want to favour digital technologies over real-life interaction, it should always be completely up to you.",
+            "explanation": "Select the correct answer.",
+            "klf": "Some people just plain prefer speaking face-to-face rather than only exchanging through texts and emails, so go with it. Be open and work to the preferences of your clients, colleagues and stakeholders. Do not be so plugged in the digital world that you completely avoid real-life interaction.",
+            "tips": "When you need to have a difficult conversation with someone, always have it face-to-face, as it limits risks of misunderstanding.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eOgAc-DU": "TRUE",
+            "choice_VylFlCq-PU": "FALSE",
+            "choice_NJgJbR5OvL": ""
+        }
+    }
+}

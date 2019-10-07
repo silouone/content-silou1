@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T10:24:15.637Z",
+            "updatedAt": "2019-02-21T17:08:04.320Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JNf2opW8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_EkpjE9qz8",
+        "universalRef": "sli_EkpjE9qz8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkpjE9qz8.choice_NygGyBqcGI.id",
+                        "label": "choice_NygGyBqcGI",
+                        "value": "choice_NygGyBqcGI",
+                        "media": "med_EJfJS5cz8"
+                    },
+                    {
+                        "id": "sli_EkpjE9qz8.choice_4Je4kHcqM8.id",
+                        "label": "choice_4Je4kHcqM8",
+                        "value": "choice_4Je4kHcqM8",
+                        "media": "med_4kNyH5cfU"
+                    },
+                    {
+                        "id": "sli_EkpjE9qz8.choice_E1gBJHcqz8.id",
+                        "label": "choice_E1gBJHcqz8",
+                        "value": "choice_E1gBJHcqz8",
+                        "media": "med_VyHkr55GI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1gBJHcqz8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Whatever you do, you should act fast. Why is that?",
+            "explanation": "Select the correct answer.",
+            "klf": "You should act swiftly and take rapid action to stop the problem getting worse.",
+            "tips": "Avoiding threats is actually a natural trait in humans. But it's not our fault: evolution made us that way, because animals that placed more urgency on avoiding threats were more likely to pass on their genes. As a result, the prospect of losses is a more powerful motivator on your behaviour than the promise of gains.",
+            "clue": "In the bud…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGyBqcGI": "Before you get caught",
+            "choice_4Je4kHcqM8": "Before anyone can think",
+            "choice_E1gBJHcqz8": "So things don't get worse"
+        },
+        "fr": {
+            "header": "Dans tous les cas, agir rapidement. Pourquoi ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vous devez agir rapidement et prendre des mesures immédiates afin d'empêcher le problème d'empirer.",
+            "tips": "Éviter les menaces est une caractéristique de la nature humaine. Mais nous n'y sommes pour rien : l'évolution de notre espèce nous a modelés ainsi, car les animaux qui évitaient le plus possible les menaces avaient plus de chances de survivre et de transmettre leurs gènes. Ainsi, la perspective de pertes a une influence beaucoup plus importante sur votre comportement que la promesse de gains.",
+            "clue": "In the bud…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGyBqcGI": "Pour éviter de vous faire prendre",
+            "choice_4Je4kHcqM8": "Pour éviter que d'autres pensent ",
+            "choice_E1gBJHcqz8": "Pour que la situation n'empire pas"
+        },
+        "de": {
+            "header": "Was auch immer Sie tun, Sie sollten schnell handeln. Warum das?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Sie sollten schnell handeln und schnell handeln, um zu verhindern, dass sich das Problem verschlimmert.",
+            "tips": "Das Vermeiden von Bedrohungen ist eigentlich ein natürliches Merkmal des Menschen. Aber es ist nicht unsere Schuld: Die Evolution hat uns so geschaffen, weil Tiere, die mehr Dringlichkeit auf die Vermeidung von Bedrohungen legen, ihre Gene eher weitergeben. Infolgedessen ist die Aussicht auf Verluste ein stärkerer Anreiz für Ihr Verhalten als das Versprechen auf Gewinne.",
+            "clue": "In der Knospe…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGyBqcGI": "Bevor du erwischt wirst",
+            "choice_4Je4kHcqM8": "Bevor jemand denken kann",
+            "choice_E1gBJHcqz8": "Sodass es nicht schlimmer wird"
+        },
+        "th": {
+            "header": "Whatever you do, you should act fast. Why is that?",
+            "explanation": "Select the correct answer.",
+            "klf": "You should act swiftly and take rapid action to stop the problem getting worse.",
+            "tips": "Avoiding threats is actually a natural trait in humans. But it's not our fault: evolution made us that way, because animals that placed more urgency on avoiding threats were more likely to pass on their genes. As a result, the prospect of losses is a more powerful motivator on your behaviour than the promise of gains.",
+            "clue": "In the bud…",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGyBqcGI": "Before you get caught",
+            "choice_4Je4kHcqM8": "Before anyone can think",
+            "choice_E1gBJHcqz8": "So things don't get worse"
+        }
+    }
+}

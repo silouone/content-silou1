@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:27:00.000Z",
+            "updatedAt": "2019-06-26T14:34:37.455Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JJhERrkP"
+            ],
+            "modifiedBy": "ThereseG",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4yN4ORH1v",
+        "universalRef": "sli_4yN4ORH1v",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yN4ORH1v.choice_EylrBdCHJw.id",
+                        "label": "choice_EylrBdCHJw",
+                        "value": "choice_EylrBdCHJw",
+                        "media": "med_NkrSdAr1D"
+                    },
+                    {
+                        "id": "sli_4yN4ORH1v.choice_VJeDSORrkP.id",
+                        "label": "choice_VJeDSORrkP",
+                        "value": "choice_VJeDSORrkP",
+                        "media": "med_NkDr-ASyD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EylrBdCHJw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Sharing one appropriate story is enough.",
+            "explanation": "Select the correct answer.",
+            "klf": "That’s true! One appropriate story is enough. You must know when to stop talking and concentrate on completing a sale.",
+            "tips": "Before you start telling a story, make sure the customer is relaxed and receptive.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylrBdCHJw": "TRUE",
+            "choice_VJeDSORrkP": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Partager une anecdote appropriée avec votre client suffit.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "C'est vrai ! Une anecdote appropriée suffit. Vous devez savoir quand vous arrêter de parler et quand vous concentrer sur conclure une vente.",
+            "tips": "Avant de commencer à raconter une histoire, assurez-vous que le client est détendu et réceptif.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylrBdCHJw": "VRAI",
+            "choice_VJeDSORrkP": "FAUX"
+        },
+        "de": {
+            "header": "True or false? Sharing one appropriate story is enough.",
+            "explanation": "Select the correct answer.",
+            "klf": "That’s true! One appropriate story is enough. You must know when to stop talking and concentrate on completing a sale.",
+            "tips": "Before you start telling a story, make sure the customer is relaxed and receptive.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylrBdCHJw": "True",
+            "choice_VJeDSORrkP": "False"
+        },
+        "th": {
+            "header": "True or false? Sharing one appropriate story is enough.",
+            "explanation": "Select the correct answer.",
+            "klf": "That’s true! One appropriate story is enough. You must know when to stop talking and concentrate on completing a sale.",
+            "tips": "Before you start telling a story, make sure the customer is relaxed and receptive.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylrBdCHJw": "True",
+            "choice_VJeDSORrkP": "False"
+        }
+    }
+}

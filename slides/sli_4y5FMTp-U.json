@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-03T15:42:33.365Z",
+            "updatedAt": "2019-04-03T15:52:43.410Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4y4bcqTOU"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4y5FMTp-U",
+        "universalRef": "sli_4y5FMTp-U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel21938",
+                        "items": [
+                            {
+                                "text": "choice_NJevnzpTOI",
+                                "value": "choice_NJevnzpTOI"
+                            },
+                            {
+                                "text": "choice_VkbPhGTa-I",
+                                "value": "choice_VkbPhGTa-I"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel59549",
+                        "items": [
+                            {
+                                "text": "choice_Vkx2g7pa-U",
+                                "value": "choice_Vkx2g7pa-U"
+                            },
+                            {
+                                "text": "choice_Ey~hxQaTuI",
+                                "value": "choice_Ey~hxQaTuI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel21938",
+                        "answers": [
+                            "choice_NJevnzpTOI"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel59549",
+                        "answers": [
+                            "choice_Ey~hxQaTuI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a good leader, what should you do during forming and storming phases?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Newly formed teams are often anxious. During the forming phase, take a strong leadership role by giving direction and outlining expectations. If conflicts arise during the storming phase, give individuals and the team the support they need to get through it.",
+            "tips": "Talking about good leader, have you ever watched this inspiring TedTalk where leadership expert Simon Sinek explains why leadership is about making your collaborators feel safe? Well, if you haven't, it's just <a href=\"https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe#t-27308\" target=\"_blank\">one click away!</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "During the {{sel21938}} phase, clearly establish objectives and responsibilities and take a strong role in directing the team. During the {{sel59549}} phase, resolve conflicts, provide support and remain firm in the face of challenges to your leadership.",
+            "choice_NJevnzpTOI": "forming",
+            "choice_VkbPhGTa-I": "storming",
+            "choice_Vkx2g7pa-U": "forming",
+            "choice_Ey~hxQaTuI": "storming"
+        },
+        "fr": {
+            "header": "En tant que bon manager, que devez-vous faire pendant les phases de formation et de tension ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Les nouvelles équipes sont souvent anxieuses. Pendant la phase de formation, manifestez un fort leadership en orientant l'équipe et en lui précisant ce qu'on attend d'elle. Si des conflits surviennent pendant la phase de tension, apportez à l'équipe entière aussi bien qu'à ses membres individuellement le soutien dont ils ont besoin pour les surmonter.",
+            "tips": "En parlant de bon manager, avez-vous regardé ce TedTalk inspirant où l'expert en leadership, Simon Sinek, explique en quoi le leadership consiste à faire se sentir en sécurité vos collaborateurs ? Eh bien, si vous ne l'avez jamais vu, il suffit d'<a href=\"https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe#t-27308\" target=\"_blank\">un clic !</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Au cours de la phase {{sel21938}}, définissez clairement les objectifs et les responsabilités et manifestez un fort leadership afin d'encadrer l’équipe. Pendant la phase {{sel59549}}, résolvez les conflits, apportez votre soutien et restez ferme face aux critiques de votre leadership.",
+            "choice_NJevnzpTOI": "Formation",
+            "choice_VkbPhGTa-I": "Tension",
+            "choice_Vkx2g7pa-U": "Formation",
+            "choice_Ey~hxQaTuI": "Tension"
+        },
+        "de": {
+            "header": "As a good leader, what should you do during forming and storming phases?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Newly formed teams are often anxious. During the forming phase, take a strong leadership role by giving direction and outlining expectations. If conflicts arise during the storming phase, give individuals and the team the support they need to get through it.",
+            "tips": "Talking about good leader, have you ever watched this inspiring TedTalk where leadership expert Simon Sinek explains why leadership is about making your collaborators feel safe? Well, if you haven't, it's just <a href=\"https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe#t-27308\" target=\"_blank\">one click away!</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "During the {{sel21938}} phase, clearly establish objectives and responsibilities and take a strong role in directing the team. During the {{sel59549}} phase, resolve conflicts, provide support and remain firm in the face of challenges to your leadership.",
+            "choice_NJevnzpTOI": "forming",
+            "choice_VkbPhGTa-I": "storming",
+            "choice_Vkx2g7pa-U": "forming",
+            "choice_Ey~hxQaTuI": "storming"
+        },
+        "th": {
+            "header": "As a good leader, what should you do during forming and storming phases?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Newly formed teams are often anxious. During the forming phase, take a strong leadership role by giving direction and outlining expectations. If conflicts arise during the storming phase, give individuals and the team the support they need to get through it.",
+            "tips": "Talking about good leader, have you ever watched this inspiring TedTalk where leadership expert Simon Sinek explains why leadership is about making your collaborators feel safe? Well, if you haven't, it's just <a href=\"https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe#t-27308\" target=\"_blank\">one click away!</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "During the {{sel21938}} phase, clearly establish objectives and responsibilities and take a strong role in directing the team. During the {{sel59549}} phase, resolve conflicts, provide support and remain firm in the face of challenges to your leadership.",
+            "choice_NJevnzpTOI": "forming",
+            "choice_VkbPhGTa-I": "storming",
+            "choice_Vkx2g7pa-U": "forming",
+            "choice_Ey~hxQaTuI": "storming"
+        }
+    }
+}

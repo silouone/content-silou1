@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-21T17:31:08.595Z",
+            "updatedAt": "2019-02-22T11:40:22.028Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vkina11z8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EJV5le1mL",
+        "universalRef": "sli_EJV5le1mL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel79938",
+                        "items": [
+                            {
+                                "text": "choice_4kecnxxy7U",
+                                "value": "choice_4kecnxxy7U"
+                            },
+                            {
+                                "text": "choice_Vkb5hxxyQL",
+                                "value": "choice_Vkb5hxxyQL"
+                            },
+                            {
+                                "text": "choice_N10ple17U",
+                                "value": "choice_N10ple17U"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel79938",
+                        "answers": [
+                            "choice_N10ple17U"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a leader, how can you delegate effectively?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "To delegate effectively, choose tasks which do not require your personal involvement. Then, identify the skills in your team and assign tasks appropriately.",
+            "tips": "Picking the right person to delegate a task to means finding not only the person that has the adequate skills, but also the one that has the right motivation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can choose to assign tasks that {{sel79938}}",
+            "choice_4kecnxxy7U": "you do not like to do",
+            "choice_Vkb5hxxyQL": "are meaningless",
+            "choice_N10ple17U": "do not require your personal involvement"
+        },
+        "fr": {
+            "header": "En tant que leader, comment pouvez-vous déléguer de manière efficace ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Pour déléguer efficacement, choisissez des tâches qui ne requièrent pas votre investissement personnel. Ensuite, identifiez les compétences de vos collaborateurs et confiez-leur des tâches appropriées.",
+            "tips": "Choisir la bonne personne à qui déléguer une tâche signifie non seulement sélectionner le collaborateur possédant les compétences requises, mais également celui qui sera le plus motivé.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous pouvez décider de confier des tâches qui/que {{sel79938}}",
+            "choice_4kecnxxy7U": "vous n'aimez pas faire",
+            "choice_Vkb5hxxyQL": "sont insignifiantes",
+            "choice_N10ple17U": "ne requièrent pas votre investissement personnel"
+        },
+        "de": {
+            "header": "Wie können Sie als Führungskraft effektiv delegieren?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Um effektiv zu delegieren, wählen Sie Aufgaben aus, für die Sie nicht persönlich einbezogen werden müssen. Identifizieren Sie dann die Fähigkeiten in Ihrem Team und weisen Sie Aufgaben entsprechend zu.",
+            "tips": "Wenn Sie die richtige Person für die Delegation einer Aufgabe auswählen, müssen Sie nicht nur die Person finden, die über die erforderlichen Fähigkeiten verfügt, sondern auch die Person, die die richtige Motivation hat.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sie können Aufgaben zuweisen, die {{sel79938}}",
+            "choice_4kecnxxy7U": "Sie nicht mögen",
+            "choice_Vkb5hxxyQL": "sinnlos sind",
+            "choice_N10ple17U": "nicht Ihr persönliches Engagement erfordern"
+        },
+        "th": {
+            "header": "As a leader, how can you delegate effectively?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "To delegate effectively, choose tasks which do not require your personal involvement. Then, identify the skills in your team and assign tasks appropriately.",
+            "tips": "Picking the right person to delegate a task to means finding not only the person that has the adequate skills, but also the one that has the right motivation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can choose to assign tasks that {{sel79938}}",
+            "choice_4kecnxxy7U": "you do not like to do",
+            "choice_Vkb5hxxyQL": "are meaningless",
+            "choice_N10ple17U": "do not require your personal involvement"
+        }
+    }
+}

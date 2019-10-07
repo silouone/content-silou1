@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-13T11:34:37.940Z",
+            "updatedAt": "2019-06-28T13:14:42.531Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41r1xzi0L"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NkrozQsA8",
+        "universalRef": "sli_NkrozQsA8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel36731",
+                        "items": [
+                            {
+                                "text": "choice_4kgEH7moCL",
+                                "value": "choice_4kgEH7moCL"
+                            },
+                            {
+                                "text": "choice_VyWNBmXjCU",
+                                "value": "choice_VyWNBmXjCU"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel40727",
+                        "items": [
+                            {
+                                "text": "choice_EJguL77jAU",
+                                "value": "choice_EJguL77jAU"
+                            },
+                            {
+                                "text": "choice_4yZ-IX7jAU",
+                                "value": "choice_4yZ-IX7jAU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel36731",
+                        "answers": [
+                            "choice_VyWNBmXjCU"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel40727",
+                        "answers": [
+                            "choice_EJguL77jAU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What kind of goal should you pursue to make sure the path to your big distant goal is paved with satisfying small accomplishments?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "Focusing only on a big distant goal means satisfaction is rare. To reach small satisfying accomplishments, choose ‘process goals‘ over ‘outcome goals’.",
+            "tips": "‘The journey, not the destination matters...‘ T.S. Eliot",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Choose {{sel36731}} over {{sel40727}}",
+            "choice_4kgEH7moCL": "‘outcome goals’",
+            "choice_VyWNBmXjCU": "‘process goals’",
+            "choice_EJguL77jAU": "‘outcome goals’",
+            "choice_4yZ-IX7jAU": "‘process goals’"
+        },
+        "fr": {
+            "header": "Quel type d’objectifs devriez-vous poursuivre pour vous assurer que le chemin menant à votre grand projet à long terme est pavé de petites réussites satisfaisantes ?",
+            "explanation": "Sélectionnez les bonnes réponses dans les menus déroulants.",
+            "klf": "Se concentrer uniquement sur un objectif lointain signifie que la satisfaction est rare. Pour obtenir de petites réussites satisfaisantes, choisissez des « objectifs de processus » plutôt que des « objectifs de résultats ».",
+            "tips": "« C'est le voyage qui compte, pas la destination… » T.S. Eliot",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Choisissez des {{sel36731}} plutôt que des {{sel40727}}",
+            "choice_4kgEH7moCL": "« objectifs de résultats »",
+            "choice_VyWNBmXjCU": "« objectifs de processus »",
+            "choice_EJguL77jAU": "« objectifs de résultats »",
+            "choice_4yZ-IX7jAU": "« objectifs de processus »"
+        },
+        "de": {
+            "header": "What kind of goal should you pursue to make sure the path to your big distant goal is paved with satisfying small accomplishments?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "Focusing only on a big distant goal means satisfaction is rare. To reach small satisfying accomplishments, choose ‘process goals‘ over ‘outcome goals’.",
+            "tips": "‘The journey, not the destination matters...‘ T.S. Eliot",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Choose {{sel36731}} over {{sel40727}}",
+            "choice_4kgEH7moCL": "‘outcome goals’",
+            "choice_VyWNBmXjCU": "‘process goals’",
+            "choice_EJguL77jAU": "‘outcome goals’",
+            "choice_4yZ-IX7jAU": "‘process goals’"
+        },
+        "th": {
+            "header": "What kind of goal should you pursue to make sure the path to your big distant goal is paved with satisfying small accomplishments?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "Focusing only on a big distant goal means satisfaction is rare. To reach small satisfying accomplishments, choose ‘process goals‘ over ‘outcome goals’.",
+            "tips": "‘The journey, not the destination matters...‘ T.S. Eliot",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Choose {{sel36731}} over {{sel40727}}",
+            "choice_4kgEH7moCL": "‘outcome goals’",
+            "choice_VyWNBmXjCU": "‘process goals’",
+            "choice_EJguL77jAU": "‘outcome goals’",
+            "choice_4yZ-IX7jAU": "‘process goals’"
+        }
+    }
+}

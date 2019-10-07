@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T10:31:13.887Z",
+            "updatedAt": "2019-04-10T10:31:50.382Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJCo5s6-I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4yURhiLKU",
+        "universalRef": "sli_4yURhiLKU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yURhiLKU.choice_NJse0jUYU.id",
+                        "label": "choice_NJse0jUYU",
+                        "value": "choice_NJse0jUYU"
+                    },
+                    {
+                        "id": "sli_4yURhiLKU.choice_4JxM0sLKL.id",
+                        "label": "choice_4JxM0sLKL",
+                        "value": "choice_4JxM0sLKL"
+                    },
+                    {
+                        "id": "sli_4yURhiLKU.choice_V1L8Ri8K8.id",
+                        "label": "choice_V1L8Ri8K8",
+                        "value": "choice_V1L8Ri8K8"
+                    },
+                    {
+                        "id": "sli_4yURhiLKU.choice_EJd4k3It8.id",
+                        "label": "choice_EJd4k3It8",
+                        "value": "choice_EJd4k3It8"
+                    },
+                    {
+                        "id": "sli_4yURhiLKU.choice_E1NS12UFL.id",
+                        "label": "choice_E1NS12UFL",
+                        "value": "choice_E1NS12UFL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJse0jUYU",
+                        "choice_4JxM0sLKL",
+                        "choice_EJd4k3It8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is important to define before deciding to whom and how to delegate?",
+            "explanation": "Select the correct answers below.",
+            "klf": "First, you must decide which tasks you can delegate and when. Know when you should ask your team to perform certain tasks and make decisions. Once you know which tasks are appropriate to delegate, it's much easier to decide to whom – and how – to delegate.",
+            "tips": "Don't take refusals personally. Some people will not be able to help you for a variety of reasons. They might be already busy or just lazy, but that doesn't mean they hate you!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJse0jUYU": "The tasks you can delegate",
+            "choice_4JxM0sLKL": "When you should ask your team",
+            "choice_V1L8Ri8K8": "Plans for your night out",
+            "choice_EJd4k3It8": "When you can delegate",
+            "choice_E1NS12UFL": "The naive employees who won't say no"
+        },
+        "fr": {
+            "header": "Que faut-il définir avant de décider à qui et comment déléguer ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Tout d'abord, vous devez décider quelles tâches vous pouvez déléguer et quand. Sachez quand vous devez demander à votre équipe d’accomplir certaines tâches et de prendre des décisions. Une fois que vous saurez quelles tâches peuvent être déléguées, il vous sera beaucoup plus facile de décider à qui - et comment - déléguer.",
+            "tips": "Ne prenez pas les refus personnellement. Certaines personnes ne pourront pas vous aider pour diverses raisons. Ils sont peut-être déjà occupés ou simplement paresseux, mais cela ne signifie pas qu'ils vous détestent !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJse0jUYU": "Les tâches que vous pouvez déléguer",
+            "choice_4JxM0sLKL": "Quand vous devez le demander à votre équipe",
+            "choice_V1L8Ri8K8": "Les plans de votre soirée",
+            "choice_EJd4k3It8": "Quand vous pouvez déléguer",
+            "choice_E1NS12UFL": "Les employés naïfs qui ne diront pas non"
+        },
+        "de": {
+            "header": "What is important to define before deciding to whom and how to delegate?",
+            "explanation": "Select the correct answers below.",
+            "klf": "First, you must decide which tasks you can delegate and when. Know when you should ask your team to perform certain tasks and make decisions. Once you know which tasks are appropriate to delegate, it's much easier to decide to whom – and how – to delegate.",
+            "tips": "Don't take refusals personally. Some people will not be able to help you for a variety of reasons. They might be already busy or just lazy, but that doesn't mean they hate you!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJse0jUYU": "The tasks you can delegate",
+            "choice_4JxM0sLKL": "When you should ask your team",
+            "choice_V1L8Ri8K8": "Plans for your night out",
+            "choice_EJd4k3It8": "When you can delegate",
+            "choice_E1NS12UFL": "The naive employees who won't say no"
+        },
+        "th": {
+            "header": "What is important to define before deciding to whom and how to delegate?",
+            "explanation": "Select the correct answers below.",
+            "klf": "First, you must decide which tasks you can delegate and when. Know when you should ask your team to perform certain tasks and make decisions. Once you know which tasks are appropriate to delegate, it's much easier to decide to whom – and how – to delegate.",
+            "tips": "Don't take refusals personally. Some people will not be able to help you for a variety of reasons. They might be already busy or just lazy, but that doesn't mean they hate you!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJse0jUYU": "The tasks you can delegate",
+            "choice_4JxM0sLKL": "When you should ask your team",
+            "choice_V1L8Ri8K8": "Plans for your night out",
+            "choice_EJd4k3It8": "When you can delegate",
+            "choice_E1NS12UFL": "The naive employees who won't say no"
+        }
+    }
+}

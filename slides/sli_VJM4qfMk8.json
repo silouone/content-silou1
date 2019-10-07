@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T14:02:13.299Z",
+            "updatedAt": "2019-01-21T14:52:55.661Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1cvd9eJU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VJM4qfMk8",
+        "universalRef": "sli_VJM4qfMk8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel58534",
+                        "items": [
+                            {
+                                "text": "choice_Nyeh1oGMkI",
+                                "value": "choice_Nyeh1oGMkI"
+                            },
+                            {
+                                "text": "choice_Ny~31sGzy8",
+                                "value": "choice_Ny~31sGzy8"
+                            },
+                            {
+                                "text": "choice_4J1~iGMkU",
+                                "value": "choice_4J1~iGMkU"
+                            },
+                            {
+                                "text": "choice_EJZWizGyU",
+                                "value": "choice_EJZWizGyU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel58534",
+                        "answers": [
+                            "choice_Nyeh1oGMkI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How would you define the impact you have on your own behaviour?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Your behaviour is a choice you make. How you choose to behave will impact every relationship you have, both professionally and personally.",
+            "tips": "When in a delicate situation, try deep-breathing exercices. This will slow down your heart rate and help you take a step back.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It is important to remember that you can {{sel58534}} your behaviour.",
+            "choice_Nyeh1oGMkI": "choose",
+            "choice_Ny~31sGzy8": "apologise for",
+            "choice_4J1~iGMkU": "ignore",
+            "choice_EJZWizGyU": "hide"
+        },
+        "fr": {
+            "header": "Comment définiriez-vous l’influence de votre propre comportement ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Votre comportement résulte d’un choix que vous faites. Votre choix de comportement influencera chacune de vos relations, qu’elle soit professionnelle ou personnelle.",
+            "tips": "Dans les situations délicates, essayez de respirer profondément. Cela ralentira votre rythme cardiaque et vous aidera à prendre du recul.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Il est important de vous rappeler que vous pouvez {{sel58534}} votre comportement.",
+            "choice_Nyeh1oGMkI": "choisir",
+            "choice_Ny~31sGzy8": "vous excuser pour",
+            "choice_4J1~iGMkU": "ignorer",
+            "choice_EJZWizGyU": "dissimuler"
+        },
+        "de": {
+            "header": "Wie würden Sie die Auswirkungen auf Ihr eigenes Verhalten definieren?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Ihr Verhalten ist eine Entscheidung, die Sie treffen. Wie Sie sich für ein Verhalten entscheiden, wirkt sich auf jede Beziehung, die Sie haben, aus, sowohl beruflich als auch persönlich aus.",
+            "tips": "Versuchen Sie in einer heiklen Situation, Atemübungen zu machen. Dadurch wird Ihre Herzfrequenz verlangsamt und Sie können einen Schritt zurücktreten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Denken Sie daran, dass Sie Ihr Verhalten {{sel58534}} können.",
+            "choice_Nyeh1oGMkI": "wählen",
+            "choice_Ny~31sGzy8": "entschuldigen",
+            "choice_4J1~iGMkU": "ignorieren",
+            "choice_EJZWizGyU": "verbergen"
+        },
+        "th": {
+            "header": "คุณจะให้คำนิยามของผลกระทบต่อพฤติกรรมของคุณไว้ว่าอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้องจากเมนูเลื่อนลง",
+            "klf": "พฤติกรรมเป็นสิ่งที่คุณเลือกเอง พฤติกรรมที่คุณเลือกจะกระทบต่อทุกความสัมพันธ์ของคุณ ไม่ว่าจะเป็นเรื่องงานหรือเรื่องส่วนตัวก็ตาม",
+            "tips": "ลองฝึกหายใจเข้าลึกๆ หากต้องเผชิญกับสถานการณ์ที่เปราะบาง วิธีนี้จะทำให้หัวใจของคุณเต้นช้าลง และช่วยให้คุณถอยหลังมาอีกหนึ่งก้าว",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "สิ่งสำคัญก็คือคุณควรจำไว้ว่าคุณ {{sel58534}} พฤติกรรมของคุณได้",
+            "choice_Nyeh1oGMkI": "เลือก",
+            "choice_Ny~31sGzy8": "ขอโทษกับ",
+            "choice_4J1~iGMkU": "เพิกเฉยกับ",
+            "choice_EJZWizGyU": "ซ่อน"
+        }
+    }
+}

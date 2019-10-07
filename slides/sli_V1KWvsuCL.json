@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-11T14:21:13.255Z",
+            "updatedAt": "2019-06-13T12:05:25.144Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWvILOAU"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_V1KWvsuCL",
+        "universalRef": "sli_V1KWvsuCL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1KWvsuCL.choice_EJkBwjOA8.id",
+                        "label": "choice_EJkBwjOA8",
+                        "value": "choice_EJkBwjOA8"
+                    },
+                    {
+                        "id": "sli_V1KWvsuCL.choice_NylSPjdAU.id",
+                        "label": "choice_NylSPjdAU",
+                        "value": "choice_NylSPjdAU"
+                    },
+                    {
+                        "id": "sli_V1KWvsuCL.choice_Vk~SPsdAU.id",
+                        "label": "choice_Vk~SPsdAU",
+                        "value": "choice_Vk~SPsdAU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk~SPsdAU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of these budget revisions should be adopted when sales are lower than expected?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When actual numbers don't follow your budget, you need to find reasons why this is happening and react. If sales are down, you will probably need to spend more in marketing to increase them.",
+            "tips": "There can be many various reasons for a gap between budget and actual numbers. Indeed, more spending in marketing could raise sales numbers, but sales might also be down due to a shift in user values, product innovation, competition, lack of business vision, lack of sales training, etc. In short, think twice about where to allocate money before you revise your budget!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJkBwjOA8": "Increased production levels",
+            "choice_NylSPjdAU": "Increase sales staff",
+            "choice_Vk~SPsdAU": "Increase marketing spend to increase sales"
+        },
+        "fr": {
+            "header": "Laquelle de ces révisions budgétaires devrait être adoptée lorsque les ventes sont inférieures aux prévisions ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Lorsque les chiffres réels ne suivent pas votre budget, vous devez trouver les raisons de cette situation et réagir. Si les ventes sont en baisse, vous devrez probablement dépenser davantage en marketing pour les augmenter.",
+            "tips": "L'écart entre le budget et les chiffres réels peut s'expliquer par de nombreuses raisons diverses. En effet, une augmentation des dépenses en marketing pourrait faire augmenter les chiffres de vente, mais les ventes pourraient également baisser en raison d'un changement dans les valeurs utilisateur, de l'innovation des produits, de la concurrence, du manque de vision commerciale, du manque de formation en vente, etc. En bref, réfléchissez à deux fois à la répartition des fonds avant de revoir votre budget !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJkBwjOA8": "L'augmentation des niveaux de production",
+            "choice_NylSPjdAU": "L'embauche de personnel de vente",
+            "choice_Vk~SPsdAU": "L'augmentation des dépenses en marketing pour booster les ventes"
+        },
+        "de": {
+            "header": "Which of these budget revisions should be adopted when sales are lower than expected?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When actual numbers don't follow your budget, you need to find reasons why this is happening and react. If sales are down, you will probably need to spend more in marketing to increase them.",
+            "tips": "There can be many various reasons for a gap between budget and actual numbers. Indeed, more spending in marketing could raise sales numbers, but sales might also be down due to a shift in user values, product innovation, competition, lack of business vision, lack of sales training, etc. In short, think twice about where to allocate money before you revise your budget!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJkBwjOA8": "Increased production levels",
+            "choice_NylSPjdAU": "Increase sales staff",
+            "choice_Vk~SPsdAU": "Increase marketing spend to increase sales"
+        },
+        "th": {
+            "header": "Which of these budget revisions should be adopted when sales are lower than expected?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When actual numbers don't follow your budget, you need to find reasons why this is happening and react. If sales are down, you will probably need to spend more in marketing to increase them.",
+            "tips": "There can be many various reasons for a gap between budget and actual numbers. Indeed, more spending in marketing could raise sales numbers, but sales might also be down due to a shift in user values, product innovation, competition, lack of business vision, lack of sales training, etc. In short, think twice about where to allocate money before you revise your budget!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJkBwjOA8": "Increased production levels",
+            "choice_NylSPjdAU": "Increase sales staff",
+            "choice_Vk~SPsdAU": "Increase marketing spend to increase sales"
+        }
+    }
+}

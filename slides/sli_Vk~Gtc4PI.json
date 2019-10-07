@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-15T13:35:55.634Z",
+            "updatedAt": "2019-03-20T09:25:47.770Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1ioyOxw8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Vk~Gtc4PI",
+        "universalRef": "sli_Vk~Gtc4PI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel60347",
+                        "items": [
+                            {
+                                "text": "choice_4klTmK5VD8",
+                                "value": "choice_4klTmK5VD8"
+                            },
+                            {
+                                "text": "choice_4JZT7t5NDU",
+                                "value": "choice_4JZT7t5NDU"
+                            },
+                            {
+                                "text": "choice_EkbSK5EPL",
+                                "value": "choice_EkbSK5EPL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel60347",
+                        "answers": [
+                            "choice_4klTmK5VD8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If you think people have negative views of you, which of the following is easy to find?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The more we believe in an idea, the easier it is to find ‘evidence’ supporting that idea, even if it isn't there.",
+            "tips": "The ‘confirmation bias’ leads us not only to focus essentially on (and give more value to) information that confirms our preexisting beliefs and hypotheses.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60347}}",
+            "choice_4klTmK5VD8": "Evidence supporting your views",
+            "choice_4JZT7t5NDU": "Evidence disproving your views",
+            "choice_EkbSK5EPL": "People who agree with your thoughts"
+        },
+        "fr": {
+            "header": "Si vous pensez que les gens ont une opinion négative de vous, qu'est-ce qui, parmi les propositions suivantes, serait facile à trouver ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Plus nous croyons en une idée, plus il est facile de trouver des « preuves » pour appuyer cette idée, même si elles n'existent pas.",
+            "tips": "Le « préjugé de confirmation » ne nous conduit pas seulement à nous focaliser principalement sur (et à valoriser davantage) les informations qui confirment nos croyances et hypothèses préexistantes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60347}}",
+            "choice_4klTmK5VD8": "Des preuves pour appuyer votre point de vue",
+            "choice_4JZT7t5NDU": "Des preuves réfutant votre point de vue",
+            "choice_EkbSK5EPL": "Des personnes qui sont d'accord avec vos idées"
+        },
+        "de": {
+            "header": "If you think people have negative views of you, which of the following is easy to find?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The more we believe in an idea, the easier it is to find ‘evidence’ supporting that idea, even if it isn't there.",
+            "tips": "The ‘confirmation bias’ leads us not only to focus essentially on (and give more value to) information that confirms our preexisting beliefs and hypotheses.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60347}}",
+            "choice_4klTmK5VD8": "Evidence supporting your views",
+            "choice_4JZT7t5NDU": "Evidence disproving your views",
+            "choice_EkbSK5EPL": "People who agree with your thoughts"
+        },
+        "th": {
+            "header": "If you think people have negative views of you, which of the following is easy to find?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The more we believe in an idea, the easier it is to find ‘evidence’ supporting that idea, even if it isn't there.",
+            "tips": "The ‘confirmation bias’ leads us not only to focus essentially on (and give more value to) information that confirms our preexisting beliefs and hypotheses.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel60347}}",
+            "choice_4klTmK5VD8": "Evidence supporting your views",
+            "choice_4JZT7t5NDU": "Evidence disproving your views",
+            "choice_EkbSK5EPL": "People who agree with your thoughts"
+        }
+    }
+}

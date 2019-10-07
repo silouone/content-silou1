@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T19:30:18.664Z",
+            "updatedAt": "2019-09-03T09:10:09.172Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny8VckEmD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_VJQud2IQD",
+        "universalRef": "sli_VJQud2IQD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJQud2IQD.choice_NycquhUQv.id",
+                        "label": "choice_NycquhUQv",
+                        "value": "choice_NycquhUQv"
+                    },
+                    {
+                        "id": "sli_VJQud2IQD.choice_EJEju28XD.id",
+                        "label": "choice_EJEju28XD",
+                        "value": "choice_EJEju28XD"
+                    },
+                    {
+                        "id": "sli_VJQud2IQD.choice_E1Lsd2U7w.id",
+                        "label": "choice_E1Lsd2U7w",
+                        "value": "choice_E1Lsd2U7w"
+                    },
+                    {
+                        "id": "sli_VJQud2IQD.choice_V1Pou387v.id",
+                        "label": "choice_V1Pou387v",
+                        "value": "choice_V1Pou387v"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NycquhUQv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the most important thing a customer needs to know about a product?",
+            "explanation": "Select the correct answer below.",
+            "klf": "People don't buy features, they buy benefits that mean something to them. Explain the benefits of a product or service and relate them to the customer’s needs.",
+            "tips": "To effectively explain what the benefits are for your customer, start with the problem to fix or the desired improvement, and what the solution is. Conclude with how your service or product provides the solution.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NycquhUQv": "How they will benefit from it",
+            "choice_EJEju28XD": "The product features",
+            "choice_E1Lsd2U7w": "How up-to-date it is",
+            "choice_V1Pou387v": "Cost"
+        },
+        "fr": {
+            "header": "Quelle est la chose la plus importante qu'un client doit savoir sur un produit?",
+            "explanation": "Sélectionnez la réponse correcte ci-dessous.",
+            "klf": "Les gens n'achètent pas de fonctionnalités, ils achètent des avantages qui signifient quelque chose pour eux. Expliquez les avantages d’un produit ou d’un service et associez-les aux besoins du client.",
+            "tips": "Pour expliquer efficacement les avantages pour votre client, commencez par le problème à résoudre ou l’amélioration souhaitée, et quelle est la solution. Concluez avec la manière dont votre service ou produit fournit la solution.",
+            "choice_NycquhUQv": "Comment ils vont en bénéficier",
+            "choice_EJEju28XD": "Les caractéristiques du produit",
+            "choice_E1Lsd2U7w": "Comment il est à jour",
+            "choice_V1Pou387v": "Coût",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What is the most important thing a customer needs to know about a product?",
+            "explanation": "Select the correct answer below.",
+            "klf": "People don't buy features, they buy benefits that mean something to them. Explain the benefits of a product or service and relate them to the customer’s needs.",
+            "tips": "To effectively explain what the benefits are for your customer, start with the problem to fix or the desired improvement, and what the solution is. Conclude with how your service or product provides the solution.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NycquhUQv": "How they will benefit from it",
+            "choice_EJEju28XD": "The product features",
+            "choice_E1Lsd2U7w": "How up-to-date it is",
+            "choice_V1Pou387v": "Cost"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NycquhUQv": "",
+            "choice_EJEju28XD": "",
+            "choice_E1Lsd2U7w": "",
+            "choice_V1Pou387v": ""
+        }
+    }
+}

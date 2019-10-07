@@ -1,0 +1,146 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T11:22:46.854Z",
+            "updatedAt": "2018-11-09T13:11:04.375Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkxsHvBcS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_4JymkdScB",
+        "universalRef": "sli_4JymkdScB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel11355",
+                        "items": [
+                            {
+                                "text": "choice_EylE67OB9H",
+                                "value": "choice_EylE67OB9H"
+                            },
+                            {
+                                "text": "choice_NkZEaXurcr",
+                                "value": "choice_NkZEaXurcr"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel84214",
+                        "items": [
+                            {
+                                "text": "choice_V1xwTXuH9S",
+                                "value": "choice_V1xwTXuH9S"
+                            },
+                            {
+                                "text": "choice_EkZvpXdrqH",
+                                "value": "choice_EkZvpXdrqH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel11355",
+                        "answers": [
+                            "choice_EylE67OB9H"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel84214",
+                        "answers": [
+                            "choice_EkZvpXdrqH"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_V1~HE5p9H",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What impulses come into play in this situation?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Fear of failure and building-up stress don't mix too well... Insecurity and pressure easily lead to anger and can trigger aggressiveness.",
+            "tips": "According to Dr Travis Bradberry, self-awareness lies at the core of emotional intelligence, which he defines as ‘your ability to recognize and understand emotions in yourself and others, and your ability to use this awareness to manage your behaviour and relationships.’",
+            "clue": "",
+            "context_title": "‘Do I look like I'm fine, really?’",
+            "context_description": "You chose to be in charge of presenting the results of a group project to your whole team at the end of the week. It is Tuesday already, and you know that you're going to have a tough week of work with a lot on your hands. You don't know if you'll be able to finish your presentation on time, and stress builds up as Friday comes closer. On Thursday, one of your colleagues comes up to you and asks how you're doing with the presentation and if you need help to wrap it up. You answer aggressively, ‘Well, I just spent the worst week, but everything is great really! I could have used some help before but now that all the hard work is done...’ What impulses come into play in this situation?",
+            "context_media_description": "",
+            "template": "{{sel11355}} and {{sel84214}}.",
+            "choice_EylE67OB9H": "Insecurity",
+            "choice_NkZEaXurcr": "Sadness",
+            "choice_V1xwTXuH9S": "arrogance",
+            "choice_EkZvpXdrqH": "anger"
+        },
+        "fr": {
+            "header": "Quelles pulsions entrent en jeu dans la situation présente ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "La peur de l’échec et la montée du stress ne font pas bon ménage... L’insécurité et la pression provoquent facilement la colère et peuvent déclencher de l’agressivité.",
+            "tips": "Selon le Dr Travis Bradberry, la conscience de soi se situe au cœur de l’intelligence émotionnelle, qu’il définit comme « votre capacité à reconnaître et comprendre vos propres émotions et celles des autres personnes, et votre capacité à utiliser cette conscience pour gérer votre comportement et vos relations. »",
+            "clue": "",
+            "context_title": "« Ai-je l’air de quelqu’un qui va bien, vraiment ? »",
+            "context_description": "Vous décidez de vous charger de présenter les résultats d’un projet de groupe à l’ensemble de votre équipe à la fin de la semaine. Nous sommes déjà mardi, et vous savez que vous allez avoir une semaine de travail difficile et chargée. Vous ne savez pas si vous allez être en mesure de terminer votre présentation à temps, et le stress monte alors que vendredi arrive à grands pas. Jeudi, un de vos collègues vient vous voir et vous demande comment vous vous en sortez avec la présentation et si vous avez besoin d’aide pour la terminer. Vous répondez de manière agressive, « Eh bien, j’ai passé la pire semaine de ma vie, mais heureusement tout va bien ! J’aurais pu demander de l’aide avant, mais maintenant que le plus gros du travail est fait… » Quelles pulsions entrent en jeu dans la situation présente ?",
+            "context_media_description": "",
+            "template": "{{sel11355}} et {{sel84214}}.",
+            "choice_EylE67OB9H": "L'insécurité",
+            "choice_NkZEaXurcr": "La tristesse",
+            "choice_V1xwTXuH9S": "l'arrogance",
+            "choice_EkZvpXdrqH": "la colère"
+        },
+        "de": {
+            "header": "Welche Impulse kommen in dieser Situation ins Spiel?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "Angst vor Versagen und Stress beim Aufbau vermischen sich nicht so gut. Unsicherheit und Druck führen leicht zu Ärger und können Aggressivität auslösen.",
+            "tips": "Laut Dr. Travis Bradberry ist Selbsterkenntnis der Kern der emotionalen Intelligenz, die er definiert als „Ihre Fähigkeit, Emotionen in sich und anderen zu erkennen und zu verstehen, und Ihre Fähigkeit, dieses Bewusstsein zu nutzen, um Ihr Verhalten und Ihre Beziehungen zu steuern.“",
+            "clue": "",
+            "context_title": "Sehe ich wirklich gut aus?",
+            "context_description": "Sie haben beschlossen, die Ergebnisse eines Gruppenprojekts am Ende der Woche Ihrem gesamten Team vorzustellen. Es ist bereits Dienstag, und Sie wissen, dass Sie eine harte Woche mit viel Arbeit haben werden. Sie wissen nicht, ob Sie Ihre Präsentation rechtzeitig abschließen können, und der Freitag kommt näher. Am Donnerstag kommt einer Ihrer Kollegen zu Ihnen und fragt Sie, wie Sie mit der Präsentation fertig werden und, ob Sie Hilfe benötigen, um die Präsentation abzuschließen. Sie antworten aggressiv: „Nun, ich habe gerade die schlechteste Woche verbracht, aber alles ist wirklich großartig! Ich hätte vorher schon etwas Hilfe gebrauchen können, aber jetzt ist die harte Arbeit erledigt ... “ Welche Impulse kommen in dieser Situation ins Spiel?",
+            "context_media_description": "",
+            "template": "{{sel11355}} und {{sel84214}}.",
+            "choice_EylE67OB9H": "Unsicherheit",
+            "choice_NkZEaXurcr": "Traurigkeit",
+            "choice_V1xwTXuH9S": "Arroganz",
+            "choice_EkZvpXdrqH": "Zorn"
+        },
+        "th": {
+            "header": "แรงกระตุ้นอะไรที่ส่งผลต่อสถานการณ์นี้",
+            "explanation": "เลือกคำตอบที่ถูกต้องจากเมนูดรอปดาวน์",
+            "klf": "การกลัวความล้มเหลวและความเครียดที่ก่อตัวขึ้นดูจะไม่เข้ากันเท่าไร... ความไม่มั่นใจและความกดดันอาจนำไปสู่ความโกรธได้อย่างง่ายดายและสามารถก่อให้เกิดความก้าวร้าว",
+            "tips": "จากข้อมูลของ Dr Travis Bradberry การตระหนักรู้ในตนเองเป็นหัวใจสำคัญของความฉลาดทางอารมณ์ ซึ่งเขาได้ให้นิยามว่าเป็น ‘ความสามารถในการรู้และเข้าใจอารมณ์ในตัวคุณเองและผู้อื่น รวมถึงความสามารถของคุณที่จะใช้ความตระหนักรู้นี้จัดการกับพฤติกรรมและความสัมพันธ์ของคุณ’",
+            "clue": "",
+            "context_title": "‘ฉันดูสบายดี ใช่ไหม’",
+            "context_description": "คุณเลือกที่จะเป็นผู้รับผิดชอบในการนำเสนอผลงานจากโครงการที่ทำเป็นกลุ่มให้กับทั้งทีมของคุณในช่วงสุดสัปดาห์ วันนี้เป็นวันอังคารแล้ว และคุณรู้ว่าสัปดาห์นี้คุณจะเจอศึกหนักเนื่องจากมีงานในมือค่อนข้างมาก คุณไม่รู้ว่าคุณจะทำงานนำเสนอให้เสร็จได้ทันเวลาหรือไม่ และคุณเริ่มเครียดมากขึ้้น เพราะใกล้จะถึงวันศุกร์เข้ามาทุกทีแล้ว ในวันพฤหัสบดี เพื่อนร่วมงานคนหนึ่งของคุณเข้ามาหา และถามว่างานนำเสนอที่คุณทำอยู่ไปถึงไหนแล้ว และคุณต้องการความช่วยเหลือในการทำงานให้เสร็จสมบูรณ์หรือไม่ คุณตอบอย่างฉุนเฉียว ‘อาทิตย์นี้แย่สุดๆ ไปเลย แต่ทุกอย่างไปได้สวยจริงๆ นะ! ฉันอาจจะต้องการความช่วยเหลือก่อนหน้านี้ แต่ตอนนี้ฉันก็ทำงานส่วนที่ยากๆ เสร็จไปหมดแล้ว...’ แรงกระตุ้นอะไรที่ส่งผลต่อสถานการณ์นี้",
+            "context_media_description": "",
+            "template": "{{sel11355}} และ {{sel84214}}",
+            "choice_EylE67OB9H": "ความไม่มั่นใจ",
+            "choice_NkZEaXurcr": "ความเศร้า",
+            "choice_V1xwTXuH9S": "ความเย่อหยิ่ง",
+            "choice_EkZvpXdrqH": "ความโกรธ"
+        }
+    }
+}

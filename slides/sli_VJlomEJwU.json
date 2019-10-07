@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-11T11:22:35.073Z",
+            "updatedAt": "2019-03-11T13:11:55.270Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyw1zKsII"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VJlomEJwU",
+        "universalRef": "sli_VJlomEJwU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel71528",
+                        "items": [
+                            {
+                                "text": "choice_Ekx80QEJvL",
+                                "value": "choice_Ekx80QEJvL"
+                            },
+                            {
+                                "text": "choice_VJZ8CXEkD8",
+                                "value": "choice_VJZ8CXEkD8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel71528",
+                        "answers": [
+                            "choice_VJZ8CXEkD8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you describe the ideal relation between a coach and a newbie?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The new employee isn't supposed to be an assistant for the coach! On the contrary, the coach should be \"at the new employee's service\" to help them grow, giving them clues and tips without doing things in their place.",
+            "tips": "In addition to assigning a coach to each new employee, you can also assign them a buddy to guide them through the more informal office life.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel71528}}",
+            "choice_Ekx80QEJvL": "The newbie helps the coach in his/her tasks",
+            "choice_VJZ8CXEkD8": "The coach helps the newbie in his/her tasks"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous décrire la relation idéale entre un coach et un débutant ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le nouvel employé n'est pas censé être un assistant pour le coach ! Au contraire, le coach devrait être « au service du nouvel employé » pour l’aider à se développer, en lui donnant des indices et des conseils sans rien faire à sa place.",
+            "tips": "En plus d'assigner un coach à chaque nouvel employé, vous pouvez également lui assigner un binôme pour le guider dans la vie de bureau plus informelle.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel71528}}",
+            "choice_Ekx80QEJvL": "Le débutant aide le coach dans ses tâches",
+            "choice_VJZ8CXEkD8": "Le coach aide le débutant dans ses tâches"
+        },
+        "de": {
+            "header": "How can you describe the ideal relation between a coach and a newbie?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The new employee isn't supposed to be an assistant for the coach! On the contrary, the coach should be \"at the new employee's service\" to help them grow, giving them clues and tips without doing things in their place.",
+            "tips": "In addition to assigning a coach to each new employee, you can also assign them a buddy to guide them through the more informal office life.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel71528}}",
+            "choice_Ekx80QEJvL": "The newbie helps the coach in his/her tasks",
+            "choice_VJZ8CXEkD8": "The coach helps the newbie in his/her tasks"
+        },
+        "th": {
+            "header": "How can you describe the ideal relation between a coach and a newbie?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The new employee isn't supposed to be an assistant for the coach! On the contrary, the coach should be \"at the new employee's service\" to help them grow, giving them clues and tips without doing things in their place.",
+            "tips": "In addition to assigning a coach to each new employee, you can also assign them a buddy to guide them through the more informal office life.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel71528}}",
+            "choice_Ekx80QEJvL": "The newbie helps the coach in his/her tasks",
+            "choice_VJZ8CXEkD8": "The coach helps the newbie in his/her tasks"
+        }
+    }
+}

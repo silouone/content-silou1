@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T14:08:26.689Z",
+            "updatedAt": "2019-05-20T14:08:26.689Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JWrq-P2U"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_N1hc7sjhI",
+        "universalRef": "sli_N1hc7sjhI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel92809",
+                        "items": [
+                            {
+                                "text": "choice_VJe2pXsj2I",
+                                "value": "choice_VJe2pXsj2I"
+                            },
+                            {
+                                "text": "choice_V1Zn6mjoh8",
+                                "value": "choice_V1Zn6mjoh8"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel97909",
+                        "items": [
+                            {
+                                "text": "choice_V1X36Xsj3L",
+                                "value": "choice_V1X36Xsj3L"
+                            },
+                            {
+                                "text": "choice_E1N3pXisnL",
+                                "value": "choice_E1N3pXisnL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel92809",
+                        "answers": [
+                            "choice_VJe2pXsj2I"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel97909",
+                        "answers": [
+                            "choice_E1N3pXisnL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should a true leader react when things go wrong?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "It’s a leader’s job to deal with problems. When things go wrong, find out what happened, why it happened, and put it right. Work with the team to find solutions.",
+            "tips": "Nevertheless, when individual team members don't hold up their end, be prepared to confront them about it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "By finding out {{sel92809}} and {{sel97909}}  .",
+            "choice_VJe2pXsj2I": "what went wrong",
+            "choice_V1Zn6mjoh8": "who’s to blame",
+            "choice_V1X36Xsj3L": "letting the person handle it",
+            "choice_E1N3pXisnL": "putting it right"
+        },
+        "fr": {
+            "header": "Comment un véritable leader devrait-il réagir lorsque les choses tournent mal ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "C’est au leader de gérer les problèmes. Lorsque les choses tournent mal, déterminez ce qui s'est passé, pourquoi, et corrigez le problème. Travaillez avec votre équipe pour trouver des solutions.",
+            "tips": "Néanmoins, lorsque des membres de l’équipe se détournent de leur objectif, préparez-vous à les confronter à ce sujet.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En déterminant {{sel92809}} et {{sel97909}} .",
+            "choice_VJe2pXsj2I": "ce qui ne s'est pas bien passé",
+            "choice_V1Zn6mjoh8": "qui est à blâmer",
+            "choice_V1X36Xsj3L": "en laissant la personne s'en occuper",
+            "choice_E1N3pXisnL": "en y remédiant"
+        },
+        "de": {
+            "header": "How should a true leader react when things go wrong?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "It’s a leader’s job to deal with problems. When things go wrong, find out what happened, why it happened, and put it right. Work with the team to find solutions.",
+            "tips": "Nevertheless, when individual team members don't hold up their end, be prepared to confront them about it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "By finding out {{sel92809}} and {{sel97909}}  .",
+            "choice_VJe2pXsj2I": "what went wrong",
+            "choice_V1Zn6mjoh8": "who’s to blame",
+            "choice_V1X36Xsj3L": "letting the person handle it",
+            "choice_E1N3pXisnL": "putting it right"
+        },
+        "th": {
+            "header": "How should a true leader react when things go wrong?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "It’s a leader’s job to deal with problems. When things go wrong, find out what happened, why it happened, and put it right. Work with the team to find solutions.",
+            "tips": "Nevertheless, when individual team members don't hold up their end, be prepared to confront them about it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "By finding out {{sel92809}} and {{sel97909}}  .",
+            "choice_VJe2pXsj2I": "what went wrong",
+            "choice_V1Zn6mjoh8": "who’s to blame",
+            "choice_V1X36Xsj3L": "letting the person handle it",
+            "choice_E1N3pXisnL": "putting it right"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T15:17:32.656Z",
+            "updatedAt": "2019-01-21T14:51:26.968Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vytwu9lyL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_N1BN2mGJ8",
+        "universalRef": "sli_N1BN2mGJ8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1BN2mGJ8.choice_NJsLn7GJI.id",
+                        "label": "choice_NJsLn7GJI",
+                        "value": "choice_NJsLn7GJI"
+                    },
+                    {
+                        "id": "sli_N1BN2mGJ8.choice_Ey3IhmzJU.id",
+                        "label": "choice_Ey3IhmzJU",
+                        "value": "choice_Ey3IhmzJU"
+                    },
+                    {
+                        "id": "sli_N1BN2mGJ8.choice_V1j92QzkL.id",
+                        "label": "choice_V1j92QzkL",
+                        "value": "choice_V1j92QzkL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ey3IhmzJU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "One of your team members comes to you in distress while you're in the middle of an Excel task. How do you react?",
+            "explanation": "Select the correct answer.",
+            "klf": "Use the human touch. We all respond well when people are friendly, interested, and warm toward us. Show them that what they have to say matters to you.",
+            "tips": "If your team members feel like they are welcomed when they come to you, they'll communicate more easily and more frequently, and good communication is the key to every successful team work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJsLn7GJI": "You say ‘Hang on’ and finish your task before turning to them and asking ‘Yes?’",
+            "choice_Ey3IhmzJU": "You acknowledge them by greeting them and show genuine interest in what they have to say",
+            "choice_V1j92QzkL": "You ask them to come back in one hour"
+        },
+        "fr": {
+            "header": "L’un de vos collaborateurs vient vous voir en détresse alors que vous êtes en plein travail sur Excel. Comment réagissez-vous ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Soyez humain. Nous réagissons tous correctement lorsque des personnes sont agréables, intéressées, et chaleureuses envers nous. Montrez-lui que ce qu’il a à vous dire compte pour vous.",
+            "tips": "Si vos collaborateurs sentent qu’ils sont les bienvenus lorsqu’ils viennent vous voir, ils communiqueront plus facilement et plus souvent, et une bonne communication est la clé d’un travail d’équipe réussi.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJsLn7GJI": "Vous répondez « Un instant » et finissez votre tâche avant de vous tourner vers lui et de lui dire « Oui ? »",
+            "choice_Ey3IhmzJU": "Vous l’accueillez de manière sincère et faites preuve d’un réel intérêt pour ce qu’il a à dire",
+            "choice_V1j92QzkL": "Vous lui demandez de revenir dans une heure"
+        },
+        "de": {
+            "header": "Eines Ihrer Teammitglieder kommt zu Ihnen, wenn Sie gerade mitten in einer Excel-Aufgabe sind. Wie reagierst du?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Verwenden Sie die menschliche Berührung. Wir alle reagieren gut, wenn die Menschen freundlich, interessiert und warmherzig sind. Zeigen Sie ihnen, dass das, was sie zu sagen haben, Ihnen wichtig ist.",
+            "tips": "Wenn sich Ihre Teammitglieder bei ihrer Ankunft willkommen fühlen, kommunizieren sie einfacher und häufiger. Gute Kommunikation ist der Schlüssel zu jeder erfolgreichen Teamarbeit.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJsLn7GJI": "Sie sagen \"Warte\" und beenden Ihre Aufgabe, bevor Sie sich zu ihnen wenden und \"Ja?\"",
+            "choice_Ey3IhmzJU": "Sie erkennen sie an, indem Sie sie begrüßen und zeigen ernsthaftes Interesse an dem, was sie zu sagen haben",
+            "choice_V1j92QzkL": "Sie bitten sie, in einer Stunde zurückzukommen"
+        },
+        "th": {
+            "header": "ลูกทีมคนหนึ่งของคุณมาหาคุณอย่างวิตกกังวล ขณะที่คุณกำลังทำงานบนโปรแกรม Excel อยู่ คุณจะมีปฏิกิริยาอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "ทำตัวเป็นมิตรและเข้าอกเข้าใจปัญหาของเขา เราตอบสนองได้ดีเสมอ เมื่อผู้คนเป็นมิตร แสดงความสนใจและไม่เย็นชากับเรา แสดงให้พวกเขารู้ว่าสิ่งที่พวกเขาพูดสำคัญสำหรับคุณ",
+            "tips": "ถ้าลูกทีมของคุณรู้สึกว่าคุณยินดีให้เขามาหา พวกเขาก็จะสื่อสารได้อย่างง่ายดายและถี่ขึ้น และการสื่อสารที่ดีก็เป็นหัวใจสำคัญของการทำงานเป็นทีมอย่างประสบความสำเร็จในทุกครั้ง",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJsLn7GJI": "คุณพูดว่า ‘รอเดี๋ยว’ ทำงานให้เสร็จและหันกลับไปหาเขาแล้วพูดว่า ‘ค่ะ/ครับ’",
+            "choice_Ey3IhmzJU": "คุณแสดงออกว่าพวกเขามีตัวตนด้วยการทักทายเขาและแสดงความสนอกสนใจอย่างจริงใจในสิ่งที่พวกเขากำลังจะพูด",
+            "choice_V1j92QzkL": "คุณขอให้เขากลับมาใหม่ในอีกหนึ่งชั่วโมง"
+        }
+    }
+}

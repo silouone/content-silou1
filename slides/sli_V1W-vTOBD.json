@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-09-04T15:30:25.387Z",
+            "updatedAt": "2019-09-05T08:23:14.328Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3GiyNmP"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_V1W-vTOBD",
+        "universalRef": "sli_V1W-vTOBD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1W-vTOBD.choice_Ek1jw6OBv.id",
+                        "label": "choice_Ek1jw6OBv",
+                        "value": "choice_Ek1jw6OBv"
+                    },
+                    {
+                        "id": "sli_V1W-vTOBD.choice_VJejDTOSD.id",
+                        "label": "choice_VJejDTOSD",
+                        "value": "choice_VJejDTOSD"
+                    },
+                    {
+                        "id": "sli_V1W-vTOBD.choice_VyWjwT-BP.id",
+                        "label": "choice_VyWjwT-BP",
+                        "value": "choice_VyWjwT-BP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyWjwT-BP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Once your client’s problem has been identified, how should you proceed?",
+            "explanation": "Select the correct answer.",
+            "klf": "Once you have identified your client’s problem, you must help them solve it by providing the appropriate means and taking the right action.",
+            "tips": "This is usually the best time to give an idea of the costs involved and check them against the client’s expectations.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek1jw6OBv": "Encourage the client to find their own solution",
+            "choice_VJejDTOSD": "Ensure the client takes your most profitable solution",
+            "choice_VyWjwT-BP": "Suggest a range of options to tackle the problem"
+        },
+        "fr": {
+            "header": "Une fois le problème de votre client identifié, comment devriez-vous procéder?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Une fois que vous avez identifié le problème de votre client, vous devez l’aider à le résoudre en fournissant les moyens appropriés et en prenant les mesures qui s’imposent.",
+            "tips": "C’est généralement le meilleur moment pour donner une idée des coûts et les comparer aux attentes du client.",
+            "choice_Ek1jw6OBv": "Encourager le client à trouver sa propre solution",
+            "choice_VJejDTOSD": "Assurez-vous que le client prenne votre solution la plus rentable",
+            "choice_VyWjwT-BP": "Proposer une gamme d'options pour résoudre le problème",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Once your client’s problem has been identified, how should you proceed?",
+            "explanation": "Select the correct answer.",
+            "klf": "Once you have identified your client’s problem, you must help them solve it by providing the appropriate means and taking the right action.",
+            "tips": "This is usually the best time to give an idea of the costs involved and check them against the client’s expectations.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek1jw6OBv": "Encourage the client to find their own solution",
+            "choice_VJejDTOSD": "Ensure the client takes your most profitable solution",
+            "choice_VyWjwT-BP": "Suggest a range of options to tackle the problem"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek1jw6OBv": "",
+            "choice_VJejDTOSD": "",
+            "choice_VyWjwT-BP": ""
+        }
+    }
+}

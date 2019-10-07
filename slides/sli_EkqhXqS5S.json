@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T12:59:57.040Z",
+            "updatedAt": "2018-11-09T11:23:53.680Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkziTzV5H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_EkqhXqS5S",
+        "universalRef": "sli_EkqhXqS5S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkqhXqS5S.choice_VyYZH5H5r.id",
+                        "label": "choice_VyYZH5H5r",
+                        "value": "choice_VyYZH5H5r"
+                    },
+                    {
+                        "id": "sli_EkqhXqS5S.choice_VJpfBqSqS.id",
+                        "label": "choice_VJpfBqSqS",
+                        "value": "choice_VJpfBqSqS"
+                    },
+                    {
+                        "id": "sli_EkqhXqS5S.choice_4J4QBcBqS.id",
+                        "label": "choice_4J4QBcBqS",
+                        "value": "choice_4J4QBcBqS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJpfBqSqS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the best way to remember your tasks and reduce the risk of stressing out about them?",
+            "explanation": "Select the correct answer.",
+            "klf": "Keeping things in your head puts pressure on you to remember everything, and stresses you out: you will wonder if you have forgotten something. Unburden yourself by writing things down.",
+            "tips": "When writing a list of tasks, think of the small things. In fact, the big tasks tend to be easier to remember!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYZH5H5r": "Keeping all your tasks in detail in your head",
+            "choice_VJpfBqSqS": "Writing down a list of your tasks",
+            "choice_4J4QBcBqS": "Delegating your tasks to an assistant or an intern"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen de mémoriser vos tâches et de réduire le stress lié à d’éventuels oublis ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En gardant les choses en tête, vous êtes sous pression à l’idée de devoir vous souvenir de tout : vous êtes anxieux à l’idée d’avoir oublié quelque chose. Déchargez-vous l’esprit en dressant des listes.",
+            "tips": "Lorsque vous dressez une liste de tâches, pensez aux tâches de moindre importance. Dans la réalité, il est plus facile de mémoriser les tâches essentielles !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYZH5H5r": "Gardez en tête toutes vos tâches avec exactitude",
+            "choice_VJpfBqSqS": "Dressez une liste de vos tâches",
+            "choice_4J4QBcBqS": "Déléguez vos tâches à un assistant ou un interne "
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um sich an Ihre Aufgaben zu erinnern und das Stressrisiko zu reduzieren?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wenn Sie die Sachen im Kopf behalten, werden Sie unter Druck gesetzt, sich an alles zu erinnern, und Sie werden betont: Sie werden sich fragen, ob Sie etwas vergessen haben. Entlasten Sie sich, indem Sie die Sachen aufschreiben.",
+            "tips": "Denken Sie beim Schreiben einer Liste von Aufgaben an die kleinen Sachen. In der Tat sind die großen Aufgaben leichter zu merken!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYZH5H5r": "Behalten Sie alle Ihre Aufgaben im Detail im Kopf",
+            "choice_VJpfBqSqS": "Schreiben Sie sich eine Liste Ihrer Aufgaben auf",
+            "choice_4J4QBcBqS": "Delegieren Sie Ihre Aufgaben an einen Assistenten oder einen Praktikanten"
+        },
+        "th": {
+            "header": "What is the best way to remember your tasks and reduce the risk of stressing out about them?",
+            "explanation": "Select the correct answer.",
+            "klf": "Keeping things in your head puts pressure on you to remember everything, and stresses you out: you will wonder if you have forgotten something. Unburden yourself by writing things down.",
+            "tips": "When writing a list of tasks, think of the small things. In fact, the big tasks tend to be easier to remember!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYZH5H5r": "Keeping all your tasks in detail in your head",
+            "choice_VJpfBqSqS": "Writing down a list of your tasks",
+            "choice_4J4QBcBqS": "Delegating your tasks to an assistant or an intern"
+        }
+    }
+}

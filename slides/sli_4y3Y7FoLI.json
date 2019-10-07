@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T16:14:57.905Z",
+            "updatedAt": "2019-03-15T16:56:14.455Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E18bzts8U"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4y3Y7FoLI",
+        "universalRef": "sli_4y3Y7FoLI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel11635",
+                        "items": [
+                            {
+                                "text": "choice_NylS1Nto8L",
+                                "value": "choice_NylS1Nto8L"
+                            },
+                            {
+                                "text": "choice_NJZr1EtoI8",
+                                "value": "choice_NJZr1EtoI8"
+                            },
+                            {
+                                "text": "choice_N1mlVtiUU",
+                                "value": "choice_N1mlVtiUU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel11635",
+                        "answers": [
+                            "choice_N1mlVtiUU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When speaking about targets, what does the ‘R’ in ‘SMART’ mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "A SMART target is a Realistic one: make sure it is not impossible to achieve, nor too simple. Think about the need for balance and be prepared to tone down some targets or persuade others to take a tougher challenge.",
+            "tips": "Some sources use the letter ‘R’ to refer to different words. While ‘Realistic’ is still widely used, the term ‘Relevant’ has become quite common too.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The letter ‘R’ stands for {{sel11635}}.",
+            "choice_NylS1Nto8L": "‘Repetitive’",
+            "choice_NJZr1EtoI8": "‘Revolutionary’",
+            "choice_N1mlVtiUU": "‘Realistic’"
+        },
+        "fr": {
+            "header": "Quand on parle d’objectifs, que veut dire « R » dans « SMART » ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Une cible SMART est une cible réaliste : assurez-vous qu'elle n'est ni impossible à réaliser, ni trop simple. Réfléchissez au besoin d'équilibre et soyez prêt à modérer certains objectifs ou à persuader les autres de relever un défi plus difficile.",
+            "tips": "Certaines sources utilisent la lettre « R » pour désigner différents mots. Bien que le terme « réaliste » soit encore largement utilisé, le terme « pertinent » est également devenu très courant.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La lettre « R » représente le terme {{sel11635}}.",
+            "choice_NylS1Nto8L": "« Répétitif »",
+            "choice_NJZr1EtoI8": "« Révolutionnaire »",
+            "choice_N1mlVtiUU": "« Réaliste »"
+        },
+        "de": {
+            "header": "When speaking about targets, what does the ‘R’ in ‘SMART’ mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "A SMART target is a Realistic one: make sure it is not impossible to achieve, nor too simple. Think about the need for balance and be prepared to tone down some targets or persuade others to take a tougher challenge.",
+            "tips": "Some sources use the letter ‘R’ to refer to different words. While ‘Realistic’ is still widely used, the term ‘Relevant’ has become quite common too.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The letter ‘R’ stands for {{sel11635}}.",
+            "choice_NylS1Nto8L": "‘Repetitive’",
+            "choice_NJZr1EtoI8": "‘Revolutionary’",
+            "choice_N1mlVtiUU": "‘Realistic’"
+        },
+        "th": {
+            "header": "When speaking about targets, what does the ‘R’ in ‘SMART’ mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "A SMART target is a Realistic one: make sure it is not impossible to achieve, nor too simple. Think about the need for balance and be prepared to tone down some targets or persuade others to take a tougher challenge.",
+            "tips": "Some sources use the letter ‘R’ to refer to different words. While ‘Realistic’ is still widely used, the term ‘Relevant’ has become quite common too.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The letter ‘R’ stands for {{sel11635}}.",
+            "choice_NylS1Nto8L": "‘Repetitive’",
+            "choice_NJZr1EtoI8": "‘Revolutionary’",
+            "choice_N1mlVtiUU": "‘Realistic’"
+        }
+    }
+}

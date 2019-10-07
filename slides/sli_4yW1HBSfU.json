@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T09:30:09.454Z",
+            "updatedAt": "2019-02-22T11:56:01.305Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkDpnlyf8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4yW1HBSfU",
+        "universalRef": "sli_4yW1HBSfU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yW1HBSfU.choice_VkJbBBSzU.id",
+                        "label": "choice_VkJbBBSzU",
+                        "value": "choice_VkJbBBSzU"
+                    },
+                    {
+                        "id": "sli_4yW1HBSfU.choice_4yeWSrBGU.id",
+                        "label": "choice_4yeWSrBGU",
+                        "value": "choice_4yeWSrBGU"
+                    },
+                    {
+                        "id": "sli_4yW1HBSfU.choice_NJWWBHSfU.id",
+                        "label": "choice_NJWWBHSfU",
+                        "value": "choice_NJWWBHSfU"
+                    },
+                    {
+                        "id": "sli_4yW1HBSfU.choice_EJzbBBHM8.id",
+                        "label": "choice_EJzbBBHM8",
+                        "value": "choice_EJzbBBHM8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yeWSrBGU",
+                        "choice_EJzbBBHM8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When should you stop focusing on the task you're working on?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Focus on one task at a time, until it’s complete, or you can make no more progress. This is a much better method than multi-tasking for staying efficient and focused!",
+            "tips": "Have you ever tried meditation? Studies show that people who practice meditation have better control over their attention and focus than people who don't.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkJbBBSzU": "Every 5 min. To switch to another task",
+            "choice_4yeWSrBGU": "When it's complete",
+            "choice_NJWWBHSfU": "When you feel like it",
+            "choice_EJzbBBHM8": "When you can make no more progress"
+        },
+        "fr": {
+            "header": "Quand devez-vous cesser de vous concentrer sur une tâche que vous êtes en train de réaliser ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Concentrez-vous sur une seule tâche à la fois jusqu'à sa réalisation complète, sinon vous ne progresserez plus. Cette méthode est bien meilleure que celle du multitâche pour conserver efficacité et concentration !",
+            "tips": "Avez-vous déjà essayé la méditation ? Des études ont démontré que les adeptes de la méditation contrôlent mieux leur attention et leur concentration que les autres personnes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkJbBBSzU": "Toutes les 5 min. Pour passer à une autre tâche",
+            "choice_4yeWSrBGU": "Lorsqu'elle est terminée",
+            "choice_NJWWBHSfU": "Lorsque vous en ressentez le besoin",
+            "choice_EJzbBBHM8": "Lorsque vous ne progressez plus"
+        },
+        "de": {
+            "header": "Wann sollten Sie aufhören, sich auf die Aufgabe zu konzentrieren, an der Sie gerade arbeiten?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Konzentrieren Sie sich auf eine Aufgabe, bis sie abgeschlossen ist, ansonsten können Sie keine weiteren Fortschritte erzielen. Dies ist eine viel bessere Methode als Multitasking, um effizient und fokussiert zu bleiben!",
+            "tips": "Hast du schon einmal Meditation versucht? Studien zeigen, dass Menschen, die Meditation praktizieren, eine bessere Kontrolle über ihre Aufmerksamkeit und Konzentration haben als Menschen, die dies nicht tun.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkJbBBSzU": "Alle 5 min. Um zu einer anderen Aufgabe zu wechseln",
+            "choice_4yeWSrBGU": "Wenn es fertig ist",
+            "choice_NJWWBHSfU": "Wenn Sie Lust haben",
+            "choice_EJzbBBHM8": "Wenn Sie keine Fortschritte mehr machen können"
+        },
+        "th": {
+            "header": "When should you stop focusing on the task you're working on?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Focus on one task at a time, until it’s complete, or you can make no more progress. This is a much better method than multi-tasking for staying efficient and focused!",
+            "tips": "Have you ever tried meditation? Studies show that people who practice meditation have better control over their attention and focus than people who don't.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkJbBBSzU": "Every 5 min. To switch to another task",
+            "choice_4yeWSrBGU": "When it's complete",
+            "choice_NJWWBHSfU": "When you feel like it",
+            "choice_EJzbBBHM8": "When you can make no more progress"
+        }
+    }
+}

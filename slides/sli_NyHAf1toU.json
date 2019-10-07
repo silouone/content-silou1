@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-06T08:45:26.441Z",
+            "updatedAt": "2019-05-09T07:10:33.698Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJY5l4HoI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NyHAf1toU",
+        "universalRef": "sli_NyHAf1toU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyHAf1toU.choice_E1zXQJYj8.id",
+                        "label": "choice_E1zXQJYj8",
+                        "value": "choice_E1zXQJYj8"
+                    },
+                    {
+                        "id": "sli_NyHAf1toU.choice_V1QQQ1KsL.id",
+                        "label": "choice_V1QQQ1KsL",
+                        "value": "choice_V1QQQ1KsL"
+                    },
+                    {
+                        "id": "sli_NyHAf1toU.choice_V1SmXJFsI.id",
+                        "label": "choice_V1SmXJFsI",
+                        "value": "choice_V1SmXJFsI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1QQQ1KsL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How does being a guest affect your negotiating position?",
+            "explanation": "Select the correct answer.",
+            "klf": "Being a guest can make you feel less confident and more submissive. And in a negotiation situation, this can compromise your position.<br>You're also more accommodating as a guest since your host is more of an authority figure in their own domain.",
+            "tips": "Think of a time when you've visited a friend in their parents' home, a client in their office, or when a business partner bought you lunch; how did you feel?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1zXQJYj8": "You are more confident in your performance as you are warmly welcomed to a new location",
+            "choice_V1QQQ1KsL": "Your position is compromised as you are more likely to be submissive and feel indebted to the host",
+            "choice_V1SmXJFsI": "You are less likely to accept an offer from the host"
+        },
+        "fr": {
+            "header": "En quoi le fait d'être invité peut-il affecter votre position de négociation ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Être invité peut vous faire sentir moins confiant et plus soumis. Et dans une situation de négociation, cela peut compromettre votre position. <br> Vous êtes également plus accommodant en tant qu'invité, car votre hôte est davantage une figure d'autorité dans son propre domaine.",
+            "tips": "Rappelez-vous d'un moment où vous avez rendu visite à un ami chez ses parents, à un client dans son bureau ou lorsqu'un partenaire commercial vous a offert le déjeuner. Comment vous sentiez-vous ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1zXQJYj8": "Vous avez plus confiance en votre performance car vous êtes chaleureusement accueilli dans un nouveau lieu.",
+            "choice_V1QQQ1KsL": "Votre position est compromise car vous êtes plus susceptible d'être soumis et de vous sentir redevable envers l'hôte.",
+            "choice_V1SmXJFsI": "Vous êtes moins susceptible d'accepter une offre de l'hôte"
+        },
+        "de": {
+            "header": "How does being a guest affect your negotiating position?",
+            "explanation": "Select the correct answer.",
+            "klf": "Being a guest can make you feel less confident and more submissive. And in a negotiation situation, this can compromise your position.\nYou're also more accommodating as a guest since your host is more of an authority figure in their own domain.",
+            "tips": "Think of a time when you've visited a friend in their parents' home, a client in their office, or when a business partner bought you lunch; how did you feel?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1zXQJYj8": "You are more confident in your performance as you are warmly welcomed to a new location",
+            "choice_V1QQQ1KsL": "Your position is compromised as you are more likely to be submissive and feel indebted to the host",
+            "choice_V1SmXJFsI": "You are less likely to accept an offer from the host"
+        },
+        "th": {
+            "header": "How does being a guest affect your negotiating position?",
+            "explanation": "Select the correct answer.",
+            "klf": "Being a guest can make you feel less confident and more submissive. And in a negotiation situation, this can compromise your position.<br>You're also more accommodating as a guest since your host is more of an authority figure in their own domain.",
+            "tips": "Think of a time when you've visited a friend in their parents' home, a client in their office, or when a business partner bought you lunch; how did you feel?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1zXQJYj8": "You are more confident in your performance as you are warmly welcomed to a new location",
+            "choice_V1QQQ1KsL": "Your position is compromised as you are more likely to be submissive and feel indebted to the host",
+            "choice_V1SmXJFsI": "You are less likely to accept an offer from the host"
+        }
+    }
+}

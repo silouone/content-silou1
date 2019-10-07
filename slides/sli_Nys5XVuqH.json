@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-11T12:50:43.340Z",
+            "updatedAt": "2018-11-09T12:27:33.640Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ84zr49S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_Nys5XVuqH",
+        "universalRef": "sli_Nys5XVuqH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nys5XVuqH.choice_Nye8fIVOqB.id",
+                        "label": "choice_Nye8fIVOqB",
+                        "value": "choice_Nye8fIVOqB",
+                        "media": "med_NyUz8NucS"
+                    },
+                    {
+                        "id": "sli_Nys5XVuqH.choice_VkeOM84uqH.id",
+                        "label": "choice_VkeOM84uqH",
+                        "value": "choice_VkeOM84uqH",
+                        "media": "med_4JOGI4dqS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkeOM84uqH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Thinking hard about a problem or focusing on a new idea is the best way to concentrate and find a solution. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The strong will to solve a problem or to find a great idea is not always enough. You have to let your (or your employees') subconscious go to work —time pressure stifles creativity, which needs an incubation period.",
+            "tips": "Laughter has been shown to have a positive effect on creativity. If you are having trouble coming up with creative solutions or ideas, take a few moments to find something that will make you laugh!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nye8fIVOqB": "TRUE",
+            "choice_VkeOM84uqH": "FALSE"
+        },
+        "fr": {
+            "header": "Penser de manière intense à un problème ou réfléchir à une nouvelle idée est la meilleure manière de se concentrer et de trouver une solution. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La forte motivation pour résoudre un problème ou trouver une idée ingénieuse ne suffit pas toujours. Vous devez laisser votre subconscient (ou celui de vos collaborateurs) travailler – la contrainte de temps freine la créativité, car cette dernière a besoin d’une période d’incubation.",
+            "tips": "Le rire est réputé pour avoir un effet positif sur la créativité. Si vous ne parvenez pas à trouver des solutions ou des idées innovantes, prenez le temps de penser à quelque chose qui vous fera rire !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nye8fIVOqB": "Vrai",
+            "choice_VkeOM84uqH": "Faux"
+        },
+        "de": {
+            "header": "Über ein Problem nachzudenken oder sich auf eine neue Idee zu konzentrieren, ist der beste Weg, um sich zu konzentrieren und eine Lösung zu finden. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Der starke Wille, ein Problem zu lösen oder eine gute Idee zu finden, reicht nicht immer aus. Sie müssen Ihr Unterbewusstsein (oder die Ihrer Mitarbeiter) arbeiten lassen - Zeitdruck unterdrückt die Kreativität, die eine Inkubationszeit erfordert.",
+            "tips": "Lachen wirkt sich nachweislich positiv auf die Kreativität aus. Wenn Sie Probleme mit kreativen Lösungen oder Ideen haben, nehmen Sie sich einen Moment Zeit, um etwas zu finden, das Sie zum Lachen bringt!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nye8fIVOqB": "Richtig ",
+            "choice_VkeOM84uqH": "Falsch"
+        },
+        "th": {
+            "header": "Thinking hard about a problem or focusing on a new idea is the best way to concentrate and find a solution. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The strong will to solve a problem or to find a great idea is not always enough. You have to let your (or your employees') subconscious go to work —time pressure stifles creativity, which needs an incubation period.",
+            "tips": "Laughter has been shown to have a positive effect on creativity. If you are having trouble coming up with creative solutions or ideas, take a few moments to find something that will make you laugh!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nye8fIVOqB": "TRUE",
+            "choice_VkeOM84uqH": "FALSE"
+        }
+    }
+}

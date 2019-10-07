@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T09:45:14.470Z",
+            "updatedAt": "2019-02-12T09:05:16.089Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1pCAeB4I"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VkrjnX5VI",
+        "universalRef": "sli_VkrjnX5VI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkrjnX5VI.choice_EkJv1EcE8.id",
+                        "label": "choice_EkJv1EcE8",
+                        "value": "choice_EkJv1EcE8"
+                    },
+                    {
+                        "id": "sli_VkrjnX5VI.choice_NyvKyEqN8.id",
+                        "label": "choice_NyvKyEqN8",
+                        "value": "choice_NyvKyEqN8"
+                    },
+                    {
+                        "id": "sli_VkrjnX5VI.choice_VJFKyEqV8.id",
+                        "label": "choice_VJFKyEqV8",
+                        "value": "choice_VJFKyEqV8"
+                    },
+                    {
+                        "id": "sli_VkrjnX5VI.choice_EkTDeVc48.id",
+                        "label": "choice_EkTDeVc48",
+                        "value": "choice_EkTDeVc48"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkTDeVc48",
+                        "choice_NyvKyEqN8",
+                        "choice_EkJv1EcE8"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4k2MXV5N8",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you make this day a big success in your bad manager career?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You are not a machine. A tiring day does not mean a good day: set up your own working rythm, and let your collaborators do so.",
+            "tips": "Curious to know how people feel depending on the hour of the day? One of the most influent studies about working rythms and their correlation to productivity and well-being was led by famous psychologists and Nobel in economics Daniel Kahneman. <a href=\"http://www.uvm.edu/pdodds/files/papers/others/2006/stone2006a.pdf\" target=\"_blank\">Dig in here!</a>",
+            "clue": "",
+            "context_title": "The worst manager ever.",
+            "context_description": "You're a very bad manager. And you have a reputation to maintain. Today is a bit special: there's a new coming in your team… The perfect occasion to remind everyone who you are, and how a bad manager should spread terror among his collaborators.",
+            "context_media_description": "",
+            "choice_EkJv1EcE8": "Make it clear he is a working machine",
+            "choice_NyvKyEqN8": "Wake him up before he goes to bed",
+            "choice_VJFKyEqV8": "Let him set up his working rythm",
+            "choice_EkTDeVc48": "Test his ability to do a 1-week job in a day"
+        },
+        "fr": {
+            "header": "En tant que mauvais manager, comment pouvez-vous faire de cette journée un succès ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous n'êtes pas une machine. Une journée fatigante ne signifie pas une bonne journée : établissez votre propre rythme de travail et laissez vos collaborateurs faire de même.",
+            "tips": "Curieux de savoir comment les gens se sentent en fonction de l'heure ? L'une des études les plus influentes sur les rythmes de travail et leur corrélation avec la productivité et le bien-être a été dirigée par des psychologues réputés et un prix Nobel d'économie, Daniel Kahneman. <a href=\"http://www.uvm.edu/pdodds/files/papers/others/2006/stone2006a.pdf\" target=\"_blank\">A découvrir ici !</a>",
+            "clue": "",
+            "context_title": "Le pire manager de l'histoire",
+            "context_description": "Vous êtes un très mauvais manager. Et vous avez une réputation à maintenir. La journée d'aujourd'hui est un peu spéciale : il y a une nouvelle recrue dans votre équipe… C'est l'occasion idéale pour rappeler à tous qui vous êtes et comment un mauvais manager devrait semer la terreur parmi ses collaborateurs.",
+            "context_media_description": "",
+            "choice_EkJv1EcE8": "Faites-lui comprendre qu'il est une machine de travail",
+            "choice_NyvKyEqN8": "Réveillez-le avant qu'il ne se couche",
+            "choice_VJFKyEqV8": "Laissez-le établir son rythme de travail",
+            "choice_EkTDeVc48": "Testez sa capacité à effectuer un travail d'une semaine en une journée"
+        },
+        "de": {
+            "header": "Wie können Sie diesen Tag in Ihrer schlechten Führungskarriere zu einem großen Erfolg machen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Sie sind keine Maschine. Ein anstrengender Tag bedeutet keinen guten Tag: Richten Sie Ihren eigenen Arbeitsrhythmus ein und lassen Sie Ihre Mitarbeiter dies tun.",
+            "tips": "Neugierig, wie sich  Menschen je nach Tageszeit fühlen? Eine der einflussreichsten Studien über Arbeitsrhythmen und deren Zusammenhang mit Produktivität und Wohlbefinden wurde von dem berühmten Psychologen und Wirtschaftswissenschaftler Daniel Kahneman geleitet. <a href=\"http://www.uvm.edu/pdodds/files/papers/others/2006/stone2006a.pdf\" target=\"_blank\">Grabe hier rein!</a>",
+            "clue": "",
+            "context_title": "Der schlechteste Manager aller Zeiten",
+            "context_description": "Sie sind ein sehr schlechter Manager. Und Sie haben einen Ruf, den Sie pflegen müssen. Heute ist etwas Besonderes: In Ihrem Team gibt es ein neues Kommen. Die perfekte Gelegenheit, um jeden daran zu erinnern, wer Sie sind und wie ein schlechter Manager den Mitarbeitern Angst machen sollte.",
+            "context_media_description": "",
+            "choice_EkJv1EcE8": "Machen Sie es deutlich, dass er eine Arbeitsmaschine ist",
+            "choice_NyvKyEqN8": "Weckt ihn auf, bevor er ins Bett geht",
+            "choice_VJFKyEqV8": "Lassen Sie ihn seinen Arbeitsrhythmus einrichten",
+            "choice_EkTDeVc48": "Testen Sie seine Fähigkeit, eine Wochenaufgabe an einem Tag zu erledigen"
+        },
+        "th": {
+            "header": "How can you make this day a big success in your bad manager career?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You are not a machine. A tiring day does not mean a good day: set up your own working rythm, and let your collaborators do so.",
+            "tips": "Curious to know how people feel depending on the hour of the day? One of the most influent studies about working rythms and their correlation to productivity and well-being was led by famous psychologists and Nobel in economics Daniel Kahneman. <a href=\"http://www.uvm.edu/pdodds/files/papers/others/2006/stone2006a.pdf\" target=\"_blank\">Dig in here!</a>",
+            "clue": "",
+            "context_title": "The worst manager ever.",
+            "context_description": "You're a very bad manager. And you have a reputation to maintain. Today is a bit special: there's a new coming in your team… The perfect occasion to remind everyone who you are, and how a bad manager should spread terror among his collaborators.",
+            "context_media_description": "",
+            "choice_EkJv1EcE8": "Make it clear he is a working machine",
+            "choice_NyvKyEqN8": "Wake him up before he goes to bed",
+            "choice_VJFKyEqV8": "Let him set up his working rythm",
+            "choice_EkTDeVc48": "Test his ability to do a 1-week job in a day"
+        }
+    }
+}

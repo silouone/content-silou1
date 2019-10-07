@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T09:23:19.987Z",
+            "updatedAt": "2019-04-23T09:23:19.987Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1cxohDqI"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_EJq1OavqU",
+        "universalRef": "sli_EJq1OavqU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJq1OavqU.choice_4JIWuav5L.id",
+                        "label": "choice_4JIWuav5L",
+                        "value": "choice_4JIWuav5L"
+                    },
+                    {
+                        "id": "sli_EJq1OavqU.choice_Ek2Zu6vqU.id",
+                        "label": "choice_Ek2Zu6vqU",
+                        "value": "choice_Ek2Zu6vqU"
+                    },
+                    {
+                        "id": "sli_EJq1OavqU.choice_VJfGu6DcL.id",
+                        "label": "choice_VJfGu6DcL",
+                        "value": "choice_VJfGu6DcL"
+                    },
+                    {
+                        "id": "sli_EJq1OavqU.choice_Ek-Gdaw5U.id",
+                        "label": "choice_Ek-Gdaw5U",
+                        "value": "choice_Ek-Gdaw5U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JIWuav5L",
+                        "choice_VJfGu6DcL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of these are leading questions?",
+            "explanation": "Select the correct answers.",
+            "klf": "Leading questions guide a customer to a defined course of action or choice and are useful in a sales process.",
+            "tips": "According to the Cambridge Dictionary, a leading question is ‘a question that tricks someone into answering in a particular way’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JIWuav5L": "Is this something you are interested in?",
+            "choice_Ek2Zu6vqU": "What’s your name?",
+            "choice_VJfGu6DcL": "Have you thought about insurance for your new TV?",
+            "choice_Ek-Gdaw5U": "Would you like to pay by cash or card?"
+        },
+        "fr": {
+            "header": "Parmi ces questions, lesquelles sont suggestives ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les questions suggestives orientent le client vers un plan d'action ou un choix défini et sont utiles dans un processus de vente.",
+            "tips": "Selon le dictionnaire Cambridge, une question suggestive est « une question qui incite quelqu'un à répondre d'une manière particulière ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JIWuav5L": "Est-ce quelque chose qui vous intéresse ?",
+            "choice_Ek2Zu6vqU": "Quel est votre nom ?",
+            "choice_VJfGu6DcL": "Avez-vous pensé à une assurance pour votre nouveau téléviseur ?",
+            "choice_Ek-Gdaw5U": "Voulez-vous payer en espèces ou par carte ?"
+        },
+        "de": {
+            "header": "Which of these are leading questions?",
+            "explanation": "Select the correct answers.",
+            "klf": "Leading questions guide a customer to a defined course of action or choice and are useful in a sales process.",
+            "tips": "According to the Cambridge Dictionary, a leading question is ‘a question that tricks someone into answering in a particular way’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JIWuav5L": "Is this something you are interested in?",
+            "choice_Ek2Zu6vqU": "What’s your name?",
+            "choice_VJfGu6DcL": "Have you thought about insurance for your new TV?",
+            "choice_Ek-Gdaw5U": "Would you like to pay by cash or card?"
+        },
+        "th": {
+            "header": "Which of these are leading questions?",
+            "explanation": "Select the correct answers.",
+            "klf": "Leading questions guide a customer to a defined course of action or choice and are useful in a sales process.",
+            "tips": "According to the Cambridge Dictionary, a leading question is ‘a question that tricks someone into answering in a particular way’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JIWuav5L": "Is this something you are interested in?",
+            "choice_Ek2Zu6vqU": "What’s your name?",
+            "choice_VJfGu6DcL": "Have you thought about insurance for your new TV?",
+            "choice_Ek-Gdaw5U": "Would you like to pay by cash or card?"
+        }
+    }
+}

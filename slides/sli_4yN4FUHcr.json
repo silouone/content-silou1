@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T08:46:36.969Z",
+            "updatedAt": "2018-11-09T11:20:39.550Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJu96GN9S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4yN4FUHcr",
+        "universalRef": "sli_4yN4FUHcr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yN4FUHcr.choice_EygHgcUH9H.id",
+                        "label": "choice_EygHgcUH9H",
+                        "value": "choice_EygHgcUH9H",
+                        "media": "med_VJHl5UBcB"
+                    },
+                    {
+                        "id": "sli_4yN4FUHcr.choice_VJenl5LHcB.id",
+                        "label": "choice_VJenl5LHcB",
+                        "value": "choice_VJenl5LHcB",
+                        "media": "med_Ek3eqUHcB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EygHgcUH9H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Our emotional state forms and clears without our control. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Your emotions are not you, even though it's easy to assume they are. You never know what's coming next, emotionally speaking, but if you wait, your emotions will go away on their own.",
+            "tips": "According to Travis Bradberry, author of <i>Emotional Intelligence 2.0</i>, only 36% of people are able to accurately identify their emotions at the moment they occur.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EygHgcUH9H": "TRUE",
+            "choice_VJenl5LHcB": "FALSE"
+        },
+        "fr": {
+            "header": "Nos émotions surgissent et disparaissent sans que nous puissions les contrôler. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vos émotions ne vous définissent pas, même s’il est facile de croire le contraire. Vous ne savez jamais ce qui va arriver sur le plan émotionnel, mais si vous patientez, vos émotions disparaîtront d’elles-mêmes.",
+            "tips": "Selon Travis Bradberry, auteur de <i>Emotional Intelligence 2.0 (Intelligence émotionnelle 2.0)</i>, seulement 36 % des personnes sont capables d’identifier clairement leurs émotions au moment où elles se produisent.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EygHgcUH9H": "Vrai",
+            "choice_VJenl5LHcB": "Faux"
+        },
+        "de": {
+            "header": "Unser emotionaler Zustand formt und klärt sich ohne unsere Kontrolle. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Ihre Emotionen sind Sie nicht, obwohl es leicht anzunehmen ist, dass sie es sind. Sie wissen nie, was als nächstes kommt, emotional, aber wenn Sie warten, werden Ihre Emotionen von selbst verschwinden.",
+            "tips": "Laut Travis Bradberry, Autor von <i>Emotional Intelligence 2.0</i> , sind nur 36% der Menschen in der Lage, ihre Emotionen im Moment ihres Auftretens genau zu identifizieren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EygHgcUH9H": "Richtig ",
+            "choice_VJenl5LHcB": "Falsch"
+        },
+        "th": {
+            "header": "Our emotional state forms and clears without our control. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Your emotions are not you, even though it's easy to assume they are. You never know what's coming next, emotionally speaking, but if you wait, your emotions will go away on their own.",
+            "tips": "According to Travis Bradberry, author of <i>Emotional Intelligence 2.0</i>, only 36% of people are able to accurately identify their emotions at the moment they occur.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EygHgcUH9H": "TRUE",
+            "choice_VJenl5LHcB": "FALSE"
+        }
+    }
+}

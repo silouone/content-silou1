@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T11:28:32.469Z",
+            "updatedAt": "2019-02-22T11:40:58.636Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1dhp1yML"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4JeBPj5GU",
+        "universalRef": "sli_4JeBPj5GU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JeBPj5GU.choice_VyDPDjqGI.id",
+                        "label": "choice_VyDPDjqGI",
+                        "value": "choice_VyDPDjqGI"
+                    },
+                    {
+                        "id": "sli_4JeBPj5GU.choice_N1twPjqzL.id",
+                        "label": "choice_N1twPjqzL",
+                        "value": "choice_N1twPjqzL"
+                    },
+                    {
+                        "id": "sli_4JeBPj5GU.choice_N1etwvs5ML.id",
+                        "label": "choice_N1etwvs5ML",
+                        "value": "choice_N1etwvs5ML"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyDPDjqGI",
+                        "choice_N1etwvs5ML"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following techniques can help resolve conflict between team members?",
+            "explanation": "Select the correct answers.",
+            "klf": "Stay calm and listen to both sides of the argument. Even if you are inclined to agree with one side of the conflict, do not make a final judgement until each person has had their say.",
+            "tips": "The feeling of being heard makes people more inclined to reach a solution. A good approach is to speak with each person individually, then have a meeting with all of the parties that are involved in the issue.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyDPDjqGI": "Be calm and listen to both sides",
+            "choice_N1twPjqzL": "Establish who started the conflict",
+            "choice_N1etwvs5ML": "Encourage them to see each other’s arguments from a different perspective"
+        },
+        "fr": {
+            "header": "Quelles techniques suivantes peuvent aider à résoudre des conflits entre les membres d'une équipe ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Faire preuve de sérénité et écouter les deux parties. Même si vous avez tendance à être d'accord avec l'une des parties, ne pas porter de jugement final jusqu'à ce que chaque personne se soit exprimée.",
+            "tips": "Lorsque des collaborateurs ont le sentiment d'avoir été écoutés, ils sont plus enclins à rechercher une solution. L'approche idéale est de discuter séparément avec chaque personne, puis de réunir les deux parties impliquées dans le conflit.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyDPDjqGI": "Faire preuve de sérénité et d'écoute vis à vis des deux parties",
+            "choice_N1twPjqzL": "Déterminer qui est à l'origine du conflit",
+            "choice_N1etwvs5ML": "Les encourager à voir leurs arguments réciproques sous un autre jour"
+        },
+        "de": {
+            "header": "Welche der folgenden Techniken kann zur Lösung von Konflikten zwischen Teammitgliedern beitragen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Bleib ruhig und höre auf beide Seiten des Arguments. Auch wenn Sie einer Seite des Konflikts zustimmen möchten, sollten Sie kein endgültiges Urteil fällen, bis alle Beteiligten zu Wort gekommen sind.",
+            "tips": "Das Gefühl, gehört zu werden, neigt dazu, eine Lösung zu finden. Ein guter Ansatz ist, mit jeder Person einzeln zu sprechen und dann mit allen an der Problematik beteiligten Parteien ein Treffen zu führen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyDPDjqGI": "Sei ruhig und höre Sie sich beide Sichtweisen an",
+            "choice_N1twPjqzL": "Stellen Sie fest, wer den Konflikt ausgelöst hat",
+            "choice_N1etwvs5ML": "Ermutigen Sie sie, die Argumente des anderen aus einer anderen Perspektive zu sehen"
+        },
+        "th": {
+            "header": "Which of the following techniques can help resolve conflict between team members?",
+            "explanation": "Select the correct answers.",
+            "klf": "Stay calm and listen to both sides of the argument. Even if you are inclined to agree with one side of the conflict, do not make a final judgement until each person has had their say.",
+            "tips": "The feeling of being heard makes people more inclined to reach a solution. A good approach is to speak with each person individually, then have a meeting with all of the parties that are involved in the issue.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyDPDjqGI": "Be calm and listen to both sides",
+            "choice_N1twPjqzL": "Establish who started the conflict",
+            "choice_N1etwvs5ML": "Encourage them to see each other’s arguments from a different perspective"
+        }
+    }
+}

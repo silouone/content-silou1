@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T14:07:07.564Z",
+            "updatedAt": "2019-01-21T14:54:14.646Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1cvd9eJU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_41FRsGzJI",
+        "universalRef": "sli_41FRsGzJI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel64081",
+                        "items": [
+                            {
+                                "text": "choice_Vkxib3MMJI",
+                                "value": "choice_Vkxib3MMJI"
+                            },
+                            {
+                                "text": "choice_V1WoZ2GfJI",
+                                "value": "choice_V1WoZ2GfJI"
+                            },
+                            {
+                                "text": "choice_EJS7hGzkL",
+                                "value": "choice_EJS7hGzkL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel64081",
+                        "answers": [
+                            "choice_EJS7hGzkL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should a good manager react when dealing with an angry team member?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Even in a stressful situation, a good manager should remain patient and understanding. Beware of losing your temper: it would be not only unpleasant, but also unprofessional.",
+            "tips": "If you become angry as a leader, delicate situations will just escalate and you'll only cause more stress to your team members, which won't help at all with their productivity.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "In a stressful situation, it is expected of a manager to be {{sel64081}} to help his/her team.",
+            "choice_Vkxib3MMJI": "strict and rigorous",
+            "choice_V1WoZ2GfJI": "leaning on his/her colleagues",
+            "choice_EJS7hGzkL": "patient and understanding"
+        },
+        "fr": {
+            "header": "Comment un bon Manager doit-il réagir pour gérer un collaborateur en colère ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Même dans une situation stressante, un bon Manager doit se montrer patient et compréhensif. Veillez à ne pas perdre votre sang-froid : cela serait non seulement désagréable, mais également non professionnel.",
+            "tips": "Si, en tant que leader, vous vous emportez, une situation délicate peut rapidement s’aggraver et vous ne ferez que provoquer plus de stress chez vos collaborateurs, ce qui ne les aidera pas à être plus productifs.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Dans une situation stressante, un Manager se doit {{sel64081}} pour aider son équipe.",
+            "choice_Vkxib3MMJI": "d’être strict et rigoureux",
+            "choice_V1WoZ2GfJI": "de s’appuyer sur ses collaborateurs",
+            "choice_EJS7hGzkL": "d’être patient et compréhensif"
+        },
+        "de": {
+            "header": "Wie sollte ein guter Manager im Umgang mit einem wütenden Teammitglied reagieren?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Ein guter Manager sollte auch in einer stressigen Situation geduldig und verständnisvoll bleiben. Hüten Sie sich vor dem Temperament: es wäre nicht nur unangenehm, sondern auch unprofessionell.",
+            "tips": "Wenn Sie als Anführer wütend werden, eskalieren heikle Situationen nur und Sie belasten Ihre Teammitglieder nur noch mehr, was die Produktivität überhaupt nicht verbessert.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "In einer stressigen Situation wird von einem Manager erwartet, {{sel64081}} sein Team zu unterstützen.",
+            "choice_Vkxib3MMJI": "streng und gründlich",
+            "choice_V1WoZ2GfJI": "stützte sich auf seine Kollegen",
+            "choice_EJS7hGzkL": "geduldig und verständnisvoll"
+        },
+        "th": {
+            "header": "ผู้จัดการที่ดีควรจะมีปฏิกิริยาอย่างไร เมื่อต้องรับมือกับลูกทีมที่กำลังโมโห",
+            "explanation": "เลือกคำตอบที่ถูกต้องจากเมนูเลื่อนลง",
+            "klf": "ผู้จัดการที่ดีควรใจเย็นและเข้าอกเข้าใจผู้อื่น แม้กระทั่งในสถานการณ์ที่ตึงเครียด ระวังอย่าสติแตก เพราะจะไม่เพียงแต่เป็นสิ่งที่ไม่พึงประสงค์เท่านั้น แต่ยังดูไม่เป็นมืออาชีพอีกด้วย",
+            "tips": "ในฐานะผู้นำ ถ้าคุณโกรธขึ้นมา สถานการณ์ที่เปราะบางก็จะบานปลายขึ้น และคุณก็จะทำให้ลูกทีมเครียดมากขึ้น และไม่ช่วยเรื่องผลิตภาพของพวกเขาเลยแม้แต่น้อย",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "ในสถานการณ์ที่ตึงเครียด ผู้จัดการถูกตั้งความคาดหวังให้ {{sel64081}} เพื่อช่วยเหลือลูกทีมของตน",
+            "choice_Vkxib3MMJI": "เข้มงวดและไม่ยืดหยุ่น",
+            "choice_V1WoZ2GfJI": "พึ่งพาเพื่อนร่วมงาน",
+            "choice_EJS7hGzkL": "เป็นคนใจเย็นและเข้าอกเข้าใจผู้อื่น"
+        }
+    }
+}

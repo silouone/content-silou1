@@ -1,0 +1,132 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-25T10:15:38.936Z",
+            "updatedAt": "2019-07-08T14:07:57.133Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1hemttJP"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_VylvlR9kP",
+        "universalRef": "sli_VylvlR9kP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VylvlR9kP.choice_EJm-t0ckw.id",
+                        "label": "choice_EJm-t0ckw",
+                        "value": "choice_EJm-t0ckw"
+                    },
+                    {
+                        "id": "sli_VylvlR9kP.choice_NJn-YCq1v.id",
+                        "label": "choice_NJn-YCq1v",
+                        "value": "choice_NJn-YCq1v"
+                    },
+                    {
+                        "id": "sli_VylvlR9kP.choice_Vy9FKRq1w.id",
+                        "label": "choice_Vy9FKRq1w",
+                        "value": "choice_Vy9FKRq1w"
+                    },
+                    {
+                        "id": "sli_VylvlR9kP.choice_NyP5YA5yD.id",
+                        "label": "choice_NyP5YA5yD",
+                        "value": "choice_NyP5YA5yD"
+                    },
+                    {
+                        "id": "sli_VylvlR9kP.choice_Ek~QaCcJD.id",
+                        "label": "choice_Ek~QaCcJD",
+                        "value": "choice_Ek~QaCcJD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJn-YCq1v"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4J7Eu09Jv",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you respond to the complaints, knowing conversations are not private?",
+            "explanation": "Select the correct answer.",
+            "klf": "Don't forget you represent the company. Always empathise publicly and take one-to-one discussions away from the public eye. And don't over-promise!",
+            "tips": "In 1999, an American toy retailer organised a special Christmas offer to develop its online presence and promised delivery before Christmas to customers. They failed to fulfil their promise. Not only did they receive tons of negative press, but they also got a fine of $350.000. Merry Christmas!",
+            "clue": "",
+            "context_title": "We wish you a merry Christmas!",
+            "context_description": "You work for National Rail Enquiries and on this snowy day, there are major delays on most lines. It's freezing outside, and people are going to be late for their Christmas Eve dinner! Complaints are streaming through on social media.",
+            "context_media_description": "",
+            "choice_EJm-t0ckw": "Tell people to dress warmer",
+            "choice_NJn-YCq1v": "Tell people you understand the difficulty they are having and thank them for their understanding",
+            "choice_Vy9FKRq1w": "Promise customers that Santa is coming to give them a sleigh ride home",
+            "choice_NyP5YA5yD": "Write <i>Free cabs for everyone!</i> with a smily face, knowing that this is not going to happen",
+            "choice_Ek~QaCcJD": "Start one-to-one conversations publically with each customer"
+        },
+        "fr": {
+            "header": "Comment devriez-vous répondre aux réclamations, sachant que les conversations ne sont pas privées ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "N'oubliez pas que vous représentez l'entreprise. Faites toujours preuve d'empathie envers la clientèle et évitez toute discussion en face à face. Et ne faites pas trop de promesses !",
+            "tips": "En 1999, un détaillant américain de jouets a organisé une offre spéciale de Noël afin de renforcer sa présence en ligne et a promis aux clients de les livrer avant les fêtes. Il n'a pas tenu sa promesse. Il a non seulement reçu des tonnes de critiques négatives, mais il a également écopé une amende de 350 000 dollars. Joyeux Noël !",
+            "clue": "",
+            "context_title": "Nous vous souhaitons un joyeux Noël !",
+            "context_description": "Vous travaillez pour National Rail Enquiries et en cette journée enneigée, il y a des retards importants sur la plupart des lignes. Il fait très froid dehors et les gens vont être en retard pour leur dîner du réveillon de Noël ! Les réclamations circulent sur les réseaux sociaux.",
+            "context_media_description": "",
+            "choice_EJm-t0ckw": "Dire aux gens de s'habiller plus chaudement",
+            "choice_NJn-YCq1v": "Dire aux gens que vous comprenez la difficulté qu'ils rencontrent et les remercier de leur compréhension",
+            "choice_Vy9FKRq1w": "Promettre aux clients que le Père Noël va les ramener chez eux en traîneau",
+            "choice_NyP5YA5yD": "Écrire <i>taxis gratuits pour tout le monde !</i> avec un smiley souriant, sachant que cela ne va pas arriver",
+            "choice_Ek~QaCcJD": "Entamer des conversations en face à face avec chaque client"
+        },
+        "de": {
+            "header": "How should you respond to the complaints, knowing conversations are not private?",
+            "explanation": "Select the correct answer.",
+            "klf": "Don't forget you represent the company. Always empathise publicly and take one-to-one discussions away from the public eye. And don't over-promise!",
+            "tips": "In 1999, an American toy retailer organised a special Christmas offer to develop its online presence and promised delivery before Christmas to customers. They failed to fulfil their promise. Not only did they receive tons of negative press, but they also got a fine of $350.000. Merry Christmas!",
+            "clue": "",
+            "context_title": "We wish you a merry Christmas!",
+            "context_description": "You work for National Rail Enquiries and on this snowy day, there are major delays on most lines. It's freezing outside, and people are going to be late for their Christmas Eve dinner! Complaints are streaming through on social media.",
+            "context_media_description": "",
+            "choice_EJm-t0ckw": "Tell people to dress warmer",
+            "choice_NJn-YCq1v": "Tell people you understand the difficulty they are having and thank them for their understanding",
+            "choice_Vy9FKRq1w": "Promise customers that Santa is coming to give them a sleigh ride home",
+            "choice_NyP5YA5yD": "Write <i>Free cabs for everyone!</i> with a smily face, knowing that this is not going to happen",
+            "choice_Ek~QaCcJD": "Start one-to-one conversations publically with each customer "
+        },
+        "th": {
+            "header": "How should you respond to the complaints, knowing conversations are not private?",
+            "explanation": "Select the correct answer.",
+            "klf": "Don't forget you represent the company. Always empathise publicly and take one-to-one discussions away from the public eye. And don't over-promise!",
+            "tips": "In 1999, an American toy retailer organised a special Christmas offer to develop its online presence and promised delivery before Christmas to customers. They failed to fulfil their promise. Not only did they receive tons of negative press, but they also got a fine of $350.000. Merry Christmas!",
+            "clue": "",
+            "context_title": "Hurray it's Christmas day!",
+            "context_description": "You work for National Rail Enquiries and on this snowy day, there are major delays on most lines. It's freezing outside, and people are going to be late for Christmas lunch! Complaints are streaming through on social media.",
+            "context_media_description": "",
+            "choice_EJm-t0ckw": "Tell people to dress warmer",
+            "choice_NJn-YCq1v": "Tell people you understand the difficulty they are having and thank them for their understanding",
+            "choice_Vy9FKRq1w": "Promise customers that Santa is coming to give them a sleigh ride home",
+            "choice_NyP5YA5yD": "Write <i>Free cabs for everyone!</i> with a smily face, knowing that this is not going to happen",
+            "choice_Ek~QaCcJD": "Start one-to-one conversations publically with each customer "
+        }
+    }
+}

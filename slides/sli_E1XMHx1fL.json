@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T14:34:59.806Z",
+            "updatedAt": "2019-02-22T11:50:46.998Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyxk01kG8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_E1XMHx1fL",
+        "universalRef": "sli_E1XMHx1fL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel33065",
+                        "items": [
+                            {
+                                "text": "choice_4JgYPSxJzL",
+                                "value": "choice_4JgYPSxJzL"
+                            },
+                            {
+                                "text": "choice_Vy~YPHl1MU",
+                                "value": "choice_Vy~YPHl1MU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel33065",
+                        "answers": [
+                            "choice_4JgYPSxJzL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following propositions characterises good leaders?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "To be a good leader, always be open to feedback from others, and welcome these opportunities to learn and grow.",
+            "tips": "When you show that you are equally open to all types of feedback, you demonstrate self-awareness and the willingness to learn.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Good leaders are {{sel33065}}",
+            "choice_4JgYPSxJzL": "open to feedback from others",
+            "choice_Vy~YPHl1MU": "confident they are always right"
+        },
+        "fr": {
+            "header": "Quelles propositions suivantes caractérisent les bons leaders ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Un bon leader est toujours ouvert au feedback des autres et prêt à tirer parti de ces nouvelles opportunités pour apprendre et évoluer.",
+            "tips": "Lorsque vous vous montrez ouvert à tout type de feedback, vous prouvez votre prise de conscience et votre volonté d'apprendre.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les bons leaders sont {{sel33065}}",
+            "choice_4JgYPSxJzL": "ouverts au feedback des autres",
+            "choice_Vy~YPHl1MU": "convaincus d'avoir toujours raison"
+        },
+        "de": {
+            "header": "Welcher der folgenden Sätze kennzeichnet gute Führungskräfte?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Um ein guter Führer zu sein, seien Sie stets offen für das Feedback anderer und begrüßen Sie diese Gelegenheiten, zu lernen und zu wachsen.",
+            "tips": "Wenn Sie zeigen, dass Sie für alle Arten von Feedback gleichermaßen aufgeschlossen sind, zeigen Sie Selbstbewusstsein und Lernbereitschaft.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Gute Führungskräfte sind {{sel33065}}",
+            "choice_4JgYPSxJzL": "offen für Rückmeldungen von anderen",
+            "choice_Vy~YPHl1MU": "Zuversichtlich, dass sie immer recht haben"
+        },
+        "th": {
+            "header": "Which of the following propositions characterises good leaders?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "To be a good leader, always be open to feedback from others, and welcome these opportunities to learn and grow.",
+            "tips": "When you show that you are equally open to all types of feedback, you demonstrate self-awareness and the willingness to learn.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Good leaders are {{sel33065}}",
+            "choice_4JgYPSxJzL": "open to feedback from others",
+            "choice_Vy~YPHl1MU": "confident they are always right"
+        }
+    }
+}

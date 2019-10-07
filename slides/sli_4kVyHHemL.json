@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T17:43:35.094Z",
+            "updatedAt": "2019-02-22T11:43:24.398Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkF26kyGI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4kVyHHemL",
+        "universalRef": "sli_4kVyHHemL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kVyHHemL.choice_NyIUBBxQL.id",
+                        "label": "choice_NyIUBBxQL",
+                        "value": "choice_NyIUBBxQL"
+                    },
+                    {
+                        "id": "sli_4kVyHHemL.choice_E1wUBrlmI.id",
+                        "label": "choice_E1wUBrlmI",
+                        "value": "choice_E1wUBrlmI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyIUBBxQL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When time is short and the stakes are high, good leaders…",
+            "explanation": "Select the correct answer.",
+            "klf": "Whenever necessary, you must analyse a situation as fully as you can and make a quick decision.",
+            "tips": "According to research published in the <i>Harvard Business Review</i> (2017), 'deciding with speed and conviction' is among the four essential behaviours that most successful executives tend to demonstrate.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyIUBBxQL": "Analyse the situation and make a quick decision",
+            "choice_E1wUBrlmI": "Arrange another meeting to make better informed decisions"
+        },
+        "fr": {
+            "header": "Lorsque le temps est compté et que les enjeux sont élevés, les bons leaders...",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si nécessaire, vous devez analyser la situation le mieux possible et prendre des décisions rapides.",
+            "tips": "Selon une étude publiée dans la Harvard Business Review (2017), « décider rapidement et de manière convaincante » est une des quatre qualités indispensables qu'on retrouve chez les cadres supérieurs les plus talentueux.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyIUBBxQL": "Analysent la situation et prennent des décisions rapides",
+            "choice_E1wUBrlmI": "Organisent une autre réunion afin de prendre des décisions plus avisées"
+        },
+        "de": {
+            "header": "Wenn die Zeit knapp ist und der Einsatz hoch ist, sind gute Führungskräfte…",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wann immer es notwendig ist, müssen Sie eine Situation so umfassend wie möglich analysieren und eine schnelle Entscheidung treffen.",
+            "tips": "Laut einer im <i>Harvard Business Review</i> (2017) veröffentlichten Studie gehört die „schnelle und überzeugende Entscheidung“ zu den vier wesentlichen Verhaltensweisen, die die meisten erfolgreichen Führungskräfte haben.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyIUBBxQL": "Analysieren Sie die Situation und treffen Sie eine schnelle Entscheidung",
+            "choice_E1wUBrlmI": "Vereinbaren Sie ein weiteres Treffen, um fundiertere Entscheidungen treffen zu können"
+        },
+        "th": {
+            "header": "When time is short and the stakes are high, good leaders…",
+            "explanation": "Select the correct answer.",
+            "klf": "Whenever necessary, you must analyse a situation as fully as you can and make a quick decision.",
+            "tips": "According to research published in the <i>Harvard Business Review</i> (2017), 'deciding with speed and conviction' is among the four essential behaviours that most successful executives tend to demonstrate.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyIUBBxQL": "Analyse the situation and make a quick decision",
+            "choice_E1wUBrlmI": "Arrange another meeting to make better informed decisions"
+        }
+    }
+}

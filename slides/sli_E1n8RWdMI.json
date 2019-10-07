@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-16T12:19:15.361Z",
+            "updatedAt": "2019-02-21T16:49:22.820Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ2boipbL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_E1n8RWdMI",
+        "universalRef": "sli_E1n8RWdMI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1n8RWdMI.choice_Ek~KJfOGI.id",
+                        "label": "choice_Ek~KJfOGI",
+                        "value": "choice_Ek~KJfOGI"
+                    },
+                    {
+                        "id": "sli_E1n8RWdMI.choice_4JfYyzOML.id",
+                        "label": "choice_4JfYyzOML",
+                        "value": "choice_4JfYyzOML"
+                    },
+                    {
+                        "id": "sli_E1n8RWdMI.choice_VJXt1GOfU.id",
+                        "label": "choice_VJXt1GOfU",
+                        "value": "choice_VJXt1GOfU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJXt1GOfU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "This seems like an alert of what colour to you?",
+            "explanation": "Select the correct answer.",
+            "klf": "Red behaviours damage the company or its clients and should be disciplined.",
+            "tips": "The world's first traffic lights were installed in London, right outside the Houses of Parliament. They were gas-lit and adapted from railway signalling systems. From trains to workplace behaviours, such is the success story of traffic lights.",
+            "clue": "Nip it!",
+            "context_title": "Passing it along",
+            "context_description": "Your colleague Fred seems to enjoy spreading malicious gossip about co-workers. You can't help but listen - you're only human after all - but then you wonder if perhaps he should rather refrain…",
+            "context_media_description": "",
+            "choice_Ek~KJfOGI": "Green",
+            "choice_4JfYyzOML": "Amber",
+            "choice_VJXt1GOfU": "Red"
+        },
+        "fr": {
+            "header": "Selon vous, cela ressemble à une alerte de quelle couleur ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les comportements rouges nuisent à l'entreprise ou à ses clients et doivent être sanctionnés.",
+            "tips": "Les premiers feux de circulation au monde furent installés à Londres, près du Parlement du Royaume-Uni. Ils fonctionnaient au gaz et résultaient d'une adaptation des systèmes de signalisation du chemin de fer. Du chemin de fer au lieu de travail, voici donc l'origine de la success story des feux de circulation.",
+            "clue": "Nip it!",
+            "context_title": "Faire passer le message",
+            "context_description": "Un de vos collaborateurs, Fred, éprouve un malin plaisir à répandre des commérages sur ses collègues. Vous ne pouvez vous empêcher d'écouter - vous êtes un être humain après tout - mais vous vous dites qu'il devrait quand même cesser ce comportement...",
+            "context_media_description": "",
+            "choice_Ek~KJfOGI": "Vert",
+            "choice_4JfYyzOML": "Orange",
+            "choice_VJXt1GOfU": "Rouge"
+        },
+        "de": {
+            "header": "Dies scheint eine Warnung welche Farbe für Sie zu sein?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Rote Verhaltensweisen schädigen das Unternehmen oder seine Kunden und sollten diszipliniert werden.",
+            "tips": "Die erste Ampel der Welt wurde in London direkt vor den Houses of Parliament installiert. Sie wurden mit Gas beleuchtet und von Bahnsignalanlagen adaptiert. Vom Zug bis zum Arbeitsplatzverhalten ist dies die Erfolgsgeschichte der Ampel.",
+            "clue": "Unterbinden Sie es!",
+            "context_title": "Weitergeben",
+            "context_description": "Ihr Kollege Fred scheint es zu genießen, bösartige Gerüchte über Kollegen zu verbreiten. Sie können nicht anders, als zuzuhören - Sie sind ja auch nur ein Mensch - aber dann fragen Sie sich, ob er dies vielleicht lieber unterlassen sollte…",
+            "context_media_description": "",
+            "choice_Ek~KJfOGI": "grün",
+            "choice_4JfYyzOML": "bernsteinfarben",
+            "choice_VJXt1GOfU": "rot"
+        },
+        "th": {
+            "header": "This seems like an alert of what colour to you?",
+            "explanation": "Select the correct answer.",
+            "klf": "Red behaviours damage the company or its clients and should be disciplined.",
+            "tips": "The world's first traffic lights were installed in London, right outside the Houses of Parliament. They were gas-lit and adapted from railway signalling systems. From trains to workplace behaviours, such is the success story of traffic lights.",
+            "clue": "Nip it!",
+            "context_title": "Passing it along",
+            "context_description": "Your colleague Fred seems to enjoy spreading malicious gossip about co-workers. You can't help but listen - you're only human after all - but then you wonder if perhaps he should rather refrain…",
+            "context_media_description": "",
+            "choice_Ek~KJfOGI": "Green",
+            "choice_4JfYyzOML": "Amber",
+            "choice_VJXt1GOfU": "Red"
+        }
+    }
+}

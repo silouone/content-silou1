@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T14:47:37.239Z",
+            "updatedAt": "2019-02-14T17:00:26.193Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkdA7C7NL"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_Nkr5gkEV8",
+        "universalRef": "sli_Nkr5gkEV8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nkr5gkEV8.choice_Vk0HWkE48.id",
+                        "label": "choice_Vk0HWkE48",
+                        "value": "choice_Vk0HWkE48"
+                    },
+                    {
+                        "id": "sli_Nkr5gkEV8.choice_N1wI~JNNI.id",
+                        "label": "choice_N1wI~JNNI",
+                        "value": "choice_N1wI~JNNI"
+                    },
+                    {
+                        "id": "sli_Nkr5gkEV8.choice_E1Wn~y4N8.id",
+                        "label": "choice_E1Wn~y4N8",
+                        "value": "choice_E1Wn~y4N8"
+                    },
+                    {
+                        "id": "sli_Nkr5gkEV8.choice_V1gb2Zy44L.id",
+                        "label": "choice_V1gb2Zy44L",
+                        "value": "choice_V1gb2Zy44L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk0HWkE48",
+                        "choice_N1wI~JNNI",
+                        "choice_E1Wn~y4N8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are some examples of poor behaviour?",
+            "explanation": "Select the correct answers.",
+            "klf": "Criticizing someone, disregarding their point of view, and interrupting them are good examples of bad behaviour.",
+            "tips": "If you are faced with poor behaviour yourself, try to understand where it's coming from and what's causing it. It may help you deal with it better!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk0HWkE48": "Criticising, condemning and complaining",
+            "choice_N1wI~JNNI": "Interrupting",
+            "choice_E1Wn~y4N8": "Not acknowledging the other person’s point of view",
+            "choice_V1gb2Zy44L": "Using the other person's name"
+        },
+        "fr": {
+            "header": "Citez quelques exemples de mauvais comportement",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Critiquer quelqu'un, ne pas tenir compte de son point de vue et l'interrompre sont de bons exemples de mauvais comportement.",
+            "tips": "Si vous êtes vous-même confronté à un mauvais comportement, essayez de comprendre d'où il vient et quelle en est la cause. Cela peut vous aider à mieux le gérer !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk0HWkE48": "Critiquer, condamner et se plaindre",
+            "choice_N1wI~JNNI": "Interrompre",
+            "choice_E1Wn~y4N8": "Ne pas reconnaître le point de vue de l'autre personne",
+            "choice_V1gb2Zy44L": "Utiliser le nom de l'autre personne"
+        },
+        "de": {
+            "header": "Was sind Beispiele für schlechtes Benehmen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Jemanden zu kritisieren, seinen Standpunkt außer Acht zu lassen und ihn zu unterbrechen, sind gute Beispiele für schlechtes Benehmen.",
+            "tips": "Wenn Sie selbst mit einem schlechten Verhalten konfrontiert sind, versuchen Sie zu verstehen, woher es kommt und was es verursacht. Es kann Ihnen helfen, besser damit umzugehen!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk0HWkE48": "Kritik, Verurteilung und Beschwerde",
+            "choice_N1wI~JNNI": "Unterbrechen",
+            "choice_E1Wn~y4N8": "Nicht den Standpunkt der anderen Person anerkennen",
+            "choice_V1gb2Zy44L": "Den Namen der anderen Person verwenden"
+        },
+        "th": {
+            "header": "What are some examples of poor behaviour?",
+            "explanation": "Select the correct answers.",
+            "klf": "Criticizing someone, disregarding their point of view, and interrupting them are good examples of bad behaviour.",
+            "tips": "If you are faced with poor behaviour yourself, try to understand where it's coming from and what's causing it. It may help you deal with it better!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk0HWkE48": "Criticising, condemning and complaining",
+            "choice_N1wI~JNNI": "Interrupting",
+            "choice_E1Wn~y4N8": "Not acknowledging the other person’s point of view",
+            "choice_V1gb2Zy44L": "Using the other person's name"
+        }
+    }
+}

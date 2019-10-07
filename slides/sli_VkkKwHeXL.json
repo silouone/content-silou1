@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T17:53:53.406Z",
+            "updatedAt": "2019-02-22T11:49:36.055Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkkJC1yM8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VkkKwHeXL",
+        "universalRef": "sli_VkkKwHeXL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel68833",
+                        "items": [
+                            {
+                                "text": "choice_NJlviPBeQL",
+                                "value": "choice_NJlviPBeQL"
+                            },
+                            {
+                                "text": "choice_V1~wiDrg78",
+                                "value": "choice_V1~wiDrg78"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel68833",
+                        "answers": [
+                            "choice_V1~wiDrg78"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a leader, what is an easy way to engage in small talk?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Small talk can be difficult for some leaders. However, you can easily try to get around this by asking people questions. Make sure you ask open-ended questions to give them room to elaborate on their answers.",
+            "tips": "Creating a conversation also depends on having the right body language: try to make people comfortable when they talk to you.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can start a conversation by simply {{sel68833}}",
+            "choice_NJlviPBeQL": "forcing people to speak",
+            "choice_V1~wiDrg78": "asking questions"
+        },
+        "fr": {
+            "header": "En qualité de leader, comment pouvez-vous facilement engager une petite discussion ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Engager une petite discussion peut se révéler difficile pour certains leaders. Toutefois, vous pouvez facilement surmonter cette difficulté en posant des questions à vos collaborateurs. Veillez à poser des questions ouvertes afin de donner aux personnes la possibilité de fournir des réponses détaillées.",
+            "tips": "Engager une conversation nécessite également d'adopter le bon langage corporel : mettez les personnes à l'aise lors de vos discussions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous pouvez tout simplement engager la conversation {{sel68833}}",
+            "choice_NJlviPBeQL": "en forçant les personnes à discuter",
+            "choice_V1~wiDrg78": "en posant des questions"
+        },
+        "de": {
+            "header": "Wie kann man sich als Führungspersönlichkeit leicht mit Small Talk unterhalten?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Small Talk kann für einige Führungskräfte schwierig sein. Sie können jedoch leicht versuchen, dies zu umgehen, indem Sie den Leuten Fragen stellen. Stellen Sie sicher, dass Sie offene Fragen stellen, um ihnen Raum für Antworten zu geben.",
+            "tips": "Der Aufbau einer Konversation hängt auch von der richtigen Körpersprache ab: Versuchen Sie es den Menschen beim Sprechen angenehm zu machen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sie können eine Konversation starten, indem Sie einfach {{sel68833}}",
+            "choice_NJlviPBeQL": "Menschen zum Sprechen zwingen",
+            "choice_V1~wiDrg78": "Fragen stellen"
+        },
+        "th": {
+            "header": "As a leader, what is an easy way to engage in small talk?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Small talk can be difficult for some leaders. However, you can easily try to get around this by asking people questions. Make sure you ask open-ended questions to give them room to elaborate on their answers.",
+            "tips": "Creating a conversation also depends on having the right body language: try to make people comfortable when they talk to you.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can start a conversation by simply {{sel68833}}",
+            "choice_NJlviPBeQL": "forcing people to speak",
+            "choice_V1~wiDrg78": "asking questions"
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-11T14:52:06.042Z",
+            "updatedAt": "2019-08-01T09:43:03.538Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ5yjNxZP"
+            ],
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJi6jNgZP",
+        "universalRef": "sli_NJi6jNgZP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJi6jNgZP.choice_NyjCjExWD.id",
+                        "label": "choice_NyjCjExWD",
+                        "value": "choice_NyjCjExWD"
+                    },
+                    {
+                        "id": "sli_NJi6jNgZP.choice_41OJ2EgZv.id",
+                        "label": "choice_41OJ2EgZv",
+                        "value": "choice_41OJ2EgZv"
+                    },
+                    {
+                        "id": "sli_NJi6jNgZP.choice_E1IG24lWv.id",
+                        "label": "choice_E1IG24lWv",
+                        "value": "choice_E1IG24lWv"
+                    },
+                    {
+                        "id": "sli_NJi6jNgZP.choice_N12G3ElWw.id",
+                        "label": "choice_N12G3ElWw",
+                        "value": "choice_N12G3ElWw"
+                    },
+                    {
+                        "id": "sli_NJi6jNgZP.choice_EJOFU5oGv.id",
+                        "label": "choice_EJOFU5oGv",
+                        "value": "choice_EJOFU5oGv"
+                    },
+                    {
+                        "id": "sli_NJi6jNgZP.choice_VJb98qiGD.id",
+                        "label": "choice_VJb98qiGD",
+                        "value": "choice_VJb98qiGD"
+                    },
+                    {
+                        "id": "sli_NJi6jNgZP.choice_V1zqU9ifw.id",
+                        "label": "choice_V1zqU9ifw",
+                        "value": "choice_V1zqU9ifw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyjCjExWD",
+                        "choice_41OJ2EgZv",
+                        "choice_E1IG24lWv",
+                        "choice_N12G3ElWw",
+                        "choice_EJOFU5oGv",
+                        "choice_V1zqU9ifw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is a feature of a product?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When you start interpreting a precise characteristic to tell the customer \"what's in it\" for them, and why the product will be useful or convenient, you are already speaking about benefits. A detail, the weight or size, the price, the color or any specific detail of the design: these are all \"features\".",
+            "tips": "You're trying to sell an adjustable chair? Don't just mention the dimensions or the adjustment system. Speak of ergonomics and well-being: \"You can easily adjust the chair, so you won’t get backache working in the wrong position, or hurt your hands trying to reach for your computer\".",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjCjExWD": "A detail, like a handle",
+            "choice_41OJ2EgZv": "Its color",
+            "choice_E1IG24lWv": "Its size",
+            "choice_N12G3ElWw": "The price",
+            "choice_EJOFU5oGv": "Its weight",
+            "choice_VJb98qiGD": "An easy operating system for anybody",
+            "choice_V1zqU9ifw": "Its design",
+            "choice_4kztI5ofD": "Its practicality"
+        },
+        "fr": {
+            "header": "Qu'est-ce qui caractérise un produit ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsque vous commencez à interpréter une caractéristique précise pour indiquer au client « ce qu'elle représente pour lui » et en quoi le produit sera utile ou pratique, vous parlez déjà des avantages. Un détail, le poids ou la taille, le prix, la couleur ou tout détail spécifique de la conception : ce sont tous des « caractéristiques ».",
+            "tips": "Vous essayez de vendre une chaise réglable ? Ne vous contentez pas de mentionner les dimensions ou le système de réglage. Parlez ergonomie et bien-être : « Vous pouvez facilement régler la chaise afin d'éviter d'avoir mal au dos en travaillant dans une mauvaise position ou de vous faire mal aux mains en essayant d’atteindre votre ordinateur ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjCjExWD": "Un détail, comme une poignée",
+            "choice_41OJ2EgZv": "Sa couleur",
+            "choice_E1IG24lWv": "Sa taille",
+            "choice_N12G3ElWw": "Le prix",
+            "choice_EJOFU5oGv": "Son poids",
+            "choice_VJb98qiGD": "Un simplicité d'utilisation pour tous",
+            "choice_V1zqU9ifw": "Son design",
+            "choice_4kztI5ofD": ""
+        },
+        "de": {
+            "header": "What is a feature of a product?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When you start interpreting a precise characteristic to tell the customer \"what's in it\" for them, and why the product will be useful or convenient, you are already speaking about benefits. A detail, the weight or size, the price, the color or any specific detail of the design: these are all \"features\".",
+            "tips": "You're trying to sell an adjustable chair? Don't just mention the dimensions or the adjustment system. Speak of ergonomics and well-being: \"You can easily adjust the chair, so you won’t get backache working in the wrong position, or hurt your hands trying to reach for your computer\".",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjCjExWD": "A detail, like a handle",
+            "choice_41OJ2EgZv": "Its color",
+            "choice_E1IG24lWv": "Its size",
+            "choice_N12G3ElWw": "The price",
+            "choice_EJOFU5oGv": "Its weight",
+            "choice_VJb98qiGD": "An easy operating system for anybody",
+            "choice_V1zqU9ifw": "Its design",
+            "choice_4kztI5ofD": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjCjExWD": "",
+            "choice_41OJ2EgZv": "",
+            "choice_E1IG24lWv": "",
+            "choice_N12G3ElWw": "",
+            "choice_4kztI5ofD": "",
+            "choice_EJOFU5oGv": "",
+            "choice_VJb98qiGD": "",
+            "choice_V1zqU9ifw": ""
+        }
+    }
+}

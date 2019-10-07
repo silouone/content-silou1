@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-15T10:54:17.941Z",
+            "updatedAt": "2019-04-01T10:10:09.645Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V15K0JSEL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VJczKtkSL",
+        "universalRef": "sli_VJczKtkSL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJczKtkSL.choice_NkuXYK1BU.id",
+                        "label": "choice_NkuXYK1BU",
+                        "value": "choice_NkuXYK1BU"
+                    },
+                    {
+                        "id": "sli_VJczKtkSL.choice_EkYmtKJSL.id",
+                        "label": "choice_EkYmtKJSL",
+                        "value": "choice_EkYmtKJSL"
+                    },
+                    {
+                        "id": "sli_VJczKtkSL.choice_N1c7KFkBI.id",
+                        "label": "choice_N1c7KFkBI",
+                        "value": "choice_N1c7KFkBI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkYmtKJSL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you avoid after giving praise?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Don’t spoil praise by ending the conversation with criticism.",
+            "tips": "Never praise someone while asking for a favour at the same time. It has the same effect as a sting in the tail criticism: it ruins everything.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkuXYK1BU": "A written confirmation",
+            "choice_EkYmtKJSL": "A criticism of something else about them",
+            "choice_N1c7KFkBI": "Praise for others"
+        },
+        "fr": {
+            "header": "Qu'est-ce qu'il est préférable d'éviter après avoir fait un éloge à quelqu'un ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Ne ruinez pas un éloge en terminant la conversation sur des critiques.",
+            "tips": "Ne faites jamais d'éloge à quelqu'un tout en lui demandant une faveur. Cela fait l'effet d'une douche froide : ça gâche tout.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkuXYK1BU": "Une confirmation écrite",
+            "choice_EkYmtKJSL": "Une critique à propos d'un autre sujet",
+            "choice_N1c7KFkBI": "Des éloges sur les autres"
+        },
+        "de": {
+            "header": "Was sollten Sie nach dem Lob vermeiden?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Verderben Sie nicht das Lob, indem Sie das Gespräch mit Kritik beenden.",
+            "tips": "Lobe niemals jemanden, während Sie gleichzeitig um einen Gefallen bitten. Es hat den gleichen Effekt wie eine Pferdefuß-Kritik: es ruiniert alles.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkuXYK1BU": "Eine schriftliche Bestätigung",
+            "choice_EkYmtKJSL": "Eine Kritik von etwas anderem an ihnen",
+            "choice_N1c7KFkBI": "Lob für andere"
+        },
+        "th": {
+            "header": "What should you avoid after giving praise?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Don’t spoil praise by ending the conversation with criticism.",
+            "tips": "Never praise someone while asking for a favour at the same time. It has the same effect as a sting in the tail criticism: it ruins everything.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkuXYK1BU": "A written confirmation",
+            "choice_EkYmtKJSL": "A criticism of something else about them",
+            "choice_N1c7KFkBI": "Praise for others"
+        }
+    }
+}

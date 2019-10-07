@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T16:23:20.449Z",
+            "updatedAt": "2019-02-25T13:49:12.915Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkLId3QHU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_V1Yp9TXS8",
+        "universalRef": "sli_V1Yp9TXS8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel81738",
+                        "items": [
+                            {
+                                "text": "choice_4kxmC5TXrU",
+                                "value": "choice_4kxmC5TXrU"
+                            },
+                            {
+                                "text": "choice_Vy~m0cTQBU",
+                                "value": "choice_Vy~m0cTQBU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel81738",
+                        "answers": [
+                            "choice_4kxmC5TXrU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When dealing with a complaint, what kind of question should you ask if you want to show you understood your customer's issue?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Whenever you deal with a complaint from a customer, ask open questions to understand the issue and closed questions to confirm a resolution. Don’t let your emotions control you, be polite and remain positive.",
+            "tips": "An open question is a question which will lead to explanations and comments, while a closed question can only have one answer: yes or no, true or false…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81738}}",
+            "choice_4kxmC5TXrU": "Open questions",
+            "choice_Vy~m0cTQBU": "Closed questions"
+        },
+        "fr": {
+            "header": "Lorsque vous traitez une plainte, quel type de questions devez-vous poser si vous voulez montrer que vous comprenez le problème de votre client ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Chaque fois que vous traitez la plainte d'un client, posez des questions ouvertes pour comprendre le problème et des questions fermées pour confirmer sa résolution. Ne laissez pas vos émotions vous contrôler, soyez poli et restez positif.",
+            "tips": "Une question ouverte est une question qui donnera lieu à des explications et des commentaires, alors qu'une question fermée ne peut avoir qu'une seule réponse : oui ou non, vrai ou faux…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81738}}",
+            "choice_4kxmC5TXrU": "Questions ouvertes",
+            "choice_Vy~m0cTQBU": "Questions fermées"
+        },
+        "de": {
+            "header": "Welche Art von Frage sollten Sie im Zusammenhang mit einer Beschwerde stellen, wenn Sie zeigen möchten, dass Sie das Problem Ihres Kunden verstanden haben?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "Wenn Sie sich mit einer Beschwerde eines Kunden befassen, stellen Sie offene Fragen, um das Problem zu verstehen, und geschlossene Fragen, um eine Lösung zu bestätigen. Lassen Sie sich nicht von Ihren Emotionen kontrollieren, seien Sie höflich und bleiben Sie positiv.",
+            "tips": "Eine offene Frage ist eine Frage, die zu Erklärungen und Kommentaren führt, während eine geschlossene Frage nur eine Antwort haben kann: Ja oder Nein, Richtig oder Falsch.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81738}}",
+            "choice_4kxmC5TXrU": "Offene Fragen",
+            "choice_Vy~m0cTQBU": "Geschlossene Fragen"
+        },
+        "th": {
+            "header": "When dealing with a complaint, what kind of question should you ask if you want to show you understood your customer's issue?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Whenever you deal with a complaint from a customer, ask open questions to understand the issue and closed questions to confirm a resolution. Don’t let your emotions control you, be polite and remain positive.",
+            "tips": "An open question is a question which will lead to explanations and comments, while a closed question can only have one answer: yes or no, true or false…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel81738}}",
+            "choice_4kxmC5TXrU": "Open questions",
+            "choice_Vy~m0cTQBU": "Closed questions"
+        }
+    }
+}

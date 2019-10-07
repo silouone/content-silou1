@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-13T12:21:51.543Z",
+            "updatedAt": "2019-02-13T12:50:27.020Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9H4yENI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VkCE9xp48",
+        "universalRef": "sli_VkCE9xp48",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkCE9xp48.choice_VkgES9x6E8.id",
+                        "label": "choice_VkgES9x6E8",
+                        "value": "choice_VkgES9x6E8",
+                        "media": "med_Vy4BqgpE8"
+                    },
+                    {
+                        "id": "sli_VkCE9xp48.choice_V1eVUqgT48.id",
+                        "label": "choice_V1eVUqgT48",
+                        "value": "choice_V1eVUqgT48",
+                        "media": "med_VkNU9lpEU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1eVUqgT48"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Personal problems shouldn't interfere with people's professional life. Managers should be strict about this. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Personal problems are bound to impact people's professional life. As a manager, you should bring your support when necessary. Your team members will understand you care about them even through hard times.",
+            "tips": "The idea isn't to give up your manager hat and become the therapist, but to see together with your employee how you think their work may be impacted and how you can help them in that regard.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkgES9x6E8": "TRUE",
+            "choice_V1eVUqgT48": "FALSE"
+        },
+        "fr": {
+            "header": "Les problèmes personnels ne doivent pas nuire à la vie professionnelle. Les gestionnaires devraient être stricts à ce sujet. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les problèmes personnels ont forcément un impact sur la vie professionnelle. En tant que responsable, vous devez apporter votre soutien si nécessaire. Les membres de votre équipe comprendront que vous vous souciez d'eux, même dans les périodes difficiles.",
+            "tips": "L'idée n'est pas de quitter le costume de manager pour devenir thérapeute, mais de voir avec votre employé comment vous pensez que son travail peut être affecté et comment vous pouvez l'aider à cet égard.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkgES9x6E8": "Vrai",
+            "choice_V1eVUqgT48": "Faux"
+        },
+        "de": {
+            "header": "Persönliche Probleme sollten das Berufsleben der Menschen nicht beeinträchtigen. Manager sollten diesbezüglich streng sein. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Persönliche Probleme wirken sich auf das Berufsleben der Menschen aus. Als Manager sollten Sie bei Bedarf Ihre Unterstützung mitbringen. Ihre Teammitglieder werden verstehen, dass Sie sich auch in schwierigen Zeiten um sie kümmern.",
+            "tips": "Die Idee besteht nicht darin, den Managerhut aufzugeben und der Therapeut zu werden, sondern gemeinsam mit Ihrem Mitarbeiter zu sehen, wie Ihrer Meinung nach ihre Arbeit beeinflusst wird und wie Sie ihnen dabei helfen können.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkgES9x6E8": "Wahr",
+            "choice_V1eVUqgT48": "Falsch"
+        },
+        "th": {
+            "header": "Personal problems shouldn't interfere with people's professional life. Managers should be strict about this. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Personal problems are bound to impact people's professional life. As a manager, you should bring your support when necessary. Your team members will understand you care about them even through hard times.",
+            "tips": "The idea isn't to give up your manager hat and become the therapist, but to see together with your employee how you think their work may be impacted and how you can help them in that regard.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkgES9x6E8": "TRUE",
+            "choice_V1eVUqgT48": "FALSE"
+        }
+    }
+}

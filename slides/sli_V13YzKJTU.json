@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-23T12:36:13.248Z",
+            "updatedAt": "2019-05-27T12:20:55.174Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41pfW8yaL"
+            ],
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_V13YzKJTU",
+        "universalRef": "sli_V13YzKJTU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel75575",
+                        "items": [
+                            {
+                                "text": "choice_EJen9fFJa8",
+                                "value": "choice_EJen9fFJa8"
+                            },
+                            {
+                                "text": "choice_4k~3qfY1TU",
+                                "value": "choice_4k~3qfY1TU"
+                            },
+                            {
+                                "text": "choice_VJ6sGYJaU",
+                                "value": "choice_VJ6sGYJaU"
+                            },
+                            {
+                                "text": "choice_NJB3GFJaU",
+                                "value": "choice_NJB3GFJaU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel75575",
+                        "answers": [
+                            "choice_VJ6sGYJaU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When negotiating with clients, what should you do to be sure you understand them well?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Asking is the best way to ensure that you understand your opposite number’s attitudes and motivation. Use open questions to get lots of information and closed questions to nail down specific facts and confirm agreement.",
+            "tips": "Closed questions are really useful to obtain a definitive answer, summarise information and check understanding and, sometimes… To slow down a chatty client!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel75575}}",
+            "choice_EJen9fFJa8": "Demand explanations",
+            "choice_4k~3qfY1TU": "Impose your processes",
+            "choice_VJ6sGYJaU": "Ask their point of view",
+            "choice_NJB3GFJaU": "Understand? What for?"
+        },
+        "fr": {
+            "header": "Lorsque vous négociez avec des clients, que devez-vous faire pour être sûr de bien les comprendre ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Poser des questions est le meilleur moyen de vous assurer que vous comprenez les attitudes et la motivation de votre interlocuteur. Utilisez des questions ouvertes pour obtenir beaucoup d'informations et des questions fermées pour cerner des faits spécifiques et confirmer l'accord.",
+            "tips": "Les questions fermées sont vraiment utiles pour obtenir une réponse définitive, résumer les informations et vérifier la compréhension, et parfois… ralentir le débit d'un client bavard !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel75575}}",
+            "choice_EJen9fFJa8": "Demander des explications",
+            "choice_4k~3qfY1TU": "Imposer vos processus",
+            "choice_VJ6sGYJaU": "Demander leur point de vue",
+            "choice_NJB3GFJaU": "Comprendre ? Pour quoi faire ?"
+        },
+        "de": {
+            "header": "When negotiating with clients, what should you do to be sure you understand them well?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Asking is the best way to ensure that you understand your opposite number’s attitudes and motivation. Use open questions to get lots of information and closed questions to nail down specific facts and confirm agreement.",
+            "tips": "Closed questions are really useful to obtain a definitive answer, summarise information and check understanding and, sometimes… To slow down a chatty client!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel75575}}",
+            "choice_EJen9fFJa8": "Demand explanations",
+            "choice_4k~3qfY1TU": "Impose your processes",
+            "choice_VJ6sGYJaU": "Ask their point of view",
+            "choice_NJB3GFJaU": "Understand? What for?"
+        },
+        "th": {
+            "header": "When negotiating with clients, what should you do to be sure you understand them well?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Asking is the best way to ensure that you understand your opposite number’s attitudes and motivation. Use open questions to get lots of information and closed questions to nail down specific facts and confirm agreement.",
+            "tips": "Closed questions are really useful to obtain a definitive answer, summarise information and check understanding and, sometimes… To slow down a chatty client!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel75575}}",
+            "choice_EJen9fFJa8": "Demand explanations",
+            "choice_4k~3qfY1TU": "Impose your processes",
+            "choice_VJ6sGYJaU": "Ask their point of view",
+            "choice_NJB3GFJaU": "Understand? What for?"
+        }
+    }
+}

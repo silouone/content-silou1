@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-22T12:24:05.307Z",
+            "updatedAt": "2019-08-22T13:04:37.674Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41LkskNQP"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_V1s4O-PND",
+        "universalRef": "sli_V1s4O-PND",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel72430",
+                        "items": [
+                            {
+                                "text": "choice_NyxyuuOD4D",
+                                "value": "choice_NyxyuuOD4D"
+                            },
+                            {
+                                "text": "choice_NJWy-OdwEP",
+                                "value": "choice_NJWy-OdwEP"
+                            },
+                            {
+                                "text": "choice_NyetuOvED",
+                                "value": "choice_NyetuOvED"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel72430",
+                        "answers": [
+                            "choice_NyetuOvED"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What do you need from your client for them to invest in you?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you are selling a service rather than a product, it is even more important to build confidence and trust with your client.",
+            "tips": "One of the top qualities you must have as a consultant? Keep your promises and be consistent: do exactly what you said you were going to do. It is key to build trust and credibility with your client.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel72430}}",
+            "choice_NyxyuuOD4D": "A meeting with your team",
+            "choice_NJWy-OdwEP": "Their personal details",
+            "choice_NyetuOvED": "Their trust"
+        },
+        "fr": {
+            "header": "De quoi avez-vous besoin de votre client pour qu’il investisse en vous?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsque vous vendez un service plutôt qu'un produit, il est encore plus important d'établir un climat de confiance avec votre client.",
+            "tips": "Une des principales qualités que vous devez avoir en tant que consultant? Tenez vos promesses et soyez cohérent: faites exactement ce que vous avez dit que vous alliez faire. Il est essentiel de renforcer la confiance et la crédibilité avec votre client.",
+            "template": "{{sel72430}}",
+            "choice_NyxyuuOD4D": "Une rencontre avec votre équipe",
+            "choice_NJWy-OdwEP": "Leurs données personnelles",
+            "choice_NyetuOvED": "Leur confiance",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What do you need from your client for them to invest in you?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you are selling a service rather than a product, it is even more important to build confidence and trust with your client.",
+            "tips": "One of the top qualities you must have as a consultant? Keep your promises and be consistent: do exactly what you said you were going to do. It is key to build trust and credibility with your client.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel72430}}",
+            "choice_NyxyuuOD4D": "A meeting with your team",
+            "choice_NJWy-OdwEP": "Their personal details",
+            "choice_NyetuOvED": "Their trust"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel72430}}",
+            "choice_NyxyuuOD4D": "",
+            "choice_NJWy-OdwEP": "",
+            "choice_NyetuOvED": ""
+        }
+    }
+}

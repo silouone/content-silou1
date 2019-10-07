@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T05:06:54.328Z",
+            "updatedAt": "2019-03-25T13:35:04.655Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41DnQEyvL"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_NJCdNT8P8",
+        "universalRef": "sli_NJCdNT8P8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_NJCdNT8P8.choice_EyOkB6IPU.id",
+                        "label": "choice_EyOkB6IPU",
+                        "value": "choice_EyOkB6IPU"
+                    },
+                    {
+                        "id": "sli_NJCdNT8P8.choice_4yFJr6UPU.id",
+                        "label": "choice_4yFJr6UPU",
+                        "value": "choice_4yFJr6UPU"
+                    },
+                    {
+                        "id": "sli_NJCdNT8P8.choice_N1gKkBT8vL.id",
+                        "label": "choice_N1gKkBT8vL",
+                        "value": "choice_N1gKkBT8vL"
+                    },
+                    {
+                        "id": "sli_NJCdNT8P8.choice_N1cyr68vI.id",
+                        "label": "choice_N1cyr68vI",
+                        "value": "choice_N1cyr68vI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1gKkBT8vL",
+                        "choice_4yFJr6UPU",
+                        "choice_N1cyr68vI",
+                        "choice_EyOkB6IPU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4yatN6IwL",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In what order should you address the following issues?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "First, listen to your employees’ suggestions. Then, it’s important that you both agree on an action plan, and set up a follow-up meeting. You can take care of your personal stuff once the rest is settled…",
+            "tips": "In 1980, General Electric instituted ‘stack ranking’, where the lowest-performing 10% of employees were routinely removed… this approach is widely criticised today and was only practised by 14% of companies in 2014, against 40% in 2009.",
+            "clue": "",
+            "context_title": "Mallorca Calling…",
+            "context_description": "You are about to wrap up a performance review with a very committed employee who suggested upgrading the software your company uses. Suddenly, your phone starts ringing. You check out the name appearing on the screen: it’s your best friend, probably calling about the vacation on a Mediterranean island you are planning together. Your employee is looking at you, not sure if the review is over…",
+            "context_media_description": "",
+            "choice_EyOkB6IPU": "Plan your vacation",
+            "choice_4yFJr6UPU": "Set a plan of action",
+            "choice_N1gKkBT8vL": "Ask about the software upgrade",
+            "choice_N1cyr68vI": "Agree on a date for a follow-up"
+        },
+        "fr": {
+            "header": "Dans quel ordre devriez-vous aborder les problèmes suivants ?",
+            "explanation": "Sélectionnez les réponses ci-dessous dans le bon ordre.",
+            "klf": "Tout d’abord, écoutez les suggestions de vos employés. Ensuite, il est important que vous vous mettiez d’accord sur un plan d’action et que vous organisiez une réunion de suivi. Vous pouvez prendre soin de vos affaires personnelles une fois le reste réglé…",
+            "tips": "En 1980, General Electric a institué le « classement des employés », selon lequel 10% des employés les moins performants étaient systématiquement licenciés... cette approche est largement critiquée aujourd’hui et n’était pratiquée que par 14% des entreprises en 2014, contre 40% en 2009.",
+            "clue": "",
+            "context_title": "Le coup de fil de Mallorca ...",
+            "context_description": "Vous êtes sur le point de conclure une évaluation de performance avec un employé très engagé qui a suggéré de mettre à niveau le logiciel utilisé par votre entreprise. Soudain, votre téléphone commence à sonner. Vous vérifiez le nom qui apparaît à l’écran : c’est votre meilleure amie qui vous appelle probablement au sujet des vacances sur une île méditerranéenne que vous planifiez ensemble. Votre employé vous regarde, pas sûr que l'examen soit terminé…",
+            "context_media_description": "",
+            "choice_EyOkB6IPU": "Planifier vos vacances",
+            "choice_4yFJr6UPU": "Établir un plan d'action",
+            "choice_N1gKkBT8vL": "Poser des questions sur la mise à niveau du logiciel",
+            "choice_N1cyr68vI": "Convenir d'une date pour un suivi"
+        },
+        "de": {
+            "header": "In what order should you address the following issues?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "First, listen to your employees’ suggestions. Then, it’s important that you both agree on an action plan, and set up a follow-up meeting. You can take care of your personal stuff once the rest is settled…",
+            "tips": "In 1980, General Electric instituted ‘stack ranking’, where the lowest-performing 10% of employees were routinely removed… this approach is widely criticised today and was only practised by 14% of companies in 2014, against 40% in 2009.",
+            "clue": "",
+            "context_title": "Mallorca Calling…",
+            "context_description": "You are about to wrap up a performance review with a very committed employee who suggested upgrading the software your company uses. Suddenly, your phone starts ringing. You check out the name appearing on the screen: it’s your best friend, probably calling about the vacation on a Mediterranean island you are planning together. Your employee is looking at you, not sure if the review is over…",
+            "context_media_description": "",
+            "choice_EyOkB6IPU": "Plan your vacation",
+            "choice_4yFJr6UPU": "Set a plan of action",
+            "choice_N1gKkBT8vL": "Ask about the software upgrade",
+            "choice_N1cyr68vI": "Agree on a date for a follow-up"
+        },
+        "th": {
+            "header": "In what order should you address the following issues?",
+            "explanation": "Select the answers below in the right order.",
+            "klf": "First, listen to your employees’ suggestions. Then, it’s important that you both agree on an action plan, and set up a follow-up meeting. You can take care of your personal stuff once the rest is settled…",
+            "tips": "In 1980, General Electric instituted ‘stack ranking’, where the lowest-performing 10% of employees were routinely removed… this approach is widely criticised today and was only practised by 14% of companies in 2014, against 40% in 2009.",
+            "clue": "",
+            "context_title": "Mallorca Calling…",
+            "context_description": "You are about to wrap up a performance review with a very committed employee who suggested upgrading the software your company uses. Suddenly, your phone starts ringing. You check out the name appearing on the screen: it’s your best friend, probably calling about the vacation on a Mediterranean island you are planning together. Your employee is looking at you, not sure if the review is over…",
+            "context_media_description": "",
+            "choice_EyOkB6IPU": "Plan your vacation",
+            "choice_4yFJr6UPU": "Set a plan of action",
+            "choice_N1gKkBT8vL": "Ask about the software upgrade",
+            "choice_N1cyr68vI": "Agree on a date for a follow-up"
+        }
+    }
+}

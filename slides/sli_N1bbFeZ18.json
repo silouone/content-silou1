@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-05T17:30:10.914Z",
+            "updatedAt": "2019-01-21T14:09:52.524Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJLZTI9AS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_N1bbFeZ18",
+        "universalRef": "sli_N1bbFeZ18",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel66376",
+                        "items": [
+                            {
+                                "text": "choice_Nkx~zqxZyU",
+                                "value": "choice_Nkx~zqxZyU"
+                            },
+                            {
+                                "text": "choice_VJ~bGceZ1U",
+                                "value": "choice_VJ~bGceZ1U"
+                            },
+                            {
+                                "text": "choice_4kBQqxWkU",
+                                "value": "choice_4kBQqxWkU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel66376",
+                        "answers": [
+                            "choice_VJ~bGceZ1U"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which people have an inner critic?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "We all have an inner critic. That doesn't mean we should listen to it!",
+            "tips": "To get rid of your inner critic, start by identifying what it is telling you, and acknowledge that it doesn't represent your real point of view.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66376}} have an inner critic.",
+            "choice_Nkx~zqxZyU": "insecure people",
+            "choice_VJ~bGceZ1U": "All of us",
+            "choice_4kBQqxWkU": "People who frequently fail"
+        },
+        "fr": {
+            "header": "Qui possède une petite voix intérieure ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Nous possédons tous une petite voix intérieure. Mais cela ne signifie pas qu’on doive l’écouter !",
+            "tips": "Pour vous débarrasser de votre petite voix intérieure, commencez par identifier ce qu’elle vous dit, et reconnaissez qu’elle ne représente pas votre point de vue réel.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Possèdent une petite voix intérieure... {{sel66376}}",
+            "choice_Nkx~zqxZyU": "les personnes qui manquent de confiance",
+            "choice_VJ~bGceZ1U": "chacun d'entre nous",
+            "choice_4kBQqxWkU": "les personnes qui échouent fréquemment"
+        },
+        "de": {
+            "header": "Welche Leute haben einen inneren Kritiker?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wir haben alle einen inneren Kritiker. Das heißt nicht, dass wir auf Ihn hören sollten!",
+            "tips": "Um Ihren inneren Kritiker loszuwerden, beginnen Sie damit, herauszufinden, was er Ihnen erzählt, und stellen Sie fest, dass er nicht Ihren wahren Standpunkt darstellt.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66376}} haben einen inneren Kritiker.",
+            "choice_Nkx~zqxZyU": "unsichere Menschen",
+            "choice_VJ~bGceZ1U": "Wir alle",
+            "choice_4kBQqxWkU": "Menschen, die häufig versagen"
+        },
+        "th": {
+            "header": "Which people have an inner critic?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "We all have an inner critic. That doesn't mean we should listen to it!",
+            "tips": "To get rid of your inner critic, start by identifying what it is telling you, and acknowledge that it doesn't represent your real point of view.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel66376}} have an inner critic.",
+            "choice_Nkx~zqxZyU": "insecure people",
+            "choice_VJ~bGceZ1U": "All of us",
+            "choice_4kBQqxWkU": "People who frequently fail"
+        }
+    }
+}

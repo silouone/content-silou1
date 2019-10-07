@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-22T15:59:15.056Z",
+            "updatedAt": "2019-05-22T15:59:15.056Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yTr4V9iI"
+            ],
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NyjFaU038",
+        "universalRef": "sli_NyjFaU038",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel11133",
+                        "items": [
+                            {
+                                "text": "choice_VyeZa1PAnI",
+                                "value": "choice_VyeZa1PAnI"
+                            },
+                            {
+                                "text": "choice_VJZ~6yvAnI",
+                                "value": "choice_VJZ~6yvAnI"
+                            },
+                            {
+                                "text": "choice_NkoUlPC3L",
+                                "value": "choice_NkoUlPC3L"
+                            },
+                            {
+                                "text": "choice_EygDlwR3I",
+                                "value": "choice_EygDlwR3I"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel11133",
+                        "answers": [
+                            "choice_NkoUlPC3L"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the central concept behind the rule of the rare?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "By limiting product or service availability, you force your customer into taking action before your offer runs out.",
+            "tips": "Brands often use the scarcity principle to persuade people to purchase a product. On many travel booking sites, for example, travel listings are displayed with a note that only a few seats are left at a certain price. Simple, but effective!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel11133}}",
+            "choice_VyeZa1PAnI": "Eccentricity",
+            "choice_VJZ~6yvAnI": "Simplicity",
+            "choice_NkoUlPC3L": "Scarcity",
+            "choice_EygDlwR3I": "Pugnacity"
+        },
+        "fr": {
+            "header": "Quel est le concept central derrière la règle de l'exceptionnel ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En limitant la disponibilité des produits ou des services, vous obligez votre client à prendre des mesures avant la fin de votre offre.",
+            "tips": "Les marques utilisent souvent le principe de rareté pour persuader les gens d'acheter un produit. Par exemple, sur de nombreux sites de réservation de voyages, les listes de voyages sont affichées avec une note indiquant qu'il ne reste que quelques places assises à un certain prix. Simple mais efficace !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel11133}}",
+            "choice_VyeZa1PAnI": "L'excentricité",
+            "choice_VJZ~6yvAnI": "La simplicité",
+            "choice_NkoUlPC3L": "La rareté",
+            "choice_EygDlwR3I": "La pugnacité"
+        },
+        "de": {
+            "header": "What is the central concept behind the rule of the rare?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "By limiting product or service availability, you force your customer into taking action before your offer runs out.",
+            "tips": "Brands often use the scarcity principle to persuade people to purchase a product. On many travel booking sites, for example, travel listings are displayed with a note that only a few seats are left at a certain price. Simple, but effective!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel11133}}",
+            "choice_VyeZa1PAnI": "Eccentricity",
+            "choice_VJZ~6yvAnI": "Simplicity",
+            "choice_NkoUlPC3L": "Scarcity",
+            "choice_EygDlwR3I": "Pugnacity"
+        },
+        "th": {
+            "header": "What is the central concept behind the rule of the rare?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "By limiting product or service availability, you force your customer into taking action before your offer runs out.",
+            "tips": "Brands often use the scarcity principle to persuade people to purchase a product. On many travel booking sites, for example, travel listings are displayed with a note that only a few seats are left at a certain price. Simple, but effective!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel11133}}",
+            "choice_VyeZa1PAnI": "Eccentricity",
+            "choice_VJZ~6yvAnI": "Simplicity",
+            "choice_NkoUlPC3L": "Scarcity",
+            "choice_EygDlwR3I": "Pugnacity"
+        }
+    }
+}

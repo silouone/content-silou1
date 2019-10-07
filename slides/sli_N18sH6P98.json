@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T09:19:48.689Z",
+            "updatedAt": "2019-04-23T12:53:46.628Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1cxohDqI"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_N18sH6P98",
+        "universalRef": "sli_N18sH6P98",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel53420",
+                        "items": [
+                            {
+                                "text": "choice_41eIpSpvq8",
+                                "value": "choice_41eIpSpvq8"
+                            },
+                            {
+                                "text": "choice_N1b8aBaP5U",
+                                "value": "choice_N1b8aBaP5U"
+                            },
+                            {
+                                "text": "choice_410Trpw58",
+                                "value": "choice_410Trpw58"
+                            },
+                            {
+                                "text": "choice_VyiRr6wcU",
+                                "value": "choice_VyiRr6wcU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel53420",
+                        "answers": [
+                            "choice_41eIpSpvq8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following propositions is a rhetorical question?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Rhetorical questions are ones where the answer is usually known in advance and are used to check understanding; they are useful to let a customer know you have been listening.",
+            "tips": "‘Rhetorical’ comes from the Greek word <i>rhêtôr</i>, meaning ‘speaker’. The ‘rhetoric’ is ‘the art of effective or persuasive speaking or writing’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53420}}",
+            "choice_41eIpSpvq8": "You don’t want to do that do you?",
+            "choice_N1b8aBaP5U": "What shall we do tonight?",
+            "choice_410Trpw58": "Are you listening to me?",
+            "choice_VyiRr6wcU": "How much did that cost?"
+        },
+        "fr": {
+            "header": "Parmi les propositions suivantes, laquelle est une question rhétorique ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les questions rhétoriques sont celles pour lesquelles la réponse est généralement connue à l'avance et qui servent à vérifier la compréhension ; elles sont utiles pour informer un client que vous avez écouté.",
+            "tips": "Rhétorique vient du grec <i>rhêtôr</i>, qui signifie « locuteur ». La « rhétorique » est « l'art de parler ou d'écrire de manière efficace ou persuasive ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53420}}",
+            "choice_41eIpSpvq8": "Vous ne voulez pas faire ça, n'est-ce pas ?",
+            "choice_N1b8aBaP5U": "Que devrions-nous faire ce soir?",
+            "choice_410Trpw58": "Est-ce que vous m'écoutez ?",
+            "choice_VyiRr6wcU": "Combien cela a-t-il coûté ?"
+        },
+        "de": {
+            "header": "Which of the following propositions is a rhetorical question?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Rhetorical questions are ones where the answer is usually known in advance and are used to check understanding; they are useful to let a customer know you have been listening.",
+            "tips": "‘Rhetorical’ comes from the Greek word <i>rhêtôr</i>, meaning ‘speaker’. The ‘rhetoric’ is ‘the art of effective or persuasive speaking or writing’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53420}}",
+            "choice_41eIpSpvq8": "You don’t want to do that do you?",
+            "choice_N1b8aBaP5U": "What shall we do tonight?",
+            "choice_410Trpw58": "Are you listening to me?",
+            "choice_VyiRr6wcU": "How much did that cost?"
+        },
+        "th": {
+            "header": "Which of the following propositions is a rhetorical question?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Rhetorical questions are ones where the answer is usually known in advance and are used to check understanding; they are useful to let a customer know you have been listening.",
+            "tips": "‘Rhetorical’ comes from the Greek word <i>rhêtôr</i>, meaning ‘speaker’. The ‘rhetoric’ is ‘the art of effective or persuasive speaking or writing’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel53420}}",
+            "choice_41eIpSpvq8": "You don’t want to do that do you?",
+            "choice_N1b8aBaP5U": "What shall we do tonight?",
+            "choice_410Trpw58": "Are you listening to me?",
+            "choice_VyiRr6wcU": "How much did that cost?"
+        }
+    }
+}

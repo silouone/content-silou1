@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-09T16:07:05.117Z",
+            "updatedAt": "2019-08-01T12:36:16.684Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ8W9splw"
+            ],
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_VkDj5iaxP",
+        "universalRef": "sli_VkDj5iaxP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkDj5iaxP.choice_41en5spew.id",
+                        "label": "choice_41en5spew",
+                        "value": "choice_41en5spew"
+                    },
+                    {
+                        "id": "sli_VkDj5iaxP.choice_41KncsplD.id",
+                        "label": "choice_41KncsplD",
+                        "value": "choice_41KncsplD"
+                    },
+                    {
+                        "id": "sli_VkDj5iaxP.choice_Vk6h5saew.id",
+                        "label": "choice_Vk6h5saew",
+                        "value": "choice_Vk6h5saew"
+                    },
+                    {
+                        "id": "sli_VkDj5iaxP.choice_N1Z69o6xv.id",
+                        "label": "choice_N1Z69o6xv",
+                        "value": "choice_N1Z69o6xv"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41en5spew",
+                        "choice_41KncsplD",
+                        "choice_N1Z69o6xv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who is responsible for making sure you have the knowledge that you need?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Your company will provide retail information and marketing documents. Your manager will make sure you are given access to them. And, last but certainly not least, YOU have to learn them!",
+            "tips": "Some companies provide their salesperson with some training to make them learn everything about the brand in order to give a better experience to the customers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41en5spew": "The manager",
+            "choice_41KncsplD": "You",
+            "choice_Vk6h5saew": "The customer",
+            "choice_N1Z69o6xv": "The company"
+        },
+        "fr": {
+            "header": "Qui doit s'assurer que vous disposez des connaissances dont vous avez besoin ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Votre entreprise fournira des informations commerciales et des documents marketing. Votre responsable s’assurera que vous y avez accès. Et, pour finir, VOUS devez les apprendre !",
+            "tips": "Certaines entreprises offrent à leurs vendeurs une formation leur permettant de tout apprendre sur la marque afin d'offrir une meilleure expérience à leurs clients.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41en5spew": "Votre responsable",
+            "choice_41KncsplD": "Vous",
+            "choice_Vk6h5saew": "Le consommateur",
+            "choice_N1Z69o6xv": "L'entreprise"
+        },
+        "de": {
+            "header": "Who is responsible for making sure you have the knowledge that you need?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Your company will provide retail information and marketing documents. Your manager will make sure you are given access to them. And, last but certainly not least, YOU have to learn them!",
+            "tips": "Some companies provide their salesperson with some training to make them learn everything about the brand in order to give a better experience to the customers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41en5spew": "The manager",
+            "choice_41KncsplD": "You",
+            "choice_Vk6h5saew": "The customer",
+            "choice_N1Z69o6xv": "The company"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41en5spew": "",
+            "choice_41KncsplD": "",
+            "choice_Vk6h5saew": "",
+            "choice_N1Z69o6xv": ""
+        }
+    }
+}

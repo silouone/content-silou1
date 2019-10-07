@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T15:13:51.938Z",
+            "updatedAt": "2018-11-09T12:41:31.564Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJf1UUNqB"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Ny6doLNqH",
+        "universalRef": "sli_Ny6doLNqH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel18060",
+                        "items": [
+                            {
+                                "text": "choice_Nkeo2sU45r",
+                                "value": "choice_Nkeo2sU45r"
+                            },
+                            {
+                                "text": "choice_EyWo3sIN5H",
+                                "value": "choice_EyWo3sIN5H"
+                            },
+                            {
+                                "text": "choice_4J9YmPVcr",
+                                "value": "choice_4J9YmPVcr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel18060",
+                        "answers": [
+                            "choice_EyWo3sIN5H"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is perseverance a must-have skill for a manager?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Being committed to what you undertake is key to be reliable in the eyes of your team. Nobody will follow a quitter or someone who can't make decisions... Only if they see you determined will they feel like giving their best to work with you on a project , because you'll have breathed worth and meaning into it through your perseverance.",
+            "tips": "Perseverance comes from the Latin words <i>per</i>, meaning \"through\", and <i>severus</i>, meaning ‘severe’. That is, ‘through the severe and difficult’...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Because this is where you {{sel18060}} and lead the way.",
+            "choice_Nkeo2sU45r": "prove your superiority",
+            "choice_EyWo3sIN5H": "rally your team",
+            "choice_4J9YmPVcr": "can extend the initial schedule"
+        },
+        "fr": {
+            "header": "Pourquoi la persévérance est-elle une compétence hors du commun pour un responsable ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Pour être crédible auprès de votre équipe, vous devez impérativement croire en ce que vous entreprenez. Personne ne suivra un lâcheur ou un responsable incapable de prendre des décisions… Si vos collaborateurs vous sentent déterminé, ils auront envie de faire de leur mieux pour travailler avec vous sur un projet, parce que vous aurez su le valoriser grâce à votre persévérance.",
+            "tips": "Persévérance vient des mots latin <i>per</i> qui signifie « à travers », et <i>severus</i> qui signifie « rude ». C’est-à-dire, « poursuivre malgré les difficultés »…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Parce que c’est là que vous {{sel18060}} et vous ouvrez la voie.",
+            "choice_Nkeo2sU45r": "prouvez votre supériorité",
+            "choice_EyWo3sIN5H": "rassemblez votre équipe",
+            "choice_4J9YmPVcr": "pouvez étendre le programme initial"
+        },
+        "de": {
+            "header": "Warum ist Ausdauer für einen Manager ein Muss?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Engagement für das, was Sie tun, ist der Schlüssel, um in den Augen Ihres Teams zuverlässig zu sein. Niemand wird einem Aufgeber oder jemandem folgen, der keine Entscheidungen treffen kann. Nur wenn er Sie entschlossen sieht, werden Sie das Gefühl haben, dass Sie das Beste tun, um mit Ihnen an einem Projekt zu arbeiten, denn Sie haben durch Ihr Projekt Wert und Sinn hineingesteckt Ausdauer.",
+            "tips": "Beharrlichkeit kommt von den lateinischen Wörtern <i>per</i> , was &quot;durch&quot; bedeutet, und <i>severus</i> , was &quot;schwer&quot; bedeutet. Das heißt, &quot;durch die schweren und schwierigen&quot; ...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Weil Sie hier {{sel18060}} und den Weg weisen.",
+            "choice_Nkeo2sU45r": "Ihre Überlegenheit beweisen",
+            "choice_EyWo3sIN5H": "Ihr Team sammeln",
+            "choice_4J9YmPVcr": "den ursprünglichen Zeitplan verlängern können"
+        },
+        "th": {
+            "header": "Why is perseverance a must-have skill for a manager?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Being committed to what you undertake is key to be reliable in the eyes of your team. Nobody will follow a quitter or someone who can't make decisions... Only if they see you determined will they feel like giving their best to work with you on a project , because you'll have breathed worth and meaning into it through your perseverance.",
+            "tips": "Perseverance comes from the Latin words <i>per</i>, meaning \"through\", and <i>severus</i>, meaning ‘severe’. That is, ‘through the severe and difficult’...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Because this is where you {{sel18060}} and lead the way.",
+            "choice_Nkeo2sU45r": "prove your superiority",
+            "choice_EyWo3sIN5H": "rally your team",
+            "choice_4J9YmPVcr": "can extend the initial schedule"
+        }
+    }
+}

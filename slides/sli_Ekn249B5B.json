@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T13:44:11.394Z",
+            "updatedAt": "2018-11-09T12:39:09.419Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1iAS8E5B"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_Ekn249B5B",
+        "universalRef": "sli_Ekn249B5B",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel63083",
+                        "items": [
+                            {
+                                "text": "choice_4JlUor9B5S",
+                                "value": "choice_4JlUor9B5S"
+                            },
+                            {
+                                "text": "choice_Ek~IsBqB9S",
+                                "value": "choice_Ek~IsBqB9S"
+                            },
+                            {
+                                "text": "choice_E1pG8cr5S",
+                                "value": "choice_E1pG8cr5S"
+                            },
+                            {
+                                "text": "choice_41yVL9S9r",
+                                "value": "choice_41yVL9S9r"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel63083",
+                        "answers": [
+                            "choice_41yVL9S9r"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4ywTRqScr",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you start your announcement?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Own change by being fully committed and believing in its benefits. If you’re only 50 % committed, you can expect much less from everyone else.",
+            "tips": "According to the American change management company <i>Prosci</i>, there is a strong correlation between the success of a change initiative and how well the people side was managed. Change projects with excellent change management are six times more likely to meet objectives and outcomes.",
+            "clue": "xxx",
+            "context_title": "The Times They Are a-Changin’",
+            "context_description": "You’re a director of human resources in an international financial services company. One day, your boss tells you that the office cafeteria is going to go full vegan. And the good news is: it’s your responsibility to announce it to the entire team!",
+            "context_media_description": "",
+            "template": "Hello, everyone. {{sel63083}}",
+            "choice_4JlUor9B5S": "I’ve been told to tell you that…",
+            "choice_Ek~IsBqB9S": "I don’t want to cause panic but…",
+            "choice_E1pG8cr5S": "I did everything to stop it but…",
+            "choice_41yVL9S9r": "There’s something new we’re going to try"
+        },
+        "fr": {
+            "header": "Comment devez-vous débuter votre annonce ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Incarnez le changement en vous engageant pleinement et en adhérant à ses bénéfices. Si vous n’êtes engagé qu’à 50 %, vous pouvez vous attendre à un investissement encore bien moindre de la part des autres.",
+            "tips": "Selon la société américaine de gestion du changement <i>Prosci</i>, il existe une forte corrélation entre le succès d’une initiative de changement et la manière dont l’aspect humain est géré. Les projets de changement qui prévoient une parfaite gestion du changement ont six fois plus de chances d’atteindre leurs objectifs et leurs résultats.",
+            "clue": "xxx",
+            "context_title": "L’annonce du changement",
+            "context_description": "Vous êtes DRH dans une société internationale de services financiers. Un jour, votre patron vous dit que la cafétéria de l’entreprise va devenir totalement vegan. Et la bonne nouvelle est que : c’est vous qui allez l’annoncer à toute l’équipe !",
+            "context_media_description": "",
+            "template": "Bonjour à tous, {{sel63083}}",
+            "choice_4JlUor9B5S": "On m’a demandé de vous dire cela…",
+            "choice_Ek~IsBqB9S": "Je ne veux pas provoquer de panique mais…",
+            "choice_E1pG8cr5S": "J’ai fait tout ce que j’ai pu pour arrêter cela, mais…",
+            "choice_41yVL9S9r": "Nous allons essayer quelque chose de nouveau"
+        },
+        "de": {
+            "header": "Wie sollten Sie Ihre Ankündigung beginnen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Eigene Veränderung durch volles Engagement und Glauben an die Vorteile. Wenn Sie nur zu 50% verpflichtet sind, können Sie von allen anderen viel weniger erwarten.",
+            "tips": "Laut der amerikanischen Change-Management-Gesellschaft <i>Prosci</i> besteht ein <i>enger</i> Zusammenhang zwischen dem Erfolg einer Change-Initiative und der Frage, wie gut die People-Seite verwaltet wurde. Änderungsprojekte mit exzellentem Änderungsmanagement erreichen sechsmal häufiger die Ziele und Ergebnisse.",
+            "clue": "xxx",
+            "context_title": "Die Zeiten ändern sich'",
+            "context_description": "Sie sind Personalleiter in einem internationalen Finanzdienstleistungsunternehmen. Eines Tages sagt Ihnen Ihr Chef, dass die Cafeteria des Büros voll vegan wird. Und die gute Nachricht ist: Es liegt in Ihrer Verantwortung, es dem gesamten Team mitzuteilen!",
+            "context_media_description": "",
+            "template": "Hallo zusammen. {{sel63083}}",
+            "choice_4JlUor9B5S": "Mir wurde gesagt, dass ich Ihnen sagen soll…",
+            "choice_Ek~IsBqB9S": "Ich möchte keine Panik auslösen, aber…",
+            "choice_E1pG8cr5S": "Ich habe alles getan, um es zu stoppen, aber…",
+            "choice_41yVL9S9r": "Es gibt etwas Neues, das wir versuchen werden"
+        },
+        "th": {
+            "header": "How should you start your announcement?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Own change by being fully committed and believing in its benefits. If you’re only 50 % committed, you can expect much less from everyone else.",
+            "tips": "According to the American change management company <i>Prosci</i>, there is a strong correlation between the success of a change initiative and how well the people side was managed. Change projects with excellent change management are six times more likely to meet objectives and outcomes.",
+            "clue": "xxx",
+            "context_title": "The Times They Are a-Changin’",
+            "context_description": "You’re a director of human resources in an international financial services company. One day, your boss tells you that the office cafeteria is going to go full vegan. And the good news is: it’s your responsibility to announce it to the entire team!",
+            "context_media_description": "",
+            "template": "Hello, everyone. {{sel63083}}",
+            "choice_4JlUor9B5S": "I’ve been told to tell you that…",
+            "choice_Ek~IsBqB9S": "I don’t want to cause panic but…",
+            "choice_E1pG8cr5S": "I did everything to stop it but…",
+            "choice_41yVL9S9r": "There’s something new we’re going to try"
+        }
+    }
+}

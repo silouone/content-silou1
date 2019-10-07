@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T14:48:05.166Z",
+            "updatedAt": "2019-01-23T15:27:15.373Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ewaPy1U"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E10alK1JL",
+        "universalRef": "sli_E10alK1JL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E10alK1JL.choice_N1KfbYykL.id",
+                        "label": "choice_N1KfbYykL",
+                        "value": "choice_N1KfbYykL"
+                    },
+                    {
+                        "id": "sli_E10alK1JL.choice_VkNVWty1U.id",
+                        "label": "choice_VkNVWty1U",
+                        "value": "choice_VkNVWty1U"
+                    },
+                    {
+                        "id": "sli_E10alK1JL.choice_NJTd~YyJI.id",
+                        "label": "choice_NJTd~YyJI",
+                        "value": "choice_NJTd~YyJI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1KfbYykL",
+                        "choice_VkNVWty1U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to structure a discussion at a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Circulating material before the meeting and debating the issue point-by-point is essential to structure a discussion during the meeting.",
+            "tips": "Debate the evidence. Listen to the arguments. Encourage open discussion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1KfbYykL": "Circulate any material for discussion before the meeting",
+            "choice_VkNVWty1U": "Control the discussion by debating the issue point by point, listening to everyone’s concerns",
+            "choice_NJTd~YyJI": "Stop the meeting if no agreement has been made"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen de structurer une discussion en réunion ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Diffuser les supports d’information avant la réunion et débattre de la problématique point par point est essentiel à toute discussion structurée lors d’une réunion.",
+            "tips": "Débattre des faits. Écouter les différents points de vue. Encourager la discussion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1KfbYykL": "Diffuser tout support pertinent pour la discussion avant la réunion",
+            "choice_VkNVWty1U": "Contrôler la discussion en abordant la problématique point par point, en écoutant les inquiétudes de chacun",
+            "choice_NJTd~YyJI": "Terminer la réunion si aucun accord n’a été trouvé"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um eine Diskussion in einem Meeting zu strukturieren?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Das Material vor dem Meeting in Umlauf zu bringen und Punkt für Punkt zu diskutieren, ist wichtig, um eine Diskussion während des Meetings zu strukturieren.",
+            "tips": "Debatte über die Beweise. Hören Sie sich die Argumente an. Ermutigen Sie zu einer offenen Diskussion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1KfbYykL": "Verteilen Sie jegliches Material zur Diskussion vor dem Meeting",
+            "choice_VkNVWty1U": "Kontrollieren Sie die Diskussion, indem Sie Punkt für Punkt über das Problem diskutieren und sich die Sorgen aller anhören",
+            "choice_NJTd~YyJI": "Beenden Sie die Besprechung, wenn keine Vereinbarung getroffen wurde"
+        },
+        "th": {
+            "header": "What’s the best way to structure a discussion at a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Circulating material before the meeting and debating the issue point-by-point is essential to structure a discussion during the meeting.",
+            "tips": "Debate the evidence. Listen to the arguments. Encourage open discussion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1KfbYykL": "Circulate any material for discussion before the meeting",
+            "choice_VkNVWty1U": "Control the discussion by debating the issue point by point, listening to everyone’s concerns",
+            "choice_NJTd~YyJI": "Stop the meeting if no agreement has been made"
+        }
+    }
+}

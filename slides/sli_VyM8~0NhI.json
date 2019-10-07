@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-15T09:57:06.646Z",
+            "updatedAt": "2019-05-20T08:59:36.144Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vyp8KAusU"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_VyM8~0NhI",
+        "universalRef": "sli_VyM8~0NhI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel77772",
+                        "items": [
+                            {
+                                "text": "choice_Ekx3u~R4hI",
+                                "value": "choice_Ekx3u~R4hI"
+                            },
+                            {
+                                "text": "choice_41bn-~R42L",
+                                "value": "choice_41bn-~R42L"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel42504",
+                        "items": [
+                            {
+                                "text": "choice_E1xXFbCE38",
+                                "value": "choice_E1xXFbCE38"
+                            },
+                            {
+                                "text": "choice_NkZXY~0Vh8",
+                                "value": "choice_NkZXY~0Vh8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel77772",
+                        "answers": [
+                            "choice_41bn-~R42L"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel42504",
+                        "answers": [
+                            "choice_E1xXFbCE38"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When you ask for help, what usually happens?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Research shows that asking for help does not weaken your power; it actually boosts it.",
+            "tips": "Overcoming obstacles alone is not a key to success. It is much more important to know one’s own strengths and weaknesses, and address the latter… by asking for help!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You {{sel77772}} your {{sel42504}}.",
+            "choice_Ekx3u~R4hI": "lower",
+            "choice_41bn-~R42L": "increase",
+            "choice_E1xXFbCE38": "power",
+            "choice_NkZXY~0Vh8": "salary"
+        },
+        "fr": {
+            "header": "Lorsque vous demandez de l'aide, que se passe-t-il généralement ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Les études montrent que demander de l'aide n'affaiblit pas votre pouvoir ; en réalité, ça le booste.",
+            "tips": "Surmonter les obstacles tout seul n'est pas la clé du succès. Il est bien plus important de connaître ses propres forces et faiblesses, et de s’attaquer à ces dernières… en demandant de l’aide !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Cela {{sel77772}} votre {{sel42504}} .",
+            "choice_Ekx3u~R4hI": "affaiblit",
+            "choice_41bn-~R42L": "booste",
+            "choice_E1xXFbCE38": "pouvoir",
+            "choice_NkZXY~0Vh8": "salaire"
+        },
+        "de": {
+            "header": "When you ask for help, what usually happens?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Research shows that asking for help does not weaken your power; it actually boosts it.",
+            "tips": "Overcoming obstacles alone is not a key to success. It is much more important to know one’s own strengths and weaknesses, and address the latter… by asking for help!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You {{sel77772}} your {{sel42504}}.",
+            "choice_Ekx3u~R4hI": "lower",
+            "choice_41bn-~R42L": "increase",
+            "choice_E1xXFbCE38": "power",
+            "choice_NkZXY~0Vh8": "salary"
+        },
+        "th": {
+            "header": "When you ask for help, what usually happens?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Research shows that asking for help does not weaken your power; it actually boosts it.",
+            "tips": "Overcoming obstacles alone is not a key to success. It is much more important to know one’s own strengths and weaknesses, and address the latter… by asking for help!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You {{sel77772}} your {{sel42504}}.",
+            "choice_Ekx3u~R4hI": "lower",
+            "choice_41bn-~R42L": "increase",
+            "choice_E1xXFbCE38": "power",
+            "choice_NkZXY~0Vh8": "salary"
+        }
+    }
+}

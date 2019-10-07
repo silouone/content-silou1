@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T15:43:28.767Z",
+            "updatedAt": "2019-02-18T15:47:31.565Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJP2Dh7rI"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_V1hw~6XHI",
+        "universalRef": "sli_V1hw~6XHI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1hw~6XHI.choice_VJwezpmrL.id",
+                        "label": "choice_VJwezpmrL",
+                        "value": "choice_VJwezpmrL"
+                    },
+                    {
+                        "id": "sli_V1hw~6XHI.choice_412efamSI.id",
+                        "label": "choice_412efamSI",
+                        "value": "choice_412efamSI"
+                    },
+                    {
+                        "id": "sli_V1hw~6XHI.choice_EJZ~G67BI.id",
+                        "label": "choice_EJZ~G67BI",
+                        "value": "choice_EJZ~G67BI"
+                    },
+                    {
+                        "id": "sli_V1hw~6XHI.choice_Vku~f6XBL.id",
+                        "label": "choice_Vku~f6XBL",
+                        "value": "choice_Vku~f6XBL"
+                    },
+                    {
+                        "id": "sli_V1hw~6XHI.choice_EkCbfp7H8.id",
+                        "label": "choice_EkCbfp7H8",
+                        "value": "choice_EkCbfp7H8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJwezpmrL",
+                        "choice_412efamSI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why does empathizing with a customer make a difference?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Empathizing shows your human side and allows you to create a bond with the customer.",
+            "tips": "‘A complaint is a chance to turn a customer into a lifelong friend.’ Richard Branson",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwezpmrL": "It shows a human side",
+            "choice_412efamSI": "It creates a bond with the customer",
+            "choice_EJZ~G67BI": "It shows you are on their side",
+            "choice_Vku~f6XBL": "It shows you’ll do anything to solve the issue",
+            "choice_EkCbfp7H8": "It means they are right"
+        },
+        "fr": {
+            "header": "En quoi le fait d'avoir de l'empathie pour un client fait-il une différence ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "L'empathie montre votre côté humain et vous permet de créer un lien avec le client.",
+            "tips": "« Une plainte est une chance de transformer un client en un vieil ami ». Richard Branson",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwezpmrL": "Cela montre un côté humain",
+            "choice_412efamSI": "Cela crée un lien avec le client",
+            "choice_EJZ~G67BI": "Cela montre que vous êtes de leur côté",
+            "choice_Vku~f6XBL": "Cela montre que vous ferez tout pour résoudre le problème",
+            "choice_EkCbfp7H8": "Cela signifie qu'ils ont raison"
+        },
+        "de": {
+            "header": "Warum macht das Einfühlungsvermögen bei Kunden einen Unterschied?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Empathie zeigt Ihre menschliche Seite und ermöglicht es Ihnen, eine Bindung zum Kunden aufzubauen.",
+            "tips": "\"Eine Beschwerde ist eine Chance, einen Kunden zu einem lebenslangen Freund zu machen.\" Richard Branson",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwezpmrL": "Es zeigt eine menschliche Seite",
+            "choice_412efamSI": "Es schafft eine Bindung zum Kunden",
+            "choice_EJZ~G67BI": "Es zeigt, dass Sie auf ihrer Seite sind",
+            "choice_Vku~f6XBL": "Es zeigt, dass Sie alles tun, um das Problem zu lösen",
+            "choice_EkCbfp7H8": "Das heißt, sie haben recht"
+        },
+        "th": {
+            "header": "Why does empathizing with a customer make a difference?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Empathizing shows your human side and allows you to create a bond with the customer.",
+            "tips": "‘A complaint is a chance to turn a customer into a lifelong friend.’ Richard Branson",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwezpmrL": "It shows a human side",
+            "choice_412efamSI": "It creates a bond with the customer",
+            "choice_EJZ~G67BI": "It shows you are on their side",
+            "choice_Vku~f6XBL": "It shows you’ll do anything to solve the issue",
+            "choice_EkCbfp7H8": "It means they are right"
+        }
+    }
+}

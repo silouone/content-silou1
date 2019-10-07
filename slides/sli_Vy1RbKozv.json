@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:21:27.248Z",
+            "updatedAt": "2019-08-08T16:23:06.463Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41GDaTvGw"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Vy1RbKozv",
+        "universalRef": "sli_Vy1RbKozv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vy1RbKozv.choice_4ygdxftoGv.id",
+                        "label": "choice_4ygdxftoGv",
+                        "value": "choice_4ygdxftoGv",
+                        "media": "med_N1uefYjGv"
+                    },
+                    {
+                        "id": "sli_Vy1RbKozv.choice_NylYxztjGD.id",
+                        "label": "choice_NylYxztjGD",
+                        "value": "choice_NylYxztjGD",
+                        "media": "med_NJKxMYjGP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NylYxztjGD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? A service adviser is just an intermediary, not the face of the organisation.",
+            "explanation": "Select the correct answer.",
+            "klf": "This is false! To the customer, as a service engineer, you are the organisation. This is why you must support it and be proud of your products and solutions.",
+            "tips": "Offering good service usually means more than simply solving a customer’s issue. Make a difference by always trying to go the extra mile.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygdxftoGv": "True",
+            "choice_NylYxztjGD": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Un conseiller de service n'est qu'un intermédiaire, pas le visage de l'entreprise.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "C'est faux ! Pour le client, en tant que technicien de maintenance, vous êtes l'entreprise. C'est pourquoi vous devez le soutenir et être fier de vos produits et de vos solutions.",
+            "tips": "Offrir un bon service signifie généralement plus que simplement résoudre le problème d'un client. Faites la différence en essayant toujours de faire un effort supplémentaire.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygdxftoGv": "Vrai",
+            "choice_NylYxztjGD": "Faux"
+        },
+        "de": {
+            "header": "True or false? A service adviser is just an intermediary, not the face of the organisation.",
+            "explanation": "Select the correct answer.",
+            "klf": "This is false! To the customer, as a service engineer, you are the organisation. This is why you must support it and be proud of your products and solutions.",
+            "tips": "Offering good service usually means more than simply solving a customer’s issue. Make a difference by always trying to go the extra mile.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygdxftoGv": "True",
+            "choice_NylYxztjGD": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ygdxftoGv": "",
+            "choice_NylYxztjGD": ""
+        }
+    }
+}

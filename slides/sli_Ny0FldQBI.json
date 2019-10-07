@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T09:58:25.505Z",
+            "updatedAt": "2019-02-18T13:33:41.205Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyS90kHNU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Ny0FldQBI",
+        "universalRef": "sli_Ny0FldQBI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ny0FldQBI.choice_411il-QHU.id",
+                        "label": "choice_411il-QHU",
+                        "value": "choice_411il-QHU"
+                    },
+                    {
+                        "id": "sli_Ny0FldQBI.choice_NJlJoeu7H8.id",
+                        "label": "choice_NJlJoeu7H8",
+                        "value": "choice_NJlJoeu7H8"
+                    },
+                    {
+                        "id": "sli_Ny0FldQBI.choice_VyesldXr8.id",
+                        "label": "choice_VyesldXr8",
+                        "value": "choice_VyesldXr8"
+                    },
+                    {
+                        "id": "sli_Ny0FldQBI.choice_N1~oe-7rL.id",
+                        "label": "choice_N1~oe-7rL",
+                        "value": "choice_N1~oe-7rL"
+                    },
+                    {
+                        "id": "sli_Ny0FldQBI.choice_V1Xsx-XHL.id",
+                        "label": "choice_V1Xsx-XHL",
+                        "value": "choice_V1Xsx-XHL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJlJoeu7H8",
+                        "choice_VyesldXr8",
+                        "choice_N1~oe-7rL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the below are guidelines to follow when giving criticism?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When giving criticism, listen to what the other person has to say. Make sure you do not criticise the person but only his or her actions. Give reasons for your criticism, powerful arguments that justify it. Finally, make sure the mistake will be corrected.",
+            "tips": "A good practice when giving criticism is to agree together on measures that will be taken by the person concerned to correct the mistake.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_411il-QHU": "Criticising the person",
+            "choice_NJlJoeu7H8": "Listening to the person",
+            "choice_VyesldXr8": "Providing arguments",
+            "choice_N1~oe-7rL": "Making sure the mistake will be corrected",
+            "choice_V1Xsx-XHL": "Criticising in public"
+        },
+        "fr": {
+            "header": "Parmi les propositions suivantes, quelles sont les conduites à suivre lorsque vous faites une critique ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsque que vous formulez une critique, écoutez ce que l'autre personne a à dire. Assurez-vous de ne pas critiquer la personne, mais seulement ses actions. Donnez les raisons de vos critiques, avec des arguments puissants qui les justifient. Enfin, assurez-vous que l'erreur sera corrigée.",
+            "tips": "Une critique consiste à se mettre d’accord sur les mesures que l’intéressé prendra pour corriger l’erreur.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_411il-QHU": "Critiquer la personne",
+            "choice_NJlJoeu7H8": "Ecouter la personne",
+            "choice_VyesldXr8": "Fournir des arguments",
+            "choice_N1~oe-7rL": "S'assurer que l'erreur sera corrigée",
+            "choice_V1Xsx-XHL": "Critiquer en public"
+        },
+        "de": {
+            "header": "Welche der folgenden Richtlinien sind bei der Kritik zu beachten?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Hören Sie bei der Kritik, was die andere Person zu sagen hat. Stellen Sie sicher, dass Sie die Person nicht kritisieren, sondern nur ihre Handlungen. Begründen Sie Ihre Kritik, kraftvolle Argumente, die dies rechtfertigen. Stellen Sie abschließend sicher, dass der Fehler korrigiert wird.",
+            "tips": "Bei der Kritik empfiehlt es sich, gemeinsam Maßnahmen zu vereinbaren, die von der betroffenen Person zur Behebung des Fehlers ergriffen werden.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_411il-QHU": "Die Person kritisieren",
+            "choice_NJlJoeu7H8": "Der Person zuhören",
+            "choice_VyesldXr8": "Argumente liefern",
+            "choice_N1~oe-7rL": "Stellen Sie sicher, dass der Fehler korrigiert wird",
+            "choice_V1Xsx-XHL": "Kritik in der Öffentlichkeit"
+        },
+        "th": {
+            "header": "Which of the below are guidelines to follow when giving criticism?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When giving criticism, listen to what the other person has to say. Make sure you do not criticise the person but only his or her actions. Give reasons for your criticism, powerful arguments that justify it. Finally, make sure the mistake will be corrected.",
+            "tips": "A good practice when giving criticism is to agree together on measures that will be taken by the person concerned to correct the mistake.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_411il-QHU": "Criticising the person",
+            "choice_NJlJoeu7H8": "Listening to the person",
+            "choice_VyesldXr8": "Providing arguments",
+            "choice_N1~oe-7rL": "Making sure the mistake will be corrected",
+            "choice_V1Xsx-XHL": "Criticising in public"
+        }
+    }
+}

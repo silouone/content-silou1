@@ -1,0 +1,141 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-30T16:12:10.987Z",
+            "updatedAt": "2019-07-31T13:55:02.621Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N19zIXl~w"
+            ],
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc"
+        },
+        "ref": "sli_4y2zGLYfw",
+        "universalRef": "sli_4y2zGLYfw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4y2zGLYfw.choice_4kVjiLFzP.id",
+                        "label": "choice_4kVjiLFzP",
+                        "value": "choice_4kVjiLFzP"
+                    },
+                    {
+                        "id": "sli_4y2zGLYfw.choice_NJ9W2UKzw.id",
+                        "label": "choice_NJ9W2UKzw",
+                        "value": "choice_NJ9W2UKzw"
+                    },
+                    {
+                        "id": "sli_4y2zGLYfw.choice_Vy2Wh8tfP.id",
+                        "label": "choice_Vy2Wh8tfP",
+                        "value": "choice_Vy2Wh8tfP"
+                    },
+                    {
+                        "id": "sli_4y2zGLYfw.choice_EJFHhLKzw.id",
+                        "label": "choice_EJFHhLKzw",
+                        "value": "choice_EJFHhLKzw"
+                    },
+                    {
+                        "id": "sli_4y2zGLYfw.choice_4kKYn8FfP.id",
+                        "label": "choice_4kKYn8FfP",
+                        "value": "choice_4kKYn8FfP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vy2Wh8tfP",
+                        "choice_EJFHhLKzw"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_V1mg3K5fw",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you react as a good salesperson?",
+            "explanation": "Select the correct answers.",
+            "klf": "A customer who doesn't understand your services or doesn't trust your product is not insulting you. It is your duty to constantly explain things, for it is always possible to explain things more clearly. The whole point is finding the right words. Exchange of information: that's the key. First, reinforce the connection with your customer: what are the precise reasons of their concern? Then, they should give you the opportunity to present your service properly.",
+            "tips": "There are many effective questioning techniques to know precisely what the customer wants. In many cases, customers are reluctant to buy because they don't know what they want or what they need. It's your job to help them!",
+            "clue": "",
+            "context_title": "The right person at the right place",
+            "context_description": "You just started working in a cosmetic beauty clinic. You already had various face-to-face appointments with customers and you feel comfortable with your subject. But you're about to deal with a rather unexpected situation. Mrs. Holloway is consulting you about a \"frowning problem\". You had no time but to make an introductory speech. Your customer interrupts you right away: 'I'm sorry', she says, 'but I don't feel comfortable with any of your techniques.'",
+            "context_media_description": "",
+            "choice_4kVjiLFzP": "You thank her for her visit in the most gently manner and invite her to leave",
+            "choice_NJ9W2UKzw": "You admit you're quite new in the business: you do not understand much about these techniques neither",
+            "choice_Vy2Wh8tfP": "You ask her about her concerns",
+            "choice_EJFHhLKzw": "I understand you have doubts: let me present you each process briefly, maybe you'll feel more comfortable with the topic then'",
+            "choice_4kKYn8FfP": "I understand: maybe you should look for another solution then'",
+            "choice_4kS6j8KfD": "You blame her for making you lose your time and invite her to leave",
+            "choice_41~ZhLKGD": "You just leave the room without saying anything"
+        },
+        "fr": {
+            "header": "Comment réagissez-vous en tant que bon vendeur ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Un client qui ne comprend pas vos services ou ne fait pas confiance à votre produit n'est pas insultant. Il est de votre devoir d'expliquer les choses constamment, car il est toujours possible d'être plus clair. L'important est de savoir trouver les mots justes. L'échange d'informations : c'est la clé. Tout d’abord, renforcez le lien avec votre client : quelles sont les raisons précises de son inquiétude ? Ensuite, il devrait vous donner l’occasion de présenter votre service correctement.",
+            "tips": "Il existe de nombreuses techniques de questionnement efficaces pour savoir précisément ce que veut le client. Dans de nombreux cas, les clients hésitent à acheter car ils ne savent pas ce qu'ils veulent ou ce dont ils ont besoin. C'est à vous de les aider !",
+            "clue": "",
+            "context_title": "La bonne personne au bon endroit",
+            "context_description": "Vous venez tout juste de commencer à travailler dans un institut de beauté. Vous avez déjà eu plusieurs rendez-vous en face à face avec des clients et vous vous sentez à l'aise avec votre sujet. Mais vous êtes sur le point de faire face à une situation plutôt inattendue. Mme Holloway vous consulte à propos d'un « problème de froncement de sourcils ». Vous venez à peine de commencer votre discours d'introduction que votre cliente vous interrompt immédiatement : « Je suis désolée, dit-elle, mais je ne me sens pas à l'aise avec vos techniques. »",
+            "context_media_description": "",
+            "choice_4kVjiLFzP": "Vous la remerciez très gentiment pour sa visite et l'invitez à partir.",
+            "choice_NJ9W2UKzw": "Vous admettez que vous êtes novice dans ce domaine : vous ne comprenez pas grand chose à ces techniques non plus",
+            "choice_Vy2Wh8tfP": "Vous lui demandez quelles sont ses inquiétudes",
+            "choice_EJFHhLKzw": "Je comprends que vous ayez des doutes : laissez-moi vous présenter brièvement chaque processus, peut-être qu'ensuite vous vous sentirez plus à l'aise avec la question",
+            "choice_4kKYn8FfP": "Je comprends : peut-être devriez-vous chercher une autre solution",
+            "choice_4kS6j8KfD": "",
+            "choice_41~ZhLKGD": ""
+        },
+        "de": {
+            "header": "How do you react as a good salesperson?",
+            "explanation": "Select the correct answers.",
+            "klf": "A customer who doesn't understand your services or doesn't trust your product is not insulting you. It is your duty to constantly explain things, for it is always possible to explain things more clearly. The whole point is finding the right words. Exchange of information: that's the key. First, reinforce the connection with your customer: what are the precise reasons of their concern? Then, they should give you the opportunity to present your service properly.",
+            "tips": "There are many effective questioning techniques to know precisely what the customer wants. In many cases, customers are reluctant to buy because they don't know what they want or what they need. It's your job to help them!",
+            "clue": "",
+            "context_title": "The right person at the right place",
+            "context_description": "You just started working in a cosmetic beauty clinic. You already had various face-to-face appointments with customers and you feel comfortable with your subject. But you're about to deal with a rather unexpected situation. Mrs. Holloway is consulting you about a \"frowning problem\". You had no time but to make an introductory speech. Your customer interrupts you right away: 'I'm sorry', she says, 'but I don't feel comfortable with any of your techniques.'",
+            "context_media_description": "",
+            "choice_4kVjiLFzP": "You thank her for her visit in the most gently manner and invite her to leave",
+            "choice_NJ9W2UKzw": "You admit you're quite new in the business: you do not understand much about these techniques neither",
+            "choice_Vy2Wh8tfP": "You ask her about her concerns",
+            "choice_EJFHhLKzw": "'I understand you have doubts: let me present you each process briefly, maybe you'll feel more comfortable with the topic then'",
+            "choice_4kKYn8FfP": "'I understand: maybe you should look for another solution then'",
+            "choice_4kS6j8KfD": "",
+            "choice_41~ZhLKGD": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kVjiLFzP": "",
+            "choice_4kS6j8KfD": "",
+            "choice_41~ZhLKGD": "",
+            "choice_NJ9W2UKzw": "",
+            "choice_Vy2Wh8tfP": "",
+            "choice_EJFHhLKzw": "",
+            "choice_4kKYn8FfP": ""
+        }
+    }
+}

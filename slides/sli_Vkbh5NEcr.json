@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T12:58:02.069Z",
+            "updatedAt": "2019-05-02T15:28:11.985Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yx5i8eqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_Vkbh5NEcr",
+        "universalRef": "sli_Vkbh5NEcr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vkbh5NEcr.choice_41rumr49B.id",
+                        "label": "choice_41rumr49B",
+                        "value": "choice_41rumr49B"
+                    },
+                    {
+                        "id": "sli_Vkbh5NEcr.choice_VyCRrrN5S.id",
+                        "label": "choice_VyCRrrN5S",
+                        "value": "choice_VyCRrrN5S"
+                    },
+                    {
+                        "id": "sli_Vkbh5NEcr.choice_V1rxUBEcr.id",
+                        "label": "choice_V1rxUBEcr",
+                        "value": "choice_V1rxUBEcr"
+                    },
+                    {
+                        "id": "sli_Vkbh5NEcr.choice_NyqELBVqS.id",
+                        "label": "choice_NyqELBVqS",
+                        "value": "choice_NyqELBVqS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyCRrrN5S",
+                        "choice_V1rxUBEcr"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_E1uJQSVqr",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which kind of statements should you favour to make sure you fulfil the Product Owner’s requirements?",
+            "explanation": "Select the correct answers.",
+            "klf": "Professional examination isn’t about your sole opinion, but rather about objective pros and cons and potential prospectives.",
+            "tips": "Everyone can assess, but providing genuine professional examination is harder and way more interesting for team decision-making.",
+            "clue": "",
+            "context_title": "The stress-relieving chicken strategy",
+            "context_description": "Newly recruited by a stress-relieving gadgets company, you have been chosen to be part of the product strategy meeting. As an introduction, the Product Owner specifies he doesn’t want any assessments about the new <i> Stressy Jessy</i>, but rather genuine professional examinations.",
+            "context_media_description": "",
+            "choice_41rumr49B": "Isn’t it too yellow for a chicken?",
+            "choice_VyCRrrN5S": "In the worst case, our competitors’ new product is so stress-relieving that our chicken will seem stressful beside it",
+            "choice_V1rxUBEcr": "If everything works out the way we expected, children from all over the world should love this new stress-relieving chicken",
+            "choice_NyqELBVqS": "I don’t like the way it looks at me. I find it kinda creepy…",
+            "null": ""
+        },
+        "fr": {
+            "header": "Quel type de déclaration devez-vous privilégier pour être certain de répondre aux attentes du Responsable produit ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Une évaluation professionnelle ne doit pas être fondée sur votre seule opinion, mais plutôt sur des avantages et inconvénients objectifs et sur des perspectives potentielles.",
+            "tips": "Tout le monde peut procéder à une évaluation, mais fournir une évaluation professionnelle est plus complexe et cela aboutit à une prise de décision en équipe plus intéressante.",
+            "clue": "",
+            "context_title": "La stratégie du poulet anti-stress",
+            "context_description": "Récemment recruté dans une entreprise de gadgets anti-stress, vous avez été sélectionné pour faire partie de la réunion de stratégie produit. Lors de son introduction, le Responsable produit précise qu’il n’attend pas une évaluation du nouveau <i>Gégé l'excité</i>, mais plutôt une véritable analyse professionnelle et experte.",
+            "context_media_description": "",
+            "choice_41rumr49B": "N’est-ce pas trop jaune pour un poulet ?",
+            "choice_VyCRrrN5S": "Dans le cas le plus pessimiste, le nouveau produit anti-stress de nos concurrents est si incroyable que notre poulet paraît stressant en comparaison",
+            "choice_V1rxUBEcr": "Si tout se passe comme nous l’avons prévu, les enfants du monde entier devraient adorer ce nouveau poulet anti-stress",
+            "choice_NyqELBVqS": "Je n’aime pas la façon dont il me regarde. Je le trouve quelque peu sinistre…"
+        },
+        "de": {
+            "header": "Welche Art von Aussagen sollten Sie bevorzugen, um sicherzustellen, dass Sie die Anforderungen des Product Owner erfüllen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Bei der professionellen Beurteilung geht es nicht um Ihre eigene Meinung, sondern um objektive Vor- und Nachteile und potenzielle Perspektiven.",
+            "tips": "Jeder kann beurteilen, aber eine professionelle Beurteilung ist anspruchsvoller und gleichzeitig interessanter für Teamentscheidungen.",
+            "clue": "",
+            "context_title": "Die stressabbauende Hühnerstrategie ",
+            "context_description": "Sie wurden kürzlich von einem Unternehmen für stressabbauende Gadgets rekrutiert und wurden als Teilnehmer des Produktstrategie-Meetings ausgewählt. Als Einführung gibt der Product Owner an, dass er keine Einschätzungen zum neuen <i>Stressy Jessy wünscht</i>, sondern eine tatsächlich professionelle Beurteilung.",
+            "context_media_description": "",
+            "choice_41rumr49B": "Ist es nicht zu gelb für ein Huhn?",
+            "choice_VyCRrrN5S": "Im schlimmsten Fall ist das neue Produkt unserer Konkurrenz so stressabbauend, dass unser Huhn nebenan stressig wirken wird",
+            "choice_V1rxUBEcr": "Wenn alles so läuft, wie wir es erwarten, dann sollten alle Kinder weltweit dieses neue stressabbauende Huhn lieben",
+            "choice_NyqELBVqS": "Ich mag es nicht, wie es auf mich ansieht. Ich finde es irgendwie unheimlich…",
+            "null": ""
+        },
+        "th": {
+            "header": "ข้อความแบบไหนที่คุณชื่นชอบ เพื่อให้แน่ใจว่าคุณตอบสนองข้อกำหนดของเจ้าของผลิตภัณฑ์",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "การทดสอบมาตรฐานวิชาชีพไม่ใช่ความคิดเห็นของคุณแต่เพียงผู้เดียว แต่เป็นข้อดีและข้อเสียอย่างเป็นกลางและทัศนะที่อาจมีขึ้น",
+            "tips": "ทุกคนสามารถประเมินผลได้ แต่การให้การทดสอบมาตรฐานวิชาชีพอย่างแท้จริงนั้นยากกว่าและน่าสนใจกว่ามากสำหรับการตัดสินใจเป็นทีม",
+            "clue": "",
+            "context_title": "กลยุทธ์ตุ๊กตาไก่คลาดเครียด",
+            "context_description": "เมื่อบริษัทแกดเจ็ตคลาดเครียดแห่งหนึ่งรับเข้าทำงานใหม่ๆ คุณถูกเลือกให้เป็นส่วนหนึ่งของการประชุมกลยุทธ์ผลิตภัณฑ์ เพื่อเป็นการแนะนำ เจ้าของผลิตภัณฑ์ระบุว่าเขาไม่ต้องการการประเมินใดๆ เกี่ยวกับ <i>Stressy Jessy</i> รุ่นใหม่ แต่ต้องการการทดสอบมาตรฐานวิชาชีพอย่างแท้จริงมากกว่า",
+            "context_media_description": "",
+            "choice_41rumr49B": "มันไม่เหลืองเกินไปสำหรับไก่เหรอ",
+            "choice_VyCRrrN5S": "ในกรณีที่เลวร้ายที่สุด ผลิตภัณฑ์ใหม่ของคู่แข่งของเราคลายเครียดได้ดีเสียจนไก่ของเราดูเครียดไปเลยเมื่อวางอยู่ข้างๆ กัน",
+            "choice_V1rxUBEcr": "ถ้าทุกสิ่งทุกอย่างเป็นไปตามทางที่เราคาดหวัง เด็กๆ จากทั่วโลกน่าจะหลงรักเจ้าไก่คลายเครียดรุ่นใหม่นี้",
+            "choice_NyqELBVqS": "ฉันไม่ชอบท่าทางที่มันมองมาเลย ฉันว่ามันดูน่ากลัว...",
+            "null": ""
+        }
+    }
+}

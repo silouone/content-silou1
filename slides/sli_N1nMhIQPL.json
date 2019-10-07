@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T15:04:35.077Z",
+            "updatedAt": "2019-03-20T09:22:37.330Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kJi1deDU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_N1nMhIQPL",
+        "universalRef": "sli_N1nMhIQPL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1nMhIQPL.choice_4yl~Nh87PU.id",
+                        "label": "choice_4yl~Nh87PU",
+                        "value": "choice_4yl~Nh87PU",
+                        "media": "med_41ZNnIXP8"
+                    },
+                    {
+                        "id": "sli_N1nMhIQPL.choice_NJg2SnIXwI.id",
+                        "label": "choice_NJg2SnIXwI",
+                        "value": "choice_NJg2SnIXwI",
+                        "media": "med_Vy3BnLQwU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJg2SnIXwI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Events, not beliefs, cause distress. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Beliefs, not events, cause distress: figure out which beliefs are getting you upset.",
+            "tips": "‘We have two ears and one mouth so that we can listen twice as much as we speak.’",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yl~Nh87PU": "TRUE",
+            "choice_NJg2SnIXwI": "FALSE"
+        },
+        "fr": {
+            "header": "Les événements, et non les croyances, provoquent l'anxiété. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les croyances, et non les événements, provoquent l'anxiété : déterminez quelles croyances vous bouleversent.",
+            "tips": "« Nous avons deux oreilles et une bouche pour écouter deux fois plus que nous parlons. »<br/> Cette citation, attribuée à Epictète, peut être un bon conseil à suivre en matière d'empathie !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yl~Nh87PU": "VRAI",
+            "choice_NJg2SnIXwI": "FAUX"
+        },
+        "de": {
+            "header": "Events, not beliefs, cause distress. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Beliefs, not events, cause distress: figure out which beliefs are getting you upset.",
+            "tips": "‘We have two ears and one mouth so that we can listen twice as much as we speak.’\n<br/> This quote attributed to Epictetus can be a good advice to follow when it comes to empathy!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yl~Nh87PU": "True",
+            "choice_NJg2SnIXwI": "False"
+        },
+        "th": {
+            "header": "Events, not beliefs, cause distress. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Beliefs, not events, cause distress: figure out which beliefs are getting you upset.",
+            "tips": "‘We have two ears and one mouth so that we can listen twice as much as we speak.’",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yl~Nh87PU": "TRUE",
+            "choice_NJg2SnIXwI": "FALSE"
+        }
+    }
+}

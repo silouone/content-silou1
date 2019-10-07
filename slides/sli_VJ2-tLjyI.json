@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-13T14:32:15.517Z",
+            "updatedAt": "2019-01-21T16:23:03.085Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJRCREXkL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VJ2-tLjyI",
+        "universalRef": "sli_VJ2-tLjyI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJ2-tLjyI.choice_EyMOcLo1L.id",
+                        "label": "choice_EyMOcLo1L",
+                        "value": "choice_EyMOcLo1L"
+                    },
+                    {
+                        "id": "sli_VJ2-tLjyI.choice_NkQd58oyL.id",
+                        "label": "choice_NkQd58oyL",
+                        "value": "choice_NkQd58oyL"
+                    },
+                    {
+                        "id": "sli_VJ2-tLjyI.choice_EkNu9UsyU.id",
+                        "label": "choice_EkNu9UsyU",
+                        "value": "choice_EkNu9UsyU"
+                    },
+                    {
+                        "id": "sli_VJ2-tLjyI.choice_N1r-qUsJI.id",
+                        "label": "choice_N1r-qUsJI",
+                        "value": "choice_N1r-qUsJI"
+                    },
+                    {
+                        "id": "sli_VJ2-tLjyI.choice_Ekpb3Ui1I.id",
+                        "label": "choice_Ekpb3Ui1I",
+                        "value": "choice_Ekpb3Ui1I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkNu9UsyU",
+                        "choice_Ekpb3Ui1I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "One of your employees, Sarah, performed outstandingly well this month. Should you spread the word in the rest of the company, and why or why not?",
+            "explanation": "Select the 2 correct answers.",
+            "klf": "People react positively when their work is praised, because they feel valued. It boosts their satisfaction and their productivity, and it encourages them to keep giving their best.",
+            "tips": "In a study conducted by the University of Michigan, participants were asked to solve the Duncker's candle problem. Half of them were told to ask friends to send them an email just before their participation, to remind them about a time when they achieved something great. 51% of those who had received an e-mail just before the task managed to solve the problem, when only 19% of those who did not receive an e-mail succeeded.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMOcLo1L": "You should: that's the best way to level standards upwards. Indeed, a little jealousy never killed nobody!",
+            "choice_NkQd58oyL": "You shouldn't: it will get to her head and she will rest on her laurels.",
+            "choice_EkNu9UsyU": "You should: her achievements deserve to be shared with the others. You're one big team after all, the success of one of you benefits to everybody!",
+            "choice_N1r-qUsJI": "You shouldn't: you can't go around and sing everybody's praises all the time. You're not here to mother them.",
+            "choice_Ekpb3Ui1I": "You should: if she feels valued, it will encourage her on this path. It's a virtuous circle!"
+        },
+        "fr": {
+            "header": "L’une de vos employés, Sarah, a réalisé d’excellentes performances ce mois-ci. Devez-vous annoncer ses exploits au reste de l’entreprise, et si oui/non, pourquoi ?",
+            "explanation": "Sélectionner 2 réponses correctes.",
+            "klf": "Les personnes réagissent de manière positive lorsqu’on fait l’éloge de leur travail, parce qu’elles se sentent valorisées. Cela stimule leur satisfaction et leur productivité, et les encourage à faire de leur mieux.",
+            "tips": "D’après une étude menée par l’Université du Michigan, on a demandé à des volontaires de résoudre le problème de la bougie de Duncker. La moitié d’entre eux devaient demander à des amis de leur envoyer un e-mail juste avant leur participation, pour les inviter à se remémorer un jour où ils avaient accompli quelque chose d’exceptionnel. 51 % de ceux qui avaient reçu un e-mail juste avant de réaliser la tâche ont réussi à résoudre le problème, alors que seuls 19 % de ceux qui n’avaient pas reçu d’e-mail y sont parvenus.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMOcLo1L": "Vous devez le faire : c’est le meilleur moyen d’élever le niveau. D’ailleurs, un peu de jalousie n’a jamais fait de mal à personne !",
+            "choice_NkQd58oyL": "Vous ne devez pas le faire : cela la mettra sur un piédestal et elle se reposera sur ses lauriers.",
+            "choice_EkNu9UsyU": "Vous devez le faire : ses exploits méritent d’être partagés avec les autres. Vous formez tous une grande équipe après tout, le succès des uns et des autres bénéficie à tous !",
+            "choice_N1r-qUsJI": "Vous ne devez pas le faire : vous ne pouvez pas circuler parmi vos collaborateurs et faire l’éloge d’une personne en permanence. Vous n’êtes pas là pour les materner.",
+            "choice_Ekpb3Ui1I": "Vous devez le faire : si elle se sent valorisée, cela l’encouragera dans ses efforts. C’est un cercle vertueux !"
+        },
+        "de": {
+            "header": "Eine Ihrer Angestellten, Sarah, hat diesen Monat hervorragende Arbeit geleistet. Sollten Sie die Nachricht im Rest des Unternehmens verbreiten, und warum/ warum nicht?",
+            "explanation": "Wählen Sie die 2 richtigen Antworten aus.",
+            "klf": "Menschen reagieren positiv, wenn ihre Arbeit gelobt wird, weil sie sich wertgeschätzt fühlen. Es steigert ihre Zufriedenheit und ihre Produktivität und ermutigt sie, weiterhin ihr Bestes zu geben.",
+            "tips": "In einer von der University of Michigan durchgeführten Studie wurden die Teilnehmer aufgefordert, das Kerzenproblem von Duncker zu lösen. Die Hälfte von ihnen wurde aufgefordert, Freunde zu bitten, ihnen kurz vor ihrer Teilnahme eine E-Mail zu senden, um sie an einen Zeitpunkt zu erinnern, an dem sie etwas Großes erreicht hatten. 51% derjenigen, die kurz vor der Aufgabe eine E-Mail erhalten hatten, konnten das Problem lösen, während nur 19% derjenigen, die keine E-Mail erhielten, erfolgreich waren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMOcLo1L": "Sie sollten: Dies ist der beste Weg, um die Standards nach oben zu bringen. In der Tat hat eine kleine Eifersucht bisher niemanden geschadet!",
+            "choice_NkQd58oyL": "Du solltest nicht: es wird ihr zu Kopf steigen und sie wird sich auf ihren Lorbeeren ausruhen.",
+            "choice_EkNu9UsyU": "Sie sollten: Ihre Erfolge verdienen es, mit den anderen geteilt zu werden. Sie sind immerhin ein großes Team, der Erfolg eines einzelnen von Ihnen ist für alle von Vorteil!",
+            "choice_N1r-qUsJI": "Du solltest nicht: Du kannst nicht herumgehen und die ganze Zeit das Lob aller singen. Du bist nicht hier, um sie zu bemuttern.",
+            "choice_Ekpb3Ui1I": "Sie sollten: Wenn sie sich geschätzt fühlt, wird sie sie auf diesem Weg ermutigen. Es ist ein positiver Kreislauf!"
+        },
+        "th": {
+            "header": "ซาราห์ หนึ่งในพนักงานของคุณทำงานได้โดดเด่นมากในเดือนนี้ คุณควรจะบอกให้ทุกคนในบริษัทรับรู้หรือไม่ และเหตุผลที่ควรหรือไม่ควรบอก",
+            "explanation": "เลือกคำตอบที่ถูกต้อง 2 ข้อ",
+            "klf": "ผู้คนจะตอบสนองในแง่บวก หากงานของพวกเขาได้รับการยกย่องชื่นชม เพราะพวกเขาจะรู้สึกว่าตัวเองมีคุณค่า เป็นการช่วยเพิ่มความพึงพอใจและความสามารถในการผลิต และยังกระตุ้นให้พวกเขาทำงานอย่างเต็มที่",
+            "tips": "ในการศึกษาที่จัดทำโดยมหาวิทยาลัยมิชิแกน มีการขอให้ผู้เข้าร่วมแก้ปัญหาเทียนไขของ Duncker วิธีการคือให้ผู้เข้าร่วมครึ่งหนึ่งขอให้เพื่อนๆ ส่งอีเมลหาพวกเขาก่อนจะเข้าร่วมทดสอบ เพื่อเตือนความจำเกี่ยวกับเรื่องราวความสำเร็จในอดีตของผู้เข้าร่วม 51% ของผู้ที่ได้รับอีเมลก่อนจะเริ่มจัดการงานนั้นสามารถแก้ปัญหาได้ ขณะที่มีเพียง 19% ของผู้ที่ไม่ได้รับอีเมลที่แก้ปัญหาได้",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyMOcLo1L": "ควรบอก: นั่นเป็นวิธีที่ดีที่สุดในการยกระดับมาตรฐานให้สูงขึ้น แน่นอน ความอิจฉาเล็กๆ น้อยๆ ไม่ทำใครตายหรอก!",
+            "choice_NkQd58oyL": "ไม่ควรบอก: เธอจะเชื่อว่าตัวเองประสบความสำเร็จเสียเหลือเกิน และจะพอใจกับความสำเร็จอยู่แค่นั้น",
+            "choice_EkNu9UsyU": "ควรบอก: ความสำเร็จของเธอสมควรที่จะให้คนอื่นได้รับรู้ คุณคือทีมขนาดใหญ่ทีมหนึ่ง ไม่ว่าจะอย่างไรก็ตาม ความสำเร็จของคนๆ หนึ่งก็ให้ประโยชน์กับทุกคน!",
+            "choice_N1r-qUsJI": "ไม่ควรบอก: คุณจะเที่ยวไปป่าวประกาศชมเชยความสำเร็จของผู้อื่นตลอดเวลาไม่ได้ คุณต้องไม่ทำตัวเหมือนเป็นแม่ของพวกเขา",
+            "choice_Ekpb3Ui1I": "ควรบอก: หากเธอรู้สึกว่าตัวเองมีคุณค่า ก็จะช่วยสนับสนุนให้เธอทำได้ดีขึ้นไปอีก นั่นคือวงจรที่ให้ผลลัพธ์น่าพอใจ!"
+        }
+    }
+}

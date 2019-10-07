@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T09:48:52.004Z",
+            "updatedAt": "2019-02-18T13:32:28.736Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyS90kHNU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VJg3avmBU",
+        "universalRef": "sli_VJg3avmBU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel64083",
+                        "items": [
+                            {
+                                "text": "choice_4Jg~YRwQH8",
+                                "value": "choice_4Jg~YRwQH8"
+                            },
+                            {
+                                "text": "choice_4ybZtCwmBL",
+                                "value": "choice_4ybZtCwmBL"
+                            },
+                            {
+                                "text": "choice_NkjKCvQBI",
+                                "value": "choice_NkjKCvQBI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel64083",
+                        "answers": [
+                            "choice_NkjKCvQBI"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_N1Nt1O7S8",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you react to the mistake Mary made?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you have to give criticism, speak face-to-face and in private. Don’t wait so that the first time he or she hears about the problem is at the performance review. Ask questions and listen to their point of view.",
+            "tips": "Although you should not wait too long to give criticism, it is essential to find the right timing. If you’re feeling angry or anxious, it’s probably not the right moment to have a conversation.",
+            "clue": "",
+            "context_title": "Dealing with employee mistakes",
+            "context_description": "You’ve just been scolded by your boss: an application you submitted for a construction permit was rejected because Mary, one of your employees, forgot to include the technical report.",
+            "context_media_description": "",
+            "template": "You should {{sel64083}}",
+            "choice_4Jg~YRwQH8": "wait for next week to tell her.",
+            "choice_4ybZtCwmBL": "tell her in front of the whole office.",
+            "choice_NkjKCvQBI": "have a private conversation with her."
+        },
+        "fr": {
+            "header": "Comment devriez-vous réagir à l'erreur de Mary ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsque vous devez faire une critique, parlez en face à face et en privé. N’attendez pas l’évaluation de performances pour le faire savoir à l'intéressé. Posez des questions et écoutez son point de vue.",
+            "tips": "Bien qu'il ne faille pas attendre trop longtemps pour formuler une critique, il est essentiel de trouver le bon moment. Si vous vous sentez énervé ou soucieux, ce n’est probablement pas le bon moment pour engager une conversation.",
+            "clue": "",
+            "context_title": "Gérer les erreurs des employés",
+            "context_description": "Vous venez de vous faire disputé par votre patron : une demande de permis de construire que vous avez soumise a été rejetée car Mary, l'une de vos employées,  a oublié d'y inclure le rapport technique.",
+            "context_media_description": "",
+            "template": "Vous devriez {{sel64083}}",
+            "choice_4Jg~YRwQH8": "attendre la semaine suivante pour le lui dire.",
+            "choice_4ybZtCwmBL": "lui dire devant tout le bureau.",
+            "choice_NkjKCvQBI": "avoir une conversation privée avec elle."
+        },
+        "de": {
+            "header": "Wie solltest du auf den Fehler reagieren, den Maria begangen hat?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie Kritik äußern müssen, sprechen Sie persönlich und privat. Warten Sie nicht, sodass das erste Mal das Problem bei der Leistungsüberprüfung auftritt. Stellen Sie Fragen und hören Sie sich ihren Standpunkt an.",
+            "tips": "Sie sollten zwar nicht zu lange warten, um Kritik zu äußern, aber es ist wichtig, den richtigen Zeitpunkt zu finden. Wenn Sie sich wütend oder ängstlich fühlen, ist es wahrscheinlich nicht der richtige Moment, um ein Gespräch zu führen.",
+            "clue": "",
+            "context_title": "Umgang mit Mitarbeiterfehlern",
+            "context_description": "Sie wurden gerade von Ihrem Chef beschimpft: Ihr Antrag auf Baugenehmigung wurde abgelehnt, weil Mary, eine Ihrer Angestellten, vergessen hatte, den technischen Bericht beizufügen.",
+            "context_media_description": "",
+            "template": "Sie sollten {{sel64083}}",
+            "choice_4Jg~YRwQH8": "auf die nächste Woche warten, um es ihr zu sagen.",
+            "choice_4ybZtCwmBL": "es ihr vor dem ganzen Büro sagen.",
+            "choice_NkjKCvQBI": "ein privates Gespräch mit ihr führen."
+        },
+        "th": {
+            "header": "How should you react to the mistake Mary made?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you have to give criticism, speak face-to-face and in private. Don’t wait so that the first time he or she hears about the problem is at the performance review. Ask questions and listen to their point of view.",
+            "tips": "Although you should not wait too long to give criticism, it is essential to find the right timing. If you’re feeling angry or anxious, it’s probably not the right moment to have a conversation.",
+            "clue": "",
+            "context_title": "Dealing with employee mistakes",
+            "context_description": "You’ve just been scolded by your boss: an application you submitted for a construction permit was rejected because Mary, one of your employees, forgot to include the technical report.",
+            "context_media_description": "",
+            "template": "You should {{sel64083}}",
+            "choice_4Jg~YRwQH8": "wait for next week to tell her.",
+            "choice_4ybZtCwmBL": "tell her in front of the whole office.",
+            "choice_NkjKCvQBI": "have a private conversation with her."
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-07T10:47:34.012Z",
+            "updatedAt": "2019-07-05T10:10:13.971Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-02-07T10:46:58.209Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_41psRVmyU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Vitaplaisance",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "mod_4J7pRNQ1U",
+        "universalRef": "mod_4J7pRNQ1U",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_E1TPndo1I",
+            "skill_4yAP3ujJL",
+            "skill_EJyOnOiJI"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "validate"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_E1TPndo1I": "Provide the right information to keep your troops stimulated",
+            "skill_4yAP3ujJL": "Use positive feedback and constructive criticism as a lever of motivation",
+            "skill_EJyOnOiJI": "Praise with power!"
+        },
+        "fr": {
+            "skill_E1TPndo1I": "Fournir les bonnes informations afin de maintenir vos collaborateurs motivés",
+            "skill_4yAP3ujJL": "Utiliser un feedback positif et des critiques constructives pour stimuler la motivation",
+            "skill_EJyOnOiJI": "Féliciter de manière convaincante !"
+        },
+        "de": {
+            "skill_E1TPndo1I": "Geben Sie die richtigen Informationen an, um Ihre Truppen zu stimulieren",
+            "skill_4yAP3ujJL": "Nutzen Sie positives Feedback und konstruktive Kritik als Motivationshebel",
+            "skill_EJyOnOiJI": "Lob mit Macht!"
+        },
+        "th": {
+            "skill_E1TPndo1I": "ให้ข้อมูลที่ถูกต้องเหมาะสมเพื่อคอยกระตุ้นทีมของคุณ",
+            "skill_4yAP3ujJL": "ใช้คำชมในแง่บวกและคำวิจารณ์เชิงสร้างสรรค์เป็นสิ่งกระตุ้นแรงจูงใจ",
+            "skill_EJyOnOiJI": "ชื่นชมพร้อมสร้างแรงผลักดันทางบวก!"
+        }
+    }
+}

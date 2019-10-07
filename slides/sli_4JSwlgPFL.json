@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T14:47:28.120Z",
+            "updatedAt": "2019-04-10T14:47:28.120Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1PFrXEt8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4JSwlgPFL",
+        "universalRef": "sli_4JSwlgPFL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JSwlgPFL.choice_NkLWbxwYL.id",
+                        "label": "choice_NkLWbxwYL",
+                        "value": "choice_NkLWbxwYL"
+                    },
+                    {
+                        "id": "sli_4JSwlgPFL.choice_EkTWbeDKU.id",
+                        "label": "choice_EkTWbeDKU",
+                        "value": "choice_EkTWbeDKU"
+                    },
+                    {
+                        "id": "sli_4JSwlgPFL.choice_4y7GZgvtU.id",
+                        "label": "choice_4y7GZgvtU",
+                        "value": "choice_4y7GZgvtU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkLWbxwYL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you present your weakness?",
+            "explanation": "Select the correct answer.",
+            "klf": "Admit your weakness at the start of your pitch, not at the end. Then immediately counter it with your strongest argument.",
+            "tips": "Admitting your weakness at the start is also the best way to be safe from the risk of having someone pointing it out before you do. Such a situation would greatly undermine your persuasive strength.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkLWbxwYL": "Admit your weakness first, then follow up immediately with your strongest argument",
+            "choice_EkTWbeDKU": "Sandwich your weakness in the middle of your proposal",
+            "choice_4y7GZgvtU": "Leave the admission of weakness until the end to leave your audience with a trusting feeling for you"
+        },
+        "fr": {
+            "header": "Comment devriez-vous présenter votre faiblesse ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Admettez votre faiblesse au début de votre argumentaire et non à la fin. Puis, contrez-la immédiatement avec votre argument le plus fort.",
+            "tips": "Admettre sa faiblesse dès le départ est également le meilleur moyen d’éviter que quelqu'un vous la fasse remarquer avant vous. Une telle situation affaiblirait considérablement votre pouvoir de persuasion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkLWbxwYL": "En l'admettant dès le début, puis en poursuivant immédiatement avec l'argument le plus fort",
+            "choice_EkTWbeDKU": "En la plaçant « en sandwich » au milieu de la proposition",
+            "choice_4y7GZgvtU": "En attendant la fin de la présentation pour l'admettre, afin de laisser l'auditoire sur un sentiment de confiance."
+        },
+        "de": {
+            "header": "How should you present your weakness?",
+            "explanation": "Select the correct answer.",
+            "klf": "Admit your weakness at the start of your pitch, not at the end. Then immediately counter it with your strongest argument.",
+            "tips": "Admitting your weakness at the start is also the best way to be safe from the risk of having someone pointing it out before you do. Such a situation would greatly undermine your persuasive strength.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkLWbxwYL": "Admit your weakness first, then follow up immediately with your strongest argument",
+            "choice_EkTWbeDKU": "Sandwich your weakness in the middle of your proposal",
+            "choice_4y7GZgvtU": "Leave the admission of weakness until the end to leave your audience with a trusting feeling for you"
+        },
+        "th": {
+            "header": "How should you present your weakness?",
+            "explanation": "Select the correct answer.",
+            "klf": "Admit your weakness at the start of your pitch, not at the end. Then immediately counter it with your strongest argument.",
+            "tips": "Admitting your weakness at the start is also the best way to be safe from the risk of having someone pointing it out before you do. Such a situation would greatly undermine your persuasive strength.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkLWbxwYL": "Admit your weakness first, then follow up immediately with your strongest argument",
+            "choice_EkTWbeDKU": "Sandwich your weakness in the middle of your proposal",
+            "choice_4y7GZgvtU": "Leave the admission of weakness until the end to leave your audience with a trusting feeling for you"
+        }
+    }
+}

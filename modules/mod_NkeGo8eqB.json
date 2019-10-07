@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-05T13:55:21.899Z",
+            "updatedAt": "2019-07-26T15:03:47.842Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2018-12-05T14:49:35.299Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_Vys1wBe9B"
+            ],
+            "status": "draft",
+            "modifiedBy": "antoinedumont",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "mod_NkeGo8eqB",
+        "universalRef": "mod_NkeGo8eqB",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_EkliAeD9S",
+            "skill_E1U7kZDcH",
+            "skill_4kbVybvqB"
+        ],
+        "ineligibleBattle": false,
+        "version": "3",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "validate"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_EkliAeD9S": "Give a voice to your whole team's ideas",
+            "skill_E1U7kZDcH": "Anticipate the outcomes of your strategy",
+            "skill_4kbVybvqB": "Ask the right question to collect useful answers"
+        },
+        "fr": {
+            "skill_EkliAeD9S": "Laissez l’ensemble de vos collaborateurs exprimer leurs idées",
+            "skill_E1U7kZDcH": "Anticipez les résultats de votre stratégie",
+            "skill_4kbVybvqB": "Posez la bonne question pour recueillir des réponses utiles"
+        },
+        "de": {
+            "skill_EkliAeD9S": "Geben Sie den Ideen Ihres gesamten Teams eine Stimme",
+            "skill_E1U7kZDcH": "Antizipieren Sie die Ergebnisse Ihrer Strategie",
+            "skill_4kbVybvqB": "Stellen Sie die richtige Frage, um hilfreiche Antworten zu erhalten"
+        },
+        "th": {
+            "skill_EkliAeD9S": "Give a voice to your whole team's ideas",
+            "skill_E1U7kZDcH": "Anticipate the outcomes of your strategy",
+            "skill_4kbVybvqB": "Ask the right question to collect useful answers"
+        }
+    }
+}

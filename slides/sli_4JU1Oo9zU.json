@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T11:32:21.161Z",
+            "updatedAt": "2019-02-22T11:41:30.186Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1dhp1yML"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4JU1Oo9zU",
+        "universalRef": "sli_4JU1Oo9zU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4JU1Oo9zU.choice_N1GzuoqMI.id",
+                        "label": "choice_N1GzuoqMI",
+                        "value": "choice_N1GzuoqMI"
+                    },
+                    {
+                        "id": "sli_4JU1Oo9zU.choice_V1mzdo9GI.id",
+                        "label": "choice_V1mzdo9GI",
+                        "value": "choice_V1mzdo9GI"
+                    },
+                    {
+                        "id": "sli_4JU1Oo9zU.choice_EJSfOj5G8.id",
+                        "label": "choice_EJSfOj5G8",
+                        "value": "choice_EJSfOj5G8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1GzuoqMI",
+                        "choice_V1mzdo9GI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to tackle conflict between team members?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Address conflict right when it happens and deal with it head on. If you ignore a situation, it will only get worse: do not let conflict grow into resentment.",
+            "tips": "Avoiding intervention while a conflict is ongoing could make you lose the respect of your peers and staff. Your team expects you to have the courage to confront issues you encounter.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1GzuoqMI": "Don’t be afraid to intervene",
+            "choice_V1mzdo9GI": "Deal with it immediately, meet it head on",
+            "choice_EJSfOj5G8": "Ignore it, it will get resolved on its own"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen de résoudre un conflit entre les membres d'une même équipe ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Gérer le conflit dès qu'il survient et dignement. Si vous ignorez la situation, elle ne fera qu'empirer : ne laissez aucun conflit se transformer en ressentiment.",
+            "tips": "Ne pas intervenir lors d'un conflit peut vous faire perdre toute crédibilité auprès de vos confrères et de vos collaborateurs. Vos collaborateurs s'attendent à ce que vous ayez le courage d'affronter les problèmes que vous rencontrez.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1GzuoqMI": "Ne pas avoir peur d'intervenir",
+            "choice_V1mzdo9GI": "Gérer le problème immédiatement et dignement",
+            "choice_EJSfOj5G8": "L'ignorer, il finira par se résoudre tout seul"
+        },
+        "de": {
+            "header": "Wie kann man Konflikte zwischen Teammitgliedern am besten bewältigen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Sprechen Sie Konflikte an, wenn es passiert, und gehen Sie direkt darauf ein. Wenn Sie eine Situation ignorieren, wird es nur noch schlimmer: Lassen Sie Konflikte nicht zu Unmut werden.",
+            "tips": "Wenn Sie während eines Konflikts Eingreifen vermeiden, kann dies dazu führen, dass Sie den Respekt Ihrer Kollegen und Mitarbeiter verlieren. Ihr Team erwartet, dass Sie den Mut haben, sich mit Ihren Problemen auseinanderzusetzen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1GzuoqMI": "Scheuen Sie sich nicht, einzugreifen",
+            "choice_V1mzdo9GI": "Behandeln Sie es sofort, zielen Sie es direkt",
+            "choice_EJSfOj5G8": "Ignoriere es, es wird von alleine gelöst"
+        },
+        "th": {
+            "header": "What’s the best way to tackle conflict between team members?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Address conflict right when it happens and deal with it head on. If you ignore a situation, it will only get worse: do not let conflict grow into resentment.",
+            "tips": "Avoiding intervention while a conflict is ongoing could make you lose the respect of your peers and staff. Your team expects you to have the courage to confront issues you encounter.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1GzuoqMI": "Don’t be afraid to intervene",
+            "choice_V1mzdo9GI": "Deal with it immediately, meet it head on",
+            "choice_EJSfOj5G8": "Ignore it, it will get resolved on its own"
+        }
+    }
+}

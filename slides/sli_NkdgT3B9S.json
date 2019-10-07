@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T15:53:02.778Z",
+            "updatedAt": "2018-11-09T12:54:20.235Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyK1UI4qS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NkdgT3B9S",
+        "universalRef": "sli_NkdgT3B9S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkdgT3B9S.choice_4JWvTnH9S.id",
+                        "label": "choice_4JWvTnH9S",
+                        "value": "choice_4JWvTnH9S"
+                    },
+                    {
+                        "id": "sli_NkdgT3B9S.choice_NJG56hSqS.id",
+                        "label": "choice_NJG56hSqS",
+                        "value": "choice_NJG56hSqS"
+                    },
+                    {
+                        "id": "sli_NkdgT3B9S.choice_Nk65pnHcr.id",
+                        "label": "choice_Nk65pnHcr",
+                        "value": "choice_Nk65pnHcr"
+                    },
+                    {
+                        "id": "sli_NkdgT3B9S.choice_NyJsT2r9B.id",
+                        "label": "choice_NyJsT2r9B",
+                        "value": "choice_NyJsT2r9B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JWvTnH9S",
+                        "choice_NyJsT2r9B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You are implementing flexi-time at the office. Some coworkers tell you that this change makes them feel powerless and scared. What are the most appropriate reactions to their concern?",
+            "explanation": "Select the correct answers.",
+            "klf": "Listen to your coworkers' fears and allow them to vent their negativity. Then, show them how the change will benefit them and reassure them that they are a vital part of it.",
+            "tips": "Resisters might be unhappy with the organisational reward systems. They must be altered in order to support the desired change, as rewards are a powerful motivation factor.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JWvTnH9S": "‘I am very sorry that it makes you feel that way, but flexi-time does makes sense and it's not personal’",
+            "choice_NJG56hSqS": "‘So what is it that bothers you so much about flexi-time?’",
+            "choice_Nk65pnHcr": "‘Flexi-time is going to happen, with or without your support’",
+            "choice_NyJsT2r9B": "‘I need you on board, you're a very important part of the change’"
+        },
+        "fr": {
+            "header": "Vous mettez en œuvre un horaire de travail variable. Certains collaborateurs vous disent que ce changement provoque chez eux un sentiment d’impuissance et de peur. Quelles sont les réactions les plus adaptées à leurs craintes ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Écoutez les craintes de vos collègues et permettez-leur d’évacuer leur négativité. Prouvez-leur ensuite que le changement leur sera bénéfique et rassurez-les en leur disant que leur participation est essentielle.",
+            "tips": "Les opposants peuvent être mécontents du système de récompense de l’organisation. Il doit être modifié afin de soutenir le changement souhaité, car les récompenses constituent un facteur de motivation efficace.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JWvTnH9S": "« Je suis vraiment désolé que l’horaire de travail variable vous perturbe à ce point, mais il a toute son importance et cela n’a rien d’un choix personnel »",
+            "choice_NJG56hSqS": "« Alors, qu’est-ce qui vous perturbe autant avec cet horaire variable ? »",
+            "choice_Nk65pnHcr": "« L’horaire variable sera mis en œuvre avec ou sans votre soutien »",
+            "choice_NyJsT2r9B": "« J’ai besoin de votre adhésion, vous êtes un maillon important du changement »"
+        },
+        "de": {
+            "header": "Sie implementieren die Flexi-Time im Büro. Einige Kollegen sagen Ihnen, dass diese Veränderung sie machtlos und verängstigt macht. Was sind die angemessensten Reaktionen auf ihre Besorgnis?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Hören Sie sich die Ängste Ihrer Kollegen an und erlauben Sie ihnen, ihre Negativität abzulassen. Zeigen Sie ihnen dann, wie sie von der Veränderung profitieren können, und versichern Sie ihnen, dass sie ein wesentlicher Bestandteil davon sind.",
+            "tips": "Resisters sind mit den organisatorischen Belohnungssystemen möglicherweise nicht zufrieden. Sie müssen geändert werden, um die gewünschte Änderung zu unterstützen, da Belohnungen ein starker Motivationsfaktor sind.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JWvTnH9S": "Es tut mir sehr leid, dass Sie sich so fühlen, aber Flexi-Time ist sinnvoll und nicht persönlich.",
+            "choice_NJG56hSqS": "Was stört Sie also so sehr an der Flexi-Zeit?",
+            "choice_Nk65pnHcr": "Flexi-time wird passieren, mit oder ohne Ihre Unterstützung",
+            "choice_NyJsT2r9B": "Ich brauche dich an Bord, Sie sind ein sehr wichtiger Teil der Veränderung"
+        },
+        "th": {
+            "header": "You are implementing flexi-time at the office. Some coworkers tell you that this change makes them feel powerless and scared. What are the most appropriate reactions to their concern?",
+            "explanation": "Select the correct answers.",
+            "klf": "Listen to your coworkers' fears and allow them to vent their negativity. Then, show them how the change will benefit them and reassure them that they are a vital part of it.",
+            "tips": "Resisters might be unhappy with the organisational reward systems. They must be altered in order to support the desired change, as rewards are a powerful motivation factor.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JWvTnH9S": "‘I am very sorry that it makes you feel that way, but flexi-time does makes sense and it's not personal’",
+            "choice_NJG56hSqS": "‘So what is it that bothers you so much about flexi-time?’",
+            "choice_Nk65pnHcr": "‘Flexi-time is going to happen, with or without your support’",
+            "choice_NyJsT2r9B": "‘I need you on board, you're a very important part of the change’"
+        }
+    }
+}

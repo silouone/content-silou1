@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:50:49.992Z",
+            "updatedAt": "2019-08-01T07:56:48.931Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny7ja6vMD"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NyNC-tifP",
+        "universalRef": "sli_NyNC-tifP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyNC-tifP.choice_Ey8yYYszP.id",
+                        "label": "choice_Ey8yYYszP",
+                        "value": "choice_Ey8yYYszP"
+                    },
+                    {
+                        "id": "sli_NyNC-tifP.choice_4JwyYtifw.id",
+                        "label": "choice_4JwyYtifw",
+                        "value": "choice_4JwyYtifw"
+                    },
+                    {
+                        "id": "sli_NyNC-tifP.choice_V1BlYFsMw.id",
+                        "label": "choice_V1BlYFsMw",
+                        "value": "choice_V1BlYFsMw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ey8yYYszP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who should do most of the talking during the interview?",
+            "explanation": "Select the correct answer below.",
+            "klf": "That’s right. As an interviewer, you must let the candidate do most of the talking. Talking about yourself can help, but remember to listen more than you talk!",
+            "tips": "Try not to interrupt the candidate unless you sense they are unsure about something.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey8yYYszP": "The candidate",
+            "choice_4JwyYtifw": "The interviewer",
+            "choice_V1BlYFsMw": "Neither, it should be balanced"
+        },
+        "fr": {
+            "header": "Qui doit parler le plus pendant un entretien ?",
+            "explanation": "Sélectionnez la réponse correcte ci-dessous.",
+            "klf": "C'est vrai. En tant que recruteur, vous devez laisser le candidat s'exprimer le plus. Parler de vous peut aider, mais n'oubliez pas d'écouter plus que vous ne parlez !",
+            "tips": "Essayez de ne pas interrompre le candidat à moins que vous ne sentiez qu’il n’est pas certain de quelque chose.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey8yYYszP": "Le candidat",
+            "choice_4JwyYtifw": "Le recruteur",
+            "choice_V1BlYFsMw": "Ni l'un ni l'autre, cela doit être équilibré"
+        },
+        "de": {
+            "header": "Who should do most of the talking during the interview?",
+            "explanation": "Select the correct answer below.",
+            "klf": "That’s right. As an interviewer, you must let the candidate do most of the talking. Talking about yourself can help, but remember to listen more than you talk!",
+            "tips": "Try not to interrupt the candidate unless you sense they are unsure about something.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey8yYYszP": "The candidate",
+            "choice_4JwyYtifw": "The interviewer",
+            "choice_V1BlYFsMw": "Neither, it should be balanced"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ey8yYYszP": "",
+            "choice_4JwyYtifw": "",
+            "choice_V1BlYFsMw": ""
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T14:31:53.557Z",
+            "updatedAt": "2019-02-13T09:36:02.128Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JlYmR7EI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_Nk3qCRXE8",
+        "universalRef": "sli_Nk3qCRXE8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel20487",
+                        "items": [
+                            {
+                                "text": "choice_VyeWiA0mEU",
+                                "value": "choice_VyeWiA0mEU"
+                            },
+                            {
+                                "text": "choice_V1bZjR0QVL",
+                                "value": "choice_V1bZjR0QVL"
+                            },
+                            {
+                                "text": "choice_NJvhCCmN8",
+                                "value": "choice_NJvhCCmN8"
+                            },
+                            {
+                                "text": "choice_EJYnR0m4I",
+                                "value": "choice_EJYnR0m4I"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel20487",
+                        "answers": [
+                            "choice_VyeWiA0mEU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How easy is it to change your behaviour?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It's possible yo change and adapt your behaviour. What's more, it gets easier with practise and awareness.",
+            "tips": "If you have a particular behaviour you'd like to change, try focusing on the steps to achieving the goal one at a time instead of the end goal itself. It may seem too far away and hard to reach and discourage your efforts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel20487}}",
+            "choice_VyeWiA0mEU": "It gets easier with practice & awareness",
+            "choice_V1bZjR0QVL": "It’s very difficult to do",
+            "choice_NJvhCCmN8": "Only experts can do it",
+            "choice_EJYnR0m4I": "It’s impossible"
+        },
+        "fr": {
+            "header": "Est-il facile de changer de comportement ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il est possible de changer et d'adapter votre comportement. De plus, cela devient plus facile avec la pratique et le fait d'en avoir conscience.",
+            "tips": "Si vous souhaitez modifier un comportement particulier, essayez de vous concentrer sur les étapes à suivre pour atteindre votre objectif une par une, plutôt que sur l'objectif final en soi. Ce dernier peut sembler trop éloigné et difficile à atteindre, et décourager vos efforts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel20487}}",
+            "choice_VyeWiA0mEU": "Cela devient plus facile avec la pratique et le fait d'en avoir conscience",
+            "choice_V1bZjR0QVL": "C’est très difficile à faire",
+            "choice_NJvhCCmN8": "Seuls les experts peuvent le faire",
+            "choice_EJYnR0m4I": "C'est impossible"
+        },
+        "de": {
+            "header": "Wie einfach ist es, Ihr Verhalten zu ändern?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Es ist möglich, dass Sie Ihr Verhalten ändern und anpassen. Außerdem wird es durch Übung und Bewusstsein einfacher.",
+            "tips": "Wenn Sie ein bestimmtes Verhalten haben, das Sie ändern möchten, konzentrieren Sie sich auf die einzelnen Schritte zum Erreichen des Ziels und nicht auf das Endziel. Es scheint zu weit weg und zu schwierig, Ihre Bemühungen zu erreichen und zu entmutigen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel20487}}",
+            "choice_VyeWiA0mEU": "Mit Übung und Bewusstsein wird es einfacher",
+            "choice_V1bZjR0QVL": "Es ist sehr schwer zu tun",
+            "choice_NJvhCCmN8": "Das können nur Experten",
+            "choice_EJYnR0m4I": "Es ist unmöglich"
+        },
+        "th": {
+            "header": "How easy is it to change your behaviour?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It's possible yo change and adapt your behaviour. What's more, it gets easier with practise and awareness.",
+            "tips": "If you have a particular behaviour you'd like to change, try focusing on the steps to achieving the goal one at a time instead of the end goal itself. It may seem too far away and hard to reach and discourage your efforts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel20487}}",
+            "choice_VyeWiA0mEU": "It gets easier with practice & awareness",
+            "choice_V1bZjR0QVL": "It’s very difficult to do",
+            "choice_NJvhCCmN8": "Only experts can do it",
+            "choice_EJYnR0m4I": "It’s impossible"
+        }
+    }
+}

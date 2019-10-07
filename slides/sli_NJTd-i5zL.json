@@ -1,0 +1,124 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T11:35:41.144Z",
+            "updatedAt": "2019-02-22T11:42:15.649Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1dhp1yML"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJTd-i5zL",
+        "universalRef": "sli_NJTd-i5zL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJTd-i5zL.choice_VJyxYj5zL.id",
+                        "label": "choice_VJyxYj5zL",
+                        "value": "choice_VJyxYj5zL"
+                    },
+                    {
+                        "id": "sli_NJTd-i5zL.choice_NylgKj9GL.id",
+                        "label": "choice_NylgKj9GL",
+                        "value": "choice_NylgKj9GL"
+                    },
+                    {
+                        "id": "sli_NJTd-i5zL.choice_41feYicfU.id",
+                        "label": "choice_41feYicfU",
+                        "value": "choice_41feYicfU"
+                    },
+                    {
+                        "id": "sli_NJTd-i5zL.choice_EkXgYi5GL.id",
+                        "label": "choice_EkXgYi5GL",
+                        "value": "choice_EkXgYi5GL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41feYicfU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_V1jcShqGU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Based on the preceding context, what is the right attitude to adopt?",
+            "explanation": "Select the correct answer.",
+            "klf": "If a discussion grows heated during a meeting, do not wait until the next meeting. Treat both parties with trust and respect, and calmly work to ease tensions while keeping the discussion focused on the real issue.",
+            "tips": "The way we express our frustrations or points of view has a huge impact. A good method to avoid disagreements spinning out of control is to teach employees some basic communication techniques.",
+            "clue": "",
+            "context_title": "Dealing with conflict",
+            "context_description": "Your weekly team meeting is reaching its end, and one of your employees starts arguing with a colleague over a missed deadline. The conflict quickly heats up and the discussion gets out of control.",
+            "context_media_description": "",
+            "choice_VJyxYj5zL": "Do nothing. They are freely speaking their mind",
+            "choice_NylgKj9GL": "Be patient. Let it cool down until the next meeting",
+            "choice_41feYicfU": "Step in: intervene to calm things down and focus the discussion",
+            "choice_EkXgYi5GL": "Quickly take sides: who’s your favourite employee?"
+        },
+        "fr": {
+            "header": "Dans ce contexte, quelle est la bonne attitude à adopter ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si une discussion s'envenime lors d'une réunion, ne pas attendre la réunion suivante pour traiter le problème. Traiter les deux parties avec confiance et respect, et agir calmement pour apaiser les tensions tout en maintenant la discussion centrée sur la problématique concernée.",
+            "tips": "La manière dont nous exprimons nos frustrations ou nos points de vue a un énorme impact sur les autres personnes. Le meilleur moyen d'éviter que des désaccords deviennent incontrôlables est d'apprendre à vos collaborateurs quelques techniques de base en communication.",
+            "clue": "",
+            "context_title": "Résoudre des conflits",
+            "context_description": "Votre réunion d'équipe hebdomadaire est sur le point de se terminer et l'un de vos collaborateurs commence à se disputer avec un collègue à propos d'un délai non respecté. Le ton monte rapidement et la discussion dérape.",
+            "context_media_description": "",
+            "choice_VJyxYj5zL": "Ne rien faire. Ils expriment librement leur point de vue",
+            "choice_NylgKj9GL": "Être patient. Laisser les tensions s'apaiser jusqu'à la prochaine réunion",
+            "choice_41feYicfU": "Réagir : intervenir pour apaiser la situation et recentrer la discussion",
+            "choice_EkXgYi5GL": "Prendre parti rapidement : qui est votre collaborateur préféré ?"
+        },
+        "de": {
+            "header": "Was ist die richtige Einstellung, um auf der Grundlage des vorangehenden Kontextes zu handeln?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wenn eine Diskussion während eines Meetings schwierg wird, warten Sie nicht bis zum nächsten Meeting. Behandeln Sie beide Parteien mit Vertrauen und Respekt und arbeiten Sie in aller Ruhe daran, Spannungen abzubauen, während Sie die Diskussion auf das eigentliche Thema konzentrieren.",
+            "tips": "Die Art und Weise, wie wir unsere Frustrationen oder Ansichten ausdrücken, hat große Auswirkungen. Eine gute Methode, um Meinungsverschiedenheiten zu vermeiden, ist das Erlernen grundlegender Kommunikationstechniken.",
+            "clue": "",
+            "context_title": "Mit Konflikten klarkommen",
+            "context_description": "Ihr wöchentliches Team-Meeting ist zu Ende, und einer Ihrer Mitarbeiter fängt an, sich mit einem Kollegen über einen Termin zu streiten. Der Konflikt wird schnell hektisch und die Diskussion gerät außer Kontrolle.",
+            "context_media_description": "",
+            "choice_VJyxYj5zL": "Nichts tun. Sie sprechen ihre Gedanken frei aus",
+            "choice_NylgKj9GL": "Seien Sie geduldig. Lassen Sie es bis zum nächsten Meeting deeskalieren",
+            "choice_41feYicfU": "Greifen Sie ein: Intervenieren Sie, um die Dinge zu beruhigen und die Diskussion zu konzentrieren",
+            "choice_EkXgYi5GL": "Entscheiden Sie sich schnell für eine Seite: Wer ist Ihr Lieblingsmitarbeiter?"
+        },
+        "th": {
+            "header": "Based on the preceding context, what is the right attitude to adopt?",
+            "explanation": "Select the correct answer.",
+            "klf": "If a discussion grows heated during a meeting, do not wait until the next meeting. Treat both parties with trust and respect, and calmly work to ease tensions while keeping the discussion focused on the real issue.",
+            "tips": "The way we express our frustrations or points of view has a huge impact. A good method to avoid disagreements spinning out of control is to teach employees some basic communication techniques.",
+            "clue": "",
+            "context_title": "Dealing with conflict",
+            "context_description": "Your weekly team meeting is reaching its end, and one of your employees starts arguing with a colleague over a missed deadline. The conflict quickly heats up and the discussion gets out of control.",
+            "context_media_description": "",
+            "choice_VJyxYj5zL": "Do nothing. They are freely speaking their mind",
+            "choice_NylgKj9GL": "Be patient. Let it cool down until the next meeting",
+            "choice_41feYicfU": "Step in: intervene to calm things down and focus the discussion",
+            "choice_EkXgYi5GL": "Quickly take sides: who’s your favourite employee?"
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-11T15:53:22.978Z",
+            "updatedAt": "2019-08-05T10:18:08.651Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kTMaEjLL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_NyElhwJv8",
+        "universalRef": "sli_NyElhwJv8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyElhwJv8.choice_41gM3PJw8.id",
+                        "label": "choice_41gM3PJw8",
+                        "value": "choice_41gM3PJw8"
+                    },
+                    {
+                        "id": "sli_NyElhwJv8.choice_VkaMhw1v8.id",
+                        "label": "choice_VkaMhw1v8",
+                        "value": "choice_VkaMhw1v8"
+                    },
+                    {
+                        "id": "sli_NyElhwJv8.choice_NJYm2w1DU.id",
+                        "label": "choice_NJYm2w1DU",
+                        "value": "choice_NJYm2w1DU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJYm2w1DU",
+                        "choice_VkaMhw1v8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of these is part of a comprehensive action plan for solving absenteeism issues?",
+            "explanation": "Select the correct answers below.",
+            "klf": "The plan for solving absenteeism issues should be agreed by both parties and a process for monitoring progress should be set in place.",
+            "tips": "Providing a reward for employees who display good attendance throughout the year is good practice.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gM3PJw8": "A plan implemented by the manager",
+            "choice_VkaMhw1v8": "A plan agreed by both parties",
+            "choice_NJYm2w1DU": "A process for monitoring progress"
+        },
+        "fr": {
+            "header": "Parmi ces propositions, lesquelles font partie d’un plan d’action global pour résoudre les problèmes d’absentéisme ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Le plan de résolution des problèmes d'absentéisme devrait être approuvé par les deux parties (le manager et les employés) et un processus de suivi des progrès doit être mis en place.",
+            "tips": "Offrir une récompense aux employés qui affichent une bonne assiduité tout au long de l'année est une bonne pratique.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gM3PJw8": "Un plan mis en place par le manager",
+            "choice_VkaMhw1v8": "Un plan convenu par les deux parties",
+            "choice_NJYm2w1DU": "Un processus de suivi des progrès"
+        },
+        "de": {
+            "header": "Which of these is part of a comprehensive action plan for solving absenteeism issues? ",
+            "explanation": "Select the correct answers below.",
+            "klf": "The plan for solving absenteeism issues should be agreed by both parties and a process for monitoring progress should be set in place.",
+            "tips": "Providing a reward for employees who display good attendance throughout the year is good practice.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gM3PJw8": "A plan implemented by the manager",
+            "choice_VkaMhw1v8": "A plan agreed by both parties",
+            "choice_NJYm2w1DU": "A process for monitoring progress"
+        },
+        "th": {
+            "header": "Which of these is part of a comprehensive action plan for solving absenteeism issues?",
+            "explanation": "Select the correct answers below.",
+            "klf": "The plan for solving absenteeism issues should be agreed by both parties and a process for monitoring progress should be set in place.",
+            "tips": "Providing a reward for employees who display good attendance throughout the year is good practice.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41gM3PJw8": "A plan implemented by the manager",
+            "choice_VkaMhw1v8": "A plan agreed by both parties",
+            "choice_NJYm2w1DU": "A process for monitoring progress"
+        }
+    }
+}

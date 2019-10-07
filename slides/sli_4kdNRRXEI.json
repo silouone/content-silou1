@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T14:29:35.928Z",
+            "updatedAt": "2019-02-13T10:19:40.537Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JlYmR7EI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4kdNRRXEI",
+        "universalRef": "sli_4kdNRRXEI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kdNRRXEI.choice_EJyIR0mVU.id",
+                        "label": "choice_EJyIR0mVU",
+                        "value": "choice_EJyIR0mVU"
+                    },
+                    {
+                        "id": "sli_4kdNRRXEI.choice_Nyg8AA74I.id",
+                        "label": "choice_Nyg8AA74I",
+                        "value": "choice_Nyg8AA74I"
+                    },
+                    {
+                        "id": "sli_4kdNRRXEI.choice_E1WLACmNI.id",
+                        "label": "choice_E1WLACmNI",
+                        "value": "choice_E1WLACmNI"
+                    },
+                    {
+                        "id": "sli_4kdNRRXEI.choice_NJEIARmNU.id",
+                        "label": "choice_NJEIARmNU",
+                        "value": "choice_NJEIARmNU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nyg8AA74I",
+                        "choice_E1WLACmNI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What does good behaviour feel like?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Good behaviour feels positive and constructive. All the more reason to adopt it!",
+            "tips": "Studies have shown a direct correlation between helping behaviour and general well-being and health.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJyIR0mVU": "Negative",
+            "choice_Nyg8AA74I": "Positive",
+            "choice_E1WLACmNI": "Constructive",
+            "choice_NJEIARmNU": "A waste of time"
+        },
+        "fr": {
+            "header": "À quoi ressemble un bon comportement ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Un bon comportement est positif et constructif. Raison de plus pour l'adopter !",
+            "tips": "Des études ont montré une corrélation directe entre un comportement serviable, le bien-être général et la santé.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJyIR0mVU": "Négatif",
+            "choice_Nyg8AA74I": "Positif",
+            "choice_E1WLACmNI": "Constructif",
+            "choice_NJEIARmNU": "Une perte de temps"
+        },
+        "de": {
+            "header": "Wie fühlt sich gutes Benehmen an?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Gutes Verhalten fühlt sich positiv und konstruktiv an. Umso mehr Grund es anzunehmen!",
+            "tips": "Studien haben gezeigt, dass ein direkter Zusammenhang zwischen Hilfsverhalten, allgemeinem Wohlbefinden und Gesundheit besteht.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJyIR0mVU": "Negativ",
+            "choice_Nyg8AA74I": "Positiv",
+            "choice_E1WLACmNI": "Konstruktiv",
+            "choice_NJEIARmNU": "Zeitverschwendung"
+        },
+        "th": {
+            "header": "What does good behaviour feel like?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Good behaviour feels positive and constructive. All the more reason to adopt it!",
+            "tips": "Studies have shown a direct correlation between helping behaviour and general well-being and health.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJyIR0mVU": "Negative",
+            "choice_Nyg8AA74I": "Positive",
+            "choice_E1WLACmNI": "Constructive",
+            "choice_NJEIARmNU": "A waste of time"
+        }
+    }
+}

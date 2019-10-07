@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T19:41:13.232Z",
+            "updatedAt": "2019-09-03T09:18:21.055Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kaV9y4Qv"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_VkISjhLmD",
+        "universalRef": "sli_VkISjhLmD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel63939",
+                        "items": [
+                            {
+                                "text": "choice_Ekg0Ii2U7v",
+                                "value": "choice_Ekg0Ii2U7v"
+                            },
+                            {
+                                "text": "choice_VJWAUs2LmP",
+                                "value": "choice_VJWAUs2LmP"
+                            },
+                            {
+                                "text": "choice_Nybdo28QP",
+                                "value": "choice_Nybdo28QP"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel63939",
+                        "answers": [
+                            "choice_VJWAUs2LmP"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What can customer objections often signal?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Don't believe that objections mean that the customer is not interested in buying your product. In fact, objections can signal interest in your offer. Knowing your product inside out and understanding the customer's needs will help you answer these objections.",
+            "tips": "Objections can actually be seen as an opportunity to close the sale, and to learn more about your own product and its strong and weaker points.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63939}}",
+            "choice_Ekg0Ii2U7v": "Boredom",
+            "choice_VJWAUs2LmP": "Interest",
+            "choice_Nybdo28QP": "Annoyance"
+        },
+        "fr": {
+            "header": "Que peuvent souvent signaler les objections des clients?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Ne croyez pas que les objections signifient que le client n'est pas intéressé par l'achat de votre produit. En fait, les objections peuvent indiquer un intérêt pour votre offre. Connaître votre produit de fond en comble et comprendre les besoins du client vous aidera à répondre à ces objections.",
+            "tips": "Les objections peuvent en réalité être perçues comme une opportunité de conclure la vente et d'en apprendre davantage sur votre propre produit et ses points forts et faibles.",
+            "template": "{{sel63939}}",
+            "choice_Ekg0Ii2U7v": "Ennui",
+            "choice_VJWAUs2LmP": "L'intérêt",
+            "choice_Nybdo28QP": "Contrariété",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What can customer objections often signal?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Don't believe that objections mean that the customer is not interested in buying your product. In fact, objections can signal interest in your offer. Knowing your product inside out and understanding the customer's needs will help you answer these objections.",
+            "tips": "Objections can actually be seen as an opportunity to close the sale, and to learn more about your own product and its strong and weaker points.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63939}}",
+            "choice_Ekg0Ii2U7v": "Boredom",
+            "choice_VJWAUs2LmP": "Interest",
+            "choice_Nybdo28QP": "Annoyance"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel63939}}",
+            "choice_Ekg0Ii2U7v": "",
+            "choice_VJWAUs2LmP": "",
+            "choice_Nybdo28QP": ""
+        }
+    }
+}

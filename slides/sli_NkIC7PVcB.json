@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T15:41:27.796Z",
+            "updatedAt": "2018-11-09T12:42:00.196Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJf1UUNqB"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_NkIC7PVcB",
+        "universalRef": "sli_NkIC7PVcB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkIC7PVcB.choice_NkeLpvP45H.id",
+                        "label": "choice_NkeLpvP45H",
+                        "value": "choice_NkeLpvP45H",
+                        "media": "med_N1IaDDN9S"
+                    },
+                    {
+                        "id": "sli_NkIC7PVcB.choice_V1x6RPv4qH.id",
+                        "label": "choice_V1x6RPv4qH",
+                        "value": "choice_V1x6RPv4qH",
+                        "media": "med_NJaCPDEqH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1x6RPv4qH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Sharing your doubts with your team throughout a project is a good move: transparency above all!",
+            "explanation": "Select the correct answer.",
+            "klf": "Once you choose to commit to a project, then own up to your choice in front of your team. If they are to give their best, they need to feel it's worth it!",
+            "tips": "If perseverance is key, it shouldn't turn into stubbornness. The goal isn't to drive your team into the wall either!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkeLpvP45H": "TRUE",
+            "choice_V1x6RPv4qH": "FALSE"
+        },
+        "fr": {
+            "header": "Faire part de vos doutes à votre équipe tout au long du projet est une bonne initiative : la transparence avant tout !",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dès lors que vous choisissez d’adhérer à un projet, assumez votre décision devant vos collaborateurs. S’ils doivent donner le meilleur d’eux-mêmes, ils doivent sentir que cela en vaut la peine !",
+            "tips": "La persévérance est essentielle, mais ne doit pas tourner à l’obsession. Votre objectif n’est pas d’amener votre équipe dans le mur !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkeLpvP45H": "Vrai",
+            "choice_V1x6RPv4qH": "Faux"
+        },
+        "de": {
+            "header": "Wenn Sie während Ihres gesamten Projekts Ihre Zweifel mit Ihrem Team teilen, ist dies ein guter Schritt: Transparenz vor allem!",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wenn Sie sich für ein Projekt entschieden haben, können Sie es vor Ihrem Team entscheiden. Wenn sie ihr Bestes geben wollen, müssen sie das Gefühl haben, es lohnt sich!",
+            "tips": "Wenn Ausdauer der Schlüssel ist, sollte daraus keine Sturheit werden. Das Ziel ist auch nicht, Ihr Team gegen die Wand zu fahren!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkeLpvP45H": "Richtig ",
+            "choice_V1x6RPv4qH": "Falsch"
+        },
+        "th": {
+            "header": "Sharing your doubts with your team throughout a project is a good move: transparency above all!",
+            "explanation": "Select the correct answer.",
+            "klf": "Once you choose to commit to a project, then own up to your choice in front of your team. If they are to give their best, they need to feel it's worth it!",
+            "tips": "If perseverance is key, it shouldn't turn into stubbornness. The goal isn't to drive your team into the wall either!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkeLpvP45H": "TRUE",
+            "choice_V1x6RPv4qH": "FALSE"
+        }
+    }
+}

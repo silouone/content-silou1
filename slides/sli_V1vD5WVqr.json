@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T09:02:38.719Z",
+            "updatedAt": "2018-11-08T17:27:40.382Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJiXiLl9S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_V1vD5WVqr",
+        "universalRef": "sli_V1vD5WVqr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1vD5WVqr.choice_Eyct9Z4qB.id",
+                        "label": "choice_Eyct9Z4qB",
+                        "value": "choice_Eyct9Z4qB"
+                    },
+                    {
+                        "id": "sli_V1vD5WVqr.choice_EyL6qZVqS.id",
+                        "label": "choice_EyL6qZVqS",
+                        "value": "choice_EyL6qZVqS"
+                    },
+                    {
+                        "id": "sli_V1vD5WVqr.choice_NyEnj~E5B.id",
+                        "label": "choice_NyEnj~E5B",
+                        "value": "choice_NyEnj~E5B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyEnj~E5B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you conclude your team meeting?",
+            "explanation": "Select the correct answer.",
+            "klf": "Don’t take it all upon yourself – you’re looking for team decisions!",
+            "tips": "Serious workplace ego clashes can be highly stressful and demoralising for colleagues who aren’t directly involved. It can seriously disrupt productivity and efficiency, because people’s energy, time and attention are taken up with conflict, not working productively as a team.",
+            "clue": "Conversation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyct9Z4qB": "This is my idea. Anyone’s got a better one?",
+            "choice_EyL6qZVqS": "Let’s put everyone’s ideas in an email… and delete it",
+            "choice_NyEnj~E5B": "We had a lot of ideas coming out in this meeting… let’s discuss the best options together!"
+        },
+        "fr": {
+            "header": "Comment devez-vous conclure votre réunion d’équipe ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "N’assumez pas seul l’ensemble du processus : ne perdez pas de vue que vous cherchez à obtenir des décisions d’équipe !",
+            "tips": "De graves conflits d’égo au travail peuvent être stressants et décourageants pour les collègues qui ne sont pas directement impliqués. Cela peut considérablement perturber la productivité et l’efficacité de l’équipe, car l’énergie, le temps et l’attention des collaborateurs sont monopolisés par le conflit, et ces derniers ne travaillent pas de manière collective.",
+            "clue": "Conversation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyct9Z4qB": "C’est mon idée. Quelqu’un a une meilleure idée ?",
+            "choice_EyL6qZVqS": "Rassemblons les idées de chacun dans un e-mail… et supprimons-le",
+            "choice_NyEnj~E5B": "De nombreuses idées ont émergé de cette réunion… discutons ensemble des meilleures options !"
+        },
+        "de": {
+            "header": "Wie sollten Sie Ihr Teammeeting abschließen?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Nehmen Sie nicht alles auf sich - Sie möchten Teamentscheidungen erreicehen!",
+            "tips": "Ernsthafte Konflikte am Arbeitsplatz können für Kollegen, die nicht direkt involviert sind, sehr anstrengend und demoralisierend sein. Dies kann die Produktivität und Effizienz ernsthaft beeinträchtigen, da die Energie, die Zeit und die Aufmerksamkeit den Konflikten gewidmet wird und folglich nicht als Team produktiv arbeiten wird.",
+            "clue": "Konversation",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyct9Z4qB": "Das ist meine Idee. Hat jemand einen besseren?",
+            "choice_EyL6qZVqS": "Lassen Sie uns alle Ideen in eine E-Mail schreiben ... und löschen Sie sie.",
+            "choice_NyEnj~E5B": "Wir hatten viele Ideen in diesem Meeting… Lassen Sie uns gemeinsam die besten Optionen besprechen!"
+        },
+        "th": {
+            "header": "คุณควรจะสรุปการประชุมทีมของคุณอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "อย่าแบกทุกอย่างไว้กับตัวเอง คุณกำลังมองหาการตัดสินใจเป็นทีม",
+            "tips": "ความขัดแย้งอย่างรุนแรงของอัตตาในสถานที่ทำงานสามารถสร้างความเครียดอย่างสูง และบั่นทอนกำลังใจสำหรับเพื่อนร่วมงานที่ไม่มีความเกี่ยวข้องโดยตรง โดยสามารถขัดขวางอัตราผลผลิตและประสิทธิภาพอย่างรุนแรง เนื่องจากพลังงาน เวลา และความสนใจของบุคลากรต้องหมดไปกับความขัดแย้ง แทนที่จะทำงานอย่างมีประสิทธิผลโดยเป็นทีม",
+            "clue": "การสนทนา",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyct9Z4qB": "นี่คือไอเดียของผม มีใครมีไอเดียที่ดีกว่านี้หรือเปล่า",
+            "choice_EyL6qZVqS": "เรามานำไอเดียของทุกๆ คนมาใส่ไว้ในอีเมล... แล้วก็ลบทิ้ง",
+            "choice_NyEnj~E5B": "เราได้รับไอเดียมากมายจากการประชุม... เราจะมาปรึกษาตัวเลือกที่ดีที่สุดด้วยกัน"
+        }
+    }
+}

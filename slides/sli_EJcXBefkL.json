@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T11:52:09.303Z",
+            "updatedAt": "2019-01-23T15:19:02.421Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N10e6D1kL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_EJcXBefkL",
+        "universalRef": "sli_EJcXBefkL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJcXBefkL.choice_VkqEHeM1I.id",
+                        "label": "choice_VkqEHeM1I",
+                        "value": "choice_VkqEHeM1I"
+                    },
+                    {
+                        "id": "sli_EJcXBefkL.choice_Vks4Blzy8.id",
+                        "label": "choice_Vks4Blzy8",
+                        "value": "choice_Vks4Blzy8"
+                    },
+                    {
+                        "id": "sli_EJcXBefkL.choice_VJnVSxzJI.id",
+                        "label": "choice_VJnVSxzJI",
+                        "value": "choice_VJnVSxzJI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkqEHeM1I",
+                        "choice_VJnVSxzJI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the best ways to give feedback during meetings?",
+            "explanation": "Select the correct answers.",
+            "klf": "To give feedback, reflect what has been said by paraphrasing. Sentences like ‘What I'm hearing is’, and ‘Sounds like you are saying’, are great ways to reflect back. Summarise, and ask open questions to clarify certain points: ‘What do you mean when you say…’",
+            "tips": "Before you give feedback, try to put yourself in the other person's shoes and to feel what they are feeling.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkqEHeM1I": "Repeat and summarise what they are saying to show you understand",
+            "choice_Vks4Blzy8": "Take the meeting minutes and circulate them by email immediately after the meeting",
+            "choice_VJnVSxzJI": "Ask open questions to expand on points"
+        },
+        "fr": {
+            "header": "Quelles sont les meilleures manières de fournir un feedback lors des réunions ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Répéter ce qui a été dit en le reformulant. Ce que j’entends c’est », et « Ce que vous semblez dire », sont de bons moyens de revenir sur ce qui a été dit. Résumer et poser des questions ouvertes pour clarifier certains points : ‘Que voulez-vous dire lorsque vous affirmez que…’",
+            "tips": "Avant de restituer un feedback, essayer de vous mettre à la place de l’autre personne afin de savoir ce qu’elle ressent.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkqEHeM1I": "Répéter et résumer ce que vos interlocuteurs ont dit pour montrer que vous les comprenez",
+            "choice_Vks4Blzy8": "Prendre des notes pendant la réunion et les diffuser aux intéressés par e-mail aussitôt après la réunion",
+            "choice_VJnVSxzJI": "Poser des questions ouvertes pour développer certains points"
+        },
+        "de": {
+            "header": "Was sind die besten Möglichkeiten, um in Meetings Feedback zu geben?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Um Feedback zu geben, reflektieren Sie, was durch Paraphrasierungen gesagt wurde. Sätze wie \"Was ich höre ist\" und \"Klingt als ob du sagst\", sind großartige Möglichkeiten, um zurückzublicken. Fassen Sie zusammen und stellen Sie offene Fragen, um bestimmte Punkte zu klären: \"Was meinen Sie, wenn Sie sagen ...\"",
+            "tips": "Bevor Sie Feedback geben, versuchen Sie, sich in die Schuhe der anderen Person zu versetzen und zu fühlen, was sie fühlen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkqEHeM1I": "Wiederhole und fasse zusammen, was sie sagen, um zu verstehen, dass du es verstehst",
+            "choice_Vks4Blzy8": "Protokollieren Sie das Meeting und senden Sie es sofort nach dem Meeting per E-Mail",
+            "choice_VJnVSxzJI": "Stellen Sie offene Fragen, um Punkte zu erweitern"
+        },
+        "th": {
+            "header": "What are the best ways to give feedback during meetings?",
+            "explanation": "Select the correct answers.",
+            "klf": "To give feedback, reflect what has been said by paraphrasing. Sentences like ‘What I'm hearing is’, and ‘Sounds like you are saying’, are great ways to reflect back. Summarise, and ask open questions to clarify certain points: ‘What do you mean when you say…’",
+            "tips": "Before you give feedback, try to put yourself in the other person's shoes and to feel what they are feeling.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkqEHeM1I": "Repeat and summarise what they are saying to show you understand",
+            "choice_Vks4Blzy8": "Take the meeting minutes and circulate them by email immediately after the meeting",
+            "choice_VJnVSxzJI": "Ask open questions to expand on points"
+        }
+    }
+}

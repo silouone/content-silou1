@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T15:39:08.031Z",
+            "updatedAt": "2019-03-08T11:12:38.699Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkDpnlyf8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_Nkb67~kMI",
+        "universalRef": "sli_Nkb67~kMI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nkb67~kMI.choice_VyeC7WyzL.id",
+                        "label": "choice_VyeC7WyzL",
+                        "value": "choice_VyeC7WyzL"
+                    },
+                    {
+                        "id": "sli_Nkb67~kMI.choice_NyWAmWJMI.id",
+                        "label": "choice_NyWAmWJMI",
+                        "value": "choice_NyWAmWJMI"
+                    },
+                    {
+                        "id": "sli_Nkb67~kMI.choice_41GCX~1G8.id",
+                        "label": "choice_41GCX~1G8",
+                        "value": "choice_41GCX~1G8"
+                    },
+                    {
+                        "id": "sli_Nkb67~kMI.choice_4JgfC7byGI.id",
+                        "label": "choice_4JgfC7byGI",
+                        "value": "choice_4JgfC7byGI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyeC7WyzL",
+                        "choice_NyWAmWJMI",
+                        "choice_41GCX~1G8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of these techniques can help improve efficiency?",
+            "explanation": "Select the correct answers.",
+            "klf": "For truly efficient and effective work, concentrate on doing just one job at a time. Prioritise your tasks into a list and systematically work through it one job at a time. And remember to block out uninterrupted time for specific, complex tasks that require the most attention!",
+            "tips": "Putting all your energy in one task doesn't mean you're achieving less than people attempting to multi-task: it simply means you will get more out of it!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyeC7WyzL": "Block out uninterrupted time for complex tasks that need the most attention",
+            "choice_NyWAmWJMI": "Work on one task at a time",
+            "choice_41GCX~1G8": "Work through tasks in order of priority",
+            "choice_4JgfC7byGI": "Read your emails as soon as you get into the office"
+        },
+        "fr": {
+            "header": "Quelles techniques peuvent vous aider à être plus efficace ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour effectuer un vrai travail rationnel et efficace, concentrez-vous sur une seule tâche à la fois. Hiérarchiser votre liste de tâches et effectuer celles-ci une par une. Et pensez à vous réserver un temps sans interruption pour réaliser des tâches spécifiques et complexes qui requièrent la plus grande attention !",
+            "tips": "Mettre toute votre énergie à réaliser une seule tâche ne signifie pas que vous travaillez moins que les personnes qui pratiquent le multitâche : cela veut simplement dire que vous êtes plus productif !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyeC7WyzL": "Se réserver un temps sans interruption pour réaliser des tâches spécifiques et complexes qui requièrent la plus grande attention",
+            "choice_NyWAmWJMI": "Réaliser une seule tâche à la fois",
+            "choice_41GCX~1G8": "Réaliser vos tâches par ordre de priorité",
+            "choice_4JgfC7byGI": "Lire vos e-mails dès que vous arrivez au bureau"
+        },
+        "de": {
+            "header": "Welche dieser Techniken kann zur Verbesserung der Effizienz beitragen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Konzentrieren Sie sich für eine wirklich effiziente und effektive Arbeit darauf, immer nur eine Sache zu erledigen. Priorisieren Sie Ihre Aufgaben in einer Liste und arbeiten Sie sie systematisch nacheinander ab. Denken Sie daran, die ungestörte Zeit für spezifische, komplexe Aufgaben freizuhalten, die die meiste Aufmerksamkeit erfordern!",
+            "tips": "Wenn Sie Ihre gesamte Energie in eine Aufgabe stecken, heißt das nicht, dass Sie weniger erreichen als Personen, die Multitasking anstreben: Es bedeutet einfach, dass Sie mehr davon haben!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyeC7WyzL": "Blockieren Sie ungestörte Zeit für komplexe Aufgaben, die die meiste Aufmerksamkeit erfordern",
+            "choice_NyWAmWJMI": "Arbeiten Sie jeweils an einer Aufgabe",
+            "choice_41GCX~1G8": "Erledige Sie Aufgaben in der Reihenfolge ihrer Priorität",
+            "choice_4JgfC7byGI": "Lesen Sie Ihre E-Mails, sobald Sie im Büro sind"
+        },
+        "th": {
+            "header": "Which of these techniques can help improve efficiency?",
+            "explanation": "Select the correct answers.",
+            "klf": "For truly efficient and effective work, concentrate on doing just one job at a time. Prioritise your tasks into a list and systematically work through it one job at a time. And remember to block out uninterrupted time for specific, complex tasks that require the most attention!",
+            "tips": "Putting all your energy in one task doesn't mean you're achieving less than people attempting to multi-task: it simply means you will get more out of it!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyeC7WyzL": "Block out uninterrupted time for complex tasks that need the most attention",
+            "choice_NyWAmWJMI": "Work on one task at a time",
+            "choice_41GCX~1G8": "Work through tasks in order of priority",
+            "choice_4JgfC7byGI": "Read your emails as soon as you get into the office"
+        }
+    }
+}

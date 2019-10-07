@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T14:46:28.426Z",
+            "updatedAt": "2019-02-21T17:23:40.063Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJEzasa~I"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EkaLBCczI",
+        "universalRef": "sli_EkaLBCczI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkaLBCczI.choice_VJU6HA9f8.id",
+                        "label": "choice_VJU6HA9f8",
+                        "value": "choice_VJU6HA9f8"
+                    },
+                    {
+                        "id": "sli_EkaLBCczI.choice_EywTrR9GL.id",
+                        "label": "choice_EywTrR9GL",
+                        "value": "choice_EywTrR9GL"
+                    },
+                    {
+                        "id": "sli_EkaLBCczI.choice_4k-6r0qzL.id",
+                        "label": "choice_4k-6r0qzL",
+                        "value": "choice_4k-6r0qzL"
+                    },
+                    {
+                        "id": "sli_EkaLBCczI.choice_N1KTHC9zU.id",
+                        "label": "choice_N1KTHC9zU",
+                        "value": "choice_N1KTHC9zU"
+                    },
+                    {
+                        "id": "sli_EkaLBCczI.choice_E1q6rR9GU.id",
+                        "label": "choice_E1q6rR9GU",
+                        "value": "choice_E1q6rR9GU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJU6HA9f8",
+                        "choice_N1KTHC9zU",
+                        "choice_E1q6rR9GU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following criteria are part of the definition of quality?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Quality can be defined as the performance, reliability, and availability of a product or service.",
+            "tips": "In 1980, Motorola developed a quality control methodology that has since become very popular. Called ‘Six Sigma’, it is a set of techniques and tools designed to improve processes and quality.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJU6HA9f8": "Performance",
+            "choice_EywTrR9GL": "Price",
+            "choice_4k-6r0qzL": "Marketing",
+            "choice_N1KTHC9zU": "Reliability",
+            "choice_E1q6rR9GU": "Availability"
+        },
+        "fr": {
+            "header": "Quels critères suivants font partie de la définition de la qualité ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La qualité d'un produit ou d'un service peut être définie en termes de performance, de fiabilité et de disponibilité.",
+            "tips": "En 1980, Motorola a développé une méthodologie de contrôle qualité qui, depuis, s'est largement répandue dans le monde entier. Appelée « Six Sigma », cette méthodologie est constituée d'un ensemble de techniques et d'outils destinés à améliorer les processus et la qualité.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJU6HA9f8": "Performances",
+            "choice_EywTrR9GL": "Prix",
+            "choice_4k-6r0qzL": "Marketing",
+            "choice_N1KTHC9zU": "Fiabilité",
+            "choice_E1q6rR9GU": "Disponibilité"
+        },
+        "de": {
+            "header": "Welche der folgenden Kriterien sind Bestandteil der Definition von Qualität?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Qualität kann als Leistung, Zuverlässigkeit und Verfügbarkeit eines Produkts oder einer Dienstleistung definiert werden.",
+            "tips": "1980 entwickelte Motorola eine Qualitätskontrollmethode, die seitdem sehr beliebt ist. Unter dem Namen „Six Sigma“ werden verschiedene Techniken und Werkzeuge zur Verbesserung von Prozessen und Qualität beschrieben.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJU6HA9f8": "Performance",
+            "choice_EywTrR9GL": "Preis",
+            "choice_4k-6r0qzL": "Marketing",
+            "choice_N1KTHC9zU": "Zuverlässigkeit",
+            "choice_E1q6rR9GU": "Verfügbarkeit"
+        },
+        "th": {
+            "header": "Which of the following criteria are part of the definition of quality?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Quality can be defined as the performance, reliability, and availability of a product or service.",
+            "tips": "In 1980, Motorola developed a quality control methodology that has since become very popular. Called ‘Six Sigma’, it is a set of techniques and tools designed to improve processes and quality.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJU6HA9f8": "Performance",
+            "choice_EywTrR9GL": "Price",
+            "choice_4k-6r0qzL": "Marketing",
+            "choice_N1KTHC9zU": "Reliability",
+            "choice_E1q6rR9GU": "Availability"
+        }
+    }
+}

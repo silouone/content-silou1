@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T17:55:20.685Z",
+            "updatedAt": "2019-02-22T11:50:08.550Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkkJC1yM8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VypyuBg7I",
+        "universalRef": "sli_VypyuBg7I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VypyuBg7I.choice_4JDW-HxQ8.id",
+                        "label": "choice_4JDW-HxQ8",
+                        "value": "choice_4JDW-HxQ8"
+                    },
+                    {
+                        "id": "sli_VypyuBg7I.choice_4kgwW-Sx7I.id",
+                        "label": "choice_4kgwW-Sx7I",
+                        "value": "choice_4kgwW-Sx7I"
+                    },
+                    {
+                        "id": "sli_VypyuBg7I.choice_4k-WdHlmL.id",
+                        "label": "choice_4k-WdHlmL",
+                        "value": "choice_4k-WdHlmL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JDW-HxQ8",
+                        "choice_4k-WdHlmL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should be the aim of small-talking?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Small-talking is not about gaining anything. It’s about building trust and showing respect to the people you work with.",
+            "tips": "Making small talk does not mean gossiping. Make sure you stay professional if you do not want to damage your reputation at the office.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JDW-HxQ8": "Creating trust",
+            "choice_4kgwW-Sx7I": "Gaining something",
+            "choice_4k-WdHlmL": "Showing respect"
+        },
+        "fr": {
+            "header": "Quelle doit être l'objectif d'une petite discussion ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La petite discussion ne rapporte rien directement. Mais elle permet avant tout d'établir une relation de confiance et de faire preuve de respect envers les personnes avec qui vous travaillez.",
+            "tips": "Engager de petites conversations n'a rien à voir avec le commérage. Veiller à rester professionnel pour ne pas nuire à votre réputation au travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JDW-HxQ8": "Instaurer la confiance",
+            "choice_4kgwW-Sx7I": "Obtenir quelque chose",
+            "choice_4k-WdHlmL": "Faire preuve de respect"
+        },
+        "de": {
+            "header": "Was sollte das Ziel von Small Talking sein?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Beim Small Talk geht es nicht darum, etwas zu gewinnen. Es geht darum, Vertrauen aufzubauen und den Menschen, mit denen Sie arbeiten, Respekt zu erweisen.",
+            "tips": "Small Talk zu machen bedeutet nicht Klatsch. Stellen Sie sicher, dass Sie professionell bleiben, wenn Sie Ihrem Ruf im Büro nicht schaden möchten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JDW-HxQ8": "Vertrauen schaffen",
+            "choice_4kgwW-Sx7I": "Etwas gewinnen",
+            "choice_4k-WdHlmL": "Respekt zeigen"
+        },
+        "th": {
+            "header": "What should be the aim of small-talking?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Small-talking is not about gaining anything. It’s about building trust and showing respect to the people you work with.",
+            "tips": "Making small talk does not mean gossiping. Make sure you stay professional if you do not want to damage your reputation at the office.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JDW-HxQ8": "Creating trust",
+            "choice_4kgwW-Sx7I": "Gaining something",
+            "choice_4k-WdHlmL": "Showing respect"
+        }
+    }
+}

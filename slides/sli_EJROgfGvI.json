@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-13T15:29:51.020Z",
+            "updatedAt": "2019-03-14T10:47:38.842Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkk~fts8U"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_EJROgfGvI",
+        "universalRef": "sli_EJROgfGvI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJROgfGvI.choice_E1Bclfzw8.id",
+                        "label": "choice_E1Bclfzw8",
+                        "value": "choice_E1Bclfzw8"
+                    },
+                    {
+                        "id": "sli_EJROgfGvI.choice_EyEjxGfw8.id",
+                        "label": "choice_EyEjxGfw8",
+                        "value": "choice_EyEjxGfw8"
+                    },
+                    {
+                        "id": "sli_EJROgfGvI.choice_N1E2gMGD8.id",
+                        "label": "choice_N1E2gMGD8",
+                        "value": "choice_N1E2gMGD8"
+                    },
+                    {
+                        "id": "sli_EJROgfGvI.choice_NymTlMzPI.id",
+                        "label": "choice_NymTlMzPI",
+                        "value": "choice_NymTlMzPI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1E2gMGD8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is recapping important?",
+            "explanation": "Select the correct answer.",
+            "klf": "Recapping helps you specify action points, which will then allow you to make subsequent arrangements.",
+            "tips": "The Action Point Allowance System is a board game mechanic in which players are given a certain number of points to spend each turn on a wide range of different actions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1Bclfzw8": "You can look back on past successes and failures easily",
+            "choice_EyEjxGfw8": "You’ll be able to analyse the session clearly",
+            "choice_N1E2gMGD8": "You can specify action points",
+            "choice_NymTlMzPI": "It gives you a chance to elaborate on what’s been said"
+        },
+        "fr": {
+            "header": "Pourquoi est-ce important de récapituler ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La récapitulation vous aide à spécifier des points d'action, ce qui vous permettra par la suite de prendre des dispositions ultérieures.",
+            "tips": "Le système d'attribution de points d'action est un mécanisme de jeu de société dans lequel les joueurs reçoivent un certain nombre de points à dépenser à chaque tour dans un large éventail d'actions différentes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1Bclfzw8": "Vous pouvez facilement revenir sur les succès et les échecs passés",
+            "choice_EyEjxGfw8": "Vous pouvez analyser la session clairement",
+            "choice_N1E2gMGD8": "Vous pouvez spécifier des points d'action",
+            "choice_NymTlMzPI": "Cela vous donne une chance de développer ce qui a été dit"
+        },
+        "de": {
+            "header": "Why is recapping important?",
+            "explanation": "Select the correct answer.",
+            "klf": "Recapping helps you specify action points, which will then allow you to make subsequent arrangements.",
+            "tips": "The Action Point Allowance System is a board game mechanic in which players are given a certain number of points to spend each turn on a wide range of different actions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1Bclfzw8": "You can look back on past successes and failures easily",
+            "choice_EyEjxGfw8": "You’ll be able to analyse the session clearly",
+            "choice_N1E2gMGD8": "You can specify action points",
+            "choice_NymTlMzPI": "It gives you a chance to elaborate on what’s been said"
+        },
+        "th": {
+            "header": "Why is recapping important?",
+            "explanation": "Select the correct answer.",
+            "klf": "Recapping helps you specify action points, which will then allow you to make subsequent arrangements.",
+            "tips": "The Action Point Allowance System is a board game mechanic in which players are given a certain number of points to spend each turn on a wide range of different actions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1Bclfzw8": "You can look back on past successes and failures easily",
+            "choice_EyEjxGfw8": "You’ll be able to analyse the session clearly",
+            "choice_N1E2gMGD8": "You can specify action points",
+            "choice_NymTlMzPI": "It gives you a chance to elaborate on what’s been said"
+        }
+    }
+}

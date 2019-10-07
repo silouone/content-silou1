@@ -1,0 +1,106 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-15T12:53:50.336Z",
+            "updatedAt": "2018-11-09T12:36:57.066Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkATBUVqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_4kLo2OTcS",
+        "universalRef": "sli_4kLo2OTcS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kLo2OTcS.choice_41FlpuTcH.id",
+                        "label": "choice_41FlpuTcH",
+                        "value": "choice_41FlpuTcH"
+                    },
+                    {
+                        "id": "sli_4kLo2OTcS.choice_4ycxTup5r.id",
+                        "label": "choice_4ycxTup5r",
+                        "value": "choice_4ycxTup5r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41FlpuTcH"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Time is running out. What should you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "In case of emergency, adapt your speech to your needs and to the person you're talking to: you have to convince the head of HR very quickly, don't waste time. The best thing to do is to remind her of the risks of not recruiting someone very soon.",
+            "tips": "Getting straight to the point doesn't mean being aggressive. You just have to stay calm but firm: rely on factual arguments and data. For example, you can give your gatekeepers quantitative information to help them understand the potential loss if they don't accept your idea.",
+            "clue": "",
+            "context_title": "Getting to yes with the head of HR!",
+            "context_description": "You need to hire a new editorial manager to strengthen the task force. But before that, you have to convince the head of human resources. And it's no mean feat! A new recruit is not foreseen in the budget. But it's almost a matter of life and death: your team is snowed under with work. The head of HR is waiting for you right now—and she's very busy: you have 10 minutes tops to convince her that there's no other choice but to accept your request.",
+            "context_media_description": "",
+            "choice_41FlpuTcH": "You decide to play the money card: if you don't recruit someone very soon, you'll jeopardise your team's well-being—which could be even more costly for the company…",
+            "choice_4ycxTup5r": "You decide to talk very gently to the head of HR and tell her that you've found someone really good… and at a good price!"
+        },
+        "fr": {
+            "header": "Le temps s’écoule. Que devez-vous faire ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans un cas urgent, adaptez votre discours à vos besoins et à la personne à laquelle vous vous adressez : vous devez convaincre la DRH très rapidement, aussi ne perdez pas de temps. La meilleure chose à faire est de lui rappeler les risques encourus en l’absence de recrutement très prochainement.",
+            "tips": "Aller droit au but ne signifie pas être agressif. Vous devez simplement rester calme, mais ferme : appuyez-vous sur une argumentation factuelle et sur des données. Vous pouvez par exemple communiquer à vos gardiens des informations quantitatives afin de les aider à comprendre la perte potentielle que représenterait le rejet de votre idée.",
+            "clue": "",
+            "context_title": "Obtenir l’accord de la DRH !",
+            "context_description": "Vous devez recruter un nouveau responsable éditorial pour renforcer votre équipe. Mais avant cela, vous devez convaincre la Directrice des ressources humaines. Et ce n’est pas un exercice facile ! Un nouveau recrutement n’est pas provisionné dans le budget. Mais c’est presque une question de vie ou de mort : Vos équipes sont submergées de travail. La DRH est en train de vous attendre – et elle est très occupée : vous disposez de 10 minutes top chrono pour la convaincre qu’il n’y a pas d’autre alternative que celle de satisfaire votre demande.",
+            "context_media_description": "",
+            "choice_41FlpuTcH": "Vous décidez de tout miser sur l’aspect financier : si vous ne recrutez pas très prochainement, vous compromettez le bien-être de vos équipes – ce qui peut s’avérer bien plus coûteux pour l’entreprise… ",
+            "choice_4ycxTup5r": "Vous décidez de parler très calmement à votre DRH et de lui dire que vous avez trouvé le profil idéal… et à un salaire correct !"
+        },
+        "de": {
+            "header": "Die Zeit wird knapp. Was tun?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Passen Sie im Notfall Ihre Rede an Ihre Bedürfnisse und an die Person an, mit der Sie sprechen: Sie müssen den Leiter der Personalabteilung sehr schnell überzeugen, verschwenden Sie keine Zeit. Das Beste, was Sie tun können, ist, sie an die Risiken zu erinnern, wenn Sie nicht bald jemanden rekrutieren.",
+            "tips": "Auf den Punkt zu kommen bedeutet nicht, aggressiv zu sein. Sie müssen nur ruhig aber fest bleiben: Verlassen Sie sich auf sachliche Argumente und Daten. Sie können Ihren Gatekeepern beispielsweise quantitative Informationen geben, um den potenziellen Verlust zu verstehen, wenn er Ihre Idee nicht akzeptiert.",
+            "clue": "",
+            "context_title": "Mit dem HR-Leiter zu einem Ja kommen!",
+            "context_description": "Sie müssen einen neuen Redaktionsmanager einstellen, um die Task Force zu stärken. Aber vorher müssen Sie den Leiter der Humanressourcen überzeugen. Und es ist keine Kleinigkeit! Ein neuer Mitarbeiter ist im Budget nicht vorgesehen. Aber es ist fast eine Frage von Leben und Tod: Ihr Team ist bei der Arbeit eingeschneit. Der Leiter der Personalabteilung wartet jetzt auf Sie - und sie ist sehr beschäftigt: Sie haben 10 Minuten Zeit, um sie davon zu überzeugen, dass es keine andere Wahl gibt, als Ihre Anfrage zu akzeptieren.",
+            "context_media_description": "",
+            "choice_41FlpuTcH": "Sie entscheiden sich für die Geldkarte: Wenn Sie nicht sehr bald jemanden rekrutieren, gefährden Sie das Wohlbefinden Ihres Teams - was für das Unternehmen noch teurer sein könnte…",
+            "choice_4ycxTup5r": "Sie beschließen, sehr vorsichtig mit dem Personalleiter zu sprechen und ihr zu sagen, dass Sie jemanden gefunden haben, der wirklich gut ist… und zu einem guten Preis!"
+        },
+        "th": {
+            "header": "Time is running out. What should you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "In case of emergency, adapt your speech to your needs and to the person you're talking to: you have to convince the head of HR very quickly, don't waste time. The best thing to do is to remind her of the risks of not recruiting someone very soon.",
+            "tips": "Getting straight to the point doesn't mean being aggressive. You just have to stay calm but firm: rely on factual arguments and data. For example, you can give your gatekeepers quantitative information to help them understand the potential loss if they don't accept your idea.",
+            "clue": "",
+            "context_title": "Getting to yes with the head of HR!",
+            "context_description": "You need to hire a new editorial manager to strengthen the task force. But before that, you have to convince the head of human resources. And it's no mean feat! A new recruit is not foreseen in the budget. But it's almost a matter of life and death: your team is snowed under with work. The head of HR is waiting for you right now—and she's very busy: you have 10 minutes tops to convince her that there's no other choice but to accept your request.",
+            "context_media_description": "",
+            "choice_41FlpuTcH": "You decide to play the money card: if you don't recruit someone very soon, you'll jeopardise your team's well-being—which could be even more costly for the company…",
+            "choice_4ycxTup5r": "You decide to talk very gently to the head of HR and tell her that you've found someone really good… and at a good price!"
+        }
+    }
+}

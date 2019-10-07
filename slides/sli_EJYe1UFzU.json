@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-17T11:12:53.680Z",
+            "updatedAt": "2019-02-21T17:19:35.125Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk-~TiaZU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EJYe1UFzU",
+        "universalRef": "sli_EJYe1UFzU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJYe1UFzU.choice_4yVSMLtfI.id",
+                        "label": "choice_4yVSMLtfI",
+                        "value": "choice_4yVSMLtfI"
+                    },
+                    {
+                        "id": "sli_EJYe1UFzU.choice_NkLBzIFzI.id",
+                        "label": "choice_NkLBzIFzI",
+                        "value": "choice_NkLBzIFzI"
+                    },
+                    {
+                        "id": "sli_EJYe1UFzU.choice_4yPrz8FzI.id",
+                        "label": "choice_4yPrz8FzI",
+                        "value": "choice_4yPrz8FzI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yVSMLtfI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When implementing a project, how should you communicate with your team?",
+            "explanation": "Select the correct answer.",
+            "klf": "Always make sure to keep everyone informed. That means communicating everything you know, and also ensuring that team members keep each other informed of progress.",
+            "tips": "Poor internal communication can have a direct impact on employee productivity. You don’t want to spend half your time guessing what to do!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yVSMLtfI": "Keep everyone informed",
+            "choice_NkLBzIFzI": "Save the important information until the right moment",
+            "choice_4yPrz8FzI": "Wait until people ask for information before you give it to them"
+        },
+        "fr": {
+            "header": "Lors de la mise en oeuvre d'un projet, comment devez-vous communiquer avec vos collaborateurs ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Veiller à informer en permanence tous vos collaborateurs. Cela veut dire communiquer toutes les informations que vous possédez et veiller également à ce que chaque membre de l'équipe informe les autres de sa progression.",
+            "tips": "Une mauvaise communication interne peut avoir un impact direct sur la productivité de vos collaborateurs. Personne n'a envie de passer la moitié de son temps à deviner ce qu'il doit faire !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yVSMLtfI": "Tenir tous les collaborateurs informés",
+            "choice_NkLBzIFzI": "Conserver les informations importantes jusqu'au moment opportun",
+            "choice_4yPrz8FzI": "Attendre que les collaborateurs demandent des informations avant de les leur communiquer"
+        },
+        "de": {
+            "header": "Wie sollten Sie bei der Umsetzung eines Projekts mit Ihrem Team kommunizieren?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Stellen Sie immer sicher, dass alle auf dem Laufenden sind. Dies bedeutet, dass Sie alles kommunizieren, was Sie wissen, und sicherstellen, dass sich die Teammitglieder gegenseitig über den Fortschritt informieren.",
+            "tips": "Eine schlechte interne Kommunikation kann sich direkt auf die Produktivität der Mitarbeiter auswirken. Sie möchten nicht die Hälfte Ihrer Zeit damit verbringen, zu raten, was zu tun ist!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yVSMLtfI": "Halten Sie alle auf dem Laufenden",
+            "choice_NkLBzIFzI": "Behalten Sie die wichtigen Informationen bis zum richtigen Moment für sich.",
+            "choice_4yPrz8FzI": "Warten Sie, bis die Leute nach Informationen fragen, bevor Sie sie ihnen geben"
+        },
+        "th": {
+            "header": "When implementing a project, how should you communicate with your team?",
+            "explanation": "Select the correct answer.",
+            "klf": "Always make sure to keep everyone informed. That means communicating everything you know, and also ensuring that team members keep each other informed of progress.",
+            "tips": "Poor internal communication can have a direct impact on employee productivity. You don’t want to spend half your time guessing what to do!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yVSMLtfI": "Keep everyone informed",
+            "choice_NkLBzIFzI": "Save the important information until the right moment",
+            "choice_4yPrz8FzI": "Wait until people ask for information before you give it to them"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T11:28:16.248Z",
+            "updatedAt": "2019-02-22T11:58:57.166Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny-pnx1fI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4yRigDBfI",
+        "universalRef": "sli_4yRigDBfI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel45329",
+                        "items": [
+                            {
+                                "text": "choice_NkgdkbwSzI",
+                                "value": "choice_NkgdkbwSzI"
+                            },
+                            {
+                                "text": "choice_EyZdkZwHGI",
+                                "value": "choice_EyZdkZwHGI"
+                            },
+                            {
+                                "text": "choice_V1BlbvHz8",
+                                "value": "choice_V1BlbvHz8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel45329",
+                        "answers": [
+                            "choice_V1BlbvHz8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Acts of kindness have a positive impact. But who benefits from them exactly?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Helping other people will not only make them feel good and appreciate your help, it will also make you feel good.",
+            "tips": "Performing acts of kindness makes you feel good in a real, physical way. The brain actually rewards the body for acts of altruism by releasing dopamine, a neurotransmitter that makes us feel great.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Acts of kindness make {{sel45329}} feel good.",
+            "choice_NkgdkbwSzI": "the giver",
+            "choice_EyZdkZwHGI": "the receiver",
+            "choice_V1BlbvHz8": "the giver and the receiver"
+        },
+        "fr": {
+            "header": "Les actes de bienveillance ont un impact positif. Mais qui en profite réellement ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Si vous aidez d'autres personnes, cela leur permettra non seulement de se sentir mieux et d'apprécier votre aide, mais cela contribuera aussi à votre bien-être.",
+            "tips": "Des actes de bienveillance ciblés vous aident à vous sentir vraiment bien physiquement. En effet, le cerveau récompense le corps pour des actes d'altruisme en libérant de la domine, neurotransmetteur qui nous aide à nous sentir bien.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Des actes de bienveillance ciblés aident {{sel45329}} à se sentir bien.",
+            "choice_NkgdkbwSzI": "le donneur",
+            "choice_EyZdkZwHGI": "le receveur",
+            "choice_V1BlbvHz8": "le donneur et le receveur"
+        },
+        "de": {
+            "header": "Freundlichkeit wirkt sich positiv aus. Aber wer profitiert genau davon?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie anderen Menschen helfen, fühlen die sich nicht nur gut und geschätzt, Sie fühlen sich auch gut.",
+            "tips": "Wenn Sie freundliche Handlungen ausführen, fühlen Sie sich auf physische Weise wohl. Tatsächlich belohnt das Gehirn den Körper für Altruismusakte, indem es Dopamin freigibt, einen Neurotransmitter, bei dem wir uns großartig fühlen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Freundliche Taten lassen {{sel45329}} sich gut fühlen.",
+            "choice_NkgdkbwSzI": "den Verteiler",
+            "choice_EyZdkZwHGI": "den Empfänger",
+            "choice_V1BlbvHz8": "den Verteiler und den Empfänger"
+        },
+        "th": {
+            "header": "Acts of kindness have a positive impact. But who benefits from them exactly?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Helping other people will not only make them feel good and appreciate your help, it will also make you feel good.",
+            "tips": "Performing acts of kindness makes you feel good in a real, physical way. The brain actually rewards the body for acts of altruism by releasing dopamine, a neurotransmitter that makes us feel great.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Acts of kindness make {{sel45329}} feel good.",
+            "choice_NkgdkbwSzI": "the giver",
+            "choice_EyZdkZwHGI": "the receiver",
+            "choice_V1BlbvHz8": "the giver and the receiver"
+        }
+    }
+}

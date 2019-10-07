@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T14:40:46.136Z",
+            "updatedAt": "2019-02-21T17:22:25.258Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJEzasa~I"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EJo4N0qzU",
+        "universalRef": "sli_EJo4N0qzU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel43601",
+                        "items": [
+                            {
+                                "text": "choice_N1eVPNCqz8",
+                                "value": "choice_N1eVPNCqz8"
+                            },
+                            {
+                                "text": "choice_E1~Ew4RqzU",
+                                "value": "choice_E1~Ew4RqzU"
+                            },
+                            {
+                                "text": "choice_4JNtVA5GL",
+                                "value": "choice_4JNtVA5GL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel43601",
+                        "answers": [
+                            "choice_E1~Ew4RqzU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the first step in controlling and improving quality?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It may seem obvious, but don’t forget to define what you expect as quality. Without this definition, you and your team will not be on the same page and communication will be difficult.",
+            "tips": "Quality control originated in the European guilds of craftsmen, in the 13th century. It started taking its modern form with the control of the production of military supplies during World War II.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel43601}}",
+            "choice_N1eVPNCqz8": "Make people worry about it",
+            "choice_E1~Ew4RqzU": "Define it",
+            "choice_4JNtVA5GL": "Outsource it"
+        },
+        "fr": {
+            "header": "Quelle est la première étape du contrôle et de l'amélioration de la qualité ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Cela peut sembler évident, mais pensez à définir ce que vous attendez en matière de qualité. Sans cette définition, votre équipe et vous ne serez pas « sur la même longueur d'onde », ce qui rendra la communication difficile.",
+            "tips": "Le contrôle qualité a vu le jour dans les confréries d'artisans européens au 13e siècle. Sa forme plus moderne a débuté avec le contrôle de la production de fournitures militaires au cours de la 2e Guerre mondiale.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel43601}}",
+            "choice_N1eVPNCqz8": "Faire en sorte que les gens s'en préoccupent",
+            "choice_E1~Ew4RqzU": "La définir",
+            "choice_4JNtVA5GL": "L'externaliser"
+        },
+        "de": {
+            "header": "Was ist der erste Schritt zur Kontrolle und Verbesserung der Qualität?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Es mag naheliegend erscheinen, aber vergessen Sie nicht zu definieren, was Sie als Qualität erwarten. Ohne diese Definition sind Sie und Ihr Team nicht auf derselben Seite und die Kommunikation wird schwierig.",
+            "tips": "Die Qualitätskontrolle entstand im 13. Jahrhundert in den europäischen Handwerkerzünften. Mit der Kontrolle der Produktion militärischer Vorräte im Zweiten Weltkrieg nahm sie ihre moderne Form an.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel43601}}",
+            "choice_N1eVPNCqz8": "Sorgen Sie dafür, dass sich die Leute Sorgen machen",
+            "choice_E1~Ew4RqzU": "Definiere es",
+            "choice_4JNtVA5GL": "Gliedern Sie es aus."
+        },
+        "th": {
+            "header": "What is the first step in controlling and improving quality?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It may seem obvious, but don’t forget to define what you expect as quality. Without this definition, you and your team will not be on the same page and communication will be difficult.",
+            "tips": "Quality control originated in the European guilds of craftsmen, in the 13th century. It started taking its modern form with the control of the production of military supplies during World War II.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel43601}}",
+            "choice_N1eVPNCqz8": "Make people worry about it",
+            "choice_E1~Ew4RqzU": "Define it",
+            "choice_4JNtVA5GL": "Outsource it"
+        }
+    }
+}

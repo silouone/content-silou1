@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T11:37:08.221Z",
+            "updatedAt": "2019-02-22T11:42:49.767Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1dhp1yML"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EyRNYiqGI",
+        "universalRef": "sli_EyRNYiqGI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel17608",
+                        "items": [
+                            {
+                                "text": "choice_NJeovKo9fL",
+                                "value": "choice_NJeovKo9fL"
+                            },
+                            {
+                                "text": "choice_EJbowYjqfU",
+                                "value": "choice_EJbowYjqfU"
+                            },
+                            {
+                                "text": "choice_Ey1dtocfI",
+                                "value": "choice_Ey1dtocfI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel17608",
+                        "answers": [
+                            "choice_EJbowYjqfU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should a good manager aim at when intervening in a disagreement?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When faced with a conflict, try to make compromise a goal: more often than not, diverging points can be combined toward a better idea or solution. Explain the pros and cons of each side, so that both people can consider the opposing view.",
+            "tips": "Implementing an open-minded atmosphere is a key to minimising risks of conflict. Be a model for your employees: respect differences and do not impose your views.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The main purpose should be to make them {{sel17608}}",
+            "choice_NJeovKo9fL": "shut up",
+            "choice_EJbowYjqfU": "find a compromise",
+            "choice_Ey1dtocfI": "point fingers"
+        },
+        "fr": {
+            "header": "Quel doit être l'objectif de tout bon manager lorsqu'il intervient dans un conflit ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Lorsque vous êtes confronté à un conflit, visez le compromis : bien souvent, les divers points de vue peuvent être associés pour aboutir à une meilleure solution. Expliquer les avantages et les inconvénients des deux idées, afin que les deux parties puissent considérer leurs points de vue opposés.",
+            "tips": "Favoriser un état d'esprit ouvert au sein de votre équipe est le meilleur moyen de réduire le risque de conflit. Soyez un modèle pour vos collaborateurs : respectez les différences de chacun et veillez à ne pas imposer votre point de vue.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "L'objectif principal doit être de les amener à {{sel17608}}",
+            "choice_NJeovKo9fL": "se taire",
+            "choice_EJbowYjqfU": "parvenir à un compromis",
+            "choice_Ey1dtocfI": "désigner des responsables"
+        },
+        "de": {
+            "header": "Was sollte ein guter Manager anstreben, wenn er in eine Meinungsverschiedenheit eingreift?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie sich mit einem Konflikt konfrontiert sehen, versuchen Sie, Kompromisse zu einem Ziel zu machen: Meistens können abweichende Ansichten zu einer besseren Idee oder Lösung kombiniert werden. Erläutern Sie die Vor- und Nachteile jeder Seite, damit beide Personen die gegensätzliche Ansicht betrachten können.",
+            "tips": "Die Umsetzung einer aufgeschlossenen Atmosphäre ist der Schlüssel zur Minimierung von Konfliktrisiken. Seien Sie ein Vorbild für Ihre Mitarbeiter: Respektieren Sie Unterschiede und legen Sie keine Ansichten vor.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Der Hauptzweck sollte darin bestehen, dass sie {{sel17608}}",
+            "choice_NJeovKo9fL": "den Mund zu halten ",
+            "choice_EJbowYjqfU": "einen Kompromiss finden",
+            "choice_Ey1dtocfI": "einen Schuldigen finden"
+        },
+        "th": {
+            "header": "What should a good manager aim at when intervening in a disagreement?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When faced with a conflict, try to make compromise a goal: more often than not, diverging points can be combined toward a better idea or solution. Explain the pros and cons of each side, so that both people can consider the opposing view.",
+            "tips": "Implementing an open-minded atmosphere is a key to minimising risks of conflict. Be a model for your employees: respect differences and do not impose your views.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The main purpose should be to make them {{sel17608}}",
+            "choice_NJeovKo9fL": "shut up",
+            "choice_EJbowYjqfU": "find a compromise",
+            "choice_Ey1dtocfI": "point fingers"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-03T15:37:26.587Z",
+            "updatedAt": "2019-04-09T12:57:35.669Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4y4bcqTOU"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4kE3Z6p-L",
+        "universalRef": "sli_4kE3Z6p-L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_4kE3Z6p-L.choice_EkhlfaTdI.id",
+                        "label": "choice_EkhlfaTdI",
+                        "value": "choice_EkhlfaTdI"
+                    },
+                    {
+                        "id": "sli_4kE3Z6p-L.choice_E1alGpTOL.id",
+                        "label": "choice_E1alGpTOL",
+                        "value": "choice_E1alGpTOL"
+                    },
+                    {
+                        "id": "sli_4kE3Z6p-L.choice_4yyZfaaOU.id",
+                        "label": "choice_4yyZfaaOU",
+                        "value": "choice_4yyZfaaOU"
+                    },
+                    {
+                        "id": "sli_4kE3Z6p-L.choice_41g~GpT-L.id",
+                        "label": "choice_41g~GpT-L",
+                        "value": "choice_41g~GpT-L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yyZfaaOU",
+                        "choice_41g~GpT-L",
+                        "choice_E1alGpTOL",
+                        "choice_EkhlfaTdI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "There are 4 stages to building a great team. Can you sort them in chronological order?",
+            "explanation": "Sort the answers below in correct order.",
+            "klf": "There are 4 stages to building a great team: Forming, storming, norming and performing.",
+            "tips": "At first, the phrase 'forming, storming, norming, and performing' was used to describe the path that most teams follow on their way to high performance. Later, a fifth stage, 'adjourning' (which is sometimes known as 'mourning') was added.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkhlfaTdI": "Performing",
+            "choice_E1alGpTOL": "Norming",
+            "choice_4yyZfaaOU": "Forming",
+            "choice_41g~GpT-L": "Storming"
+        },
+        "fr": {
+            "header": "La formation d'une bonne équipe nécessite 4 étapes. Pouvez-vous les trier par ordre chronologique ?",
+            "explanation": "Mettez les réponses ci-dessous dans le bon ordre.",
+            "klf": "La formation d'une bonne équipe nécessite 4 étapes : la Formation, la Tension, la Normalisation et l'Exécution.",
+            "tips": "Au début, l'expression « formation, tension, normalisation et exécution » était utilisée pour décrire le chemin suivi par la plupart des équipes pour atteindre un haut niveau de rendement. Plus tard, une cinquième étape, « dissolution » (parfois appelée « deuil ») a été ajoutée.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkhlfaTdI": "Exécution",
+            "choice_E1alGpTOL": "Normalisation",
+            "choice_4yyZfaaOU": "Formation",
+            "choice_41g~GpT-L": "Tension"
+        },
+        "de": {
+            "header": "There are 4 stages to building a great team. Can you sort them in chronological order?",
+            "explanation": "Sort the answers below in correct order.",
+            "klf": "There are 4 stages to building a great team: Forming, storming, norming and performing.",
+            "tips": "At first, the phrase 'forming, storming, norming, and performing' was used to describe the path that most teams follow on their way to high performance. Later, a fifth stage, 'adjourning' (which is sometimes known as 'mourning') was added.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkhlfaTdI": "Performing",
+            "choice_E1alGpTOL": "Norming",
+            "choice_4yyZfaaOU": "Forming",
+            "choice_41g~GpT-L": "Storming"
+        },
+        "th": {
+            "header": "There are 4 stages to building a great team. Can you sort them in chronological order?",
+            "explanation": "Sort the answers below in correct order.",
+            "klf": "There are 4 stages to building a great team: Forming, storming, norming and performing.",
+            "tips": "At first, the phrase 'forming, storming, norming, and performing' was used to describe the path that most teams follow on their way to high performance. Later, a fifth stage, 'adjourning' (which is sometimes known as 'mourning') was added.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkhlfaTdI": "Performing",
+            "choice_E1alGpTOL": "Norming",
+            "choice_4yyZfaaOU": "Forming",
+            "choice_41g~GpT-L": "Storming"
+        }
+    }
+}

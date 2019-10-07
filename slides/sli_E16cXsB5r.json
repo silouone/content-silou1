@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T14:08:45.816Z",
+            "updatedAt": "2018-11-19T11:37:22.606Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1iAS8E5B"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E16cXsB5r",
+        "universalRef": "sli_E16cXsB5r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E16cXsB5r.choice_4kgrHSjB5S.id",
+                        "label": "choice_4kgrHSjB5S",
+                        "value": "choice_4kgrHSjB5S",
+                        "media": "med_VJrSrsH9S"
+                    },
+                    {
+                        "id": "sli_E16cXsB5r.choice_NkerwHiHcS.id",
+                        "label": "choice_NkerwHiHcS",
+                        "value": "choice_NkerwHiHcS",
+                        "media": "med_E1HDriS9r"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kgrHSjB5S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? If you’re only 50 % committed to the change you suggest, you can't expect much more from everyone else.",
+            "explanation": "Select the correct answer.",
+            "klf": "Own change by being fully committed and believing in its benefits. If you’re only 50 % committed, you can expect much less from everyone else.",
+            "tips": "Believing in the benefits of the change you suggest is necessary to make it happen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kgrHSjB5S": "TRUE",
+            "choice_NkerwHiHcS": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Si vous n’êtes engagé qu’à 50 %, vous ne pouvez pas vous attendre à un investissement supérieur de la part des autres.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Incarnez le changement en vous engageant pleinement et en adhérant à ses bénéfices. Si vous n’êtes engagé qu’à 50 %, vous pouvez vous attendre à un investissement encore bien moindre de la part des autres.",
+            "tips": "En adhérant aux bénéfices du changement, vous suggérez que celui-ci est nécessaire.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kgrHSjB5S": "Vrai",
+            "choice_NkerwHiHcS": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Wenn Sie sich nur zu 50% für die von Ihnen vorgeschlagene Änderung einsetzen, können Sie nicht viel mehr von allen anderen erwarten.",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Eigene Veränderung durch volles Engagement und Glauben an die Vorteile. Wenn Sie nur zu 50% verpflichtet sind, können Sie von allen anderen viel weniger erwarten.",
+            "tips": "Der Glaube an die Vorteile der von Ihnen vorgeschlagenen Änderung ist notwendig, um dies zu ermöglichen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kgrHSjB5S": "Richtig ",
+            "choice_NkerwHiHcS": "Falsch"
+        },
+        "th": {
+            "header": "True or false? If you’re only 50 % committed to the change you suggest, you can't expect much more from everyone else.",
+            "explanation": "Select the correct answer.",
+            "klf": "Own change by being fully committed and believing in its benefits. If you’re only 50 % committed, you can expect much less from everyone else.",
+            "tips": "Believing in the benefits of the change you suggest is necessary to make it happen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kgrHSjB5S": "TRUE",
+            "choice_NkerwHiHcS": "FALSE"
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-09-04T15:29:08.147Z",
+            "updatedAt": "2019-09-04T15:29:08.147Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3GiyNmP"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJ84DadSP",
+        "universalRef": "sli_NJ84DadSP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJ84DadSP.choice_N1nrvTdBv.id",
+                        "label": "choice_N1nrvTdBv",
+                        "value": "choice_N1nrvTdBv"
+                    },
+                    {
+                        "id": "sli_NJ84DadSP.choice_EyTHwT-Bw.id",
+                        "label": "choice_EyTHwT-Bw",
+                        "value": "choice_EyTHwT-Bw"
+                    },
+                    {
+                        "id": "sli_NJ84DadSP.choice_EkCBvT-SP.id",
+                        "label": "choice_EkCBvT-SP",
+                        "value": "choice_EkCBvT-SP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyTHwT-Bw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When things aren’t working out, how can you make progress with your client?",
+            "explanation": "Select the correct answer below.",
+            "klf": "A sale can sometimes get stuck. When you are discussing with a client and things aren’t working out, you need to take time and identify the client’s real problem.",
+            "tips": "Once you have agreed on a solution, explain the follow-up work needed from both sides, detailing what needs to be done before the next meeting. Explain who else needs to be involved and why.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1nrvTdBv": "Save your own time and cut your losses with the client",
+            "choice_EyTHwT-Bw": "Find out what the problem is",
+            "choice_EkCBvT-SP": "Offer a discount on your services",
+            "choice_NJ18DpurP": ""
+        },
+        "fr": {
+            "header": "Lorsque les choses ne fonctionnent pas, comment pouvez-vous progresser avec votre client?",
+            "explanation": "Sélectionnez la réponse correcte ci-dessous.",
+            "klf": "Une vente peut parfois être bloquée. Lorsque vous discutez avec un client et que les choses ne fonctionnent pas, vous devez prendre le temps de bien identifier le véritable problème du client.",
+            "tips": "Une fois que vous avez convenu d’une solution, expliquez le travail de suivi nécessaire des deux côtés, en détaillant ce qui doit être fait avant la prochaine réunion. Expliquez qui d'autre doit être impliqué et pourquoi.",
+            "choice_N1nrvTdBv": "Économisez votre temps et réduisez vos pertes avec le client",
+            "choice_EyTHwT-Bw": "Découvrez quel est le problème",
+            "choice_EkCBvT-SP": "Offrez une réduction sur vos services",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ18DpurP": ""
+        },
+        "de": {
+            "header": "When things aren’t working out, how can you make progress with your client?",
+            "explanation": "Select the correct answer below.",
+            "klf": "A sale can sometimes get stuck. When you are discussing with a client and things aren’t working out, you need to take time and identify the client’s real problem.",
+            "tips": "Once you have agreed on a solution, explain the follow-up work needed from both sides, detailing what needs to be done before the next meeting. Explain who else needs to be involved and why.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1nrvTdBv": "Save your own time and cut your losses with the client",
+            "choice_EyTHwT-Bw": "Find out what the problem is",
+            "choice_EkCBvT-SP": "Offer a discount on your services",
+            "choice_NJ18DpurP": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1nrvTdBv": "",
+            "choice_EyTHwT-Bw": "",
+            "choice_EkCBvT-SP": "",
+            "choice_NJ18DpurP": ""
+        }
+    }
+}

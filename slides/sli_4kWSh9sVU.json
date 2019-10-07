@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-12T11:26:17.769Z",
+            "updatedAt": "2019-02-15T15:44:57.323Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nky~RkH48"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4kWSh9sVU",
+        "universalRef": "sli_4kWSh9sVU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kWSh9sVU.choice_41xEwhqiV8.id",
+                        "label": "choice_41xEwhqiV8",
+                        "value": "choice_41xEwhqiV8",
+                        "media": "med_Vy4w2qiV8"
+                    },
+                    {
+                        "id": "sli_4kWSh9sVU.choice_EygIP29iVI.id",
+                        "label": "choice_EygIP29iVI",
+                        "value": "choice_EygIP29iVI",
+                        "media": "med_4k8D2qoE8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EygIP29iVI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Positive labelling works better if you label someone with a trait they do not aspire to have.",
+            "explanation": "Select the correct answer.",
+            "klf": "The strategy is most effective if you label someone with a trait or skill that they do have, or would aspire to have.",
+            "tips": "In 1975, psychologist Richard Miller published the results of a study conducted with fifth graders. The study showed that the group of children who were labelled as ‘tidy’ or ‘neat’ actually became tidier in the classroom than the group of children who were repeatedly told they should be.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41xEwhqiV8": "TRUE",
+            "choice_EygIP29iVI": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? L'étiquetage positif donne de meilleurs résultats si vous attribuez à une personne un trait de personnalité qu’elle n’aspire pas à avoir.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Cette stratégie est plus efficace si vous identifiez une personne avec un trait de personnalité ou une compétence qu’elle possède ou voudrait avoir.",
+            "tips": "En 1975, le psychologue Richard Miller a publié les résultats d'une étude menée auprès d'élèves de cinquième année. L’étude a montré que le groupe d’enfants étiquetés comme « soigneux » ou « ordonnés » devenait effectivement plus ordonné en classe que le groupe d’enfants à qui on avait répété à maintes reprises qu’ils le devraient.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41xEwhqiV8": "Vrai",
+            "choice_EygIP29iVI": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Positive Kennzeichnung funktioniert besser, wenn Sie jemanden mit einem Merkmal kennzeichnen, das er nicht anstrebt.",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Die Strategie ist am effektivsten, wenn Sie jemanden mit einem Merkmal oder einer Fähigkeit kennzeichnen, das er hat oder anstrebt.",
+            "tips": "1975 veröffentlichte der Psychologe Richard Miller die Ergebnisse einer Studie, die mit Fünftklässlern durchgeführt wurde. Die Studie zeigte, dass die Gruppe der Kinder, die als \"ordentlich\" oder \"ordentlich\" bezeichnet wurden, im Klassenzimmer tatsächlich aufgeräumter wurde als die Gruppe der Kinder, denen wiederholt gesagt wurde, dass sie dies tun sollten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41xEwhqiV8": "Wahr",
+            "choice_EygIP29iVI": "Falsch"
+        },
+        "th": {
+            "header": "True or false? Positive labelling works better if you label someone with a trait they do not aspire to have.",
+            "explanation": "Select the correct answer.",
+            "klf": "The strategy is most effective if you label someone with a trait or skill that they do have, or would aspire to have.",
+            "tips": "In 1975, psychologist Richard Miller published the results of a study conducted with fifth graders. The study showed that the group of children who were labelled as ‘tidy’ or ‘neat’ actually became tidier in the classroom than the group of children who were repeatedly told they should be.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41xEwhqiV8": "TRUE",
+            "choice_EygIP29iVI": "FALSE"
+        }
+    }
+}

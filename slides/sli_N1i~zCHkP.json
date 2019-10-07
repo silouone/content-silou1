@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:00:58.362Z",
+            "updatedAt": "2019-07-19T13:48:11.754Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJXIulsRL"
+            ],
+            "modifiedBy": "marcmdm",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_N1i~zCHkP",
+        "universalRef": "sli_N1i~zCHkP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1i~zCHkP.choice_4Jh7GAByv.id",
+                        "label": "choice_4Jh7GAByv",
+                        "value": "choice_4Jh7GAByv"
+                    },
+                    {
+                        "id": "sli_N1i~zCHkP.choice_EkTXGABJw.id",
+                        "label": "choice_EkTXGABJw",
+                        "value": "choice_EkTXGABJw"
+                    },
+                    {
+                        "id": "sli_N1i~zCHkP.choice_VyCQf0Syw.id",
+                        "label": "choice_VyCQf0Syw",
+                        "value": "choice_VyCQf0Syw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyCQf0Syw",
+                        "choice_4Jh7GAByv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What can be the consequences of overwhelming your team with too much information?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Overwhelming your team with too much information at once can result in a breakdown of confidence and increased stress levels.",
+            "tips": "According to a recent study commissioned by the UK Government, three in four adults in the UK sometimes feel overwhelmed or unable to cope with stress. Work issues is the second-biggest factor of stress.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jh7GAByv": "Lack of confidence",
+            "choice_EkTXGABJw": "More coffee breaks",
+            "choice_VyCQf0Syw": "Increased stress",
+            "null": ""
+        },
+        "fr": {
+            "header": "Quelles peuvent être les conséquences de surcharger votre équipe avec trop d'informations ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Si vous surchargez votre équipe avec trop d’informations à la fois, vous risquez de leur faire perdre confiance et d’augmenter le niveau de stress.",
+            "tips": "Selon une étude récente commandée par le gouvernement britannique, trois adultes britanniques sur quatre se sentent parfois dépassés ou incapables de faire face au stress. Les problèmes liés au travail constituent le deuxième facteur de stress le plus répandu.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jh7GAByv": "Un manque de confiance",
+            "choice_EkTXGABJw": "Plus de pauses café",
+            "choice_VyCQf0Syw": "Une augmentation du stress"
+        },
+        "de": {
+            "header": "What can be the consequences of overwhelming your team with too much information?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Overwhelming your team with too much information at once can result in a breakdown of confidence and increased stress levels.",
+            "tips": "According to a recent study commissioned by the UK Government, three in four adults in the UK sometimes feel overwhelmed or unable to cope with stress. Work issues is the second-biggest factor of stress.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jh7GAByv": "Lack of confidence",
+            "choice_EkTXGABJw": "More coffee breaks",
+            "choice_VyCQf0Syw": "Increased stress"
+        },
+        "th": {
+            "header": "What can be the consequences of overwhelming your team with too much information?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Overwhelming your team with too much information at once can result in a breakdown of confidence and increased stress levels.",
+            "tips": "According to a recent study commissioned by the UK Government, three in four adults in the UK sometimes feel overwhelmed or unable to cope with stress. Work issues is the second-biggest factor of stress.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "null": "",
+            "choice_4Jh7GAByv": "Lack of confidence",
+            "choice_EkTXGABJw": "More coffee breaks",
+            "choice_VyCQf0Syw": "Increased stress"
+        }
+    }
+}

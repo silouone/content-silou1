@@ -1,0 +1,137 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T14:00:03.930Z",
+            "updatedAt": "2019-02-15T15:20:19.842Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJz62D5VI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VkLU0P5EL",
+        "universalRef": "sli_VkLU0P5EL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkLU0P5EL.choice_Ny0vAPcVL.id",
+                        "label": "choice_Ny0vAPcVL",
+                        "value": "choice_Ny0vAPcVL"
+                    },
+                    {
+                        "id": "sli_VkLU0P5EL.choice_41JdADcV8.id",
+                        "label": "choice_41JdADcV8",
+                        "value": "choice_41JdADcV8"
+                    },
+                    {
+                        "id": "sli_VkLU0P5EL.choice_4Jg-CPc4U.id",
+                        "label": "choice_4Jg-CPc4U",
+                        "value": "choice_4Jg-CPc4U"
+                    },
+                    {
+                        "id": "sli_VkLU0P5EL.choice_Ny~-Rw5V8.id",
+                        "label": "choice_Ny~-Rw5V8",
+                        "value": "choice_Ny~-Rw5V8"
+                    },
+                    {
+                        "id": "sli_VkLU0P5EL.choice_E1ls0D948.id",
+                        "label": "choice_E1ls0D948",
+                        "value": "choice_E1ls0D948"
+                    },
+                    {
+                        "id": "sli_VkLU0P5EL.choice_NJQiCv9EU.id",
+                        "label": "choice_NJQiCv9EU",
+                        "value": "choice_NJQiCv9EU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ny0vAPcVL",
+                        "choice_4Jg-CPc4U",
+                        "choice_NJQiCv9EU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you make the most of your day, week and month?",
+            "explanation": "Select the correct answers.",
+            "klf": "Plan your schedule ahead with clear deadlines, try to categorise your tasks between urgent and important and don't forget to anticipate problems.",
+            "tips": "When you plan your tasks, be as precise as possible in the description. It will help you get to work quickly without wasting time trying to remember what the task involves.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny0vAPcVL": "List important tasks in your calendar with deadlines",
+            "choice_41JdADcV8": "Work later at night",
+            "choice_4Jg-CPc4U": "Fill the ‘urgent vs important’ matrix to prioritise your time",
+            "choice_Ny~-Rw5V8": "See what comes up each day",
+            "choice_E1ls0D948": "Multi-task",
+            "choice_NJQiCv9EU": "Anticipate problems"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous tirer le meilleur parti de votre journée, semaine et mois ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Planifiez votre calendrier en fixant des échéances claires, essayez de classer vos tâches entre urgentes et importantes et n’oubliez pas d’anticiper les problèmes.",
+            "tips": "Lorsque vous planifiez vos tâches, soyez aussi précis que possible dans leur description. Cela vous aidera à vous mettre au travail rapidement sans perdre du temps à essayer de vous rappeler ce que la tâche implique.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny0vAPcVL": "En répertoriant les tâches importantes de votre calendrier et en leur fixant des délais",
+            "choice_41JdADcV8": "En travaillant plus tard dans la nuit",
+            "choice_4Jg-CPc4U": "En remplissant la matrice « urgent vs important » pour hiérarchiser votre temps",
+            "choice_Ny~-Rw5V8": "En voyant ce qui se passe au jour le jour",
+            "choice_E1ls0D948": "En étant multi-tâches",
+            "choice_NJQiCv9EU": "En anticipant les problèmes"
+        },
+        "de": {
+            "header": "Wie können Sie Ihren Tag, Ihre Woche und Ihren Monat optimal nutzen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Planen Sie Ihren Zeitplan mit klaren Terminen im Voraus, versuchen Sie, Ihre Aufgaben zwischen dringend und wichtig zu kategorisieren, und vergessen Sie nicht, Probleme vorherzusehen.",
+            "tips": "Seien Sie bei der Planung Ihrer Aufgaben in der Beschreibung so genau wie möglich. Es hilft Ihnen, schnell an die Arbeit zu gelangen, ohne Zeit zu verlieren, um sich zu erinnern, worum es bei der Aufgabe geht.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny0vAPcVL": "Listen Sie wichtige Aufgaben in Ihrem Kalender mit Fristen auf",
+            "choice_41JdADcV8": "Arbeiten Sie später in der Nacht",
+            "choice_4Jg-CPc4U": "Füllen Sie die Matrix \"dringend gegen wichtig\" aus, um Ihre Zeit zu priorisieren",
+            "choice_Ny~-Rw5V8": "Sehen Sie, was jeden Tag aufkommt",
+            "choice_E1ls0D948": "Multitasking",
+            "choice_NJQiCv9EU": "Probleme antizipieren"
+        },
+        "th": {
+            "header": "How can you make the most of your day, week and month?",
+            "explanation": "Select the correct answers.",
+            "klf": "Plan your schedule ahead with clear deadlines, try to categorise your tasks between urgent and important and don't forget to anticipate problems.",
+            "tips": "When you plan your tasks, be as precise as possible in the description. It will help you get to work quickly without wasting time trying to remember what the task involves.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny0vAPcVL": "List important tasks in your calendar with deadlines",
+            "choice_41JdADcV8": "Work later at night",
+            "choice_4Jg-CPc4U": "Fill the ‘urgent vs important’ matrix to prioritise your time",
+            "choice_Ny~-Rw5V8": "See what comes up each day",
+            "choice_E1ls0D948": "Multi-task",
+            "choice_NJQiCv9EU": "Anticipate problems"
+        }
+    }
+}

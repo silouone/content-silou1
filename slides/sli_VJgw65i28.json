@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T13:42:13.759Z",
+            "updatedAt": "2019-05-20T13:42:13.759Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41jm9dP2U"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VJgw65i28",
+        "universalRef": "sli_VJgw65i28",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel81973",
+                        "items": [
+                            {
+                                "text": "choice_NkxhYa9ihI",
+                                "value": "choice_NkxhYa9ihI"
+                            },
+                            {
+                                "text": "choice_VJZhFTqohU",
+                                "value": "choice_VJZhFTqohU"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel41935",
+                        "items": [
+                            {
+                                "text": "choice_4kl6ta9i3L",
+                                "value": "choice_4kl6ta9i3L"
+                            },
+                            {
+                                "text": "choice_41~6Y69ohI",
+                                "value": "choice_41~6Y69ohI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel81973",
+                        "answers": [
+                            "choice_VJZhFTqohU"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel41935",
+                        "answers": [
+                            "choice_4kl6ta9i3L"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to develop your vision?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To develop your vision, rise up above your day-to-day work and look to the future.",
+            "tips": "Although rising up above your day-to-day work will allow you to see the big picture, it is still necessary to focus on the little things: there are steps you must take in the short term in order to accomplish your vision.",
+            "clue": "To develop your vision, rise up above your day-to-day work and look to the future.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should {{sel81973}} your day-to-day work and look {{sel41935}}  .",
+            "choice_NkxhYa9ihI": "stay focused on",
+            "choice_VJZhFTqohU": "rise up above",
+            "choice_4kl6ta9i3L": "to the future",
+            "choice_41~6Y69ohI": "into the past"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen de développer votre vision ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Pour développer votre vision, élevez-vous au-dessus de votre travail quotidien et regardez vers l'avenir.",
+            "tips": "Bien que s'élever au-dessus de votre travail quotidien vous permette d'avoir une vue d'ensemble, il reste nécessaire de vous concentrer sur les petites choses : vous devez prendre des mesures à court terme pour réaliser votre vision.",
+            "clue": "Pour développer votre vision, élevez-vous au-dessus de votre travail quotidien et regardez vers l'avenir.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous devriez {{sel81973}} votre travail quotidien et vous tourner {{sel41935}} .",
+            "choice_NkxhYa9ihI": "rester concentré sur",
+            "choice_VJZhFTqohU": "vous élever au-dessus de",
+            "choice_4kl6ta9i3L": "vers l'avenir",
+            "choice_41~6Y69ohI": "vers le passé"
+        },
+        "de": {
+            "header": "What’s the best way to develop your vision?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To develop your vision, rise up above your day-to-day work and look to the future.",
+            "tips": "Although rising up above your day-to-day work will allow you to see the big picture, it is still necessary to focus on the little things: there are steps you must take in the short term in order to accomplish your vision.",
+            "clue": "To develop your vision, rise up above your day-to-day work and look to the future.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should {{sel81973}} your day-to-day work and look {{sel41935}}  .",
+            "choice_NkxhYa9ihI": "stay focused on",
+            "choice_VJZhFTqohU": "rise up above",
+            "choice_4kl6ta9i3L": "to the future",
+            "choice_41~6Y69ohI": "into the past"
+        },
+        "th": {
+            "header": "What’s the best way to develop your vision?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "To develop your vision, rise up above your day-to-day work and look to the future.",
+            "tips": "Although rising up above your day-to-day work will allow you to see the big picture, it is still necessary to focus on the little things: there are steps you must take in the short term in order to accomplish your vision.",
+            "clue": "To develop your vision, rise up above your day-to-day work and look to the future.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should {{sel81973}} your day-to-day work and look {{sel41935}}  .",
+            "choice_NkxhYa9ihI": "stay focused on",
+            "choice_VJZhFTqohU": "rise up above",
+            "choice_4kl6ta9i3L": "to the future",
+            "choice_41~6Y69ohI": "into the past"
+        }
+    }
+}

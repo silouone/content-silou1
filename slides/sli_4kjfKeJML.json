@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T15:03:32.507Z",
+            "updatedAt": "2019-02-22T11:52:35.972Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyxk01kG8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4kjfKeJML",
+        "universalRef": "sli_4kjfKeJML",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kjfKeJML.choice_4kxqCYgkMI.id",
+                        "label": "choice_4kxqCYgkMI",
+                        "value": "choice_4kxqCYgkMI",
+                        "media": "med_Vy9CtxyML"
+                    },
+                    {
+                        "id": "sli_4kjfKeJML.choice_4Jg30YeJG8.id",
+                        "label": "choice_4Jg30YeJG8",
+                        "value": "choice_4Jg30YeJG8",
+                        "media": "med_Ek3Rtg1GL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jg30YeJG8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If you are competent and know your strengths as a leader, there is nothing you can improve on. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "It is important to be confident about your own strengths. However, that doesn't stop you from being aware of the room you have to improve as a leader!",
+            "tips": "If you want to improve as a leader and aren't sure where to start, why not emulate someone whose leadership style you admire?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxqCYgkMI": "TRUE",
+            "choice_4Jg30YeJG8": "FALSE"
+        },
+        "fr": {
+            "header": "Si vous êtes compétent et que vous connaissez les points forts de votre rôle de leader, vous savez que vous n'avez pas besoin de vous améliorer. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est important de faire confiance à ses points forts. Cependant, cela ne doit pas vous empêcher d'être conscient de la nécessité de vous améliorer en tant que leader !",
+            "tips": "Si vous voulez améliorer votre rôle de leader, mais ne savez pas par où commencer, pourquoi ne pas imiter une personne dont vous admirez le style de leadership ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxqCYgkMI": "Vrai",
+            "choice_4Jg30YeJG8": "Faux"
+        },
+        "de": {
+            "header": "Wenn Sie kompetent sind und Ihre Stärken als Führungskraft kennen, können Sie nichts verbessern. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Es ist wichtig, sich auf die eigenen Stärken zu verlassen. Das hindert Sie jedoch nicht daran, den Aspekt zu erkennen, den Sie als Führungskraft verbessern müssen!",
+            "tips": "Wenn Sie sich als Führungskraft verbessern möchten und nicht wissen, wo Sie anfangen sollen, warum nicht jemandem nachahmen, dessen Führungsstil Sie bewundern?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxqCYgkMI": "Wahr",
+            "choice_4Jg30YeJG8": "Falsch"
+        },
+        "th": {
+            "header": "If you are competent and know your strengths as a leader, there is nothing you can improve on. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "It is important to be confident about your own strengths. However, that doesn't stop you from being aware of the room you have to improve as a leader!",
+            "tips": "If you want to improve as a leader and aren't sure where to start, why not emulate someone whose leadership style you admire?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kxqCYgkMI": "TRUE",
+            "choice_4Jg30YeJG8": "FALSE"
+        }
+    }
+}

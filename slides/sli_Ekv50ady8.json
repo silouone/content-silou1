@@ -1,0 +1,121 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-11T16:02:37.505Z",
+            "updatedAt": "2019-01-21T14:17:06.007Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3QnjukU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_Ekv50ady8",
+        "universalRef": "sli_Ekv50ady8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel38758",
+                        "items": [
+                            {
+                                "text": "choice_41e39Cad1L",
+                                "value": "choice_41e39Cad1L"
+                            },
+                            {
+                                "text": "choice_VkZ3cCpd1I",
+                                "value": "choice_VkZ3cCpd1I"
+                            },
+                            {
+                                "text": "choice_EksjCpOyL",
+                                "value": "choice_EksjCpOyL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel38758",
+                        "answers": [
+                            "choice_41e39Cad1L"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the best way to break bad news?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It’s always better to break the bad news at the beginning of the meeting. Note that it can help to draft the first paragraph of what you intend to say. Perhaps even rehearse it. You’ll feel much more confident if you know what you’re going to say.",
+            "tips": "When everyone inside a company is aware of some bad news, don't avoid the subject. Speak up and clear the air. Otherwise, your employees could reproach you for your weak attitude.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel38758}}",
+            "choice_41e39Cad1L": "At the beginning of the meeting",
+            "choice_VkZ3cCpd1I": "Right at the end of the meeting",
+            "choice_EksjCpOyL": "Send an email",
+            "null": ""
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen d’annoncer une mauvaise nouvelle ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Il est toujours préférable d’annoncer la mauvaise nouvelle dès le début de l’entrevue. Notez qu’il peut s’avérer utile de rédiger au brouillon le premier paragraphe de votre annonce. Peut-être même à le répéter. Vous serez plus confiant si vous savez ce que vous allez dire.",
+            "tips": "Lorsque tout le monde dans l’entreprise est au courant d’une mauvaise nouvelle, n’évitez pas le sujet. Exprimez-vous pour détendre l’atmosphère. Sinon, vos collaborateurs pourront vous reprocher d’avoir fait preuve de faiblesse.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel38758}}",
+            "choice_41e39Cad1L": "Dès le début de la réunion",
+            "choice_VkZ3cCpd1I": "En toute fin de réunion",
+            "choice_EksjCpOyL": "Envoyer un e-mail"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um schlechte Nachrichten zu überbringen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Es ist immer besser, die schlechte Nachricht zu Beginn des Treffens zu verbreiten. Beachten Sie, dass dies hilfreich sein kann, den ersten Absatz Ihrer Aussagen zu formulieren. Vielleicht sogar proben. Sie werden sich viel sicherer fühlen, wenn Sie wissen, was Sie sagen werden.",
+            "tips": "Wenn jeder in einem Unternehmen von schlechten Nachrichten weiß, sollten Sie das Thema nicht meiden. Sprechen Sie darüber und klären Sie die Angelegenheit. Andernfalls könnten Ihre Mitarbeiter Ihnen Ihre schwachen Einstellung vorwerfen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel38758}}",
+            "choice_41e39Cad1L": "Zu Beginn des Treffens",
+            "choice_VkZ3cCpd1I": "Gleich am Ende des Treffens",
+            "choice_EksjCpOyL": "Eine E-Mail senden"
+        },
+        "th": {
+            "header": "วิธีใดเป็นวิธีที่ดีที่สุดในการแจ้งข่าวร้าย",
+            "explanation": "เลือกคำตอบที่ถูกต้องในเมนูดรอปดาวน์",
+            "klf": "การแจ้งข่าวร้ายในตอนเริ่มการประชุมมักจะดีกว่าเสมอ ข้อสังเกต การร่างย่อหน้าแรกของสิ่งที่คุณต้องการจะพูดจะสามารถช่วยได้ แม้แต่การซักซ้อมด้วย คุณจะรู้สึกมั่นใจขึ้นกว่าเดิมมากหากคุณรู้ว่าจะต้องพูดอะไร",
+            "tips": "หากทุกคนในบริษัทรู้ถึงข่าวร้ายอยู่แล้ว อย่าหลีกเลี่ยงเรื่องนี้ ให้พูดออกมาและอภิปรายอย่างเปิดเผย มิฉะนั้นแล้ว พนักงานอาจตำหนิได้ว่าคุณมีทัศนคติที่อ่อนแอ",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel38758}}",
+            "choice_41e39Cad1L": "ตอนเริ่มการประชุม",
+            "choice_VkZ3cCpd1I": "ตอนจบการประชุม",
+            "choice_EksjCpOyL": "ส่งอีเมล",
+            "null": ""
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-12T10:47:34.252Z",
+            "updatedAt": "2019-03-20T10:05:57.192Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyH72ouJ8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_4JLEICFyI",
+        "universalRef": "sli_4JLEICFyI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel57619",
+                        "items": [
+                            {
+                                "text": "choice_Vylf8U0tJI",
+                                "value": "choice_Vylf8U0tJI"
+                            },
+                            {
+                                "text": "choice_NJWf8IAKy8",
+                                "value": "choice_NJWf8IAKy8"
+                            },
+                            {
+                                "text": "choice_EJkvIAKJU",
+                                "value": "choice_EJkvIAKJU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel57619",
+                        "answers": [
+                            "choice_NJWf8IAKy8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to behave during a discipline interview?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Encourage your people to talk. Show them you have time to listen and you want to understand. And allow any abuse to wash over you.",
+            "tips": "Dare to break the silence. Make your team members feel comfortable and secure to speak freely. Find the appropriate setting (one-on-one or group meeting) to make them feel at ease.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel57619}}",
+            "choice_Vylf8U0tJI": "Be stern",
+            "choice_NJWf8IAKy8": "Encourage your employee to talk",
+            "choice_EJkvIAKJU": "Show your employee how upset you are"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure attitude à adopter lors d’un entretien disciplinaire?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Encouragez vos collaborateurs à s’exprimer. Montrez-leur que vous avez le temps de les écouter pour comprendre. Et ne vous laissez pas atteindre par les attaques.",
+            "tips": "Osez rompre le silence. Veillez à ce que vos collaborateurs soient à l’aise et libres de s’exprimer sans contrainte. Trouvez le contexte approprié (entretien en face-à-face ou en groupe) pour qu’ils se sentent à l’aise.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel57619}}",
+            "choice_Vylf8U0tJI": "Se montrer strict",
+            "choice_NJWf8IAKy8": "Encourager vos employés à s’exprimer",
+            "choice_EJkvIAKJU": "Montrer à vos employés à quel point vous êtes contrarié"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um sich während eines Interviews mit Disziplinen zu verhalten?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Ermutigen Sie Ihre Leute zum Reden. Zeigen Sie ihnen, dass Sie Zeit haben, zuzuhören und zu verstehen. Und erlaube es jeden Missbrauch über dich ergehen zu lassen.",
+            "tips": "Wagen Sie es, die Stille zu brechen. Sorgen Sie dafür, dass sich Ihre Teammitglieder wohl fühlen und sicher sind um frei zu sprechen. Finden Sie die geeignete Einstellung (Einzelgespräch oder Gruppentreffen), damit sie sich wohl fühlen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel57619}}",
+            "choice_Vylf8U0tJI": "Sei streng",
+            "choice_NJWf8IAKy8": "Ermutigen Sie Ihren Mitarbeiter zum Reden.",
+            "choice_EJkvIAKJU": "Zeigen Sie Ihrem Mitarbeiter, wie aufgebracht Sie sind."
+        },
+        "th": {
+            "header": "วิธีปฏิบัติที่ดีที่สุดในระหว่างการประชุมด้านผลการทำงาน",
+            "explanation": "เลือกคำตอบที่ถูกต้องในเมนูดรอปดาวน์",
+            "klf": "ส่งเสริมให้พนักงานกล้าพูด แสดงให้เห็นว่าคุณมีเวลารับฟังและอยากจะทำความเข้าใจ ปล่อยให้การสบประมาทใดๆ ผ่านไปโดยไม่ต้องใส่ใจ",
+            "tips": "กล้าที่จะพูด ทำให้สมาชิกในทีมของคุณรู้สึกสบายใจและปลอดภัยที่จะพูดคุยได้อย่างอิสระ หาบรรยากาศที่เหมาะสม (การประชุมแบบกลุ่มหรือแบบตัวต่อตัว) เพื่อให้สมาชิกในทีมรู้สึกสบายใจ",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel57619}}",
+            "choice_Vylf8U0tJI": "เข้มงวด",
+            "choice_NJWf8IAKy8": "ส่งเสริมให้พนักงานกล้าพูด",
+            "choice_EJkvIAKJU": "แสดงให้พนักงานของคุณเห็นว่าคุณรู้สึกโมโหมากแค่ไหน"
+        }
+    }
+}

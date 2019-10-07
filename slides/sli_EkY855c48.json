@@ -1,0 +1,167 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T17:09:20.236Z",
+            "updatedAt": "2019-02-25T09:29:07.921Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkLYV14VU"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_EkY855c48",
+        "universalRef": "sli_EkY855c48",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel20255",
+                        "items": [
+                            {
+                                "text": "choice_VklQh5q5N8",
+                                "value": "choice_VklQh5q5N8"
+                            },
+                            {
+                                "text": "choice_EkbQ3q55EL",
+                                "value": "choice_EkbQ3q55EL"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel81339",
+                        "items": [
+                            {
+                                "text": "choice_N1lUpcc5VU",
+                                "value": "choice_N1lUpcc5VU"
+                            },
+                            {
+                                "text": "choice_41~8accqVU",
+                                "value": "choice_41~8accqVU"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel88644",
+                        "items": [
+                            {
+                                "text": "choice_EkxCAqqcEI",
+                                "value": "choice_EkxCAqqcEI"
+                            },
+                            {
+                                "text": "choice_4ybR0c9cEU",
+                                "value": "choice_4ybR0c9cEU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel20255",
+                        "answers": [
+                            "choice_EkbQ3q55EL"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel81339",
+                        "answers": [
+                            "choice_N1lUpcc5VU"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel88644",
+                        "answers": [
+                            "choice_4ybR0c9cEU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is a valuated team?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Valuating a team passes through making your collaborators feel, think and work as a team.",
+            "tips": "The concept of team building appeared in the early 1980's. The objective? Reinforce team cohesion through games, crisis situation management, trainings, etc.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Valuating a team passes through making your collaborators {{sel20255}}, {{sel81339}}, and then {{sel88644}} as a team.",
+            "choice_VklQh5q5N8": "suffer",
+            "choice_EkbQ3q55EL": "feel",
+            "choice_N1lUpcc5VU": "think",
+            "choice_41~8accqVU": "rule",
+            "choice_EkxCAqqcEI": "run away",
+            "choice_4ybR0c9cEU": "work"
+        },
+        "fr": {
+            "header": "Qu'est-ce qu'une équipe valorisée ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Valoriser une équipe passe par faire en sorte que vos collaborateurs se sentent, pensent et travaillent en équipe.",
+            "tips": "Le concept de « team building » est apparu au début des années 1980. L'objectif ? Renforcer la cohésion d'équipe par des jeux, une gestion des crises, des formations, etc.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La valorisation d'une équipe passe par faire en sorte que vos collaborateurs {{sel20255}}, {{sel81339}}, puis {{sel88644}} en équipe.",
+            "choice_VklQh5q5N8": "souffrent",
+            "choice_EkbQ3q55EL": "se sentent",
+            "choice_N1lUpcc5VU": "pensent",
+            "choice_41~8accqVU": "règnent",
+            "choice_EkxCAqqcEI": "fuient",
+            "choice_4ybR0c9cEU": "travaillent"
+        },
+        "de": {
+            "header": "Was ist ein bewertetes Team?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "Durch die Bewertung eines Teams werden Ihre Mitarbeiter dazu gebracht, sich als Team zu fühlen, zu denken und zu arbeiten.",
+            "tips": "Das Konzept des Teambuildings wurde Anfang der 80er Jahre veröffentlicht. Das Ziel? Stärkung des Teamzusammenhalts durch Spiele, Krisenmanagement, Schulungen usw.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Wenn Sie ein Team bewerten möchten, müssen Sie die Teammitglieder {{sel20255}}, {{sel81339}} und dann als Team {{sel88644}}.",
+            "choice_VklQh5q5N8": "leiden",
+            "choice_EkbQ3q55EL": "fühlen",
+            "choice_N1lUpcc5VU": "denken",
+            "choice_41~8accqVU": "behherrschen",
+            "choice_EkxCAqqcEI": "weglaufen",
+            "choice_4ybR0c9cEU": "Arbeit"
+        },
+        "th": {
+            "header": "What is a valuated team?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Valuating a team passes through making your collaborators feel, think and work as a team.",
+            "tips": "The concept of team building appeared in the early 1980's. The objective? Reinforce team cohesion through games, crisis situation management, trainings, etc.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Valuating a team passes through making your collaborators {{sel20255}}, {{sel81339}}, and then {{sel88644}} as a team.",
+            "choice_VklQh5q5N8": "suffer",
+            "choice_EkbQ3q55EL": "feel",
+            "choice_N1lUpcc5VU": "think",
+            "choice_41~8accqVU": "rule",
+            "choice_EkxCAqqcEI": "run away",
+            "choice_4ybR0c9cEU": "work"
+        }
+    }
+}

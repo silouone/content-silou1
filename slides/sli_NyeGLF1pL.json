@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-23T12:50:42.803Z",
+            "updatedAt": "2019-05-23T13:27:05.912Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41pfW8yaL"
+            ],
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NyeGLF1pL",
+        "universalRef": "sli_NyeGLF1pL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel25886",
+                        "items": [
+                            {
+                                "text": "choice_VkldfLYJ6U",
+                                "value": "choice_VkldfLYJ6U"
+                            },
+                            {
+                                "text": "choice_41bdfLYyaI",
+                                "value": "choice_41bdfLYyaI"
+                            },
+                            {
+                                "text": "choice_N1YQIF1T8",
+                                "value": "choice_N1YQIF1T8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel25886",
+                        "answers": [
+                            "choice_N1YQIF1T8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Client name: check!<br>Client address: check!<br>Client bank account number: check!<br>Client project date of release: check!<br>What could you have forgotten…?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Before you make your opening pitch, make sure you have a complete list of the other side’s negotiating points. You must be clear what is included and what is not.",
+            "tips": "According to Robert H. Mnookin, professor at Harvard Law School and Chairman of the Program on Negotiation, Nelson Mandela will certainly be remembered as one of the best negotiators in history.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel25886}}",
+            "choice_VkldfLYJ6U": "Client insta",
+            "choice_41bdfLYyaI": "Client birthday date",
+            "choice_N1YQIF1T8": "Damn, what it is about by the way?"
+        },
+        "fr": {
+            "header": "Nom du client : check ! <br> Adresse du client : check ! <br> Numéro de compte bancaire du client : check ! <br> Date de publication du projet client : check ! <br> Qu'auriez-vous pu oublier…?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Avant de commencer, assurez-vous que vous disposez d’une liste complète des points de négociation de l’autre partie. Vous devez savoir clairement ce qui est inclus et ce qui ne l’est pas.",
+            "tips": "Selon Robert H. Mnookin, professeur à la faculté de droit de Harvard et président du « Program on Negociation » (consortium dédié à la théorie et la pratique de la négociation), on se souviendra certainement de Nelson Mandela comme l'un des meilleurs négociateurs de l'histoire.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel25886}}",
+            "choice_VkldfLYJ6U": "La demande du client",
+            "choice_41bdfLYyaI": "La date d'anniversaire du client",
+            "choice_N1YQIF1T8": "Bon sang, de quoi s'agit-il au fait ?"
+        },
+        "de": {
+            "header": "Client name: check!\nClient address: check!\nClient bank account number: check!\nClient project date of release: check!\nWhat could you have forgotten…?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Before you make your opening pitch, make sure you have a complete list of the other side’s negotiating points. You must be clear what is included and what is not.",
+            "tips": "According to Robert H. Mnookin, professor at Harvard Law School and Chairman of the Program on Negotiation, Nelson Mandela will certainly be remembered as one of the best negotiators in history.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel25886}}",
+            "choice_VkldfLYJ6U": "Client insta",
+            "choice_41bdfLYyaI": "Client birthday date",
+            "choice_N1YQIF1T8": "Damn, what it is about by the way? "
+        },
+        "th": {
+            "header": "Client name: check!<br>Client address: check!<br>Client bank account number: check!<br>Client project date of release: check!<br>What could you have forgotten…?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Before you make your opening pitch, make sure you have a complete list of the other side’s negotiating points. You must be clear what is included and what is not.",
+            "tips": "According to Robert H. Mnookin, professor at Harvard Law School and Chairman of the Program on Negotiation, Nelson Mandela will certainly be remembered as one of the best negotiators in history.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel25886}}",
+            "choice_VkldfLYJ6U": "Client insta",
+            "choice_41bdfLYyaI": "Client birthday date",
+            "choice_N1YQIF1T8": "Damn, what it is about by the way?"
+        }
+    }
+}

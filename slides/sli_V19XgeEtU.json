@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T08:13:40.549Z",
+            "updatedAt": "2019-04-09T12:45:12.758Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1fm99TO8"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_V19XgeEtU",
+        "universalRef": "sli_V19XgeEtU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V19XgeEtU.choice_EJXaexEFI.id",
+                        "label": "choice_EJXaexEFI",
+                        "value": "choice_EJXaexEFI"
+                    },
+                    {
+                        "id": "sli_V19XgeEtU.choice_EkCRlgVtL.id",
+                        "label": "choice_EkCRlgVtL",
+                        "value": "choice_EkCRlgVtL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkCRlgVtL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should leaders do when tasks have been performed well?",
+            "explanation": "Select the correct answer.",
+            "klf": "Once tasks have been performed, recognize the contributions of others and ensure that credit is awarded where due.",
+            "tips": "Providing constructive feedback has become a precise science. Among thousands of insights on the web, one phrase appears to be essential: feedback can either be corrective or positive, but never strictly negative!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJXaexEFI": "Take the credit for the team’s achievement; they couldn’t have done it without strong leadership",
+            "choice_EkCRlgVtL": "Congratulate the team as a whole and give credit to individuals where it’s due"
+        },
+        "fr": {
+            "header": "Que doivent faire les dirigeants lorsque les tâches ont été correctement réalisées ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Une fois les tâches effectuées, reconnaissez les contributions des autres et assurez-vous que le mérite leur en revienne le cas échéant.",
+            "tips": "Faire des commentaires constructifs est devenu une science précise. Parmi les milliers d'informations qui circulent sur le Web, une phrase peut se révéler essentielle : un feedback peut être critique ou positif, mais jamais strictement négatif !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJXaexEFI": "S'attribuer tout le mérite résultant de la réussite de l’équipe ; ils n'auraient pas pu le faire sans un leadership solide",
+            "choice_EkCRlgVtL": "Féliciter l’équipe dans son ensemble et plus particulièrement les personnes à qui le mérite revient le cas échéant."
+        },
+        "de": {
+            "header": "What should leaders do when tasks have been performed well?",
+            "explanation": "Select the correct answer.",
+            "klf": "Once tasks have been performed, recognize the contributions of others and ensure that credit is awarded where due.",
+            "tips": "Providing constructive feedback has become a precise science. Among thousands of insights on the web, one phrase appears to be essential: feedback can either be corrective or positive, but never strictly negative!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJXaexEFI": "Take the credit for the team’s achievement; they couldn’t have done it without strong leadership",
+            "choice_EkCRlgVtL": "Congratulate the team as a whole and give credit to individuals where it’s due"
+        },
+        "th": {
+            "header": "What should leaders do when tasks have been performed well?",
+            "explanation": "Select the correct answer.",
+            "klf": "Once tasks have been performed, recognize the contributions of others and ensure that credit is awarded where due.",
+            "tips": "Providing constructive feedback has become a precise science. Among thousands of insights on the web, one phrase appears to be essential: feedback can either be corrective or positive, but never strictly negative!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJXaexEFI": "Take the credit for the team’s achievement; they couldn’t have done it without strong leadership",
+            "choice_EkCRlgVtL": "Congratulate the team as a whole and give credit to individuals where it’s due"
+        }
+    }
+}

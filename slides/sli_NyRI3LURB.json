@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-11-27T16:15:16.092Z",
+            "updatedAt": "2019-01-21T14:42:10.812Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1R7LHL0S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NyRI3LURB",
+        "universalRef": "sli_NyRI3LURB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel37678",
+                        "items": [
+                            {
+                                "text": "choice_41ejjnILAr",
+                                "value": "choice_41ejjnILAr"
+                            },
+                            {
+                                "text": "choice_4JZjs3UUCH",
+                                "value": "choice_4JZjs3UUCH"
+                            },
+                            {
+                                "text": "choice_Vyin0LIRH",
+                                "value": "choice_Vyin0LIRH"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel37678",
+                        "answers": [
+                            "choice_4JZjs3UUCH"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's the role of body language in the understanding of someone's state of mind?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Body language is just as informative as the vocal language we use every day!",
+            "tips": "When addressing important issues, spread your palms up to encourage a positive reaction.",
+            "clue": "xx",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Body language is {{sel37678}} the vocal language we use every day.",
+            "choice_41ejjnILAr": "less informative than",
+            "choice_4JZjs3UUCH": "just as informative as",
+            "choice_Vyin0LIRH": "more informative than"
+        },
+        "fr": {
+            "header": "Dans quelle mesure le langage corporel aide-t-il à comprendre l’état d’esprit d’une personne ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Le langage corporel n’a qu’un rôle informatif, tout comme le langage vocal que nous utilisons au quotidien !",
+            "tips": "Pour traiter des questions importantes, positionner les mains avec les paumes vers le haut afin d’encourager les réactions positives.",
+            "clue": "xx",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le langage corporel est {{sel37678}} le langage vocal que nous utilisons au quotidien.",
+            "choice_41ejjnILAr": "Moins informatif que",
+            "choice_4JZjs3UUCH": "Aussi informatif que",
+            "choice_Vyin0LIRH": "Plus informatif que"
+        },
+        "de": {
+            "header": "Welche Rolle spielt die Körpersprache beim Verstehen des Geisteszustandes einer Person?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Körpersprache ist ebenso informativ wie die von uns täglich verwendete Vokalsprache!",
+            "tips": "Wenn Sie wichtige Themen adressieren, spreizen Sie Ihre Handflächen nach oben, um eine positive Reaktion zu fördern.",
+            "clue": "xx",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Körpersprache ist {{sel37678}}, die Vokalsprache, die wir täglich verwenden.",
+            "choice_41ejjnILAr": "weniger informativ als",
+            "choice_4JZjs3UUCH": "genauso informativ wie",
+            "choice_Vyin0LIRH": "informativer als"
+        },
+        "th": {
+            "header": "อะไรคือบทบาทของภาษากายในการทำความเข้าใจสภาวะทางจิตใจของคนๆ หนึ่ง",
+            "explanation": "เลือกคำตอบที่ถูกต้องจากเมนูแบบดรอปดาวน์",
+            "klf": "ภาษากายให้ข้อมูลได้เทียบเท่ากับภาษาพูดที่เราใช้ในทุกๆ วัน!",
+            "tips": "เมื่อพูดถึงประเด็นสำคัญ ให้ผายมือขึ้นเพื่อกระตุ้นให้เกิดการตอบสนองเชิงบวก",
+            "clue": "xx",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "ภาษากาย {{sel37678}} ภาษาพูดที่เราใช้ในทุกๆ วัน",
+            "choice_41ejjnILAr": "ให้ข้อมูลได้น้อยกว่า",
+            "choice_4JZjs3UUCH": "ให้ข้อมูลได้เทียบเท่ากับ",
+            "choice_Vyin0LIRH": "ให้ข้อมูลได้มากกว่า"
+        }
+    }
+}
