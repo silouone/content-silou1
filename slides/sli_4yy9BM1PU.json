@@ -1,0 +1,155 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-11T09:53:06.609Z",
+            "updatedAt": "2019-04-03T09:13:40.182Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JOJpEs8L"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4yy9BM1PU",
+        "universalRef": "sli_4yy9BM1PU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel26788",
+                        "items": [
+                            {
+                                "text": "choice_E1gcI5MyvL",
+                                "value": "choice_E1gcI5MyvL"
+                            },
+                            {
+                                "text": "choice_4Jao5z1D8",
+                                "value": "choice_4Jao5z1D8"
+                            },
+                            {
+                                "text": "choice_NyZ2qz1D8",
+                                "value": "choice_NyZ2qz1D8"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel47525",
+                        "items": [
+                            {
+                                "text": "choice_EyWUeiM1DI",
+                                "value": "choice_EyWUeiM1DI"
+                            },
+                            {
+                                "text": "choice_V1SGsf1PI",
+                                "value": "choice_V1SGsf1PI"
+                            },
+                            {
+                                "text": "choice_E19fjMywU",
+                                "value": "choice_E19fjMywU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel26788",
+                        "answers": [
+                            "choice_E1gcI5MyvL"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel47525",
+                        "answers": [
+                            "choice_E19fjMywU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you prepare when discussing absenteeism with an employee?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Before stepping into a discussion about absenteeism with an employee, make sure you will be able to keep your emotions in check and to focus on facts.",
+            "tips": "According to a survey, 69 % of managers feel nervous or uncomfortable when communicating with employees.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It’s essential that you prepare both {{sel26788}} and {{sel47525}}.",
+            "choice_E1gcI5MyvL": "the facts",
+            "choice_4Jao5z1D8": "the action plan",
+            "choice_NyZ2qz1D8": "the solutions",
+            "choice_EyWUeiM1DI": "your repartee",
+            "choice_V1SGsf1PI": "your notepad",
+            "choice_E19fjMywU": "your emotions"
+        },
+        "fr": {
+            "header": "Que devriez-vous préparer lorsque vous discutez de l'absentéisme avec un employé ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Avant de vous lancer dans une discussion sur l'absentéisme avec un employé, assurez-vous d'être capable de maîtriser vos émotions et de vous concentrer sur les faits.",
+            "tips": "Selon un sondage, 69% des cadres se sentent nerveux ou mal à l'aise lorsqu'ils communiquent avec leurs employés.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Il est essentiel que vous prépariez {{sel26788}} et {{sel47525}}.",
+            "choice_E1gcI5MyvL": "les faits",
+            "choice_4Jao5z1D8": "le plan d'action",
+            "choice_NyZ2qz1D8": "les solutions",
+            "choice_EyWUeiM1DI": "votre repartie",
+            "choice_V1SGsf1PI": "votre bloc-notes",
+            "choice_E19fjMywU": "vos émotions"
+        },
+        "de": {
+            "header": "What should you prepare when discussing absenteeism with an employee?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Before stepping into a discussion about absenteeism with an employee, make sure you will be able to keep your emotions in check and to focus on facts.",
+            "tips": "According to a survey, 69 % of managers feel nervous or uncomfortable when communicating with employees.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It’s essential that you prepare both {{sel26788}} and {{sel47525}}.",
+            "choice_E1gcI5MyvL": "the facts",
+            "choice_4Jao5z1D8": "the action plan",
+            "choice_NyZ2qz1D8": "the solutions",
+            "choice_EyWUeiM1DI": "your repartee",
+            "choice_V1SGsf1PI": "your notepad",
+            "choice_E19fjMywU": "your emotions"
+        },
+        "th": {
+            "header": "What should you prepare when discussing absenteeism with an employee?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Before stepping into a discussion about absenteeism with an employee, make sure you will be able to keep your emotions in check and to focus on facts.",
+            "tips": "According to a survey, 69 % of managers feel nervous or uncomfortable when communicating with employees.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It’s essential that you prepare both {{sel26788}} and {{sel47525}}.",
+            "choice_E1gcI5MyvL": "the facts",
+            "choice_4Jao5z1D8": "the action plan",
+            "choice_NyZ2qz1D8": "the solutions",
+            "choice_EyWUeiM1DI": "your repartee",
+            "choice_V1SGsf1PI": "your notepad",
+            "choice_E19fjMywU": "your emotions"
+        }
+    }
+}

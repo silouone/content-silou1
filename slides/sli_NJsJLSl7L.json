@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T17:46:57.256Z",
+            "updatedAt": "2019-02-22T11:44:30.973Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkF26kyGI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJsJLSl7L",
+        "universalRef": "sli_NJsJLSl7L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJsJLSl7L.choice_E1gJMIBgmL.id",
+                        "label": "choice_E1gJMIBgmL",
+                        "value": "choice_E1gJMIBgmL",
+                        "media": "med_N11zIrgX8"
+                    },
+                    {
+                        "id": "sli_NJsJLSl7L.choice_Eke~fIrl78.id",
+                        "label": "choice_Eke~fIrl78",
+                        "value": "choice_Eke~fIrl78",
+                        "media": "med_Ek~MUBlmU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Eke~fIrl78"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Once a decision is taken, you can never go back on it.",
+            "explanation": "Select the correct answer.",
+            "klf": "Many decisions are not final. Be open to modifying your decision if better information becomes available.",
+            "tips": "The fear of being wrong is a common cause of slow decision-making. You must keep in mind that mistakes can occur, and that they are rarely fatal. Being wrong is often better than not deciding at all.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1gJMIBgmL": "TRUE",
+            "choice_Eke~fIrl78": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Dès lors que vous avez pris une décision, il vous est impossible de revenir dessus.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Bon nombre de décisions ne sont pas définitives. Ne pas hésiter à modifier votre décision si vous disposez d'informations plus pertinentes.",
+            "tips": "La crainte de se tromper mène bien souvent à une prise de décision trop lente. Garder à l'esprit qu'il arrive de se tromper, et que les erreurs sont rarement fatales. Bien souvent, une erreur est préférable à une absence de décision.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1gJMIBgmL": "Vrai",
+            "choice_Eke~fIrl78": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Sobald eine Entscheidung getroffen wurde, können Sie nie wieder darauf zurückgreifen.",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Viele Entscheidungen sind nicht endgültig. Seien Sie offen für die Änderung Ihrer Entscheidung, wenn bessere Informationen verfügbar werden.",
+            "tips": "Die Angst, falsch zu sein, ist eine häufige Ursache für langsame Entscheidungen. Sie müssen bedenken, dass Fehler auftreten können und dass sie selten tödlich sind. Falsch zu liegen ist oft besser als gar nicht zu entscheiden.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1gJMIBgmL": "Wahr",
+            "choice_Eke~fIrl78": "Falsch"
+        },
+        "th": {
+            "header": "True or false? Once a decision is taken, you can never go back on it.",
+            "explanation": "Select the correct answer.",
+            "klf": "Many decisions are not final. Be open to modifying your decision if better information becomes available.",
+            "tips": "The fear of being wrong is a common cause of slow decision-making. You must keep in mind that mistakes can occur, and that they are rarely fatal. Being wrong is often better than not deciding at all.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1gJMIBgmL": "TRUE",
+            "choice_Eke~fIrl78": "FALSE"
+        }
+    }
+}

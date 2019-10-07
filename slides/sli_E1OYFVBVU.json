@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-07T15:12:33.071Z",
+            "updatedAt": "2019-02-15T15:42:20.715Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1QxRJHE8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_E1OYFVBVU",
+        "universalRef": "sli_E1OYFVBVU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel62322",
+                        "items": [
+                            {
+                                "text": "choice_VylZhtNSEL",
+                                "value": "choice_VylZhtNSEL"
+                            },
+                            {
+                                "text": "choice_4y~bhKNBNI",
+                                "value": "choice_4y~bhKNBNI"
+                            },
+                            {
+                                "text": "choice_VkOnKNr4L",
+                                "value": "choice_VkOnKNr4L"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel62322",
+                        "answers": [
+                            "choice_VylZhtNSEL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When people are detached from something, how are they likely to behave towards it?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "People who are detached from a situation, object, or person will care less about them. You must get people involved by having them relate personally to your needs.",
+            "tips": "You can hardly create a connection with others when you put yourself above them. When an employee has a problem, switching to your own personal experience and to how you overcame the situation or not is a good way to connect.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "They will feel {{sel62322}} involved.",
+            "choice_VylZhtNSEL": "less",
+            "choice_4y~bhKNBNI": "more",
+            "choice_VkOnKNr4L": "equally"
+        },
+        "fr": {
+            "header": "Quand les gens sont détachés d'une chose, comment sont-ils susceptibles de se comporter envers elle ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les gens qui sont détachés d'une situation, d'un objet ou d'une personne s'en soucieront moins. Vous devez impliquer les gens en les faisant se sentir personnellement concernés par vos besoins.",
+            "tips": "Vous pouvez difficilement créer un lien avec les autres lorsque vous vous placez au-dessus d’eux. Lorsqu'un employé a un problème, parler de votre expérience personnelle et de la manière dont vous avez surmonté ou non la situation est un bon moyen d'établir une connexion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Ils se sentiront {{sel62322}} impliqués.",
+            "choice_VylZhtNSEL": "moins",
+            "choice_4y~bhKNBNI": "plus",
+            "choice_VkOnKNr4L": "tout aussi"
+        },
+        "de": {
+            "header": "Wenn sich Menschen von etwas distanzieren, wie verhalten sie sich danach?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Personen, die von einer Situation, einem Objekt oder einer Person getrennt sind, kümmern sich weniger um sie. Sie müssen die Menschen einbeziehen, indem Sie sie persönlich auf Ihre Bedürfnisse beziehen.",
+            "tips": "Sie können kaum eine Verbindung zu anderen aufbauen, wenn Sie sich darüber stellen. Wenn ein Mitarbeiter ein Problem hat, ist der Wechsel zu Ihrer eigenen persönlichen Erfahrung und zu der Frage, wie Sie die Situation überwunden haben oder nicht, eine gute Möglichkeit, eine Verbindung herzustellen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sie fühlen sich {{sel62322}} beteiligt.",
+            "choice_VylZhtNSEL": "Weniger",
+            "choice_4y~bhKNBNI": "Mehr",
+            "choice_VkOnKNr4L": "gleichermaßen"
+        },
+        "th": {
+            "header": "When people are detached from something, how are they likely to behave towards it?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "People who are detached from a situation, object, or person will care less about them. You must get people involved by having them relate personally to your needs.",
+            "tips": "You can hardly create a connection with others when you put yourself above them. When an employee has a problem, switching to your own personal experience and to how you overcame the situation or not is a good way to connect.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "They will feel {{sel62322}} involved.",
+            "choice_VylZhtNSEL": "less",
+            "choice_4y~bhKNBNI": "more",
+            "choice_VkOnKNr4L": "equally"
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T11:30:23.097Z",
+            "updatedAt": "2019-02-12T08:58:48.750Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EymR0grV8"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4y7djr94I",
+        "universalRef": "sli_4y7djr94I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4y7djr94I.choice_EyoKjHqNU.id",
+                        "label": "choice_EyoKjHqNU",
+                        "value": "choice_EyoKjHqNU"
+                    },
+                    {
+                        "id": "sli_4y7djr94I.choice_VyFqsBqVU.id",
+                        "label": "choice_VyFqsBqVU",
+                        "value": "choice_VyFqsBqVU"
+                    },
+                    {
+                        "id": "sli_4y7djr94I.choice_VJbssH5V8.id",
+                        "label": "choice_VJbssH5V8",
+                        "value": "choice_VJbssH5V8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyFqsBqVU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you find motivation to complete an unpleasant task?",
+            "explanation": "Select the correct answer.",
+            "klf": "It doesn't matter how you feel about a task; if the only thing stopping you from getting started is your own mood then put these emotions aside and get started!",
+            "tips": "Curious about why you keep delaying unpleasant tasks? <a href=\"https://www.youtube.com/watch?v=arj7oStGLkU\" target=\"_blank\">This Ted Talk</a> is for you!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyoKjHqNU": "Take a week-long course in motivation techniques",
+            "choice_VyFqsBqVU": "Motivation follows action. In other words, get started",
+            "choice_VJbssH5V8": "You can always find motivation for unpleasant tasks through positive thinking",
+            "null": ""
+        },
+        "fr": {
+            "header": "Comment pouvez-vous trouver la motivation pour mener à bien une tâche désagréable ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Peu importe ce que vous ressentez par rapport à une tâche ; si la seule chose qui vous empêche de commencer est votre propre humeur, alors mettez ces émotions de côté et commencez !",
+            "tips": "Curieux de savoir pourquoi vous continuez à retarder les tâches désagréables ? <a href=\"https://www.youtube.com/watch?v=arj7oStGLkU\" target=\"_blank\">Ce Ted Talk</a> est fait pour vous !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyoKjHqNU": "En suivant un cours d'une semaine sur les techniques de motivation",
+            "choice_VyFqsBqVU": "La motivation suit l'action. En d'autres termes, commencez",
+            "choice_VJbssH5V8": "Vous pouvez toujours trouver la motivation pour des tâches désagréables grâce à la pensée positive"
+        },
+        "de": {
+            "header": "Wie finden Sie die Motivation, eine unangenehme Aufgabe zu erledigen?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Es spielt keine Rolle, ob Sie Lust auf eine Aufgabe haben; Wenn das Einzige, was Sie davon abhält, sich auf den Weg zu machen, Ihre eigene Stimmung ist, legen Sie diese Emotionen beiseite und machen Sie sich auf den Weg!",
+            "tips": "Neugierig, warum Sie unangenehme Aufgaben immer wieder aufschieben? <a href=\"https://www.youtube.com/watch?v=arj7oStGLkU\" target=\"_blank\">Dieser Ted Talk</a> ist für dich!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyoKjHqNU": "Nehmen Sie an einem einwöchigen Kurs in Motivationstechniken teil",
+            "choice_VyFqsBqVU": "Motivation folgt Aktion. Mit anderen Worten, loslegen",
+            "choice_VJbssH5V8": "Motivation für unangenehme Aufgaben finden Sie immer durch positives Denken"
+        },
+        "th": {
+            "header": "How can you find motivation to complete an unpleasant task?",
+            "explanation": "Select the correct answer.",
+            "klf": "It doesn't matter how you feel about a task; if the only thing stopping you from getting started is your own mood then put these emotions aside and get started!",
+            "tips": "Curious about why you keep delaying unpleasant tasks? <a href=\"https://www.youtube.com/watch?v=arj7oStGLkU\" target=\"_blank\">This Ted Talk</a> is for you!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyoKjHqNU": "Take a week-long course in motivation techniques",
+            "choice_VyFqsBqVU": "Motivation follows action. In other words, get started",
+            "choice_VJbssH5V8": "You can always find motivation for unpleasant tasks through positive thinking",
+            "null": ""
+        }
+    }
+}

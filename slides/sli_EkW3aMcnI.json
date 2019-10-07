@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-19T10:24:02.829Z",
+            "updatedAt": "2019-05-19T10:24:02.829Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kdTdCOsU"
+            ],
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EkW3aMcnI",
+        "universalRef": "sli_EkW3aMcnI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkW3aMcnI.choice_VJ066fcn8.id",
+                        "label": "choice_VJ066fcn8",
+                        "value": "choice_VJ066fcn8"
+                    },
+                    {
+                        "id": "sli_EkW3aMcnI.choice_VJlC6fc2I.id",
+                        "label": "choice_VJlC6fc2I",
+                        "value": "choice_VJlC6fc2I"
+                    },
+                    {
+                        "id": "sli_EkW3aMcnI.choice_NybATM5hI.id",
+                        "label": "choice_NybATM5hI",
+                        "value": "choice_NybATM5hI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJ066fcn8",
+                        "choice_VJlC6fc2I",
+                        "choice_NybATM5hI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What words can you use to open up the discussion?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can use all of these words to open up the discussion, while avoiding getting stuck in a deal.",
+            "tips": "You can make your bargaining partner very happy by making several concessions, even if they don’t get what they thought they wanted.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ066fcn8": "If",
+            "choice_VJlC6fc2I": "When",
+            "choice_NybATM5hI": "Potentially"
+        },
+        "fr": {
+            "header": "Quels mots pouvez-vous utiliser pour ouvrir la discussion ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous pouvez utiliser tous ces mots pour ouvrir la discussion, tout en évitant de rester bloqué dans un accord.",
+            "tips": "Vous pouvez satisfaire votre partenaire de négociation en faisant plusieurs concessions, même s’il n’obtient pas ce qu’il pensait vouloir.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ066fcn8": "Si",
+            "choice_VJlC6fc2I": "Quand",
+            "choice_NybATM5hI": "Potentiellement"
+        },
+        "de": {
+            "header": "What words can you use to open up the discussion?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can use all of these words to open up the discussion, while avoiding getting stuck in a deal.",
+            "tips": "You can make your bargaining partner very happy by making several concessions, even if they don’t get what they thought they wanted.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ066fcn8": "If",
+            "choice_VJlC6fc2I": "When",
+            "choice_NybATM5hI": "Potentially"
+        },
+        "th": {
+            "header": "What words can you use to open up the discussion?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can use all of these words to open up the discussion, while avoiding getting stuck in a deal.",
+            "tips": "You can make your bargaining partner very happy by making several concessions, even if they don’t get what they thought they wanted.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ066fcn8": "If",
+            "choice_VJlC6fc2I": "When",
+            "choice_NybATM5hI": "Potentially"
+        }
+    }
+}

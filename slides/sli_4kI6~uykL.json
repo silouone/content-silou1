@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T13:45:41.487Z",
+            "updatedAt": "2019-01-23T15:25:14.015Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Od6wk18"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4kI6~uykL",
+        "universalRef": "sli_4kI6~uykL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel95294",
+                        "items": [
+                            {
+                                "text": "choice_VkejVzd1yI",
+                                "value": "choice_VkejVzd1yI"
+                            },
+                            {
+                                "text": "choice_VJZoVfOJkL",
+                                "value": "choice_VJZoVfOJkL"
+                            },
+                            {
+                                "text": "choice_VkkMmuk1I",
+                                "value": "choice_VkkMmuk1I"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel95294",
+                        "answers": [
+                            "choice_VJZoVfOJkL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the three concepts to have in mind when planning a meeting?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Plan your meetings, inform the relevant people and have relevant information ready. Put the agenda in a logical order and allocate a sensible time for each item.",
+            "tips": "On Google Hangouts Meetings, the person who is talking appears on the screen. Which can be very confusing if everyone talks at the same time!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel95294}} are the three steps to remember for a successful meeting.",
+            "choice_VkejVzd1yI": "Plan, Analyse and Censor",
+            "choice_VJZoVfOJkL": "Plan, Inform and Prepare",
+            "choice_VkkMmuk1I": "Predict, Inform and React"
+        },
+        "fr": {
+            "header": "Quels sont les trois concepts à garder à l’esprit lorsque vous organisez une réunion ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Planifier vos réunions, informer les personnes concernées et disposer d'informations pertinentes. Organiser l’ordre du jour de manière logique et attribuer une durée raisonnable pour chaque point.",
+            "tips": "Sur Google Hangouts Meetings, la personne qui s’exprime apparaît à l’écran. Détail qui peut prêter à confusion si une autre personne s’exprime au même moment !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel95294}} sont les trois étapes principales à se remémorer pour réussir une réunion.",
+            "choice_VkejVzd1yI": "Planifier, analyser et censurer",
+            "choice_VJZoVfOJkL": "Planifier, informer et préparer",
+            "choice_VkkMmuk1I": "Prédire, informer et réagir"
+        },
+        "de": {
+            "header": "Was sind die drei Konzepte, die bei der Planung eines Meetings zu beachten sind?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Planen Sie Ihre Meetings, informieren Sie die relevanten Personen und halten Sie relevante Informationen bereit. Ordnen Sie die Tagesordnung in eine logische Reihenfolge und ordnen Sie jedem Punkt eine sinnvolle Zeit zu.",
+            "tips": "Bei Google Hangouts Meetings wird die Person, die gerade spricht, auf dem Bildschirm angezeigt. Was sehr verwirrend sein kann, wenn alle gleichzeitig sprechen!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel95294}} sind die drei Schritte, die Sie für ein erfolgreiches Meeting beachten müssen.",
+            "choice_VkejVzd1yI": "Planen, Analysieren und Zensieren",
+            "choice_VJZoVfOJkL": "Planen, informieren und vorbereiten",
+            "choice_VkkMmuk1I": "Vorhersagen, informieren und reagieren"
+        },
+        "th": {
+            "header": "What are the three concepts to have in mind when planning a meeting?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Plan your meetings, inform the relevant people and have relevant information ready. Put the agenda in a logical order and allocate a sensible time for each item.",
+            "tips": "On Google Hangouts Meetings, the person who is talking appears on the screen. Which can be very confusing if everyone talks at the same time!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel95294}} are the three steps to remember for a successful meeting.",
+            "choice_VkejVzd1yI": "Plan, Analyse and Censor",
+            "choice_VJZoVfOJkL": "Plan, Inform and Prepare",
+            "choice_VkkMmuk1I": "Predict, Inform and React"
+        }
+    }
+}

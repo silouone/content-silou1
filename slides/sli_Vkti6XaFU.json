@@ -1,0 +1,146 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-15T09:53:57.888Z",
+            "updatedAt": "2019-04-15T14:17:37.130Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkmNpQ4YL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_Vkti6XaFU",
+        "universalRef": "sli_Vkti6XaFU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vkti6XaFU.choice_NJAMyVTYU.id",
+                        "label": "choice_NJAMyVTYU",
+                        "value": "choice_NJAMyVTYU"
+                    },
+                    {
+                        "id": "sli_Vkti6XaFU.choice_E1wAkEaKL.id",
+                        "label": "choice_E1wAkEaKL",
+                        "value": "choice_E1wAkEaKL"
+                    },
+                    {
+                        "id": "sli_Vkti6XaFU.choice_EkAMgNTK8.id",
+                        "label": "choice_EkAMgNTK8",
+                        "value": "choice_EkAMgNTK8"
+                    },
+                    {
+                        "id": "sli_Vkti6XaFU.choice_NJQVgEptU.id",
+                        "label": "choice_NJQVgEptU",
+                        "value": "choice_NJQVgEptU"
+                    },
+                    {
+                        "id": "sli_Vkti6XaFU.choice_N1uBeE6K8.id",
+                        "label": "choice_N1uBeE6K8",
+                        "value": "choice_N1uBeE6K8"
+                    },
+                    {
+                        "id": "sli_Vkti6XaFU.choice_EJfOeVTFL.id",
+                        "label": "choice_EJfOeVTFL",
+                        "value": "choice_EJfOeVTFL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1wAkEaKL",
+                        "choice_EkAMgNTK8",
+                        "choice_NJQVgEptU",
+                        "choice_N1uBeE6K8"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you react?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Make sure you are prepared before delivering bad news. Take a moment to compose yourself, think about the impact this has, and devise possible solutions to the problem, before delivering the news in a calm manner.",
+            "tips": "According to some experiments, people feel more attracted to bad news rather than neutral or positive stories. This collective hunger to hear and remember bad news is referred to by psychologists as ‘negativity bias’.",
+            "clue": "",
+            "context_title": "You've got bad news to deliver.",
+            "context_description": "Some shipments are going to be late and that will probably impact your business income for the next couple of weeks.",
+            "context_media_description": "",
+            "choice_NJAMyVTYU": "Freak out and yell at everyone",
+            "choice_E1wAkEaKL": "Think about the impact it will have",
+            "choice_EkAMgNTK8": "Communicate in a calm, rational way",
+            "choice_NJQVgEptU": "Compose yourself",
+            "choice_N1uBeE6K8": "Devise possible solutions",
+            "choice_EJfOeVTFL": "Be agressive to the shipping company"
+        },
+        "fr": {
+            "header": "Comment devriez-vous réagir ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Assurez-vous d'être prêt avant d'annoncer de mauvaises nouvelles. Prenez un moment pour vous calmer, réfléchissez à l’impact que cela aura et imaginez des solutions possibles au problème avant de communiquer la nouvelle calmement.",
+            "tips": "Selon certaines expériences, les gens se sentent plus attirés par les mauvaises nouvelles que par des histoires neutres ou positives. Les psychologues appellent cette soif collective d’entendre et de se souvenir des mauvaises nouvelles « le biais de négativité ».",
+            "clue": "",
+            "context_title": "Vous avez de mauvaises nouvelles à annoncer.",
+            "context_description": "Certaines cargaisons vont être en retard et cela aura probablement un impact sur les revenus de votre entreprise pour les deux prochaines semaines.",
+            "context_media_description": "",
+            "choice_NJAMyVTYU": "En paniquant et en criant sur tout le monde",
+            "choice_E1wAkEaKL": "En pensant à l'impact que cela aura",
+            "choice_EkAMgNTK8": "En communiquant de manière calme et rationnelle",
+            "choice_NJQVgEptU": "En vous ressaisissant",
+            "choice_N1uBeE6K8": "En trouvant des solutions possibles",
+            "choice_EJfOeVTFL": "En vous montrant agressif envers la compagnie maritime"
+        },
+        "de": {
+            "header": "How should you react?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Make sure you are prepared before delivering bad news. Take a moment to compose yourself, think about the impact this has, and devise possible solutions to the problem, before delivering the news in a calm manner.",
+            "tips": "According to some experiments, people feel more attracted to bad news rather than neutral or positive stories. This collective hunger to hear and remember bad news is referred to by psychologists as ‘negativity bias’.",
+            "clue": "",
+            "context_title": "You've got bad news to deliver.",
+            "context_description": "Some shipments are going to be late and that will probably impact your business income for the next couple of weeks.",
+            "context_media_description": "",
+            "choice_NJAMyVTYU": "Freak out and yell at everyone",
+            "choice_E1wAkEaKL": "Think about the impact it will have",
+            "choice_EkAMgNTK8": "Communicate in a calm, rational way",
+            "choice_NJQVgEptU": "Compose yourself",
+            "choice_N1uBeE6K8": "Devise possible solutions",
+            "choice_EJfOeVTFL": "Be agressive to the shipping company"
+        },
+        "th": {
+            "header": "How should you react?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Make sure you are prepared before delivering bad news. Take a moment to compose yourself, think about the impact this has, and devise possible solutions to the problem, before delivering the news in a calm manner.",
+            "tips": "According to some experiments, people feel more attracted to bad news rather than neutral or positive stories. This collective hunger to hear and remember bad news is referred to by psychologists as ‘negativity bias’.",
+            "clue": "",
+            "context_title": "You've got bad news to deliver.",
+            "context_description": "Some shipments are going to be late and that will probably impact your business income for the next couple of weeks.",
+            "context_media_description": "",
+            "choice_NJAMyVTYU": "Freak out and yell at everyone",
+            "choice_E1wAkEaKL": "Think about the impact it will have",
+            "choice_EkAMgNTK8": "Communicate in a calm, rational way",
+            "choice_NJQVgEptU": "Compose yourself",
+            "choice_N1uBeE6K8": "Devise possible solutions",
+            "choice_EJfOeVTFL": "Be agressive to the shipping company"
+        }
+    }
+}

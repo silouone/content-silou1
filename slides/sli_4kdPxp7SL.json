@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T15:41:27.769Z",
+            "updatedAt": "2019-02-18T15:41:27.769Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJP2Dh7rI"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_4kdPxp7SL",
+        "universalRef": "sli_4kdPxp7SL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4kdPxp7SL.choice_4yndeT7BI.id",
+                        "label": "choice_4yndeT7BI",
+                        "value": "choice_4yndeT7BI"
+                    },
+                    {
+                        "id": "sli_4kdPxp7SL.choice_Nkyte67HU.id",
+                        "label": "choice_Nkyte67HU",
+                        "value": "choice_Nkyte67HU"
+                    },
+                    {
+                        "id": "sli_4kdPxp7SL.choice_41-Yga7S8.id",
+                        "label": "choice_41-Yga7S8",
+                        "value": "choice_41-Yga7S8"
+                    },
+                    {
+                        "id": "sli_4kdPxp7SL.choice_VyAtgTQB8.id",
+                        "label": "choice_VyAtgTQB8",
+                        "value": "choice_VyAtgTQB8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yndeT7BI",
+                        "choice_Nkyte67HU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Does showing empathy mean the customer is right?",
+            "explanation": "Select the correct answers.",
+            "klf": "Just because you can empathize with a situation, it does not mean that the other person is automatically correct.",
+            "tips": "Empathy comes from the Greek word <i>empatheia</i>, from <i>em</i> which means ‘in’ and <i>pathos</i> ‘feeling’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yndeT7BI": "No, it is possible to relate to someone without making a judgement",
+            "choice_Nkyte67HU": "No, you can empathize even before you have investigated a complaint",
+            "choice_41-Yga7S8": "Yes, if you show empathy you are acknowledging the complaint has merit",
+            "choice_VyAtgTQB8": "It’s impossible to tell"
+        },
+        "fr": {
+            "header": "Faire preuve d’empathie signifie-t-il que le client a raison ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Ce n’est pas parce que vous comprenez une situation que l’autre personne a automatiquement raison.",
+            "tips": "L'empathie provient du mot grec <i>empatheia</i>, issu de <i>em</i> qui signifie « dans » et de <i>pathos</i> « ressentir ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yndeT7BI": "Non, il est possible de se lier avec quelqu'un sans porter de jugement",
+            "choice_Nkyte67HU": "Non, vous pouvez faire preuve d'empathie avant même d'avoir examiné une plainte",
+            "choice_41-Yga7S8": "Oui, si vous faites preuve d'empathie, vous reconnaissez que la plainte est fondée",
+            "choice_VyAtgTQB8": "C'est impossible à dire"
+        },
+        "de": {
+            "header": "Bedeutet Empathie, dass der Kunde Recht hat?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Nur weil Sie sich in eine Situation einfühlen können, bedeutet das nicht, dass die andere Person automatisch korrekt ist.",
+            "tips": "Empathie stammt von dem griechischen Wort <i>Empatheia</i> , von <i>em,</i> was 'ein' ; und <i>Pathos,</i> was 'Gefühl' bedeutet.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yndeT7BI": "Nein, es ist möglich, etwss nachzuempfinden, ohne ein Urteil abzugeben",
+            "choice_Nkyte67HU": "Nein, Sie können sich sogar einfühlen, bevor Sie eine Beschwerde untersucht haben",
+            "choice_41-Yga7S8": "Ja, wenn Sie Empathie zeigen, erkennen Sie an, dass die Beschwerde angebracht ist",
+            "choice_VyAtgTQB8": "Es ist unmöglich zu erkennen"
+        },
+        "th": {
+            "header": "Does showing empathy mean the customer is right?",
+            "explanation": "Select the correct answers.",
+            "klf": "Just because you can empathize with a situation, it does not mean that the other person is automatically correct.",
+            "tips": "Empathy comes from the Greek word <i>empatheia</i>, from <i>em</i> which means ‘in’ and <i>pathos</i> ‘feeling’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yndeT7BI": "No, it is possible to relate to someone without making a judgement",
+            "choice_Nkyte67HU": "No, you can empathize even before you have investigated a complaint",
+            "choice_41-Yga7S8": "Yes, if you show empathy you are acknowledging the complaint has merit",
+            "choice_VyAtgTQB8": "It’s impossible to tell"
+        }
+    }
+}

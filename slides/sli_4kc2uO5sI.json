@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-07T13:42:26.771Z",
+            "updatedAt": "2019-05-14T13:24:41.467Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1n2JIFj8"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4kc2uO5sI",
+        "universalRef": "sli_4kc2uO5sI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_4kc2uO5sI.id",
+                "min": 0,
+                "max": 1,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How many times in your professional life should you threaten the other party in order to make only successful deals?",
+            "explanation": "Drag the slider.",
+            "klf": "Never threaten anyone in a negotiation. It will only lead to 'lose-lose' situations. Or maybe try it once: after all, failure is the greatest teacher!",
+            "tips": "According to many scientists, fight-or-flight responses observed in several animals may be a ground for understanding our behaviors in various situations, such as negotiation. Feelings of threat and fear are determining factors in this equation.<br><a href=\"https://science.howstuffworks.com/life/inside-the-mind/emotions/fear2.htm\" target=\"_blank\">But how does it work exactly?</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "0, or maybe once, just to try",
+            "unitLabel": "",
+            "choice_1": "0",
+            "choice_2": "1",
+            "answerMin": 0,
+            "answerMax": 1
+        },
+        "fr": {
+            "header": "Combien de fois dans votre vie professionnelle devriez-vous menacer l’autre partie afin de ne conclure que des transactions fructueuses ?",
+            "explanation": "Faites glisser le curseur.",
+            "klf": "Ne menacez jamais personne dans une négociation. Cela n'aboutira qu'à des situations perdantes pour les deux parties. Ou bien peut-être essayez-le une fois : après tout, l'échec est le meilleur des professeurs !",
+            "tips": "Selon de nombreux scientifiques, les réactions de combat ou de fuite observées chez plusieurs animaux peuvent nous permettre de comprendre nos comportements dans diverses situations, telle que la négociation. Les sentiments de menace et de peur sont des facteurs déterminants dans cette équation. <br> <a href=\"https://science.howstuffworks.com/life/inside-the-mind/emotions/fear2.htm\" target=\"_blank\">Mais comment cela marche-t-il exactement ?</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "0, ou peut-être une fois, juste pour essayer",
+            "unitLabel": "",
+            "choice_1": "0",
+            "choice_2": "1",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "de": {
+            "header": "How many times in your professional life should you threaten the other party in order to make only successful deals?",
+            "explanation": "Drag the slider.",
+            "klf": "Never threaten anyone in a negotiation. It will only lead to 'lose-lose' situations. Or maybe try it once: after all, failure is the greatest teacher!",
+            "tips": "According to many scientists, fight-or-flight responses observed in several animals may be a ground for understanding our behaviors in various situations, such as negotiation. Feelings of threat and fear are determining factors in this equation.\n<a href=\"https://science.howstuffworks.com/life/inside-the-mind/emotions/fear2.htm\" target=\"_blank\">But how does it work exactly?</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "0, or maybe once, just to try",
+            "unitLabel": " ",
+            "choice_1": "0",
+            "choice_2": "1",
+            "answerMin": 0,
+            "answerMax": 0
+        },
+        "th": {
+            "header": "How many times in your professional life should you threaten the other party in order to make only successful deals?",
+            "explanation": "Drag the slider.",
+            "klf": "Never threaten anyone in a negotiation. It will only lead to 'lose-lose' situations. Or maybe try it once: after all, failure is the greatest teacher!",
+            "tips": "According to many scientists, fight-or-flight responses observed in several animals may be a ground for understanding our behaviors in various situations, such as negotiation. Feelings of threat and fear are determining factors in this equation.<br><a href=\"https://science.howstuffworks.com/life/inside-the-mind/emotions/fear2.htm\" target=\"_blank\">But how does it work exactly?</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "0, or maybe once, just to try",
+            "unitLabel": "",
+            "choice_1": "0",
+            "choice_2": "1",
+            "answerMin": 0,
+            "answerMax": 1
+        }
+    }
+}

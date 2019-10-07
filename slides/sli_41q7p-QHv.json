@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-31T15:15:22.001Z",
+            "updatedAt": "2019-09-03T12:44:14.498Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JPO5147D"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_41q7p-QHv",
+        "universalRef": "sli_41q7p-QHv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41q7p-QHv.choice_Ek2SauQrP.id",
+                        "label": "choice_Ek2SauQrP",
+                        "value": "choice_Ek2SauQrP"
+                    },
+                    {
+                        "id": "sli_41q7p-QHv.choice_41aBa-7BP.id",
+                        "label": "choice_41aBa-7BP",
+                        "value": "choice_41aBa-7BP"
+                    },
+                    {
+                        "id": "sli_41q7p-QHv.choice_VykL6-QSD.id",
+                        "label": "choice_VykL6-QSD",
+                        "value": "choice_VykL6-QSD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ek2SauQrP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "To keep the conversation going, how should you answer your customer's questions?",
+            "explanation": "Select the correct answer.",
+            "klf": "When trying to get more information from your customer, you can answer their question with a question to keep the conversation flowing and better understand their needs.",
+            "tips": "Don't answer your own questions or suggest the answer to your customer: you want to be listening to what they have to say.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek2SauQrP": "With a question: get them talking",
+            "choice_41aBa-7BP": "With a refusal: play hard to get",
+            "choice_VykL6-QSD": "With a confirmation of their opinion: support them"
+        },
+        "fr": {
+            "header": "Pour poursuivre la conversation, comment devriez-vous répondre aux questions de votre client?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Lorsque vous essayez d'obtenir plus d'informations de vos clients, vous pouvez répondre à leur question par une question afin de maintenir la conversation fluide et de mieux comprendre leurs besoins.",
+            "tips": "Ne répondez pas à vos propres questions et ne suggérez pas la réponse à votre client: vous voulez écouter ce qu'il a à dire.",
+            "choice_Ek2SauQrP": "Avec une question: faites-les parler",
+            "choice_41aBa-7BP": "Avec un refus: jouer dur pour obtenir",
+            "choice_VykL6-QSD": "Avec une confirmation de leur opinion: soutenez-les",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "To keep the conversation going, how should you answer your customer's questions?",
+            "explanation": "Select the correct answer.",
+            "klf": "When trying to get more information from your customer, you can answer their question with a question to keep the conversation flowing and better understand their needs.",
+            "tips": "Don't answer your own questions or suggest the answer to your customer: you want to be listening to what they have to say.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek2SauQrP": "With a question: get them talking",
+            "choice_41aBa-7BP": "With a refusal: play hard to get",
+            "choice_VykL6-QSD": "With a confirmation of their opinion: support them"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek2SauQrP": "",
+            "choice_41aBa-7BP": "",
+            "choice_VykL6-QSD": ""
+        }
+    }
+}

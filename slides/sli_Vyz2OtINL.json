@@ -1,0 +1,103 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-08T15:01:57.732Z",
+            "updatedAt": "2019-04-16T09:12:14.369Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJDtNJV4L"
+            ],
+            "status": "draft",
+            "modifiedBy": "florelidolff",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_Vyz2OtINL",
+        "universalRef": "sli_Vyz2OtINL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vyz2OtINL.choice_4JxJ4nYIE8.id",
+                        "label": "choice_4JxJ4nYIE8",
+                        "value": "choice_4JxJ4nYIE8",
+                        "media": "med_VJkN3tUN8"
+                    },
+                    {
+                        "id": "sli_Vyz2OtINL.choice_4yxoS2Y8EU.id",
+                        "label": "choice_4yxoS2Y8EU",
+                        "value": "choice_4yxoS2Y8EU",
+                        "media": "med_VyiB2YUN8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yxoS2Y8EU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? If your decision is based on facts, you don't need to consult with anyone before implementing it, regardless of whom it may affect.",
+            "explanation": "Select the correct answer.",
+            "klf": "If your decisions affect others, make sure to identify who will be affected, check the facts with them and get their opinions. Only after these steps can you make the decision! Finally, always communicate it in writing and follow it up.",
+            "tips": "One way of classifying your different options in decision-making as a leader : command - you decide; collaborative - your team gives feedback; consensus - based on a democratic vote; and convenience - delegating the decision-making.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JxJ4nYIE8": "TRUE",
+            "choice_4yxoS2Y8EU": "FALSE",
+            "null": ""
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Si votre décision est basée sur des faits, vous n'avez pas besoin de consulter qui que ce soit avant de l'instaurer, peu importe les personnes que cela peut affecter.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si vos décisions affectent les autres, assurez-vous d'identifier qui sera touché, vérifiez les faits avec eux et recevez leurs avis. C'est seulement après ces étapes que vous pourrez prendre la décision ! Enfin, communiquez toujours par écrit et faites un suivi.",
+            "tips": "Une façon de classer vos différentes options face à la prise de décision en tant que manager : par commandement - vous décidez ; de façon collaborative - votre équipe donne son avis ; par consensus - basé sur un vote démocratique ; et par commodité - déléguer la prise de décision.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JxJ4nYIE8": "Vrai",
+            "choice_4yxoS2Y8EU": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Wenn Ihre Entscheidung auf Fakten beruht, müssen Sie sich vor der Implementierung nicht mit jemandem in Verbindung setzen, unabhängig davon, wer davon betroffen ist.",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wenn Ihre Entscheidungen andere betreffen, stellen Sie sicher, wer betroffen ist, prüfen Sie die Fakten und holen Sie sich ihre Meinung ein. Erst nach diesen Schritten können Sie die Entscheidung treffen! Teilen Sie es schließlich immer schriftlich mit und verfolgen Sie es weiter.",
+            "tips": "Eine Möglichkeit, Ihre verschiedenen Optionen bei der Entscheidungsfindung als Leader zu klassifizieren: Befehl - Sie entscheiden; kollaborativ - Ihr Team gibt Feedback; Konsens - basierend auf einer demokratischen Abstimmung; und Bequemlichkeit - Delegieren der Entscheidungsfindung.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JxJ4nYIE8": "Wahr",
+            "choice_4yxoS2Y8EU": "Falsch"
+        },
+        "th": {
+            "header": "True or false? If your decision is based on facts, you don't need to consult with anyone before implementing it, regardless of whom it may affect.",
+            "explanation": "Select the correct answer.",
+            "klf": "If your decisions affect others, make sure to identify who will be affected, check the facts with them and get their opinions. Only after these steps can you make the decision! Finally, always communicate it in writing and follow it up.",
+            "tips": "One way of classifying your different options in decision-making as a leader : command - you decide; collaborative - your team gives feedback; consensus - based on a democratic vote; and convenience - delegating the decision-making.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4JxJ4nYIE8": "TRUE",
+            "choice_4yxoS2Y8EU": "FALSE",
+            "null": ""
+        }
+    }
+}

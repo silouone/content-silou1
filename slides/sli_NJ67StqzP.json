@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-31T13:26:51.667Z",
+            "updatedAt": "2019-08-13T09:43:39.250Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1H054lbD"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "kvnpc"
+        },
+        "ref": "sli_NJ67StqzP",
+        "universalRef": "sli_NJ67StqzP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel87170",
+                        "items": [
+                            {
+                                "text": "choice_E1eLLBF9fv",
+                                "value": "choice_E1eLLBF9fv"
+                            },
+                            {
+                                "text": "choice_N1WIUBtcMD",
+                                "value": "choice_N1WIUBtcMD"
+                            },
+                            {
+                                "text": "choice_4y6drYcGP",
+                                "value": "choice_4y6drYcGP"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel87170",
+                        "answers": [
+                            "choice_N1WIUBtcMD"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": null
+    },
+    "locales": {
+        "en": {
+            "header": "How much does the customer know about their own needs and desires?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It is possible that a customer asks you for something, being more or less precise in their request. But you might just help them become aware of another need or desire. Try to dig up the truth by asking the right questions!",
+            "tips": "After buying something that we are confident about, we generally feel positive emotions like satisfaction or happiness, relief and pride. We may also feel on a bit of a high.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The customer {{sel87170}} something different to what they’re asking for.",
+            "choice_E1eLLBF9fv": "don't need",
+            "choice_N1WIUBtcMD": "may need",
+            "choice_4y6drYcGP": "always needs"
+        },
+        "fr": {
+            "header": "Que sait le client de ses propres besoins et désirs ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il est possible qu'un client vous demande quelque chose en étant plus ou moins précis. Mais vous pourriez simplement l'aider à prendre conscience d'un autre besoin ou désir. Essayez de découvrir la vérité en posant les bonnes questions !",
+            "tips": "Après avoir acheté quelque chose dont nous sommes confiants, nous éprouvons généralement des émotions positives comme de la satisfaction ou du bonheur, du soulagement et de la fierté. Nous pouvons également nous sentir un peu excités.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le client {{sel87170}} quelque chose de différent par rapport à ce qu'il demande.",
+            "choice_E1eLLBF9fv": "n'a pas besoin de",
+            "choice_N1WIUBtcMD": "peut avoir besoin de",
+            "choice_4y6drYcGP": "a toujours besoin de"
+        },
+        "de": {
+            "header": "How much does the customer know about their own needs and desires?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It is possible that a customer asks you for something, being more or less precise in their request. But you might just help them become aware of another need or desire. Try to dig up the truth by asking the right questions!",
+            "tips": "After buying something that we are confident about, we generally feel positive emotions like satisfaction or happiness, relieve and pride. We may also feel on a bit of a high.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The customer {{sel87170}} something different to what they’re asking for.",
+            "choice_E1eLLBF9fv": "don't need",
+            "choice_N1WIUBtcMD": "may need",
+            "choice_4y6drYcGP": "always needs"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel87170}}",
+            "choice_E1eLLBF9fv": "",
+            "choice_N1WIUBtcMD": "",
+            "choice_4y6drYcGP": ""
+        }
+    }
+}

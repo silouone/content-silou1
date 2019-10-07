@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-15T15:24:14.226Z",
+            "updatedAt": "2019-02-21T17:15:50.890Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJwepopW8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_V1paFyDfU",
+        "universalRef": "sli_V1paFyDfU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1paFyDfU.choice_Ekqm5kwM8.id",
+                        "label": "choice_Ekqm5kwM8",
+                        "value": "choice_Ekqm5kwM8"
+                    },
+                    {
+                        "id": "sli_V1paFyDfU.choice_NJs751DGU.id",
+                        "label": "choice_NJs751DGU",
+                        "value": "choice_NJs751DGU"
+                    },
+                    {
+                        "id": "sli_V1paFyDfU.choice_Ekp79JDz8.id",
+                        "label": "choice_Ekp79JDz8",
+                        "value": "choice_Ekp79JDz8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ekp79JDz8"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4kw6XpfXL",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is your answer?",
+            "explanation": "Select the correct answer.",
+            "klf": "Check that your team has the skills and resources to deliver the results you need. If not, don’t hesitate to recruit!",
+            "tips": "According to this <a href=\"https://www.urbanbound.com/relocation-statistics-to-know\" target=\"_blank\">article</a>, the relocation industry in the US is worth about $25 billion a year. In that country, an average $16,229,125 per company is spent on relocation every year.",
+            "clue": "",
+            "context_title": "A New Request",
+            "context_description": "You have selected a project manager to oversee an office move: your best employee. However, she tells you that she fears having too much on her plate, so she asks if someone can help her cover part of her day-do-day activity.",
+            "context_media_description": "",
+            "choice_Ekqm5kwM8": "Motivate her by explaining that working more will make her feel more involved",
+            "choice_NJs751DGU": "Fire her: there’s no room for slackers on your team",
+            "choice_Ekp79JDz8": "No problem, that’s a reasonable request"
+        },
+        "fr": {
+            "header": "Que répondez-vous ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vérifier que votre équipe possède les compétences et les ressources requises pour atteindre les résultats attendus. Si ce n'est pas le cas, n'hésitez pas à recruter !",
+            "tips": "Selon cet <a href=\"https://www.urbanbound.com/relocation-statistics-to-know\" target=\"_blank\">article</a>, le secteur du transfert d'entreprises aux USA génère environ 25 milliards de dollars par an. Dans ce pays, chaque entreprise consacre en moyenne 16 229 125 $ par an à des transferts.",
+            "clue": "",
+            "context_title": "Une nouvelle demande",
+            "context_description": "Vous avez choisi une responsable de projet pour superviser le déménagement des bureaux : votre meilleure collaboratrice. Cependant, elle exprime sa crainte d'avoir trop à faire et demande si un collègue peut l'aider à réaliser une partie de ses tâches quotidiennes.",
+            "context_media_description": "",
+            "choice_Ekqm5kwM8": "Motivez-la en lui expliquant qu'elle se sentira mieux investie en travaillant plus",
+            "choice_NJs751DGU": "Renvoyez-la : il n'y a aucune place pour les paresseux dans votre équipe",
+            "choice_Ekp79JDz8": "Aucun problème, c'est une demande raisonnable"
+        },
+        "de": {
+            "header": "Wie ist deine Antwort?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Stellen Sie sicher, dass Ihr Team über die Fähigkeiten und Ressourcen verfügt, um die gewünschten Ergebnisse zu liefern. Wenn nicht, zögern Sie nicht, zu rekrutieren!",
+            "tips": "Laut diesem <a href=\"https://www.urbanbound.com/relocation-statistics-to-know\" target=\"_blank\">Artikel</a> hat die Umzugsbranche in den USA einen jährlichen Wert von etwa 25 Milliarden US-Dollar. In diesem Land werden jedes Jahr durchschnittlich 16.229.125 USD pro Unternehmen für den Umzug ausgegeben.",
+            "clue": "",
+            "context_title": "Eine neue Anfrage",
+            "context_description": "Sie haben einen Projektmanager ausgewählt, der einen Büroumzug überwacht: Ihren besten Mitarbeiter. Sie sagt jedoch, dass sie befürchtet, zu viel auf dem Teller zu haben, und fragt, ob jemand ihr helfen kann, einen Teil ihrer täglichen Arbeit zu decken.",
+            "context_media_description": "",
+            "choice_Ekqm5kwM8": "Motivieren Sie sie, indem Sie erklären, dass sie sich mehr engagiert fühlen wird, wenn Sie mehr arbeitet",
+            "choice_NJs751DGU": "Feuern Sie sie: In Ihrem Team gibt es keinen Platz für Faulenzer",
+            "choice_Ekp79JDz8": "Kein Problem, das ist eine vernünftige Anfrage"
+        },
+        "th": {
+            "header": "What is your answer?",
+            "explanation": "Select the correct answer.",
+            "klf": "Check that your team has the skills and resources to deliver the results you need. If not, don’t hesitate to recruit!",
+            "tips": "According to this <a href=\"https://www.urbanbound.com/relocation-statistics-to-know\" target=\"_blank\">article</a>, the relocation industry in the US is worth about $25 billion a year. In that country, an average $16,229,125 per company is spent on relocation every year.",
+            "clue": "",
+            "context_title": "A New Request",
+            "context_description": "You have selected a project manager to oversee an office move: your best employee. However, she tells you that she fears having too much on her plate, so she asks if someone can help her cover part of her day-do-day activity.",
+            "context_media_description": "",
+            "choice_Ekqm5kwM8": "Motivate her by explaining that working more will make her feel more involved",
+            "choice_NJs751DGU": "Fire her: there’s no room for slackers on your team",
+            "choice_Ekp79JDz8": "No problem, that’s a reasonable request"
+        }
+    }
+}

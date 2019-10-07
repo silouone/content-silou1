@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-13T09:58:58.668Z",
+            "updatedAt": "2019-02-13T09:58:58.668Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WGRkBEI"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VkwStCnNU",
+        "universalRef": "sli_VkwStCnNU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkwStCnNU.choice_NJLvFA2EI.id",
+                        "label": "choice_NJLvFA2EI",
+                        "value": "choice_NJLvFA2EI"
+                    },
+                    {
+                        "id": "sli_VkwStCnNU.choice_VysPKRn48.id",
+                        "label": "choice_VysPKRn48",
+                        "value": "choice_VysPKRn48"
+                    },
+                    {
+                        "id": "sli_VkwStCnNU.choice_4klutChE8.id",
+                        "label": "choice_4klutChE8",
+                        "value": "choice_4klutChE8"
+                    },
+                    {
+                        "id": "sli_VkwStCnNU.choice_E1IuF03NI.id",
+                        "label": "choice_E1IuF03NI",
+                        "value": "choice_E1IuF03NI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJLvFA2EI",
+                        "choice_VysPKRn48",
+                        "choice_4klutChE8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Where can you look for things to admire in a person?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can always find something to admire when looking at a person’s interests, values or experiences. Focus on their positive attributes.",
+            "tips": "To help you focus on the positive traits of a person, forget grudges that you might have and think about something positive they did, for which you are sincerely grateful.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJLvFA2EI": "Their interests",
+            "choice_VysPKRn48": "Their values",
+            "choice_4klutChE8": "Their experiences",
+            "choice_E1IuF03NI": "Their criminal record"
+        },
+        "fr": {
+            "header": "Où pouvez-vous chercher des choses à admirer chez une personne ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous pouvez toujours trouver quelque chose à admirer lorsque vous examinez les intérêts, les valeurs ou les expériences d’une personne. Concentrez-vous sur leurs attributs positifs.",
+            "tips": "Pour vous aider à vous concentrer sur les traits positifs d'une personne, oubliez les rancunes que vous pourriez avoir et pensez à quelque chose de positif qu'elles ont fait, pour lequel vous êtes sincèrement reconnaissant.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJLvFA2EI": "Dans leurs intérêts",
+            "choice_VysPKRn48": "Dans leurs valeurs",
+            "choice_4klutChE8": "Dans leurs expériences",
+            "choice_E1IuF03NI": "Dans leur casier judiciaire"
+        },
+        "de": {
+            "header": "Wo können Sie nach Dingen suchen, die Sie bei einer Person bewundern können?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Sie finden immer etwas Bewunderswertes, wenn Sie die Interessen, Werte oder Erfahrungen einer Person betrachten. Konzentrieren Sie sich auf ihre positiven Eigenschaften.",
+            "tips": "Um Ihnen zu helfen, sich auf die positiven Eigenschaften einer Person zu konzentrieren, vergessen Sie den Neid, den Sie haben könnten, und denken Sie an etwas Positives, das sie getan haben, wofür Sie aufrichtig dankbar sind.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJLvFA2EI": "Ihre Interessen",
+            "choice_VysPKRn48": "Ihre Werte",
+            "choice_4klutChE8": "Ihre Erfahrungen",
+            "choice_E1IuF03NI": "Ihre Vorstrafen"
+        },
+        "th": {
+            "header": "Where can you look for things to admire in a person?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You can always find something to admire when looking at a person’s interests, values or experiences. Focus on their positive attributes.",
+            "tips": "To help you focus on the positive traits of a person, forget grudges that you might have and think about something positive they did, for which you are sincerely grateful.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJLvFA2EI": "Their interests",
+            "choice_VysPKRn48": "Their values",
+            "choice_4klutChE8": "Their experiences",
+            "choice_E1IuF03NI": "Their criminal record"
+        }
+    }
+}

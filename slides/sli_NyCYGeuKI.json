@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-11T09:07:08.469Z",
+            "updatedAt": "2019-04-11T10:33:03.823Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ncHmEtI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_NyCYGeuKI",
+        "universalRef": "sli_NyCYGeuKI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyCYGeuKI.choice_Vy6nfx-FU.id",
+                        "label": "choice_Vy6nfx-FU",
+                        "value": "choice_Vy6nfx-FU"
+                    },
+                    {
+                        "id": "sli_NyCYGeuKI.choice_NJ1pMeOFL.id",
+                        "label": "choice_NJ1pMeOFL",
+                        "value": "choice_NJ1pMeOFL"
+                    },
+                    {
+                        "id": "sli_NyCYGeuKI.choice_E1Zazx-F8.id",
+                        "label": "choice_E1Zazx-F8",
+                        "value": "choice_E1Zazx-F8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1Zazx-F8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is the order of presentation important?",
+            "explanation": "Select the correct answer.",
+            "klf": "What people experience first has an important influence over their evaluation of the next thing they see.",
+            "tips": "Studies have shown that the order of candidates’ names on a ballot affects vote totals. In the 2000 presidential election, George W. Bush got 9 % more votes when his name was listed first on the ballot than when he was listed last. This is partly why ballots randomise the order of candidates’ names.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vy6nfx-FU": "The last thing you see always looks better",
+            "choice_NJ1pMeOFL": "The order is not important",
+            "choice_E1Zazx-F8": "What you see first has an important influence over what you see next"
+        },
+        "fr": {
+            "header": "Pourquoi l'ordre de présentation est-il important ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Ce que les gens expérimentent en premier influence fortement leur façon d'évaluer ce qui suit.",
+            "tips": "Des études ont montré que l'ordre des noms des candidats sur un bulletin de vote affecte le total des votes. Lors de l'élection présidentielle de 2000, George W. Bush a obtenu 9% de voix en plus lorsque son nom figurait en premier sur le bulletin de vote que lorsqu'il était listé en dernier. C’est en partie pour cette raison que l’ordre des noms des candidats est aléatoire sur les bulletins de vote.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vy6nfx-FU": "La dernière chose que vous voyez semble toujours mieux",
+            "choice_NJ1pMeOFL": "L'ordre n'est pas important",
+            "choice_E1Zazx-F8": "Ce que vous voyez en premier influence fortement sur ce que vous voyez ensuite"
+        },
+        "de": {
+            "header": "Why is the order of presentation important?",
+            "explanation": "Select the correct answer.",
+            "klf": "What people experience first has an important influence over their evaluation of the next thing they see.",
+            "tips": "Studies have shown that the order of candidates’ names on a ballot affects vote totals. In the 2000 presidential election, George W. Bush got 9 % more votes when his name was listed first on the ballot than when he was listed last. This is partly why ballots randomise the order of candidates’ names.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vy6nfx-FU": "The last thing you see always looks better",
+            "choice_NJ1pMeOFL": "The order is not important",
+            "choice_E1Zazx-F8": "What you see first has an important influence over what you see next"
+        },
+        "th": {
+            "header": "Why is the order of presentation important?",
+            "explanation": "Select the correct answer.",
+            "klf": "What people experience first has an important influence over their evaluation of the next thing they see.",
+            "tips": "Studies have shown that the order of candidates’ names on a ballot affects vote totals. In the 2000 presidential election, George W. Bush got 9 % more votes when his name was listed first on the ballot than when he was listed last. This is partly why ballots randomise the order of candidates’ names.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vy6nfx-FU": "The last thing you see always looks better",
+            "choice_NJ1pMeOFL": "The order is not important",
+            "choice_E1Zazx-F8": "What you see first has an important influence over what you see next"
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-12T08:53:32.056Z",
+            "updatedAt": "2018-11-09T14:44:41.490Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1m6r84cr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJLjiBYqB",
+        "universalRef": "sli_NJLjiBYqB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_Ny~2fIt9r"
+            ],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJLjiBYqB.choice_V1BelUtcr.id",
+                        "label": "choice_V1BelUtcr",
+                        "value": "choice_V1BelUtcr"
+                    },
+                    {
+                        "id": "sli_NJLjiBYqB.choice_NyaZeLK5S.id",
+                        "label": "choice_NyaZeLK5S",
+                        "value": "choice_NyaZeLK5S"
+                    },
+                    {
+                        "id": "sli_NJLjiBYqB.choice_V1HGlLtqH.id",
+                        "label": "choice_V1HGlLtqH",
+                        "value": "choice_V1HGlLtqH"
+                    },
+                    {
+                        "id": "sli_NJLjiBYqB.choice_Ey9Ml8KqS.id",
+                        "label": "choice_Ey9Ml8KqS",
+                        "value": "choice_Ey9Ml8KqS"
+                    },
+                    {
+                        "id": "sli_NJLjiBYqB.choice_NJgXx8KqB.id",
+                        "label": "choice_NJgXx8KqB",
+                        "value": "choice_NJgXx8KqB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1BelUtcr",
+                        "choice_Ey9Ml8KqS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "John would like to establish Mondays’ breakfast to improve inter office communication. John is also a dreadful cook… What should you do?",
+            "explanation": "Select the correct answers.",
+            "klf": "Champions are people who can help you manage change smoothly. Find out if they need training: a short course can help! Encourage them and address any concerns they might have so they remain positive and enthusiastic about the change!",
+            "tips": "Enrol your champions in a relevant training session will show your confidence in their initiatives and reinforce their enthusiasm. What’s more, they will be able to train their colleagues in their turn!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1BelUtcr": "Praise his idea",
+            "choice_NyaZeLK5S": "Dismiss his idea",
+            "choice_V1HGlLtqH": "Enter his name for a five-year training with a chef",
+            "choice_Ey9Ml8KqS": "Enrol him in Granny’s little bakery one-month course",
+            "choice_NJgXx8KqB": "Entrust the project to Mark (his scones have won prizes)"
+        },
+        "fr": {
+            "header": "John souhaiterait instaurer les petits-déjeuners du lundi afin d’améliorer la communication interne. John est également un piètre cuisinier… Que devez-vous faire ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les champions sont des personnes qui peuvent vous aider à gérer le changement en douceur. Identifiez leur besoin en formation : une formation courte peut être la solution ! Encouragez-les et abordez toutes les préoccupations qu’ils pourraient avoir pour qu’ils conservent une attitude positive et enthousiaste vis-à-vis du changement !",
+            "tips": "Inscrire vos champions à des sessions de formation pertinentes prouvera que vous faites confiance à leur esprit d’initiative et cela les rendra encore plus enthousiastes. Par ailleurs, ils pourront à leur tour former leurs collègues !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1BelUtcr": "Le féliciter pour son idée",
+            "choice_NyaZeLK5S": "Rejeter son idée",
+            "choice_V1HGlLtqH": "L’inscrire à une formation sur cinq ans avec un chef",
+            "choice_Ey9Ml8KqS": "L’inscrire à une formation d’un mois dans une petite boulangerie de quartier",
+            "choice_NJgXx8KqB": "Confier le projet à Mark (il a remporté des prix avec ses croissants)"
+        },
+        "de": {
+            "header": "John möchte montags ein Frühstück einrichten, um die Kommunikation zwischen den Büros zu verbessern. John ist auch ein schrecklicher Koch ... Was sollten Sie tun?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Champions sind Menschen, die Ihnen helfen können, den Wandel reibungslos zu meistern. Finden Sie heraus, ob sie trainiert werden müssen: ein kurzer Kurs kann helfen! Ermutigen Sie sie und gehen Sie auf eventuelle Bedenken ein, damit sie von der Veränderung positiv und begeistert sind!",
+            "tips": "Wenn Sie Ihre Champions für eine relevante Trainingseinheit anmelden, zeigen Sie Ihr Vertrauen in ihre Initiativen und verstärken ihre Begeisterung. Darüber hinaus können sie ihre Kollegen wiederum schulen.",
+            "choice_V1BelUtcr": "Loben Sie seine Idee",
+            "choice_NyaZeLK5S": "Seine Idee abweisen",
+            "choice_V1HGlLtqH": "Geben Sie seinen Namen für eine fünfjährige Ausbildung bei einem Koch ein",
+            "choice_Ey9Ml8KqS": "Schreiben Sie ihn für einen Monat in Omas kleine Bäckerei ein",
+            "choice_NJgXx8KqB": "Vertrauen Sie Mark das Projekt an (seine Scones haben Preise gewonnen)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "th": {
+            "header": "John would like to establish Mondays’ breakfast to improve inter office communication. John is also a dreadful cook… What should you do?",
+            "explanation": "Select the correct answers.",
+            "klf": "Champions are people who can help you manage change smoothly. Find out if they need training: a short course can help! Encourage them and address any concerns they might have so they remain positive and enthusiastic about the change!",
+            "tips": "Enrol your champions in a relevant training session will show your confidence in their initiatives and reinforce their enthusiasm. What’s more, they will be able to train their colleagues in their turn!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1BelUtcr": "Praise his idea",
+            "choice_NyaZeLK5S": "Dismiss his idea",
+            "choice_V1HGlLtqH": "Enter his name for a five-year training with a chef",
+            "choice_Ey9Ml8KqS": "Enrol him in Granny’s little bakery one-month course",
+            "choice_NJgXx8KqB": "Entrust the project to Mark (his scones have won prizes)"
+        }
+    }
+}

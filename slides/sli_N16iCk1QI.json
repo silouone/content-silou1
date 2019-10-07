@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-21T17:22:24.666Z",
+            "updatedAt": "2019-02-22T11:38:54.960Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vkina11z8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_N16iCk1QI",
+        "universalRef": "sli_N16iCk1QI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N16iCk1QI.choice_NJP11gym8.id",
+                        "label": "choice_NJP11gym8",
+                        "value": "choice_NJP11gym8"
+                    },
+                    {
+                        "id": "sli_N16iCk1QI.choice_Nyj11lymL.id",
+                        "label": "choice_Nyj11lymL",
+                        "value": "choice_Nyj11lymL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJP11gym8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is one of the best incentives to motivate a team or individual?",
+            "explanation": "Select the correct answer.",
+            "klf": "Giving your team or individuals a sense of autonomy is an excellent way to motivate them.",
+            "tips": "Having a sense of autonomy usually encourages employees to learn new skills, be creative, and feel responsible for their work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJP11gym8": "Autonomy. Giving them room to move, space to breathe",
+            "choice_Nyj11lymL": "Micromanaging them to keep on their toes"
+        },
+        "fr": {
+            "header": "Quels avantages motivent le mieux une équipe ou un collaborateur ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Accorder une certaine autonomie à votre équipe ou à des collaborateurs est un excellent moyen de les motiver.",
+            "tips": "Le sentiment d'autonomie encourage généralement les employés à acquérir de nouvelles compétences, à faire preuve de créativité et à se sentir responsables de leur travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJP11gym8": "L'autonomie. Accordez-leur de la place pour bouger, pour respirer.",
+            "choice_Nyj11lymL": "Exercer un micromanagement de vos collaborateurs pour contrôler étroitement leur travail"
+        },
+        "de": {
+            "header": "Was ist einer der besten Anreize, um ein Team oder eine Person zu motivieren?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wenn Sie Ihrem Team oder Ihren Mitarbeitern ein Gefühl der Autonomie vermitteln, ist dies eine hervorragende Möglichkeit, sie zu motivieren.",
+            "tips": "Ein Gefühl der Autonomie ermutigt die Mitarbeiter in der Regel, neue Fähigkeiten zu erlernen, kreativ zu sein und sich für ihre Arbeit verantwortlich zu fühlen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJP11gym8": "Autonomie. Ihnen Raum geben, sich zu bewegen, Platz zum Atmen",
+            "choice_Nyj11lymL": "Mikromanagement, damit Sie sie auf Trab halten"
+        },
+        "th": {
+            "header": "What is one of the best incentives to motivate a team or individual?",
+            "explanation": "Select the correct answer.",
+            "klf": "Giving your team or individuals a sense of autonomy is an excellent way to motivate them.",
+            "tips": "Having a sense of autonomy usually encourages employees to learn new skills, be creative, and feel responsible for their work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJP11gym8": "Autonomy. Giving them room to move, space to breathe",
+            "choice_Nyj11lymL": "Micromanaging them to keep on their toes"
+        }
+    }
+}

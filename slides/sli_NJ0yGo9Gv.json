@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-31T15:26:39.343Z",
+            "updatedAt": "2019-08-01T16:20:04.951Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E18RJoqMP"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_NJ0yGo9Gv",
+        "universalRef": "sli_NJ0yGo9Gv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50458",
+                        "items": [
+                            {
+                                "text": "choice_V1gCzGiqGP",
+                                "value": "choice_V1gCzGiqGP"
+                            },
+                            {
+                                "text": "choice_NJWCMGo5GP",
+                                "value": "choice_NJWCMGo5GP"
+                            },
+                            {
+                                "text": "choice_NkNVGiqMv",
+                                "value": "choice_NkNVGiqMv"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50458",
+                        "answers": [
+                            "choice_NJWCMGo5GP"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which one of these mottos should you follow when dealing with Mr Rude?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Never go into battle with a rude customer as no one will win, but do stand firm to your organisations’ rules and procedures as well as your own polite, efficient and respectful manner.",
+            "tips": "However difficult it might be, don't take it personally. Customers, when they are angry, are usually so about a product or service, not about you as a person. Use your emotional intelligence to try to empathize with the customer, show you understand their frustration and remain objective to solve the problem without feeling overwhelmed.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50458}}",
+            "choice_V1gCzGiqGP": "‘An eye for an eye, a tooth for a tooth’",
+            "choice_NJWCMGo5GP": "‘Stand your ground and remain polite’",
+            "choice_NkNVGiqMv": "‘The customer is King: may his every wish be granted’"
+        },
+        "fr": {
+            "header": "Laquelle de ces devises devriez-vous suivre lorsque vous faites face à M. Grossier ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Ne vous lancez jamais dans une querelle avec un client impoli, car personne ne gagnera, mais tenez-vous fermement à vos règles et procédures d'entreprise, et conservez également votre politesse, votre efficacité et votre respect.",
+            "tips": "Aussi difficile que cela puisse être, ne le prenez pas personnellement. Les clients, quand ils sont en colère, parlent généralement d’un produit ou d’un service et non de vous en tant que personne. Utilisez votre intelligence émotionnelle pour essayer de comprendre le client, montrez-lui que vous comprenez sa frustration et restez objectif pour résoudre le problème sans vous sentir dépassé.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50458}}",
+            "choice_V1gCzGiqGP": "« Œil pour œil, dent pour dent »",
+            "choice_NJWCMGo5GP": "« Maintenez votre position et restez courtois »",
+            "choice_NkNVGiqMv": "« Le client est roi : faites que tous ses souhaits soient exaucés »"
+        },
+        "de": {
+            "header": "Which one of these mottos should you follow when dealing with Mr Rude?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Never go into battle with a rude customer as no one will win, but do stand firm to your organisations’ rules and procedures as well as your own polite, efficient and respectful manner.",
+            "tips": "However difficult it might be, don't take it personally. Customers, when they are angry, are usually so about a product or service, not about you as a person. Use your emotional intelligence to try to empathize with the customer, show you understand their frustration and remain objective to solve the problem without feeling overwhelmed.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50458}}",
+            "choice_V1gCzGiqGP": "‘An eye for an eye, a tooth for a tooth’",
+            "choice_NJWCMGo5GP": "‘Stand your ground and remain polite’",
+            "choice_NkNVGiqMv": "‘The customer is King: may his every wish be granted’"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50458}}",
+            "choice_V1gCzGiqGP": "",
+            "choice_NJWCMGo5GP": "",
+            "choice_NkNVGiqMv": ""
+        }
+    }
+}

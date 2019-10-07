@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T13:57:16.085Z",
+            "updatedAt": "2019-02-12T09:07:07.715Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJfl1WHVI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_Nk1o2PcVI",
+        "universalRef": "sli_Nk1o2PcVI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nk1o2PcVI.choice_VJ8LpDqEL.id",
+                        "label": "choice_VJ8LpDqEL",
+                        "value": "choice_VJ8LpDqEL"
+                    },
+                    {
+                        "id": "sli_Nk1o2PcVI.choice_4JODpv548.id",
+                        "label": "choice_4JODpv548",
+                        "value": "choice_4JODpv548"
+                    },
+                    {
+                        "id": "sli_Nk1o2PcVI.choice_NkhwaP54U.id",
+                        "label": "choice_NkhwaP54U",
+                        "value": "choice_NkhwaP54U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkhwaP54U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is the first hour of the working day so important?",
+            "explanation": "Select the correct answer.",
+            "klf": "How you spend the first hour determines your momentum for the rest of the day. Use it to fulfil a challenging task!",
+            "tips": "Talking about hours, did you know that according to Anthropologist Edward Hall, there are two ways in which cultures structure time: monochronic and polychronic. While the first ones encourage doing one task at a time, the others take on many tasks at once.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ8LpDqEL": "You are least alert at the start of the day",
+            "choice_4JODpv548": "Everyone does their emails in this time",
+            "choice_NkhwaP54U": "It sets the tone for the rest of the day"
+        },
+        "fr": {
+            "header": "Pourquoi la première heure de la journée de travail est-elle si importante ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La façon dont vous passez la première heure détermine votre dynamique pour le reste de la journée. Utilisez-la pour accomplir une tâche difficile !",
+            "tips": "En parlant d’heures, saviez-vous que, selon l’anthropologue Edward Hall, les cultures structurent le temps de deux manières : monochronique et polychronique. Tandis que les premiers incitent à effectuer une tâche à la fois, les autres s’acquittent de plusieurs tâches à la fois.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ8LpDqEL": "Vous êtes moins alerte en début de journée",
+            "choice_4JODpv548": "Tout le monde fait ses emails à ce moment-là",
+            "choice_NkhwaP54U": "Cela donne le ton pour le reste de la journée"
+        },
+        "de": {
+            "header": "Warum ist die erste Stunde des Arbeitstages so wichtig?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Wie Sie die erste Stunde verbringen, bestimmt Ihren Impuls für den Rest des Tages. Verwenden Sie sie, um eine herausfordernde Aufgabe zu erledigen!",
+            "tips": "Wussten Sie, dass der Kulturanthropologe Edward Hall nach zwei Stunden die Zeit strukturiert: Monochronik und Polychronik. Während die ersten ermutigen, jeweils eine Aufgabe auszuführen, übernehmen die anderen viele Aufgaben gleichzeitig.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ8LpDqEL": "Zu Beginn des Tages sind Sie am wenigsten aufmerksam",
+            "choice_4JODpv548": "Jeder macht seine E-Mails in dieser Zeit",
+            "choice_NkhwaP54U": "Es gibt den Ton für den Rest des Tages vor"
+        },
+        "th": {
+            "header": "Why is the first hour of the working day so important?",
+            "explanation": "Select the correct answer.",
+            "klf": "How you spend the first hour determines your momentum for the rest of the day. Use it to fulfil a challenging task!",
+            "tips": "Talking about hours, did you know that according to Anthropologist Edward Hall, there are two ways in which cultures structure time: monochronic and polychronic. While the first ones encourage doing one task at a time, the others take on many tasks at once.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJ8LpDqEL": "You are least alert at the start of the day",
+            "choice_4JODpv548": "Everyone does their emails in this time",
+            "choice_NkhwaP54U": "It sets the tone for the rest of the day"
+        }
+    }
+}

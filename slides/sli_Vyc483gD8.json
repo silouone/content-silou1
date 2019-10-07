@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-12T14:55:37.797Z",
+            "updatedAt": "2019-03-21T10:26:02.422Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkyyGtiU8"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_Vyc483gD8",
+        "universalRef": "sli_Vyc483gD8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vyc483gD8.choice_E11UUneDI.id",
+                        "label": "choice_E11UUneDI",
+                        "value": "choice_E11UUneDI"
+                    },
+                    {
+                        "id": "sli_Vyc483gD8.choice_Vkg8LhgDL.id",
+                        "label": "choice_Vkg8LhgDL",
+                        "value": "choice_Vkg8LhgDL"
+                    },
+                    {
+                        "id": "sli_Vyc483gD8.choice_EJbLLheD8.id",
+                        "label": "choice_EJbLLheD8",
+                        "value": "choice_EJbLLheD8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vkg8LhgDL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should goals be expressed as?",
+            "explanation": "Select the correct answer.",
+            "klf": "Coaching goals should always be expressed in terms of actions. For example, you may wonder: What are the existing skills of my collaborator, and what will they be able to do as a result of the coaching?",
+            "tips": "Coaching is as much a means to spread the workload of the coach as a way to improve the coached collaborator's skills.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E11UUneDI": "Single measurable targets",
+            "choice_Vkg8LhgDL": "Broader skills or things the staff member will be able to do",
+            "choice_EJbLLheD8": "Relative performance with other staff"
+        },
+        "fr": {
+            "header": "De quelle façon les objectifs devraient-ils être exprimés ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les objectifs du coaching doivent toujours être exprimés en termes d'actions. Par exemple, vous pouvez vous demander : Quelles sont les compétences existantes de mon collaborateur, et que pourront-elles réaliser suite au coaching ?",
+            "tips": "Le coaching est autant un moyen de répartir la charge de travail du coach que d'améliorer les compétences du collaborateur coaché.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E11UUneDI": "En objectifs uniques mesurables",
+            "choice_Vkg8LhgDL": "En compétences plus larges ou choses que le membre du personnel sera capable de faire",
+            "choice_EJbLLheD8": "En rendement relatif par rapport aux autres membres du personnel"
+        },
+        "de": {
+            "header": "What should goals be expressed as? ",
+            "explanation": "Select the correct answer.",
+            "klf": "Coaching goals should always be expressed in terms of actions. For example, you may wonder: What are the existing skills of my collaborator, and what will they be able to do as a result of the coaching?",
+            "tips": "Coaching is as much a means to spread the workload of the coach as a way to improve the coached collaborator's skills.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E11UUneDI": "Single measurable targets",
+            "choice_Vkg8LhgDL": "Broader skills or things the staff member will be able to do",
+            "choice_EJbLLheD8": "Relative performance with other staff"
+        },
+        "th": {
+            "header": "What should goals be expressed as?",
+            "explanation": "Select the correct answer.",
+            "klf": "Coaching goals should always be expressed in terms of actions. For example, you may wonder: What are the existing skills of my collaborator, and what will they be able to do as a result of the coaching?",
+            "tips": "Coaching is as much a means to spread the workload of the coach as a way to improve the coached collaborator's skills.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E11UUneDI": "Single measurable targets",
+            "choice_Vkg8LhgDL": "Broader skills or things the staff member will be able to do",
+            "choice_EJbLLheD8": "Relative performance with other staff"
+        }
+    }
+}

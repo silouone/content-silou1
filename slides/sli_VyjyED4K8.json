@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T16:22:19.980Z",
+            "updatedAt": "2019-04-09T14:23:55.663Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkAI674tI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VyjyED4K8",
+        "universalRef": "sli_VyjyED4K8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyjyED4K8.choice_NyWb4DEtL.id",
+                        "label": "choice_NyWb4DEtL",
+                        "value": "choice_NyWb4DEtL"
+                    },
+                    {
+                        "id": "sli_VyjyED4K8.choice_4JF~NwEtU.id",
+                        "label": "choice_4JF~NwEtU",
+                        "value": "choice_4JF~NwEtU"
+                    },
+                    {
+                        "id": "sli_VyjyED4K8.choice_N1ZMNw4FU.id",
+                        "label": "choice_N1ZMNw4FU",
+                        "value": "choice_N1ZMNw4FU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyWb4DEtL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What information should you share with others?",
+            "explanation": "Select the correct answer.",
+            "klf": "Transparency doesn't mean revealing all the confidential details of management discussions. But, sharing news that isn't sensitive will help avoid damaging rumours and speculation: therefore share as much information as you can about your company's plans.",
+            "tips": "Every company has a Confidentiality Policy, where information is sorted according to its sensitivity. It can be useful to help you understand which information can be shared or not, even though nothing can replace face-to-face exchanges for these matters.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyWb4DEtL": "As much as you can about the plans of the organization",
+            "choice_4JF~NwEtU": "Anything relevant only to your department",
+            "choice_N1ZMNw4FU": "All high level decision making processes"
+        },
+        "fr": {
+            "header": "Quelles informations devriez-vous partager avec les autres ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "La transparence ne signifie pas la divulgation de tous les détails confidentiels des discussions de la direction. Toutefois, le fait de partager des informations qui ne sont pas sensibles vous évitera des rumeurs préjudiciables et des spéculations : partagez donc le plus d'informations possible sur les projets de votre entreprise.",
+            "tips": "Chaque entreprise a une politique de confidentialité dans laquelle les informations sont triées en fonction de leur sensibilité. Cela peut être utile pour vous aider à comprendre quelles informations peuvent être partagées ou non, même si rien ne peut remplacer les échanges en face à face sur ces questions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyWb4DEtL": "Autant que possible sur les plans de l'organisation",
+            "choice_4JF~NwEtU": "Tout ce qui concerne uniquement votre département",
+            "choice_N1ZMNw4FU": "Tous les processus décisionnels de haut niveau"
+        },
+        "de": {
+            "header": "What information should you share with others?",
+            "explanation": "Select the correct answer.",
+            "klf": "Transparency doesn't mean revealing all the confidential details of management discussions. But, sharing news that isn't sensitive will help avoid damaging rumours and speculation: therefore share as much information as you can about your company's plans.",
+            "tips": "Every company has a Confidentiality Policy, where information is sorted according to its sensitivity. It can be useful to help you understand which information can be shared or not, even though nothing can replace face-to-face exchanges for these matters.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyWb4DEtL": "As much as you can about the plans of the organization",
+            "choice_4JF~NwEtU": "Anything relevant only to your department",
+            "choice_N1ZMNw4FU": "All high level decision making processes"
+        },
+        "th": {
+            "header": "What information should you share with others?",
+            "explanation": "Select the correct answer.",
+            "klf": "Transparency doesn't mean revealing all the confidential details of management discussions. But, sharing news that isn't sensitive will help avoid damaging rumours and speculation: therefore share as much information as you can about your company's plans.",
+            "tips": "Every company has a Confidentiality Policy, where information is sorted according to its sensitivity. It can be useful to help you understand which information can be shared or not, even though nothing can replace face-to-face exchanges for these matters.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyWb4DEtL": "As much as you can about the plans of the organization",
+            "choice_4JF~NwEtU": "Anything relevant only to your department",
+            "choice_N1ZMNw4FU": "All high level decision making processes"
+        }
+    }
+}

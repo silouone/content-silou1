@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T15:26:22.806Z",
+            "updatedAt": "2019-02-21T17:09:42.374Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41J72iabL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_E1VBOqrMI",
+        "universalRef": "sli_E1VBOqrMI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1VBOqrMI.choice_EyWsvPW78.id",
+                        "label": "choice_EyWsvPW78",
+                        "value": "choice_EyWsvPW78"
+                    },
+                    {
+                        "id": "sli_E1VBOqrMI.choice_4JMiDvWX8.id",
+                        "label": "choice_4JMiDvWX8",
+                        "value": "choice_4JMiDvWX8"
+                    },
+                    {
+                        "id": "sli_E1VBOqrMI.choice_EkxGoww~7U.id",
+                        "label": "choice_EkxGoww~7U",
+                        "value": "choice_EkxGoww~7U"
+                    },
+                    {
+                        "id": "sli_E1VBOqrMI.choice_VkQoDwZXI.id",
+                        "label": "choice_VkQoDwZXI",
+                        "value": "choice_VkQoDwZXI"
+                    },
+                    {
+                        "id": "sli_E1VBOqrMI.choice_VJBoDD~7L.id",
+                        "label": "choice_VJBoDD~7L",
+                        "value": "choice_VJBoDD~7L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JMiDvWX8",
+                        "choice_VkQoDwZXI",
+                        "choice_VJBoDD~7L"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who should be contacted in the event of a crisis?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When a crisis strikes, you should contact your head office, your team, your relevant suppliers, and don't forget your customers: they are the ones who will be affected!",
+            "tips": "A good example of terrible crisis management was Volkswagen's reaction to the emission scandal, when it was revealed that they knowingly cheated environmental regulations. Answers from top company executives were vague, inconsistent and ultimately false, which showed poor internal communication.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWsvPW78": "Someone who knows the bible well",
+            "choice_4JMiDvWX8": "Your head office",
+            "choice_EkxGoww~7U": "The press",
+            "choice_VkQoDwZXI": "Your team",
+            "choice_VJBoDD~7L": "Your relevant suppliers and customers"
+        },
+        "fr": {
+            "header": "Qui doit être informé lors d'une crise ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsqu'une crise éclate, vous devez informer votre siège social, votre équipe, vos fournisseurs concernés, et surtout vos clients : ce sont eux qui seront impactés !",
+            "tips": "Le parfait exemple d'une mauvaise gestion de crise a été la réaction de Volkswagen au scandale des émissions polluantes de leurs véhicules, lorsqu'il a été révélé que le constructeur avait délibérément orchestré une fraude pour contourner les réglementations environnementales. Les réponses des hauts dirigeants de l'entreprise étaient vagues, contradictoires et finalement mensongères, ce qui révélait une communication interne désastreuse.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWsvPW78": "Toute personne connaissant bien le manifeste",
+            "choice_4JMiDvWX8": "Votre siège social",
+            "choice_EkxGoww~7U": "La presse",
+            "choice_VkQoDwZXI": "Votre équipe",
+            "choice_VJBoDD~7L": "Vos fournisseurs et clients concernés"
+        },
+        "de": {
+            "header": "Wer sollte im Krisenfall angesprochen werden?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Wenn eine Krise eintritt, sollten Sie sich an Ihre Zentrale, Ihr Team und Ihre relevanten Lieferanten wenden und Ihre Kunden nicht vergessen: Sie werden diejenigen sein, die davon betroffen sind!",
+            "tips": "Ein gutes Beispiel für ein schreckliches Krisenmanagement war die Reaktion von Volkswagen auf den Emissionsskandal, als sich herausstellte, dass sie wissentlich die Umweltvorschriften betrogen hatten. Die Antworten der Führungskräfte des Unternehmens waren vage, inkonsistent und letztendlich falsch, was auf eine schlechte interne Kommunikation hindeutete.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWsvPW78": "Jemand, der die Bibel gut kennt",
+            "choice_4JMiDvWX8": "Ihre Zentrale",
+            "choice_EkxGoww~7U": "Die Presse",
+            "choice_VkQoDwZXI": "Dein Team",
+            "choice_VJBoDD~7L": "Ihre relevanten Lieferanten und Kunden"
+        },
+        "th": {
+            "header": "Who should be contacted in the event of a crisis?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When a crisis strikes, you should contact your head office, your team, your relevant suppliers, and don't forget your customers: they are the ones who will be affected!",
+            "tips": "A good example of terrible crisis management was Volkswagen's reaction to the emission scandal, when it was revealed that they knowingly cheated environmental regulations. Answers from top company executives were vague, inconsistent and ultimately false, which showed poor internal communication.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyWsvPW78": "Someone who knows the bible well",
+            "choice_4JMiDvWX8": "Your head office",
+            "choice_EkxGoww~7U": "The press",
+            "choice_VkQoDwZXI": "Your team",
+            "choice_VJBoDD~7L": "Your relevant suppliers and customers"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T04:37:03.396Z",
+            "updatedAt": "2019-03-17T04:37:03.396Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyJTm4JP8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_V1khphLPL",
+        "universalRef": "sli_V1khphLPL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel24330",
+                        "items": [
+                            {
+                                "text": "choice_4kgoCp3Iv8",
+                                "value": "choice_4kgoCp3Iv8"
+                            },
+                            {
+                                "text": "choice_EkbsCTnIvL",
+                                "value": "choice_EkbsCTnIvL"
+                            },
+                            {
+                                "text": "choice_41C0a38wI",
+                                "value": "choice_41C0a38wI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel24330",
+                        "answers": [
+                            "choice_EkbsCTnIvL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should a performance review be defined as?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The performance review should be a two-way process between manager and employee.",
+            "tips": "According to <a href=\"https://www.inc.com/ilan-mochari/performance-reviews-waste-time-annual-or-otherwise.html\" target=\"_blank\">a survey</a> by employee engagement specialist TINYpulse, one of the top complaints of both managers and employees about performance reviews is that it is too often a one-way process.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel24330}}",
+            "choice_4kgoCp3Iv8": "A one-way appraisal",
+            "choice_EkbsCTnIvL": "A two-way process",
+            "choice_41C0a38wI": "An open-ended process"
+        },
+        "fr": {
+            "header": "Comment définir une évaluation de performance ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "L’évaluation de performance doit être un processus à double sens entre le manager et l’employé.",
+            "tips": "Selon <a href=\"https://www.inc.com/ilan-mochari/performance-reviews-waste-time-annual-or-otherwise.html\" target=\"_blank\">un sondage réalisé</a> par TINYpulse, spécialiste de l'implication des employés, l'un des principaux reproches des responsables et des employés à propos des évaluations de performance est qu'il s'agit trop souvent d'un processus à sens unique.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel24330}}",
+            "choice_4kgoCp3Iv8": "Une évaluation à sens unique",
+            "choice_EkbsCTnIvL": "Un processus à double sens",
+            "choice_41C0a38wI": "Un processus ouvert"
+        },
+        "de": {
+            "header": "What should a performance review be defined as?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The performance review should be a two-way process between manager and employee.",
+            "tips": "According to <a href=\"https://www.inc.com/ilan-mochari/performance-reviews-waste-time-annual-or-otherwise.html\" target=\"_blank\">a survey</a> by employee engagement specialist TINYpulse, one of the top complaints of both managers and employees about performance reviews is that it is too often a one-way process.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel24330}}",
+            "choice_4kgoCp3Iv8": "A one-way appraisal",
+            "choice_EkbsCTnIvL": "A two-way process",
+            "choice_41C0a38wI": "An open-ended process"
+        },
+        "th": {
+            "header": "What should a performance review be defined as?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The performance review should be a two-way process between manager and employee.",
+            "tips": "According to <a href=\"https://www.inc.com/ilan-mochari/performance-reviews-waste-time-annual-or-otherwise.html\" target=\"_blank\">a survey</a> by employee engagement specialist TINYpulse, one of the top complaints of both managers and employees about performance reviews is that it is too often a one-way process.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel24330}}",
+            "choice_4kgoCp3Iv8": "A one-way appraisal",
+            "choice_EkbsCTnIvL": "A two-way process",
+            "choice_41C0a38wI": "An open-ended process"
+        }
+    }
+}

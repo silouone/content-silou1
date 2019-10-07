@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-15T09:47:18.098Z",
+            "updatedAt": "2019-05-15T09:47:18.098Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJJ7K0ujI"
+            ],
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_Ey65R6VnU",
+        "universalRef": "sli_Ey65R6VnU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel77309",
+                        "items": [
+                            {
+                                "text": "choice_NygvXkREh8",
+                                "value": "choice_NygvXkREh8"
+                            },
+                            {
+                                "text": "choice_41bPX104hI",
+                                "value": "choice_41bPX104hI"
+                            },
+                            {
+                                "text": "choice_N1QEJA42U",
+                                "value": "choice_N1QEJA42U"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel77309",
+                        "answers": [
+                            "choice_41bPX104hI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When are you most powerful?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "You are most powerful after you are thanked for help you have provided. That’s a good time to ask for something yourself!",
+            "tips": "Employees are not the only ones who may ask for help. Strong leaders ask for help too!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel77309}}  you are thanked for help you provided.",
+            "choice_NygvXkREh8": "Before",
+            "choice_41bPX104hI": "After",
+            "choice_N1QEJA42U": "While"
+        },
+        "fr": {
+            "header": "Quand avez-vous le plus d'influence ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Vous avez le plus d'influence après avoir été remercié pour l'aide que vous avez fournie. C’est un moment opportun pour demander quelque chose vous-même !",
+            "tips": "Les employés ne sont pas les seuls à demander de l'aide, les dirigeants le font également !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel77309}} remercié pour l'aide que vous avez fournie.",
+            "choice_NygvXkREh8": "Avant d'être",
+            "choice_41bPX104hI": "Après avoir été",
+            "choice_N1QEJA42U": "Pendant que vous êtes"
+        },
+        "de": {
+            "header": "When are you most powerful?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "You are most powerful after you are thanked for help you have provided. That’s a good time to ask for something yourself!",
+            "tips": "Employees are not the only ones who may ask for help. Strong leaders ask for help too!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel77309}}  you are thanked for help you provided.",
+            "choice_NygvXkREh8": "Before",
+            "choice_41bPX104hI": "After",
+            "choice_N1QEJA42U": "While"
+        },
+        "th": {
+            "header": "When are you most powerful?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "You are most powerful after you are thanked for help you have provided. That’s a good time to ask for something yourself!",
+            "tips": "Employees are not the only ones who may ask for help. Strong leaders ask for help too!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel77309}}  you are thanked for help you provided.",
+            "choice_NygvXkREh8": "Before",
+            "choice_41bPX104hI": "After",
+            "choice_N1QEJA42U": "While"
+        }
+    }
+}

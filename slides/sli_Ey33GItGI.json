@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-17T11:15:45.389Z",
+            "updatedAt": "2019-02-21T17:21:06.371Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk-~TiaZU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_Ey33GItGI",
+        "universalRef": "sli_Ey33GItGI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ey33GItGI.choice_VyHymLKMI.id",
+                        "label": "choice_VyHymLKMI",
+                        "value": "choice_VyHymLKMI"
+                    },
+                    {
+                        "id": "sli_Ey33GItGI.choice_NkIkXUYGI.id",
+                        "label": "choice_NkIkXUYGI",
+                        "value": "choice_NkIkXUYGI"
+                    },
+                    {
+                        "id": "sli_Ey33GItGI.choice_VyDymUKML.id",
+                        "label": "choice_VyDymUKML",
+                        "value": "choice_VyDymUKML"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyDymUKML"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_N1YME6fQU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "When facing an issue, share it with the team, don’t hide it, and focus on correcting errors, not blaming people.",
+            "tips": "In 2018, the number of Internet users passed the 4 billion mark.",
+            "clue": "",
+            "context_title": "Where's my Internet?",
+            "context_description": "You have just finished moving offices, a few hours ahead of your Friday night deadline. Everything is going great! You sit at your desk and start your computer, to make sure everything is up and running. But you can’t connect to the Internet. It turns out nobody moved your contract from your previous office.",
+            "context_media_description": "",
+            "choice_VyHymLKMI": "Fire the entire IT department at once",
+            "choice_NkIkXUYGI": "Find out who is responsible, and tell them to find a solution if they don’t want to get fired",
+            "choice_VyDymUKML": "Ask your team to find a solution: if it’s running by Monday, there will be no issue"
+        },
+        "fr": {
+            "header": "Que devez-vous faire ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque vos êtes confronté à un problème, partagez-le avec votre équipe, ne le dissimulez pas, et concentrez-vous sur la réparation des erreurs, ne passez pas votre temps à accuser des collaborateurs.",
+            "tips": "En 2018, le nombre d'utilisateurs d'internet dépassait les 4 milliards.",
+            "clue": "",
+            "context_title": "Pas de connexion internet ?",
+            "context_description": "Le déménagement de vos bureaux vient de s'achever quelques heures avant l'échéance de vendredi soir. Tout se passe super bien ! Vous vous asseyez à votre bureau et allumez votre ordinateur afin de vous assurer que tout est en ordre. Mais vous n'avez aucune connexion internet. Apparemment, personne n'a modifié votre contrat pour que votre ligne soit transférée.",
+            "context_media_description": "",
+            "choice_VyHymLKMI": "Renvoyer immédiatement l'ensemble du département informatique",
+            "choice_NkIkXUYGI": "Trouver les responsables et leur demander de trouver une solution s'ils ne veulent pas être renvoyés",
+            "choice_VyDymUKML": "Demander à votre équipe de trouver une solution : si cela fonctionne pour lundi, le problème sera résolu"
+        },
+        "de": {
+            "header": "Was tun?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wenn ein Problem auftritt, teilen Sie es mit dem Team, blenden Sie es nicht aus und konzentrieren Sie sich auf die Korrektur von Fehlern und nicht auf die Schuld der Benutzer.",
+            "tips": "Im Jahr 2018 überschritt die Anzahl der Internetnutzer die 4-Milliarden-Grenze.",
+            "clue": "",
+            "context_title": "Wo ist mein Internet?",
+            "context_description": "Sie sind gerade umgezogen, einige Stunden vor dem Freitagabend. Alles läuft gut! Sie sitzen an Ihrem Schreibtisch und starten Ihren Computer, um sicherzustellen, dass alles läuft. Sie können jedoch keine Verbindung zum Internet herstellen. Es stellt sich heraus, dass niemand Ihren Vertrag von Ihrem vorherigen Büro verschoben hat.",
+            "context_media_description": "",
+            "choice_VyHymLKMI": "Feuern Sie die gesamte IT-Abteilung auf einmal",
+            "choice_NkIkXUYGI": "Finden Sie heraus, wer verantwortlich ist, und fordern Sie sie auf, eine Lösung zu finden, wenn sie nicht gefeuert werden möchten",
+            "choice_VyDymUKML": "Bitten Sie Ihr Team, eine Lösung zu finden: Wenn es bis Montag läuft, gibt es kein Problem"
+        },
+        "th": {
+            "header": "What should you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "When facing an issue, share it with the team, don’t hide it, and focus on correcting errors, not blaming people.",
+            "tips": "In 2018, the number of Internet users passed the 4 billion mark.",
+            "clue": "",
+            "context_title": "Where's my Internet?",
+            "context_description": "You have just finished moving offices, a few hours ahead of your Friday night deadline. Everything is going great! You sit at your desk and start your computer, to make sure everything is up and running. But you can’t connect to the Internet. It turns out nobody moved your contract from your previous office.",
+            "context_media_description": "",
+            "choice_VyHymLKMI": "Fire the entire IT department at once",
+            "choice_NkIkXUYGI": "Find out who is responsible, and tell them to find a solution if they don’t want to get fired",
+            "choice_VyDymUKML": "Ask your team to find a solution: if it’s running by Monday, there will be no issue"
+        }
+    }
+}

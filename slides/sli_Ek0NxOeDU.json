@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-12T09:53:04.389Z",
+            "updatedAt": "2019-03-20T09:20:08.701Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JFcJ-ePI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Ek0NxOeDU",
+        "universalRef": "sli_Ek0NxOeDU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel87631",
+                        "items": [
+                            {
+                                "text": "choice_E1eOIxdlwU",
+                                "value": "choice_E1eOIxdlwU"
+                            },
+                            {
+                                "text": "choice_4yWuIlOlvU",
+                                "value": "choice_4yWuIlOlvU"
+                            },
+                            {
+                                "text": "choice_Nk6wedlPI",
+                                "value": "choice_Nk6wedlPI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel87631",
+                        "answers": [
+                            "choice_Nk6wedlPI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is catastrophising?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Sometimes, we catastrophise: if something goes slightly wrong, we assume everything's gone terribly wrong.",
+            "tips": "Our brain is hardwired to focus on rather threatening thoughts. This tendency used to serve us well for survival, when we needed to be constantly on the lookout for predators.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel87631}}",
+            "choice_E1eOIxdlwU": "Creating a catastrophe",
+            "choice_4yWuIlOlvU": "Thinking positively in a crisis",
+            "choice_Nk6wedlPI": "Jumping to conclusions and thinking the worst"
+        },
+        "fr": {
+            "header": "Qu'est-ce que dramatiser ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Nous pouvons parfois dramatiser : si quelque chose se passe légèrement mal, nous supposons que tout va terriblement mal.",
+            "tips": "Notre cerveau est câblé pour se concentrer sur des pensées plutôt menaçantes. Cette tendance était utile à notre survie lorsque nous devions constamment nous méfier des prédateurs.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel87631}}",
+            "choice_E1eOIxdlwU": "Créer une catastrophe",
+            "choice_4yWuIlOlvU": "Penser positivement en cas de crise",
+            "choice_Nk6wedlPI": "Tirer des conclusions hâtives et penser au pire"
+        },
+        "de": {
+            "header": "What is catastrophising?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Sometimes, we catastrophise: if something goes slightly wrong, we assume everything's gone terribly wrong.",
+            "tips": "Our brain is hardwired to focus on rather threatening thoughts. This tendency used to serve us well for survival, when we needed to be constantly on the lookout for predators.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel87631}}",
+            "choice_E1eOIxdlwU": "Creating a catastrophe",
+            "choice_4yWuIlOlvU": "Thinking positively in a crisis",
+            "choice_Nk6wedlPI": "Jumping to conclusions and thinking the worst"
+        },
+        "th": {
+            "header": "What is catastrophising?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Sometimes, we catastrophise: if something goes slightly wrong, we assume everything's gone terribly wrong.",
+            "tips": "Our brain is hardwired to focus on rather threatening thoughts. This tendency used to serve us well for survival, when we needed to be constantly on the lookout for predators.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel87631}}",
+            "choice_E1eOIxdlwU": "Creating a catastrophe",
+            "choice_4yWuIlOlvU": "Thinking positively in a crisis",
+            "choice_Nk6wedlPI": "Jumping to conclusions and thinking the worst"
+        }
+    }
+}

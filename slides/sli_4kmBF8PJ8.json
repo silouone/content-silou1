@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-10T13:31:20.533Z",
+            "updatedAt": "2019-01-23T15:19:40.451Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N10e6D1kL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4kmBF8PJ8",
+        "universalRef": "sli_4kmBF8PJ8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel18556",
+                        "items": [
+                            {
+                                "text": "choice_4yx4YFIvJI",
+                                "value": "choice_4yx4YFIvJI"
+                            },
+                            {
+                                "text": "choice_V1~NtYUDJI",
+                                "value": "choice_V1~NtYUDJI"
+                            },
+                            {
+                                "text": "choice_NyhFFUPyU",
+                                "value": "choice_NyhFFUPyU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel18556",
+                        "answers": [
+                            "choice_V1~NtYUDJI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "During a meeting, how can you show your colleagues that you understand?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you're in discussions with colleagues, show them you understand by listening actively and showing empathy.",
+            "tips": "In 1957, 2 American psychologists, Carl Rogers and Richard Farson, came up with the concept of ‘active listening’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "By showing {{sel18556}}",
+            "choice_4yx4YFIvJI": "sympathy",
+            "choice_V1~NtYUDJI": "empathy",
+            "choice_NyhFFUPyU": "dignity"
+        },
+        "fr": {
+            "header": "Pendant une réunion, comment pouvez-vous montrer à vos collaborateurs que vous les comprenez ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Lorsque vous discutez avec des collaborateurs, montrez-leur que vous comprenez en écoutant activement et en faisant preuve d’empathie.",
+            "tips": "En 1957, deux psychologues américains, Carl Rogers et Richard Farson, ont découvert le concept d’« écoute active ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "En faisant preuve {{sel18556}}",
+            "choice_4yx4YFIvJI": "de sympathie",
+            "choice_V1~NtYUDJI": "d'empathie",
+            "choice_NyhFFUPyU": "de dignité"
+        },
+        "de": {
+            "header": "Wie können Sie Ihren Kollegen während des Meetings zeigen, dass Sie sie verstehen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie sich mit Kollegen unterhalten, zeigen Sie ihnen, dass Sie sie verstehen, indem Sie aktiv zuhören und Empathie zeigen.",
+            "tips": "Im Jahr 1957 entwickelten zwei amerikanische Psychologen, Carl Rogers und Richard Farson, das Konzept des \"aktiven Zuhörens\".",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Durch zeigen von {{sel18556}}",
+            "choice_4yx4YFIvJI": "Sympathie",
+            "choice_V1~NtYUDJI": "Empathie",
+            "choice_NyhFFUPyU": "Würde"
+        },
+        "th": {
+            "header": "During a meeting, how can you show your colleagues that you understand?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you're in discussions with colleagues, show them you understand by listening actively and showing empathy.",
+            "tips": "In 1957, 2 American psychologists, Carl Rogers and Richard Farson, came up with the concept of ‘active listening’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "By showing {{sel18556}}",
+            "choice_4yx4YFIvJI": "sympathy",
+            "choice_V1~NtYUDJI": "empathy",
+            "choice_NyhFFUPyU": "dignity"
+        }
+    }
+}

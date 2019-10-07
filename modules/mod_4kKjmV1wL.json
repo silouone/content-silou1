@@ -1,0 +1,72 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-11T11:23:02.075Z",
+            "updatedAt": "2019-04-11T14:10:41.458Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-05-11T10:20:40.166Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_VJBFmN1DU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "ThereseG"
+        },
+        "ref": "mod_4kKjmV1wL",
+        "universalRef": "mod_4kKjmV1wL",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_NyQfqhIw8",
+            "skill_VkVf53LvL",
+            "skill_4JHfq3IwI"
+        ],
+        "ineligibleBattle": false,
+        "version": "3",
+        "creditsToAccess": 1,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_NyQfqhIw8": "prepare a performance review",
+            "skill_VkVf53LvL": "lead a performance review in a constructive way",
+            "skill_4JHfq3IwI": "handle the next steps so that you make the most of it"
+        },
+        "fr": {
+            "skill_NyQfqhIw8": "préparer une évaluation de performance",
+            "skill_VkVf53LvL": "mener une évaluation de performance de manière constructive",
+            "skill_4JHfq3IwI": "gérer les étapes suivantes pour en tirer le meilleur de l'évaluation"
+        },
+        "de": {
+            "skill_NyQfqhIw8": "prepare a performance review",
+            "skill_VkVf53LvL": "lead a performance review in a constructive way",
+            "skill_4JHfq3IwI": "handle the next steps so that you make the most of it"
+        },
+        "th": {
+            "skill_NyQfqhIw8": "prepare a performance review",
+            "skill_VkVf53LvL": "lead a performance review in a constructive way",
+            "skill_4JHfq3IwI": "handle the next steps so that you make the most of it"
+        }
+    }
+}

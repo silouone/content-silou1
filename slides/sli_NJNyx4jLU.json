@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T10:25:27.795Z",
+            "updatedAt": "2019-03-19T18:03:29.304Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJLNj~58U"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NJNyx4jLU",
+        "universalRef": "sli_NJNyx4jLU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel74010",
+                        "items": [
+                            {
+                                "text": "choice_NJeD3eVoUI",
+                                "value": "choice_NJeD3eVoUI"
+                            },
+                            {
+                                "text": "choice_VJZv3gNsLU",
+                                "value": "choice_VJZv3gNsLU"
+                            },
+                            {
+                                "text": "choice_E15X~4sI8",
+                                "value": "choice_E15X~4sI8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel74010",
+                        "answers": [
+                            "choice_VJZv3gNsLU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you ritualise the end of your working day?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Use the last half hour of the day to tie off any loose ends. If you made a list of tasks at the start of the day, check these now and assess how much you got through. Is there anything you can do now which will help with tomorrow's tasks?",
+            "tips": "These ‘end of the day rituals’ are called ‘shutdown routine’. It's the best way to leave work with a satisfying feeling!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can use the last half hour of your working day to {{sel74010}}",
+            "choice_NJeD3eVoUI": "have a drink with your best workmate",
+            "choice_VJZv3gNsLU": "check your list of tasks for tomorrow",
+            "choice_E15X~4sI8": "build paper planes with your notes"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous ritualiser la fin de votre journée de travail ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Utilisez la dernière demi-heure de la journée pour régler certains détails. Si vous avez dressé une liste de tâches au début de la journée, vérifiez-les maintenant et évaluez le nombre de tâches accomplies. Y a-t-il quelque chose que vous puissiez faire maintenant qui sera utile aux tâches de demain ?",
+            "tips": "Ces « rituels de fin de journée » sont appelés « shutdown routine » (« routine de déconnexion »). C'est la meilleure façon de quitter son travail avec un sentiment de satisfaction !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous pouvez utiliser la dernière demi-heure de votre journée de travail pour {{sel74010}}",
+            "choice_NJeD3eVoUI": "boire un verre avec votre collègue préféré",
+            "choice_VJZv3gNsLU": "vérifier votre liste de tâches pour demain",
+            "choice_E15X~4sI8": "construire des avions en papier avec vos notes"
+        },
+        "de": {
+            "header": "How can you ritualise the end of your working day?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Use the last half hour of the day to tie off any loose ends. If you made a list of tasks at the start of the day, check these now and assess how much you got through. Is there anything you can do now which will help with tomorrow's tasks?",
+            "tips": "These ‘end of the day rituals’ are called ‘shutdown routine’. It's the best way to leave work with a satisfying feeling!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can use the last half hour of your working day to {{sel74010}}",
+            "choice_NJeD3eVoUI": "have a drink with your best workmate",
+            "choice_VJZv3gNsLU": "check your list of tasks for tomorrow",
+            "choice_E15X~4sI8": "build paper planes with your notes"
+        },
+        "th": {
+            "header": "How can you ritualise the end of your working day?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Use the last half hour of the day to tie off any loose ends. If you made a list of tasks at the start of the day, check these now and assess how much you got through. Is there anything you can do now which will help with tomorrow's tasks?",
+            "tips": "These ‘end of the day rituals’ are called ‘shutdown routine’. It's the best way to leave work with a satisfying feeling!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You can use the last half hour of your working day to {{sel74010}}",
+            "choice_NJeD3eVoUI": "have a drink with your best workmate",
+            "choice_VJZv3gNsLU": "check your list of tasks for tomorrow",
+            "choice_E15X~4sI8": "build paper planes with your notes"
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-16T14:57:20.449Z",
+            "updatedAt": "2019-04-18T15:48:57.165Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJC~5XuKI"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_NJSBvRRKU",
+        "universalRef": "sli_NJSBvRRKU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel94273",
+                        "items": [
+                            {
+                                "text": "choice_4JxM5PARYI",
+                                "value": "choice_4JxM5PARYI"
+                            },
+                            {
+                                "text": "choice_NJWG5vARtU",
+                                "value": "choice_NJWG5vARtU"
+                            },
+                            {
+                                "text": "choice_EkyTwCRYU",
+                                "value": "choice_EkyTwCRYU"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel12816",
+                        "items": [
+                            {
+                                "text": "choice_EygdRw0AFI",
+                                "value": "choice_EygdRw0AFI"
+                            },
+                            {
+                                "text": "choice_41Wd0vACFI",
+                                "value": "choice_41Wd0vACFI"
+                            },
+                            {
+                                "text": "choice_V1egdCAFI",
+                                "value": "choice_V1egdCAFI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel94273",
+                        "answers": [
+                            "choice_EkyTwCRYU"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel12816",
+                        "answers": [
+                            "choice_EygdRw0AFI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a leader, how can you encourage knowledge transfer within your teams?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Encourage your team to share their expertise with those who are new to a role. Also, always be open to reverse mentoring, which allows more experienced staff to learn from those with new and different perspectives.",
+            "tips": "Reverse mentoring is a great way for senior employees to understand how millennials think, what they value, as well as their expectations at work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Encourage your team to {{sel94273}} and {{sel12816}}  .",
+            "choice_4JxM5PARYI": "talk as little as possible",
+            "choice_NJWG5vARtU": "keep their knowledge for themselves",
+            "choice_EkyTwCRYU": "share their expertise",
+            "choice_EygdRw0AFI": "be open to reverse mentoring",
+            "choice_41Wd0vACFI": "be reluctant to reverse mentoring",
+            "choice_V1egdCAFI": "be sceptical regarding reverse mentoring"
+        },
+        "fr": {
+            "header": "En tant que manager, comment pouvez-vous encourager le transfert de connaissances au sein de vos équipes ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Encouragez votre équipe à partager son expertise avec ceux qui débutent dans un rôle. De plus, soyez toujours ouvert au mentorat inversé, qui permet au personnel plus expérimenté d'apprendre de ceux qui ont des perspectives nouvelles et différentes.",
+            "tips": "Le mentorat inversé est un excellent moyen pour les employés expérimentés de comprendre comment les millennials pensent, ce qu’ils valorisent ainsi que leurs attentes au travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Encouragez les membres de votre équipe à {{sel94273}} et {{sel12816}}.",
+            "choice_4JxM5PARYI": "parler le moins possible",
+            "choice_NJWG5vARtU": "garder leurs connaissances pour eux-mêmes",
+            "choice_EkyTwCRYU": "partager leur expertise",
+            "choice_EygdRw0AFI": "être ouverts au mentorat inversé",
+            "choice_41Wd0vACFI": "être réticents au mentorat inversé",
+            "choice_V1egdCAFI": "être sceptiques vis-à-vis du mentorat inversé"
+        },
+        "de": {
+            "header": "As a leader, how can you encourage knowledge transfer within your teams?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Encourage your team to share their expertise with those who are new to a role. Also, always be open to reverse mentoring, which allows more experienced staff to learn from those with new and different perspectives.",
+            "tips": "Reverse mentoring is a great way for senior employees to understand how millennials think, what they value, as well as their expectations at work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Encourage your team to {{sel94273}} and {{sel12816}}  .",
+            "choice_4JxM5PARYI": "talk as little as possible",
+            "choice_NJWG5vARtU": "keep their knowledge for themselves",
+            "choice_EkyTwCRYU": "share their expertise",
+            "choice_EygdRw0AFI": "be open to reverse mentoring",
+            "choice_41Wd0vACFI": "be reluctant to reverse mentoring",
+            "choice_V1egdCAFI": "be sceptical regarding reverse mentoring"
+        },
+        "th": {
+            "header": "As a leader, how can you encourage knowledge transfer within your teams?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Encourage your team to share their expertise with those who are new to a role. Also, always be open to reverse mentoring, which allows more experienced staff to learn from those with new and different perspectives.",
+            "tips": "Reverse mentoring is a great way for senior employees to understand how millennials think, what they value, as well as their expectations at work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Encourage your team to {{sel94273}} and {{sel12816}}  .",
+            "choice_4JxM5PARYI": "talk as little as possible",
+            "choice_NJWG5vARtU": "keep their knowledge for themselves",
+            "choice_EkyTwCRYU": "share their expertise",
+            "choice_EygdRw0AFI": "be open to reverse mentoring",
+            "choice_41Wd0vACFI": "be reluctant to reverse mentoring",
+            "choice_V1egdCAFI": "be sceptical regarding reverse mentoring"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:24:35.242Z",
+            "updatedAt": "2019-08-01T07:28:46.566Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41GDaTvGw"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VyO4GKsMP",
+        "universalRef": "sli_VyO4GKsMP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyO4GKsMP.choice_VJg9fYifD.id",
+                        "label": "choice_VJg9fYifD",
+                        "value": "choice_VJg9fYifD"
+                    },
+                    {
+                        "id": "sli_VyO4GKsMP.choice_41bczKizP.id",
+                        "label": "choice_41bczKizP",
+                        "value": "choice_41bczKizP"
+                    },
+                    {
+                        "id": "sli_VyO4GKsMP.choice_41z9fKjMP.id",
+                        "label": "choice_41z9fKjMP",
+                        "value": "choice_41z9fKjMP"
+                    },
+                    {
+                        "id": "sli_VyO4GKsMP.choice_V1d3GKoMP.id",
+                        "label": "choice_V1d3GKoMP",
+                        "value": "choice_V1d3GKoMP"
+                    },
+                    {
+                        "id": "sli_VyO4GKsMP.choice_NkK2fYifD.id",
+                        "label": "choice_NkK2fYifD",
+                        "value": "choice_NkK2fYifD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41bczKizP",
+                        "choice_V1d3GKoMP",
+                        "choice_NkK2fYifD"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EkuSGtozv",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following sentences can be used during your conversation with this customer?",
+            "explanation": "Select the correct answers.",
+            "klf": "When providing after sales service, always remember that you are key to building the customer’s faith in the organization. Customers must not feel you are fed up with them, the company or the products! Offer practical help and solve the issue.",
+            "tips": "Do not forget to leave your customer with contact details for the future!",
+            "clue": "",
+            "context_title": "Emergency call",
+            "context_description": "You’ve been called to take care of an issue with a product your company sold. It’s a brand-new washing machine that already flooded the customer’s kitchen twice in the past week.",
+            "context_media_description": "",
+            "choice_VJg9fYifD": "‘This company’s products used to be among the best, but nowadays they’re mostly junk.’",
+            "choice_41bczKizP": "‘We are going to take care of this right away; you should be able to use it again very soon.’",
+            "choice_41z9fKjMP": "‘I’ll try to see if I can find a solution, but I cannot promise anything.’",
+            "choice_V1d3GKoMP": "‘Because you have had an issue so early, we will provide you with 2 years additional free service.’",
+            "choice_NkK2fYifD": "‘I am sorry this happened; our products tend to outlast other companies’ by 3 years.’"
+        },
+        "fr": {
+            "header": "Laquelle des phrases suivantes peut être utilisée lors de votre conversation avec ce client ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Lorsque vous fournissez un service après-vente, n'oubliez jamais que vous êtes essentiel pour renforcer la confiance du client dans la société. Les clients ne doivent pas avoir l’impression que vous en avez assez d'eux, de l'entreprise ou de ses produits ! Offrez une aide pratique et résolvez le problème.",
+            "tips": "N'oubliez pas de laisser vos coordonnées à votre client pour qu'il puisse vous contacter à l'avenir !",
+            "clue": "",
+            "context_title": "Appel d'urgence",
+            "context_description": "Vous avez été appelé pour régler un problème concernant un produit vendu par votre entreprise. C’est une machine à laver flambant neuve qui a déjà inondé la cuisine du client deux fois la semaine dernière.",
+            "context_media_description": "",
+            "choice_VJg9fYifD": "« Les produits de cette entreprise étaient parmi les meilleurs, mais aujourd’hui c'est surtout de la camelote. »",
+            "choice_41bczKizP": "« Nous allons nous en occuper tout de suite ; vous devriez pouvoir la réutiliser très bientôt. »",
+            "choice_41z9fKjMP": "« Je vais essayer de voir si je peux trouver une solution, mais je ne vous promets rien. »",
+            "choice_V1d3GKoMP": "« Parce que vous avez eu un problème aussi tôt, nous vous offrons 2 ans de service gratuit supplémentaires. »",
+            "choice_NkK2fYifD": "« Je suis désolé que cela soit arrivé ; nos produits ont tendance à durer plus longtemps que ceux des autres entreprises. »"
+        },
+        "de": {
+            "header": "Which of the following sentences can be used during your conversation with this customer?",
+            "explanation": "Select the correct answers.",
+            "klf": "When providing after sales service, always remember that you are key to building the customer’s faith in the organization. Customers must not feel you are fed up with them, the company or the products! Offer practical help and solve the issue.",
+            "tips": "Do not forget to leave your customer with contact details for the future!",
+            "clue": "",
+            "context_title": "Emergency call",
+            "context_description": "You’ve been called to take care of an issue with a product your company sold. It’s a brand-new washing machine that already flooded the customer’s kitchen twice in the past week.",
+            "context_media_description": "",
+            "choice_VJg9fYifD": "‘This company’s products used to be among the best, but nowadays they’re mostly junk.’",
+            "choice_41bczKizP": "‘We are going to take care of this right away; you should be able to use it again very soon.’",
+            "choice_41z9fKjMP": "‘I’ll try to see if I can find a solution, but I cannot promise anything.’",
+            "choice_V1d3GKoMP": "‘Because you have had an issue so early, we will provide you with 2 years additional free service.’",
+            "choice_NkK2fYifD": "‘I am sorry this happened; our products tend to outlast other companies’ by 3 years.’"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJg9fYifD": "",
+            "choice_41bczKizP": "",
+            "choice_41z9fKjMP": "",
+            "choice_V1d3GKoMP": "",
+            "choice_NkK2fYifD": ""
+        }
+    }
+}

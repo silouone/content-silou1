@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-15T15:17:57.929Z",
+            "updatedAt": "2019-02-21T17:13:28.486Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJwepopW8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EkGudJPzL",
+        "universalRef": "sli_EkGudJPzL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkGudJPzL.choice_V1MzOP~QI.id",
+                        "label": "choice_V1MzOP~QI",
+                        "value": "choice_V1MzOP~QI"
+                    },
+                    {
+                        "id": "sli_EkGudJPzL.choice_NyQGOwZmL.id",
+                        "label": "choice_NyQGOwZmL",
+                        "value": "choice_NyQGOwZmL"
+                    },
+                    {
+                        "id": "sli_EkGudJPzL.choice_E1NGuvZQU.id",
+                        "label": "choice_E1NGuvZQU",
+                        "value": "choice_E1NGuvZQU"
+                    },
+                    {
+                        "id": "sli_EkGudJPzL.choice_NkBGuP~QU.id",
+                        "label": "choice_NkBGuP~QU",
+                        "value": "choice_NkBGuP~QU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1NGuvZQU",
+                        "choice_NkBGuP~QU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When defining a project, should it be…",
+            "explanation": "Select the correct answers below.",
+            "klf": "The first step of good project management is to define the project. That means sharing it with your team: it will help them, and yourself in the process. And don’t forget to put it all down in writing!",
+            "tips": "According to a 2014 study by the Project Management Institute, the country with the top salary for project management practitioners at the time was Australia, at US$134.658.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1MzOP~QI": "Shared only amongst management",
+            "choice_NyQGOwZmL": "Discussed over the phone",
+            "choice_E1NGuvZQU": "Shared with the team",
+            "choice_NkBGuP~QU": "Defined on paper"
+        },
+        "fr": {
+            "header": "Lorsque vous êtes en phase de définition de projet, devez-vous...",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La première étape d'une gestion de projet réussie est de définir le projet. Cela veut dire le partager avec votre équipe : cela permettra à votre équipe et à vous même de mener à bien ce processus. Et pensez à bien tout noter par écrit !",
+            "tips": "Selon une étude de 2014 menée par le Project Management Institute, le pays qui recensait le salaire le plus élevé de Responsable de gestion de projet à l'époque était l'Australie, avec 134 658 $ US.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1MzOP~QI": "Le partager uniquement avec la direction",
+            "choice_NyQGOwZmL": "En discuter au téléphone",
+            "choice_E1NGuvZQU": "Le partager avec l'ensemble de l'équipe",
+            "choice_NkBGuP~QU": "Le définir sur papier"
+        },
+        "de": {
+            "header": "Sollte es bei der Definition eines Projekts sein…",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Der erste Schritt eines guten Projektmanagements ist die Definition des Projekts. Das heißt, es Ihrem Team mitteilen: Es wird ihnen und Ihnen selbst dabei helfen. Und vergessen Sie nicht, alles schriftlich niederzulegen!",
+            "tips": "Laut einer Studie des Project Management Institute aus dem Jahr 2014 lag das Land mit dem höchsten Gehalt für Projektmanagement-Praktiker damals bei 134.658 US-Dollar.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1MzOP~QI": "Nur für das Management freigegeben",
+            "choice_NyQGOwZmL": "Telefonisch besprochen",
+            "choice_E1NGuvZQU": "Mit dem Team geteilt",
+            "choice_NkBGuP~QU": "Auf Papier definiert"
+        },
+        "th": {
+            "header": "When defining a project, should it be…",
+            "explanation": "Select the correct answers below.",
+            "klf": "The first step of good project management is to define the project. That means sharing it with your team: it will help them, and yourself in the process. And don’t forget to put it all down in writing!",
+            "tips": "According to a 2014 study by the Project Management Institute, the country with the top salary for project management practitioners at the time was Australia, at US$134.658.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1MzOP~QI": "Shared only amongst management",
+            "choice_NyQGOwZmL": "Discussed over the phone",
+            "choice_E1NGuvZQU": "Shared with the team",
+            "choice_NkBGuP~QU": "Defined on paper"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-17T11:17:04.437Z",
+            "updatedAt": "2019-02-21T17:21:43.107Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk-~TiaZU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EJfM7IKG8",
+        "universalRef": "sli_EJfM7IKG8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJfM7IKG8.choice_EJa7XLFf8.id",
+                        "label": "choice_EJa7XLFf8",
+                        "value": "choice_EJa7XLFf8"
+                    },
+                    {
+                        "id": "sli_EJfM7IKG8.choice_Ek0XQUtz8.id",
+                        "label": "choice_Ek0XQUtz8",
+                        "value": "choice_Ek0XQUtz8"
+                    },
+                    {
+                        "id": "sli_EJfM7IKG8.choice_N1kVm8Yf8.id",
+                        "label": "choice_N1kVm8Yf8",
+                        "value": "choice_N1kVm8Yf8"
+                    },
+                    {
+                        "id": "sli_EJfM7IKG8.choice_EkgE78KfI.id",
+                        "label": "choice_EkgE78KfI",
+                        "value": "choice_EkgE78KfI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJa7XLFf8",
+                        "choice_Ek0XQUtz8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you keep a project on track while implementing it?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Once a project is up and running, try to establish good monitoring systems. Make sure your team members are communicating, keeping each other informed, and encourage them to come forward with any difficulty they may face. If things go wrong, don’t blame people: find solutions.",
+            "tips": "Never underestimate the importance of communication. Fun fact: the first recorded attempts at written communication date back about 9,000 years, in the form of counting tokens.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJa7XLFf8": "Establish shared monitoring systems",
+            "choice_Ek0XQUtz8": "Keep team members communicating",
+            "choice_N1kVm8Yf8": "Find people to focus blame on",
+            "choice_EkgE78KfI": "Make sure people manage on their own"
+        },
+        "fr": {
+            "header": "Comment maintenir un projet sur la bonne voie lors de sa mise en oeuvre ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Dès lors qu'un projet a atteint son rythme de croisière, essayez de créer des dispositifs de surveillance adaptés. Veillez à ce que vos collaborateurs communiquent entre eux, se tiennent informés, et encouragez-les à faire part de toute difficulté éventuelle. Si les choses tournent mal, n'accusez pas les collaborateurs : trouvez des solutions.",
+            "tips": "Ne sous-estimez jamais l'importance de la communication. Fait amusant : les premières tentatives de communication écrite constatées remontent à environ 9 000 ans, et existaient sous la forme de jetons de compte.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJa7XLFf8": "Créer des dispositifs de surveillance partagée",
+            "choice_Ek0XQUtz8": "Veiller à ce que les collaborateurs communiquent entre eux",
+            "choice_N1kVm8Yf8": "Trouver des responsables",
+            "choice_EkgE78KfI": "Veiller à ce que les collaborateurs s'en sortent seuls"
+        },
+        "de": {
+            "header": "Wie können Sie ein Projekt bei der Umsetzung auf Kurs halten?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Versuchen Sie nach dem Start eines Projekts, gute Überwachungssysteme einzurichten. Stellen Sie sicher, dass Ihre Teammitglieder miteinander kommunizieren, sich gegenseitig auf dem Laufenden halten, und fordern Sie sie auf, alle Schwierigkeiten offenzulegen, mit denen sie konfrontiert sind. Wenn etwas schief geht, beschuldige die Leute nicht: finde Lösungen.",
+            "tips": "Unterschätze niemals die Wichtigkeit der Kommunikation. Interessante Tatsache: Die ersten aufgezeichneten Versuche der schriftlichen Kommunikation stammen aus rund 9.000 Jahren in Form von Zählmarken.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJa7XLFf8": "Gemeinsame Überwachungssysteme einrichten",
+            "choice_Ek0XQUtz8": "Lassen Sie die Teammitglieder kommunizieren",
+            "choice_N1kVm8Yf8": "Finde Leute, auf die du dich konzentrieren kannst",
+            "choice_EkgE78KfI": "Stellen Sie sicher, dass die Leute es alleine schaffen"
+        },
+        "th": {
+            "header": "How can you keep a project on track while implementing it?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Once a project is up and running, try to establish good monitoring systems. Make sure your team members are communicating, keeping each other informed, and encourage them to come forward with any difficulty they may face. If things go wrong, don’t blame people: find solutions.",
+            "tips": "Never underestimate the importance of communication. Fun fact: the first recorded attempts at written communication date back about 9,000 years, in the form of counting tokens.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJa7XLFf8": "Establish shared monitoring systems",
+            "choice_Ek0XQUtz8": "Keep team members communicating",
+            "choice_N1kVm8Yf8": "Find people to focus blame on",
+            "choice_EkgE78KfI": "Make sure people manage on their own"
+        }
+    }
+}

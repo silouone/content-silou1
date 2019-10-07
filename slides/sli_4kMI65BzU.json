@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T16:49:14.560Z",
+            "updatedAt": "2019-02-21T17:02:25.097Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41a7is6b8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_4kMI65BzU",
+        "universalRef": "sli_4kMI65BzU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel42858",
+                        "items": [
+                            {
+                                "text": "choice_Eked-T9rzL",
+                                "value": "choice_Eked-T9rzL"
+                            },
+                            {
+                                "text": "choice_4ybOuTqrG8",
+                                "value": "choice_4ybOuTqrG8"
+                            },
+                            {
+                                "text": "choice_4yHta5HMU",
+                                "value": "choice_4yHta5HMU"
+                            },
+                            {
+                                "text": "choice_N1ijTqHG8",
+                                "value": "choice_N1ijTqHG8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel42858",
+                        "answers": [
+                            "choice_N1ijTqHG8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who should you count on to find the best solutions when there is a discipline problem?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The best solutions to discipline issues are always suggested by the employee and their manager. Finding common ground and understanding problems together always brings the best results.",
+            "tips": "The first known use of the expression 'common ground' was traced back to 1809, according to Merriam-Webster. Today, it's among the most commonly used expressions in the English language.",
+            "clue": "Teamwork.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42858}} usually come up with the best solutions to discipline issues.",
+            "choice_Eked-T9rzL": "The manager",
+            "choice_4ybOuTqrG8": "The employee",
+            "choice_4yHta5HMU": "The employee's colleagues",
+            "choice_N1ijTqHG8": "Employee and manager together"
+        },
+        "fr": {
+            "header": "Sur qui devez-vous compter pour trouver les meilleures solutions à un problème de discipline ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Les meilleures solutions aux problèmes de discipline proviennent toujours des employés et de leur manager. Discuter ensemble de centres d’intérêt communs et tenter de comprendre les problèmes aboutit toujours à un meilleur résultat.",
+            "tips": "Selon le Merriam-Webster, la première utilisation connue de l'expression « centre d’intérêt commun » remonte à 1809. De nos jours, c'est une des expressions les plus utilisées de la langue anglaise.",
+            "clue": "Teamwork.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42858}} trouvent généralement les meilleures solutions aux problèmes de discipline.",
+            "choice_Eked-T9rzL": "Le manager",
+            "choice_4ybOuTqrG8": "L'employé",
+            "choice_4yHta5HMU": "Les collègues de l'employé",
+            "choice_N1ijTqHG8": "L'employé et son manager"
+        },
+        "de": {
+            "header": "An wen sollten Sie sich wenden, um die besten Lösungen zu finden, wenn es ein Disziplinproblem gibt?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Die besten Lösungen für Disziplinprobleme werden immer vom Mitarbeiter und seinem Vorgesetzten vorgeschlagen. Gemeinsamkeiten zu finden und Probleme gemeinsam zu verstehen, bringt immer die besten Ergebnisse.",
+            "tips": "Die erste bekannte Verwendung des Ausdrucks „Gemeinsamkeit“ wurde laut Merriam-Webster bis 1809 zurückverfolgt. Heute gehört es zu den am häufigsten verwendeten Ausdrücken in der englischen Sprache.",
+            "clue": "Zusammenspiel.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42858}} bietet normalerweise die besten Lösungen für Disziplinprobleme.",
+            "choice_Eked-T9rzL": "Der Geschäftsführer",
+            "choice_4ybOuTqrG8": "Der Arbeitnehmer",
+            "choice_4yHta5HMU": "Die Mitarbeiter des Mitarbeiters",
+            "choice_N1ijTqHG8": "Mitarbeiter und Manager zusammen"
+        },
+        "th": {
+            "header": "Who should you count on to find the best solutions when there is a discipline problem?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The best solutions to discipline issues are always suggested by the employee and their manager. Finding common ground and understanding problems together always brings the best results.",
+            "tips": "The first known use of the expression 'common ground' was traced back to 1809, according to Merriam-Webster. Today, it's among the most commonly used expressions in the English language.",
+            "clue": "Teamwork.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42858}} usually come up with the best solutions to discipline issues.",
+            "choice_Eked-T9rzL": "The manager",
+            "choice_4ybOuTqrG8": "The employee",
+            "choice_4yHta5HMU": "The employee's colleagues",
+            "choice_N1ijTqHG8": "Employee and manager together"
+        }
+    }
+}

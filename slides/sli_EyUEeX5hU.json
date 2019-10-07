@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-19T10:35:47.555Z",
+            "updatedAt": "2019-05-19T10:35:47.555Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyBAdC-iU"
+            ],
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EyUEeX5hU",
+        "universalRef": "sli_EyUEeX5hU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel42229",
+                        "items": [
+                            {
+                                "text": "choice_VJeeqeX93U",
+                                "value": "choice_VJeeqeX93U"
+                            },
+                            {
+                                "text": "choice_VJblceX5n8",
+                                "value": "choice_VJblceX5n8"
+                            },
+                            {
+                                "text": "choice_VyUcgQqnI",
+                                "value": "choice_VyUcgQqnI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel42229",
+                        "answers": [
+                            "choice_VJblceX5n8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's the best way to behave if negotiations begin to break down?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When an important negotiation is not going well, it can be very hard to stay in control. However, you should always try to appear as neutral as possible.",
+            "tips": "There is a common idea that you should never be the first to set a price, because it gives out information. But some experts argue that making the right offer first gives you the initiative…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42229}}",
+            "choice_VJeeqeX93U": "Show your emotions",
+            "choice_VJblceX5n8": "Stay neutral",
+            "choice_VyUcgQqnI": "Leave"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure façon de se comporter si les négociations commencent à se dégrader ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsqu'une négociation importante ne se déroule pas bien, il est parfois très difficile de garder le contrôle. Cependant, vous devez toujours essayer d'avoir l'air aussi neutre que possible.",
+            "tips": "Il existe une idée commune selon laquelle vous ne devriez jamais être le premier à fixer un prix, car cela donne des informations. Mais certains experts affirment que proposer la bonne offre en premier vous donne l'avantage…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42229}}",
+            "choice_VJeeqeX93U": "Montrer ses émotions",
+            "choice_VJblceX5n8": "Rester neutre",
+            "choice_VyUcgQqnI": "Partir"
+        },
+        "de": {
+            "header": "What's the best way to behave if negotiations begin to break down?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When an important negotiation is not going well, it can be very hard to stay in control. However, you should always try to appear as neutral as possible.",
+            "tips": "There is a common idea that you should never be the first to set a price, because it gives out information. But some experts argue that making the right offer first gives you the initiative…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42229}}",
+            "choice_VJeeqeX93U": "Show your emotions",
+            "choice_VJblceX5n8": "Stay neutral",
+            "choice_VyUcgQqnI": "Leave"
+        },
+        "th": {
+            "header": "What's the best way to behave if negotiations begin to break down?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When an important negotiation is not going well, it can be very hard to stay in control. However, you should always try to appear as neutral as possible.",
+            "tips": "There is a common idea that you should never be the first to set a price, because it gives out information. But some experts argue that making the right offer first gives you the initiative…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel42229}}",
+            "choice_VJeeqeX93U": "Show your emotions",
+            "choice_VJblceX5n8": "Stay neutral",
+            "choice_VyUcgQqnI": "Leave"
+        }
+    }
+}

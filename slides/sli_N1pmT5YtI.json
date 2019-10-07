@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T15:27:43.804Z",
+            "updatedAt": "2019-04-12T15:27:43.804Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyt4VewKU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_N1pmT5YtI",
+        "universalRef": "sli_N1pmT5YtI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1pmT5YtI.choice_E12DTctK8.id",
+                        "label": "choice_E12DTctK8",
+                        "value": "choice_E12DTctK8"
+                    },
+                    {
+                        "id": "sli_N1pmT5YtI.choice_4k6va9YFL.id",
+                        "label": "choice_4k6va9YFL",
+                        "value": "choice_4k6va9YFL"
+                    },
+                    {
+                        "id": "sli_N1pmT5YtI.choice_N1l6wTcFtU.id",
+                        "label": "choice_N1l6wTcFtU",
+                        "value": "choice_N1l6wTcFtU"
+                    },
+                    {
+                        "id": "sli_N1pmT5YtI.choice_41AP6qttL.id",
+                        "label": "choice_41AP6qttL",
+                        "value": "choice_41AP6qttL"
+                    },
+                    {
+                        "id": "sli_N1pmT5YtI.choice_NJkO69KtU.id",
+                        "label": "choice_NJkO69KtU",
+                        "value": "choice_NJkO69KtU"
+                    },
+                    {
+                        "id": "sli_N1pmT5YtI.choice_Nye-aqFt8.id",
+                        "label": "choice_Nye-aqFt8",
+                        "value": "choice_Nye-aqFt8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nye-aqFt8",
+                        "choice_41AP6qttL",
+                        "choice_E12DTctK8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Now is finally the time to deliver your presentation. What should you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Having written a winning presentation is not enough. You must engage your audience. Remember to speak steadily, to talk to the audience, and to use eye contact.",
+            "tips": "Visuals will make your presentation more dynamic. They will also help your audience follow your point. But don’t use too many slides, and keep them simple.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E12DTctK8": "Speak steadily",
+            "choice_4k6va9YFL": "Rush to the conclusion",
+            "choice_N1l6wTcFtU": "Avoid exchanging with the audience",
+            "choice_41AP6qttL": "Talk to the audience",
+            "choice_NJkO69KtU": "Never look at people",
+            "choice_Nye-aqFt8": "Use eye contact"
+        },
+        "fr": {
+            "header": "Le moment est enfin venu de présenter votre exposé. Que devez-vous faire ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Avoir écrit une excellente présentation ne suffit pas. Vous devez engager votre auditoire. Souvenez-vous de parler de manière régulière, de dialoguer avec le public et d'établir un contact visuel.",
+            "tips": "Les visuels rendront votre présentation plus dynamique. Ils aideront également votre auditoire à suivre votre pensée. Mais n’utilisez pas trop de diapositives et optez pour la simplicité.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E12DTctK8": "Parler de manière régulière",
+            "choice_4k6va9YFL": "Vous précipiter vers la conclusion",
+            "choice_N1l6wTcFtU": "Éviter d'échanger avec le public",
+            "choice_41AP6qttL": "Dialoguer avec le public",
+            "choice_NJkO69KtU": "Ne jamais regarder les gens",
+            "choice_Nye-aqFt8": "Etablir un contact visuel"
+        },
+        "de": {
+            "header": "Now is finally the time to deliver your presentation. What should you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Having written a winning presentation is not enough. You must engage your audience. Remember to speak steadily, to talk to the audience, and to use eye contact.",
+            "tips": "Visuals will make your presentation more dynamic. They will also help your audience follow your point. But don’t use too many slides, and keep them simple.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E12DTctK8": "Speak steadily",
+            "choice_4k6va9YFL": "Rush to the conclusion",
+            "choice_N1l6wTcFtU": "Avoid exchanging with the audience",
+            "choice_41AP6qttL": "Talk to the audience",
+            "choice_NJkO69KtU": "Never look at people",
+            "choice_Nye-aqFt8": "Use eye contact"
+        },
+        "th": {
+            "header": "Now is finally the time to deliver your presentation. What should you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Having written a winning presentation is not enough. You must engage your audience. Remember to speak steadily, to talk to the audience, and to use eye contact.",
+            "tips": "Visuals will make your presentation more dynamic. They will also help your audience follow your point. But don’t use too many slides, and keep them simple.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E12DTctK8": "Speak steadily",
+            "choice_4k6va9YFL": "Rush to the conclusion",
+            "choice_N1l6wTcFtU": "Avoid exchanging with the audience",
+            "choice_41AP6qttL": "Talk to the audience",
+            "choice_NJkO69KtU": "Never look at people",
+            "choice_Nye-aqFt8": "Use eye contact"
+        }
+    }
+}

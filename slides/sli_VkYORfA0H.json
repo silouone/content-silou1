@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-03T13:34:03.064Z",
+            "updatedAt": "2019-01-21T14:06:31.928Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1rgTIq0S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_VkYORfA0H",
+        "universalRef": "sli_VkYORfA0H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkYORfA0H.choice_4yglsAMC0S.id",
+                        "label": "choice_4yglsAMC0S",
+                        "value": "choice_4yglsAMC0S",
+                        "media": "med_EkeoCMR0B"
+                    },
+                    {
+                        "id": "sli_VkYORfA0H.choice_41gGsCGRCH.id",
+                        "label": "choice_41gGsCGRCH",
+                        "value": "choice_41gGsCGRCH",
+                        "media": "med_VkGoRfRRr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41gGsCGRCH"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? When dealing with failure, perfectionism is your best friend.",
+            "explanation": "Select the correct answer.",
+            "klf": "To embrace failure, fight back against perfectionism: it will just make you miserable. Instead, try ‘deliberate imperfection’ and experiment with new skills where failure won't matter.",
+            "tips": "5,126 prototypes: that's how many British inventor Sir James Dyson went through before getting the bagless vacuum cleaner right!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yglsAMC0S": "True",
+            "choice_41gGsCGRCH": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Pour gérer l’échec, le perfectionnisme est votre meilleur allié.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Réagir au perfectionnisme, qui fait tout simplement de vous quelqu’un de misérable – tenter « l’imperfection délibérée ». Tenter plutôt « l’imperfection délibérée » et expérimenter de nouvelles compétences là où l’échec a peu d’importance.",
+            "tips": "5126 prototypes : c’est le nombre de prototypes créés par Sir James Dyson avant d’obtenir un aspirateur sans sac qui fonctionne correctement !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yglsAMC0S": "Vrai",
+            "choice_41gGsCGRCH": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Perfektionismus ist Ihr bester Freund, wenn es um Misserfolg geht.",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Um Scheitern zu begegnen, wehren Sie sich gegen den Perfektionismus: Das macht Sie nur unglücklich. Versuchen Sie stattdessen \"absichtliche Unvollkommenheit\" und experimentieren Sie mit neuen Fertigkeiten, bei denen Misserfolg keine Rolle spielt.",
+            "tips": "5.126 Prototypen: So viele durchlief der britische Erfinder Sir James Dyson bevor er den Staubsauger ohne Beutel hatte!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yglsAMC0S": "Wahr",
+            "choice_41gGsCGRCH": "Falsch"
+        },
+        "th": {
+            "header": "True or false? When dealing with failure, perfectionism is your best friend.",
+            "explanation": "Select the correct answer.",
+            "klf": "To embrace failure, fight back against perfectionism: it will just make you miserable. Instead, try ‘deliberate imperfection’ and experiment with new skills where failure won't matter.",
+            "tips": "5,126 prototypes: that's how many British inventor Sir James Dyson went through before getting the bagless vacuum cleaner right!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yglsAMC0S": "True",
+            "choice_41gGsCGRCH": "False"
+        }
+    }
+}

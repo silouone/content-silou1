@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-15T15:14:24.181Z",
+            "updatedAt": "2019-03-15T17:12:33.737Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk~tY7XwU"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4k0nknEvU",
+        "universalRef": "sli_4k0nknEvU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4k0nknEvU.choice_V1xc6Jn4PU.id",
+                        "label": "choice_V1xc6Jn4PU",
+                        "value": "choice_V1xc6Jn4PU",
+                        "media": "med_V15TynVvL"
+                    },
+                    {
+                        "id": "sli_4k0nknEvU.choice_4Jl2TJ24wI.id",
+                        "label": "choice_4Jl2TJ24wI",
+                        "value": "choice_4Jl2TJ24wI",
+                        "media": "med_41n6khNP8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jl2TJ24wI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? There is nothing to learn from junior employees, but there is a lot to teach them.",
+            "explanation": "Select the correct answer.",
+            "klf": "It is certainly your responsibility to help juniors learn. But learning should be a two-way street: all employees possess useful knowledge, even ‘ignorant’ ones. It is your job to find out what it is, and you should be prepared to be managed upwards.",
+            "tips": "In a ‘reverse mentoring’ situation, a younger employee is the mentor of an older member of the company. This younger employee has less overall experience, but possesses more knowledge in a particular field, such as digital technologies for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1xc6Jn4PU": "TRUE",
+            "choice_4Jl2TJ24wI": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Il n'y a rien à apprendre des employés débutants, mais il y a beaucoup à leur enseigner.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est de votre responsabilité d'aider les juniors à apprendre. Mais l’apprentissage doit aller dans les deux sens : tous les employés possèdent des connaissances utiles, même les « ignorants ». C'est à vous de trouver quelles sont-elles, et vous devez être prêt à être géré vers le haut.",
+            "tips": "Dans une situation de « reverse mentoring », un jeune employé est le mentor d’un membre plus âgé de la société. Ce jeune employé a moins d'expérience globale mais possède plus de connaissances dans un domaine particulier, tel que les technologies numériques, par exemple.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1xc6Jn4PU": "VRAI",
+            "choice_4Jl2TJ24wI": "FAUX"
+        },
+        "de": {
+            "header": "True or false? There is nothing to learn from junior employees, but there is a lot to teach them.",
+            "explanation": "Select the correct answer.",
+            "klf": "It is certainly your responsibility to help juniors learn. But learning should be a two-way street: all employees possess useful knowledge, even ‘ignorant’ ones. It is your job to find out what it is, and you should be prepared to be managed upwards.",
+            "tips": "In a ‘reverse mentoring’ situation, a younger employee is the mentor of an older member of the company. This younger employee has less overall experience, but possesses more knowledge in a particular field, such as digital technologies for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1xc6Jn4PU": "True",
+            "choice_4Jl2TJ24wI": "False"
+        },
+        "th": {
+            "header": "True or false? There is nothing to learn from junior employees, but there is a lot to teach them.",
+            "explanation": "Select the correct answer.",
+            "klf": "It is certainly your responsibility to help juniors learn. But learning should be a two-way street: all employees possess useful knowledge, even ‘ignorant’ ones. It is your job to find out what it is, and you should be prepared to be managed upwards.",
+            "tips": "In a ‘reverse mentoring’ situation, a younger employee is the mentor of an older member of the company. This younger employee has less overall experience, but possesses more knowledge in a particular field, such as digital technologies for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1xc6Jn4PU": "TRUE",
+            "choice_4Jl2TJ24wI": "FALSE"
+        }
+    }
+}

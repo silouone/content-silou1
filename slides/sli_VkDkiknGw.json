@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T14:49:52.791Z",
+            "updatedAt": "2019-08-01T15:29:14.900Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4Jygxo9MD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VkDkiknGw",
+        "universalRef": "sli_VkDkiknGw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel34806",
+                        "items": [
+                            {
+                                "text": "choice_VygfMo12Mw",
+                                "value": "choice_VygfMo12Mw"
+                            },
+                            {
+                                "text": "choice_EJWMMjJ3Mw",
+                                "value": "choice_EJWMMjJ3Mw"
+                            },
+                            {
+                                "text": "choice_4J9QoJnMw",
+                                "value": "choice_4J9QoJnMw"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel34806",
+                        "answers": [
+                            "choice_4J9QoJnMw"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which attitude will clearly compromise your interaction with a picky customer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Impatience won’t help. If you are going round in circles, go back to the beginning and question more to try and find the reasons behind any resistance to reaching a conclusion.",
+            "tips": "Many indecisive customers are just afraid that the option they pick won't deliver. Reassure picky customers and build a trust base with them, to counter the indecisiveness from moving in.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel34806}}",
+            "choice_VygfMo12Mw": "Giving credit to the research they have done",
+            "choice_EJWMMjJ3Mw": "Listening actively",
+            "choice_4J9QoJnMw": "Being impatient"
+        },
+        "fr": {
+            "header": "Quelle attitude compromettra à coup sûr votre interaction avec un client pointilleux ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Être impatient ne vous aidera pas. Si vous tournez en rond, revenez au début de votre conversation et posez des questions supplémentaires pour essayer de trouver les raisons qui poussent votre client à ne pas vouloir conclure cette discussion.",
+            "tips": "De nombreux clients indécis craignent que l'option qu'ils choisissent ne leur convienne pas. Rassurez les clients pointilleux et construisez avec eux une base de confiance, afin d'empêcher qu'ils se laissent surprendre par l’indécision.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel34806}}",
+            "choice_VygfMo12Mw": "Accorder du mérite aux recherches qu'ils ont effectuées",
+            "choice_EJWMMjJ3Mw": "Les écouter activement",
+            "choice_4J9QoJnMw": "Être impatient"
+        },
+        "de": {
+            "header": "Which attitude will clearly compromise your interaction with a picky customer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Impatience won’t help. If you are going round in circles, go back to the beginning and question more to try and find the reasons behind any resistance to reaching a conclusion.",
+            "tips": "Many indecisive customers are just afraid that the option they pick won't deliver. Reassure picky customers and build a trust base with them, to counter the indecisiveness from moving in.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel34806}}",
+            "choice_VygfMo12Mw": "Giving credit to the research they have done",
+            "choice_EJWMMjJ3Mw": "Listening actively",
+            "choice_4J9QoJnMw": "Being impatient"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel34806}}",
+            "choice_VygfMo12Mw": "",
+            "choice_EJWMMjJ3Mw": "",
+            "choice_4J9QoJnMw": ""
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T10:20:03.855Z",
+            "updatedAt": "2019-04-23T12:51:18.509Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkY1s3w5I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NyZxVAP98",
+        "universalRef": "sli_NyZxVAP98",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel40829",
+                        "items": [
+                            {
+                                "text": "choice_EyxmeNCPq8",
+                                "value": "choice_EyxmeNCPq8"
+                            },
+                            {
+                                "text": "choice_NkWXgVRPcU",
+                                "value": "choice_NkWXgVRPcU"
+                            },
+                            {
+                                "text": "choice_Vy2vERw5I",
+                                "value": "choice_Vy2vERw5I"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel40829",
+                        "answers": [
+                            "choice_Vy2vERw5I"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "‘What was the first trip you booked with us?’ What type of question is this?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Recall questions allow customers to reminisce and while they're doing so, they will give you a lot of information about their relationship with your brand.",
+            "tips": "Reminisce, talking or writing about past experience you remember with pleasure, comes from the Latin word <i>reminisci</i>, meaning ‘remember’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel40829}}",
+            "choice_EyxmeNCPq8": "A closed question",
+            "choice_NkWXgVRPcU": "An open question",
+            "choice_Vy2vERw5I": "A recall question"
+        },
+        "fr": {
+            "header": "« Quel est le premier voyage que vous avez réservé chez nous ? » De quel type de question s’agit-il ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les questions de rappel permettent aux clients de se remémorer leurs souvenirs et, ce faisant, de vous donner de nombreuses informations sur leurs relations avec votre marque.",
+            "tips": "Se remémorer - parler ou écrire au sujet d'une expérience passée dont vous vous souvenez avec plaisir - vient du mot latin <i>reminisci</i>, qui signifie « souviens-toi ».",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel40829}}",
+            "choice_EyxmeNCPq8": "Une question fermée",
+            "choice_NkWXgVRPcU": "Une question ouverte",
+            "choice_Vy2vERw5I": "Une question de rappel"
+        },
+        "de": {
+            "header": "‘What was the first trip you booked with us?’ What type of question is this?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Recall questions allow customers to reminisce and while they're doing so, they will give you a lot of information about their relationship with your brand.",
+            "tips": "Reminisce, talking or writing about past experience you remember with pleasure, comes from the Latin word <i>reminisci</i>, meaning ‘remember’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel40829}}",
+            "choice_EyxmeNCPq8": "A closed question",
+            "choice_NkWXgVRPcU": "An open question",
+            "choice_Vy2vERw5I": "A recall question"
+        },
+        "th": {
+            "header": "‘What was the first trip you booked with us?’ What type of question is this?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Recall questions allow customers to reminisce and while they're doing so, they will give you a lot of information about their relationship with your brand.",
+            "tips": "Reminisce, talking or writing about past experience you remember with pleasure, comes from the Latin word <i>reminisci</i>, meaning ‘remember’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel40829}}",
+            "choice_EyxmeNCPq8": "A closed question",
+            "choice_NkWXgVRPcU": "An open question",
+            "choice_Vy2vERw5I": "A recall question"
+        }
+    }
+}

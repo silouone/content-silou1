@@ -1,0 +1,105 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T10:38:23.814Z",
+            "updatedAt": "2019-01-21T16:04:51.482Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1DX8HLAr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_N1x4Wryk8",
+        "universalRef": "sli_N1x4Wryk8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_N1x4Wryk8.field_4JcczBykI.id",
+                        "type": "text",
+                        "name": "inp28135"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp28135",
+                        "answers": [
+                            "choice_4JMq5zH1kL"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_VJabdS118",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "There's a middle way between submissiveness and aggressiveness. How do you call it?",
+            "explanation": "Type your answer.",
+            "klf": "The middle way between being aggressive and being submissive is being assertive!",
+            "tips": "\"Deal honestly, openly, and fairly with people, and they'll treat you in the same way.\" Good manager, 2018.",
+            "clue": "",
+            "context_title": "The Middle Way",
+            "context_description": "Leading a meeting with your uncooperative colleagues, your first move was to let anything pass submissively. But talking about yesterday's football game while you presented the quarter budget was too much. That's when you tried aggressiveness to get everyone focused on your speech.",
+            "context_media_description": "",
+            "template": "The middle way between being aggressive and being submissive is being {{inp28135}}",
+            "choice_4JMq5zH1kL": "assertive"
+        },
+        "fr": {
+            "header": "Il existe un juste milieu entre la soumission et l’agressivité. Comment l’appelez-vous ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Le juste milieu entre la soumission et l’agressivité s’appelle l’assertivité !",
+            "tips": "« Comportez-vous de manière honnête, ouverte et équitable avec les autres, et ces derniers vous traiteront de manière identique en retour. » Good manager, 2018.",
+            "clue": "",
+            "context_title": "Trouver le juste milieu",
+            "context_description": "Lors d’une réunion avec des collaborateurs peu coopératifs, votre première réaction a été de tout accepter avec docilité. Mais la discussion sur le match de football de la veille, pendant votre présentation du budget trimestriel, a été de trop. C’est à ce moment-là que vous vous êtes montré plus agressif pour capter l’attention de tous sur votre discours.",
+            "context_media_description": "",
+            "template": "Le juste milieu entre la soumission et l’agressivité est {{inp28135}}",
+            "choice_4JMq5zH1kL": "l’assertivité"
+        },
+        "de": {
+            "header": "Es gibt einen Mittelweg zwischen Unterwürfigkeit und Aggressivität. Wie nennt man das?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Der Mittelweg zwischen aggressiv sein und unterwürfig sein ist Durchsetzungsvermögen!",
+            "tips": "Gehen Sie ehrlich, offen und fair mit Menschen um, und sie werden Sie genauso behandeln. Guter Manager, 2018.",
+            "clue": "",
+            "context_title": "Der Mittelweg",
+            "context_description": "Bei einem von ihnen geleiteten Treffen mit Ihren unkooperativen Kollegen war Ihr erster Schritt, alles gehorsam durchgehen zu lassen. Aber über das gestrige Fußballspiel zu sprechen, als Sie das Quartalsbudget vorstellten, war zu viel. Dann haben Sie es dann mit Aggresivität versucht, um alle auf Ihre Rede zu fokussieren. ",
+            "context_media_description": "",
+            "template": "Der Mittelweg zwischen aggressiv sein und unterwürfig sein ist {{inp28135}}",
+            "choice_4JMq5zH1kL": "durchsetzungsfähig"
+        },
+        "th": {
+            "header": "มีทางสายกลางอยู่ระหว่างความอ่อนน้อมและความก้าวร้าว คุณเรียกสิ่งนั้นว่าอะไร",
+            "explanation": "พิมพ์คำตอบของคุณ",
+            "klf": "ทางสายกลางระหว่างความก้าวร้าวและความอ่อนน้อมคือการกล้าแสดงออก!",
+            "tips": "รับมือกับผู้คนอย่างจริงใจ ตรงไปตรงมา และอย่างยุติธรรม และพวกเขาจะปฏิบัติกับคุณในแบบเดียวกัน ผู้จัดการที่ดี 2018",
+            "clue": "",
+            "context_title": "ทางสายกลาง",
+            "context_description": "เมื่อต้องนำการประชุมที่เพื่อนร่วมงานไม่ให้ความร่วมมือ สิ่งแรกที่คุณทำคือการยอมปล่อยผ่านไปก่อนโดยไม่พูดอะไร แต่การพูดคุยเกี่ยวกับเกมฟุตบอลนัดเมื่อวานในขณะที่คุณกำลังพูดเรื่องงบประมาณไตรมาสนั้นเป็นสิ่งที่มากเกินไป นั่นคือตอนที่คุณพยายามใช้ความก้าวร้าวเพื่อทำให้ทุกคนสนใจสิ่งที่คุณพูด",
+            "context_media_description": "",
+            "template": "ทางสายกลางระหว่างความก้าวร้าวและความอ่อนน้อมคือการ {{inp28135}}",
+            "choice_4JMq5zH1kL": "กล้าแสดงออก"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-15T09:51:45.579Z",
+            "updatedAt": "2019-05-15T09:51:45.579Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vyp8KAusU"
+            ],
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_N1rgxC428",
+        "universalRef": "sli_N1rgxC428",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1rgxC428.choice_VkBNeAN28.id",
+                        "label": "choice_VkBNeAN28",
+                        "value": "choice_VkBNeAN28"
+                    },
+                    {
+                        "id": "sli_N1rgxC428.choice_N1L4lCNnI.id",
+                        "label": "choice_N1L4lCNnI",
+                        "value": "choice_N1L4lCNnI"
+                    },
+                    {
+                        "id": "sli_N1rgxC428.choice_4kvVlRVnL.id",
+                        "label": "choice_4kvVlRVnL",
+                        "value": "choice_4kvVlRVnL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kvVlRVnL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What do helpers tend to think about when requested for help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Requesters often underestimate the likelihood that people will accept their requests, because helpers are likely to focus on the social costs of refusing.",
+            "tips": "Pick your time when asking for help. Don’t just barge into your colleague’s office during their busiest time.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkBNeAN28": "The time and resources that need to be spent",
+            "choice_N1L4lCNnI": "How awful and inconvenient it is to help out",
+            "choice_4kvVlRVnL": "The social costs of not helping"
+        },
+        "fr": {
+            "header": "À quoi les gens ont-ils tendance à penser lorsque leur aide est sollicitée ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les solliciteurs d'aide sous-estiment souvent la probabilité qu'on réponde positivement à leurs demandes. En effet, les sollicités se focalisent généralement sur ce que ça peut leur coûter socialement de refuser.",
+            "tips": "Choisissez votre moment lorsque vous demandez de l'aide. Ne faites pas simplement irruption dans le bureau de vos collègues au moment où ils sont le plus débordés.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkBNeAN28": "Au temps et aux ressources qu'ils vont devoir dépenser",
+            "choice_N1L4lCNnI": "À quel point c'est épouvantable et contraignant d'aider",
+            "choice_4kvVlRVnL": "Ce que ça peut leur coûter socialement de ne pas aider"
+        },
+        "de": {
+            "header": "What do helpers tend to think about when requested for help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Requesters often underestimate the likelihood that people will accept their requests, because helpers are likely to focus on the social costs of refusing.",
+            "tips": "Pick your time when asking for help. Don’t just barge into your colleague’s office during their busiest time.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkBNeAN28": "The time and resources that need to be spent",
+            "choice_N1L4lCNnI": "How awful and inconvenient it is to help out",
+            "choice_4kvVlRVnL": "The social costs of not helping"
+        },
+        "th": {
+            "header": "What do helpers tend to think about when requested for help?",
+            "explanation": "Select the correct answer.",
+            "klf": "Requesters often underestimate the likelihood that people will accept their requests, because helpers are likely to focus on the social costs of refusing.",
+            "tips": "Pick your time when asking for help. Don’t just barge into your colleague’s office during their busiest time.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkBNeAN28": "The time and resources that need to be spent",
+            "choice_N1L4lCNnI": "How awful and inconvenient it is to help out",
+            "choice_4kvVlRVnL": "The social costs of not helping"
+        }
+    }
+}

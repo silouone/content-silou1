@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-13T09:42:49.687Z",
+            "updatedAt": "2019-02-15T15:46:20.984Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WGRkBEI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NyNPSCn4L",
+        "universalRef": "sli_NyNPSCn4L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyNPSCn4L.choice_VybjHRnEI.id",
+                        "label": "choice_VybjHRnEI",
+                        "value": "choice_VybjHRnEI"
+                    },
+                    {
+                        "id": "sli_NyNPSCn4L.choice_EJGsSC2VI.id",
+                        "label": "choice_EJGsSC2VI",
+                        "value": "choice_EJGsSC2VI"
+                    },
+                    {
+                        "id": "sli_NyNPSCn4L.choice_4J7nBChNU.id",
+                        "label": "choice_4J7nBChNU",
+                        "value": "choice_4J7nBChNU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJGsSC2VI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the actions below will help you build a rapport with someone you don't normally get on with?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Complimenting the features you admire in other people can increase cooperation and break barriers.",
+            "tips": "In his worldwide best-seller book ‘How to Win Friends and Influence People’ (1936), Dale Carnegie already highlighted the power of compliments. Giving ‘honest and sincere appreciation’ is listed as one of the 3 fundamental techniques in handling people.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VybjHRnEI": "Send them an email",
+            "choice_EJGsSC2VI": "Compliment them on a positive trait",
+            "choice_4J7nBChNU": "Call them by their last name"
+        },
+        "fr": {
+            "header": "Parmi les actions ci-dessous, laquelle vous aidera à nouer des relations avec quelqu'un avec qui vous ne vous entendez pas normalement ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Complimenter les qualités que vous admirez chez les autres peut augmenter la coopération et briser les barrières.",
+            "tips": "Dans son best-seller mondial « Comment se faire des amis » (1936), Dale Carnegie soulignait déjà le pouvoir des compliments. Donner « une appréciation honnête et sincère » est répertorié comme l’une des trois techniques fondamentales du traitement des personnes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VybjHRnEI": "Lui envoyer un email",
+            "choice_EJGsSC2VI": "Le complimenter sur un trait positif",
+            "choice_4J7nBChNU": "L'appeler par son nom de famille"
+        },
+        "de": {
+            "header": "Welche der folgenden Aktionen hilft Ihnen dabei, eine Beziehung zu jemandem aufzubauen, mit der Sie normalerweise nichts anfangen können?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Wenn Sie die Funktionen ergänzen, die Sie bei anderen Menschen bewundern, können Sie die Zusammenarbeit verbessern und Barrieren überwinden.",
+            "tips": "Dale Carnegie hat bereits in seinem weltweiten Bestseller-Buch „How to Win Friends and Influence People“ (1936) die Macht der Komplimente hervorgehoben. Ehrliche und aufrichtige Wertschätzung zu geben, wird als eine der drei grundlegenden Techniken im Umgang mit Menschen aufgeführt.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VybjHRnEI": "Senden Sie ihnen eine E-Mail",
+            "choice_EJGsSC2VI": "Machen Sie ein kompliment zu einer positiven Eigenschaft",
+            "choice_4J7nBChNU": "Nennen Sie sie bei ihrem Nachnamen"
+        },
+        "th": {
+            "header": "Which of the actions below will help you build a rapport with someone you don't normally get on with?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Complimenting the features you admire in other people can increase cooperation and break barriers.",
+            "tips": "In his worldwide best-seller book ‘How to Win Friends and Influence People’ (1936), Dale Carnegie already highlighted the power of compliments. Giving ‘honest and sincere appreciation’ is listed as one of the 3 fundamental techniques in handling people.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VybjHRnEI": "Send them an email",
+            "choice_EJGsSC2VI": "Compliment them on a positive trait",
+            "choice_4J7nBChNU": "Call them by their last name"
+        }
+    }
+}

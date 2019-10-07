@@ -1,0 +1,105 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-11T16:42:00.946Z",
+            "updatedAt": "2019-09-26T09:38:06.866Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kTMaEjLL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_NJt3OukPI",
+        "universalRef": "sli_NJt3OukPI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJt3OukPI.choice_EylnHF-1vI.id",
+                        "label": "choice_EylnHF-1vI",
+                        "value": "choice_EylnHF-1vI",
+                        "media": "med_412BFdkDL"
+                    },
+                    {
+                        "id": "sli_NJt3OukPI.choice_N1xKRF-JPL.id",
+                        "label": "choice_N1xKRF-JPL",
+                        "value": "choice_N1xKRF-JPL",
+                        "media": "med_VyKCKuyvL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1xKRF-JPL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "A good manager should not show any flexibility regarding absenteeism. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "When trying to agree on a solution for absenteeism, a manager should be as flexible as possible.",
+            "tips": "Strong work ethics is one of the attributes employees value the most in regards to management practices.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylnHF-1vI": "TRUE",
+            "choice_N1xKRF-JPL": "FALSE",
+            "choice_NJxOwFdJDU": "False"
+        },
+        "fr": {
+            "header": "Un bon manager ne doit faire preuve d'aucune flexibilité en matière d'absentéisme. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En essayant de s’entendre sur une solution quand à un problème d'absentéisme, un responsable doit faire preuve de la plus grande souplesse possible.",
+            "tips": "Une éthique de travail solide est l’une des qualités les plus précieuses aux yeux des employés en termes de pratiques de gestion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylnHF-1vI": "VRAI",
+            "choice_N1xKRF-JPL": "FAUX",
+            "choice_NJxOwFdJDU": ""
+        },
+        "de": {
+            "header": "A good manager should not show any flexibility regarding absenteeism. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "When trying to agree on a solution for absenteeism, a manager should be as flexible as possible.",
+            "tips": "Strong work ethics is one of the attributes employees value the most in regards to management practices.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylnHF-1vI": "True",
+            "choice_N1xKRF-JPL": "False",
+            "choice_NJxOwFdJDU": ""
+        },
+        "th": {
+            "header": "A good manager should not show any flexibility regarding absenteeism. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "When trying to agree on a solution for absenteeism, a manager should be as flexible as possible.",
+            "tips": "Strong work ethics is one of the attributes employees value the most in regards to management practices.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EylnHF-1vI": "TRUE",
+            "choice_N1xKRF-JPL": "FALSE",
+            "choice_NJxOwFdJDU": "False"
+        }
+    }
+}

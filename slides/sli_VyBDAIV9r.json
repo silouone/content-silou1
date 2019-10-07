@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T14:53:50.516Z",
+            "updatedAt": "2018-11-09T11:23:10.641Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkziTzV5H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_VyBDAIV9r",
+        "universalRef": "sli_VyBDAIV9r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyBDAIV9r.choice_V1uu0IE9B.id",
+                        "label": "choice_V1uu0IE9B",
+                        "value": "choice_V1uu0IE9B"
+                    },
+                    {
+                        "id": "sli_VyBDAIV9r.choice_NkquAIE5S.id",
+                        "label": "choice_NkquAIE5S",
+                        "value": "choice_NkquAIE5S"
+                    },
+                    {
+                        "id": "sli_VyBDAIV9r.choice_VkoOCL4cB.id",
+                        "label": "choice_VkoOCL4cB",
+                        "value": "choice_VkoOCL4cB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkquAIE5S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why do we need lists?",
+            "explanation": "Select the correct answer.",
+            "klf": "Making lists is a great way to remember lists of tasks or information. The human mind is not made for remembering too much accurately.",
+            "tips": "Remember to also make use of your calendar. It's not just for meetings and appointments, use it to remember your tasks as well!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1uu0IE9B": "We need lists to delegate our work",
+            "choice_NkquAIE5S": "Because our brains have a limited capacity, so we need lists when we have too much to remember",
+            "choice_VkoOCL4cB": "We don't need lists"
+        },
+        "fr": {
+            "header": "Pourquoi faire des listes ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dresser des listes est un bon moyen de mémoriser des listes de tâches ou d’informations. Le cerveau humain n’est pas conçu pour mémoriser de manière très précise.",
+            "tips": "Pensez également à utiliser votre agenda. Il ne sert pas uniquement à planifier les réunions et les rendez-vous, vous pouvez aussi l’utiliser pour y noter des tâches à réaliser !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1uu0IE9B": "Nous avons besoin de listes pour déléguer notre travail",
+            "choice_NkquAIE5S": "Notre cerveau ayant des capacités limitées, nous avons besoin de listes en cas d’un trop grand nombre d’informations à retenir",
+            "choice_VkoOCL4cB": "Nous n’avons pas besoin de liste"
+        },
+        "de": {
+            "header": "Warum brauchen wir Listen?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Das Erstellen von Listen ist eine großartige Möglichkeit, sich Listen von Aufgaben oder Informationen zu merken. Der menschliche Geist ist nicht dafür geschaffen, sich zu genau zu erinnern.",
+            "tips": "Denken Sie daran, auch Ihren Kalender zu nutzen. Es ist nicht nur für Besprechungen und Termine, verwenden Sie es, um sich auch an Ihre Aufgaben zu erinnern!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1uu0IE9B": "Wir brauchen Listen, um unsere Arbeit zu delegieren",
+            "choice_NkquAIE5S": "Weil unser Gehirn eine begrenzte Kapazität hat, brauchen wir Listen, wenn wir uns zu viel merken müssen",
+            "choice_VkoOCL4cB": "Wir brauchen keine Listen"
+        },
+        "th": {
+            "header": "Why do we need lists?",
+            "explanation": "Select the correct answer.",
+            "klf": "Making lists is a great way to remember lists of tasks or information. The human mind is not made for remembering too much accurately.",
+            "tips": "Remember to also make use of your calendar. It's not just for meetings and appointments, use it to remember your tasks as well!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1uu0IE9B": "We need lists to delegate our work",
+            "choice_NkquAIE5S": "Because our brains have a limited capacity, so we need lists when we have too much to remember",
+            "choice_VkoOCL4cB": "We don't need lists"
+        }
+    }
+}

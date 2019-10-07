@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-27T15:06:52.078Z",
+            "updatedAt": "2019-08-27T15:06:52.078Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1MYcJVQv"
+            ],
+            "modifiedBy": "ChRitzmannch",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_4yjsVNAVP",
+        "universalRef": "sli_4yjsVNAVP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yjsVNAVP.choice_Eky04N04w.id",
+                        "label": "choice_Eky04N04w",
+                        "value": "choice_Eky04N04w"
+                    },
+                    {
+                        "id": "sli_4yjsVNAVP.choice_NyZCNVCVv.id",
+                        "label": "choice_NyZCNVCVv",
+                        "value": "choice_NyZCNVCVv"
+                    },
+                    {
+                        "id": "sli_4yjsVNAVP.choice_4yf0E4RNv.id",
+                        "label": "choice_4yf0E4RNv",
+                        "value": "choice_4yf0E4RNv"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4yf0E4RNv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If you've exhausted all possibilities with one customer, what should you do to work towards your sales objectives?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you are out of possibilities with one customer, look for other opportunities. Ask your customer, they may have colleagues with the same needs. Try to find other customers for the same product.",
+            "tips": "Don't be afraid to ask for referrals from satisfied clients. This will be helpful when looking for new customers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eky04N04w": "Don't take no for an answer, the customer will agree to the sale eventually",
+            "choice_NyZCNVCVv": "Divide the price by 2 to get them to agree",
+            "choice_4yf0E4RNv": "Ask them for leads for other customers for the same product"
+        },
+        "fr": {
+            "header": "Si vous avez épuisé toutes les possibilités avec un client, que devriez-vous faire pour atteindre vos objectifs de vente?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Si vous êtes hors des possibilités avec un client, recherchez d'autres opportunités. Demandez à votre client, ils peuvent avoir des collègues avec les mêmes besoins. Essayez de trouver d'autres clients pour le même produit.",
+            "tips": "N'ayez pas peur de demander des références de clients satisfaits. Cela sera utile lors de la recherche de nouveaux clients.",
+            "choice_Eky04N04w": "Ne prenez pas non pour une réponse, le client acceptera éventuellement la vente",
+            "choice_NyZCNVCVv": "Divisez le prix par 2 pour les faire accepter",
+            "choice_4yf0E4RNv": "Demandez-leur des pistes pour d'autres clients pour le même produit",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "If you've exhausted all possibilities with one customer, what should you do to work towards your sales objectives?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you are out of possibilities with one customer, look for other opportunities. Ask your customer, they may have colleagues with the same needs. Try to find other customers for the same product.",
+            "tips": "Don't be afraid to ask for referrals from satisfied clients. This will be helpful when looking for new customers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eky04N04w": "Don't take no for an answer, the customer will agree to the sale eventually",
+            "choice_NyZCNVCVv": "Divide the price by 2 to get them to agree",
+            "choice_4yf0E4RNv": "Ask them for leads for other customers for the same product"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eky04N04w": "",
+            "choice_NyZCNVCVv": "",
+            "choice_4yf0E4RNv": ""
+        }
+    }
+}

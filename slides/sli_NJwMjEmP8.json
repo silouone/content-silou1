@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T12:42:29.445Z",
+            "updatedAt": "2019-03-15T16:52:12.838Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ndF7XvL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJwMjEmP8",
+        "universalRef": "sli_NJwMjEmP8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJwMjEmP8.choice_N1-QiN7DL.id",
+                        "label": "choice_N1-QiN7DL",
+                        "value": "choice_N1-QiN7DL"
+                    },
+                    {
+                        "id": "sli_NJwMjEmP8.choice_Ey5Xj4XwL.id",
+                        "label": "choice_Ey5Xj4XwL",
+                        "value": "choice_Ey5Xj4XwL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Ey5Xj4XwL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which is more likely to affect someone’s approach to work?",
+            "explanation": "Select the correct answer.",
+            "klf": "Differences in our approach to work are more likely to be about stage of life than age. For example, you are more likely to move jobs more often when you are establishing a career.",
+            "tips": "The best way to deconstruct generational stereotypes is to create opportunities for employees of all ages to collaborate and interact, both at the workplace and in non-work-related environments.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1-QiN7DL": "Their age",
+            "choice_Ey5Xj4XwL": "The stage they are at in their life or career"
+        },
+        "fr": {
+            "header": "Quel facteur est le plus susceptible d'affecter l'approche qu'une personne a du travail ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les différences dans notre approche du travail concernent plus le stade de la vie que l’âge. Par exemple, vous êtes plus susceptible de changer d’emploi lorsque vous commencez une carrière.",
+            "tips": "Le meilleur moyen de déconstruire les stéréotypes générationnels est de créer des possibilités pour les employés de tous âges de collaborer et d’interagir, à la fois sur le lieu de travail et dans des environnements non liés au travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1-QiN7DL": "Son âge",
+            "choice_Ey5Xj4XwL": "Le stade où il se trouve dans sa vie ou sa carrière"
+        },
+        "de": {
+            "header": "Which is more likely to affect someone’s approach to work?",
+            "explanation": "Select the correct answer.",
+            "klf": "Differences in our approach to work are more likely to be about stage of life than age. For example, you are more likely to move jobs more often when you are establishing a career.",
+            "tips": "The best way to deconstruct generational stereotypes is to create opportunities for employees of all ages to collaborate and interact, both at the workplace and in non-work-related environments.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1-QiN7DL": "Their age",
+            "choice_Ey5Xj4XwL": "The stage they are at in their life or career"
+        },
+        "th": {
+            "header": "Which is more likely to affect someone’s approach to work?",
+            "explanation": "Select the correct answer.",
+            "klf": "Differences in our approach to work are more likely to be about stage of life than age. For example, you are more likely to move jobs more often when you are establishing a career.",
+            "tips": "The best way to deconstruct generational stereotypes is to create opportunities for employees of all ages to collaborate and interact, both at the workplace and in non-work-related environments.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1-QiN7DL": "Their age",
+            "choice_Ey5Xj4XwL": "The stage they are at in their life or career"
+        }
+    }
+}

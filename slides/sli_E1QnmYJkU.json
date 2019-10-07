@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T14:55:13.909Z",
+            "updatedAt": "2019-01-23T15:29:16.435Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ewaPy1U"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E1QnmYJkU",
+        "universalRef": "sli_E1QnmYJkU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel88737",
+                        "items": [
+                            {
+                                "text": "choice_VJemGEFyJ8",
+                                "value": "choice_VJemGEFyJ8"
+                            },
+                            {
+                                "text": "choice_EkZmfVKJ18",
+                                "value": "choice_EkZmfVKJ18"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel63806",
+                        "items": [
+                            {
+                                "text": "choice_N1gIz4KykI",
+                                "value": "choice_N1gIz4KykI"
+                            },
+                            {
+                                "text": "choice_41ZIzVYJ18",
+                                "value": "choice_41ZIzVYJ18"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel88737",
+                        "answers": [
+                            "choice_EkZmfVKJ18"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel63806",
+                        "answers": [
+                            "choice_N1gIz4KykI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are two keys to success for an effective meeting?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Effective meetings need structure and order. Without these elements they can go on forever, never really accomplishing anything.",
+            "tips": "Make sure that everyone's agenda is connected to the virtual meeting tool you are using. It's the best way to avoid surprises on D-day!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Effective meetings need {{sel88737}} and {{sel63806}}",
+            "choice_VJemGEFyJ8": "patience",
+            "choice_EkZmfVKJ18": "structure",
+            "choice_N1gIz4KykI": "order",
+            "choice_41ZIzVYJ18": "high objectives"
+        },
+        "fr": {
+            "header": "Quelles sont les deux clés du succès d’une réunion efficace ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Pour être efficace, une réunion doit être structurée et ordonnée. Sans ces exigences, une réunion peut durer éternellement, sans jamais aboutir à quoi que ce soit.",
+            "tips": "S’assurer que l’agenda de tous les participants est connecté à l’outil de réunion virtuel que vous utilisez. C’est le meilleur moyen d’éviter les mauvaises surprises le jour J !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les réunions efficaces ont besoin de {{sel88737}} et de / {{sel63806}}",
+            "choice_VJemGEFyJ8": "patience",
+            "choice_EkZmfVKJ18": "structure",
+            "choice_N1gIz4KykI": "ordre",
+            "choice_41ZIzVYJ18": "objectifs élevés"
+        },
+        "de": {
+            "header": "Was sind zwei Schlüssel zum Erfolg für ein effektives Meeting?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "Effektive Meetings brauchen Struktur und Ordnung. Ohne diese Elemente können sie für immer weitergehen und niemals wirklich etwas erreichen.",
+            "tips": "Vergewissern Sie sich, dass die Tagesordnung aller mit dem von Ihnen verwendeten virtuellen Besprechungstool verbunden ist. Dies ist der beste Weg, um Überraschungen am D-Day zu vermeiden!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Effektive Meetings benötigen {{sel88737}} und {{sel63806}}",
+            "choice_VJemGEFyJ8": "Geduld",
+            "choice_EkZmfVKJ18": "Struktur",
+            "choice_N1gIz4KykI": "Auftrag",
+            "choice_41ZIzVYJ18": "hohe Ziele"
+        },
+        "th": {
+            "header": "What are two keys to success for an effective meeting?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Effective meetings need structure and order. Without these elements they can go on forever, never really accomplishing anything.",
+            "tips": "Make sure that everyone's agenda is connected to the virtual meeting tool you are using. It's the best way to avoid surprises on D-day!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Effective meetings need {{sel88737}} and {{sel63806}}",
+            "choice_VJemGEFyJ8": "patience",
+            "choice_EkZmfVKJ18": "structure",
+            "choice_N1gIz4KykI": "order",
+            "choice_41ZIzVYJ18": "high objectives"
+        }
+    }
+}

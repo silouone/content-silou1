@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-12T13:13:45.400Z",
+            "updatedAt": "2018-11-09T13:12:23.727Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkriSwS5r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_41PAhYYqS",
+        "universalRef": "sli_41PAhYYqS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel46388",
+                        "items": [
+                            {
+                                "text": "choice_NkxtFzjt9r",
+                                "value": "choice_NkxtFzjt9r"
+                            },
+                            {
+                                "text": "choice_VJWFYGsY9r",
+                                "value": "choice_VJWFYGsY9r"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel46388",
+                        "answers": [
+                            "choice_NkxtFzjt9r"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the first step to learning how to regulate our moods and emotions?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Before an outburst, remember that your moods and emotions affect others.",
+            "tips": "Remember: as a leader, you set the standard for your team. If you lash out, so will they.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46388}}",
+            "choice_NkxtFzjt9r": "Be mindful that our emotions and moods affect others, often with long-lasting effects",
+            "choice_VJWFYGsY9r": "Consider if the other person deserves the brunt of your bad mood"
+        },
+        "fr": {
+            "header": "Quelle est la première étape pour apprendre à maîtriser nos humeurs et nos émotions ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Avant de vous emporter, rappelez-vous que votre humeur et vos émotions affectent les autres.",
+            "tips": "Rappelez-vous : en tant que leader, vous donnez le ton aux membres de votre équipe. Si vous vous emportez, ils feront de même.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46388}}",
+            "choice_NkxtFzjt9r": "Garder à l’esprit que nos émotions et nos humeurs affectent les autres, souvent avec des effets à long terme",
+            "choice_VJWFYGsY9r": "Se demander si la personne en face mérite de subir notre mauvaise humeur"
+        },
+        "de": {
+            "header": "Was ist der erste Schritt, um zu lernen, wie wir unsere Stimmungen und Emotionen regulieren können?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Denken Sie vor einem Ausbruch daran, dass Ihre Stimmungen und Emotionen andere beeinflussen.",
+            "tips": "Denken Sie daran: Als Führungskraft setzen Sie den Standard für Ihr Team. Wenn Sie wild um sich schlagen, werden sie es auch tun.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46388}}",
+            "choice_NkxtFzjt9r": "Beachten Sie, dass unsere Emotionen und Stimmungen andere Menschen beeinflussen, oft mit lang anhaltender Wirkung",
+            "choice_VJWFYGsY9r": "Überlegen Sie, ob die andere Person die Hauptlast Ihrer schlechten Laune verdient"
+        },
+        "th": {
+            "header": "ขั้นตอนแรกในการเรียนรู้วิธีที่จะควบคุมอารมณ์และความรู้สึกของเราคืออะไร",
+            "explanation": "เลือกคำตอบที่ถูกต้องจากเมนูดรอปดาวน์",
+            "klf": "ก่อนจะระเบิดอารมณ์ออกมา ขอให้จำไว้ว่าสภาพอารมณ์และความรู้สึกของคุณมีผลกระทบต่อผู้อื่น",
+            "tips": "จำไว้ว่า: ในฐานะผู้นำ คุณจะต้องตั้งมาตรฐานให้ทีมของคุณเอง หากคุณใช้อารมณ์ด้วยความโกรธ สมาชิกในทีมก็จะทำเช่นเดียวกัน",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel46388}}",
+            "choice_NkxtFzjt9r": "อย่าลืมว่าอารมณ์และความรู้สึกของเรามีผลต่อผู้อื่น ซึ่งบ่อยครั้งมักจะให้ผลยาวนาน",
+            "choice_VJWFYGsY9r": "ให้คำนึงถึงว่าคนอื่นๆ สมควรจะได้รับแรงกดดันจากอารมณ์เสียของคุณหรือไม่"
+        }
+    }
+}

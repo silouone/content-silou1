@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T15:59:03.041Z",
+            "updatedAt": "2019-03-20T09:54:15.477Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4J72oUgqB"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VyXY5D4qB",
+        "universalRef": "sli_VyXY5D4qB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50345",
+                        "items": [
+                            {
+                                "text": "choice_EygFAoDVqH",
+                                "value": "choice_EygFAoDVqH"
+                            },
+                            {
+                                "text": "choice_N1bKAsvNcS",
+                                "value": "choice_N1bKAsvNcS"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel81334",
+                        "items": [
+                            {
+                                "text": "choice_NkxyW2wVcS",
+                                "value": "choice_NkxyW2wVcS"
+                            },
+                            {
+                                "text": "choice_Nkb1bnPEqS",
+                                "value": "choice_Nkb1bnPEqS"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50345",
+                        "answers": [
+                            "choice_N1bKAsvNcS"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel81334",
+                        "answers": [
+                            "choice_NkxyW2wVcS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the positive and negative effects of competition on team decision-making?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Sometimes people’s ideas need to be squashed but people themselves have to be protected.",
+            "tips": "Coopetition is a neologism that refers to both competition and cooperation. An organisation is coopetitive when, for example, it uses cooperation within its members to generate competitive advantages. It can also happen between two organisations that share similar interests.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You need competition between {{sel50345}} because that’s what’s creative. But competition between {{sel81334}} can be destructive.",
+            "choice_EygFAoDVqH": "people",
+            "choice_N1bKAsvNcS": "ideas",
+            "choice_NkxyW2wVcS": "people",
+            "choice_Nkb1bnPEqS": "ideas"
+        },
+        "fr": {
+            "header": "Quels sont les effets positifs et négatifs de la compétition lors de la prise de décision en équipe ? ",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Certaines idées doivent parfois être abandonnées, mais les personnes qui les ont proposées doivent être protégées.",
+            "tips": "La coopétition est un néologisme d’origine anglo-saxonne qui réunit à la fois la compétition et la coopération. Une organisation est coopétitive lorsqu’elle utilise, par exemple, la coopération au sein de ses équipes dans le but de générer des avantages concurrentiels. Cette stratégie peut également être mise en place entre deux organisations ayant des intérêts similaires.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous devez instaurer la compétition entre {{sel50345}} parce que c'est une stratégie créative. Mais la compétition entre {{sel81334}} peut s’avérer destructrice.",
+            "choice_EygFAoDVqH": "les personnes",
+            "choice_N1bKAsvNcS": "les idées",
+            "choice_NkxyW2wVcS": "les personnes",
+            "choice_Nkb1bnPEqS": "les idées"
+        },
+        "de": {
+            "header": "Was sind die positiven und negativen Auswirkungen des Wettbewerbs auf die Entscheidungsfindung in Teams?",
+            "explanation": "Wählen Sie aus den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "Manchmal müssen die Ideen der Menschen zerschlagen, aber die Menschen selbst müssen geschützt werden.",
+            "tips": "Koopetition ist ein Neologismus, der sich auf Wettbewerb und Kooperation bezieht. Eine Unternehmen ist koopitiv, wenn sie zum Beispiel die Zusammenarbeit innerhalb ihrer Mitglieder nutzt, um Wettbewerbsvorteile zu erzielen. Es kann auch zwischen zwei Unternehmen stattfinden, die ähnliche Interessen haben.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Sie benötigen einen Wettbewerb zwischen {{sel50345}}, denn das ist kreativ. Der Wettbewerb zwischen {{sel81334}} kann jedoch destruktiv sein.",
+            "choice_EygFAoDVqH": "Menschen",
+            "choice_N1bKAsvNcS": "Ideen",
+            "choice_NkxyW2wVcS": "Menschen",
+            "choice_Nkb1bnPEqS": "Ideen"
+        },
+        "th": {
+            "header": "อะไรคือผลกระทบในทางบวกและลบของการแข่งขันต่อการตัดสินใจเป็นทีม",
+            "explanation": "เลือกคำตอบที่ถูกต้องในรายการเมนูแบบเลื่อนลง",
+            "klf": "บางครั้ง ความคิดบางอย่างของคนเราต้องถูกกดเอาไว้ แต่ตัวคนเองต้องได้รับการปกป้อง",
+            "tips": "การร่วมมือกันแข่งขันเป็นศัพท์ใหม่ที่หมายถึงทั้งการแข่งขันและความร่วมมือ องค์กรมีการร่วมมือกันแข่งขัน เมื่อใช้ความร่วมมือภายในบุคลากรของตนเพื่อสร้างข้อได้เปรียบในการแข่งขัน เป็นต้น นอกจากนี้ ยังเกิดขึ้นระหว่างสององค์กรที่มีผลประโยชน์คล้ายคลึงกันอีกด้วย",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "คุณต้องมีการแข่งขันระหว่าง {{sel50345}} เพราะนั่นคือสิ่งที่สร้างสรรค์ แต่การแข่งขันระหว่าง {{sel81334}} อาจเป็นการทำลายล้างได้",
+            "choice_EygFAoDVqH": "คน",
+            "choice_N1bKAsvNcS": "ความคิด",
+            "choice_NkxyW2wVcS": "คน",
+            "choice_Nkb1bnPEqS": "ความคิด"
+        }
+    }
+}

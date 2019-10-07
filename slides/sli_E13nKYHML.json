@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T14:44:38.888Z",
+            "updatedAt": "2019-02-21T16:47:45.785Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kOWjjaWL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_E13nKYHML",
+        "universalRef": "sli_E13nKYHML",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel31240",
+                        "items": [
+                            {
+                                "text": "choice_Ekxnd9trfI",
+                                "value": "choice_Ekxnd9trfI"
+                            },
+                            {
+                                "text": "choice_N1Zn-cYrzU",
+                                "value": "choice_N1Zn-cYrzU"
+                            },
+                            {
+                                "text": "choice_4kQ95YBGL",
+                                "value": "choice_4kQ95YBGL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel31240",
+                        "answers": [
+                            "choice_4kQ95YBGL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you measure employee performance anyway?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Before anything, you need to agree upon the standard of what is expected of employees in terms of performance. Then you can measure the potential gap between that and how they're actually performing.",
+            "tips": "Remember to always tie your negative feedback directly and specifically to a performance issue. Even if your employee has an excruciatingly annoying nose-picking, gum-chewing or crotch-scratching habit, focus on work issues if you don't want the conversation to become explosive.",
+            "clue": "Ideal vs. actual.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Employee performance is measured by {{sel31240}} between what's expected of them and how they're going.",
+            "choice_Ekxnd9trfI": "ignoring the difference",
+            "choice_N1Zn-cYrzU": "confirming there is no difference",
+            "choice_4kQ95YBGL": "looking at the gap"
+        },
+        "fr": {
+            "header": "Comment mesurez-vous la performance des employés ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Avant toute chose, vous devez vous mettre d'accord avec vos employés sur le niveau de performance que vous attendez d'eux. Vous pouvez ensuite évaluer l'écart éventuel entre le niveau attendu et leur performance réelle.",
+            "tips": "Pensez à toujours relier directement un feedback négatif à un problème de performance spécifique. Même si votre employé a la fâcheuse habitude de se mettre les doigts dans le nez, de mâcher du chewing-gum ou de se gratter au niveau de l'entrejambe, concentrez-vous sur les problèmes liés au travail pour éviter que la conversation devienne explosive.",
+            "clue": "Ideal vs. actual.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La performance d'un employé est mesurée en {{sel31240}} entre ce qui est attendu et ce qu'il réalise.",
+            "choice_Ekxnd9trfI": "ignorant la différence",
+            "choice_N1Zn-cYrzU": "confirmant qu'il n'y a pas de différence",
+            "choice_4kQ95YBGL": "examinant l'écart"
+        },
+        "de": {
+            "header": "Wie messen Sie die Leistung Ihrer Mitarbeiter?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Vor allem müssen Sie sich auf den Standard einigen, der von Mitarbeitern in Bezug auf die Leistung erwartet wird. Dann können Sie die potenzielle Lücke zwischen dem und der tatsächlichen Leistung messen.",
+            "tips": "Denken Sie daran, Ihr negatives Feedback immer direkt und speziell an ein Leistungsproblem zu binden. Selbst wenn Ihr Mitarbeiter eine anstrengende Angewohnheit hat, wie beispielsweise Nasenbohren oder Kaugummi kauen, sollten Sie sich auf die Arbeit konzentrieren. Dadurch vermeiden Sie, dass das Gespräch explosiv wird.",
+            "clue": "Ideal vs. tatsächlich.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Die Leistung der Mitarbeiter wird durch {{sel31240}} gemessen, was von ihnen erwartet wird und wie sie sich entwickeln.",
+            "choice_Ekxnd9trfI": "ignorieren des Unterschiedes",
+            "choice_N1Zn-cYrzU": "die Bestätigung, dass es keinen Unterschied gibt",
+            "choice_4kQ95YBGL": "die Berücksichtigung des Unterschiedes"
+        },
+        "th": {
+            "header": "How do you measure employee performance anyway?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Before anything, you need to agree upon the standard of what is expected of employees in terms of performance. Then you can measure the potential gap between that and how they're actually performing.",
+            "tips": "Remember to always tie your negative feedback directly and specifically to a performance issue. Even if your employee has an excruciatingly annoying nose-picking, gum-chewing or crotch-scratching habit, focus on work issues if you don't want the conversation to become explosive.",
+            "clue": "Ideal vs. actual.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Employee performance is measured by {{sel31240}} between what's expected of them and how they're going.",
+            "choice_Ekxnd9trfI": "ignoring the difference",
+            "choice_N1Zn-cYrzU": "confirming there is no difference",
+            "choice_4kQ95YBGL": "looking at the gap"
+        }
+    }
+}

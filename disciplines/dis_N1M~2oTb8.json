@@ -1,0 +1,67 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-08T15:09:00.259Z",
+            "updatedAt": "2019-03-13T16:42:01.312Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-03-21T15:08:17.837Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "jmdebatte",
+            "createdBy": "ThereseG"
+        },
+        "ref": "dis_N1M~2oTb8",
+        "universalRef": "dis_N1M~2oTb8",
+        "name": "name",
+        "partnershipType": "paidpartner",
+        "position": 0,
+        "hidden": false,
+        "draft": false,
+        "cover": {
+            "coverDescription": "coverDescription",
+            "resource": null,
+            "poster": "med_VyDAb2fNI"
+        },
+        "courses": [],
+        "thematiques": [],
+        "partners": [
+            "part_V18SxMYsr"
+        ],
+        "conditions": [],
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "name": "Crisis Management",
+            "coverDescription": "<br/>A crisis just occurred…<br/> <br/>DON’T PANIC!<br/> <br/>If you act swiftly and launch a good communication plan, you should manage the crisis. And limit the consequences to the bare minimum!"
+        },
+        "fr": {
+            "name": "Gestion de crise",
+            "coverDescription": "<br/>Une crise vient d'éclater...<br/>\n<br/>PAS DE PANIQUE !<br/>\n<br/>Si vous agissez rapidement et déclenchez un plan de communication adapté, vous devriez réussir à gérer la crise. Et à en limiter les conséquences à leur strict minimum !"
+        },
+        "de": {
+            "name": "Krisenmanagement",
+            "coverDescription": "<br/> Eine Krise ist gerade eingetreten… <br/> <br/> KEINE PANIK! <br/> <br/> Wenn Sie schnell handeln und einen guten Kommunikationsplan aufstellen, sollten Sie die Krise bewältigen. Und beschränken Sie die Konsequenzen auf das Minimum!"
+        },
+        "th": {
+            "name": "Crisis Management",
+            "coverDescription": "<br/>A crisis just occurred…<br/> <br/>DON’T PANIC!<br/> <br/>If you act swiftly and launch a good communication plan, you should manage the crisis. And limit the consequences to the bare minimum!"
+        }
+    }
+}

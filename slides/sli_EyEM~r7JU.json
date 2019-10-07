@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-07T10:58:55.006Z",
+            "updatedAt": "2019-01-21T16:17:40.545Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JtCR4X1L"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EyEM~r7JU",
+        "universalRef": "sli_EyEM~r7JU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyEM~r7JU.choice_Vkx9O~HmJL.id",
+                        "label": "choice_Vkx9O~HmJL",
+                        "value": "choice_Vkx9O~HmJL",
+                        "media": "med_4JcdZHXkU"
+                    },
+                    {
+                        "id": "sli_EyEM~r7JU.choice_VJgVKZSXyL.id",
+                        "label": "choice_VJgVKZSXyL",
+                        "value": "choice_VJgVKZSXyL",
+                        "media": "med_4JEKWBQJI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJgVKZSXyL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "An efficient and compliant employee is necessarily a happy and fulfilled employee. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "An employee can do his/her job just fine, and yet find it unfulfilling. If employees never get relevant information about the whys and wherefores of their job, it will be hard for them to put their heart into what they're doing.",
+            "tips": "In order for employees to find meaning in what they do, you have to give them the opportunity to <i>own</i> their work: encourage them to give their input and suggestions on how to do things better or differently, and implement their ideas insofar as possible.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkx9O~HmJL": "True",
+            "choice_VJgVKZSXyL": "False"
+        },
+        "fr": {
+            "header": "Un collaborateur efficient et accommodant est nécessairement un employé épanoui. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un employé peut effectuer son travail correctement, et cependant, ne pas être épanoui. Si des employés n’ont aucune information pertinente sur les tenants et les aboutissants de leur mission, il leur sera très difficile de mettre tout leur cœur dans leur travail.",
+            "tips": "Afin que les employés trouvent un sens à leur travail, vous devez leur donner l’opportunité de s’approprier leur travail : encouragez-les à fournir leurs contributions et leurs suggestions pour mieux faire les choses, ou les faire différemment et, dans la mesure possible, mettez en œuvre leurs idées.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkx9O~HmJL": "Vrai",
+            "choice_VJgVKZSXyL": "Faux"
+        },
+        "de": {
+            "header": "Ein effizienter und konformer Mitarbeiter ist notwendigerweise ein glücklicher und erfüllter Mitarbeiter. Richtig oder falsch?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Ein Mitarbeiter/in kann seine / ihre Arbeit gut erledigen und ist dennoch unerfüllt. Wenn die Mitarbeiter niemals relevante Informationen über das Warum und Wofür ihrer Arbeit erhalten, wird es für sie schwierig sein, sich für das zu begeistern, was sie tun.",
+            "tips": "Damit die Beschäftigten einen Sinn in ihrem Tun finden können, müssen sie ihnen die Möglichkeit geben, sich ihre Arbeit <i>zu eigen</i> zu machen: Ermutigen Sie sie, ihre Anregungen und Vorschläge zu geben, wie sie die Dinge besser oder anders machen können, und setzen sie ihre Ideen, insofern möglich, um.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkx9O~HmJL": "Wahr",
+            "choice_VJgVKZSXyL": "Falsch"
+        },
+        "th": {
+            "header": "พนักงานที่มีประสิทธิภาพและปฏิบัติตามกฎระเบียบนั้นจะต้องเป็นพนักงานที่มีความสุขและสมหวัง จริงหรือเท็จ",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "พนักงานคนหนึ่งสามารถทำงานของตนได้เป็นอย่างดี แต่ก็อาจจะไม่บรรลุเป้าหมาย หากพนักงานไม่เคยได้รับข้อมูลที่เกี่ยวข้องกับสาเหตุและเหตุผลของงาน ก็จะเป็นการยากต่อพวกเขาในการที่จะทุ่มเทได้อย่างเต็มที่กับสิ่งที่ทำอยู่",
+            "tips": "เพื่อให้พนักงานได้ค้นหาความหมายในสิ่งที่ตนทำอยู่นั้น คุณจะต้องให้โอกาสพวกเขาในการเป็น<i>เจ้าของ</i>งานของตัวเอง ด้วยการสนับสนุนให้พวกเขาให้ข้อมูลและคำแนะนำเกี่ยวกับวิธีที่จะทำสิ่งต่างๆ ให้ดียิ่งขึ้นหรือแตกต่างออกไป และนำแนวคิดเหล่านั้นไปปฏิบัติให้ได้มากที่สุดเท่าที่ทำได้",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkx9O~HmJL": "จริง",
+            "choice_VJgVKZSXyL": "เท็จ"
+        }
+    }
+}

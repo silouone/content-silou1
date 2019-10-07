@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-22T14:46:26.847Z",
+            "updatedAt": "2019-02-25T14:00:01.521Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkxHE14N8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_EkfNceYSL",
+        "universalRef": "sli_EkfNceYSL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkfNceYSL.choice_4ylBB5xFSL.id",
+                        "label": "choice_4ylBB5xFSL",
+                        "value": "choice_4ylBB5xFSL",
+                        "media": "med_EJrSclKrL"
+                    },
+                    {
+                        "id": "sli_EkfNceYSL.choice_EylvSqlKHI.id",
+                        "label": "choice_EylvSqlKHI",
+                        "value": "choice_EylvSqlKHI",
+                        "media": "med_E1PS5gYr8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EylvSqlKHI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You complain, demand and shout on a daily basis in your managing role. That’s your leadership and the example you set. That’s the way to manage a team! True or false?",
+            "explanation": "Select the correct answers.",
+            "klf": "Setting the right example by being knowledgeable and positive will instil confidence to your team and lead them to their best work.",
+            "tips": "The tone of voice used conveys a powerful message. Saying “thanks for joining us“ with an upbeat but serious tone at the start of a meeting, conveys a welcoming but businesslike message. Saying the same words sarcastically to an employee who shows up 10 minutes late, communicates displeasure and criticism.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ylBB5xFSL": "TRUE",
+            "choice_EylvSqlKHI": "FALSE"
+        },
+        "fr": {
+            "header": "En tant que manager, vous vous plaignez, exigez et criez quotidiennement. C’est votre leadership et l’exemple que vous donnez. C’est la bonne manière de gérer une équipe ! Vrai ou faux ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Donner le bon exemple en étant compétent et positif instaurera de la confiance chez les membres de votre équipe et les motivera à donner le meilleur d'eux-mêmes.",
+            "tips": "Le ton de voix que vous utilisez transmet un message puissant. Dire « merci de nous rejoindre » avec un ton optimiste mais sérieux au début d'une réunion communique un message accueillant mais professionnel. Dire les mêmes mots de façon sarcastique à un employé qui se présente 10 minutes en retard véhicule le mécontentement et la critique.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ylBB5xFSL": "Vrai",
+            "choice_EylvSqlKHI": "Faux"
+        },
+        "de": {
+            "header": "Sie beschweren sich, fordern und schreien täglich in Ihrer Führungsrolle. Das ist Ihre Führung und das Beispiel, das Sie setzen. So führen Sie ein Team! Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Wenn Sie das richtige Beispiel setzen, indem Sie sachkundig und positiv sind, wird Ihr Team zuversichtlich und es führt zu seiner besten Arbeit.",
+            "tips": "Der verwendete Ton vermittelt eine starke Botschaft. Wenn Sie zu Beginn eines Meetings mit einem optimistischen, aber dennoch ernsten Ton „Danke für Ihre Teilnahme“ sagen, wird eine einladende, aber sachliche Botschaft vermittelt. Sarkastisch die gleichen Worte zu einem Angestellten zu sagen, der 10 Minuten zu spät kommt, vermittelt Unmut und Kritik.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ylBB5xFSL": "Wahr",
+            "choice_EylvSqlKHI": "Falsch"
+        },
+        "th": {
+            "header": "You complain, demand and shout on a daily basis in your managing role. That’s your leadership and the example you set. That’s the way to manage a team! True or false?",
+            "explanation": "Select the correct answers.",
+            "klf": "Setting the right example by being knowledgeable and positive will instil confidence to your team and lead them to their best work.",
+            "tips": "The tone of voice used conveys a powerful message. Saying “thanks for joining us“ with an upbeat but serious tone at the start of a meeting, conveys a welcoming but businesslike message. Saying the same words sarcastically to an employee who shows up 10 minutes late, communicates displeasure and criticism.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ylBB5xFSL": "TRUE",
+            "choice_EylvSqlKHI": "FALSE"
+        }
+    }
+}

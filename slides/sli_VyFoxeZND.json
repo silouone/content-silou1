@@ -1,0 +1,104 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-17T13:36:13.402Z",
+            "updatedAt": "2019-08-27T14:41:46.539Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1~bckE7D"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_VyFoxeZND",
+        "universalRef": "sli_VyFoxeZND",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyFoxeZND.choice_EkgMReg~EP.id",
+                        "label": "choice_EkgMReg~EP",
+                        "value": "choice_EkgMReg~EP",
+                        "media": "med_4yzRlebND"
+                    },
+                    {
+                        "id": "sli_VyFoxeZND.choice_EyerRxgZND.id",
+                        "label": "choice_EyerRxgZND",
+                        "value": "choice_EyerRxgZND",
+                        "media": "med_EJSAglZ4w"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyerRxgZND"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If your first close fails, there is no way to get back on track. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "If your first pitch doesn't hit the mark then all is not lost. Recovery lines will help you deal with objections and win the customer over to your way of thinking. However, you must still accept that ‘no’ is sometimes a final word.",
+            "tips": "To keep a positive mindset when a customer says ‘no’, consider the initial ‘no’ to mean ‘not yet’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkgMReg~EP": "True",
+            "choice_EyerRxgZND": "False",
+            "choice_Eyx1xZg~VD": ""
+        },
+        "fr": {
+            "header": "Si votre première clôture échoue, il n'y a aucun moyen de revenir sur la bonne voie. Vrai ou faux?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Si votre premier pas ne frappe pas la marque, alors tout n'est pas perdu. Les lignes de récupération vous aideront à gérer les objections et à convaincre le client de votre façon de penser. Cependant, vous devez toujours accepter le fait que «non» est parfois un dernier mot.",
+            "tips": "Pour conserver un état d’esprit positif lorsqu'un client dit «non», considérez le «non» initial comme signifiant «pas encore».",
+            "choice_EkgMReg~EP": "Vrai",
+            "choice_EyerRxgZND": "Faux",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Eyx1xZg~VD": ""
+        },
+        "de": {
+            "header": "If your first close fails, there is no way to get back on track. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "If your first pitch doesn't hit the mark then all is not lost. Recovery lines will help you deal with objections and win the customer over to your way of thinking. However, you must still accept that ‘no’ is sometimes a final word.",
+            "tips": "To keep a positive mindset when a customer says ‘no’, consider the initial ‘no’ to mean ‘not yet’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkgMReg~EP": "True",
+            "choice_EyerRxgZND": "False",
+            "choice_Eyx1xZg~VD": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkgMReg~EP": "",
+            "choice_EyerRxgZND": "",
+            "choice_Eyx1xZg~VD": ""
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T14:21:30.346Z",
+            "updatedAt": "2019-02-14T11:12:48.391Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJz62D5VI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Ny0UfO9EL",
+        "universalRef": "sli_Ny0UfO9EL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ny0UfO9EL.choice_EyuuMO9VI.id",
+                        "label": "choice_EyuuMO9VI",
+                        "value": "choice_EyuuMO9VI"
+                    },
+                    {
+                        "id": "sli_Ny0UfO9EL.choice_4kgsfucE8.id",
+                        "label": "choice_4kgsfucE8",
+                        "value": "choice_4kgsfucE8"
+                    },
+                    {
+                        "id": "sli_Ny0UfO9EL.choice_NyEeQ-qVL.id",
+                        "label": "choice_NyEeQ-qVL",
+                        "value": "choice_NyEeQ-qVL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyuuMO9VI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What about unexpected incidents? How should you deal with them?",
+            "explanation": "Select the correct answer.",
+            "klf": "Unexpected incidents are bound to happen during your day/week. Evaluate how much time you spend on unexpected incidents each day/week, and make sure you keep enough time available each day/week in case anything happens that would need to be solved immediately.",
+            "tips": "Something unexpected that comes up isn't necessarily urgent. Make sure to analyse if unexpected incidents do need to be dealt with very quickly, or can be rescheduled later in your planning.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuuMO9VI": "Think ahead and don't overload your days so that you can stay reactive",
+            "choice_4kgsfucE8": "Plan your week without taking them into consideration: they are unexpected by nature so you'll just tackle them as they come along",
+            "choice_NyEeQ-qVL": "Plan specific time slots for them in your agenda and solve them only in these time slots"
+        },
+        "fr": {
+            "header": "Qu'en est-il des imprévus ? Comment devriez-vous les gérer ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les imprévus sont inévitables au cours de votre journée / semaine. Evaluez le temps que vous consacrez aux imprévus chaque jour / semaine et veillez à garder suffisamment de temps disponible au cas où quelque chose nécessiterait une résolution immédiate.",
+            "tips": "Un imprévu n'est pas nécessairement urgent. Assurez-vous d'analyser s'il doit être traité très rapidement ou s'il peut être reprogrammé plus tard dans votre planning.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuuMO9VI": "Soyez prévoyant et ne surchargez pas vos journées pour rester réactif",
+            "choice_4kgsfucE8": "Planifiez votre semaine sans les prendre en compte - ils sont par nature inattendus et vous devrez donc les aborder au fur et à mesure.",
+            "choice_NyEeQ-qVL": "Dédiez-leur des créneaux horaires spécifiques dans votre agenda et résolvez-les uniquement dans ces créneaux."
+        },
+        "de": {
+            "header": "Was ist mit unerwarteten Vorfällen? Wie solltest du damit umgehen?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Unerwartete Vorfälle passieren zwangsläufig an Ihrem Tag / in Ihrer Woche. Beurteilen Sie, wie viel Zeit Sie pro Tag / Woche für unerwartete Vorfälle aufwenden, und stellen Sie sicher, dass Sie jeden Tag / Woche ausreichend Zeit für den Fall zur Verfügung haben, dass irgendetwas passiert, das sofort gelöst werden müsste.",
+            "tips": "Etwas Unerwartetes ist nicht unbedingt dringend. Analysieren Sie unbedingt, ob unerwartete Vorfälle sehr schnell behandelt werden müssen oder später in Ihrer Planung neu geplant werden können.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuuMO9VI": "Denken Sie voraus und überlasten Sie Ihre Tage nicht, damit Sie reagieren können",
+            "choice_4kgsfucE8": "Planen Sie Ihre Woche, ohne sie zu berücksichtigen: Sie sind von Natur aus unerwartet, sodass Sie sie einfach angehen, wenn sie vorbeikommen",
+            "choice_NyEeQ-qVL": "Planen Sie bestimmte Zeitfenster für sie in Ihrer Agenda und lösen Sie sie nur in diesen Zeitfenstern"
+        },
+        "th": {
+            "header": "What about unexpected incidents? How should you deal with them?",
+            "explanation": "Select the correct answer.",
+            "klf": "Unexpected incidents are bound to happen during your day/week. Evaluate how much time you spend on unexpected incidents each day/week, and make sure you keep enough time available each day/week in case anything happens that would need to be solved immediately.",
+            "tips": "Something unexpected that comes up isn't necessarily urgent. Make sure to analyse if unexpected incidents do need to be dealt with very quickly, or can be rescheduled later in your planning.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyuuMO9VI": "Think ahead and don't overload your days so that you can stay reactive",
+            "choice_4kgsfucE8": "Plan your week without taking them into consideration: they are unexpected by nature so you'll just tackle them as they come along",
+            "choice_NyEeQ-qVL": "Plan specific time slots for them in your agenda and solve them only in these time slots"
+        }
+    }
+}

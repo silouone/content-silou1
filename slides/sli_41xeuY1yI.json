@@ -1,0 +1,124 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T15:14:08.893Z",
+            "updatedAt": "2019-01-23T15:30:04.259Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ewaPy1U"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_41xeuY1yI",
+        "universalRef": "sli_41xeuY1yI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41xeuY1yI.choice_EJpAOtJkU.id",
+                        "label": "choice_EJpAOtJkU",
+                        "value": "choice_EJpAOtJkU"
+                    },
+                    {
+                        "id": "sli_41xeuY1yI.choice_VJx8Uqk1L.id",
+                        "label": "choice_VJx8Uqk1L",
+                        "value": "choice_VJx8Uqk1L"
+                    },
+                    {
+                        "id": "sli_41xeuY1yI.choice_NkoP891yU.id",
+                        "label": "choice_NkoP891yU",
+                        "value": "choice_NkoP891yU"
+                    },
+                    {
+                        "id": "sli_41xeuY1yI.choice_EJxJvckkU.id",
+                        "label": "choice_EJxJvckkU",
+                        "value": "choice_EJxJvckkU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJpAOtJkU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EyoEw5kyI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a good manager, how should you react when two people are speaking at the same time in a virtual meeting?",
+            "explanation": "Select the correct answer.",
+            "klf": "People talking over each other can be very annoying… mostly in a virtual meeting. If that happens, keep calm and assess firmly that everyone needs to slow down. Then, indicate who will go first.",
+            "tips": "If you have time remaining at the end of the meeting, you can use it to plan the next one!",
+            "clue": "xx",
+            "context_title": "Jinx! Owe Me A Coke!",
+            "context_description": "That awkward moment when Paul and Julia are speaking at the same time, so they both politely stop, and then both try to speak again at the same time. And again, and again, and… AGAIN! And it gets even more annoying when it happens during a virtual meeting.",
+            "context_media_description": "",
+            "choice_EJpAOtJkU": "‘You're talking over to each other, can you please slow down? OK, Paul, you go first!’",
+            "choice_VJx8Uqk1L": "‘Julia, could you stop interrupting everyone over and over?’",
+            "choice_NkoP891yU": "‘Listen, I wanna talk too!’",
+            "choice_EJxJvckkU": "‘I'm just fed up with you guys, I'm leaving this meeting.’"
+        },
+        "fr": {
+            "header": "En tant que bon Manager, comment devez-vous réagir lorsque deux personnes parlent en même temps lors d’une réunion virtuelle ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les personnes qui parlent délibérément en même temps que les autres peuvent être une gêne très importante…surtout lors d’une réunion virtuelle. Si cela se produit, gardez votre calme et imposez à tous de laisser les autres s’exprimer. Indiquez ensuite qui va prendre la parole en premier.",
+            "tips": "S’il vous reste du temps à la fin de la réunion, profitez-en pour planifier la réunion suivante !",
+            "clue": "xx",
+            "context_title": "Les grands esprits se rencontrent ?",
+            "context_description": "Quel moment embarrassant, quand Paul et Julie prennent la parole en même temps, s’arrêtent poliment au même moment, puis tentent à nouveau de parler simultanément. Et encore, et encore, et… ENCORE ! Et cela devient encore plus gênant lorsque cela se produit lors d’une réunion virtuelle.",
+            "context_media_description": "",
+            "choice_EJpAOtJkU": "« Vous parlez en même temps, pouvez-vous vous arrêter un instant s’il vous plaît ? OK, Paul, exprimez-vous le premier ! »",
+            "choice_VJx8Uqk1L": "« Julie, pouvez-vous cesser d’interrompre tout le monde en permanence ? »",
+            "choice_NkoP891yU": "« Écoutez-moi, je souhaiterais également parler ! »",
+            "choice_EJxJvckkU": "« J’en ai franchement marre de vous, je quitte la réunion. »"
+        },
+        "de": {
+            "header": "Wie sollten Sie als guter Manager reagieren, wenn zwei Personen gleichzeitig in einem virtuellen Meeting sprechen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Leute, die gleichzeitig reden, können sehr nervend sein ... meistens in einem virtuellen Meeting. Wenn dies passiert, bleiben Sie ruhig und stellen Sie fest, dass jeder sich beruhigen muss. Dann geben Sie an, wer zuerst gehen wird.",
+            "tips": "Wenn Sie am Ende des Meetings noch Zeit haben, können Sie die nutzen um das nächste zu planen!",
+            "clue": "xx",
+            "context_title": "Verhexen! Verdammt mir eine Cola!",
+            "context_description": "Dieser unangenehme Moment, wenn Paul und Julia gleichzeitig sprechen, beide aus Höflichkeit aufhören, und dann beide versuchen zur selben Zeit erneut zu sprechen. Und wieder und wieder und… WIEDER! Noch nervender wird es, wenn es während eines virtuellen Meetings geschieht.",
+            "context_media_description": "",
+            "choice_EJpAOtJkU": "„Du sprichst miteinander, kannst du bitte langsamer werden? OK, Paul, du gehst zuerst! “",
+            "choice_VJx8Uqk1L": "Julia, könntest du damit aufhören, alle immer wieder zu unterbrechen?",
+            "choice_NkoP891yU": "Hör zu, ich will auch reden!",
+            "choice_EJxJvckkU": "Ich habe es einfach satt mit euch, ich verlasse dieses Treffen."
+        },
+        "th": {
+            "header": "As a good manager, how should you react when two people are speaking at the same time in a virtual meeting?",
+            "explanation": "Select the correct answer.",
+            "klf": "People talking over each other can be very annoying… mostly in a virtual meeting. If that happens, keep calm and assess firmly that everyone needs to slow down. Then, indicate who will go first.",
+            "tips": "If you have time remaining at the end of the meeting, you can use it to plan the next one!",
+            "clue": "xx",
+            "context_title": "Jinx! Owe Me A Coke!",
+            "context_description": "That awkward moment when Paul and Julia are speaking at the same time, so they both politely stop, and then both try to speak again at the same time. And again, and again, and… AGAIN! And it gets even more annoying when it happens during a virtual meeting.",
+            "context_media_description": "",
+            "choice_EJpAOtJkU": "‘You're talking over to each other, can you please slow down? OK, Paul, you go first!’",
+            "choice_VJx8Uqk1L": "‘Julia, could you stop interrupting everyone over and over?’",
+            "choice_NkoP891yU": "‘Listen, I wanna talk too!’",
+            "choice_EJxJvckkU": "‘I'm just fed up with you guys, I'm leaving this meeting.’"
+        }
+    }
+}

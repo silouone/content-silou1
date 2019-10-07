@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-13T10:30:57.893Z",
+            "updatedAt": "2019-01-21T15:24:58.590Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1QXhs-J8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_E1UQMQo1U",
+        "universalRef": "sli_E1UQMQo1U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1UQMQo1U.choice_4JoeV7ikI.id",
+                        "label": "choice_4JoeV7ikI",
+                        "value": "choice_4JoeV7ikI"
+                    },
+                    {
+                        "id": "sli_E1UQMQo1U.choice_EkTxEXikL.id",
+                        "label": "choice_EkTxEXikL",
+                        "value": "choice_EkTxEXikL"
+                    },
+                    {
+                        "id": "sli_E1UQMQo1U.choice_E1JbN7skU.id",
+                        "label": "choice_E1JbN7skU",
+                        "value": "choice_E1JbN7skU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1JbN7skU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_418ZFvsJ8",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You are leading a one-on-one meeting with Kate to sort out the situation. What should you tell her?",
+            "explanation": "Select the correct answer.",
+            "klf": "In this case, you have to help Kate work out the reasons she was unsuccessful for this promotion. Also consider what constructive advice you could offer for the future, and if possible, talk about possible future opportunities. She's a good collaborator, so don't hesitate to remind her of her strengths.",
+            "tips": "You've just announced some bad news to your employee and now you are both stuck in an uncomfortable situation? Don't try to lighten the mood or tell jokes, it could be considered rude or insensitive.",
+            "clue": "",
+            "context_title": "Put your decision into perspective",
+            "context_description": "Kate is upset. Last week, you had to tell her that the position she has been counting on all year long will be assigned to someone else – she's a very good employee but she's not ready yet for this job which requires management skills. This is a hard blow for her. Apparently, she's not ready to move on: she told you yesterday that she still doesn't understand your decision and feels very disappointed. Yet, you think you've made yourself perfectly clear…",
+            "context_media_description": "",
+            "choice_4JoeV7ikI": "Kate, what would you like to do inside the company? Let me check if there's a vacant job that could suit you.",
+            "choice_EkTxEXikL": "Kate, still being stuck on it won't do you any good. One day, you'll be ready for this job, please just be patient.",
+            "choice_E1JbN7skU": "Kate, as I told you, you need to improve your management skills. But you are a really good employee and I can think about other jobs you could enjoy doing."
+        },
+        "fr": {
+            "header": "Vous recevez Catherine en entretien individuel afin de démêler la situation. Que devez-vous lui dire ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Dans le cas présent, vous devez aider Catherine à comprendre les raisons de sa demande de promotion infructueuse. Pensez également aux conseils constructifs que vous pouvez lui proposer pour l’avenir, et si possible, parlez de futures opportunités éventuelles. C’est une bonne collaboratrice, aussi n’hésitez pas à lui rappeler ses points forts.",
+            "tips": "Vous venez d’annoncer une mauvaise nouvelle à votre collaborateur et vous vous trouvez maintenant tous les deux dans une situation inconfortable ? N’essayez pas de détendre l’atmosphère ou de faire de l’humour, vous pourriez paraître incorrect et indifférent.",
+            "clue": "",
+            "context_title": "Replacez votre décision dans le contexte",
+            "context_description": "Catherine est contrariée. La semaine dernière, vous avez dû lui annoncer que le poste qu’elle avait espéré obtenir toute l’année avait été attribué à une autre personne – c’est une très bonne collaboratrice, mais elle n’est pas prête pour ce poste qui requiert des compétences en management. C’est un coup dur pour elle. Apparemment, elle n’est pas prête à aller de l’avant : hier, elle vous a dit qu’elle ne comprenait toujours pas votre décision et était très déçue. Pourtant, vous pensez avoir été très clair sur le sujet…",
+            "context_media_description": "",
+            "choice_4JoeV7ikI": "Catherine, que voudriez-vous faire au sein de l’entreprise ? Laissez-moi vérifier si un poste vacant pourrait vous convenir.",
+            "choice_EkTxEXikL": "Catherine, rester campée sur vos positions ne vous apportera rien de bon. Un jour, nul doute que vous serez prête pour ce poste, alors s’il vous plaît, soyez patiente.",
+            "choice_E1JbN7skU": "Catherine, comme je vous l’ai dit, vous devez améliorer vos compétences en management. Mais vous êtes une très bonne employée et je pense à d’autres postes qui pourraient vous convenir."
+        },
+        "de": {
+            "header": "Sie führen ein Einzelgespräch mit Kate, um die Situation zu klären. Was solltest du ihr sagen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "In diesem Fall müssen Sie Kate helfen, die Gründe zu ermitteln, warum sie für diese Befürderung nicht erfolgreich war. Überlegen Sie sich auch, welche konstruktiven Ratschläge Sie für die Zukunft anbieten können, und sprechen Sie, wenn möglich, über mögliche zukünftige Möglichkeiten. Sie ist eine gute Mitarbeiterin, also zögern Sie nicht, sie an ihre Stärken zu erinnern.",
+            "tips": "Sie haben gerade Ihrem Mitarbeiter schlechte Nachrichten angekündigt und befinden sich jetzt in einer unbequemen Situation? Versuchen Sie nicht, die Stimmung aufzuhellen oder Witze zu erzählen. Dies kann als unhöflich oder unsensibel betrachtet werden.",
+            "clue": "",
+            "context_title": "Setzen Sie Ihre Entscheidung in die richtige Perspektive",
+            "context_description": "Kate ist verärgert. Letzte Woche mussten Sie ihr sagen, dass die Position, auf die sie sich das ganze Jahr verlassen hat, einer anderen Person zugewiesen wird - sie ist eine sehr gute Angestellte, aber sie ist noch nicht bereit für diese Stelle, die Managementfähigkeiten erfordert. Das ist ein schwerer Schlag für sie. Anscheinend ist sie nicht bereit weiterzumachen: Sie hat gestern gesagt, dass sie Ihre Entscheidung immer noch nicht versteht und sich sehr enttäuscht fühlt. Aber du denkst, du hast dich vollkommen klar ausgedrückt…",
+            "context_media_description": "",
+            "choice_4JoeV7ikI": "Kate, was würdest du gerne im Unternehmen machen? Lassen Sie mich prüfen, ob es eine freie Stelle gibt, die zu Ihnen passt.",
+            "choice_EkTxEXikL": "Kate, immer noch daran festhalten, wird dir nichts nützen. Eines Tages sind Sie bereit für diesen Job. Bitte haben Sie etwas Geduld.",
+            "choice_E1JbN7skU": "Kate, wie ich Ihnen sagte, müssen Sie Ihre Managementfähigkeiten verbessern. Aber Sie sind ein wirklich guter Angestellter und ich mir andere Jobs vorstellen, die Ihnen Spaß machen könnten."
+        },
+        "th": {
+            "header": "คุณกำลังนำการประชุมแบบตัวต่อตัวกับเคทเพื่อหาทางออกให้กับสถานการณ์ คุณควรจะบอกเธอว่าอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "ในกรณีนี้ คุณจะต้องช่วยเคทหาเหตุผลให้ได้ว่าทำไมเธอถึงไม่ประสบความสำเร็จในการเลื่อนขั้นนี้ นอกจากนี้ คุณยังจะต้องคำนึงถึงคำแนะนำที่สร้างสรรค์สำหรับอนาคตและหากเป็นไปได้ ให้พูดคุยถึงโอกาสในอนาคตที่เป็นไปได้ เธอเป็นผู้ร่วมงานที่ดี ดังนั้นอย่าลังเลที่จะเตือนให้เธอทราบถึงจุดแข็งของตัวเอง",
+            "tips": "คุณเพิ่งประกาศข่าวร้ายบางอย่างให้พนักงานของคุณทราบและตอนนี้คุณทั้งคู่ก็ตกที่นั่งลำบาก อย่าพยายามสร้างอารมณ์ขันหรือเล่ามุกตลกซึ่งอาจจะทำให้ดูหยาบคายหรือไร้ความเห็นอกเห็นใจ",
+            "clue": "",
+            "context_title": "ลองพิจารณาการตัดสินใจโดยเปรียบเทียบดู",
+            "context_description": "เคทไม่พอใจ อาทิตย์ที่แล้ว คุณต้องบอกเธอว่าตำแหน่งที่เธอรอคอยมาตลอดทั้งปีจะถูกยกให้กับคนอื่น เธอเป็นพนักงานที่ดีมาก แต่เธอยังไม่พร้อมสำหรับตำแหน่งนี้ซึ่งต้องใช้ทักษะด้านการบริหาร นี่เป็นเรื่องน่าสะเทือนใจสำหรับเธอ แน่นอนว่าเธอยังไม่พร้อมที่จะทำใจ: เธอเล่าให้คุณฟังเมื่อวานนี้ว่าเธอยังคงไม่เข้าใจถึงการตัดสินใจของคุณและรู้สึกผิดหวังมาก อย่างไรก็ตาม คุณคิดว่าคุณได้อธิบายอย่างชัดเจนดีแล้ว",
+            "context_media_description": "",
+            "choice_4JoeV7ikI": "เคท คุณอยากจะทำงานอื่นอะไรในบริษัทไหม ฉันจะลองดูให้ว่ามีตำแหน่งว่างที่เหมาะกับคุณไหม",
+            "choice_EkTxEXikL": "เคท ถ้าคุณมัวแต่หมกหมุ่นอยู่แต่เรื่องนี้คงไม่ดีแน่ สักวันหนึ่ง คุณจะพร้อมสำหรับงานนี้ ขอแค่คุณอดทนรอหน่อย",
+            "choice_E1JbN7skU": "เคทอย่างที่ฉันบอกไปแล้ว คุณจะต้องปรับปรุงทักษะด้านการบริหาร แต่คุณเป็นพนักงานที่ดีจริงๆ และฉันคิดว่าอาจมีงานอื่นที่เหมาะกับคุณก็ได้"
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-28T13:13:36.946Z",
+            "updatedAt": "2019-06-28T13:31:25.384Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOD-xoRI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_EJyagZyev",
+        "universalRef": "sli_EJyagZyev",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel97871",
+                        "items": [
+                            {
+                                "text": "choice_Eylh1~b1ew",
+                                "value": "choice_Eylh1~b1ew"
+                            },
+                            {
+                                "text": "choice_VJWn1WWygw",
+                                "value": "choice_VJWn1WWygw"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel75375",
+                        "items": [
+                            {
+                                "text": "choice_VygFbZ~kgv",
+                                "value": "choice_VygFbZ~kgv"
+                            },
+                            {
+                                "text": "choice_EyZt~b~kxw",
+                                "value": "choice_EyZt~b~kxw"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel97871",
+                        "answers": [
+                            "choice_VJWn1WWygw"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel75375",
+                        "answers": [
+                            "choice_VygFbZ~kgv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Can you complete the following sentence?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "If you know how to do your job, but not why you are doing it, you are actually lacking context.",
+            "tips": "After watching <a href=\"https://www.youtube.com/watch?v=IPYeCltXpxw&#10;\" target=\"_blank\">this short and inspiring video</a> featuring Simon Sinek, you will always <b>start with the why!</b>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Working on a project without context is when you know {{sel97871}} to do it, but not really {{sel75375}} you are doing it.",
+            "choice_Eylh1~b1ew": "why",
+            "choice_VJWn1WWygw": "how",
+            "choice_VygFbZ~kgv": "why",
+            "choice_EyZt~b~kxw": "how"
+        },
+        "fr": {
+            "header": "Pouvez-vous compléter la phrase suivante ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Si vous savez comment faire votre travail, mais que vous ne savez pas pourquoi vous le faites, vous manquez de contexte.",
+            "tips": "Après avoir visionné <a href=\"https://www.youtube.com/watch?v=IPYeCltXpxw&#10;\" target=\"_blank\">cette courte et inspirante vidéo</a> mettant en vedette Simon Sinek, vous <b>commencerez</b> toujours <b>par le pourquoi !</b>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Travailler sur un projet sans en connaitre le contexte, c'est lorsque vous savez {{sel97871}} le faire, mais que vous ne savez pas vraiment {{sel75375}} vous le faites.",
+            "choice_Eylh1~b1ew": "pourquoi",
+            "choice_VJWn1WWygw": "comment",
+            "choice_VygFbZ~kgv": "pourquoi",
+            "choice_EyZt~b~kxw": "comment"
+        },
+        "de": {
+            "header": "Can you complete the following sentence?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "If you know how to do your job, but not why you are doing it, you are actually lacking context.",
+            "tips": "After watching <a href=\"https://www.youtube.com/watch?v=IPYeCltXpxw&#10;\" target=\"_blank\">this short and inspiring video</a> featuring Simon Sinek, you will always <b>start with the why!</b>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Working on a project without context is when you know {{sel97871}} to do it, but not really {{sel75375}} you are doing it.",
+            "choice_Eylh1~b1ew": "why",
+            "choice_VJWn1WWygw": "how",
+            "choice_VygFbZ~kgv": "why",
+            "choice_EyZt~b~kxw": "how"
+        },
+        "th": {
+            "header": "Can you complete the following sentence?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "If you know how to do your job, but not why you are doing it, you are actually lacking context.",
+            "tips": "After watching <a href=\"https://www.youtube.com/watch?v=IPYeCltXpxw&#10;\" target=\"_blank\">this short and inspiring video</a> featuring Simon Sinek, you will always <b>start with the why!</b>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Working on a project without context is when you know {{sel97871}} to do it, but not really {{sel75375}} you are doing it.",
+            "choice_Eylh1~b1ew": "why",
+            "choice_VJWn1WWygw": "how",
+            "choice_VygFbZ~kgv": "why",
+            "choice_EyZt~b~kxw": "how"
+        }
+    }
+}

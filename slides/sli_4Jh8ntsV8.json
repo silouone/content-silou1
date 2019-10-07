@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-12T10:20:37.206Z",
+            "updatedAt": "2019-02-15T15:33:46.993Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyS1pD9EU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4Jh8ntsV8",
+        "universalRef": "sli_4Jh8ntsV8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4Jh8ntsV8.choice_N10U3Fs4L.id",
+                        "label": "choice_N10U3Fs4L",
+                        "value": "choice_N10U3Fs4L"
+                    },
+                    {
+                        "id": "sli_4Jh8ntsV8.choice_VkXO3KiVL.id",
+                        "label": "choice_VkXO3KiVL",
+                        "value": "choice_VkXO3KiVL"
+                    },
+                    {
+                        "id": "sli_4Jh8ntsV8.choice_NkMKnYs4I.id",
+                        "label": "choice_NkMKnYs4I",
+                        "value": "choice_NkMKnYs4I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N10U3Fs4L",
+                        "choice_VkXO3KiVL",
+                        "choice_NkMKnYs4I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What techniques will help you get on with your to-do list?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Getting on with your to-do list is about focusing efficiently and finding a good organisation. Make sure you turn off any kind of useless distraction, keep a properly organised desk and create a to-do list with a reasonable amount of time assigned to each task.",
+            "tips": "The average UK citizen checks their smartphone 28 times a day. Considering that it takes about 25 minutes to get back into what you were doing after you’ve been interrupted, it's easy to understand that your phone can be a real attention sucker if you let it interrupt you at work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N10U3Fs4L": "Turn off distractions like email alerts",
+            "choice_VkXO3KiVL": "Clear your desk and cut the clutter",
+            "choice_NkMKnYs4I": "Set aside blocks of time to get things done"
+        },
+        "fr": {
+            "header": "Quelles techniques vous aideront à établir votre liste de tâches ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Établir une bonne liste de tâches consiste à considérer les choses de manière efficace et à trouver une bonne organisation. Coupez-vous de toute distraction inutile, gardez un bureau bien organisé et créez une liste de tâches qui assigne un temps raisonnable à chaque tâche.",
+            "tips": "Le citoyen britannique moyen vérifie son smartphone 28 fois par jour. Sachant qu’il faut environ 25 minutes pour se reconcentrer après avoir été interrompu, on comprend facilement comment votre téléphone peut véritablement « dévorer » votre attention si vous le laissez vous interrompre au travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N10U3Fs4L": "Évitez les distractions en désactivant par exemple les alertes de courrier électronique",
+            "choice_VkXO3KiVL": "Rangez votre bureau et réduisez le fouillis",
+            "choice_NkMKnYs4I": "Réservez des blocs de temps à certaines tâches"
+        },
+        "de": {
+            "header": "Welche Techniken helfen Ihnen bei der Erledigung Ihrer To-Do-Liste?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Um mit Ihrer To-Do-Liste fortzufahren, müssen Sie sich effizient konzentrieren und eine gute Organisation finden. Stellen Sie sicher, dass Sie jede Art von unnützer Ablenkung ausschalten, einen gut organisierten Schreibtisch einhalten und eine Aufgabenliste erstellen, wobei jeder Aufgabe eine angemessene Zeit zugewiesen wird.",
+            "tips": "Der Durchschnittsbürger des Vereinigten Königreichs prüft 28-mal täglich sein Smartphone. In Anbetracht dessen, dass es etwa 25 Minuten dauert, bis Sie nach einer Unterbrechung wieder zu dem gelangen, was Sie getan haben, ist es leicht zu verstehen, dass Ihr Telefon ein echter Hingucker sein kann, wenn Sie sich bei der Arbeit unterbrechen lassen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N10U3Fs4L": "Deaktivieren Sie Ablenkungen wie E-Mail-Benachrichtigungen",
+            "choice_VkXO3KiVL": "Räumen Sie Ihren Schreibtisch auf und werden Sie das Durcheinander los",
+            "choice_NkMKnYs4I": "Legen Sie Zeitblöcke fest, um die Dinge zu erledigen"
+        },
+        "th": {
+            "header": "What techniques will help you get on with your to-do list?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Getting on with your to-do list is about focusing efficiently and finding a good organisation. Make sure you turn off any kind of useless distraction, keep a properly organised desk and create a to-do list with a reasonable amount of time assigned to each task.",
+            "tips": "The average UK citizen checks their smartphone 28 times a day. Considering that it takes about 25 minutes to get back into what you were doing after you’ve been interrupted, it's easy to understand that your phone can be a real attention sucker if you let it interrupt you at work.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N10U3Fs4L": "Turn off distractions like email alerts",
+            "choice_VkXO3KiVL": "Clear your desk and cut the clutter",
+            "choice_NkMKnYs4I": "Set aside blocks of time to get things done"
+        }
+    }
+}

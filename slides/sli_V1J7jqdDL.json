@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-18T14:34:52.191Z",
+            "updatedAt": "2019-03-20T15:56:29.141Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJwqYX7DL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_V1J7jqdDL",
+        "universalRef": "sli_V1J7jqdDL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1J7jqdDL.choice_VyOPo9dw8.id",
+                        "label": "choice_VyOPo9dw8",
+                        "value": "choice_VyOPo9dw8"
+                    },
+                    {
+                        "id": "sli_V1J7jqdDL.choice_EkFvi9uP8.id",
+                        "label": "choice_EkFvi9uP8",
+                        "value": "choice_EkFvi9uP8"
+                    },
+                    {
+                        "id": "sli_V1J7jqdDL.choice_VJcwj9dv8.id",
+                        "label": "choice_VJcwj9dv8",
+                        "value": "choice_VJcwj9dv8"
+                    },
+                    {
+                        "id": "sli_V1J7jqdDL.choice_NysviqdPI.id",
+                        "label": "choice_NysviqdPI",
+                        "value": "choice_NysviqdPI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyOPo9dw8",
+                        "choice_VJcwj9dv8",
+                        "choice_EkFvi9uP8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the below are reasons to be present – both physically and mentally – in meetings?",
+            "explanation": "Select the correct answers.",
+            "klf": "It is important to be present in meetings in order to give your full attention, converse fluidly, and provide a personal touch to proceedings.",
+            "tips": "It is not all about the meeting itself, but also about preparing it beforehand. Read the material sent by your colleagues before the meeting.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyOPo9dw8": "You build stronger relationships",
+            "choice_EkFvi9uP8": "Conversation flows better with everyone present in the same room",
+            "choice_VJcwj9dv8": "Giving your full attention in meetings shows you respect the person speaking and are focused on what they are saying",
+            "choice_NysviqdPI": "Your working relationships with others will deteriorate"
+        },
+        "fr": {
+            "header": "Parmi les propositions ci-dessous, lesquelles sont des raisons d'être présent - aussi bien physiquement que mentalement - aux réunions ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Il est important d’être présent lors des réunions afin d'accorder toute votre attention, de converser avec fluidité et de donner une touche personnelle au procédures.",
+            "tips": "Il ne s'agit pas uniquement de la réunion elle-même, mais également de la préparer à l'avance. Lisez la documentation envoyée par vos collègues avant la réunion.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyOPo9dw8": "Vous construisez des relations plus fortes",
+            "choice_EkFvi9uP8": "La conversation se déroule mieux quand tout le monde est présent dans la même pièce",
+            "choice_VJcwj9dv8": "Accorder toute votre attention lors des réunions montre que vous respectez la personne qui parle et que vous vous concentrez sur ce qu'il dit",
+            "choice_NysviqdPI": "Vos relations de travail avec les autres vont se détériorer"
+        },
+        "de": {
+            "header": "Which of the below are reasons to be present – both physically and mentally – in meetings?",
+            "explanation": "Select the correct answers.",
+            "klf": "It is important to be present in meetings in order to give your full attention, converse fluidly, and provide a personal touch to proceedings.",
+            "tips": "It is not all about the meeting itself, but also about preparing it beforehand. Read the material sent by your colleagues before the meeting.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyOPo9dw8": "You build stronger relationships",
+            "choice_EkFvi9uP8": "Conversation flows better with everyone present in the same room",
+            "choice_VJcwj9dv8": "Giving your full attention in meetings shows you respect the person speaking and are focused on what they are saying",
+            "choice_NysviqdPI": "Your working relationships with others will deteriorate"
+        },
+        "th": {
+            "header": "Which of the below are reasons to be present – both physically and mentally – in meetings?",
+            "explanation": "Select the correct answers.",
+            "klf": "It is important to be present in meetings in order to give your full attention, converse fluidly, and provide a personal touch to proceedings.",
+            "tips": "It is not all about the meeting itself, but also about preparing it beforehand. Read the material sent by your colleagues before the meeting.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyOPo9dw8": "You build stronger relationships",
+            "choice_EkFvi9uP8": "Conversation flows better with everyone present in the same room",
+            "choice_VJcwj9dv8": "Giving your full attention in meetings shows you respect the person speaking and are focused on what they are saying",
+            "choice_NysviqdPI": "Your working relationships with others will deteriorate"
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T12:14:30.048Z",
+            "updatedAt": "2018-11-09T10:44:02.184Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yx5i8eqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VJDFSE4cH",
+        "universalRef": "sli_VJDFSE4cH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_VJDFSE4cH.choice_EyzwwN4qr.id",
+                        "label": "choice_EyzwwN4qr",
+                        "value": "choice_EyzwwN4qr"
+                    },
+                    {
+                        "id": "sli_VJDFSE4cH.choice_4JK-DVNcS.id",
+                        "label": "choice_4JK-DVNcS",
+                        "value": "choice_4JK-DVNcS"
+                    },
+                    {
+                        "id": "sli_VJDFSE4cH.choice_Vkp5PNNqB.id",
+                        "label": "choice_Vkp5PNNqB",
+                        "value": "choice_Vkp5PNNqB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyzwwN4qr",
+                        "choice_Vkp5PNNqB",
+                        "choice_4JK-DVNcS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Can you sort the stages of the team decision-making process in chronological order?",
+            "explanation": "Select the correct answers in the right order.",
+            "klf": "An efficient decision-making process starts with developing a rich question. You need to give yourself choices before imagining the future worst and best case outcomes.",
+            "tips": "According to Eric Larson, CEO of <i>Cloverpop</i>, teams do better not only because they put more people to work on a task, but also because their diverse skills and perspectives have a multiplying effect. Read more <a href=\"https://www.forbes.com/sites/eriklarson/2017/03/23/3-best-practices-for-high-performance-decision-making-teams/#6c913cc5f971\" target=\"_blank\">here</a>.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzwwN4qr": "Develop a rich question",
+            "choice_4JK-DVNcS": "Assess your options",
+            "choice_Vkp5PNNqB": "Give yourself choices"
+        },
+        "fr": {
+            "header": "Pouvez-vous classer les étapes du processus de prise de décision dans l’ordre chronologique ?",
+            "explanation": "Sélectionnez les bonnes réponses dans le bon ordre.",
+            "klf": "Un processus de prise de décision efficace commence par l’élaboration d’une question qui a du sens. Vous devez vous offrir des options avant d’imaginer les résultats à venir les plus optimistes et les plus pessimistes.",
+            "tips": "Selon Eric Larson, PDG de <i>Cloverpop</i>, les équipes s’améliorent non seulement parce qu’un plus grand nombre de personnes travaillent sur une tâche, mais également parce que leurs diverses compétences et perspectives produisent un effet multiplicateur. Plus d’information <a href=\"https://www.forbes.com/sites/eriklarson/2017/03/23/3-best-practices-for-high-performance-decision-making-teams/#6c913cc5f971\" target=\"_blank\">ici</a>.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzwwN4qr": "Élaborer une question qui a du sens",
+            "choice_4JK-DVNcS": "Évaluer vos options",
+            "choice_Vkp5PNNqB": "S’offrir des options"
+        },
+        "de": {
+            "header": "Können Sie die Phasen des Teamentscheidungsprozesses in chronologischer Reihenfolge sortieren?",
+            "explanation": "Wählen Sie die richtigen Antworten in der richtigen Reihenfolge aus.",
+            "klf": "Ein effizienter Entscheidungsprozess beginnt mit der Entwicklung einer aussagekräftigen Frage. Sie müssen sich selbst Auswahlmöglichkeiten geben, bevor Sie sich die zukünftigen best und worst Case Ergebnisse vorstellen.",
+            "tips": "Laut Eric Larson, CEO von <i>Cloverpop</i> , sind Teams nicht nur deshalb besser, weil sich mehrere Leute für eine Aufgabe einsetzen, sondern auch, weil ihre vielfältigen Fähigkeiten und Perspektiven sich multiplizieren. Mehr Information hierzu <a href=\"https://www.forbes.com/sites/eriklarson/2017/03/23/3-best-practices-for-high-performance-decision-making-teams/#6c913cc5f971\" target=\"_blank\">hier</a> mehr.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzwwN4qr": "Entwickeln Sie eine aussagekräftige Frage",
+            "choice_4JK-DVNcS": "Bewerten Sie Ihre Möglichkeiten",
+            "choice_Vkp5PNNqB": "Geben Sie sich selbst Auswahlmöglichkeiten"
+        },
+        "th": {
+            "header": "โปรดเรียงลำดับขั้นตอนของกระบวนการตัดสินใจเป็นทีมตามลำดับเวลา",
+            "explanation": "เลือกตัวเลือกที่ถูกต้องในลำดับที่ถูกต้อง",
+            "klf": "กระบวนการตัดสินใจที่มีประสิทธิภาพเริ่มด้วยการตั้งคำถามที่หลากหลาย คุณต้องให้ทางเลือกแก่ตัวเอง ก่อนที่จะจินตนาการถึงผลลัพธ์ในกรณีที่เลวร้ายที่สุดและดีที่สุดในอนาคต",
+            "tips": "เอริก ลาร์สัน ประธานบริหารแห่ง <i>Cloverpop</i> กล่าวว่าทีมทำงานได้ดีกว่า ไม่ใช่เพียงเพราะว่ามีบุคลากรมากกว่าในการทำงาน แต่ยังเป็นเพราะทักษะและทัศนะที่หลากหลายส่งผลเป็นทวีคูณอีกด้วย อ่านเพิ่มเติม<a href=\"https://www.forbes.com/sites/eriklarson/2017/03/23/3-best-practices-for-high-performance-decision-making-teams/#6c913cc5f971\" target=\"_blank\">ที่นี่</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyzwwN4qr": "ตั้งคำถามที่หลากหลาย",
+            "choice_4JK-DVNcS": "ประเมินตัวเลือกของคุณ",
+            "choice_Vkp5PNNqB": "ให้ทางเลือกแก่ตัวเอง"
+        }
+    }
+}

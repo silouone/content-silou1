@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T04:44:31.848Z",
+            "updatedAt": "2019-03-25T10:52:35.757Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyJTm4JP8"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_41PGypLP8",
+        "universalRef": "sli_41PGypLP8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41PGypLP8.choice_EklhyTUvL.id",
+                        "label": "choice_EklhyTUvL",
+                        "value": "choice_EklhyTUvL"
+                    },
+                    {
+                        "id": "sli_41PGypLP8.choice_4k~hy6Lv8.id",
+                        "label": "choice_4k~hy6Lv8",
+                        "value": "choice_4k~hy6Lv8"
+                    },
+                    {
+                        "id": "sli_41PGypLP8.choice_Nkf2J68vU.id",
+                        "label": "choice_Nkf2J68vU",
+                        "value": "choice_Nkf2J68vU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nkf2J68vU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4yF8JaUPU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you react?",
+            "explanation": "Select the correct answer.",
+            "klf": "Listening to your employee and concentrating on the facts will help you in leading constructive change.",
+            "tips": "‘Ongoing reviews’, or ‘check-in’, are gaining favour: managers and employees meet regularly during the year, instead of the traditional model of once a year.",
+            "clue": "",
+            "context_title": "Tales of Software",
+            "context_description": "During his performance review, an employee starts trying to explain how most of the problems he faces in his day-to-day job are related to the performance of the software he works with. How do you react?",
+            "context_media_description": "",
+            "choice_EklhyTUvL": "Explain that he must take responsibility for his performance",
+            "choice_4k~hy6Lv8": "Ignore him: he is just trying to shift the blame",
+            "choice_Nkf2J68vU": "Ask him about the facts, and listen to his ideas"
+        },
+        "fr": {
+            "header": "Comment réagissez-vous ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Écouter votre employé et vous concentrer sur les faits vous aidera à mener un changement constructif.",
+            "tips": "Les « évaluations en continu », ou « check in », gagnent en popularité : les managers et les employés se rencontrent régulièrement au cours de l’année, au lieu d'une fois par an dans le modèle traditionnel.",
+            "clue": "",
+            "context_title": "L'excuse des logiciels",
+            "context_description": "Au cours de son évaluation de performance, un employé commence à essayer d'expliquer comment la plupart des problèmes auxquels il est confronté dans son travail au quotidien sont liés à la performance des logiciels avec lesquels il travaille. Comment réagissez-vous ?",
+            "context_media_description": "",
+            "choice_EklhyTUvL": "Vous expliquez qu'il doit assumer la responsabilité de sa performance",
+            "choice_4k~hy6Lv8": "Vous ignorez l'employé : il essaie juste de rejeter la faute sur quelqu'un d'autre",
+            "choice_Nkf2J68vU": "Vous l'interrogez sur les faits et écoutez ses idées."
+        },
+        "de": {
+            "header": "How do you react?",
+            "explanation": "Select the correct answer.",
+            "klf": "Listening to your employee and concentrating on the facts will help you in leading constructive change.",
+            "tips": "‘Ongoing reviews’, or ‘check-in’, are gaining favour: managers and employees meet regularly during the year, instead of the traditional model of once a year.",
+            "clue": "",
+            "context_title": "Tales of Software",
+            "context_description": "During his performance review, an employee starts trying to explain how most of the problems he faces in his day-to-day job are related to the performance of the software he works with. How do you react?",
+            "context_media_description": "",
+            "choice_EklhyTUvL": "Explain that he must take responsibility for his performance",
+            "choice_4k~hy6Lv8": "Ignore him: he is just trying to shift the blame",
+            "choice_Nkf2J68vU": "Ask him about the facts, and listen to his ideas"
+        },
+        "th": {
+            "header": "How do you react?",
+            "explanation": "Select the correct answer.",
+            "klf": "Listening to your employee and concentrating on the facts will help you in leading constructive change.",
+            "tips": "‘Ongoing reviews’, or ‘check-in’, are gaining favour: managers and employees meet regularly during the year, instead of the traditional model of once a year.",
+            "clue": "",
+            "context_title": "Tales of Software",
+            "context_description": "During his performance review, an employee starts trying to explain how most of the problems he faces in his day-to-day job are related to the performance of the software he works with. How do you react?",
+            "context_media_description": "",
+            "choice_EklhyTUvL": "Explain that he must take responsibility for his performance",
+            "choice_4k~hy6Lv8": "Ignore him: he is just trying to shift the blame",
+            "choice_Nkf2J68vU": "Ask him about the facts, and listen to his ideas"
+        }
+    }
+}

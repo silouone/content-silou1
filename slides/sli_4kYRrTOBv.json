@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-09-04T15:23:21.867Z",
+            "updatedAt": "2019-09-04T15:23:21.867Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkKKtCXQv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4kYRrTOBv",
+        "universalRef": "sli_4kYRrTOBv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4kYRrTOBv.choice_NJQgIT-rw.id",
+                        "label": "choice_NJQgIT-rw",
+                        "value": "choice_NJQgIT-rw"
+                    },
+                    {
+                        "id": "sli_4kYRrTOBv.choice_NJNg8T-HD.id",
+                        "label": "choice_NJNg8T-HD",
+                        "value": "choice_NJNg8T-HD"
+                    },
+                    {
+                        "id": "sli_4kYRrTOBv.choice_VyBxUaOSD.id",
+                        "label": "choice_VyBxUaOSD",
+                        "value": "choice_VyBxUaOSD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJQgIT-rw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What do you do with a ditherer’s objections?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When you’re facing a ditherer’s objections, listen to them and restate them as positive requirements. This will show you understand what the client is looking for.",
+            "tips": "Always anticipate a ditherer’s lateness and vagueness. Be decisive, concentrate on established requirements, and stress the benefits of decisions made today.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQgIT-rw": "Restate them as positive requirements",
+            "choice_NJNg8T-HD": "Reinforce the product’s benefits",
+            "choice_VyBxUaOSD": "Apologise for the product’s shortcomings"
+        },
+        "fr": {
+            "header": "Que faites-vous des objections d’un ditherer?",
+            "explanation": "Sélectionnez la réponse correcte ci-dessous.",
+            "klf": "Lorsque vous faites face aux objections d’un ditherer, écoutez-les et reformulez-les en tant qu’exigences positives. Cela montrera que vous comprenez ce que le client recherche.",
+            "tips": "Anticipez toujours les retards et les imprécisions du ditherer. Soyez décisif, concentrez-vous sur les exigences établies et soulignez les avantages des décisions prises aujourd'hui.",
+            "choice_NJQgIT-rw": "Les reformuler en tant qu'exigences positives",
+            "choice_NJNg8T-HD": "Renforcer les avantages du produit",
+            "choice_VyBxUaOSD": "Présenter des excuses pour les défauts du produit",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What do you do with a ditherer’s objections?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When you’re facing a ditherer’s objections, listen to them and restate them as positive requirements. This will show you understand what the client is looking for.",
+            "tips": "Always anticipate a ditherer’s lateness and vagueness. Be decisive, concentrate on established requirements, and stress the benefits of decisions made today.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQgIT-rw": "Restate them as positive requirements",
+            "choice_NJNg8T-HD": "Reinforce the product’s benefits",
+            "choice_VyBxUaOSD": "Apologise for the product’s shortcomings"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJQgIT-rw": "",
+            "choice_NJNg8T-HD": "",
+            "choice_VyBxUaOSD": ""
+        }
+    }
+}

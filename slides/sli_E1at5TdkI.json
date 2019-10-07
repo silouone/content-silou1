@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-11T15:55:15.942Z",
+            "updatedAt": "2019-01-23T15:20:13.051Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N10e6D1kL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_E1at5TdkI",
+        "universalRef": "sli_E1at5TdkI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1at5TdkI.choice_N1x~Rc6d1L.id",
+                        "label": "choice_N1x~Rc6d1L",
+                        "value": "choice_N1x~Rc6d1L",
+                        "media": "med_NyW05p-kI"
+                    },
+                    {
+                        "id": "sli_E1at5TdkI.choice_V1efRcadJL.id",
+                        "label": "choice_V1efRcadJL",
+                        "value": "choice_V1efRcadJL",
+                        "media": "med_4yf05T-18"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1efRcadJL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Listening actively simply means hearing what someone is saying.",
+            "explanation": "Select the correct answer.",
+            "klf": "Just hearing what someone is saying does not mean that you are actively listening. Showing that you are really listening proves people that you are taking them seriously.",
+            "tips": "One important part of active listening is keeping an open mind. Don't let judgment keep you from being open to new ideas and possibilities!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1x~Rc6d1L": "TRUE",
+            "choice_V1efRcadJL": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Écouter activement signifie simplement entendre une personne s’exprimer.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Entendre les propos d’une personne ne veut pas dire que vous écoutez activement. Montrer aux personnes que vous les écoutez réellement prouve que vous les prenez au sérieux.",
+            "tips": "L’un des principes fondamentaux de l’écoute active est de garder l'esprit ouvert. Ne laissez pas votre jugement vous détourner de nouvelles idées et opportunités !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1x~Rc6d1L": "Vrai",
+            "choice_V1efRcadJL": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Aktives Zuhören bedeutet einfach zu hören, was jemand sagt.",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Nur zu hören, was jemand sagt, bedeutet nicht, dass Sie aktiv zuhören. Zu zeigen, dass Sie wirklich zuhören, beweist den Leuten, dass Sie sie ernst nehmen.",
+            "tips": "Ein wichtiger Teil des aktiven Zuhörens ist es, aufgeschlossen zu sein. Lassen Sie sich nicht durch Urteilsvermögen davon abhalten, für neue Ideen und Möglichkeiten offen zu sein!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1x~Rc6d1L": "Wahr",
+            "choice_V1efRcadJL": "Falsch"
+        },
+        "th": {
+            "header": "True or false? Listening actively simply means hearing what someone is saying.",
+            "explanation": "Select the correct answer.",
+            "klf": "Just hearing what someone is saying does not mean that you are actively listening. Showing that you are really listening proves people that you are taking them seriously.",
+            "tips": "One important part of active listening is keeping an open mind. Don't let judgment keep you from being open to new ideas and possibilities!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1x~Rc6d1L": "TRUE",
+            "choice_V1efRcadJL": "FALSE"
+        }
+    }
+}

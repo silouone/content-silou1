@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-03T13:46:52.772Z",
+            "updatedAt": "2019-05-03T14:45:49.699Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ~KxVBjL"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NJ5a4ErsU",
+        "universalRef": "sli_NJ5a4ErsU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ5a4ErsU.choice_VJRANNHsI.id",
+                        "label": "choice_VJRANNHsI",
+                        "value": "choice_VJRANNHsI"
+                    },
+                    {
+                        "id": "sli_NJ5a4ErsU.choice_E1DJBNSoU.id",
+                        "label": "choice_E1DJBNSoU",
+                        "value": "choice_E1DJBNSoU"
+                    },
+                    {
+                        "id": "sli_NJ5a4ErsU.choice_NkbgHNSiI.id",
+                        "label": "choice_NkbgHNSiI",
+                        "value": "choice_NkbgHNSiI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkbgHNSiI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When should you follow up with your real request?",
+            "explanation": "Select the correct answer.",
+            "klf": "Strike while the iron is hot. As soon as the first offer is rejected, immediately counter with your real offer to maximise the effect of the initial rejection.",
+            "tips": "Our yes has no meaning if we never say no', once said psychologist and writer Henry Cloud.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJRANNHsI": "After giving some time for the larger request rejection to take effect",
+            "choice_E1DJBNSoU": "When they next bring up the subject so you don't seem too pushy",
+            "choice_NkbgHNSiI": "Immediately after the initial, larger request was rejected"
+        },
+        "fr": {
+            "header": "Quand devez-vous passer à votre demande réelle ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Battez le fer tant qu'il est chaud. Dès que la première offre est rejetée, contrecarrez immédiatement avec votre offre réelle afin de maximiser l’effet du rejet initial.",
+            "tips": "« Notre oui n'a pas de sens si nous ne disons jamais non », a déclaré un jour le psychologue et écrivain Henry Cloud.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJRANNHsI": "Après avoir laissé un peu de temps pour que le rejet de la demande plus importante prenne effet",
+            "choice_E1DJBNSoU": "Quand ils aborderont le sujet pour que vous ne sembliez pas trop pressant",
+            "choice_NkbgHNSiI": "Immédiatement après le rejet de la demande initiale et plus importante"
+        },
+        "de": {
+            "header": "When should you follow up with your real request?",
+            "explanation": "Select the correct answer.",
+            "klf": "Strike while the iron is hot. As soon as the first offer is rejected, immediately counter with your real offer to maximise the effect of the initial rejection.",
+            "tips": "'Our yes has no meaning if we never say no', once said psychologist and writer Henry Cloud.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJRANNHsI": "After giving some time for the larger request rejection to take effect",
+            "choice_E1DJBNSoU": "When they next bring up the subject so you don't seem too pushy",
+            "choice_NkbgHNSiI": "Immediately after the initial, larger request was rejected"
+        },
+        "th": {
+            "header": "When should you follow up with your real request?",
+            "explanation": "Select the correct answer.",
+            "klf": "Strike while the iron is hot. As soon as the first offer is rejected, immediately counter with your real offer to maximise the effect of the initial rejection.",
+            "tips": "Our yes has no meaning if we never say no', once said psychologist and writer Henry Cloud.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJRANNHsI": "After giving some time for the larger request rejection to take effect",
+            "choice_E1DJBNSoU": "When they next bring up the subject so you don't seem too pushy",
+            "choice_NkbgHNSiI": "Immediately after the initial, larger request was rejected"
+        }
+    }
+}

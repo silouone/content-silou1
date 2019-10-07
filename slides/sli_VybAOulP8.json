@@ -1,0 +1,113 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-12T10:37:59.927Z",
+            "updatedAt": "2019-05-02T09:57:12.463Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek89ib9LI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VybAOulP8",
+        "universalRef": "sli_VybAOulP8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "slider",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "id": "sli_VybAOulP8.id",
+                "min": 0,
+                "max": 10,
+                "step": 1,
+                "defaultValue": 0,
+                "unitLabel": "unitLabel",
+                "answers": {
+                    "description": "description",
+                    "answerMin": "answerMin",
+                    "answerMax": "answerMax"
+                }
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How many weeks is the average human lifespan?",
+            "explanation": "Drag the slider.",
+            "klf": "The average human lifespan is about 4000 weeks. Make yours count!",
+            "tips": "Lifespan inequalities is a burning issue. For the first time since 1993, life expectancy for the total population of the United States has recently decreased. And more significantly, inequality in life expectancy may be increasing again. Interesting insights and figures available <a href=\"https://siepr.stanford.edu/research/publications/life-expectancy-inequality\" target=\"_blank\">here</a>.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "4",
+            "unitLabel": "Thousands weeks",
+            "choice_1": "3",
+            "choice_2": "4",
+            "choice_3": "5",
+            "answerMin": 4,
+            "answerMax": 4
+        },
+        "fr": {
+            "header": "A combien de semaines correspond la durée de vie moyenne d'un être humain ?",
+            "explanation": "Faites glisser le curseur.",
+            "klf": "La durée de vie moyenne est d'environ 4 000 semaines. Faites compter les vôtres !",
+            "tips": "Les inégalités de durée de vie sont une question pressante. Pour la première fois depuis 1993, l'espérance de vie de la population totale des États-Unis a récemment diminué. Et plus important encore, l’inégalité de l’espérance de vie pourrait encore augmenter. Idées et chiffres intéressants disponibles <a href=\"https://siepr.stanford.edu/research/publications/life-expectancy-inequality\" target=\"_blank\">ici</a> .",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "4",
+            "unitLabel": "Milliers de semaines",
+            "choice_1": "3",
+            "choice_2": "4",
+            "choice_3": "5",
+            "answerMin": 4,
+            "answerMax": 4
+        },
+        "de": {
+            "header": "How many weeks is the average human lifespan?",
+            "explanation": "Drag the slider.",
+            "klf": "The average human lifespan is about 4000 weeks. Make yours count!",
+            "tips": "Lifespan inequalities is a burning issue. For the first time since 1993, life expectancy for the total population of the United States has recently decreased. And more significantly, inequality in life expectancy may be increasing again. Interesting insights and figures available <a href=\"https://siepr.stanford.edu/research/publications/life-expectancy-inequality\" target=\"_blank\">here</a>.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "4",
+            "unitLabel": "Thousands weeks",
+            "choice_1": "3",
+            "choice_2": "4",
+            "choice_3": "5",
+            "answerMin": 4,
+            "answerMax": 4
+        },
+        "th": {
+            "header": "How many weeks is the average human lifespan?",
+            "explanation": "Drag the slider.",
+            "klf": "The average human lifespan is about 4000 weeks. Make yours count!",
+            "tips": "Lifespan inequalities is a burning issue. For the first time since 1993, life expectancy for the total population of the United States has recently decreased. And more significantly, inequality in life expectancy may be increasing again. Interesting insights and figures available <a href=\"https://siepr.stanford.edu/research/publications/life-expectancy-inequality\" target=\"_blank\">here</a>.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "description": "4",
+            "unitLabel": "Thousands weeks",
+            "choice_1": "3",
+            "choice_2": "4",
+            "choice_3": "5",
+            "answerMin": 4,
+            "answerMax": 4
+        }
+    }
+}

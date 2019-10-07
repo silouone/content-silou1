@@ -1,0 +1,166 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T05:34:59.624Z",
+            "updatedAt": "2019-09-19T07:44:54.866Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ5yjNxZP"
+            ],
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "kvnpc"
+        },
+        "ref": "sli_VydzdDjGw",
+        "universalRef": "sli_VydzdDjGw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel86368",
+                        "items": [
+                            {
+                                "text": "choice_V1g1DuwiGv",
+                                "value": "choice_V1g1DuwiGv"
+                            },
+                            {
+                                "text": "choice_NyZkvOPoMD",
+                                "value": "choice_NyZkvOPoMD"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel39345",
+                        "items": [
+                            {
+                                "text": "choice_VJlIvdwiMP",
+                                "value": "choice_VJlIvdwiMP"
+                            },
+                            {
+                                "text": "choice_4yWUD-PjMw",
+                                "value": "choice_4yWUD-PjMw"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel15698",
+                        "items": [
+                            {
+                                "text": "choice_NklfcODozP",
+                                "value": "choice_NklfcODozP"
+                            },
+                            {
+                                "text": "choice_4ybMqODszv",
+                                "value": "choice_4ybMqODszv"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel86368",
+                        "answers": [
+                            "choice_NyZkvOPoMD"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel39345",
+                        "answers": [
+                            "choice_VJlIvdwiMP"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel15698",
+                        "answers": [
+                            "choice_4ybMqODszv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can we define \"features\" and \"benefits\", when speaking of a specific product?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "Features are mere, concrete details about the product. They have to do with technical characteristics and can not be discussed. When talking about benefits, you're telling the customer why the product suits their needs and can offer them a better life to say so. You have to tell a \"pleasant story\": in other words, customers will buy benefits.",
+            "tips": "The list of features can be very long and you can easily bore the customer by mentioning every single feature. That's even more true when you use professional jargon and other obscure terms: you might do nothing but scare your customer off!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Features are {{sel86368}} statements, whereas benefits are {{sel39345}} statements. Customers will buy {{sel15698}}",
+            "choice_V1g1DuwiGv": "value",
+            "choice_NyZkvOPoMD": "factual",
+            "choice_VJlIvdwiMP": "value",
+            "choice_4yWUD-PjMw": "factual",
+            "choice_NklfcODozP": "features.",
+            "choice_4ybMqODszv": "benefits."
+        },
+        "fr": {
+            "header": "Comment peut-on définir les « caractéristiques » et les « avantages » lorsque l'on parle d'un produit spécifique ?",
+            "explanation": "Sélectionnez les bonnes réponses dans les menus déroulants.",
+            "klf": "Les caractéristiques ne sont que des détails concrets sur le produit. Ils ont à voir avec les caractéristiques techniques et ne peuvent pas être discutés. Lorsque vous parlez d'avantages, vous expliquez au client pourquoi le produit répond à ses besoins et peut lui offrir une vie meilleure. Il faut raconter une «histoire agréable»: autrement dit, les clients achèteront des avantages.",
+            "tips": "La liste des caractéristiques peut être très longue et vous pouvez facilement ennuyer le client en les mentionnant toutes. C'est encore plus vrai lorsque vous utilisez un jargon professionnel et d'autres termes obscurs : vous risquez de ne faire qu'effrayer votre client !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les caractéristiques sont des données {{sel86368}} , tandis que les avantages sont des données {{sel39345}}. Les clients achèteront {{sel15698}}",
+            "choice_V1g1DuwiGv": "de valeur",
+            "choice_NyZkvOPoMD": "factuelles",
+            "choice_VJlIvdwiMP": "de valeur",
+            "choice_4yWUD-PjMw": "factuelles",
+            "choice_NklfcODozP": "des caractéristiques.",
+            "choice_4ybMqODszv": "des avantages."
+        },
+        "de": {
+            "header": "How can we define \"features\" and \"benefits\", when speaking of a specific product?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "Features are mere, concrete details about the product. They have to do with technical characteristics and can not be discussed. When talking about benefits, you're telling the customer why the product suits their needs and can offer them a better life to say so. You have to tell a \"pleasant story\": in other words, customers will buy benefits.",
+            "tips": "The list of features can be very long and you can easily bore the customer by mentioning every single feature. That's even more true when you use professional jargon and other obscure terms: you might do nothing but scare your customer off!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Features are {{sel86368}} statements, whereas benefits are {{sel39345}} statements. Customers will buy {{sel15698}}",
+            "choice_V1g1DuwiGv": "value",
+            "choice_NyZkvOPoMD": "factual",
+            "choice_VJlIvdwiMP": "value",
+            "choice_4yWUD-PjMw": "factual",
+            "choice_NklfcODozP": "features.",
+            "choice_4ybMqODszv": "benefits."
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel86368}} {{sel39345}} {{sel15698}}",
+            "choice_V1g1DuwiGv": "",
+            "choice_NyZkvOPoMD": "",
+            "choice_VJlIvdwiMP": "",
+            "choice_4yWUD-PjMw": "",
+            "choice_NklfcODozP": "",
+            "choice_4ybMqODszv": ""
+        }
+    }
+}

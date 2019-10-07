@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-02T08:43:44.569Z",
+            "updatedAt": "2019-08-02T15:51:02.904Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk4UrV-xw"
+            ],
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "kvnpc"
+        },
+        "ref": "sli_NJ7dU1aMP",
+        "universalRef": "sli_NJ7dU1aMP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJ7dU1aMP.choice_V1gNY81Tfv.id",
+                        "label": "choice_V1gNY81Tfv",
+                        "value": "choice_V1gNY81Tfv",
+                        "media": "med_NyNYIJaGD"
+                    },
+                    {
+                        "id": "sli_NJ7dU1aMP.choice_Nylec81afw.id",
+                        "label": "choice_Nylec81afw",
+                        "value": "choice_Nylec81afw",
+                        "media": "med_N1gq81pMw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nylec81afw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "A code of ethics is something companies can use depending on the situation. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False. Ethics is about maintaining the same standard of righteousness, no matter what happens. A code of ethics would have no value otherwise.",
+            "tips": "It is highly recommended to talk frequently about the ethical values and commitment of your organisation: with your employees, with your customers and why not with the press too!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gNY81Tfv": "True",
+            "choice_Nylec81afw": "False"
+        },
+        "fr": {
+            "header": "Un code d'éthique est un outil que les entreprises peuvent utiliser en fonction de la situation. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Faux. L'éthique consiste à maintenir le même niveau de justice, quoi qu'il arrive. Un code d'éthique n'aurait aucune valeur autrement.",
+            "tips": "Il est fortement recommandé de parler fréquemment des valeurs éthiques et de l'engagement de votre entreprise : avec vos employés, avec vos clients et pourquoi pas avec la presse aussi !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gNY81Tfv": "Vrai",
+            "choice_Nylec81afw": "Faux"
+        },
+        "de": {
+            "header": "A code of ethics is something companies can use depending on the situation. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False. Ethics is about maintaining the same standard of righteousness, no matter what happens. A code of ethics would have no value otherwise.",
+            "tips": "It is highly recommended to talk frequently about the ethical values and commitment of your organisation: with your employees, with your customers and why not with the press too!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gNY81Tfv": "True",
+            "choice_Nylec81afw": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gNY81Tfv": "",
+            "choice_Nylec81afw": ""
+        }
+    }
+}

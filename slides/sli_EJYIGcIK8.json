@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T08:57:49.794Z",
+            "updatedAt": "2019-04-10T08:57:49.794Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJCo5s6-I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_EJYIGcIK8",
+        "universalRef": "sli_EJYIGcIK8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJYIGcIK8.choice_NyuhzcUKL.id",
+                        "label": "choice_NyuhzcUKL",
+                        "value": "choice_NyuhzcUKL"
+                    },
+                    {
+                        "id": "sli_EJYIGcIK8.choice_41M8Xq8tU.id",
+                        "label": "choice_41M8Xq8tU",
+                        "value": "choice_41M8Xq8tU"
+                    },
+                    {
+                        "id": "sli_EJYIGcIK8.choice_E1bvmc8tL.id",
+                        "label": "choice_E1bvmc8tL",
+                        "value": "choice_E1bvmc8tL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyuhzcUKL",
+                        "choice_41M8Xq8tU",
+                        "choice_E1bvmc8tL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the key principles of delegation?",
+            "explanation": "Select the correct answers.",
+            "klf": "Time, availability and criticality are all key factors when delegating work.",
+            "tips": "To determine when delegation is most appropriate, ask yourself the following questions: Is there time to redo the job if it's not done properly the first time? Does the task provide an opportunity to grow and develop another person's skills?  How important is it that the results are of the highest possible quality?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyuhzcUKL": "Making sure you have enough time to delegate and make any corrections if needed",
+            "choice_41M8Xq8tU": "Finding the right people with the right skills who are available to help",
+            "choice_E1bvmc8tL": "Decide what work is critical and needs to be done by you"
+        },
+        "fr": {
+            "header": "Quels sont les principes clés de la délégation ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Le temps, la disponibilité et le caractère essentiel d'une tâche sont tous des facteurs clés en matière de délégation de travail.",
+            "tips": "Pour déterminer quand il est le plus approprié de déléguer, posez-vous les questions suivantes : y a-t-il suffisamment de temps pour refaire le travail s'il n'est pas bien fait la première fois ? La tâche offre-t-elle à l'autre personne l'opportunité d'accroître et de développer ses compétences ? À quel point est-il important que les résultats soient de la meilleure qualité possible ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyuhzcUKL": "S'assurer que vous avez assez de temps pour déléguer et apporter des corrections si nécessaire",
+            "choice_41M8Xq8tU": "Trouver les personnes aux compétences appropriées et disponibles pour aider",
+            "choice_E1bvmc8tL": "Décider quelle tâche est essentielle et doit être faite par vous"
+        },
+        "de": {
+            "header": "What are the key principles of delegation? ",
+            "explanation": "Select the correct answers.",
+            "klf": "Time, availability and criticality are all key factors when delegating work.",
+            "tips": "To determine when delegation is most appropriate, ask yourself the following questions: Is there time to redo the job if it's not done properly the first time? Does the task provide an opportunity to grow and develop another person's skills?  How important is it that the results are of the highest possible quality?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyuhzcUKL": "Making sure you have enough time to delegate and make any corrections if needed",
+            "choice_41M8Xq8tU": "Finding the right people with the right skills who are available to help",
+            "choice_E1bvmc8tL": "Decide what work is critical and needs to be done by you"
+        },
+        "th": {
+            "header": "What are the key principles of delegation?",
+            "explanation": "Select the correct answers.",
+            "klf": "Time, availability and criticality are all key factors when delegating work.",
+            "tips": "To determine when delegation is most appropriate, ask yourself the following questions: Is there time to redo the job if it's not done properly the first time? Does the task provide an opportunity to grow and develop another person's skills?  How important is it that the results are of the highest possible quality?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyuhzcUKL": "Making sure you have enough time to delegate and make any corrections if needed",
+            "choice_41M8Xq8tU": "Finding the right people with the right skills who are available to help",
+            "choice_E1bvmc8tL": "Decide what work is critical and needs to be done by you"
+        }
+    }
+}

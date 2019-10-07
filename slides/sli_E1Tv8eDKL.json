@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T15:12:02.315Z",
+            "updatedAt": "2019-04-15T08:35:57.238Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJyQVlPYL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_E1Tv8eDKL",
+        "universalRef": "sli_E1Tv8eDKL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1Tv8eDKL.choice_V1IuUgwtI.id",
+                        "label": "choice_V1IuUgwtI",
+                        "value": "choice_V1IuUgwtI"
+                    },
+                    {
+                        "id": "sli_E1Tv8eDKL.choice_EJFdIlDFU.id",
+                        "label": "choice_EJFdIlDFU",
+                        "value": "choice_EJFdIlDFU"
+                    },
+                    {
+                        "id": "sli_E1Tv8eDKL.choice_VJeK8evYI.id",
+                        "label": "choice_VJeK8evYI",
+                        "value": "choice_VJeK8evYI"
+                    },
+                    {
+                        "id": "sli_E1Tv8eDKL.choice_NkUtIlDFU.id",
+                        "label": "choice_NkUtIlDFU",
+                        "value": "choice_NkUtIlDFU"
+                    },
+                    {
+                        "id": "sli_E1Tv8eDKL.choice_EJucIePK8.id",
+                        "label": "choice_EJucIePK8",
+                        "value": "choice_EJucIePK8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJeK8evYI",
+                        "choice_V1IuUgwtI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the main benefits of preparing your presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Good preparation ensures that you have thought carefully about the messages that you want to communicate. It can also boost your confidence.",
+            "tips": "Questions such as ‘What do I want the audience to understand?’, for example, will help you find the messages you want to communicate. They are the objectives of your presentation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1IuUgwtI": "It helps you boost your confidence",
+            "choice_EJFdIlDFU": "It gives you time to consider another job",
+            "choice_VJeK8evYI": "It allows you to think about your message",
+            "choice_NkUtIlDFU": "It gives you the upper hand on the audience",
+            "choice_EJucIePK8": "It allows you to anticipate all questions"
+        },
+        "fr": {
+            "header": "Quels sont les principaux avantages à préparer vous-même votre présentation ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Une bonne préparation vous garantit d'avoir bien réfléchi aux messages que vous souhaitez communiquer. Cela peut aussi augmenter votre confiance en vous.",
+            "tips": "Des questions telles que « Qu'est-ce que je veux que l'auditoire comprenne ? », par exemple, vous aideront à trouver les messages que vous souhaitez communiquer. Ce sont les objectifs de votre présentation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1IuUgwtI": "Cela vous aide à augmenter votre confiance en vous",
+            "choice_EJFdIlDFU": "Cela vous donne le temps d'envisager de changer de travail",
+            "choice_VJeK8evYI": "Cela vous permet de réfléchir à votre message",
+            "choice_NkUtIlDFU": "Cela vous donne l'ascendant sur votre auditoire",
+            "choice_EJucIePK8": "Cela vous permet d'anticiper toutes les questions"
+        },
+        "de": {
+            "header": "What are the main benefits of preparing your presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Good preparation ensures that you have thought carefully about the messages that you want to communicate. It can also boost your confidence.",
+            "tips": "Questions such as ‘What do I want the audience to understand?’, for example, will help you find the messages you want to communicate. They are the objectives of your presentation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1IuUgwtI": "It helps you boost your confidence",
+            "choice_EJFdIlDFU": "It gives you time to consider another job",
+            "choice_VJeK8evYI": "It allows you to think about your message",
+            "choice_NkUtIlDFU": "It gives you the upper hand on the audience",
+            "choice_EJucIePK8": "It allows you to anticipate all questions"
+        },
+        "th": {
+            "header": "What are the main benefits of preparing your presentation?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Good preparation ensures that you have thought carefully about the messages that you want to communicate. It can also boost your confidence.",
+            "tips": "Questions such as ‘What do I want the audience to understand?’, for example, will help you find the messages you want to communicate. They are the objectives of your presentation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1IuUgwtI": "It helps you boost your confidence",
+            "choice_EJFdIlDFU": "It gives you time to consider another job",
+            "choice_VJeK8evYI": "It allows you to think about your message",
+            "choice_NkUtIlDFU": "It gives you the upper hand on the audience",
+            "choice_EJucIePK8": "It allows you to anticipate all questions"
+        }
+    }
+}

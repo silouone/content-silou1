@@ -1,0 +1,112 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T15:02:08.534Z",
+            "updatedAt": "2019-04-12T15:02:08.534Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1gEVxDFL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Nkq7wqtYL",
+        "universalRef": "sli_Nkq7wqtYL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nkq7wqtYL.choice_E1YOD9FY8.id",
+                        "label": "choice_E1YOD9FY8",
+                        "value": "choice_E1YOD9FY8"
+                    },
+                    {
+                        "id": "sli_Nkq7wqtYL.choice_N19-DcKKI.id",
+                        "label": "choice_N19-DcKKI",
+                        "value": "choice_N19-DcKKI"
+                    },
+                    {
+                        "id": "sli_Nkq7wqtYL.choice_EJodv9KF8.id",
+                        "label": "choice_EJodv9KF8",
+                        "value": "choice_EJodv9KF8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N19-DcKKI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the purpose of a presentation?",
+            "explanation": "Select the correct answer.",
+            "klf": "The purpose of a presentation is to provide recommendations. Once you’ve presented your options, make a proposal.",
+            "tips": "For your recommendations to be impactful, they have to be actionable. This means that they must be relevant and feasible.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1YOD9FY8": "Justify your beliefs",
+            "choice_N19-DcKKI": "Make recommendations",
+            "choice_EJodv9KF8": "Let your colleagues know what you really think",
+            "choice_NJ2Ov9tKL": ""
+        },
+        "fr": {
+            "header": "Quel est le but d'une présentation ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le but d'une présentation est de formuler des recommandations. Une fois que vous avez présenté vos options, faites une proposition.",
+            "tips": "Pour que vos recommandations aient un impact, elles doivent être exploitables. Cela signifie qu'elles doivent être pertinentes et réalisables.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1YOD9FY8": "Justifier ses opinions",
+            "choice_N19-DcKKI": "Faire des recommandations",
+            "choice_EJodv9KF8": "Faire savoir à vos collègues ce que vous pensez vraiment",
+            "choice_NJ2Ov9tKL": ""
+        },
+        "de": {
+            "header": "What is the purpose of a presentation?",
+            "explanation": "Select the correct answer.",
+            "klf": "The purpose of a presentation is to provide recommendations. Once you’ve presented your options, make a proposal.",
+            "tips": "For your recommendations to be impactful, they have to be actionable. This means that they must be relevant and feasible.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1YOD9FY8": "Justify your beliefs",
+            "choice_N19-DcKKI": "Make recommendations",
+            "choice_EJodv9KF8": "Let your colleagues know what you really think",
+            "choice_NJ2Ov9tKL": ""
+        },
+        "th": {
+            "header": "What is the purpose of a presentation?",
+            "explanation": "Select the correct answer.",
+            "klf": "The purpose of a presentation is to provide recommendations. Once you’ve presented your options, make a proposal.",
+            "tips": "For your recommendations to be impactful, they have to be actionable. This means that they must be relevant and feasible.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1YOD9FY8": "Justify your beliefs",
+            "choice_N19-DcKKI": "Make recommendations",
+            "choice_EJodv9KF8": "Let your colleagues know what you really think",
+            "choice_NJ2Ov9tKL": ""
+        }
+    }
+}

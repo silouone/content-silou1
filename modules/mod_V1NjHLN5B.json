@@ -1,0 +1,66 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T14:16:44.643Z",
+            "updatedAt": "2018-11-08T17:22:36.507Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2018-12-08T15:15:31.918Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_E1P5BIN9B"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "mod_V1NjHLN5B",
+        "universalRef": "mod_V1NjHLN5B",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 10,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_41nSFlxoB",
+            "skill_NJuLFeeiS"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_41nSFlxoB": "Identify and support your champions",
+            "skill_NJuLFeeiS": "Reassure the gatekeepers with good communication"
+        },
+        "fr": {
+            "skill_41nSFlxoB": "Identifier et soutenir vos champions",
+            "skill_NJuLFeeiS": "Rassurer les gardiens grâce à une bonne communication"
+        },
+        "de": {
+            "skill_41nSFlxoB": "Identifizieren und unterstützen Sie Ihre Champions",
+            "skill_NJuLFeeiS": "Beruhigen Sie die Torwächter mit guter Kommunikation"
+        },
+        "th": {
+            "skill_41nSFlxoB": "Identify and support your champions",
+            "skill_NJuLFeeiS": "Reassure the gatekeepers with good communication"
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T14:05:03.261Z",
+            "updatedAt": "2019-08-01T15:27:51.153Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1O1xi5fD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VJnVey3fD",
+        "universalRef": "sli_VJnVey3fD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJnVey3fD.choice_Vke1deJ2Gw.id",
+                        "label": "choice_Vke1deJ2Gw",
+                        "value": "choice_Vke1deJ2Gw",
+                        "media": "med_NyyugJhfw"
+                    },
+                    {
+                        "id": "sli_VJnVey3fD.choice_N1x5-ek3GP.id",
+                        "label": "choice_N1x5-ek3GP",
+                        "value": "choice_N1x5-ek3GP",
+                        "media": "med_Nkc-eJhzv"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1x5-ek3GP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If you face a chatty customer, you can multitask and keep working on other things while he is talking to you. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Don't ignore them! That will not improve the situation. Pay attention to what they are saying to grasp their main issue and refocus the conversation.",
+            "tips": "Stay alert! If a coworker seems to have a hard time disengaging from a conversation, ask them for their help with something.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vke1deJ2Gw": "True",
+            "choice_N1x5-ek3GP": "False"
+        },
+        "fr": {
+            "header": "Si vous rencontrez un client bavard, vous pouvez effectuer plusieurs tâches en même temps et continuer à travailler sur d'autres tâches pendant qu'il vous parle. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Ne l'ignorez pas ! Cela n'améliorera pas la situation. Faites attention à ce qu'il dit pour saisir le problème principal qu'il rencontre et recentrer la conversation.",
+            "tips": "Restez attentif ! Si un collègue semble avoir du mal à se dégager d'une conversation, demandez-lui de l'aide pour quelque chose.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vke1deJ2Gw": "Vrai",
+            "choice_N1x5-ek3GP": "Faux"
+        },
+        "de": {
+            "header": "If you face a chatty customer, you can multitask and keep working on other things while he is talking to you. True or false ?",
+            "explanation": "Select the correct answer.",
+            "klf": "Don't ignore them! That will not improve the situation. Pay attention to what they are saying to grasp their main issue and refocus the conversation.",
+            "tips": "Stay alert! If a coworker seems to have a hard time disengaging from a conversation, ask them for their help with something.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vke1deJ2Gw": "True",
+            "choice_N1x5-ek3GP": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vke1deJ2Gw": "",
+            "choice_N1x5-ek3GP": ""
+        }
+    }
+}

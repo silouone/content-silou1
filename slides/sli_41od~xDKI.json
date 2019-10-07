@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T14:50:18.425Z",
+            "updatedAt": "2019-04-10T14:50:18.425Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1PFrXEt8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_41od~xDKI",
+        "universalRef": "sli_41od~xDKI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41od~xDKI.choice_NkxD3WgPF8.id",
+                        "label": "choice_NkxD3WgPF8",
+                        "value": "choice_NkxD3WgPF8",
+                        "media": "med_Vkw3~xPKU"
+                    },
+                    {
+                        "id": "sli_41od~xDKI.choice_4JlqnWxPFU.id",
+                        "label": "choice_4JlqnWxPFU",
+                        "value": "choice_4JlqnWxPFU",
+                        "media": "med_4yq2bewtU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JlqnWxPFU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Transparency is key to persuading your audience. Always admit as many flaws as you can.",
+            "explanation": "Select the correct answer.",
+            "klf": "Acknowledging a small weakness in your proposal can greatly help your case. However, be sure not to admit too many flaws! It would be counterproductive.",
+            "tips": "Not all weaknesses are equal. If you want to convince your audience, you should avoid making people doubt whether you are up to the task. The flaw you are willing to acknowledge has to be surmountable.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkxD3WgPF8": "TRUE",
+            "choice_4JlqnWxPFU": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? La transparence est la clé pour convaincre votre public. Admettez toujours autant de défauts que possible.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Reconnaître une petite faiblesse dans votre proposition peut grandement aider votre cas. Cependant, veillez à ne pas admettre trop de défauts ! Ce serait contre-productif.",
+            "tips": "Toutes les faiblesses ne sont pas égales. Si vous voulez convaincre votre auditoire, évitez de faire douter les gens sur vos capacités. La faille que vous êtes prêt à reconnaître doit être surmontable.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkxD3WgPF8": "VRAI",
+            "choice_4JlqnWxPFU": "FAUX"
+        },
+        "de": {
+            "header": "True or false? Transparency is key to persuading your audience. Always admit as many flaws as you can.",
+            "explanation": "Select the correct answer.",
+            "klf": "Acknowledging a small weakness in your proposal can greatly help your case. However, be sure not to admit too many flaws! It would be counterproductive.",
+            "tips": "Not all weaknesses are equal. If you want to convince your audience, you should avoid making people doubt whether you are up to the task. The flaw you are willing to acknowledge has to be surmountable.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkxD3WgPF8": "True",
+            "choice_4JlqnWxPFU": "False"
+        },
+        "th": {
+            "header": "True or false? Transparency is key to persuading your audience. Always admit as many flaws as you can.",
+            "explanation": "Select the correct answer.",
+            "klf": "Acknowledging a small weakness in your proposal can greatly help your case. However, be sure not to admit too many flaws! It would be counterproductive.",
+            "tips": "Not all weaknesses are equal. If you want to convince your audience, you should avoid making people doubt whether you are up to the task. The flaw you are willing to acknowledge has to be surmountable.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NkxD3WgPF8": "TRUE",
+            "choice_4JlqnWxPFU": "FALSE"
+        }
+    }
+}

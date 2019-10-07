@@ -1,0 +1,123 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T08:34:17.669Z",
+            "updatedAt": "2019-04-23T11:56:51.306Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJN09hw9L"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJlYn2w5U",
+        "universalRef": "sli_NJlYn2w5U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NJlYn2w5U.choice_4Jgkoh3DcI.id",
+                        "label": "choice_4Jgkoh3DcI",
+                        "value": "choice_4Jgkoh3DcI",
+                        "media": "med_E1ko2hvcI"
+                    },
+                    {
+                        "id": "sli_NJlYn2w5U.choice_EkxQa3hP5L.id",
+                        "label": "choice_EkxQa3hP5L",
+                        "value": "choice_EkxQa3hP5L",
+                        "media": "med_VJQTnhw98"
+                    },
+                    {
+                        "id": "sli_NJlYn2w5U.choice_41g6AnhDqL.id",
+                        "label": "choice_41g6AnhDqL",
+                        "value": "choice_41g6AnhDqL",
+                        "media": "med_V16Cn2v5L"
+                    },
+                    {
+                        "id": "sli_NJlYn2w5U.choice_Vkl9~T2v5I.id",
+                        "label": "choice_Vkl9~T2v5I",
+                        "value": "choice_Vkl9~T2v5I",
+                        "media": "med_Vyq~62w5U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkxQa3hP5L",
+                        "choice_41g6AnhDqL",
+                        "choice_Vkl9~T2v5I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In which situations is it most obvious when people change their voice for work?",
+            "explanation": "Select the correct answers.",
+            "klf": "It’s not always a conscious thing but we often change our voices to create rapport with the person we’re speaking to.",
+            "tips": "The Lombard effect, named after the French otolaryngologist Étienne Lombard, is an involuntary vocal response by speakers to the presence of background noise. This effect explains why people often speak louder when they are using their mobile phone.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jgkoh3DcI": "At lunch",
+            "choice_EkxQa3hP5L": "Over the telephone",
+            "choice_41g6AnhDqL": "With their line manager",
+            "choice_Vkl9~T2v5I": "Talking to their teammates"
+        },
+        "fr": {
+            "header": "Dans quelles situations le changement de voix des gens au travail est-il le plus évident ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Ce n’est pas toujours conscient, mais nous changeons souvent de voix pour créer un rapport avec la personne à qui nous parlons.",
+            "tips": "L'effet Lombard, du nom de l'ORL français Étienne Lombard, est une réponse vocale involontaire des locuteurs à la présence de bruit de fond. Cet effet explique pourquoi les gens parlent souvent plus fort lorsqu'ils utilisent leur téléphone portable.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jgkoh3DcI": "Au déjeuner",
+            "choice_EkxQa3hP5L": "Au téléphone",
+            "choice_41g6AnhDqL": "Avec leur supérieur hiérarchique",
+            "choice_Vkl9~T2v5I": "Lorsque qu'ils parlent à leurs coéquipiers"
+        },
+        "de": {
+            "header": "In which situations is it most obvious when people change their voice for work? ",
+            "explanation": "Select the correct answers.",
+            "klf": "It’s not always a conscious thing but we often change our voices to create rapport with the person we’re speaking to.",
+            "tips": "The Lombard effect, named after the French otolaryngologist Étienne Lombard, is an involuntary vocal response by speakers to the presence of background noise. This effect explains why people often speak louder when they are using their mobile phone.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jgkoh3DcI": "At lunch",
+            "choice_EkxQa3hP5L": "Over the telephone",
+            "choice_41g6AnhDqL": "With their line manager",
+            "choice_Vkl9~T2v5I": "Talking to their teammates"
+        },
+        "th": {
+            "header": "In which situations is it most obvious when people change their voice for work?",
+            "explanation": "Select the correct answers.",
+            "klf": "It’s not always a conscious thing but we often change our voices to create rapport with the person we’re speaking to.",
+            "tips": "The Lombard effect, named after the French otolaryngologist Étienne Lombard, is an involuntary vocal response by speakers to the presence of background noise. This effect explains why people often speak louder when they are using their mobile phone.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4Jgkoh3DcI": "At lunch",
+            "choice_EkxQa3hP5L": "Over the telephone",
+            "choice_41g6AnhDqL": "With their line manager",
+            "choice_Vkl9~T2v5I": "Talking to their teammates"
+        }
+    }
+}

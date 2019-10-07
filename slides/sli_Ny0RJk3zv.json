@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T14:02:45.343Z",
+            "updatedAt": "2019-08-01T16:31:36.168Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1O1xi5fD"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_Ny0RJk3zv",
+        "universalRef": "sli_Ny0RJk3zv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel91782",
+                        "items": [
+                            {
+                                "text": "choice_VJekMek2Mv",
+                                "value": "choice_VJekMek2Mv"
+                            },
+                            {
+                                "text": "choice_Ny~1MgJ3zv",
+                                "value": "choice_Ny~1MgJ3zv"
+                            },
+                            {
+                                "text": "choice_NyJQlyhzD",
+                                "value": "choice_NyJQlyhzD"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel91782",
+                        "answers": [
+                            "choice_Ny~1MgJ3zv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When should you take control of the situation with a chatty customer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It is important to take control of the situation early on, because not doing so could lead to confusion, or it may become hard to prioritise the issues which need attention. It could also lead to delay for other customers.",
+            "tips": "If a customer is getting too personal and making very inappropriate comments, you may exit the situation and alert a supervisor.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel91782}}",
+            "choice_VJekMek2Mv": "When they have run out of steam",
+            "choice_Ny~1MgJ3zv": "As early as possible",
+            "choice_NyJQlyhzD": "At the end of the conversation"
+        },
+        "fr": {
+            "header": "Quand faut-il prendre le contrôle de la situation lorsque l'on fait face à un client bavard ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il est important de contrôler la situation dès le début car ne pas le faire pourrait être source de confusion, ou bien il pourrait devenir difficile de hiérarchiser les problèmes qui nécessitent une attention particulière. Cela pourrait également entraîner des retards pour les autres clients.",
+            "tips": "Si un client commence à aborder des sujets trop personnels et fait des commentaires très inappropriés, vous pouvez quitter la conversation et alerter un de vos superviseurs.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel91782}}",
+            "choice_VJekMek2Mv": "Quand ils sont à bout de souffle",
+            "choice_Ny~1MgJ3zv": "Le plus tôt possible",
+            "choice_NyJQlyhzD": "À la fin de la conversation"
+        },
+        "de": {
+            "header": "When should you take control of the situation with a chatty customer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It is important to take control of the situation early on, because not doing so could lead to confusion, or it may become hard to prioritise the issues which need attention. It could also lead to delay for other customers.",
+            "tips": "If a customer is getting too personal and making very inappropriate comments, you may exit the situation and alert a supervisor.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel91782}}",
+            "choice_VJekMek2Mv": "When they have run out of steam",
+            "choice_Ny~1MgJ3zv": "As early as possible",
+            "choice_NyJQlyhzD": "At the end of the conversation"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel91782}}",
+            "choice_VJekMek2Mv": "",
+            "choice_Ny~1MgJ3zv": "",
+            "choice_NyJQlyhzD": ""
+        }
+    }
+}

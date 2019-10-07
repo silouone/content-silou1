@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-19T10:18:38.041Z",
+            "updatedAt": "2019-05-19T10:18:38.041Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N10YORujL"
+            ],
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_VypV2zq3L",
+        "universalRef": "sli_VypV2zq3L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel90181",
+                        "items": [
+                            {
+                                "text": "choice_41xKL2Mq3U",
+                                "value": "choice_41xKL2Mq3U"
+                            },
+                            {
+                                "text": "choice_N1~KI3GqhL",
+                                "value": "choice_N1~KI3GqhL"
+                            },
+                            {
+                                "text": "choice_EkaU3M5hU",
+                                "value": "choice_EkaU3M5hU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel90181",
+                        "answers": [
+                            "choice_N1~KI3GqhL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "During a negotiation, what should you be careful about?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Don’t ever give anything away without getting something in return. In other words: trade, don’t concede.",
+            "tips": "A negotiation is about give and take. If you want to succeed, you are certainly going to have to trade some things. So decide ahead of time what you are ready to give.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should never  {{sel90181}} .",
+            "choice_41xKL2Mq3U": "trade",
+            "choice_N1~KI3GqhL": "concede",
+            "choice_EkaU3M5hU": "pitch high"
+        },
+        "fr": {
+            "header": "Au cours d'une négociation, à quoi devriez-vous faire attention ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Ne donnez jamais rien sans obtenir quelque chose en retour. En d’autres termes : troquez, ne cédez pas.",
+            "tips": "Une négociation consiste à donner et à prendre. Si vous voulez réussir, vous allez certainement devoir troquer certaines choses. Alors décidez à l'avance de ce que vous êtes prêt à donner.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous ne devriez jamais {{sel90181}} .",
+            "choice_41xKL2Mq3U": "troquer",
+            "choice_N1~KI3GqhL": "céder",
+            "choice_EkaU3M5hU": "faire une offre élevée"
+        },
+        "de": {
+            "header": "During a negotiation, what should you be careful about?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Don’t ever give anything away without getting something in return. In other words: trade, don’t concede.",
+            "tips": "A negotiation is about give and take. If you want to succeed, you are certainly going to have to trade some things. So decide ahead of time what you are ready to give.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should never  {{sel90181}} .",
+            "choice_41xKL2Mq3U": "trade",
+            "choice_N1~KI3GqhL": "concede",
+            "choice_EkaU3M5hU": "pitch high"
+        },
+        "th": {
+            "header": "During a negotiation, what should you be careful about?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Don’t ever give anything away without getting something in return. In other words: trade, don’t concede.",
+            "tips": "A negotiation is about give and take. If you want to succeed, you are certainly going to have to trade some things. So decide ahead of time what you are ready to give.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should never  {{sel90181}} .",
+            "choice_41xKL2Mq3U": "trade",
+            "choice_N1~KI3GqhL": "concede",
+            "choice_EkaU3M5hU": "pitch high"
+        }
+    }
+}

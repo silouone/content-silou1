@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-16T14:17:42.514Z",
+            "updatedAt": "2019-04-16T14:17:42.514Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJC~5XuKI"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_VybOf0AtI",
+        "universalRef": "sli_VybOf0AtI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VybOf0AtI.choice_NygFMRAY8.id",
+                        "label": "choice_NygFMRAY8",
+                        "value": "choice_NygFMRAY8"
+                    },
+                    {
+                        "id": "sli_VybOf0AtI.choice_V1oFGCRYI.id",
+                        "label": "choice_V1oFGCRYI",
+                        "value": "choice_V1oFGCRYI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NygFMRAY8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the benefits of reverse mentoring?",
+            "explanation": "Select the correct answer.",
+            "klf": "Younger team members can often present a new perspective.",
+            "tips": "The concept of reverse mentoring was popularised by Jack Welch in 1999.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygFMRAY8": "Senior staff can learn new and different perspectives from younger team members",
+            "choice_V1oFGCRYI": "Younger team members get to figure it out by themselves"
+        },
+        "fr": {
+            "header": "Quels sont les bénéfices du mentorat inversé ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les membres plus jeunes de l’équipe peuvent souvent présenter une nouvelle perspective.",
+            "tips": "Le concept de mentorat inversé a été popularisé par Jack Welch en 1999.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygFMRAY8": "Les cadres supérieurs peuvent apprendre des perspectives nouvelles et différentes des membres plus jeunes de l'équipe",
+            "choice_V1oFGCRYI": "Les employés plus jeunes comprennent le travail par eux-mêmes"
+        },
+        "de": {
+            "header": "What are the benefits of reverse mentoring?",
+            "explanation": "Select the correct answer.",
+            "klf": "Younger team members can often present a new perspective.",
+            "tips": "The concept of reverse mentoring was popularised by Jack Welch in 1999.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygFMRAY8": "Senior staff can learn new and different perspectives from younger team members",
+            "choice_V1oFGCRYI": "Younger team members get to figure it out by themselves"
+        },
+        "th": {
+            "header": "What are the benefits of reverse mentoring?",
+            "explanation": "Select the correct answer.",
+            "klf": "Younger team members can often present a new perspective.",
+            "tips": "The concept of reverse mentoring was popularised by Jack Welch in 1999.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygFMRAY8": "Senior staff can learn new and different perspectives from younger team members",
+            "choice_V1oFGCRYI": "Younger team members get to figure it out by themselves"
+        }
+    }
+}

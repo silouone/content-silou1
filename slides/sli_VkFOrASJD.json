@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:15:31.478Z",
+            "updatedAt": "2019-06-21T14:15:31.478Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJC9VCSkv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VkFOrASJD",
+        "universalRef": "sli_VkFOrASJD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkFOrASJD.choice_41ptrRrkD.id",
+                        "label": "choice_41ptrRrkD",
+                        "value": "choice_41ptrRrkD"
+                    },
+                    {
+                        "id": "sli_VkFOrASJD.choice_4kAKrRH1v.id",
+                        "label": "choice_4kAKrRH1v",
+                        "value": "choice_4kAKrRH1v"
+                    },
+                    {
+                        "id": "sli_VkFOrASJD.choice_E1k9B0B1P.id",
+                        "label": "choice_E1k9B0B1P",
+                        "value": "choice_E1k9B0B1P"
+                    },
+                    {
+                        "id": "sli_VkFOrASJD.choice_EkC5SCrJP.id",
+                        "label": "choice_EkC5SCrJP",
+                        "value": "choice_EkC5SCrJP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kAKrRH1v",
+                        "choice_E1k9B0B1P"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who is responsible for making sure the customer understands what they need and knows how to get it?",
+            "explanation": "Select the correct answers below.",
+            "klf": "There is often a perceived resistance to ‘selling’: this is a result of not understanding what the customer’s genuine needs are. You and the customer are in charge of discovering these needs.",
+            "tips": "When you have limited knowledge of something, there are always plenty of things you don’t even know you need. Not easy to know what to get when it’s your first time laying tiles, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ptrRrkD": "The Manager",
+            "choice_4kAKrRH1v": "You",
+            "choice_E1k9B0B1P": "The customer themselves",
+            "choice_EkC5SCrJP": "Someone else"
+        },
+        "fr": {
+            "header": "Qui doit s'assurer que le client comprend ce dont il a besoin et sait comment l'obtenir ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Il existe souvent une résistance perceptible à la « vente » : elle résulte de la non-compréhension des véritables besoins du client. Vous et le client êtes chargés de découvrir ces besoins.",
+            "tips": "Lorsque vous avez une connaissance limitée dans un domaine, il y a toujours beaucoup de choses dont vous ignorez avoir besoin. Pas facile de savoir ce qu'il vous faut quand vous posez du carrelage pour la première fois, par exemple.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ptrRrkD": "Le manager",
+            "choice_4kAKrRH1v": "Vous",
+            "choice_E1k9B0B1P": "Le client lui-même",
+            "choice_EkC5SCrJP": "Quelqu'un d'autre"
+        },
+        "de": {
+            "header": "Who is responsible for making sure the customer understands what they need and knows how to get it? ",
+            "explanation": "Select the correct answers below.",
+            "klf": "There is often a perceived resistance to ‘selling’: this is a result of not understanding what the customer’s genuine needs are. You and the customer are in charge of discovering these needs.",
+            "tips": "When you have limited knowledge of something, there are always plenty of things you don’t even know you need. Not easy to know what to get when it’s your first time laying tiles, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ptrRrkD": "The Manager",
+            "choice_4kAKrRH1v": "You",
+            "choice_E1k9B0B1P": "The customer themselves",
+            "choice_EkC5SCrJP": "Someone else"
+        },
+        "th": {
+            "header": "Who is responsible for making sure the customer understands what they need and knows how to get it? ",
+            "explanation": "Select the correct answers below.",
+            "klf": "There is often a perceived resistance to ‘selling’: this is a result of not understanding what the customer’s genuine needs are. You and the customer are in charge of discovering these needs.",
+            "tips": "When you have limited knowledge of something, there are always plenty of things you don’t even know you need. Not easy to know what to get when it’s your first time laying tiles, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ptrRrkD": "The Manager",
+            "choice_4kAKrRH1v": "You",
+            "choice_E1k9B0B1P": "The customer themselves",
+            "choice_EkC5SCrJP": "Someone else"
+        }
+    }
+}

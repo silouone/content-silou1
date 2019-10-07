@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T15:20:49.103Z",
+            "updatedAt": "2019-04-18T12:38:53.252Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1gEVxDFL"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJMosqYt8",
+        "universalRef": "sli_NJMosqYt8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel88224",
+                        "items": [
+                            {
+                                "text": "choice_E1ewRj9KFI",
+                                "value": "choice_E1ewRj9KFI"
+                            },
+                            {
+                                "text": "choice_N1ZwRjctYU",
+                                "value": "choice_N1ZwRjctYU"
+                            },
+                            {
+                                "text": "choice_Ey1J2qtK8",
+                                "value": "choice_Ey1J2qtK8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel88224",
+                        "answers": [
+                            "choice_N1ZwRjctYU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can the POP model be useful to you?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The POP model is a framework that you can use to give a clear, well-structured presentation. You know exactly what you want to say and the order in which you want to say it.",
+            "tips": "Before you structure a presentation, you must be clear about your purpose: do you want to inform, to persuade, to entertain or to inspire your audience?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It helps you {{sel88224}}  .",
+            "choice_E1ewRj9KFI": "detail your arguments",
+            "choice_N1ZwRjctYU": "structure your presentation",
+            "choice_Ey1J2qtK8": "shorten your speech"
+        },
+        "fr": {
+            "header": "Comment le modèle POP peut-il vous être utile ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le modèle POP permet de délimiter les éléments que vous pouvez utiliser afin de faire une présentation claire et bien structurée. Vous savez exactement ce que vous voulez dire et l'ordre dans lequel vous voulez le dire.",
+            "tips": "Avant de structurer une présentation, vous devez définir clairement votre objectif : souhaitez-vous informer, convaincre, divertir ou inspirer votre public ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Il vous aide à {{sel88224}}.",
+            "choice_E1ewRj9KFI": "détailler vos arguments",
+            "choice_N1ZwRjctYU": "structurer votre présentation",
+            "choice_Ey1J2qtK8": "raccourcir votre discours"
+        },
+        "de": {
+            "header": "How can the POP model be useful to you?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The POP model is a framework that you can use to give a clear, well-structured presentation. You know exactly what you want to say and the order in which you want to say it.",
+            "tips": "Before you structure a presentation, you must be clear about your purpose: do you want to inform, to persuade, to entertain or to inspire your audience?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It helps you {{sel88224}}  .",
+            "choice_E1ewRj9KFI": "detail your arguments",
+            "choice_N1ZwRjctYU": "structure your presentation",
+            "choice_Ey1J2qtK8": "shorten your speech"
+        },
+        "th": {
+            "header": "How can the POP model be useful to you?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The POP model is a framework that you can use to give a clear, well-structured presentation. You know exactly what you want to say and the order in which you want to say it.",
+            "tips": "Before you structure a presentation, you must be clear about your purpose: do you want to inform, to persuade, to entertain or to inspire your audience?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It helps you {{sel88224}}  .",
+            "choice_E1ewRj9KFI": "detail your arguments",
+            "choice_N1ZwRjctYU": "structure your presentation",
+            "choice_Ey1J2qtK8": "shorten your speech"
+        }
+    }
+}

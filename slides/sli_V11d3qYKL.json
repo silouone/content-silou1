@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T15:24:11.844Z",
+            "updatedAt": "2019-04-18T12:41:34.229Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyt4VewKU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_V11d3qYKL",
+        "universalRef": "sli_V11d3qYKL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V11d3qYKL.choice_Vklsn5KFI.id",
+                        "label": "choice_Vklsn5KFI",
+                        "value": "choice_Vklsn5KFI"
+                    },
+                    {
+                        "id": "sli_V11d3qYKL.choice_N1~sh9KKU.id",
+                        "label": "choice_N1~sh9KKU",
+                        "value": "choice_N1~sh9KKU"
+                    },
+                    {
+                        "id": "sli_V11d3qYKL.choice_4JzohctF8.id",
+                        "label": "choice_4JzohctF8",
+                        "value": "choice_4JzohctF8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JzohctF8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What does tailoring your presentation mean?",
+            "explanation": "Select the correct answer below.",
+            "klf": "The content you use in your presentation must suit the type of audience you’ll be presenting to.",
+            "tips": "One of the factors that should impact your presentation the most is the level of knowledge of your audience. Are they experts on the subject?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vklsn5KFI": "Changing the font",
+            "choice_N1~sh9KKU": "Changing your tone of voice",
+            "choice_4JzohctF8": "Customising the content to suit the audience"
+        },
+        "fr": {
+            "header": "Que signifie adapter votre présentation ?",
+            "explanation": "Sélectionnez la réponse correcte ci-dessous.",
+            "klf": "Le contenu que vous utilisez dans votre présentation doit correspondre au type d'auditoire devant lequel vous ferez votre présentation.",
+            "tips": "L'un des facteurs qui devraient le plus influer sur votre présentation est le niveau de connaissance de votre auditoire. Sont-ils des experts sur le sujet ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vklsn5KFI": "Changer la police",
+            "choice_N1~sh9KKU": "Changer le ton de votre voix",
+            "choice_4JzohctF8": "Personnaliser le contenu en fonction de l'auditoire"
+        },
+        "de": {
+            "header": "What does tailoring your presentation mean?",
+            "explanation": "Select the correct answer below.",
+            "klf": "The content you use in your presentation must suit the type of audience you’ll be presenting to.",
+            "tips": "One of the factors that should impact your presentation the most is the level of knowledge of your audience. Are they experts on the subject?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vklsn5KFI": "Changing the font",
+            "choice_N1~sh9KKU": "Changing your tone of voice",
+            "choice_4JzohctF8": "Customising the content to suit the audience"
+        },
+        "th": {
+            "header": "What does tailoring your presentation mean?",
+            "explanation": "Select the correct answer below.",
+            "klf": "The content you use in your presentation must suit the type of audience you’ll be presenting to.",
+            "tips": "One of the factors that should impact your presentation the most is the level of knowledge of your audience. Are they experts on the subject?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vklsn5KFI": "Changing the font",
+            "choice_N1~sh9KKU": "Changing your tone of voice",
+            "choice_4JzohctF8": "Customising the content to suit the audience"
+        }
+    }
+}

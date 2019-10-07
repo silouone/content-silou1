@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:01:55.499Z",
+            "updatedAt": "2019-07-19T13:00:31.502Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJXIulsRL"
+            ],
+            "modifiedBy": "marcmdm",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VybUfRBJD",
+        "universalRef": "sli_VybUfRBJD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VybUfRBJD.choice_EyZwGCHkP.id",
+                        "label": "choice_EyZwGCHkP",
+                        "value": "choice_EyZwGCHkP"
+                    },
+                    {
+                        "id": "sli_VybUfRBJD.choice_Vk7wfAH1D.id",
+                        "label": "choice_Vk7wfAH1D",
+                        "value": "choice_Vk7wfAH1D"
+                    },
+                    {
+                        "id": "sli_VybUfRBJD.choice_4ye7wGCSyD.id",
+                        "label": "choice_4ye7wGCSyD",
+                        "value": "choice_4ye7wGCSyD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyZwGCHkP",
+                        "choice_Vk7wfAH1D",
+                        "choice_4ye7wGCSyD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to present new learning and training to your team?",
+            "explanation": "Select the correct answers below.",
+            "klf": "The best way to present learning and training to your team is to break down the information into digestible chunks. Repeat the information often and give your team time to practise.",
+            "tips": "‘Tell me and I forget. Teach me and I remember. Involve me and I learn.’ (Benjamin Franklin)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyZwGCHkP": "In small chunks",
+            "choice_Vk7wfAH1D": "Repeat it often",
+            "choice_4ye7wGCSyD": "Give them time to practise"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure façon de présenter de nouveaux apprentissages et formations à votre équipe ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "La meilleure façon de présenter apprentissages et formations à votre équipe consiste à décortiquer les informations en partie assimilables. Répétez souvent les informations et donnez à votre équipe le temps de s'entrainer.",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyZwGCHkP": "En petites parties",
+            "choice_Vk7wfAH1D": "En les répétant souvent",
+            "choice_4ye7wGCSyD": "En leur donnant le temps de s'entrainer"
+        },
+        "de": {
+            "header": "What’s the best way to present new learning and training to your team? ",
+            "explanation": "Select the correct answers below.",
+            "klf": "The best way to present learning and training to your team is to break down the information into digestible chunks. Repeat the information often and give your team time to practise.",
+            "tips": "‘Tell me and I forget. Teach me and I remember. Involve me and I learn.’ (Benjamin Franklin)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyZwGCHkP": "In small chunks",
+            "choice_Vk7wfAH1D": "Repeat it often",
+            "choice_4ye7wGCSyD": "Give them time to practise"
+        },
+        "th": {
+            "header": "What’s the best way to present new learning and training to your team? ",
+            "explanation": "Select the correct answers below.",
+            "klf": "The best way to present learning and training to your team is to break down the information into digestible chunks. Repeat the information often and give your team time to practise.",
+            "tips": "‘Tell me and I forget. Teach me and I remember. Involve me and I learn.’ (Benjamin Franklin)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyZwGCHkP": "In small chunks",
+            "choice_Vk7wfAH1D": "Repeat it often",
+            "choice_4ye7wGCSyD": "Give them time to practise"
+        }
+    }
+}

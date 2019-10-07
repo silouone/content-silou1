@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-16T17:26:42.340Z",
+            "updatedAt": "2019-02-21T16:55:30.343Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ2boipbL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_Ny4HJIdzU",
+        "universalRef": "sli_Ny4HJIdzU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ny4HJIdzU.choice_NJq8J8OGU.id",
+                        "label": "choice_NJq8J8OGU",
+                        "value": "choice_NJq8J8OGU"
+                    },
+                    {
+                        "id": "sli_Ny4HJIdzU.choice_E1iIJIuML.id",
+                        "label": "choice_E1iIJIuML",
+                        "value": "choice_E1iIJIuML"
+                    },
+                    {
+                        "id": "sli_Ny4HJIdzU.choice_NyTIkLOGL.id",
+                        "label": "choice_NyTIkLOGL",
+                        "value": "choice_NyTIkLOGL"
+                    },
+                    {
+                        "id": "sli_Ny4HJIdzU.choice_VJ0IJ8-G8.id",
+                        "label": "choice_VJ0IJ8-G8",
+                        "value": "choice_VJ0IJ8-G8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1iIJIuML",
+                        "choice_NJq8J8OGU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you tell colleagues about green, amber and red behaviours?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You should talk to teams about green, amber and red behaviours in the workplace. How else do you expect them to understand how these behaviours can affect the company and its customers? By talking about it, everyone is encouraged to take responsibility.",
+            "tips": "You can use coloured alerts to classify behaviours, but also to change them! For example by labelling dishes according to their nutritional value. It's what a Massachusetts hospital did in its cafeteria, and people's choice of red-labelled items magically decreased by 20%. You want fries with that? Nah, they're red-lighted!",
+            "clue": "Go for communication, always.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJq8J8OGU": "Talk about how they can affect customers",
+            "choice_E1iIJIuML": "Discuss them together",
+            "choice_NyTIkLOGL": "Send them a detailed memo",
+            "choice_VJ0IJ8-G8": "It's a confidential management technique"
+        },
+        "fr": {
+            "header": "Que devez-vous dire à vos collaborateurs à propos des comportements verts, orange et rouges ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Vous devez parler des comportements verts, orange et rouges au travail à vos collaborateurs. Comment leur faire comprendre que ces comportements ont un impact sur l'entreprise et ses clients ? Le fait d'en discuter incite chacun à prendre ses responsabilités.",
+            "tips": "Vous pouvez utiliser des alertes de couleur pour classer leurs comportements, mais également les changer ! Par exemple, en apposant des étiquettes aux plats en fonction de leur valeur nutritionnelle. C'est ce qu'a fait la cafétéria d'un hôpital du Massachusetts : et comme par magie, la consommation de plats étiquetés en rouge a diminué de 20 %. Vous voulez vraiment des frites avec ça ? Non, elles sont rouges !",
+            "clue": "Go for communication, always.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJq8J8OGU": "Parler de l'impact sur les clients",
+            "choice_E1iIJIuML": "En discuter ensemble",
+            "choice_NyTIkLOGL": "Leur envoyer une note détaillée",
+            "choice_VJ0IJ8-G8": "C'est une technique de management confidentielle"
+        },
+        "de": {
+            "header": "Was sollten Sie Ihren Kollegen über grünes, bernsteinfarbenes und rotes Verhalten erzählen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Sie sollten mit Teams über grünes, bernsteinfarbenes und rotes Verhalten am Arbeitsplatz sprechen. Wie können Sie sonst erwarten, dass sie verstehen, wie sich diese Verhaltensweisen auf das Unternehmen und seine Kunden auswirken können? Indem Sie darüber reden, wird jeder ermutigt, Verantwortung zu übernehmen.",
+            "tips": "Sie können farbige Alarme verwenden, um Verhalten zu klassifizieren, aber auch zu ändern! Zum Beispiel durch die Kennzeichnung von Speisen nach ihrem Nährwert. Dies hat ein Massachusetts-Krankenhaus in seiner Cafeteria getan und die Auswahl rot beschrifteter Gegenstände fiel um 20%. Wollen Sie Pommes als Beilage? Ne, sie sind rot beleuchtet!",
+            "clue": "Entscheiden Sie sich immer für Kommunikation.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJq8J8OGU": "sprechen Sie darüber, wie sie Kunden beeinflussen können",
+            "choice_E1iIJIuML": "besprechen Sie diese zusammen",
+            "choice_NyTIkLOGL": "senden Sie ihnen ein ausführliches Memo",
+            "choice_VJ0IJ8-G8": "Es ist eine vertrauliche Managementtechnik"
+        },
+        "th": {
+            "header": "What should you tell colleagues about green, amber and red behaviours?",
+            "explanation": "Select the correct answers below.",
+            "klf": "You should talk to teams about green, amber and red behaviours in the workplace. How else do you expect them to understand how these behaviours can affect the company and its customers? By talking about it, everyone is encouraged to take responsibility.",
+            "tips": "You can use coloured alerts to classify behaviours, but also to change them! For example by labelling dishes according to their nutritional value. It's what a Massachusetts hospital did in its cafeteria, and people's choice of red-labelled items magically decreased by 20%. You want fries with that? Nah, they're red-lighted!",
+            "clue": "Go for communication, always.",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJq8J8OGU": "Talk about how they can affect customers",
+            "choice_E1iIJIuML": "Discuss them together",
+            "choice_NyTIkLOGL": "Send them a detailed memo",
+            "choice_VJ0IJ8-G8": "It's a confidential management technique"
+        }
+    }
+}

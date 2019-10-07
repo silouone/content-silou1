@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-07T15:29:30.611Z",
+            "updatedAt": "2019-04-01T14:15:15.271Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJ0Qo~5UI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_N1L28QqII",
+        "universalRef": "sli_N1L28QqII",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_N1L28QqII.choice_EyJCUmqUI.id",
+                        "label": "choice_EyJCUmqUI",
+                        "value": "choice_EyJCUmqUI"
+                    },
+                    {
+                        "id": "sli_N1L28QqII.choice_NyW08Xc88.id",
+                        "label": "choice_NyW08Xc88",
+                        "value": "choice_NyW08Xc88"
+                    },
+                    {
+                        "id": "sli_N1L28QqII.choice_VJNWwX9L8.id",
+                        "label": "choice_VJNWwX9L8",
+                        "value": "choice_VJNWwX9L8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyW08Xc88"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's an efficient and simple way to improve your everyday life?",
+            "explanation": "Select the correct answer below.",
+            "klf": "It’s easy to get acclimatised to the good things in life and only see the bad things. Think about (or better, write down) three things each day for which you’re grateful. You might experience positive changes in your everyday life, even though nothing much has changed!",
+            "tips": "There are many scientific proofs (just check <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0017018&amp;type=printable\" target=\"_blank\">here</a>, <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0039211&amp;type=printable\" target=\"_blank\">there</a>, or even <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0075509&amp;type=printable\" target=\"_blank\">here</a>) that altruistic gifts bring at least as much happiness to the one who gives than to the one who receives. But you don't need this information to feel deep inside that a gift transforms money into happiness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJCUmqUI": "Buying one new thing every day",
+            "choice_NyW08Xc88": "Thinking about little things you are grateful for",
+            "choice_VJNWwX9L8": "Compare what you have to what others have"
+        },
+        "fr": {
+            "header": "Quel est un moyen simple et efficace d’améliorer votre quotidien ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Il est facile de s’acclimater aux bonnes choses de la vie et de ne voir que les mauvaises. Pensez (ou mieux, notez) chaque jour trois choses pour lesquelles vous êtes reconnaissant. Vous pouvez expérimenter des changements positifs dans votre vie quotidienne, même si peu de choses ont changé !",
+            "tips": "Il existe de nombreuses preuves scientifiques (consultez simplement <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0017018&amp;type=printable\" target=\"_blank\">ici</a> , <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0039211&amp;type=printable\" target=\"_blank\">là</a> ou même <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0075509&amp;type=printable\" target=\"_blank\">ici</a> ) que les dons altruistes apportent au moins autant de bonheur à celui qui le donne qu'à celui qui le reçoit. Mais vous n'avez pas besoin de cette information pour sentir au fond de vous qu'un cadeau transforme l'argent en bonheur.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJCUmqUI": "Acheter une nouvelle chose chaque jour",
+            "choice_NyW08Xc88": "Penser à de petites choses pour lesquelles vous êtes reconnaissant",
+            "choice_VJNWwX9L8": "Comparer ce que vous avez à ce que les autres ont"
+        },
+        "de": {
+            "header": "What's an efficient and simple way to improve your everyday life?",
+            "explanation": "Select the correct answer below.",
+            "klf": "It’s easy to get acclimatised to the good things in life and only see the bad things. Think about (or better, write down) three things each day for which you’re grateful. You might experience positive changes in your everyday life, even though nothing much has changed!",
+            "tips": "There are many scientific proofs (just check <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0017018&amp;type=printable\" target=\"_blank\">here</a>, <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0039211&amp;type=printable\" target=\"_blank\">there</a>, or even <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0075509&amp;type=printable\" target=\"_blank\">here</a>) that altruistic gifts bring at least as much happiness to the one who gives than to the one who receives. But you don't need this information to feel deep inside that a gift transforms money into happiness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJCUmqUI": "Buying one new thing every day",
+            "choice_NyW08Xc88": "Thinking about little things you are grateful for",
+            "choice_VJNWwX9L8": "Compare what you have to what others have"
+        },
+        "th": {
+            "header": "What's an efficient and simple way to improve your everyday life?",
+            "explanation": "Select the correct answer below.",
+            "klf": "It’s easy to get acclimatised to the good things in life and only see the bad things. Think about (or better, write down) three things each day for which you’re grateful. You might experience positive changes in your everyday life, even though nothing much has changed!",
+            "tips": "There are many scientific proofs (just check <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0017018&amp;type=printable\" target=\"_blank\">here</a>, <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0039211&amp;type=printable\" target=\"_blank\">there</a>, or even <a href=\"https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0075509&amp;type=printable\" target=\"_blank\">here</a>) that altruistic gifts bring at least as much happiness to the one who gives than to the one who receives. But you don't need this information to feel deep inside that a gift transforms money into happiness.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyJCUmqUI": "Buying one new thing every day",
+            "choice_NyW08Xc88": "Thinking about little things you are grateful for",
+            "choice_VJNWwX9L8": "Compare what you have to what others have"
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:53:08.308Z",
+            "updatedAt": "2019-08-01T07:53:08.308Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny7ja6vMD"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VkBWYYizv",
+        "universalRef": "sli_VkBWYYizv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkBWYYizv.choice_Ny9zYtjMP.id",
+                        "label": "choice_Ny9zYtjMP",
+                        "value": "choice_Ny9zYtjMP"
+                    },
+                    {
+                        "id": "sli_VkBWYYizv.choice_VyHOFFjMD.id",
+                        "label": "choice_VyHOFFjMD",
+                        "value": "choice_VyHOFFjMD"
+                    },
+                    {
+                        "id": "sli_VkBWYYizv.choice_EJcOtYsGP.id",
+                        "label": "choice_EJcOtYsGP",
+                        "value": "choice_EJcOtYsGP"
+                    },
+                    {
+                        "id": "sli_VkBWYYizv.choice_VJRuFKiGP.id",
+                        "label": "choice_VJRuFKiGP",
+                        "value": "choice_VJRuFKiGP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJcOtYsGP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "At the start of an interview, what should you encourage the candidate to do?",
+            "explanation": "Select the correct answer below.",
+            "klf": "During an interview, encourage the candidate to open up right from the start by making them feel at ease with you.",
+            "tips": "Smiling is an obvious yet extremely efficient way to make a candidate feel at ease.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny9zYtjMP": "Go through their CV",
+            "choice_VyHOFFjMD": "Rest",
+            "choice_EJcOtYsGP": "Open up",
+            "choice_VJRuFKiGP": "Think about their questions"
+        },
+        "fr": {
+            "header": "Au début d'un entretien, que devriez-vous encourager le candidat à faire ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Au cours d'un entretien, encouragez le candidat à s'ouvrir dès le début en le mettant à l'aise face à vous.",
+            "tips": "Le sourire est un moyen évident mais extrêmement efficace de mettre un candidat à l’aise.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny9zYtjMP": "Passer en revue son CV",
+            "choice_VyHOFFjMD": "Se reposer",
+            "choice_EJcOtYsGP": "S'ouvrir",
+            "choice_VJRuFKiGP": "Réfléchir aux questions qu'il souhaite poser"
+        },
+        "de": {
+            "header": "At the start of an interview, what should you encourage the candidate to do?",
+            "explanation": "Select the correct answer below.",
+            "klf": "During an interview, encourage the candidate to open up right from the start by making them feel at ease with you.",
+            "tips": "Smiling is an obvious yet extremely efficient way to make a candidate feel at ease.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny9zYtjMP": "Go through their CV",
+            "choice_VyHOFFjMD": "Rest",
+            "choice_EJcOtYsGP": "Open up",
+            "choice_VJRuFKiGP": "Think about their questions"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ny9zYtjMP": "",
+            "choice_VyHOFFjMD": "",
+            "choice_EJcOtYsGP": "",
+            "choice_VJRuFKiGP": ""
+        }
+    }
+}

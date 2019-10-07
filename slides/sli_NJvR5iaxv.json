@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-09T16:09:07.846Z",
+            "updatedAt": "2019-07-30T10:15:13.128Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ8W9splw"
+            ],
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJvR5iaxv",
+        "universalRef": "sli_NJvR5iaxv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel77655",
+                        "items": [
+                            {
+                                "text": "choice_NJedbosaxP",
+                                "value": "choice_NJedbosaxP"
+                            },
+                            {
+                                "text": "choice_NJbdbiipeP",
+                                "value": "choice_NJbdbiipeP"
+                            },
+                            {
+                                "text": "choice_4JINoj6gD",
+                                "value": "choice_4JINoj6gD"
+                            },
+                            {
+                                "text": "choice_4yh4joalP",
+                                "value": "choice_4yh4joalP"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel77655",
+                        "answers": [
+                            "choice_4JINoj6gD"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": null
+    },
+    "locales": {
+        "en": {
+            "header": "Why is it so important to understand your company's products?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Knowing your stuff gets the customer onside. You should have a detailed knowledge of what you’ve got –your product range and its features. You should also know your policies, as well as having a wider knowledge of the business and the market landscape.",
+            "tips": "What should you remember as a salesperson, while highlighting the features of a product? Focus on what the customer needs, not on what YOU like! <a href=\"https://www.thebalancesmb.com/benefits-of-product-knowledge-2890302\" target=\"_blank\">Click here to read more.</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Understanding your company’s products will inspire {{sel77655}} in your customers making them more likely to trust you and purchase your products or services.",
+            "choice_NJedbosaxP": "professionalism",
+            "choice_NJbdbiipeP": "happiness",
+            "choice_4JINoj6gD": "confidence",
+            "choice_4yh4joalP": "friendliness"
+        },
+        "fr": {
+            "header": "Pourquoi est-il si important de comprendre les produits de votre entreprise ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Connaître votre sujet convaincra votre client. Vous devez avoir une connaissance détaillée de ce que vous avez : votre gamme de produits et ses caractéristiques. Vous devez également connaître vos politiques et avoir une compréhension plus large du marché.",
+            "tips": "En tant que vendeur, de quoi devez-vous vous souvenir lorsque vous soulignez les caractéristiques d'un produit ? Concentrez-vous sur ce dont le client a besoin, et non sur ce que VOUS aimez ! <a href=\"https://www.thebalancesmb.com/benefits-of-product-knowledge-2890302\" target=\"_blank\">Cliquez ici pour en lire plus.</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La compréhension des produits de votre entreprise inspirera {{sel77655}} chez vos clients, ce qui les poussera davantage à vous faire confiance et à acheter vos produits ou services.",
+            "choice_NJedbosaxP": "du professionnalisme",
+            "choice_NJbdbiipeP": "du bonheur",
+            "choice_4JINoj6gD": "de la confiance",
+            "choice_4yh4joalP": "de la convivialité"
+        },
+        "de": {
+            "header": "Why is it so important to understand your company's products?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Knowing your stuff gets the customer onside. You should have a detailed knowledge of what you’ve got –your product range and its features. You should also know your policies, as well as having a wider knowledge of the business and the market landscape.",
+            "tips": "What should you remember as a salesperson, while highlighting the features of a product? Focus on what the customer needs, not on what YOU like! <a href=\"https://www.thebalancesmb.com/benefits-of-product-knowledge-2890302\" target=\"_blank\">Click here to read more.</a>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Understanding your company’s products will inspire {{sel77655}} in your customers making them more likely to trust you and purchase your products or services.",
+            "choice_NJedbosaxP": "professionalism",
+            "choice_NJbdbiipeP": "happiness",
+            "choice_4JINoj6gD": "confidence",
+            "choice_4yh4joalP": "friendliness"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel77655}}",
+            "choice_NJedbosaxP": "",
+            "choice_NJbdbiipeP": "",
+            "choice_4JINoj6gD": "",
+            "choice_4yh4joalP": ""
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-09T10:31:41.719Z",
+            "updatedAt": "2019-04-09T14:26:50.547Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkAI674tI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VktVTLHYL",
+        "universalRef": "sli_VktVTLHYL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VktVTLHYL.choice_EJgnklDBFL.id",
+                        "label": "choice_EJgnklDBFL",
+                        "value": "choice_EJgnklDBFL",
+                        "media": "med_Ek2klDHFL"
+                    },
+                    {
+                        "id": "sli_VktVTLHYL.choice_Eye6NxPSt8.id",
+                        "label": "choice_Eye6NxPSt8",
+                        "value": "choice_Eye6NxPSt8",
+                        "media": "med_N1TElwrKU"
+                    },
+                    {
+                        "id": "sli_VktVTLHYL.choice_E1eetbPHKL.id",
+                        "label": "choice_E1eetbPHKL",
+                        "value": "choice_E1eetbPHKL",
+                        "media": "med_V1gFbvSYI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJgnklDBFL",
+                        "choice_Eye6NxPSt8",
+                        "choice_E1eetbPHKL"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EkvlzPBFL",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is likely to happen?",
+            "explanation": "Select the correct answers.",
+            "klf": "Not being transparent with your team may entail many unwanted effects: fake news, rumors, doubts and fears atmosphere… whether the news is a good one or a bad one, you don't want to make it a bad surprise.",
+            "tips": "Before leaving his father Aegeus, king of Athens, to fight the Minotaur, Theseus promised him he would come back victorious with white sails on his boat. But the hero forgot to put up the white sails instead of the black ones, so his father, believing he was dead, committed suicide, throwing himself off a cliff of Sounio and into the sea, thus causing this body of water to be named Aegean Sea: miscommunication is the mother of seas that tear men apart.",
+            "clue": "",
+            "context_title": "Surprise!",
+            "context_description": "Your team will soon be growing with 3 new jobs created. Which is great news for you! But how is your team going to take this news? You never know…since you're a really bad manager, you'd better not tell anyone before it really happens.",
+            "context_media_description": "",
+            "choice_EJgnklDBFL": "The rumor spreads that all your team is fired",
+            "choice_Eye6NxPSt8": "An atmosphere of doubts and fears sets up",
+            "choice_E1eetbPHKL": "The good news turns into a bad surprise"
+        },
+        "fr": {
+            "header": "Quelle situation est la plus susceptible d'arriver ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Manquer de transparence envers votre équipe peut entraîner de nombreux effets indésirables : fausses nouvelles, rumeurs, doutes et atmosphère de peur… Que les nouvelles soient bonnes ou mauvaises, vous ne voulez pas en faire une mauvaise surprise.",
+            "tips": "Avant de quitter son père Égée, roi d’Athènes, pour se battre contre le Minotaure, Thésée lui promit de revenir victorieux, avec des voiles blanches sur son bateau. Mais le héros a oublié de monter les voiles blanches au lieu des voiles noires. Son père, croyant qu'il était mort, s'est suicidé, en se jetant à la mer du haut d'une falaise du Cap Sounion, ce qui donna à cette mer le nom de Mer Egée. Le manque de communication est la mère des océans qui déchirent les hommes.",
+            "clue": "",
+            "context_title": "Surprise !",
+            "context_description": "Votre équipe va bientôt s'agrandir et 3 nouveaux emplois ont été créés. Quelle bonne nouvelle pour vous ! Mais comment votre équipe va-t-elle prendre cette nouvelle ? On ne sait jamais… Puisque vous êtes un très mauvais manager, vous feriez mieux de ne le dire à personne avant que cela ne se mette réellement en place.",
+            "context_media_description": "",
+            "choice_EJgnklDBFL": "La rumeur se répand que toute votre équipe est renvoyée",
+            "choice_Eye6NxPSt8": "Une atmosphère de doutes et de peurs s'installe",
+            "choice_E1eetbPHKL": "La bonne nouvelle se transforme en une mauvaise surprise"
+        },
+        "de": {
+            "header": "What is likely to happen?",
+            "explanation": "Select the correct answers.",
+            "klf": "Not being transparent with your team may entail many unwanted effects: fake news, rumors, doubts and fears atmosphere… whether the news is a good one or a bad one, you don't want to make it a bad surprise.",
+            "tips": "Before leaving his father Aegeus, king of Athens, to fight the Minotaur, Theseus promised him he would come back victorious with white sails on his boat. But the hero forgot to put up the white sails instead of the black ones, so his father, believing he was dead, committed suicide, throwing himself off a cliff of Sounio and into the sea, thus causing this body of water to be named Aegean Sea: miscommunication is the mother of seas that tear men apart.",
+            "clue": "",
+            "context_title": "Surprise!",
+            "context_description": "Your team will soon be growing with 3 new jobs created. Which is great news for you! But how is your team going to take this news? You never know…since you're a really bad manager, you'd better not tell anyone before it really happens.",
+            "context_media_description": "",
+            "choice_EJgnklDBFL": "The rumor spreads that all your team is fired",
+            "choice_Eye6NxPSt8": "An atmosphere of doubts and fears sets up",
+            "choice_E1eetbPHKL": "The good news turns into a bad surprise"
+        },
+        "th": {
+            "header": "What is likely to happen?",
+            "explanation": "Select the correct answers.",
+            "klf": "Not being transparent with your team may entail many unwanted effects: fake news, rumors, doubts and fears atmosphere… whether the news is a good one or a bad one, you don't want to make it a bad surprise.",
+            "tips": "Before leaving his father Aegeus, king of Athens, to fight the Minotaur, Theseus promised him he would come back victorious with white sails on his boat. But the hero forgot to put up the white sails instead of the black ones, so his father, believing he was dead, committed suicide, throwing himself off a cliff of Sounio and into the sea, thus causing this body of water to be named Aegean Sea: miscommunication is the mother of seas that tear men apart.",
+            "clue": "",
+            "context_title": "Surprise!",
+            "context_description": "Your team will soon be growing with 3 new jobs created. Which is great news for you! But how is your team going to take this news? You never know…since you're a really bad manager, you'd better not tell anyone before it really happens.",
+            "context_media_description": "",
+            "choice_EJgnklDBFL": "The rumor spreads that all your team is fired",
+            "choice_Eye6NxPSt8": "An atmosphere of doubts and fears sets up",
+            "choice_E1eetbPHKL": "The good news turns into a bad surprise"
+        }
+    }
+}

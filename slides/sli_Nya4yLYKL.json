@@ -1,0 +1,112 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-12T09:55:35.074Z",
+            "updatedAt": "2019-04-12T12:52:03.012Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkmNpQ4YL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_Nya4yLYKL",
+        "universalRef": "sli_Nya4yLYKL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Nya4yLYKL.choice_4yLLJLKKU.id",
+                        "label": "choice_4yLLJLKKU",
+                        "value": "choice_4yLLJLKKU"
+                    },
+                    {
+                        "id": "sli_Nya4yLYKL.choice_41lv1IFtI.id",
+                        "label": "choice_41lv1IFtI",
+                        "value": "choice_41lv1IFtI"
+                    },
+                    {
+                        "id": "sli_Nya4yLYKL.choice_NJ~H-uFYI.id",
+                        "label": "choice_NJ~H-uFYI",
+                        "value": "choice_NJ~H-uFYI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41lv1IFtI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can we stop the spread of anxiety?",
+            "explanation": "Select the correct answer.",
+            "klf": "Always communicate urgency calmly, without spreading anxiety.",
+            "tips": "Anxiety disorders are the most common mental conditions in the United States.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yLLJLKKU": "Ignore the source of anxiety",
+            "choice_41lv1IFtI": "Be aware that you can spread anxiety and communicate calmly",
+            "choice_NJ~H-uFYI": "Inform others about the source of anxiety as quickly as possible to share the load",
+            "choice_E1-B1LFKU": "Inform others about the source of anxiety as quickly as possible to share the load"
+        },
+        "fr": {
+            "header": "Comment arrêter la propagation de l'anxiété ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Communiquez toujours l'urgence calmement, sans propager l'anxiété.",
+            "tips": "Les troubles anxieux sont les troubles mentaux les plus courants aux États-Unis.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yLLJLKKU": "En ignorant la source d'anxiété",
+            "choice_41lv1IFtI": "En sachant qu'on peut véhiculer l'anxiété et en communiquant calmement",
+            "choice_NJ~H-uFYI": "En informant les autres sur la source de l'anxiété le plus rapidement possible pour partager le fardeau",
+            "choice_E1-B1LFKU": ""
+        },
+        "de": {
+            "header": "How can we stop the spread of anxiety?",
+            "explanation": "Select the correct answer.",
+            "klf": "Always communicate urgency calmly, without spreading anxiety.",
+            "tips": "Anxiety disorders are the most common mental conditions in the United States.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yLLJLKKU": "Ignore the source of anxiety",
+            "choice_41lv1IFtI": "Be aware that you can spread anxiety and communicate calmly",
+            "choice_NJ~H-uFYI": "Inform others about the source of anxiety as quickly as possible to share the load",
+            "choice_E1-B1LFKU": ""
+        },
+        "th": {
+            "header": "How can we stop the spread of anxiety?",
+            "explanation": "Select the correct answer.",
+            "klf": "Always communicate urgency calmly, without spreading anxiety.",
+            "tips": "Anxiety disorders are the most common mental conditions in the United States.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4yLLJLKKU": "Ignore the source of anxiety",
+            "choice_41lv1IFtI": "Be aware that you can spread anxiety and communicate calmly",
+            "choice_NJ~H-uFYI": "Inform others about the source of anxiety as quickly as possible to share the load",
+            "choice_E1-B1LFKU": "Inform others about the source of anxiety as quickly as possible to share the load"
+        }
+    }
+}

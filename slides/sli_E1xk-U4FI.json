@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T15:32:16.025Z",
+            "updatedAt": "2019-04-18T09:54:10.062Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkhdSmEKI"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_E1xk-U4FI",
+        "universalRef": "sli_E1xk-U4FI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1xk-U4FI.choice_NJgXJd8Et8.id",
+                        "label": "choice_NJgXJd8Et8",
+                        "value": "choice_NJgXJd8Et8",
+                        "media": "med_VJ7Jd8NK8"
+                    },
+                    {
+                        "id": "sli_E1xk-U4FI.choice_EkzZbd8VtL.id",
+                        "label": "choice_EkzZbd8VtL",
+                        "value": "choice_EkzZbd8VtL",
+                        "media": "med_N1bbWuLEYL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkzZbd8VtL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? It is arrogant and unpleasant to have a colleague introduce you to someone else.",
+            "explanation": "Select the correct answer.",
+            "klf": "It would be arrogant to toot your own horn, but letting someone introduce you prevents you to come across as boastful, and yet it ensures that the people you wish to influence know about your qualifications and experience.",
+            "tips": "It also works on LinkedIn! There's a special process through which you can ask a LinkedIn connection to introduce you to someone you're not connected to.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJgXJd8Et8": "TRUE",
+            "choice_EkzZbd8VtL": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Être présenté à quelqu'un par un collègue est arrogant et désagréable.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il serait arrogant de vous vanter, mais laisser quelqu'un vous présenter vous permet d'éviter de paraître prétentieux, tout en garantissant que les personnes que vous souhaitez influencer connaissent vos qualifications et votre expérience.",
+            "tips": "Cela fonctionne aussi sur LinkedIn ! Il existe un processus spécial qui vous permet de demander à une connaissance LinkedIn de vous présenter à une personne qui ne fait pas partie de vos contacts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJgXJd8Et8": "VRAI",
+            "choice_EkzZbd8VtL": "FAUX"
+        },
+        "de": {
+            "header": "True or false? It is arrogant and unpleasant to have a colleague introduce you to someone else.",
+            "explanation": "Select the correct answer.",
+            "klf": "It would be arrogant to toot your own horn, but letting someone introduce you prevents you to come across as boastful, and yet it ensures that the people you wish to influence know about your qualifications and experience.",
+            "tips": "It also works on LinkedIn! There's a special process through which you can ask a LinkedIn connection to introduce you to someone you're not connected to.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJgXJd8Et8": "True",
+            "choice_EkzZbd8VtL": "False"
+        },
+        "th": {
+            "header": "True or false? It is arrogant and unpleasant to have a colleague introduce you to someone else.",
+            "explanation": "Select the correct answer.",
+            "klf": "It would be arrogant to toot your own horn, but letting someone introduce you prevents you to come across as boastful, and yet it ensures that the people you wish to influence know about your qualifications and experience.",
+            "tips": "It also works on LinkedIn! There's a special process through which you can ask a LinkedIn connection to introduce you to someone you're not connected to.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJgXJd8Et8": "TRUE",
+            "choice_EkzZbd8VtL": "FALSE"
+        }
+    }
+}

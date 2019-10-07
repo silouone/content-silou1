@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T14:05:26.165Z",
+            "updatedAt": "2019-02-14T11:11:12.425Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJz62D5VI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4JdMkO5N8",
+        "universalRef": "sli_4JdMkO5N8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JdMkO5N8.choice_E1x6Pyu94U.id",
+                        "label": "choice_E1x6Pyu94U",
+                        "value": "choice_E1x6Pyu94U",
+                        "media": "med_Vypwk-5EU"
+                    },
+                    {
+                        "id": "sli_4JdMkO5N8.choice_41gLtkO9EU.id",
+                        "label": "choice_41gLtkO9EU",
+                        "value": "choice_41gLtkO9EU",
+                        "media": "med_E1IKk-c48"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41gLtkO9EU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "If you have an unpleasant task to do, it's better to delay it until the end of the day and start with the tasks you like better. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "It's better to start with the unpleasant task, so that you can get it off your mind and agenda quickly. If you're proactive about it early in the day, you'll be more efficient and won't have to carry it all day as an extra mental load.",
+            "tips": "You can celebrate procrastination day on March 25<sup>th</sup>, an unofficial holiday invented by the French writer David d'Equainville... but there also is a ‘Fight procrastination’ day, on September 6<sup>th</sup>!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x6Pyu94U": "TRUE",
+            "choice_41gLtkO9EU": "FALSE"
+        },
+        "fr": {
+            "header": "Si vous avez une tâche désagréable à faire, il est préférable de la reporter à la fin de la journée et de commencer par les tâches que vous préférez. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Il est préférable de commencer par la tâche désagréable afin de l'éffacer rapidement de votre esprit et de votre agenda. Si vous êtes proactif et la réalisez en début de journée, vous serez plus efficace et ne la traînerez pas toute la journée, vous évitant ainsi une charge mentale supplémentaire.",
+            "tips": "Vous pouvez célébrer la journée de la procrastination le 25 Mars, un jour férié non officiel inventé par l'écrivain français David d'Equainville… mais il existe également une journée de la « Lutte contre la procrastination », le 6 Septembre !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x6Pyu94U": "Vrai",
+            "choice_41gLtkO9EU": "Faux"
+        },
+        "de": {
+            "header": "Wenn Sie eine unangenehme Aufgabe haben, ist es besser, sie bis zum Ende des Tages zu verschieben und mit den Aufgaben zu beginnen, die Ihnen lieber sind. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Es ist besser, mit der unangenehmen Aufgabe zu beginnen, damit Sie sie schnell aus den Augen verlieren. Wenn Sie früh am Tag proaktiv sind, sind Sie effizienter und müssen es nicht den ganzen Tag als zusätzliche geistige Belastung mit sich herum tragen.",
+            "tips": "Sie können den Tag des Aufschiebens am <sup>25.</sup> März feiern, einen inoffiziellen Feiertag von dem Französisch Schriftsteller David d&#39;Equainville erfunden ... aber es gibt auch einen ‚Kampf Verschleppungs Tag, am 6. <sup>September!</sup>",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x6Pyu94U": "Wahr",
+            "choice_41gLtkO9EU": "Falsch"
+        },
+        "th": {
+            "header": "If you have an unpleasant task to do, it's better to delay it until the end of the day and start with the tasks you like better. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "It's better to start with the unpleasant task, so that you can get it off your mind and agenda quickly. If you're proactive about it early in the day, you'll be more efficient and won't have to carry it all day as an extra mental load.",
+            "tips": "You can celebrate procrastination day on March 25<sup>th</sup>, an unofficial holiday invented by the French writer David d'Equainville... but there also is a ‘Fight procrastination’ day, on September 6<sup>th</sup>!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1x6Pyu94U": "TRUE",
+            "choice_41gLtkO9EU": "FALSE"
+        }
+    }
+}

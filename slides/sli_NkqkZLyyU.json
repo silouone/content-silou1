@@ -1,0 +1,113 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T11:17:34.999Z",
+            "updatedAt": "2019-01-21T16:09:30.963Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJXmUr80H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NkqkZLyyU",
+        "universalRef": "sli_NkqkZLyyU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_NkqkZLyyU.field_4yIZWLkJU.id",
+                        "type": "text",
+                        "name": "inp10885"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp10885",
+                        "answers": [
+                            "choice_NyG8W~L1kL",
+                            "choice_EkbgwchkI",
+                            "choice_Nknxv52JU",
+                            "choice_EykMPchkI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the essential key to being assertive?",
+            "explanation": "Type your answer.",
+            "klf": "Honesty is the key to being assertive… as long as you keep it relevant!",
+            "tips": "The second key principle of assertiveness is to stick to your bottom line. Decide what is and is not negotiable and stick to it! Using logic rather than threats or manipulation, rejecting the request rather than the person who requests and repeating yourself if you need to are some of the ways to get there.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp10885}} is the key to being assertive.",
+            "choice_NyG8W~L1kL": "Honesty",
+            "choice_EkbgwchkI": "Truthfulness",
+            "choice_Nknxv52JU": "Sincerity",
+            "choice_EykMPchkI": "Frankness"
+        },
+        "fr": {
+            "header": "Quel est l’élément essentiel de l’assertivité ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "L’honnêteté est la clé de l’assertivité… pourvu que vous en fassiez un élément pertinent !",
+            "tips": "Le deuxième principe de base de l’assertivité est de se tenir à son but ultime. Décider de ce qui est et de ce qui n’est pas négociable, et s’y tenir ! Utiliser la logique plutôt que la menace ou la manipulation, rejeter la demande plutôt que la personne qui formule une demande et vous répéter si nécessaire, constituent quelques astuces pour y parvenir.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp10885}} est la clé de l’assertivité.",
+            "choice_NyG8W~L1kL": "L’honnêteté",
+            "choice_EkbgwchkI": "La véracité",
+            "choice_Nknxv52JU": "La sincérité",
+            "choice_EykMPchkI": "La franchise"
+        },
+        "de": {
+            "header": "Was ist der wesentliche Schlüssel, um durchsetzungsfähig zu sein?",
+            "explanation": "Gib deine Antwort ein.",
+            "klf": "Ehrlichkeit ist der Schlüssel zum Durchsetzungsvermögen… solange Sie es relevant halten!",
+            "tips": "Das zweite Schlüsselprinzip der Durchsetzungsfähigkeit ist es, an Ihrem Endergebnis festzuhalten. Entscheiden Sie, was verhandelbar ist und was nicht und bleiben Sie dabei! Verwenden Sie eher Logik als Drohungen oder Manipulationen, lehnen Sie eher die Anfrage und nicht die Person, die Sie anfordert, ab, und wiederholen sie sich selbst, wenn Sie benötigen. Dies sind einige der Wege, um dorthin zu gelangen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp10885}} ist der Schlüssel zum Durchsetzungsvermögen.",
+            "choice_NyG8W~L1kL": "Ehrlichkeit",
+            "choice_EkbgwchkI": "Wahrhaftigkeit",
+            "choice_Nknxv52JU": "Aufrichtigkeit",
+            "choice_EykMPchkI": "Offenheit"
+        },
+        "th": {
+            "header": "อะไรคือกุญแจสำคัญของการกล้าแสดงออก",
+            "explanation": "พิมพ์คำตอบของคุณ",
+            "klf": "ความจริงใจคือกุญแจสำคัญของการกล้าแสดงออก...ตราบใดที่คุณยังตรงประเด็นอยู่!",
+            "tips": "หลักการสำคัญประการที่สองของการกล้าแสดงออกคือการยึดมั่นในการตัดสินใจของคุณ ตัดสินใจว่าสิ่งใดสามารถต่อรองได้และต่อรองไม่ได้และยึดตามนั้น! การใช้เหตุผลแทนที่จะเป็นการคุกคามหรือการขู่เข็ญ การปฏิเสธคำร้องขอแทนที่จะเป็นผู้ร้องขอและการย้ำความต้องการของคุณเป็นวิธีการบางอย่างที่จะไปถึงจุดนั้น",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp10885}} เป็นกุญแจสำคัญของการกล้าแสดงออก",
+            "choice_NyG8W~L1kL": "ความจริงใจ",
+            "choice_EkbgwchkI": "ความซื่อสัตย์",
+            "choice_Nknxv52JU": "ความบริสุทธิ์ใจ",
+            "choice_EykMPchkI": "ความตรงไปตรงมา"
+        }
+    }
+}

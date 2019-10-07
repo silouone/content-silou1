@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T16:10:30.881Z",
+            "updatedAt": "2019-03-15T16:54:43.190Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E18bzts8U"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EJ8k7FjIL",
+        "universalRef": "sli_EJ8k7FjIL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EJ8k7FjIL.choice_Vyal7tiL8.id",
+                        "label": "choice_Vyal7tiL8",
+                        "value": "choice_Vyal7tiL8"
+                    },
+                    {
+                        "id": "sli_EJ8k7FjIL.choice_VkRlQtoLU.id",
+                        "label": "choice_VkRlQtoLU",
+                        "value": "choice_VkRlQtoLU"
+                    },
+                    {
+                        "id": "sli_EJ8k7FjIL.choice_4y1~7FoIL.id",
+                        "label": "choice_4y1~7FoIL",
+                        "value": "choice_4y1~7FoIL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkRlQtoLU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of these is a specific target?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Targets must be specific: they have to express quantifiable results, and not simply be a list of tasks and responsibilities. If you cannot tell the difference between your targets and your job description, they are not specific enough.",
+            "tips": "Targets are crucial. Everybody wants to feel that they are successful in their work. Employees get a lot of motivation by meeting them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyal7tiL8": "Improve effectiveness",
+            "choice_VkRlQtoLU": "Increase profits by 10%",
+            "choice_4y1~7FoIL": "Streamline procedures"
+        },
+        "fr": {
+            "header": "Lequel de ces objectifs est un objectif spécifique ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Les objectifs doivent être spécifiques : ils doivent exprimer des résultats quantifiables et ne pas être simplement une liste de tâches et de responsabilités. Si vous ne pouvez pas faire la différence entre vos objectifs et la description de votre travail, ils ne sont pas assez spécifiques.",
+            "tips": "Les objectifs sont cruciaux. Tout le monde veut avoir un sentiment de réussite au travail. Les employés obtiennent beaucoup de motivation en les atteignant.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyal7tiL8": "Améliorer l'efficacité",
+            "choice_VkRlQtoLU": "Augmenter les profits de 10%",
+            "choice_4y1~7FoIL": "Rationaliser les procédures"
+        },
+        "de": {
+            "header": "Which of these is a specific target?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Targets must be specific: they have to express quantifiable results, and not simply be a list of tasks and responsibilities. If you cannot tell the difference between your targets and your job description, they are not specific enough.",
+            "tips": "Targets are crucial. Everybody wants to feel that they are successful in their work. Employees get a lot of motivation by meeting them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyal7tiL8": "Improve effectiveness",
+            "choice_VkRlQtoLU": "Increase profits by 10%",
+            "choice_4y1~7FoIL": "Streamline procedures"
+        },
+        "th": {
+            "header": "Which of these is a specific target?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Targets must be specific: they have to express quantifiable results, and not simply be a list of tasks and responsibilities. If you cannot tell the difference between your targets and your job description, they are not specific enough.",
+            "tips": "Targets are crucial. Everybody wants to feel that they are successful in their work. Employees get a lot of motivation by meeting them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyal7tiL8": "Improve effectiveness",
+            "choice_VkRlQtoLU": "Increase profits by 10%",
+            "choice_4y1~7FoIL": "Streamline procedures"
+        }
+    }
+}

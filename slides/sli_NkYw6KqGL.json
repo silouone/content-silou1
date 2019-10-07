@@ -1,0 +1,115 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T10:06:15.808Z",
+            "updatedAt": "2019-02-21T17:07:06.284Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JNf2opW8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_NkYw6KqGL",
+        "universalRef": "sli_NkYw6KqGL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkYw6KqGL.choice_NJb8At5fL.id",
+                        "label": "choice_NJb8At5fL",
+                        "value": "choice_NJb8At5fL"
+                    },
+                    {
+                        "id": "sli_NkYw6KqGL.choice_VJGICt9zL.id",
+                        "label": "choice_VJGICt9zL",
+                        "value": "choice_VJGICt9zL"
+                    },
+                    {
+                        "id": "sli_NkYw6KqGL.choice_4JQ8CYqzL.id",
+                        "label": "choice_4JQ8CYqzL",
+                        "value": "choice_4JQ8CYqzL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJb8At5fL"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "Once the root of the problem has been identified, the next step is to take responsibility for the problem. Don’t pass it onto others.",
+            "tips": "Roots can be tricky things. The largest known root system in the world has been identified in Utah: it supports a colony of an individual quaking aspen tree dubbed 'Pando' (Latin for 'I stretch out'). It stretches over 43 hectares, making it the largest, heaviest and probably oldest living organism on the planet.",
+            "clue": "Step up",
+            "context_title": "To the origin",
+            "context_description": "A big scandal has been affecting your company for a few days and the root cause of the problem, which you originally didn't know about, has just been publicly revealed.",
+            "context_media_description": "",
+            "choice_NJb8At5fL": "Take responsibility",
+            "choice_VJGICt9zL": "Find the provider or contractor who is responsible",
+            "choice_4JQ8CYqzL": "Say as little as possible"
+        },
+        "fr": {
+            "header": "Que devez-vous faire ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Une fois que l'origine du problème a été identifiée, l'étape suivante consiste à assumer la responsabilité du problème. Ne l'attribuez pas à d'autres personnes.",
+            "tips": "Les racines peuvent avoir un côté obscur. Le système racinaire le plus étendu et connu au monde a été identifié dans l'Utah : il unit une colonie de peupliers faux-trembles et a été baptisé « Pando » (du Latin « je m'étire »). Il s'étend sur plus de 43 hectares, ce qui en fait l'organisme vivant le plus étendu, le plus lourd et probablement le plus vieux de la planète.",
+            "clue": "Step up",
+            "context_title": "Remonter à l'origine",
+            "context_description": "Votre entreprise est au cœur d'un énorme scandale depuis quelques jours et la véritable origine de la crise, ignorée jusque-là, vient d'être rendue publique.",
+            "context_media_description": "",
+            "choice_NJb8At5fL": "Assumer la responsabilité",
+            "choice_VJGICt9zL": "Découvrir le fournisseur ou le sous-traitant responsable",
+            "choice_4JQ8CYqzL": "En dire le moins possible"
+        },
+        "de": {
+            "header": "Was tun?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Sobald die Wurzeln des Problems ermittelt wurden, ist der nächste Schritt, die Verantwortung für das Problem zu übernehmen. Gib es nicht an andere weiter.",
+            "tips": "Wurzeln können knifflige Dinge sein. Das größte bekannte Wurzelsystem der Welt wurde in Utah identifiziert: Es unterstützt eine Kolonie eines einzelnen zitternden Espenbaums mit dem Namen \"Pando\" (lateinisch für \"Ich strecke mich\"). Es erstreckt sich über 43 Hektar und ist damit der größte, schwerste und wahrscheinlich älteste lebende Organismus der Erde.",
+            "clue": "Verstärken",
+            "context_title": "Zum Ursprung",
+            "context_description": "Ein großer Skandal betrifft seit einigen Tagen Ihr Unternehmen, und die Ursache des Problems, von der Sie ursprünglich nichts wussten, wurde öffentlich bekannt gemacht.",
+            "context_media_description": "",
+            "choice_NJb8At5fL": "Verantwortung übernehmen",
+            "choice_VJGICt9zL": "Finden Sie den zuständigen Anbieter oder Auftragnehmer",
+            "choice_4JQ8CYqzL": "Sag Sie so wenig wie möglich"
+        },
+        "th": {
+            "header": "What should you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "Once the root of the problem has been identified, the next step is to take responsibility for the problem. Don’t pass it onto others.",
+            "tips": "Roots can be tricky things. The largest known root system in the world has been identified in Utah: it supports a colony of an individual quaking aspen tree dubbed 'Pando' (Latin for 'I stretch out'). It stretches over 43 hectares, making it the largest, heaviest and probably oldest living organism on the planet.",
+            "clue": "Step up",
+            "context_title": "To the origin",
+            "context_description": "A big scandal has been affecting your company for a few days and the root cause of the problem, which you originally didn't know about, has just been publicly revealed.",
+            "context_media_description": "",
+            "choice_NJb8At5fL": "Take responsibility",
+            "choice_VJGICt9zL": "Find the provider or contractor who is responsible",
+            "choice_4JQ8CYqzL": "Say as little as possible"
+        }
+    }
+}

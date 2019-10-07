@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T05:02:55.336Z",
+            "updatedAt": "2019-03-17T05:02:55.336Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41DnQEyvL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_VyOy4TUwU",
+        "universalRef": "sli_VyOy4TUwU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel36631",
+                        "items": [
+                            {
+                                "text": "choice_EkgDZ4TUwL",
+                                "value": "choice_EkgDZ4TUwL"
+                            },
+                            {
+                                "text": "choice_4Jbw~N68wI",
+                                "value": "choice_4Jbw~N68wI"
+                            },
+                            {
+                                "text": "choice_E1YZNpUDL",
+                                "value": "choice_E1YZNpUDL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel36631",
+                        "answers": [
+                            "choice_E1YZNpUDL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Whose responsibility is it to hit targets?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It’s both yours and your employee’s responsibility to hit targets.",
+            "tips": "Some companies are even more concerned about what coworkers think of an employee than his manager. At Google, for example, employees have reported that you won’t get a promotion unless your peers also vouch for your abilities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel36631}}",
+            "choice_EkgDZ4TUwL": "The staff member’s only",
+            "choice_4Jbw~N68wI": "The manager’s only",
+            "choice_E1YZNpUDL": "Both the manager’s and the employee’s"
+        },
+        "fr": {
+            "header": "À qui incombe-t-il d'atteindre les objectifs ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "C’est à la fois votre responsabilité et celle de vos employés d'atteindre les objectifs.",
+            "tips": "Certaines entreprises sont encore plus préoccupées par ce que ses collègues pensent d’un employé que par ce que son manager en pense. Chez Google, par exemple, des employés ont indiqué qu'ils ne peuvent bénéficier d'une promotion que si leur pairs attestent également de leurs capacités.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel36631}}",
+            "choice_EkgDZ4TUwL": "À l'employé uniquement",
+            "choice_4Jbw~N68wI": "Au manager uniquement",
+            "choice_E1YZNpUDL": "Aussi bien au manager qu'à l’employé "
+        },
+        "de": {
+            "header": "Whose responsibility is it to hit targets?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It’s both yours and your employee’s responsibility to hit targets.",
+            "tips": "Some companies are even more concerned about what coworkers think of an employee than his manager. At Google, for example, employees have reported that you won’t get a promotion unless your peers also vouch for your abilities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel36631}}",
+            "choice_EkgDZ4TUwL": "The staff member’s only",
+            "choice_4Jbw~N68wI": "The manager’s only",
+            "choice_E1YZNpUDL": "Both the manager’s and the employee’s"
+        },
+        "th": {
+            "header": "Whose responsibility is it to hit targets?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It’s both yours and your employee’s responsibility to hit targets.",
+            "tips": "Some companies are even more concerned about what coworkers think of an employee than his manager. At Google, for example, employees have reported that you won’t get a promotion unless your peers also vouch for your abilities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel36631}}",
+            "choice_EkgDZ4TUwL": "The staff member’s only",
+            "choice_4Jbw~N68wI": "The manager’s only",
+            "choice_E1YZNpUDL": "Both the manager’s and the employee’s"
+        }
+    }
+}

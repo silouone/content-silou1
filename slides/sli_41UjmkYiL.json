@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-06T08:49:23.430Z",
+            "updatedAt": "2019-05-06T16:17:26.190Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJY5l4HoI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_41UjmkYiL",
+        "universalRef": "sli_41UjmkYiL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41UjmkYiL.choice_E1e0~EkKjU.id",
+                        "label": "choice_E1e0~EkKjU",
+                        "value": "choice_E1e0~EkKjU",
+                        "media": "med_EkAWE1tjI"
+                    },
+                    {
+                        "id": "sli_41UjmkYiL.choice_VygBGVJYiL.id",
+                        "label": "choice_VygBGVJYiL",
+                        "value": "choice_VygBGVJYiL",
+                        "media": "med_4yBG4kFiI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VygBGVJYiL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "The context of a negotiation has no or little impact on you and therefore on the outcome of the deal. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Negotiating in familiar surroundings can boost your confidence. But negotiating in unfamiliar surroundings (like your opponent’s office) can reduce it.",
+            "tips": "If your opponents come to your office for a negotiation, baby chairs and sabotage by snacks can be very powerful weapons!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1e0~EkKjU": "TRUE",
+            "choice_VygBGVJYiL": "FALSE"
+        },
+        "fr": {
+            "header": "Le contexte d'une négociation n'a pas ou peu d'impact sur vous et donc sur l'issue de la transaction. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Négocier dans un environnement familier peut renforcer votre confiance. Mais négocier dans des environnements inconnus (comme le bureau de votre adversaire) peut la réduire.",
+            "tips": "Si vos adversaires viennent à votre bureau pour négocier, leur offrir une chaise pour enfant et leur servir une collation peuvent être des armes de sabotage très puissantes !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1e0~EkKjU": "VRAI",
+            "choice_VygBGVJYiL": "FAUX"
+        },
+        "de": {
+            "header": "The context of a negotiation has no or little impact on you and therefore on the outcome of the deal. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Negotiating in familiar surroundings can boost your confidence. But negotiating in unfamiliar surroundings (like your opponent’s office) can reduce it.",
+            "tips": "If your opponents come to your office for a negotiation, baby chairs and sabotage by snacks can be very powerful weapons!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1e0~EkKjU": "True",
+            "choice_VygBGVJYiL": "False"
+        },
+        "th": {
+            "header": "The context of a negotiation has no or little impact on you and therefore on the outcome of the deal. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Negotiating in familiar surroundings can boost your confidence. But negotiating in unfamiliar surroundings (like your opponent’s office) can reduce it.",
+            "tips": "If your opponents come to your office for a negotiation, baby chairs and sabotage by snacks can be very powerful weapons!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1e0~EkKjU": "TRUE",
+            "choice_VygBGVJYiL": "FALSE"
+        }
+    }
+}

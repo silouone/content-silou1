@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T04:40:54.798Z",
+            "updatedAt": "2019-03-17T05:11:10.315Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NyJTm4JP8"
+            ],
+            "status": "draft",
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_NkLPCnIDI",
+        "universalRef": "sli_NkLPCnIDI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkLPCnIDI.choice_EJxftCn8PU.id",
+                        "label": "choice_EJxftCn8PU",
+                        "value": "choice_EJxftCn8PU",
+                        "media": "med_EJfYR3UPU"
+                    },
+                    {
+                        "id": "sli_NkLPCnIDI.choice_Ekx7tC28D8.id",
+                        "label": "choice_Ekx7tC28D8",
+                        "value": "choice_Ekx7tC28D8",
+                        "media": "med_41mF02LwU"
+                    },
+                    {
+                        "id": "sli_NkLPCnIDI.choice_41gNFChLwU.id",
+                        "label": "choice_41gNFChLwU",
+                        "value": "choice_41gNFChLwU",
+                        "media": "med_N1VYA28DU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJxftCn8PU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you be prepared to do during a performance review?",
+            "explanation": "Select the correct answer.",
+            "klf": "Managers often have what they want to say, and hear, mapped out. But you also need to be prepared to listen!",
+            "tips": "In our age of social media, ‘social review’, where companies take into account blind reviews from social media sources, may well become the next performance review norm…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJxftCn8PU": "Listen to your employee",
+            "choice_Ekx7tC28D8": "Talk down to your employee",
+            "choice_41gNFChLwU": "Applaud anything your employee does"
+        },
+        "fr": {
+            "header": "Que devriez-vous être prêt à faire lors d'une évaluation de performance ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les managers ont souvent une idée très claire de ce qu'ils veulent dire et entendre. Mais vous devez également être prêt à écouter !",
+            "tips": "À l'heure des réseaux sociaux, le « bilan social », qui permet aux entreprises de prendre en compte les critiques à l'aveugle provenant des réseaux sociaux, pourrait bien devenir la prochaine norme en matière d'évaluation de performance…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJxftCn8PU": "Écouter votre employé",
+            "choice_Ekx7tC28D8": "Parler à votre employé",
+            "choice_41gNFChLwU": "Complimenter tout ce que fait votre employé"
+        },
+        "de": {
+            "header": "What should you be prepared to do during a performance review?",
+            "explanation": "Select the correct answer.",
+            "klf": "Managers often have what they want to say, and hear, mapped out. But you also need to be prepared to listen!",
+            "tips": "In our age of social media, ‘social review’, where companies take into account blind reviews from social media sources, may well become the next performance review norm…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJxftCn8PU": "Listen to your employee",
+            "choice_Ekx7tC28D8": "Talk down to your employee",
+            "choice_41gNFChLwU": "Applaud anything your employee does"
+        },
+        "th": {
+            "header": "What should you be prepared to do during a performance review?",
+            "explanation": "Select the correct answer.",
+            "klf": "Managers often have what they want to say, and hear, mapped out. But you also need to be prepared to listen!",
+            "tips": "In our age of social media, ‘social review’, where companies take into account blind reviews from social media sources, may well become the next performance review norm…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJxftCn8PU": "Listen to your employee",
+            "choice_Ekx7tC28D8": "Talk down to your employee",
+            "choice_41gNFChLwU": "Applaud anything your employee does"
+        }
+    }
+}

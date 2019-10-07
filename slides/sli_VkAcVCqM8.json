@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T14:43:49.921Z",
+            "updatedAt": "2019-02-21T17:22:57.528Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJEzasa~I"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_VkAcVCqM8",
+        "universalRef": "sli_VkAcVCqM8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkAcVCqM8.choice_V1eQBCqML.id",
+                        "label": "choice_V1eQBCqML",
+                        "value": "choice_V1eQBCqML"
+                    },
+                    {
+                        "id": "sli_VkAcVCqM8.choice_E1NmrR9G8.id",
+                        "label": "choice_E1NmrR9G8",
+                        "value": "choice_E1NmrR9G8"
+                    },
+                    {
+                        "id": "sli_VkAcVCqM8.choice_VJS7H0cGI.id",
+                        "label": "choice_VJS7H0cGI",
+                        "value": "choice_VJS7H0cGI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1NmrR9G8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following costs organisations more?",
+            "explanation": "Select the correct answer.",
+            "klf": "Quality control has very practical benefits for a company. For instance, it costs less to prevent errors than it does to repair the damage later. And when everyone is turning out 100% quality, productivity increases.",
+            "tips": "Remember how much it hurt Samsung when their phones' batteries started blowing up? That's what you want to avoid…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eQBCqML": "Implementing quality control measures",
+            "choice_E1NmrR9G8": "Repairing faulty goods",
+            "choice_VJS7H0cGI": "Hiring a quality control team"
+        },
+        "fr": {
+            "header": "Qu'est-ce qui coûte le plus à une organisation ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le contrôle qualité génère des avantages concrets pour une entreprise. Il est moins coûteux, par exemple, de prévenir les erreurs que de réparer les dommages ultérieurs occasionnés. Et lorsque tout le monde fournit 100 % de qualité, la productivité s'en trouve accrue.",
+            "tips": "Vous vous souvenez du tort causé à Samsung lorsque leurs batteries de téléphones ont commencé à exploser ? C'est ce que vous voulez absolument éviter...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eQBCqML": "Mettre en oeuvre des mesures de contrôle qualité",
+            "choice_E1NmrR9G8": "Réparer des produits défectueux",
+            "choice_VJS7H0cGI": "Engager une équipe de contrôle qualité"
+        },
+        "de": {
+            "header": "Welche der folgenden kostet Organisationen mehr?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Qualitätskontrolle hat für ein Unternehmen sehr praktische Vorteile. Es kostet zum Beispiel weniger, Fehler zu vermeiden, als den Schaden später zu reparieren. Und wenn sich alle zu 100% Qualität liefern, steigt die Produktivität.",
+            "tips": "Erinnern Sie sich, wie sehr es Samsung geschadet hat, als die Akkus ihrer Handys explodierten? Das wollen Sie vermeiden…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eQBCqML": "Umsetzung von Qualitätskontrollmaßnahmen",
+            "choice_E1NmrR9G8": "Reparatur fehlerhafter Ware",
+            "choice_VJS7H0cGI": "Einstellung eines Qualitätskontrollteams"
+        },
+        "th": {
+            "header": "Which of the following costs organisations more?",
+            "explanation": "Select the correct answer.",
+            "klf": "Quality control has very practical benefits for a company. For instance, it costs less to prevent errors than it does to repair the damage later. And when everyone is turning out 100% quality, productivity increases.",
+            "tips": "Remember how much it hurt Samsung when their phones' batteries started blowing up? That's what you want to avoid…",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1eQBCqML": "Implementing quality control measures",
+            "choice_E1NmrR9G8": "Repairing faulty goods",
+            "choice_VJS7H0cGI": "Hiring a quality control team"
+        }
+    }
+}

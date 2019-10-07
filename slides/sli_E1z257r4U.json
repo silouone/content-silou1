@@ -1,0 +1,106 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-07T14:10:31.464Z",
+            "updatedAt": "2019-02-12T09:25:33.968Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JWuX074L"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_E1z257r4U",
+        "universalRef": "sli_E1z257r4U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1z257r4U.choice_NyxzsQBE8.id",
+                        "label": "choice_NyxzsQBE8",
+                        "value": "choice_NyxzsQBE8"
+                    },
+                    {
+                        "id": "sli_E1z257r4U.choice_4JbziXBEL.id",
+                        "label": "choice_4JbziXBEL",
+                        "value": "choice_4JbziXBEL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JbziXBEL"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EynzDHBVI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Based on the preceding context, which of these sentences is more likely to elicit a positive response?",
+            "explanation": "Select the correct answer.",
+            "klf": "Positive behaviour elicits a positive response. People mirror the behaviour of others: your behaviour will affect how others behave, for good or bad, so be aware of what you’re doing and how you’re doing it.",
+            "tips": "‘Mirroring’ is the often unconscious act of mimicking someone else's posture and gestures.",
+            "clue": "",
+            "context_title": "Answering a customer while experiencing technical problems",
+            "context_description": "You work in the hospitality industry, and it's a hectic at the office: you are taking reservations for one of the busiest holiday week-ends of the year. Of course, your computer has slowed down to the point of barely functioning, and the customer on the line is getting impatient.",
+            "context_media_description": "",
+            "choice_NyxzsQBE8": "I’m sorry, my computer is slow today so I’m going to put you on hold",
+            "choice_4JbziXBEL": "While we are waiting for the computer to search through our records would you like to tell me more about how I can help you today?"
+        },
+        "fr": {
+            "header": "Sur la base du contexte précédent, laquelle de ces phrases est plus susceptible de susciter une réponse positive ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Un comportement positif suscite une réponse positive. Les gens reproduisent le comportement des autres : votre comportement aura une incidence sur le comportement des autres, en bien ou en mal, alors soyez conscient de ce que vous faites et de la façon dont vous le faites.",
+            "tips": "La « mise en miroir » est l’acte souvent inconscient de mimer la posture et les gestes de quelqu'un d’autre.",
+            "clue": "",
+            "context_title": "Répondre à un client tout en rencontrant des problèmes techniques",
+            "context_description": "Vous travaillez dans le secteur de l’hôtellerie et c'est une journée très chargée : vous prenez des réservations pour l’un des week-ends fériés les plus occupés de l’année. Évidemment, votre ordinateur a ralenti, au point de fonctionner à peine, et le client s'impatiente au bout du fil.",
+            "context_media_description": "",
+            "choice_NyxzsQBE8": "Je suis désolé, mon ordinateur est lent aujourd'hui, je vais devoir vous mettre en attente.",
+            "choice_4JbziXBEL": "En attendant que l’ordinateur fouille nos archives, souhaitez-vous m'en dire plus sur la manière dont je peux vous aider aujourd’hui ?"
+        },
+        "de": {
+            "header": "Welcher dieser Sätze wird aufgrund des vorhergehenden Kontextes eher eine positive Antwort auslösen?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Positives Verhalten löst eine positive Reaktion aus. Die Menschen spiegeln das Verhalten anderer wider: Ihr Verhalten wird sich darauf auswirken, wie sich andere verhalten, zum Guten wie zum Schlechten. Machen Sie sich also bewusst, was Sie tun und wie Sie es tun.",
+            "tips": "Widerspiegeln ist der oft unbewusste Akt, der die Haltung und Gesten eines anderen nachahmt.",
+            "clue": "",
+            "context_title": "Beantwortung  bei technischen Problemen eines Kundens",
+            "context_description": "Sie arbeiten im Gastgewerbe, und im Büro ist es hektisch: Sie nehmen Reservierungen für eines der belebtesten Ferienwochenenden des Jahres entgegen. Natürlich ist Ihr Computer so langsam, dass er kaum noch funktioniert und der Kunde auf der Leitung wird ungeduldig.",
+            "context_media_description": "",
+            "choice_NyxzsQBE8": "Es tut mir leid, mein Computer ist heute langsam, also werde ich Sie in die Warteschleife setzen",
+            "choice_4JbziXBEL": "Während wir darauf warten, dass der Computer unsere Aufzeichnungen durchsucht, möchten Sie mir mehr darüber erzählen, wie ich Ihnen heute helfen kann?"
+        },
+        "th": {
+            "header": "Based on the preceding context, which of these sentences is more likely to elicit a positive response?",
+            "explanation": "Select the correct answer.",
+            "klf": "Positive behaviour elicits a positive response. People mirror the behaviour of others: your behaviour will affect how others behave, for good or bad, so be aware of what you’re doing and how you’re doing it.",
+            "tips": "‘Mirroring’ is the often unconscious act of mimicking someone else's posture and gestures.",
+            "clue": "",
+            "context_title": "Answering a customer while experiencing technical problems",
+            "context_description": "You work in the hospitality industry, and it's a hectic at the office: you are taking reservations for one of the busiest holiday week-ends of the year. Of course, your computer has slowed down to the point of barely functioning, and the customer on the line is getting impatient.",
+            "context_media_description": "",
+            "choice_NyxzsQBE8": "I’m sorry, my computer is slow today so I’m going to put you on hold",
+            "choice_4JbziXBEL": "While we are waiting for the computer to search through our records would you like to tell me more about how I can help you today?"
+        }
+    }
+}

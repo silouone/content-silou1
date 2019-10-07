@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-31T15:24:37.887Z",
+            "updatedAt": "2019-08-01T15:20:37.561Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E18RJoqMP"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EJqV~o5MP",
+        "universalRef": "sli_EJqV~o5MP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJqV~o5MP.choice_EkgSKZs5Gw.id",
+                        "label": "choice_EkgSKZs5Gw",
+                        "value": "choice_EkgSKZs5Gw",
+                        "media": "med_NJSFZs9GD"
+                    },
+                    {
+                        "id": "sli_EJqV~o5MP.choice_E1gg5Zj5zv.id",
+                        "label": "choice_E1gg5Zj5zv",
+                        "value": "choice_E1gg5Zj5zv",
+                        "media": "med_NJgqWs5Gw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1gg5Zj5zv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When dealing with a rude customer, you should back down and keep a low profile not to antagonize them. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Backing down with only apologies and puppy eyes won't resolve the issue. You should be neutral and helpful, but don't surrender.",
+            "tips": "If you feel threatened by an angry person, ask a colleague for help and, if need be, report the incident.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkgSKZs5Gw": "True",
+            "choice_E1gg5Zj5zv": "False"
+        },
+        "fr": {
+            "header": "Lorsque vous être confronté à un client impoli, vous devriez vous mettre en retrait et faire profil bas pour ne pas le contrarier. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Se mettre en retrait en s'excusant avec des yeux de chien battu ne résoudra pas le problème. Vous devez vous montrer neutre et serviable, mais ne vous laissez pas marcher sur les pieds.",
+            "tips": "Si vous vous sentez menacé par une personne en colère, demandez l'aide d'un collègue et, si nécessaire, signalez l'incident.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkgSKZs5Gw": "Vrai",
+            "choice_E1gg5Zj5zv": "Faux"
+        },
+        "de": {
+            "header": "When dealing with a rude customer, you should back down and keep a low profile not to antagonize them. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Backing down with only apologies and puppy eyes won't resolve the issue. You should be neutral and helpful, but don't surrender.",
+            "tips": "If you feel threatened by an angry person, ask a colleague for help and, if need be, report the incident.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkgSKZs5Gw": "True",
+            "choice_E1gg5Zj5zv": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkgSKZs5Gw": "",
+            "choice_E1gg5Zj5zv": ""
+        }
+    }
+}

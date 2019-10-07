@@ -1,0 +1,133 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-06T07:47:30.350Z",
+            "updatedAt": "2019-05-09T07:14:43.574Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkpKl4rjL"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NJN2a6do8",
+        "universalRef": "sli_NJN2a6do8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel89125",
+                        "items": [
+                            {
+                                "text": "choice_N1xrTQ0ujU",
+                                "value": "choice_N1xrTQ0ujU"
+                            },
+                            {
+                                "text": "choice_VyWSTXC-iU",
+                                "value": "choice_VyWSTXC-iU"
+                            },
+                            {
+                                "text": "choice_EJr2EAOiI",
+                                "value": "choice_EJr2EAOiI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel89125",
+                        "answers": [
+                            "choice_N1xrTQ0ujU"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_N1BDLCusL",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What was that last piece of advice uncle Billy gave you in case your opponent moved first in a negotiation?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Compile a list of reasons why your ideal outcome is justified – in case your opponent beats you to the opening offer.",
+            "tips": "In a poker game, bluffers use the ‘eye to eye’ aka staring technique to get you down. A trick to handle with caution in negotiation!",
+            "clue": "",
+            "context_title": "Uncle Bill's trump card.",
+            "context_description": "Dawn. Sun is rising over uncle Billy's saloon. It's quiet. Too quiet. A well-known shadow is sketching over the horizon. It's time. You're gonna make that deal, and you're gonna make it well. 'First, high and specific', as uncle Bill always said. But suddenly…<br><i>'2114 dollars! '</i><br>That voice from the grave shouted first. You're beaten to the draw. But in the twilight of your head, Billy's voice echoes…",
+            "context_media_description": "",
+            "template": "Son. If your opponent beats you to the opening offer, there's one last thing you can do: compile a list of reasons why your ideal outcome is {{sel89125}}'",
+            "choice_N1xrTQ0ujU": "justified.",
+            "choice_VyWSTXC-iU": "acceptable.",
+            "choice_EJr2EAOiI": "non-negotiable.",
+            "choice_4Jx9nmA-j8": "a list of reasons why",
+            "choice_VJb9nXR-sL": "a new set of offers for"
+        },
+        "fr": {
+            "header": "Quel était ce dernier conseil que l'oncle Billy vous a donné au cas où votre adversaire ferait le premier pas dans une négociation ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Dressez une liste des raisons pour lesquelles votre dénouement idéal est justifié - au cas où votre adversaire dégainerait son offre en premier.",
+            "tips": "Dans une partie de poker, les bluffeurs utilisent la technique du « droit dans les yeux », c'est-à-dire qu'ils fixent leurs adversaires pour les décourager. Une tactique à utiliser avec précaution en négociation !",
+            "clue": "",
+            "context_title": "La carte maîtresse d'Oncle Bill.",
+            "context_description": "C'est l'aube. Le soleil se lève sur le salon de l'oncle Billy. C'est silencieux. Trop silencieux. Une ombre bien connue se dessine à l'horizon. C'est l'heure. Vous allez conclure ce marché et vous allez bien le faire. « En premier, élevée et spécifique », comme l'a toujours dit oncle Bill. Mais soudain… <br> <i>2 114 dollars !</i> <br> Cette voix d'outre-tombe a dégainé en premier. Vous êtes battu à plate couture. Mais dans votre tête, la voix de Billy résonne…",
+            "context_media_description": "",
+            "template": "Fils. Si ton adversaire dégaine son offre en premier, il te reste une dernière chose à faire : dresse une liste des raisons pour lesquelles ton dénouement idéal est {{sel89125}}",
+            "choice_N1xrTQ0ujU": "justifié.",
+            "choice_VyWSTXC-iU": "acceptable.",
+            "choice_EJr2EAOiI": "non négociable.",
+            "choice_4Jx9nmA-j8": "",
+            "choice_VJb9nXR-sL": ""
+        },
+        "de": {
+            "header": "What was that last piece of advice uncle Billy gave you in case your opponent moved first in a negotiation? ",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Compile a list of reasons why your ideal outcome is justified – in case your opponent beats you to the opening offer.",
+            "tips": "In a poker game, bluffers use the ‘eye to eye’ aka staring technique to get you down. A trick to handle with caution in negotiation!",
+            "clue": "",
+            "context_title": "Uncle Bill's trump card.",
+            "context_description": "Dawn. Sun is rising over uncle Billy's saloon. It's quiet. Too quiet. A well-known shadow is sketching over the horizon. It's time. You're gonna make that deal, and you're gonna make it well. 'First, high and specific', as uncle Bill always said. But suddenly…\n<i>'2114 dollars! '</i>\nThat voice from the grave shouted first. You're beaten to the draw. But in the twilight of your head, Billy's voice echoes…",
+            "context_media_description": "",
+            "template": "'Son. If your opponent beats you to the opening offer, there's one last thing you can do: compile a list of reasons why your ideal outcome is {{sel89125}}'",
+            "choice_N1xrTQ0ujU": "justified.",
+            "choice_VyWSTXC-iU": "acceptable.",
+            "choice_EJr2EAOiI": "non-negotiable.",
+            "choice_4Jx9nmA-j8": "",
+            "choice_VJb9nXR-sL": ""
+        },
+        "th": {
+            "header": "What was that last piece of advice uncle Billy gave you in case your opponent moved first in a negotiation?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Compile a list of reasons why your ideal outcome is justified – in case your opponent beats you to the opening offer.",
+            "tips": "In a poker game, bluffers use the ‘eye to eye’ aka staring technique to get you down. A trick to handle with caution in negotiation!",
+            "clue": "",
+            "context_title": "Uncle Bill's trump card.",
+            "context_description": "Dawn. Sun is rising over uncle Billy's saloon. It's quiet. Too quiet. A well-known shadow is sketching over the horizon. It's time. You're gonna make that deal, and you're gonna make it well. 'First, high and specific', as uncle Bill always said. But suddenly…<br><i>'2114 dollars! '</i><br>That voice from the grave shouted first. You're beaten to the draw. But in the twilight of your head, Billy's voice echoes…",
+            "context_media_description": "",
+            "template": "Son. If your opponent beats you to the opening offer, there's one last thing you can do: compile a list of reasons why your ideal outcome is {{sel89125}}'",
+            "choice_N1xrTQ0ujU": "justified.",
+            "choice_VyWSTXC-iU": "acceptable.",
+            "choice_EJr2EAOiI": "non-negotiable.",
+            "choice_4Jx9nmA-j8": "a list of reasons why",
+            "choice_VJb9nXR-sL": "a new set of offers for"
+        }
+    }
+}

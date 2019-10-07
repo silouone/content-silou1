@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-15T09:41:31.597Z",
+            "updatedAt": "2019-05-15T09:41:31.597Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJJ7K0ujI"
+            ],
+            "modifiedBy": "MaSchneiter",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EJfvppVhL",
+        "universalRef": "sli_EJfvppVhL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJfvppVhL.choice_E1ggcTTV3L.id",
+                        "label": "choice_E1ggcTTV3L",
+                        "value": "choice_E1ggcTTV3L",
+                        "media": "med_EklcaTV2I"
+                    },
+                    {
+                        "id": "sli_EJfvppVhL.choice_V1lr5pTV3L.id",
+                        "label": "choice_V1lr5pTV3L",
+                        "value": "choice_V1lr5pTV3L",
+                        "media": "med_4JBcTTV28"
+                    },
+                    {
+                        "id": "sli_EJfvppVhL.choice_V1GHqTaEh8.id",
+                        "label": "choice_V1GHqTaEh8",
+                        "value": "choice_V1GHqTaEh8",
+                        "media": "med_EJZrc6a4hI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1ggcTTV3L"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When you need something from someone, what can you do to make it more likely that they will accede to your request?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you need something from someone, help them with something first. They will feel more obliged to reciprocate the help you showed them.",
+            "tips": "When asking for help, be specific about what you need: define the needs, deadlines and current status.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1ggcTTV3L": "Offer them help first",
+            "choice_V1lr5pTV3L": "Bribe them",
+            "choice_V1GHqTaEh8": "Threaten them"
+        },
+        "fr": {
+            "header": "Lorsque vous avez besoin de l'aide de quelqu'un, que pouvez-vous faire pour augmenter vos chances de l'obtenir ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si vous avez besoin de l'aide de quelqu'un, commencez par l'aider de votre côté. Ainsi, ce dernier se sentira davantage tenu de vous rendre la pareille.",
+            "tips": "Lorsque vous demandez de l'aide, précisez votre demande : définissez les besoins, les délais et la situation actuelle.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1ggcTTV3L": "Offrir votre aide en premier",
+            "choice_V1lr5pTV3L": "Le soudoyer",
+            "choice_V1GHqTaEh8": "Le menacer"
+        },
+        "de": {
+            "header": "When you need something from someone, what can you do to make it more likely that they will accede to your request?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you need something from someone, help them with something first. They will feel more obliged to reciprocate the help you showed them.",
+            "tips": "When asking for help, be specific about what you need: define the needs, deadlines and current status.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1ggcTTV3L": "Offer them help first",
+            "choice_V1lr5pTV3L": "Bribe them",
+            "choice_V1GHqTaEh8": "Threaten them"
+        },
+        "th": {
+            "header": "When you need something from someone, what can you do to make it more likely that they will accede to your request?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you need something from someone, help them with something first. They will feel more obliged to reciprocate the help you showed them.",
+            "tips": "When asking for help, be specific about what you need: define the needs, deadlines and current status.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1ggcTTV3L": "Offer them help first",
+            "choice_V1lr5pTV3L": "Bribe them",
+            "choice_V1GHqTaEh8": "Threaten them"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T16:11:16.846Z",
+            "updatedAt": "2019-02-18T16:11:16.846Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkLId3QHU"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_V19xwaQrU",
+        "universalRef": "sli_V19xwaQrU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V19xwaQrU.choice_VkhWvp7BU.id",
+                        "label": "choice_VkhWvp7BU",
+                        "value": "choice_VkhWvp7BU"
+                    },
+                    {
+                        "id": "sli_V19xwaQrU.choice_VkEMwTmrL.id",
+                        "label": "choice_VkEMwTmrL",
+                        "value": "choice_VkEMwTmrL"
+                    },
+                    {
+                        "id": "sli_V19xwaQrU.choice_Vy-fPT7BI.id",
+                        "label": "choice_Vy-fPT7BI",
+                        "value": "choice_Vy-fPT7BI"
+                    },
+                    {
+                        "id": "sli_V19xwaQrU.choice_NkkmD67HU.id",
+                        "label": "choice_NkkmD67HU",
+                        "value": "choice_NkkmD67HU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkEMwTmrL",
+                        "choice_NkkmD67HU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which statements show empathy?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Those two statements show you acknowledge the problem and you care. Most of the time, it will calm the customer and a peaceful exchange can begin.",
+            "tips": "Empathy is the experience of understanding another person’s thoughts, feelings, and condition from his or her point of view, rather than from one’s own.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkhWvp7BU": "Yes, we have had a lot of complaints like this",
+            "choice_VkEMwTmrL": "I’m sorry there is a problem with this",
+            "choice_Vy-fPT7BI": "It’s not my fault you broke it",
+            "choice_NkkmD67HU": "I’m sorry you feel that way"
+        },
+        "fr": {
+            "header": "Parmi les déclarations suivantes, lesquelles font preuve d'empathie ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Ces deux déclarations montrent que vous reconnaissez le problème et que vous vous en souciez. La plupart du temps, cela calmera le client et un échange pacifique pourra commencer.",
+            "tips": "L’empathie est le fait de comprendre les pensées, les sentiments et la situation de quelqu'un d'autre du point de vue de cette personne plutôt que du nôtre.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkhWvp7BU": "Oui, nous avons eu beaucoup de plaintes comme celle-ci",
+            "choice_VkEMwTmrL": "Je suis désolé qu'il y ait un problème avec ça",
+            "choice_Vy-fPT7BI": "Ce n’est pas de ma faute si vous l’avez cassé",
+            "choice_NkkmD67HU": "Je suis désolé que vous ressentiez cela"
+        },
+        "de": {
+            "header": "Welche Aussagen zeigen Empathie?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Diese beiden Aussagen zeigen, dass Sie das Problem anerkennen und sich darum kümmern. Meistens beruhigt es den Kunden und ein friedlicher Austausch kann beginnen.",
+            "tips": "Empathie ist die Erfahrung, die Gedanken, Gefühle und den Zustand einer anderen Person aus ihrer oder ihrer Sicht zu verstehen, und nicht aus der eigenen Perspektive.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkhWvp7BU": "Ja, wir hatten viele Beschwerden wie diese",
+            "choice_VkEMwTmrL": "Es tut mir leid, dass hier ein Problem vorliegt",
+            "choice_Vy-fPT7BI": "Es ist nicht meine Schuld, dass Sie es gebrochen haben",
+            "choice_NkkmD67HU": "Es tut mir leid, dass du so fühlst"
+        },
+        "th": {
+            "header": "Which statements show empathy?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Those two statements show you acknowledge the problem and you care. Most of the time, it will calm the customer and a peaceful exchange can begin.",
+            "tips": "Empathy is the experience of understanding another person’s thoughts, feelings, and condition from his or her point of view, rather than from one’s own.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkhWvp7BU": "Yes, we have had a lot of complaints like this",
+            "choice_VkEMwTmrL": "I’m sorry there is a problem with this",
+            "choice_Vy-fPT7BI": "It’s not my fault you broke it",
+            "choice_NkkmD67HU": "I’m sorry you feel that way"
+        }
+    }
+}

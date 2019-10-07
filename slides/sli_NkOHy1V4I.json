@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T14:34:28.989Z",
+            "updatedAt": "2019-02-14T14:03:04.078Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkdA7C7NL"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NkOHy1V4I",
+        "universalRef": "sli_NkOHy1V4I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkOHy1V4I.choice_NJ9UyyV48.id",
+                        "label": "choice_NJ9UyyV48",
+                        "value": "choice_NJ9UyyV48"
+                    },
+                    {
+                        "id": "sli_NkOHy1V4I.choice_4yo81yE4U.id",
+                        "label": "choice_4yo81yE4U",
+                        "value": "choice_4yo81yE4U"
+                    },
+                    {
+                        "id": "sli_NkOHy1V4I.choice_4y3I11NE8.id",
+                        "label": "choice_4y3I11NE8",
+                        "value": "choice_4y3I11NE8"
+                    },
+                    {
+                        "id": "sli_NkOHy1V4I.choice_EJ681yN48.id",
+                        "label": "choice_EJ681yN48",
+                        "value": "choice_EJ681yN48"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ9UyyV48",
+                        "choice_4y3I11NE8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of these statements about behaviour are true?",
+            "explanation": "Select the correct answers.",
+            "klf": "Generally, people mirror the behaviour of others, whether it's positive or negative. Moreover, adapting behaviour is about awareness and discipline.",
+            "tips": "In psychology, ‘pro-social behaviour’ is used to characterize behaviour that is beneficial to its recipient, regardless of its effect on the donor.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ9UyyV48": "People mirror the behaviour of others",
+            "choice_4yo81yE4U": "Behaviour is fixed, you can’t change it",
+            "choice_4y3I11NE8": "It’s about awareness and discipline",
+            "choice_EJ681yN48": "Being helpful elicits a negative response"
+        },
+        "fr": {
+            "header": "Parmi les affirmations suivantes, lesquelles sont vraies au sujet du comportement ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Généralement, les gens reproduisent le comportement des autres, qu'il soit positif ou négatif. En outre, adapter son comportement est une question de conscience et de discipline.",
+            "tips": "En psychologie, le terme « comportement prosocial » est utilisé pour caractériser un comportement bénéfique pour le destinataire, quel que soit son effet sur le donneur.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ9UyyV48": "Les gens reproduisent le comportement des autres",
+            "choice_4yo81yE4U": "Le comportement est immuable, on ne peut pas le changer",
+            "choice_4y3I11NE8": "C’est une question de conscience et de discipline",
+            "choice_EJ681yN48": "Être serviable provoque une réponse négative"
+        },
+        "de": {
+            "header": "Welche dieser Aussagen zum Verhalten sind wahr?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Im Allgemeinen spiegeln die Menschen das Verhalten anderer wider, egal ob positiv oder negativ. Darüber hinaus geht es beim Anpassen von Verhalten um Bewusstsein und Disziplin.",
+            "tips": "In der Psychologie wird „pro-soziales Verhalten“ verwendet, um Verhalten zu charakterisieren, das für den Empfänger von Nutzen ist, unabhängig von seiner Wirkung auf den Spender.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ9UyyV48": "Die Menschen spiegeln das Verhalten anderer wider",
+            "choice_4yo81yE4U": "Das Verhalten ist behoben, Sie können es nicht ändern",
+            "choice_4y3I11NE8": "Es geht um Bewusstsein und Disziplin",
+            "choice_EJ681yN48": "Hilfsbereitschaft löst eine negative Antwort aus"
+        },
+        "th": {
+            "header": "Which of these statements about behaviour are true?",
+            "explanation": "Select the correct answers.",
+            "klf": "Generally, people mirror the behaviour of others, whether it's positive or negative. Moreover, adapting behaviour is about awareness and discipline.",
+            "tips": "In psychology, ‘pro-social behaviour’ is used to characterize behaviour that is beneficial to its recipient, regardless of its effect on the donor.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ9UyyV48": "People mirror the behaviour of others",
+            "choice_4yo81yE4U": "Behaviour is fixed, you can’t change it",
+            "choice_4y3I11NE8": "It’s about awareness and discipline",
+            "choice_EJ681yN48": "Being helpful elicits a negative response"
+        }
+    }
+}

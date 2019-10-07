@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-23T07:43:38.822Z",
+            "updatedAt": "2019-08-23T07:54:20.947Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4yAtFRQXP"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EJ5ADFdEP",
+        "universalRef": "sli_EJ5ADFdEP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel26806",
+                        "items": [
+                            {
+                                "text": "choice_VylSZOKdNw",
+                                "value": "choice_VylSZOKdNw"
+                            },
+                            {
+                                "text": "choice_4yZHWuYu4P",
+                                "value": "choice_4yZHWuYu4P"
+                            },
+                            {
+                                "text": "choice_NJTf-tO4D",
+                                "value": "choice_NJTf-tO4D"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel26806",
+                        "answers": [
+                            "choice_4yZHWuYu4P"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When all concerns have been addressed but the Ducker is still unwilling to commit, how should you proceed?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "As well as highlighting the benefits of buying, explain the risks of not buying. What would it mean to their business <i>not</i> to stock the latest product, <i>not</i> to expand their range, or <i>not</i> to change their practices?",
+            "tips": "To bring out your prospect's hidden fears, you can ask yourself these guiding questions: what has happened until now? What is motivating them to take action? Why are they talking to you?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel26806}}",
+            "choice_VylSZOKdNw": "Give them time to think about your offer",
+            "choice_4yZHWuYu4P": "Sell them on the risks of not buying",
+            "choice_NJTf-tO4D": "Set a time limit on your offer"
+        },
+        "fr": {
+            "header": "Quand toutes les préoccupations ont été abordées mais que Ducker refuse toujours de s’engager, comment devriez-vous procéder?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En plus de souligner les avantages de l’achat, expliquez les risques de ne pas acheter. Qu'est-ce que cela signifierait pour leur entreprise de <i>ne</i> pas stocker le dernier produit, de <i>ne</i> pas élargir leur gamme ou de <i>ne</i> pas modifier leurs pratiques?",
+            "tips": "Pour faire ressortir les craintes cachées de votre prospect, vous pouvez vous poser les questions suivantes: que s'est-il passé jusqu'à présent? Qu'est-ce qui les motive à agir? Pourquoi vous parlent-ils?",
+            "template": "{{sel26806}}",
+            "choice_VylSZOKdNw": "Donnez-leur le temps de réfléchir à votre offre",
+            "choice_4yZHWuYu4P": "Vendez-les sur les risques de ne pas acheter",
+            "choice_NJTf-tO4D": "Fixer une limite de temps sur votre offre",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "When all concerns have been addressed but the Ducker is still unwilling to commit, how should you proceed?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "As well as highlighting the benefits of buying, explain the risks of not buying. What would it mean to their business <i>not</i> to stock the latest product, <i>not</i> to expand their range, or <i>not</i> to change their practices?",
+            "tips": "To bring out your prospect's hidden fears, you can ask yourself these guiding questions: what has happened until now? What is motivating them to take action? Why are they talking to you?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel26806}}",
+            "choice_VylSZOKdNw": "Give them time to think about your offer",
+            "choice_4yZHWuYu4P": "Sell them on the risks of not buying",
+            "choice_NJTf-tO4D": "Set a time limit on your offer"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel26806}}",
+            "choice_VylSZOKdNw": "",
+            "choice_4yZHWuYu4P": "",
+            "choice_NJTf-tO4D": ""
+        }
+    }
+}

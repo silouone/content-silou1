@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T13:58:34.659Z",
+            "updatedAt": "2018-11-09T13:47:11.736Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ6G9qS9B"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_V1LEMjBcH",
+        "universalRef": "sli_V1LEMjBcH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel89033",
+                        "items": [
+                            {
+                                "text": "choice_VyeWLMjr9r",
+                                "value": "choice_VyeWLMjr9r"
+                            },
+                            {
+                                "text": "choice_E1Z~UziB5r",
+                                "value": "choice_E1Z~UziB5r"
+                            },
+                            {
+                                "text": "choice_Nkm8fjScr",
+                                "value": "choice_Nkm8fjScr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel89033",
+                        "answers": [
+                            "choice_E1Z~UziB5r"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Your team member has exceeded your expectations and you, rightly, rewarded them. What is the next step?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "An opportunity to work on a challenging project can be a motivating reward. People who regularly receive recognition are more productive, more attentive and more engaged.",
+            "tips": "Not only do rewards and recognition for achievements at workplaces act as a morale booster, but they also, in consequence, increase their productivity.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel89033}}",
+            "choice_VyeWLMjr9r": "Back to square one!",
+            "choice_E1Z~UziB5r": "An exciting challenge",
+            "choice_Nkm8fjScr": "Routine, routine, routine… What else?"
+        },
+        "fr": {
+            "header": "Vos collaborateurs ont dépassé les objectifs fixés, et à juste titre, vous les avez récompensés. Quelle est l’étape suivante ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "La possibilité de travailler sur un projet ambitieux peut constituer une récompense motivante. Les personnes dont le travail est régulièrement reconnu sont plus productives, plus attentives et plus impliquées.",
+            "tips": "Les récompenses et la reconnaissance au travail stimulent non seulement le moral des équipes, mais elles leur permettent également d’augmenter leur productivité.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel89033}}",
+            "choice_VyeWLMjr9r": "Retour à la case départ !",
+            "choice_E1Z~UziB5r": "Un défi passionnant",
+            "choice_Nkm8fjScr": "Routine, routine, routine… Quoi d’autre ?"
+        },
+        "de": {
+            "header": "Ihr Teammitglied hat Ihre Erwartungen übertroffen und Sie haben sie zu Recht belohnt. Was ist der nächste Schritt?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Eine Gelegenheit, an einem herausfordernden Projekt zu arbeiten, kann eine motivierende Belohnung sein. Menschen, die regelmäßig Anerkennung erhalten, sind produktiver, aufmerksamer und engagierter.",
+            "tips": "Belohnungen und Anerkennung für Leistungen an Arbeitsplätzen wirken nicht nur als Moralschub, sondern steigern auch deren Produktivität.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel89033}}",
+            "choice_VyeWLMjr9r": "Zurück zum Platz eins!",
+            "choice_E1Z~UziB5r": "Eine spannende Herausforderung",
+            "choice_Nkm8fjScr": "Routine, Routine, Routine ... Was sonst noch?"
+        },
+        "th": {
+            "header": "Your team member has exceeded your expectations and you, rightly, rewarded them. What is the next step?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "An opportunity to work on a challenging project can be a motivating reward. People who regularly receive recognition are more productive, more attentive and more engaged.",
+            "tips": "Not only do rewards and recognition for achievements at workplaces act as a morale booster, but they also, in consequence, increase their productivity.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel89033}}",
+            "choice_VyeWLMjr9r": "Back to square one!",
+            "choice_E1Z~UziB5r": "An exciting challenge",
+            "choice_Nkm8fjScr": "Routine, routine, routine… What else?"
+        }
+    }
+}

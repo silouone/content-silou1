@@ -1,0 +1,72 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-06T13:45:21.335Z",
+            "updatedAt": "2019-03-20T17:40:49.668Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-04-06T12:41:46.566Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_E1nG707VU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "mod_Nki4m0mVU",
+        "universalRef": "mod_Nki4m0mVU",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_E16O861H8",
+            "skill_EJB58a1SL",
+            "skill_41ZsLpkH8"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "creditsToAccess": 1,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_E16O861H8": "Understand how your behaviour influences other people's",
+            "skill_EJB58a1SL": "Adapt your behaviour to a given situation",
+            "skill_41ZsLpkH8": "Comprehend how to choose the way you behave to ensure a positive outcome"
+        },
+        "fr": {
+            "skill_E16O861H8": "Comprendre comment votre comportement influence les autres",
+            "skill_EJB58a1SL": "Adapter votre comportement à une situation donnée",
+            "skill_41ZsLpkH8": "Comprendre comment choisir la façon de vous comporter pour assurer un résultat positif"
+        },
+        "de": {
+            "skill_E16O861H8": "Verstehen Sie, wie Ihr Verhalten andere Menschen beeinflusst",
+            "skill_EJB58a1SL": "Passen Sie Ihr Verhalten an eine gegebene Situation an",
+            "skill_41ZsLpkH8": "Verstehen Sie, wie Sie Ihr Verhalten wählen, um ein positives Ergebnis sicherzustellen"
+        },
+        "th": {
+            "skill_E16O861H8": "Understand how your behaviour influences other people's",
+            "skill_EJB58a1SL": "Adapt your behaviour to a given situation",
+            "skill_41ZsLpkH8": "Comprehend how to choose the way you behave to ensure a positive outcome"
+        }
+    }
+}

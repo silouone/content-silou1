@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T19:00:51.712Z",
+            "updatedAt": "2019-08-27T14:36:11.771Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kiJ5k47D"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_EyVtWhUmv",
+        "universalRef": "sli_EyVtWhUmv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel22071",
+                        "items": [
+                            {
+                                "text": "choice_V1eyib3Umv",
+                                "value": "choice_V1eyib3Umv"
+                            },
+                            {
+                                "text": "choice_NyZkiZhUmP",
+                                "value": "choice_NyZkiZhUmP"
+                            },
+                            {
+                                "text": "choice_VyMiWn87w",
+                                "value": "choice_VyMiWn87w"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel22071",
+                        "answers": [
+                            "choice_VyMiWn87w"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What technique can you use to make someone more likely to say ‘yes’ to your offer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "An agreement staircase produces a climate of agreement. Once the customer starts saying ‘yes’, it's easy to get them to continue. Getting the customer on your side by getting them to say ‘yes’ builds your own confidence to go for the close.",
+            "tips": "Think about the agreement staircase in your long-term relationships with your customers, and always get them to agree on the next steps before ending a meeting.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel22071}}",
+            "choice_V1eyib3Umv": "A harmony escalator",
+            "choice_NyZkiZhUmP": " An acceptance elevator",
+            "choice_VyMiWn87w": "An agreement staircase"
+        },
+        "fr": {
+            "header": "Quelle technique pouvez-vous utiliser pour inciter une personne à dire «oui» à votre offre?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Un escalier d'accord crée un climat d'accord. Une fois que le client commence à dire «oui», il est facile de le faire continuer. Obtenir le client de votre côté en leur demandant de dire «oui» renforce votre confiance en vous pour la clôture.",
+            "tips": "Pensez à l'escalier de l'accord dans vos relations à long terme avec vos clients et amenez-les toujours à se mettre d'accord sur les prochaines étapes avant de mettre fin à une réunion.",
+            "template": "{{sel22071}}",
+            "choice_V1eyib3Umv": "Un escalator harmonie",
+            "choice_NyZkiZhUmP": " Un ascenseur de réception",
+            "choice_VyMiWn87w": "Un escalier d'accord",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "What technique can you use to make someone more likely to say ‘yes’ to your offer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "An agreement staircase produces a climate of agreement. Once the customer starts saying ‘yes’, it's easy to get them to continue. Getting the customer on your side by getting them to say ‘yes’ builds your own confidence to go for the close.",
+            "tips": "Think about the agreement staircase in your long-term relationships with your customers, and always get them to agree on the next steps before ending a meeting.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel22071}}",
+            "choice_V1eyib3Umv": "A harmony escalator",
+            "choice_NyZkiZhUmP": " An acceptance elevator",
+            "choice_VyMiWn87w": "An agreement staircase"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel22071}}",
+            "choice_V1eyib3Umv": "",
+            "choice_NyZkiZhUmP": "",
+            "choice_VyMiWn87w": ""
+        }
+    }
+}

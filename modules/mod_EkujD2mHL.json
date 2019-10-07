@@ -1,0 +1,72 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T15:03:53.315Z",
+            "updatedAt": "2019-03-20T17:22:39.367Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-04-18T14:00:23.141Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_E1rYPnXSL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "ThereseG"
+        },
+        "ref": "mod_EkujD2mHL",
+        "universalRef": "mod_EkujD2mHL",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_4yP~PMFHI",
+            "skill_VJkmDfKSI",
+            "skill_EkWOvfYH8"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "creditsToAccess": 1,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_4yP~PMFHI": "Answer with empathy to any complaint",
+            "skill_VJkmDfKSI": "Initiate a positive dialog with your customer",
+            "skill_EkWOvfYH8": "Restore a friendly relationship with a disgruntled customer"
+        },
+        "fr": {
+            "skill_4yP~PMFHI": "Répondre avec empathie à toute plainte",
+            "skill_VJkmDfKSI": "Initier un dialogue positif avec votre client",
+            "skill_EkWOvfYH8": "Restaurer une relation amicale avec un client mécontent"
+        },
+        "de": {
+            "skill_4yP~PMFHI": "Antworten Sie auf jede Beschwerde mit Empathie",
+            "skill_VJkmDfKSI": "Initiieren Sie einen positiven Dialog mit Ihrem Kunden",
+            "skill_EkWOvfYH8": "Stellen Sie eine freundschaftliche Beziehung zu einem verärgerten Kunden wieder her"
+        },
+        "th": {
+            "skill_4yP~PMFHI": "Answer with empathy to any complaint",
+            "skill_VJkmDfKSI": "Initiate a positive dialog with your customer",
+            "skill_EkWOvfYH8": "Restore a friendly relationship with a disgruntled customer"
+        }
+    }
+}

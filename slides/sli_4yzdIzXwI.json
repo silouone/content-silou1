@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T10:33:05.948Z",
+            "updatedAt": "2019-06-13T10:15:13.713Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nkk~fts8U"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4yzdIzXwI",
+        "universalRef": "sli_4yzdIzXwI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yzdIzXwI.choice_N1xKk-zXDU.id",
+                        "label": "choice_N1xKk-zXDU",
+                        "value": "choice_N1xKk-zXDU",
+                        "media": "med_41K1dMXPL"
+                    },
+                    {
+                        "id": "sli_4yzdIzXwI.choice_4ygJzOG7wI.id",
+                        "label": "choice_4ygJzOG7wI",
+                        "value": "choice_4ygJzOG7wI",
+                        "media": "med_N1JG-M7vL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1xKk-zXDU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Recording the main points is one of the keys to a successful coaching. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you remember to record the main points of your coaching, you surely are on the right track!",
+            "tips": "84 % of HR leaders across various organisations agree that managers who are considered good coaches have more engaged teams.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1xKk-zXDU": "TRUE",
+            "choice_4ygJzOG7wI": "FALSE"
+        },
+        "fr": {
+            "header": "Noter les points principaux est l’une des clés du succès du coaching. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si vous vous rappelez de noter les points principaux de votre coaching, vous êtes sûrement sur la bonne voie !",
+            "tips": "84% des responsables des ressources humaines dans diverses organisations s'accordent à dire que les managers qui sont considérés comme de bons entraîneurs ont des équipes plus engagées.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1xKk-zXDU": "VRAI",
+            "choice_4ygJzOG7wI": "FAUX"
+        },
+        "de": {
+            "header": "Recording the main points is one of the keys to a successful coaching. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you remember to record the main points of your coaching, you surely are on the right track!",
+            "tips": "84 % of HR leaders across various organisations agree that managers who are considered good coaches have more engaged teams.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1xKk-zXDU": "True",
+            "choice_4ygJzOG7wI": "False"
+        },
+        "th": {
+            "header": "Recording the main points is one of the keys to a successful coaching. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you remember to record the main points of your coaching, you surely are on the right track!",
+            "tips": "84 % of HR leaders across various organisations agree that managers who are considered good coaches have more engaged teams.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1xKk-zXDU": "TRUE",
+            "choice_4ygJzOG7wI": "FALSE"
+        }
+    }
+}

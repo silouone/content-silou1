@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-13T08:41:02.859Z",
+            "updatedAt": "2019-05-13T12:59:38.762Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyRWwMGhL"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4JIp5fMh8",
+        "universalRef": "sli_4JIp5fMh8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JIp5fMh8.choice_Vk~KhGM28.id",
+                        "label": "choice_Vk~KhGM28",
+                        "value": "choice_Vk~KhGM28"
+                    },
+                    {
+                        "id": "sli_4JIp5fMh8.choice_VJ253zM3U.id",
+                        "label": "choice_VJ253zM3U",
+                        "value": "choice_VJ253zM3U"
+                    },
+                    {
+                        "id": "sli_4JIp5fMh8.choice_EJZ2hGGnI.id",
+                        "label": "choice_EJZ2hGGnI",
+                        "value": "choice_EJZ2hGGnI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJZ2hGGnI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "By whom do people prefer to be persuaded?",
+            "explanation": "Select the correct answer.",
+            "klf": "We like people like us, and are more influenced by them.",
+            "tips": "Humans have lots of characteristics in common with chimpanzees, and even share around 96% of their DNA...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk~KhGM28": "By people who show characteristics that they themselves are lacking",
+            "choice_VJ253zM3U": "By people who are actively disinterested in them",
+            "choice_EJZ2hGGnI": "By people who are similar to them"
+        },
+        "fr": {
+            "header": "Par qui les gens préfèrent-ils être convaincus ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Nous aimons les gens comme nous et sommes plus influencés par eux.",
+            "tips": "Les humains ont beaucoup de caractéristiques en commun avec les chimpanzés et partagent même environ 96 % de leur ADN...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk~KhGM28": "Par des personnes qui présentent des caractéristiques qu'ils n'ont pas",
+            "choice_VJ253zM3U": "Par des personnes qui se désintéressent vivement d'eux",
+            "choice_EJZ2hGGnI": "Par des personnes qui leur ressemblent"
+        },
+        "de": {
+            "header": "By whom do people prefer to be persuaded?",
+            "explanation": "Select the correct answer.",
+            "klf": "We like people like us, and are more influenced by them.",
+            "tips": "Humans have lots of characteristics in common with chimpanzees, and even share around 96% of their DNA...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk~KhGM28": "By people who show characteristics that they themselves are lacking",
+            "choice_VJ253zM3U": "By people who are actively disinterested in them",
+            "choice_EJZ2hGGnI": "By people who are similar to them"
+        },
+        "th": {
+            "header": "By whom do people prefer to be persuaded?",
+            "explanation": "Select the correct answer.",
+            "klf": "We like people like us, and are more influenced by them.",
+            "tips": "Humans have lots of characteristics in common with chimpanzees, and even share around 96% of their DNA...",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vk~KhGM28": "By people who show characteristics that they themselves are lacking",
+            "choice_VJ253zM3U": "By people who are actively disinterested in them",
+            "choice_EJZ2hGGnI": "By people who are similar to them"
+        }
+    }
+}

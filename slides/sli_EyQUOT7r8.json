@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-18T16:21:48.277Z",
+            "updatedAt": "2019-02-25T14:13:44.402Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkLId3QHU"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_EyQUOT7r8",
+        "universalRef": "sli_EyQUOT7r8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyQUOT7r8.choice_EkJDd6mHI.id",
+                        "label": "choice_EkJDd6mHI",
+                        "value": "choice_EkJDd6mHI"
+                    },
+                    {
+                        "id": "sli_EyQUOT7r8.choice_N1evupmS8.id",
+                        "label": "choice_N1evupmS8",
+                        "value": "choice_N1evupmS8"
+                    },
+                    {
+                        "id": "sli_EyQUOT7r8.choice_VJbDdTmHI.id",
+                        "label": "choice_VJbDdTmHI",
+                        "value": "choice_VJbDdTmHI"
+                    },
+                    {
+                        "id": "sli_EyQUOT7r8.choice_V1fvuaQHU.id",
+                        "label": "choice_V1fvuaQHU",
+                        "value": "choice_V1fvuaQHU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1evupmS8",
+                        "choice_VJbDdTmHI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What do complaining customers want?",
+            "explanation": "Select the correct answers.",
+            "klf": "Customers who complain usually just want to be heard and to find a satisfying solution.",
+            "tips": "In the 1990s, an analysis was carried out on New York State’s doctors’ medical malpractice claims statistics. Patients who expressed concerns about unexpected results received two different responses from their doctors: <br/>–An interruption within four seconds. These doctors were more likely to be sued. <br/>–A caring attitude and being listened to for twenty or more seconds before a response. These doctors were much less likely to be sued.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkJDd6mHI": "They just want compensation",
+            "choice_N1evupmS8": "They want to be offered solutions and a way forward",
+            "choice_VJbDdTmHI": "They want to be heard and understood",
+            "choice_V1fvuaQHU": "They just like to complain"
+        },
+        "fr": {
+            "header": "Que veulent les clients qui se plaignent ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les clients qui se plaignent veulent généralement juste être entendus et trouver une solution satisfaisante.",
+            "tips": "Dans les années 1990, une analyse a été réalisée sur les statistiques de réclamations pour faute professionnelle médicale des médecins de l'État de New York. Les patients qui ont exprimé des inquiétudes au sujet de résultats inattendus ont reçu deux réponses différentes de leur médecin : <br/> – Une interruption dans les quatre secondes. Ces médecins étaient plus susceptibles d'être poursuivis.   <br/> – Une attitude bienveillante et une écoute de vingt secondes ou plus avant une réponse. Ces médecins étaient beaucoup moins susceptibles d'être poursuivis.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkJDd6mHI": "Ils veulent juste une compensation",
+            "choice_N1evupmS8": "Ils veulent se voir proposer des solutions et une voie à suivre",
+            "choice_VJbDdTmHI": "Ils veulent être entendus et compris",
+            "choice_V1fvuaQHU": "Ils aiment juste se plaindre"
+        },
+        "de": {
+            "header": "Was wünschen sich die Kunden, die sich beschweren?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Kunden, die sich beschweren, möchten in der Regel nur gehört werden und eine befriedigende Lösung finden.",
+            "tips": "In den 1990er Jahren wurde eine Analyse der medizinischen Missbrauchsstatistiken von Ärzten in New York State durchgeführt. Patienten, die Bedenken hinsichtlich unerwarteter Ergebnisse äußerten, erhielten zwei unterschiedliche Antworten von ihren Ärzten: <br/> – Eine Unterbrechung innerhalb von vier Sekunden. Diese Ärzte wurden eher verklagt. <br/> - Eine fürsorgliche Haltung und mindestens zwanzig Sekunden Zuhören. Diese Ärzte wurden viel seltener verklagt.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkJDd6mHI": "Sie wollen nur eine Entschädigung",
+            "choice_N1evupmS8": "Sie, dass ihnen wollen Lösungen und einen Weg nach vorne angeboten werden",
+            "choice_VJbDdTmHI": "Sie wollen gehört und verstanden werden",
+            "choice_V1fvuaQHU": "Sie beschweren sich einfach gerne"
+        },
+        "th": {
+            "header": "What do complaining customers want?",
+            "explanation": "Select the correct answers.",
+            "klf": "Customers who complain usually just want to be heard and to find a satisfying solution.",
+            "tips": "In the 1990s, an analysis was carried out on New York State’s doctors’ medical malpractice claims statistics. Patients who expressed concerns about unexpected results received two different responses from their doctors: <br/>–An interruption within four seconds. These doctors were more likely to be sued. <br/>–A caring attitude and being listened to for twenty or more seconds before a response. These doctors were much less likely to be sued.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkJDd6mHI": "They just want compensation",
+            "choice_N1evupmS8": "They want to be offered solutions and a way forward",
+            "choice_VJbDdTmHI": "They want to be heard and understood",
+            "choice_V1fvuaQHU": "They just like to complain"
+        }
+    }
+}

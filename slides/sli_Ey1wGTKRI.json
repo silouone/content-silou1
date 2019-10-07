@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-12T10:41:17.706Z",
+            "updatedAt": "2019-06-12T10:41:17.706Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1bqF3KC8"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_Ey1wGTKRI",
+        "universalRef": "sli_Ey1wGTKRI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ey1wGTKRI.choice_VyYDMTYAU.id",
+                        "label": "choice_VyYDMTYAU",
+                        "value": "choice_VyYDMTYAU"
+                    },
+                    {
+                        "id": "sli_Ey1wGTKRI.choice_4kvdzpKC8.id",
+                        "label": "choice_4kvdzpKC8",
+                        "value": "choice_4kvdzpKC8"
+                    },
+                    {
+                        "id": "sli_Ey1wGTKRI.choice_VJGYGaY0I.id",
+                        "label": "choice_VJGYGaY0I",
+                        "value": "choice_VJGYGaY0I"
+                    },
+                    {
+                        "id": "sli_Ey1wGTKRI.choice_E1k9f6FAI.id",
+                        "label": "choice_E1k9f6FAI",
+                        "value": "choice_E1k9f6FAI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyYDMTYAU",
+                        "choice_VJGYGaY0I",
+                        "choice_E1k9f6FAI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should a good call opening include?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Always give your name, company name and offer help.",
+            "tips": "Not being seen does not make you invisible! Your listener will imagine what you look like and your body language. So make sure to give them clues that will lead to a positive impression.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYDMTYAU": "Your name",
+            "choice_4kvdzpKC8": "Date and time",
+            "choice_VJGYGaY0I": "Company name",
+            "choice_E1k9f6FAI": "An offer to help"
+        },
+        "fr": {
+            "header": "Que devrait inclure un bon début de conversation téléphonique ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Indiquez toujours votre nom, le nom de votre entreprise et offrez votre aide.",
+            "tips": "Ne pas être vu ne vous rend pas invisible ! Votre interlocuteur imaginera à quoi vous ressemblez et votre langage corporel. Assurez-vous donc de lui donner des indices qui conduiront à une impression positive.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYDMTYAU": "Votre nom",
+            "choice_4kvdzpKC8": "La date et l'heure",
+            "choice_VJGYGaY0I": "Le nom de l'entreprise",
+            "choice_E1k9f6FAI": "Une proposition d'aide"
+        },
+        "de": {
+            "header": "What should a good call opening include?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Always give your name, company name and offer help.",
+            "tips": "Not being seen does not make you invisible! Your listener will imagine what you look like and your body language. So make sure to give them clues that will lead to a positive impression.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYDMTYAU": "Your name",
+            "choice_4kvdzpKC8": "Date and time",
+            "choice_VJGYGaY0I": "Company name",
+            "choice_E1k9f6FAI": "An offer to help"
+        },
+        "th": {
+            "header": "What should a good call opening include?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Always give your name, company name and offer help.",
+            "tips": "Not being seen does not make you invisible! Your listener will imagine what you look like and your body language. So make sure to give them clues that will lead to a positive impression.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyYDMTYAU": "Your name",
+            "choice_4kvdzpKC8": "Date and time",
+            "choice_VJGYGaY0I": "Company name",
+            "choice_E1k9f6FAI": "An offer to help"
+        }
+    }
+}

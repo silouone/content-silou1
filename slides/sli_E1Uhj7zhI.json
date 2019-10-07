@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-13T10:27:36.509Z",
+            "updatedAt": "2019-05-13T10:34:22.896Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyRWwMGhL"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_E1Uhj7zhI",
+        "universalRef": "sli_E1Uhj7zhI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel97054",
+                        "items": [
+                            {
+                                "text": "choice_V1lQApXM3I",
+                                "value": "choice_V1lQApXM3I"
+                            },
+                            {
+                                "text": "choice_4yZmAamf3U",
+                                "value": "choice_4yZmAamf3U"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel97054",
+                        "answers": [
+                            "choice_V1lQApXM3I"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "At what point of the influencing process should you look for genuine similarities you might share with the other party?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Look for genuine similarities that you share with someone before you attempt to influence them.",
+            "tips": "To influence someone to do something, it is important to think from their perspective.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel97054}} you try to influence them",
+            "choice_V1lQApXM3I": "Before",
+            "choice_4yZmAamf3U": "After"
+        },
+        "fr": {
+            "header": "À quel moment du processus d'influence devez-vous rechercher des vraies similitudes que vous pourriez partager avec l'autre partie ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Recherchez des vraies similitudes que vous partagez avec quelqu'un avant d'essayer de l'influencer.",
+            "tips": "Pour inciter quelqu'un à faire quelque chose, il est important de penser de son point de vue.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel97054}} de l'influencer",
+            "choice_V1lQApXM3I": "Avant d'essayer",
+            "choice_4yZmAamf3U": "Après avoir essayé"
+        },
+        "de": {
+            "header": "At what point of the influencing process should you look for genuine similarities you might share with the other party?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Look for genuine similarities that you share with someone before you attempt to influence them.",
+            "tips": "To influence someone to do something, it is important to think from their perspective.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel97054}} you try to influence them",
+            "choice_V1lQApXM3I": "Before",
+            "choice_4yZmAamf3U": "After"
+        },
+        "th": {
+            "header": "At what point of the influencing process should you look for genuine similarities you might share with the other party?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Look for genuine similarities that you share with someone before you attempt to influence them.",
+            "tips": "To influence someone to do something, it is important to think from their perspective.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel97054}} you try to influence them",
+            "choice_V1lQApXM3I": "Before",
+            "choice_4yZmAamf3U": "After"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T08:39:42.382Z",
+            "updatedAt": "2018-11-09T11:17:09.892Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJmmTzE9H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_E1KwPUrcS",
+        "universalRef": "sli_E1KwPUrcS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel35928",
+                        "items": [
+                            {
+                                "text": "choice_NygcSOUSqr",
+                                "value": "choice_NygcSOUSqr"
+                            },
+                            {
+                                "text": "choice_4y~9HuLB9S",
+                                "value": "choice_4y~9HuLB9S"
+                            },
+                            {
+                                "text": "choice_VkOPOUS5H",
+                                "value": "choice_VkOPOUS5H"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel35928",
+                        "answers": [
+                            "choice_4y~9HuLB9S"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "A distressing thought crosses your mind: ‘Does anyone like me?’ Immediately, you try to ignore it and block it out. What is going to happen?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Telling yourself not to think about something only makes you think of it more. Instead, allow your thoughts to have their time in your head and they're more likely to disappear of their own accord.",
+            "tips": "To feel positive about yourself generally, try focusing on your strengths instead of dwelling on past mistakes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The distressing thought will {{sel35928}} as you try to suppress it.",
+            "choice_NygcSOUSqr": "disappear",
+            "choice_4y~9HuLB9S": "get louder",
+            "choice_VkOPOUS5H": "become positive"
+        },
+        "fr": {
+            "header": "Une pensée déprimante vous traverse l’esprit : « Est-ce que quelqu’un m’apprécie ? » Vous tentez immédiatement de l’ignorer et de la bloquer. Que va-t-il se produire ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Vous dire de ne pas penser à quelque chose n’aura que pour effet de vous y faire penser davantage.  Laissez plutôt vos pensées prendre leur place dans votre esprit, elles finiront par disparaître d’elles-mêmes plus facilement.",
+            "tips": "Pour être positif de manière générale, essayez de vous concentrer sur vos forces au lieu de ressasser les erreurs du passé.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Les pensées déprimantes vont {{sel35928}} si vous tentez de les supprimer.",
+            "choice_NygcSOUSqr": "disparaître",
+            "choice_4y~9HuLB9S": "devenir plus pressantes",
+            "choice_VkOPOUS5H": "devenir positives"
+        },
+        "de": {
+            "header": "Ein beunruhigender Gedanke kommt Ihnen in den Sinn: „Mag jemand wie ich?“ Sofort versuchen Sie es zu ignorieren und zu blockieren. Was wird passieren?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wenn Sie sich sagen, dass Sie nicht über etwas nachdenken sollten, müssen Sie mehr darüber nachdenken. Erlauben Sie stattdessen, dass Ihre Gedanken Zeit in Ihrem Kopf haben, und sie neigen eher dazu, von sich aus zu verschwinden.",
+            "tips": "Um sich generell positiv zu fühlen, konzentrieren Sie sich auf Ihre Stärken, anstatt sich auf vergangene Fehler zu konzentrieren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Der belastende Gedanke wird {{sel35928}}, wenn Sie versuchen, ihn zu unterdrücken.",
+            "choice_NygcSOUSqr": "verschwinden",
+            "choice_4y~9HuLB9S": "Lauter werden",
+            "choice_VkOPOUS5H": "positiv werden"
+        },
+        "th": {
+            "header": "A distressing thought crosses your mind: ‘Does anyone like me?’ Immediately, you try to ignore it and block it out. What is going to happen?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Telling yourself not to think about something only makes you think of it more. Instead, allow your thoughts to have their time in your head and they're more likely to disappear of their own accord.",
+            "tips": "To feel positive about yourself generally, try focusing on your strengths instead of dwelling on past mistakes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The distressing thought will {{sel35928}} as you try to suppress it.",
+            "choice_NygcSOUSqr": "disappear",
+            "choice_4y~9HuLB9S": "get louder",
+            "choice_VkOPOUS5H": "become positive"
+        }
+    }
+}

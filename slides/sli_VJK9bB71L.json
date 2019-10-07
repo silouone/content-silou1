@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-07T11:16:00.471Z",
+            "updatedAt": "2019-01-21T16:18:52.829Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JtCR4X1L"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VJK9bB71L",
+        "universalRef": "sli_VJK9bB71L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJK9bB71L.choice_NJgpMHXkU.id",
+                        "label": "choice_NJgpMHXkU",
+                        "value": "choice_NJgpMHXkU"
+                    },
+                    {
+                        "id": "sli_VJK9bB71L.choice_Vk~pfH7yL.id",
+                        "label": "choice_Vk~pfH7yL",
+                        "value": "choice_Vk~pfH7yL"
+                    },
+                    {
+                        "id": "sli_VJK9bB71L.choice_EJG6GHXyL.id",
+                        "label": "choice_EJG6GHXyL",
+                        "value": "choice_EJG6GHXyL"
+                    },
+                    {
+                        "id": "sli_VJK9bB71L.choice_EyOMVHmy8.id",
+                        "label": "choice_EyOMVHmy8",
+                        "value": "choice_EyOMVHmy8"
+                    },
+                    {
+                        "id": "sli_VJK9bB71L.choice_NyKLSHQJU.id",
+                        "label": "choice_NyKLSHQJU",
+                        "value": "choice_NyKLSHQJU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vk~pfH7yL",
+                        "choice_EyOMVHmy8"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NyqJXuX18",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you react to their frustration?",
+            "explanation": "Select the correct answers.",
+            "klf": "As a manager, it is your role to motivate your team and to inform them. It is important that you contextualize their missions in the company's overall objectives, that you explain why each person and each person's work is needed, and how it is important.",
+            "tips": "Within your company, you can give the opportunity for employees to work in different open spaces when they feel like it - this can be a good way for them to have an insight into how the other teams are working and the interdependence of the various jobs.",
+            "clue": "",
+            "context_title": "Looking for meaning.",
+            "context_description": "You're the manager of a small team within a company of 90 people. In today's weekly team meeting, your colleagues explain that they have trouble understanding how their work fits in the overall dynamics of the company.",
+            "context_media_description": "",
+            "choice_NJgpMHXkU": "You explain that it is simpler and more efficient if each person focuses on the scope of their own missions to avoid any confusion",
+            "choice_Vk~pfH7yL": "You take time to explain the relevant links between their work and the other teams' missions and highlight the interdependence of the different jobs",
+            "choice_EJG6GHXyL": "You share with them the admin file with the job description of each person in the company",
+            "choice_EyOMVHmy8": "You contextualize their work on the larger scale of the company roadmap, to give meaning to their missions",
+            "choice_NyKLSHQJU": "You explain that motivation is an individual matter and that each person has to find a personal meaning to give to their missions"
+        },
+        "fr": {
+            "header": "Comment réagissez-vous à leur frustration ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "En tant que Manager, il vous appartient de les motiver et de les informer. Il est important que vous contextualisiez leurs missions au sein des objectifs globaux de l’entreprise, que vous expliquiez qu’on a besoin de chacun et du travail de chacun, et pourquoi tout cela est important.",
+            "tips": "Au sein de votre entreprise, vous pouvez donner l’opportunité à vos employés de travailler dans différents open spaces lorsqu’ils le souhaitent – cela peut être un bon moyen pour eux de découvrir le travail d’autres équipes et l’interdépendance des diverses tâches.",
+            "clue": "",
+            "context_title": "Chercher un sens.",
+            "context_description": "Vous managez une petite équipe dans une société de 90 personnes. Lors de la réunion d’équipe d’aujourd’hui, vos collaborateurs expliquent qu’ils ont du mal à comprendre que leur travail contribue à la dynamique globale de l’entreprise.",
+            "context_media_description": "",
+            "choice_NJgpMHXkU": "Vous expliquez qu’il est plus simple et plus efficient que chaque personne se concentre sur ses missions afin d’éviter toute confusion",
+            "choice_Vk~pfH7yL": "Vous prenez le temps d’expliquer quels sont les liens pertinents entre leur travail et les missions d’autres équipes, et mettez en évidence l’interdépendance des tâches",
+            "choice_EJG6GHXyL": "Vous partagez avec eux le dossier administratif comportant la description de poste de chaque collaborateur de l’entreprise",
+            "choice_EyOMVHmy8": "Vous contextualisez leur travail à l’échelle de la feuille de route de l’organisation, afin de donner du sens à leurs missions",
+            "choice_NyKLSHQJU": "Vous expliquez que la motivation est une affaire individuelle et que chaque personne doit trouver un sens à donner à ses missions"
+        },
+        "de": {
+            "header": "Wie reagieren Sie auf ihre Frustration?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Als Manager ist es Ihre Aufgabe, Ihr Team zu motivieren und zu informieren. Es ist wichtig, dass Sie ihre Aufgaben in den Gesamtzielen des Unternehmens kontextualisieren und erklären, warum jede Person und Arbeit jeder Person benötigt wird und wie diese wichtig ist.",
+            "tips": "Innerhalb Ihres Unternehmens können Sie den Mitarbeitern die Möglichkeit geben, in verschiedenen offenen Räumen zu arbeiten, wann immer sie möchten. Dies kann für sie ein guter Weg sein, um einen Einblick in die Arbeitsweise der anderen Teams und die gegenseitige Abhängigkeit der verschiedenen Arbeitsplätze zu erhalten.",
+            "clue": "",
+            "context_title": "Sinn suchen.",
+            "context_description": "Sie sind der Manager eines kleinen Teams in einem Unternehmen von 90 Mitarbeitern. In der heutigen wöchentlichen Teambesprechung erklären Ihre Kollegen, dass sie Schwierigkeiten haben, zu verstehen, wie ihre Arbeit in die Gesamtdynamik des Unternehmens passt.",
+            "context_media_description": "",
+            "choice_NJgpMHXkU": "Sie erklären, dass es einfacher und effizienter ist, wenn sich jede Person auf den Umfang ihrer eigenen Missionen konzentriert, um Verwirrung zu vermeiden",
+            "choice_Vk~pfH7yL": "Sie nehmen sich Zeit, um die relevanten Verbindungen zwischen ihrer Arbeit und den Missionen der anderen Teams zu erläutern und die gegenseitige Abhängigkeit der verschiedenen Jobs hervorzuheben",
+            "choice_EJG6GHXyL": "Sie teilen mit ihnen die Admin-Datei mit der Stellenbeschreibung jeder Person im Unternehmen",
+            "choice_EyOMVHmy8": "Sie kontextualisieren ihre Arbeit im größeren Maßstab der Unternehmens-Roadmap, um ihren Missionen einen Sinn zu geben",
+            "choice_NyKLSHQJU": "Sie erklären, dass Motivation eine individuelle Angelegenheit ist und dass jede Person eine persönliche Bedeutung für ihre Missionen finden muss"
+        },
+        "th": {
+            "header": "คุณจะตอบสนองต่อความไม่พอใจของพวกเขาอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้องได้มากกว่าหนึ่งข้อ",
+            "klf": "ในฐานะผู้จัดการ หน้าที่ของคุณคือการสร้างแรงจูงใจและให้ข้อมูลกับทีมของคุณ สิ่งสำคัญคือคุณจะต้องอธิบายบริบทภาระหน้าที่ของพวกเขาในวัตถุประสงค์โดยรวมของบริษัท คุณต้องอธิบายว่าทำไมทุกๆ คนและงานของทุกคนจึงเป็นสิ่งที่จำเป็น และงานนั้นสำคัญอย่างไร",
+            "tips": "คุณสามารถให้โอกาสพนักงานในการทำงานในพื้นที่เปิดต่างๆ ภายในบริษัทเมื่อพวกเขาต้องการ - ซึ่งอาจเป็นวิธีที่ดีที่จะช่วยให้พวกเขาได้รับรู้ว่าทีมอื่นๆ ทำงานกันอย่างไร และรู้ว่าแต่ละงานพึ่งพากันอย่างไร",
+            "clue": "",
+            "context_title": "การค้นหาความหมาย",
+            "context_description": "คุณเป็นผู้จัดการทีมเล็กๆ ทีมหนึ่งในบริษัทที่มีพนักงาน 90 คน ในการประชุมทีมประจำสัปดาห์ที่จัดขึ้นในวันนี้ เพื่อนร่วมงานของคุณอธิบายว่าพวกเขามีปัญหาในการทำความเข้าใจว่างานของตนเหมาะกับการเติบโตและการพัฒนาโดยรวมของบริษัทอย่างไร",
+            "context_media_description": "",
+            "choice_NJgpMHXkU": "คุณอธิบายว่าจะเป็นการง่ายกว่าและมีประสิทธิภาพมากกว่า หากแต่ละคนสนใจเฉพาะภาระหน้าที่ของตนเองเพื่อป้องกันความสับสน",
+            "choice_Vk~pfH7yL": "คุณใช้เวลาอธิบายความเชื่อมโยงที่เกี่ยวข้องกันระหว่างงานของพวกเขากับภาระหน้าที่ของทีมอื่น และเน้นในเรื่องการพึ่งพากันของงานต่างๆ",
+            "choice_EJG6GHXyL": "คุณแบ่งปันไฟล์ข้อมูลผู้ดูแลที่มีรายละเอียดงานของแต่ละคนในบริษัทกับพนักงาน",
+            "choice_EyOMVHmy8": "คุณอธิบายบริบทงานของพวกเขาในระดับที่ใหญ่ขึ้นในแบบแผนกลยุทธ์ของบริษัท เพื่ออธิบายความหมายภาระหน้าที่ของพวกเขา",
+            "choice_NyKLSHQJU": "คุณอธิบายว่าแรงจูงใจเป็นเรื่องของแต่ละบุคคล และแต่ละคนก็จะต้องค้นหาความหมายของตัวเองสำหรับภาระหน้าที่ของตน"
+        }
+    }
+}

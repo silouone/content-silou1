@@ -1,0 +1,154 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-13T14:08:08.329Z",
+            "updatedAt": "2019-06-24T16:44:57.215Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kixeMiA8"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4JRLwrsCU",
+        "universalRef": "sli_4JRLwrsCU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel59362",
+                        "items": [
+                            {
+                                "text": "choice_4yg2uvBjAI",
+                                "value": "choice_4yg2uvBjAI"
+                            },
+                            {
+                                "text": "choice_EyWnuwrs08",
+                                "value": "choice_EyWnuwrs08"
+                            },
+                            {
+                                "text": "choice_V10FwBs0I",
+                                "value": "choice_V10FwBs0I"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel81486",
+                        "items": [
+                            {
+                                "text": "choice_Nkl6qDHoAU",
+                                "value": "choice_Nkl6qDHoAU"
+                            },
+                            {
+                                "text": "choice_41Z65DHiCL",
+                                "value": "choice_41Z65DHiCL"
+                            },
+                            {
+                                "text": "choice_NkJ3PSoAL",
+                                "value": "choice_NkJ3PSoAL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel59362",
+                        "answers": [
+                            "choice_V10FwBs0I"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel81486",
+                        "answers": [
+                            "choice_41Z65DHiCL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What do the acronyms FOTU and FOMO stand for?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "FOTU means Fear Of The Unknown and FOMO means Fear Of Missing Out. These acronyms are often used when we talk about decision making.",
+            "tips": "As to the acronym FOBO, it means ‘Fear of Better Options’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "FOTU stands for {{sel59362}}, and FOMO stands for {{sel81486}}.",
+            "choice_4yg2uvBjAI": "Fear Of The Unicorn",
+            "choice_EyWnuwrs08": "Fail Of The Unexpected",
+            "choice_V10FwBs0I": "Fear Of The Unknown",
+            "choice_Nkl6qDHoAU": "Fear Of Multiple Options",
+            "choice_41Z65DHiCL": "Fear Of Missing Out",
+            "choice_NkJ3PSoAL": "Fail Of Mysterious Options"
+        },
+        "fr": {
+            "header": "Que signifient les acronymes FOTU et FOMO ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "FOTU signifie la peur de l'inconnu et FOMO signifie la peur de passer à côté de quelque chose. Ces acronymes sont souvent utilisés quand on parle de prise de décision.",
+            "tips": "L’acronyme FOBO signifie \"Fear of Better Options\" (en français, « Peur de faire des choix »).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "FOTU signifie {{sel59362}} et FOMO signifie {{sel81486}}.",
+            "choice_4yg2uvBjAI": "Fear Of The Unicorn (en français « Peur de la licorne »)",
+            "choice_EyWnuwrs08": "Fail Of The Unexpected (en français « Échec de l'inattendu »)",
+            "choice_V10FwBs0I": "Fear Of The Unknown (en français « Peur de l'inconnu »)",
+            "choice_Nkl6qDHoAU": "Fear Of Multiple Options (en français « Peur des choix multiples »)",
+            "choice_41Z65DHiCL": "Fear Of Missing Out (en français « Peur de passer à côté de quelque chose »)",
+            "choice_NkJ3PSoAL": "Fail Of Mysterious Options (en français « Échec des choix mystérieux »)"
+        },
+        "de": {
+            "header": "What do the acronyms FOTU and FOMO stand for?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "FOTU means Fear Of The Unknown and FOMO means Fear Of Missing Out. These acronyms are often used when we talk about decision making.",
+            "tips": "As to the acronym FOBO, it means ‘Fear of Better Options’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "FOTU stands for {{sel59362}}, and FOMO stands for {{sel81486}}.",
+            "choice_4yg2uvBjAI": "Fear Of The Unicorn",
+            "choice_EyWnuwrs08": "Fail Of The Unexpected",
+            "choice_V10FwBs0I": "Fear Of The Unknown",
+            "choice_Nkl6qDHoAU": "Fear Of Multiple Options",
+            "choice_41Z65DHiCL": "Fear Of Missing Out",
+            "choice_NkJ3PSoAL": "Fail Of Mysterious Options"
+        },
+        "th": {
+            "header": "What do the acronyms FOTU and FOMO stand for?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "FOTU means Fear Of The Unknown and FOMO means Fear Of Missing Out. These acronyms are often used when we talk about decision making.",
+            "tips": "As to the acronym FOBO, it means ‘Fear of Better Options’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "FOTU stands for {{sel59362}}, and FOMO stands for {{sel81486}}.",
+            "choice_4yg2uvBjAI": "Fear Of The Unicorn",
+            "choice_EyWnuwrs08": "Fail Of The Unexpected",
+            "choice_V10FwBs0I": "Fear Of The Unknown",
+            "choice_Nkl6qDHoAU": "Fear Of Multiple Options",
+            "choice_41Z65DHiCL": "Fear Of Missing Out",
+            "choice_NkJ3PSoAL": "Fail Of Mysterious Options"
+        }
+    }
+}

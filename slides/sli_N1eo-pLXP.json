@@ -1,0 +1,125 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T20:39:23.200Z",
+            "updatedAt": "2019-09-03T13:14:52.632Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JPO5147D"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_N1eo-pLXP",
+        "universalRef": "sli_N1eo-pLXP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1eo-pLXP.choice_Vks3-6UXw.id",
+                        "label": "choice_Vks3-6UXw",
+                        "value": "choice_Vks3-6UXw"
+                    },
+                    {
+                        "id": "sli_N1eo-pLXP.choice_Ek6hOTUmP.id",
+                        "label": "choice_Ek6hOTUmP",
+                        "value": "choice_Ek6hOTUmP"
+                    },
+                    {
+                        "id": "sli_N1eo-pLXP.choice_NJRnu6UmP.id",
+                        "label": "choice_NJRnu6UmP",
+                        "value": "choice_NJRnu6UmP"
+                    },
+                    {
+                        "id": "sli_N1eo-pLXP.choice_VJead6UQD.id",
+                        "label": "choice_VJead6UQD",
+                        "value": "choice_VJead6UQD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vks3-6UXw",
+                        "choice_Ek6hOTUmP",
+                        "choice_VJead6UQD"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EyHy8UPBD",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why wasn’t your meeting with the prospective customer constructive?",
+            "explanation": "Select the correct answers.",
+            "klf": "You did not take control of the meeting: you didn't ask any open questions, and were unable to obtain any valuable information from his customer. Ask questions to uncover your customer’s needs.",
+            "tips": "Don't ask more than one question at the same time, and give your customer enough time to answer it!",
+            "clue": "",
+            "context_title": "Are you sure that you're really sure?",
+            "context_description": "You are meeting a big customer and try to sell them new ergonomic office chairs. As you are presenting your offer, you notice that your prospect seems to be getting more and more dubious. Before the end of your presentation, he says ‘Look, I'm really sorry but I don't think that will do. I didn't realise that if we buy the chairs, we would also need to adapt the tables that we already have. I don't think we'll be able to commit.’\n<br/>You are a bit unsettled and reply ‘But... Sir, are you sure?’ ‘Well yes’, he says, ’if we change the chairs they won't fit under the tables as they do now, so we'd have to change the tables too, and that was not the plan.’\n<br/>You try one more time, ‘But, Sir, I mean you did want to change the chairs, right, and you did seem very interested in the offer initially?’ He replies ‘I did, but I hadn't taken everything into consideration. i'm very sorry for taking up so much of your time.’",
+            "context_media_description": "",
+            "choice_Vks3-6UXw": "You asked mainly closed questions",
+            "choice_Ek6hOTUmP": "You didn’t probe for information",
+            "choice_NJRnu6UmP": "You were rude to the customer",
+            "choice_VJead6UQD": "You didn’t manage to get any useful information out of the customer"
+        },
+        "fr": {
+            "header": "Pourquoi votre rencontre avec le client potentiel n’est-elle pas constructive?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Vous n’avez pas pris le contrôle de la réunion: vous n’avez posé aucune question ouverte et n’avez pu obtenir aucune information utile de son client. Posez des questions pour découvrir les besoins de vos clients.",
+            "tips": "Ne posez pas plus d'une question à la fois et donnez à votre client suffisamment de temps pour y répondre!",
+            "context_title": "Es-tu sûr d'être vraiment sûr?",
+            "context_description": "Vous rencontrez un gros client et essayez de lui vendre de nouvelles chaises de bureau ergonomiques. En présentant votre offre, vous remarquez que votre prospect semble devenir de plus en plus incertain. Avant la fin de votre exposé, il a déclaré: «Écoutez, je suis vraiment désolé, mais je ne pense pas que cela suffira. Je n'avais pas réalisé que si nous achetions les chaises, nous devions également adapter les tables que nous avons déjà. Je ne pense pas que nous pourrons nous engager. <br/> Vous êtes un peu troublé et répondez &quot;Mais ... Monsieur, êtes-vous sûr?&quot; «Eh bien oui, dit-il, si nous changeons de chaises, elles ne rentreront pas sous les tables comme elles le sont maintenant. Nous devrions donc changer de tables aussi, et ce n'était pas prévu. <br/> Vous essayez encore une fois: &quot;Mais, Monsieur, je veux dire que vous vouliez changer de chaise, n'est-ce pas, et que vous sembliez très intéressé par l'offre au départ?&quot; Il a répondu: &quot;Oui, mais je n'avais pas tout pris en compte. Je suis vraiment désolé d'avoir pris autant de votre temps.",
+            "choice_Vks3-6UXw": "Vous avez principalement posé des questions fermées",
+            "choice_Ek6hOTUmP": "Vous n'avez pas cherché d'informations",
+            "choice_NJRnu6UmP": "Vous avez été impoli avec le client",
+            "choice_VJead6UQD": "Vous n'avez pas réussi à obtenir des informations utiles du client",
+            "clue": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Why wasn’t your meeting with the prospective customer constructive?",
+            "explanation": "Select the correct answers.",
+            "klf": "You did not take control of the meeting: you didn't ask any open questions, and were unable to obtain any valuable information from his customer. Ask questions to uncover your customer’s needs.",
+            "tips": "Don't ask more than one question at the same time, and give your customer enough time to answer it!",
+            "clue": "",
+            "context_title": "Are you sure that you're really sure?",
+            "context_description": "You are meeting a big customer and try to sell them new ergonomic office chairs. As you are presenting your offer, you notice that your prospect seems to be getting more and more dubious. Before the end of your presentation, he says ‘Look, I'm really sorry but I don't think that will do. I didn't realise that if we buy the chairs, we would also need to adapt the tables that we already have. I don't think we'll be able to commit.’\n<br/>You are a bit unsettled and reply ‘But... Sir, are you sure?’ ‘Well yes’, he says, ’if we change the chairs they won't fit under the tables as they do now, so we'd have to change the tables too, and that was not the plan.’\n<br/>You try one more time, ‘But, Sir, I mean you did want to change the chairs, right, and you did seem very interested in the offer initially?’ He replies ‘I did, but I hadn't taken everything into consideration. i'm very sorry for taking up so much of your time.’",
+            "context_media_description": "",
+            "choice_Vks3-6UXw": "You asked mainly closed questions",
+            "choice_Ek6hOTUmP": "You didn’t probe for information",
+            "choice_NJRnu6UmP": "You were rude to the customer",
+            "choice_VJead6UQD": "You didn’t manage to get any useful information out of the customer"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vks3-6UXw": "",
+            "choice_Ek6hOTUmP": "",
+            "choice_NJRnu6UmP": "",
+            "choice_VJead6UQD": ""
+        }
+    }
+}

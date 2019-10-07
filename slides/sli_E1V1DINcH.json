@@ -1,0 +1,123 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T14:29:22.377Z",
+            "updatedAt": "2018-11-09T14:25:08.150Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4J72oUgqB"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E1V1DINcH",
+        "universalRef": "sli_E1V1DINcH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_E1V1DINcH.field_4kvRP8N5H.id",
+                        "type": "text",
+                        "name": "inp41467"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp41467",
+                        "answers": [
+                            "choice_VJGvRwI4cr",
+                            "choice_EJwlu8Eqr",
+                            "choice_VyZb-LVqB",
+                            "choice_VJyHuUEqB",
+                            "choice_4yfrdUN9H",
+                            "choice_4JZ8O8EcS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What does the formula <i>'rigor mentis'</i> refer to?",
+            "explanation": "Type your answer.",
+            "klf": "If anyone tells you that you are a <i>'rigor mentis'</i>, he probably means that you are balky.",
+            "tips": "Even if your idea is probably a good one, it might not be the best one and certainly shouldn’t be the only one!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "<i>'Rigor mentis'</i> actually means '{{inp41467}} mind'.",
+            "choice_VJGvRwI4cr": "rigid",
+            "choice_EJwlu8Eqr": "rigide",
+            "choice_VyZb-LVqB": "stiff",
+            "choice_VJyHuUEqB": "stif",
+            "choice_4yfrdUN9H": "inflexible",
+            "choice_4JZ8O8EcS": "strict"
+        },
+        "fr": {
+            "header": "À quoi l’expression <i>«rigor mentis»</i> fait-elle référence ?",
+            "explanation": "Saisissez votre réponse.",
+            "klf": "Si quelqu’un vous dit que vous êtes un <i>« esprit rigide »</i> cela signifie que vous êtes entêté.",
+            "tips": "Même si l’idée que vous proposez est probablement une bonne idée, elle n’est peut-être pas la meilleure et ne doit en aucun cas être la seule idée proposée !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "<i>«Rigor mentis»</i> signifie en fait « {{inp41467}} intellectuelle ».",
+            "choice_VJGvRwI4cr": "rigidité",
+            "choice_EJwlu8Eqr": "rigidite",
+            "choice_VyZb-LVqB": "Rigidité",
+            "choice_VJyHuUEqB": "Rigidite",
+            "choice_4yfrdUN9H": "inflexibilité",
+            "choice_4JZ8O8EcS": "raideur"
+        },
+        "de": {
+            "header": "Worauf bezieht sich die Formel <i>'Rigor mentis'</i> ?",
+            "explanation": "Geben Sie Ihre Antwort ein.",
+            "klf": "Wenn Ihnen jemand sagt, dass Sie eine <i>'Rigor mentis'</i> haben, bedeutet dies, dass Sie störrisch sind. ",
+            "tips": "Auch wenn Ihre Idee vermutlich eine gute ist, ist sie möglicherweise nicht die beste und sollte nicht die einzige sein!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "<i>'Rigor mentis'</i> bedeutet eigentlich '{{inp41467}}' Geist. ",
+            "choice_VJGvRwI4cr": "starr",
+            "choice_EJwlu8Eqr": "starr",
+            "choice_VyZb-LVqB": "steiff",
+            "choice_VJyHuUEqB": "steif",
+            "choice_4yfrdUN9H": "unflexibel",
+            "choice_4JZ8O8EcS": "streng"
+        },
+        "th": {
+            "header": "คำว่า <i>'rigor mentis'</i> หมายถึงอะไร",
+            "explanation": "พิมพ์คำตอบของคุณ",
+            "klf": "หากมีคนบอกคุณว่าคุณเป็นคน <i>'rigor mentis'</i> เขาน่าจะหมายความว่าคุณเป็นคนดื้อรั้น",
+            "tips": "ถึงแม้ว่าความคิดของคุณอาจจะเป็นความคิดที่ดี แต่ก็อาจไม่ใช่ความคิดที่ดีที่สุด และแน่นอนว่าไม่ใช่เพียงความคิดเดียวที่มีอยู่",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "ความจริงแล้ว <i>'Rigor mentis'</i> หมายความว่า 'จิตใจที่ {{inp41467}}'",
+            "choice_VJGvRwI4cr": "แข็งทื่อ",
+            "choice_EJwlu8Eqr": "แข็งแกร่ง",
+            "choice_VyZb-LVqB": "แข็ง",
+            "choice_VJyHuUEqB": "แน่วแน่",
+            "choice_4yfrdUN9H": "ไม่ยืดหยุ่น",
+            "choice_4JZ8O8EcS": "เคร่งครัด"
+        }
+    }
+}

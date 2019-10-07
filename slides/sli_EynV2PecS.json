@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-05T15:07:37.652Z",
+            "updatedAt": "2018-11-12T13:06:28.921Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJiXiLl9S"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_EynV2PecS",
+        "universalRef": "sli_EynV2PecS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel79084",
+                        "items": [
+                            {
+                                "text": "choice_4Jx~AnveqS",
+                                "value": "choice_4Jx~AnveqS"
+                            },
+                            {
+                                "text": "choice_Nk~W0hDxqB",
+                                "value": "choice_Nk~W0hDxqB"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel79084",
+                        "answers": [
+                            "choice_4Jx~AnveqS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to facilitate team thinking and decision-making?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Encourage direct contribution from your team: it's the key to team thinking and decision-making.",
+            "tips": "It’s easy to let our ego take over when we think we know best. Removing this obstacle will help your team share their ideas.",
+            "clue": "too many mails kills the mailing !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Team thinking and decision-making will be facilitated if you {{sel79084}}",
+            "choice_4Jx~AnveqS": "encourage everyone to contribute",
+            "choice_Nk~W0hDxqB": "get the team to email their ideas"
+        },
+        "fr": {
+            "header": "Quel est le moyen le plus efficace de favoriser la réflexion et la prise de décision en équipe ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Encouragez chacun de vos collaborateurs à contribuer : c’est la solution à une réflexion et une prise de décision en équipe.",
+            "tips": "On peut facilement laisser notre égo prendre le dessus si nous pensons savoir ce qui est le mieux. Surmonter cet obstacle favorisera le partage d’idées au sein de votre équipe.",
+            "clue": "too many mails kills the mailing !",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "La réflexion et la prise de décision en équipe seront facilitées si vous {{sel79084}}",
+            "choice_4Jx~AnveqS": "encouragez chaque membre à contribuer",
+            "choice_Nk~W0hDxqB": "demandez aux membres de l'équipe de consigner leurs idées dans un e-mail"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um Teamdenken und Entscheidungsfindung zu erleichtern?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus. ",
+            "klf": "Ermutigen Sie den direkten Beitrag Ihres Teams: Dies ist der Schlüssel zum Teamdenken und zur Entscheidungsfindung.",
+            "tips": "Es ist leicht, unser Ego überhandnehmen zu lassen, wenn wir glauben, dass wir es am besten können. Kann dieses Hindernis überwunden werden, hilft dies Ihrem Team seine Ideen zu teilen.",
+            "clue": "zu viele Mails töten das Mailing! ",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Teamdenken und Entscheidungsfindung werden erleichtert, wenn Sie {{sel79084}}",
+            "choice_4Jx~AnveqS": "ermutigen Sie alle, einen Beitrag zu leisten",
+            "choice_Nk~W0hDxqB": "Lassen Sie das Team seine Ideen per E-Mail senden"
+        },
+        "th": {
+            "header": "อะไรคือวิธีที่ดีที่สุดเพื่อช่วยในการคิดและการตัดสินใจเป็นทีม",
+            "explanation": "เลือกคำตอบที่ถูกต้องในรายการเมนูแบบเลื่อนลง",
+            "klf": "กระตุ้นให้เกิดส่วนสนับสนุนโดยตรงจากทีมของคุณ: นี่คือกุญแจสู่การคิดและการตัดสินใจเป็นทีม",
+            "tips": "การปล่อยให้อัตตาเข้ามาครอบครองจิตใจเกิดขึ้นได้ง่ายๆ เมื่อเราคิดว่าเรารู้ดีที่สุด การขจัดอุปสรรคนี้ออกได้จะช่วยให้ทีมของคุณแบ่งปันความคิดของตน",
+            "clue": "เมลเยอะเกินไปจะทำให้ระบบเมลพัง",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "การคิดและการตัดสินใจเป็นทีมจะได้รับการสนับสนุน หากคุณ {{sel79084}}",
+            "choice_4Jx~AnveqS": "กระตุ้นให้ทุกคนมีส่วนสนับสนุน",
+            "choice_Nk~W0hDxqB": "ให้ทีมส่งความคิดของตนมาทางอีเมล"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-05T13:33:49.217Z",
+            "updatedAt": "2019-08-08T15:02:01.454Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkjNrEdxD"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E15B6VOxP",
+        "universalRef": "sli_E15B6VOxP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E15B6VOxP.choice_NJe4KR4OeP.id",
+                        "label": "choice_NJe4KR4OeP",
+                        "value": "choice_NJe4KR4OeP",
+                        "media": "med_NkNFCNuev"
+                    },
+                    {
+                        "id": "sli_E15B6VOxP.choice_Nye3Q1SOev.id",
+                        "label": "choice_Nye3Q1SOev",
+                        "value": "choice_Nye3Q1SOev",
+                        "media": "med_4k2XkH-xw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nye3Q1SOev"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4kB5T4ulD",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which rubber duck model are you going to choose to make your big boss happy, good leader?",
+            "explanation": "Select the correct answer.",
+            "klf": "The Bathing Buddy is the most ethical choice here. Which means that whatever its price is, it's the right and only rubber duck you need for your collaborators.",
+            "tips": "In 2019, there are still millions of underpaid children crafting cheap products around the world, and mostly in Asia. Ethics still have a long way to go to reduce these inequalities and give all children the rights they deserve. And it starts with buying ethical products: not the cheap Superquack, but rather the cool Bathing Buddy.",
+            "clue": "",
+            "context_title": "The Ethical Rubber Duck",
+            "context_description": "Hello good leader.<br/><br/>I've heard that you took the decision to offer all our employees rubber ducks for Christmas Eve. Well, this is… surreal… but nice! Did you choose the brand you want to purchase already? Don't forget that ethics is of great importance in our company.<br/><br/>The Big boss.",
+            "context_media_description": "",
+            "choice_NJe4KR4OeP": "The Superquack / $ / Asia / unpaid children",
+            "choice_Nye3Q1SOev": "The Bathing Buddy / $$$ / Europe / qualified artisans"
+        },
+        "fr": {
+            "header": "Quel modèle de canard en caoutchouc allez-vous choisir pour satisfaire votre grand patron, bon manager ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Le Bathing Buddy est le choix le plus éthique ici. Ce qui signifie que quel que soit son prix, c'est le bon et le seul canard en caoutchouc dont vous avez besoin pour vos collaborateurs.",
+            "tips": "En 2019, il y a encore des millions d'enfants sous-payés qui fabriquent des produits bon marché dans le monde entier, principalement en Asie. L'éthique a encore beaucoup à faire pour réduire ces inégalités et donner à tous les enfants les droits qu'ils méritent. Et cela commence par l'achat de produits éthiques : pas le Superquack bon marché, mais plutôt le sympathique Bathing Buddy.",
+            "clue": "",
+            "context_title": "Le canard en caoutchouc éthique",
+            "context_description": "Bonjour bon manager.<br/><br/>J'ai entendu dire que vous aviez décidé d'offrir à tous nos employés des canards en caoutchouc pour le réveillon de Noël. Eh bien, c'est… surréaliste… mais sympa ! Avez-vous déjà choisi la marque que vous souhaitez acheter ? N'oubliez pas que l'éthique est d'une grande importance pour notre entreprise.<br/><br/> Le grand patron.",
+            "context_media_description": "",
+            "choice_NJe4KR4OeP": "Le Superquack / $ / l'Asie / les enfants non rémunérés",
+            "choice_Nye3Q1SOev": "Le Bathing Buddy / $$$ / l'Europe / les artisans qualifiés"
+        },
+        "de": {
+            "header": "Which rubber duck model are you going to choose to make your big boss happy, good leader?",
+            "explanation": "Select the correct answer.",
+            "klf": "The Bathing Buddy is the most ethical choice here. Which means that whatever its price is, it's the right and only rubber duck you need for your collaborators.",
+            "tips": "In 2019, there are still millions of underpaid children crafting cheap products around the world, and mostly in Asia. Ethics still have a long way to go to reduce these inequalities and give all children the rights they deserve. And it starts with buying ethical products: not the cheap Superquack, but rather the cool Bathing Buddy.",
+            "clue": "",
+            "context_title": "The Ethical Rubber Duck",
+            "context_description": "Hello good leader.\n\nI've heard that you took the decision to offer all our employees rubber ducks for Christmas Eve. Well, this is… surreal… but nice! Did you choose the brand you want to purchase already? Don't forget that ethics is of great importance in our company.\n\nThe Big boss.",
+            "context_media_description": "",
+            "choice_NJe4KR4OeP": "The Superquack / $ / Asia / unpaid children",
+            "choice_Nye3Q1SOev": "The Bathing Buddy / $$$ / Europe / qualified artisans"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJe4KR4OeP": "",
+            "choice_Nye3Q1SOev": ""
+        }
+    }
+}

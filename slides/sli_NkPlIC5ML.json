@@ -1,0 +1,113 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T14:48:32.197Z",
+            "updatedAt": "2019-02-21T17:24:22.632Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJEzasa~I"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_NkPlIC5ML",
+        "universalRef": "sli_NkPlIC5ML",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NkPlIC5ML.choice_VJxs-kkszL.id",
+                        "label": "choice_VJxs-kkszL",
+                        "value": "choice_VJxs-kkszL",
+                        "media": "med_41jd1ksfU"
+                    },
+                    {
+                        "id": "sli_NkPlIC5ML.choice_EJxTuyyjzU.id",
+                        "label": "choice_EJxTuyyjzU",
+                        "value": "choice_EJxTuyyjzU",
+                        "media": "med_Ekpu1yiGL"
+                    },
+                    {
+                        "id": "sli_NkPlIC5ML.choice_VklCdJyizL.id",
+                        "label": "choice_VklCdJyizL",
+                        "value": "choice_VklCdJyizL",
+                        "media": "med_Ny0uyJoz8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VklCdJyizL",
+                        "choice_EJxTuyyjzU",
+                        "choice_VJxs-kkszL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who is affected by the quality of a product?",
+            "explanation": "Select the correct answers.",
+            "klf": "Everything and everyone! Quality is one of the most important factors to the success of an organization. And it’s something that, as customers, we expect. Finally, employees take pride in doing a good job.",
+            "tips": "Originally, quality concerned mainly the manufacturing industry. But today, it has clearly moved to other areas, such as service, healthcare or education.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxs-kkszL": "Customers",
+            "choice_EJxTuyyjzU": "Employees",
+            "choice_VklCdJyizL": "The company"
+        },
+        "fr": {
+            "header": "Qui est impacté par la qualité d'un produit ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Tout et tout le monde ! La qualité est le premier élément qui contribue à la réussite d'une organisation. Et en tant que clients, c'est ce que nous attendons d'une entreprise. Et au final, les employés sont très fiers de réaliser un travail de qualité.",
+            "tips": "À l'origine, la qualité concernait principalement les industries manufacturières. Mais de nos jours, elle est également présente dans bien d'autres secteurs d'activité, tels les services, la santé ou l'éducation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxs-kkszL": "Clients ",
+            "choice_EJxTuyyjzU": "Employés ",
+            "choice_VklCdJyizL": "L'entreprise "
+        },
+        "de": {
+            "header": "Wer ist von der Qualität eines Produktes betroffen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Alles und alle! Qualität ist einer der wichtigsten Faktoren für den Erfolg einer Organisation. Und das erwarten wir als Kunden. Schließlich sind die Mitarbeiter stolz darauf, gute Arbeit zu leisten.",
+            "tips": "Ursprünglich betraf Qualität hauptsächlich die verarbeitende Industrie. Heute hat es sich jedoch eindeutig in andere Bereiche wie Dienstleistungen, Gesundheitswesen oder Bildung bewegt.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxs-kkszL": "Kunden",
+            "choice_EJxTuyyjzU": "Angestellte",
+            "choice_VklCdJyizL": "Das Unternehmen"
+        },
+        "th": {
+            "header": "Who is affected by the quality of a product?",
+            "explanation": "Select the correct answers.",
+            "klf": "Everything and everyone! Quality is one of the most important factors to the success of an organization. And it’s something that, as customers, we expect. Finally, employees take pride in doing a good job.",
+            "tips": "Originally, quality concerned mainly the manufacturing industry. But today, it has clearly moved to other areas, such as service, healthcare or education.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJxs-kkszL": "Customers",
+            "choice_EJxTuyyjzU": "Employees",
+            "choice_VklCdJyizL": "The company"
+        }
+    }
+}

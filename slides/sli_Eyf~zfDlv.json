@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-04T16:05:13.022Z",
+            "updatedAt": "2019-07-04T16:38:49.126Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJm-2~vlD"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_Eyf~zfDlv",
+        "universalRef": "sli_Eyf~zfDlv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Eyf~zfDlv.choice_VJJ4zfPeD.id",
+                        "label": "choice_VJJ4zfPeD",
+                        "value": "choice_VJJ4zfPeD"
+                    },
+                    {
+                        "id": "sli_Eyf~zfDlv.choice_V1F4MfveP.id",
+                        "label": "choice_V1F4MfveP",
+                        "value": "choice_V1F4MfveP"
+                    },
+                    {
+                        "id": "sli_Eyf~zfDlv.choice_4JWBMzveP.id",
+                        "label": "choice_4JWBMzveP",
+                        "value": "choice_4JWBMzveP"
+                    },
+                    {
+                        "id": "sli_Eyf~zfDlv.choice_N12BzGveD.id",
+                        "label": "choice_N12BzGveD",
+                        "value": "choice_N12BzGveD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N12BzGveD",
+                        "choice_V1F4MfveP",
+                        "choice_VJJ4zfPeD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the effects of a negative attitude on those around you?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A negative attitude not only affects you, but might bring people down around you. As a result, even your work buddy might end up avoiding you!",
+            "tips": "<a href=\"https://www.scientificamerican.com/article/is-a-bad-mood-contagious/\" target=\"_blank\">Is a bad mood contagious?</a> Science might finally have answers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJJ4zfPeD": "Other people find it hard to be happy around you",
+            "choice_V1F4MfveP": "It brings people down too",
+            "choice_4JWBMzveP": "People give you biscuits and try to cheer you up",
+            "choice_N12BzGveD": "People avoid you"
+        },
+        "fr": {
+            "header": "Quels effets une attitude négative a-t-elle sur ceux qui vous entourent ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Une attitude négative ne vous affecte pas seulement, elle peut aussi abattre les gens autour de vous. Par conséquent, même votre collègue de travail pourrait finir par vous éviter !",
+            "tips": "<a href=\"https://www.scientificamerican.com/article/is-a-bad-mood-contagious/\" target=\"_blank\">La mauvaise humeur est-elle contagieuse ?</a> La science pourrait enfin avoir des réponses.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJJ4zfPeD": "Les autres ont du mal à se sentir heureux près de vous",
+            "choice_V1F4MfveP": "Cela abat aussi les autres autour",
+            "choice_4JWBMzveP": "Les autres vous donnent des biscuits et essaient de vous remonter le moral",
+            "choice_N12BzGveD": "Les autres vous évitent"
+        },
+        "de": {
+            "header": "What are the effects of a negative attitude on those around you?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A negative attitude not only affects you, but might bring people down around you. As a result, even your work buddy might end up avoiding you!",
+            "tips": "<a href=\"https://www.scientificamerican.com/article/is-a-bad-mood-contagious/\" target=\"_blank\">Is a bad mood contagious?</a> Science might finally have answers.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJJ4zfPeD": "Other people find it hard to be happy around you",
+            "choice_V1F4MfveP": "It brings people down too",
+            "choice_4JWBMzveP": "People give you biscuits and try to cheer you up",
+            "choice_N12BzGveD": "People avoid you"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJJ4zfPeD": "",
+            "choice_V1F4MfveP": "",
+            "choice_4JWBMzveP": "",
+            "choice_N12BzGveD": ""
+        }
+    }
+}

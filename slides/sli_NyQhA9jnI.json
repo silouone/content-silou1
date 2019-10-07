@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T13:46:57.077Z",
+            "updatedAt": "2019-05-20T13:54:08.232Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWN5-D2L"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NyQhA9jnI",
+        "universalRef": "sli_NyQhA9jnI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyQhA9jnI.choice_Ek3CR9onI.id",
+                        "label": "choice_Ek3CR9onI",
+                        "value": "choice_Ek3CR9onI"
+                    },
+                    {
+                        "id": "sli_NyQhA9jnI.choice_VJpRA9inI.id",
+                        "label": "choice_VJpRA9inI",
+                        "value": "choice_VJpRA9inI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJpRA9inI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can leaders set an example to their teams?",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s not enough to issue missives. Leaders have to do some of the unpleasant jobs to set an example",
+            "tips": "When you’re trying to gain trust and respect, support is much more efficient than orders.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek3CR9onI": "Email them their job descriptions at the beginning of each month",
+            "choice_VJpRA9inI": "Do some of the unpleasant jobs themselves"
+        },
+        "fr": {
+            "header": "Comment les leaders peuvent-ils donner l'exemple à leurs équipes ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Publier des missives ne suffit pas. Les leaders doivent réaliser certaines des tâches ingrates pour donner l'exemple.",
+            "tips": "Lorsque vous essayez de gagner la confiance et le respect de vos employés, les soutenir est beaucoup plus efficace que leur donner des ordres.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek3CR9onI": "En leur envoyant par email une description de leurs tâches au début de chaque mois",
+            "choice_VJpRA9inI": "En réalisant certaines des tâches ingrates eux-mêmes"
+        },
+        "de": {
+            "header": "How can leaders set an example to their teams? ",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s not enough to issue missives. Leaders have to do some of the unpleasant jobs to set an example",
+            "tips": "When you’re trying to gain trust and respect, support is much more efficient than orders.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek3CR9onI": "Email them their job descriptions at the beginning of each month",
+            "choice_VJpRA9inI": "Do some of the unpleasant jobs themselves"
+        },
+        "th": {
+            "header": "How can leaders set an example to their teams?",
+            "explanation": "Select the correct answer.",
+            "klf": "It’s not enough to issue missives. Leaders have to do some of the unpleasant jobs to set an example",
+            "tips": "When you’re trying to gain trust and respect, support is much more efficient than orders.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ek3CR9onI": "Email them their job descriptions at the beginning of each month",
+            "choice_VJpRA9inI": "Do some of the unpleasant jobs themselves"
+        }
+    }
+}

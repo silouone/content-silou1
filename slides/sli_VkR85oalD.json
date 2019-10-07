@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-09T16:06:16.179Z",
+            "updatedAt": "2019-07-30T10:15:28.808Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJ8W9splw"
+            ],
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_VkR85oalD",
+        "universalRef": "sli_VkR85oalD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VkR85oalD.choice_Nke-qsaew.id",
+                        "label": "choice_Nke-qsaew",
+                        "value": "choice_Nke-qsaew"
+                    },
+                    {
+                        "id": "sli_VkR85oalD.choice_N1qOciTlw.id",
+                        "label": "choice_N1qOciTlw",
+                        "value": "choice_N1qOciTlw"
+                    },
+                    {
+                        "id": "sli_VkR85oalD.choice_NkyF9opxv.id",
+                        "label": "choice_NkyF9opxv",
+                        "value": "choice_NkyF9opxv"
+                    },
+                    {
+                        "id": "sli_VkR85oalD.choice_41NK9jpgw.id",
+                        "label": "choice_41NK9jpgw",
+                        "value": "choice_41NK9jpgw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkyF9opxv",
+                        "choice_41NK9jpgw"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_V1zLVWKMv",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What can a customer NOT expect you to know about your product?",
+            "explanation": "Select the correct answers below.",
+            "klf": "As a salesperson, you should have a detailed knowledge of what you’ve got: your product range and all its features. This is key information. But you are not supposed to know how the product was exactly made or how many items were sold last week!",
+            "tips": "Beware! According to Forbes, customers are now quite knowledgeable about the products they want to buy. It is the ROBO effect: Research Online Buy Offline. Therefore, your knowledge must be very accurate! <a href=\"https://www.forbes.com/sites/jiawertz/2019/03/26/authentic-salesmanship-is-key-to-success-in-the-research-online-buy-offline-robo-economy\" target=\"_blank\">Click here to read more.</a>",
+            "clue": "",
+            "context_title": "The \"Master of shoes\"",
+            "context_description": "Today, in less than 30 minutes, five customers have come to the front desk to ask you almost everything that it is possible to ask about a pair of shoes.<br/><br/>Miss A wasn't sure about the price.<br/><br/>Mrs. B had a concern about the quality of materials.<br/><br/>Mrs. C was the most curious: 'Never seen anything like the green shoes over there: who designed this piece of art?'.<br/><br/>Miss D won't wear the same thing as everyone: 'How many pairs of those ones have been sold last week?'.<br/><br/>And Mrs. E won't buy without being sure the sole will adapt to her feet.<br/><br/>But, truth is, you can still be a \"Master of shoes\" even if you can't answer all of these questions.",
+            "context_media_description": "",
+            "choice_Nke-qsaew": "The price",
+            "choice_N1qOciTlw": "Product features such as material or services",
+            "choice_NkyF9opxv": "How something was created",
+            "choice_41NK9jpgw": "How many items were sold last week",
+            "choice_4yQyxfdGv": "Product features such as services"
+        },
+        "fr": {
+            "header": "Qu'est-ce qu'un client ne peut PAS espérer que vous sachiez à propos de votre produit ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "En tant que vendeur, vous devez posséder une connaissance détaillée de ce que vous avez : votre gamme de produits et toutes ses caractéristiques. C'est une information clé. Mais vous n'êtes pas censé savoir comment le produit a été fabriqué ni combien d'articles ont été vendus la semaine dernière !",
+            "tips": "Attention ! Selon le Forbes, les clients sont maintenant bien informés sur les produits qu'ils souhaitent acheter. C’est l’effet ROBO : recherche en ligne, achat hors ligne (de l'anglais Research Online Buy Offline). Par conséquent, vos connaissances doivent être très précises ! <a href=\"https://www.forbes.com/sites/jiawertz/2019/03/26/authentic-salesmanship-is-key-to-success-in-the-research-online-buy-offline-robo-economy\" target=\"_blank\">Cliquez ici pour en lire plus.</a>",
+            "clue": "",
+            "context_title": "Le «maître des chaussures»",
+            "context_description": "Aujourd'hui, en moins de 30 minutes, cinq clients sont venus à la réception pour vous demander presque tout ce qu'il est possible de vous demander sur une paire de chaussures. <br/> Mlle A. n'était pas sûre du prix. <br/> Mme B. était inquiète de la qualité des matériaux. <br/> Mme C. était la plus curieuse : « Je n'ai jamais rien vu de comparable à ces chaussures vertes : qui a conçu cette œuvre d'art ? ». <br/> Mlle D. ne portera pas la même chose que tout le monde : « Combien de paires ont été vendues la semaine dernière ? ». <br/> Et Mme E. n'achètera pas sans être sûre que la semelle s'adaptera à ses pieds. <br/> Mais, en vérité, vous pouvez toujours être un « maître des chaussures » même si vous ne pouvez pas répondre à toutes ces questions.",
+            "context_media_description": "",
+            "choice_Nke-qsaew": "Le prix",
+            "choice_N1qOciTlw": "Les caractéristiques du produit comme les matériaux ou les services",
+            "choice_NkyF9opxv": "La façon dont le produit a été fabriqué",
+            "choice_41NK9jpgw": "Le nombre d'articles ayant été vendus la semaine dernière",
+            "choice_4yQyxfdGv": ""
+        },
+        "de": {
+            "header": "What can a customer NOT expect you to know about your product?",
+            "explanation": "Select the correct answers below.",
+            "klf": "As a salesperson, you should have a detailed knowledge of what you’ve got: your product range and all its features. This is key information. But you are not supposed to know how the product was exactly made or how many items were sold last week!",
+            "tips": "Beware! According to Forbes, customers are now quite knowledgeable about the products they want to buy. It is the ROBO effect: Research Online Buy Offline. Therefore, your knowledge must be very accurate! <a href=\"https://www.forbes.com/sites/jiawertz/2019/03/26/authentic-salesmanship-is-key-to-success-in-the-research-online-buy-offline-robo-economy\" target=\"_blank\">Click here to read more.</a>",
+            "clue": "",
+            "context_title": "The \"Master of shoes\"",
+            "context_description": "Today, in less than 30 minutes, five customers have come to the front desk to ask you almost everything that it is possible to ask about a pair of shoes.<br/>\nMiss A wasn't sure about the price.<br/>\nMrs. B had a concern about the quality of materials.<br/>\nMrs. C was the most curious: 'Never seen anything like the green shoes over there: who designed this piece of art?'.<br/>\nMiss D won't wear the same thing as everyone: 'How many pairs of those ones have been sold last week?'.<br/>\nAnd Mrs. E won't buy without being sure the sole will adapt to her feet.<br/>\nBut, truth is, you can still be a \"Master of shoes\" even if you can't answer all of these questions.",
+            "context_media_description": "",
+            "choice_Nke-qsaew": "The price",
+            "choice_N1qOciTlw": "Product features such as material or services",
+            "choice_NkyF9opxv": "How something was created",
+            "choice_41NK9jpgw": "How many items were sold last week",
+            "choice_4yQyxfdGv": ""
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nke-qsaew": "",
+            "choice_N1qOciTlw": "",
+            "choice_NkyF9opxv": "",
+            "choice_41NK9jpgw": "",
+            "choice_4yQyxfdGv": ""
+        }
+    }
+}

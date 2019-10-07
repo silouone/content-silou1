@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:03:43.745Z",
+            "updatedAt": "2019-06-26T13:59:51.221Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJXIulsRL"
+            ],
+            "modifiedBy": "ThereseG",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_N1YKfASkw",
+        "universalRef": "sli_N1YKfASkw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1YKfASkw.choice_VJlhazRSkP.id",
+                        "label": "choice_VJlhazRSkP",
+                        "value": "choice_VJlhazRSkP",
+                        "media": "med_Ny36M0B1D"
+                    },
+                    {
+                        "id": "sli_N1YKfASkw.choice_EJgkAGCrJv.id",
+                        "label": "choice_EJgkAGCrJv",
+                        "value": "choice_EJgkAGCrJv",
+                        "media": "med_EkkCz0SJD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJgkAGCrJv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Efficient training is done fast. It is counterproductive for managers to spend time repeating themselves. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Managers often overlook the importance of training because they want things done fast and don’t want to spend time repeating themselves. But the reality is that human beings can only remember small amounts of information at a time.",
+            "tips": "According to the <i>Harvard Business Review</i>, managers that deliberately repeat themselves get things done more effectively than those who think they can tell people what to do just once.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlhazRSkP": "True",
+            "choice_EJgkAGCrJv": "False"
+        },
+        "fr": {
+            "header": "Une formation efficace se fait rapidement. Il est contre-productif pour les managers de passer du temps à se répéter. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les managers oublient souvent l’importance de la formation parce qu’ils veulent que les choses soient faites rapidement et ne veulent pas perdre de temps à se répéter. Mais la réalité est que les êtres humains ne peuvent se souvenir que de petites quantités d’informations à la fois.",
+            "tips": "Selon le <i>Harvard Business Review</i>, les managers qui se répètent délibérément obtiennent des résultats plus efficaces que ceux qui pensent pouvoir dire aux gens ce qu'ils doivent faire qu'une seule fois.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlhazRSkP": "Vrai",
+            "choice_EJgkAGCrJv": "Faux"
+        },
+        "de": {
+            "header": "Efficient training is done fast. It is counterproductive for managers to spend time repeating themselves. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Managers often overlook the importance of training because they want things done fast and don’t want to spend time repeating themselves. But the reality is that human beings can only remember small amounts of information at a time.",
+            "tips": "According to the <i>Harvard Business Review</i>, managers that deliberately repeat themselves get things done more effectively than those who think they can tell people what to do just once.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlhazRSkP": "True",
+            "choice_EJgkAGCrJv": "False"
+        },
+        "th": {
+            "header": "Efficient training is done fast. It is counterproductive for managers to spend time repeating themselves. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Managers often overlook the importance of training because they want things done fast and don’t want to spend time repeating themselves. But the reality is that human beings can only remember small amounts of information at a time.",
+            "tips": "According to the <i>Harvard Business Review</i>, managers that deliberately repeat themselves get things done more effectively than those who think they can tell people what to do just once.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJlhazRSkP": "True",
+            "choice_EJgkAGCrJv": "False"
+        }
+    }
+}

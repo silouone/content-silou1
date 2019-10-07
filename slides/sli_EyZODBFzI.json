@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-17T10:27:13.742Z",
+            "updatedAt": "2019-06-17T10:25:07.336Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ9yTjab8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_EyZODBFzI",
+        "universalRef": "sli_EyZODBFzI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyZODBFzI.choice_E1LKwBKfU.id",
+                        "label": "choice_E1LKwBKfU",
+                        "value": "choice_E1LKwBKfU"
+                    },
+                    {
+                        "id": "sli_EyZODBFzI.choice_4kvFvrtzL.id",
+                        "label": "choice_4kvFvrtzL",
+                        "value": "choice_4kvFvrtzL"
+                    },
+                    {
+                        "id": "sli_EyZODBFzI.choice_VJdKvHYfU.id",
+                        "label": "choice_VJdKvHYfU",
+                        "value": "choice_VJdKvHYfU"
+                    },
+                    {
+                        "id": "sli_EyZODBFzI.choice_4kAYwSFGI.id",
+                        "label": "choice_4kAYwSFGI",
+                        "value": "choice_4kAYwSFGI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kAYwSFGI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the best definition of a ‘milestone’?",
+            "explanation": "Select the correct answer.",
+            "klf": "As a manager, it is your responsibility to set milestones: important deadlines throughout the project. They will help everyone stay up to date and be efficient.",
+            "tips": "The word ‘milestone’ has been used as an album title by, among others, the Rolling Stones or Miles Davis. That's how metaphorically significant that term is!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1LKwBKfU": "An essential task",
+            "choice_4kvFvrtzL": "A list of tasks",
+            "choice_VJdKvHYfU": "The final deadline",
+            "choice_4kAYwSFGI": "An important deadline"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure définition d'un « jalon » ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "En tant que manager, il vous appartient de définir des jalons, c'est-à-dire, certains étapes importantes du projet. Ces jalons permettront à chacun de rester impliqué et efficace.",
+            "tips": "Des artistes comme les Rolling Stones et Miles Davis ont utilisé le terme « jalon » dans certains titres d'album. C'est dire l'importance métaphorique de ce terme !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1LKwBKfU": "Une aide indispensable",
+            "choice_4kvFvrtzL": "Une liste de tâches",
+            "choice_VJdKvHYfU": "Le délai final",
+            "choice_4kAYwSFGI": "Une étape importante"
+        },
+        "de": {
+            "header": "Was ist die beste Definition eines \"Meilensteins\"?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Als Manager liegt es in Ihrer Verantwortung, Meilensteine festzulegen: wichtige Fristen während des gesamten Projekts. Sie helfen allen, auf dem neuesten Stand zu bleiben und effizient zu sein.",
+            "tips": "Das Wort \"Meilenstein\" wurde unter anderem von den Rolling Stones oder Miles Davis als Albumtitel verwendet. So metaphorisch bedeutsam ist dieser Begriff!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1LKwBKfU": "Eine wesentliche Aufgabe",
+            "choice_4kvFvrtzL": "Eine Liste von Aufgaben",
+            "choice_VJdKvHYfU": "Die letzte Frist",
+            "choice_4kAYwSFGI": "Eine wichtige Frist"
+        },
+        "th": {
+            "header": "What is the best definition of a ‘milestone’?",
+            "explanation": "Select the correct answer.",
+            "klf": "As a manager, it is your responsibility to set milestones: important deadlines throughout the project. They will help everyone stay up to date and be efficient.",
+            "tips": "The word ‘milestone’ has been used as an album title by, among others, the Rolling Stones or Miles Davis. That's how metaphorically significant that term is!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1LKwBKfU": "An essential task",
+            "choice_4kvFvrtzL": "A list of tasks",
+            "choice_VJdKvHYfU": "The final deadline",
+            "choice_4kAYwSFGI": "An important deadline"
+        }
+    }
+}

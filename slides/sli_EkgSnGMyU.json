@@ -1,0 +1,129 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T14:10:09.504Z",
+            "updatedAt": "2019-01-21T14:55:13.342Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1cvd9eJU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EkgSnGMyU",
+        "universalRef": "sli_EkgSnGMyU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkgSnGMyU.choice_EJUFhfzkL.id",
+                        "label": "choice_EJUFhfzkL",
+                        "value": "choice_EJUFhfzkL"
+                    },
+                    {
+                        "id": "sli_EkgSnGMyU.choice_VJlUKhzzyU.id",
+                        "label": "choice_VJlUKhzzyU",
+                        "value": "choice_VJlUKhzzyU"
+                    },
+                    {
+                        "id": "sli_EkgSnGMyU.choice_Vk-t2fGJL.id",
+                        "label": "choice_Vk-t2fGJL",
+                        "value": "choice_Vk-t2fGJL"
+                    },
+                    {
+                        "id": "sli_EkgSnGMyU.choice_EkpF2fMJU.id",
+                        "label": "choice_EkpF2fMJU",
+                        "value": "choice_EkpF2fMJU"
+                    },
+                    {
+                        "id": "sli_EkgSnGMyU.choice_EkeTK3zMJL.id",
+                        "label": "choice_EkeTK3zMJL",
+                        "value": "choice_EkeTK3zMJL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJlUKhzzyU",
+                        "choice_EkpF2fMJU",
+                        "choice_EkeTK3zMJL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a manager, what kind of behaviour can hinder your relationships?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Many of us cope badly with angry or emotional people. If you find yourself in a difficult situation, beware of not hindering the relationship. Don't interrupt the other person and rather than being defensive, accept to acknowledge their point of view to remain objective and professional.",
+            "tips": "If you react angrily to another person's anger, you can be seen as the aggressor yourself, which would be counter-productive and would harm your credibility.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJUFhfzkL": "Leaning forward with hands open",
+            "choice_VJlUKhzzyU": "Interrupting",
+            "choice_Vk-t2fGJL": "Asking the other person open questions",
+            "choice_EkpF2fMJU": "Refusing to acknowledge the other person's point of view",
+            "choice_EkeTK3zMJL": "Being defensive"
+        },
+        "fr": {
+            "header": "En tant que Manager, quel type de comportement peut entraver vos relations ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Bon nombre d’entre nous gèrent les personnes en colère ou émotives avec maladresse. Si vous vous trouvez dans une situation difficile, veillez à ne pas bloquer les relations. N’interrompez pas l’autre personne, et plutôt que de vous mettre sur la défensive, acceptez et reconnaissez son point de vue afin de rester objectif et professionnel.",
+            "tips": "Si vous répondez par la colère à celle d’un collaborateur, vous pourrez être perçu comme l’agresseur, ce qui serait contre-productif et porterait atteinte à votre crédibilité.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJUFhfzkL": "Vous pencher vers l’avant avec les mains ouvertes",
+            "choice_VJlUKhzzyU": "Faire des interruptions",
+            "choice_Vk-t2fGJL": "Poser des questions ouvertes à l’autre personne",
+            "choice_EkpF2fMJU": "Refuser de reconnaître le point de vue de l’autre personne",
+            "choice_EkeTK3zMJL": "Être sur la défensive"
+        },
+        "de": {
+            "header": "Welches Verhalten kann als Manager Ihre Beziehungen behindern?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Viele von uns sind mit wütenden oder emotionalen Menschen schlecht umgegangen. Wenn Sie sich in einer schwierigen Situation befinden, sollten Sie die Beziehung nicht behindern. Unterbrechen Sie nicht die andere Person und seien Sie nicht defensiv, sondern akzeptieren Sie ihren Standpunkt, um objektiv und professionell zu bleiben.",
+            "tips": "Wenn Sie verärgert auf die Wut einer anderen Person reagieren, können Sie selbst als Angreifer gesehen werden, was kontraproduktiv wäre und Ihre Glaubwürdigkeit beeinträchtigen würde.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJUFhfzkL": "Mit offenen Händen nach vorne gelehnt",
+            "choice_VJlUKhzzyU": "Unterbrechen",
+            "choice_Vk-t2fGJL": "Der anderen Person offene Fragen stellen",
+            "choice_EkpF2fMJU": "Weigerung, den Standpunkt der anderen Person anzuerkennen",
+            "choice_EkeTK3zMJL": "Defensiv sein"
+        },
+        "th": {
+            "header": "ในฐานะผู้จัดการ พฤติกรรมใดที่จะทำให้ความสัมพันธ์สะดุดลง",
+            "explanation": "เลือกคำตอบที่ถูกต้องด้านล่าง",
+            "klf": "หลายคนรับมือกับคนเจ้าอารมณ์หรือคนอ่อนไหวได้แย่ ถ้าคุณตกที่นั่งลำบาก ก็ระวังอย่าทำให้ความสัมพันธ์สะดุดลง อย่าขัดขวางผู้อื่นและแทนที่จะป้องกันตัวเองจากการถูกวิพากษ์วิจารณ์ ก็ยอมรับมุมมองของพวกเขาอย่างเป็นกลางและมืออาชีพ",
+            "tips": "ถ้ามีคนมาโมโหใส่คุณ แล้วคุณก็โมโหเขากลับ คุณก็อาจจะถูกมองว่าเป็นฝ่ายเริ่มก่อนก็ได้ ซึ่งจะเป็นการให้ผลลัพธ์ตรงกันข้ามและกระทบต่อความน่าเชื่อถือของคุณ",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJUFhfzkL": "เอนตัวไปข้างหน้าพร้อมผายมือออก",
+            "choice_VJlUKhzzyU": "ขัด",
+            "choice_Vk-t2fGJL": "ถามคำถามปลายเปิดกับอีกฝ่าย",
+            "choice_EkpF2fMJU": "ไม่ยอมรับมุมมองของอีกฝ่าย",
+            "choice_EkeTK3zMJL": "ป้องกันตัวเองจากการถูกวิพากษ์วิจารณ์"
+        }
+    }
+}

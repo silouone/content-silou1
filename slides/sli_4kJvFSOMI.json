@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-16T16:30:22.710Z",
+            "updatedAt": "2019-02-21T16:54:48.161Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ2boipbL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_4kJvFSOMI",
+        "universalRef": "sli_4kJvFSOMI",
+        "position": 4,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel77322",
+                        "items": [
+                            {
+                                "text": "choice_NkgmvFruz8",
+                                "value": "choice_NkgmvFruz8"
+                            },
+                            {
+                                "text": "choice_Vy~QwYHOz8",
+                                "value": "choice_Vy~QwYHOz8"
+                            },
+                            {
+                                "text": "choice_VkC3tr-fI",
+                                "value": "choice_VkC3tr-fI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel77322",
+                        "answers": [
+                            "choice_Vy~QwYHOz8"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_41nxr-Rf8",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is amber?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Amber behaviours contribute to developing negativity within the company, which always reflects upon clients, one way or another.",
+            "tips": "The first non-electric gas-lit traffic lights were installed in December 1868 outside the Houses of Parliament in London to control the traffic in Bridge Street, Great George Street, and Parliament Street. Although it was said to be successful at controlling traffic, It exploded on 2 January 1869 and injured the policeman who was operating it.",
+            "clue": "Down the wrong path.",
+            "context_title": "Traffic Lights",
+            "context_description": "Your company has decided to rate behaviour problems with traffic light alerts to react accordingly:  — Green behaviours are to be encouraged and rewarded — Amber behaviours develop negativity in the workplace — Red behaviours damage the clients, colleagues or company",
+            "context_media_description": "",
+            "template": "{{sel77322}} is typically an amber behaviour alert.",
+            "choice_NkgmvFruz8": "Taking creative initiatives",
+            "choice_Vy~QwYHOz8": "Listening to gossip about coworkers",
+            "choice_VkC3tr-fI": "Being aggressive with colleagues"
+        },
+        "fr": {
+            "header": "À quoi correspond la couleur orange ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Les comportements orange contribuent à développer une ambiance négative au sein de l'entreprise, ce qui a toujours, d'une manière ou d'une autre, un impact sur les clients.",
+            "tips": "Les premiers feux de circulation alimentés au gaz furent installés à Londres en décembre 1868, près du Parlement du Royaume-Uni, afin de réguler la circulation dans Bridge Street, Great George Street et Parliament Street. Ils remplirent parfaitement leur rôle de régulateurs de circulation, mais explosèrent le 2 janvier 1869 et blessèrent le policier qui en assurait le fonctionnement.",
+            "clue": "Down the wrong path.",
+            "context_title": "Feux de circulation",
+            "context_description": "Votre entreprise a décidé de classer les comportements problématiques à l'aide des couleurs des feux de circulation pour y apporter une réponse adaptée :  \n— les comportements verts doivent être encouragés et récompensés\n— les comportements orange développent une ambiance négative sur le lieu de travail\n— les comportements rouges nuisent aux clients, aux collaborateurs ou à l'entreprise",
+            "context_media_description": "",
+            "template": "{{sel77322}} est typiquement un comportement d'alerte orange.",
+            "choice_NkgmvFruz8": "Prendre des initiatives innovantes",
+            "choice_Vy~QwYHOz8": "Écouter les commérages sur les collègues",
+            "choice_VkC3tr-fI": "Se montrer agressif envers les collègues"
+        },
+        "de": {
+            "header": "Was ist Bernstein?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Bernsteinfarbenes' Verhalten trägt zur Entwicklung von Negativität im Unternehmen bei, was sich immer auf die eine oder andere Weise auf die Kunden auswirkt.",
+            "tips": "Die erste nicht elektrisch betriebene Gasampel wurde im Dezember 1868 vor den Houses of Parliament in London installiert, um den Verkehr in der Bridge Street, der Great George Street und der Parliament Street zu kontrollieren. Obwohl sie als erfolgreiches Mittel galt, den Verkehr zu kontrollieren, explodierte sie am 2. Januar 1869 und verletzte den Polizisten, der sie bediente.",
+            "clue": "Auf dem falschen Weg.",
+            "context_title": "Ampeln",
+            "context_description": "Ihr Unternehmen hat beschlossen, Verhaltensprobleme mit Ampelfarbgebungen zu bewerten, um entsprechend zu reagieren: - Grüne Verhaltensweisen sollen gefördert und belohnt werden - Bernsteinverhalten entwickelt Negativität am Arbeitsplatz - Rotes Verhalten schädigt die Kunden, Kollegen oder das Unternehmen",
+            "context_media_description": "",
+            "template": "{{sel77322}} ist in der Regel ein 'bernsteinfarbenes' Verhalten.",
+            "choice_NkgmvFruz8": "Kreative Initiativen ergreifen",
+            "choice_Vy~QwYHOz8": "Klatsch über Kollegen hören",
+            "choice_VkC3tr-fI": "Mit Kollegen aggressiv umgehen"
+        },
+        "th": {
+            "header": "What is amber?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Amber behaviours contribute to developing negativity within the company, which always reflects upon clients, one way or another.",
+            "tips": "The first non-electric gas-lit traffic lights were installed in December 1868 outside the Houses of Parliament in London to control the traffic in Bridge Street, Great George Street, and Parliament Street. Although it was said to be successful at controlling traffic, It exploded on 2 January 1869 and injured the policeman who was operating it.",
+            "clue": "Down the wrong path.",
+            "context_title": "Traffic Lights",
+            "context_description": "Your company has decided to rate behaviour problems with traffic light alerts to react accordingly:  — Green behaviours are to be encouraged and rewarded — Amber behaviours develop negativity in the workplace — Red behaviours damage the clients, colleagues or company",
+            "context_media_description": "",
+            "template": "{{sel77322}} is typically an amber behaviour alert.",
+            "choice_NkgmvFruz8": "Taking creative initiatives",
+            "choice_Vy~QwYHOz8": "Listening to gossip about coworkers",
+            "choice_VkC3tr-fI": "Being aggressive with colleagues"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T14:02:08.059Z",
+            "updatedAt": "2019-03-13T15:23:17.564Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-03-09T14:00:53.314Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_4JpqpJkGI"
+            ],
+            "status": "draft",
+            "modifiedBy": "florelidolff",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "mod_VJI3pJyMU",
+        "universalRef": "mod_VJI3pJyMU",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_EkOOWLW7U",
+            "skill_4Jl-dWUWXI",
+            "skill_V1KOWI~QI"
+        ],
+        "ineligibleBattle": false,
+        "version": "3",
+        "creditsToAccess": 0,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_EkOOWLW7U": "Tell the difference between leading and controlling",
+            "skill_4Jl-dWUWXI": "Address conflicts in a timely and tactful manner",
+            "skill_V1KOWI~QI": "Avoid the common sin of decision paralysis"
+        },
+        "fr": {
+            "skill_EkOOWLW7U": "Expliquer la différence entre diriger et contrôler",
+            "skill_4Jl-dWUWXI": "Traiter les conflits en temps opportun et avec discernement",
+            "skill_V1KOWI~QI": "Éviter ce défaut très répandu qu'est l'incapacité à décider"
+        },
+        "de": {
+            "skill_EkOOWLW7U": "Erkennen Sie den Unterschied zwischen Führen und Steuern",
+            "skill_4Jl-dWUWXI": "Gehen Sie Konflikte zeitnah und taktvoll an",
+            "skill_V1KOWI~QI": "Vermeiden Sie die übliche Sünde der Entscheidungslähmung"
+        },
+        "th": {
+            "skill_EkOOWLW7U": "Tell the difference between leading and controlling",
+            "skill_4Jl-dWUWXI": "Address conflicts in a timely and tactful manner",
+            "skill_V1KOWI~QI": "Avoid the common sin of decision paralysis"
+        }
+    }
+}

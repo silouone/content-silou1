@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-11T16:25:53.141Z",
+            "updatedAt": "2019-01-21T16:12:44.598Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyTTCEmyI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_E1liMAuJL",
+        "universalRef": "sli_E1liMAuJL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1liMAuJL.choice_Vkw-XAOJL.id",
+                        "label": "choice_Vkw-XAOJL",
+                        "value": "choice_Vkw-XAOJL"
+                    },
+                    {
+                        "id": "sli_E1liMAuJL.choice_4yddmAd1U.id",
+                        "label": "choice_4yddmAd1U",
+                        "value": "choice_4yddmAd1U"
+                    },
+                    {
+                        "id": "sli_E1liMAuJL.choice_4JYOmROJI.id",
+                        "label": "choice_4JYOmROJI",
+                        "value": "choice_4JYOmROJI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vkw-XAOJL",
+                        "choice_4yddmAd1U",
+                        "choice_4JYOmROJI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the areas of focus during a joint assessment between a manager and a team member?",
+            "explanation": "Select the correct answers.",
+            "klf": "A joint assessment gives the manager and his/her team members the opportunity to evaluate, in a one-to-one session, the performance of each employee, the personal development of each member and his or her individual contribution to the team and to the company.",
+            "tips": "It is important that the joint assessments take place on a regular and relatively frequent basis. This way, it is easier for both the manager and the team member to make sure that objectives and feedback remain relevant as time goes by.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkw-XAOJL": "Individual contribution",
+            "choice_4yddmAd1U": "Performance",
+            "choice_4JYOmROJI": "Personal development"
+        },
+        "fr": {
+            "header": "Quels sont les priorités lors d’une évaluation conjointe entre un Manager et un de ses collaborateurs ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "L’évaluation conjointe fournit au Manager et à un de ses collaborateurs l’opportunité d’évaluer, en entretien individuel, les performances de chaque employé, le développement personnel de chacun et sa contribution individuelle à l’équipe et à l’organisation.",
+            "tips": "Il est important que les évaluations conjointes aient lieu régulièrement et assez fréquemment. Ainsi, il est plus facile pour le Manager et le collaborateur de s’assurer que les objectifs et le feedback demeurent pertinents au fil du temps.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkw-XAOJL": "Contribution individuelle",
+            "choice_4yddmAd1U": "Performances",
+            "choice_4JYOmROJI": "Développement personnel"
+        },
+        "de": {
+            "header": "Was sind die Schwerpunkte bei einer gemeinsamen Beurteilung zwischen einem Manager und einem Teammitglied?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Eine gemeinsame Bewertung gibt dem Manager und seinen Teammitgliedern die Möglichkeit, in einer Eins-zu-Eins-Sitzung die Leistung jedes einzelnen Mitarbeiters, die persönliche Entwicklung jedes Mitglieds und seinen individuellen Beitrag zum Team und zum Unternehmen zu bewerten.",
+            "tips": "Es ist wichtig, dass die gemeinsamen Bewertungen regelmäßig und relativ häufig stattfinden. Auf diese Weise ist es sowohl für den Manager als auch für das Teammitglied einfacher sicherzustellen, dass Ziele und Feedback über die Zeit relevant bleiben.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkw-XAOJL": "Einzelbeitrag",
+            "choice_4yddmAd1U": "Performance",
+            "choice_4JYOmROJI": "Persönliche Entwicklung"
+        },
+        "th": {
+            "header": "สิ่งที่เราต้องให้ความสนใจในช่วงการประเมินร่วมระหว่างผู้จัดการและสมาชิกทีมมีอะไรบ้าง",
+            "explanation": "เลือกคำตอบที่ถูกต้องได้มากกว่าหนึ่งข้อ",
+            "klf": "การประเมินร่วมเป็นการให้โอกาสผู้จัดการและสมาชิกทีมในการประเมินประสิทธิภาพการทำงานของพนักงานแต่ละคน การพัฒนาส่วนบุคคลของสมาชิกแต่ละคน และการมีส่วนสนับสนุนทีมและบริษัทของพนักงานแต่ละคน โดยใช้วิธีการประชุมแบบหนึ่งต่อหนึ่ง",
+            "tips": "ข้อสำคัญก็คือการประเมินร่วมจะต้องจัดขึ้นอย่างสม่ำเสมอและค่อนข้างบ่อย ด้วยวิธีนี้ จึงเป็นการง่ายกว่าสำหรับทั้งผู้จัดการและสมาชิกทีมที่จะมั่นใจได้ว่าวัตถุประสงค์และคำติชมจะยังคงเกี่ยวเนื่องสัมพันธ์กันเมื่อเวลาผ่านไป",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkw-XAOJL": "การมีส่วนสนับสนุนของแต่ละบุคคล",
+            "choice_4yddmAd1U": "ประสิทธิภาพการทำงาน",
+            "choice_4JYOmROJI": "การพัฒนาส่วนบุคคล"
+        }
+    }
+}

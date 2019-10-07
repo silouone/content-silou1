@@ -1,0 +1,122 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T13:13:15.205Z",
+            "updatedAt": "2019-04-09T13:09:53.086Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41zSTQ4F8"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_EyjiME4tI",
+        "universalRef": "sli_EyjiME4tI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyjiME4tI.choice_VylhNE44tU.id",
+                        "label": "choice_VylhNE44tU",
+                        "value": "choice_VylhNE44tU",
+                        "media": "med_412V444FL"
+                    },
+                    {
+                        "id": "sli_EyjiME4tI.choice_EJxZlHVEYU.id",
+                        "label": "choice_EJxZlHVEYU",
+                        "value": "choice_EJxZlHVEYU",
+                        "media": "med_NJZxrE4tU"
+                    },
+                    {
+                        "id": "sli_EyjiME4tI.choice_VJenQH4EtU.id",
+                        "label": "choice_VJenQH4EtU",
+                        "value": "choice_VJenQH4EtU",
+                        "media": "med_VyhQr4NYL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJenQH4EtU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EJirtENFU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you tell your collaborator to help him manage his vulnerability?",
+            "explanation": "Select the correct answer.",
+            "klf": "Leaders that have the courage to open up about their insecurities or past mistakes demonstrate real strength in being vulnerable. And having a 'perfect' image to aspire to can be intimidating to colleagues and impossible to emulate.",
+            "tips": "We can waste a lot of energy keeping up a facade of perfection to hide our flaws, creating unnecessary stress and pressure on ourselves to appear strong at all times.",
+            "clue": "",
+            "context_title": "D-1",
+            "context_description": "Your collaborator is very intimidated by tomorrow's presentation he has to do: dry mouth, shaky hands, red face, cold sweat, silly twittery voice… sounds like nothing you would feel when delivering a speech, so he came to you to gather advice.",
+            "context_media_description": "",
+            "choice_VylhNE44tU": "Be the biggest baddest dog in the kennel",
+            "choice_EJxZlHVEYU": "If you're weak, they can sense it. So lock horns!",
+            "choice_VJenQH4EtU": "I'm scared of presenting too. Everyone is actually!",
+            "choice_VyghvBNVtI": "Everyone has insecurities"
+        },
+        "fr": {
+            "header": "Que devriez-vous dire à votre collaborateur pour l'aider à gérer sa vulnérabilité ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les managers qui ont le courage de parler ouvertement de leurs insécurités ou de leurs erreurs passées démontrent qu'il existe une vraie force dans le fait d'être vulnérable. Et avoir une image « parfaite » à laquelle aspirer peut être intimidant pour des collègues et impossible à émuler.",
+            "tips": "Nous pouvons perdre beaucoup d’énergie à maintenir une façade de perfection pour cacher nos défauts, et nous créer ainsi un stress et une pression inutiles pour paraître forts en permanence.",
+            "clue": "",
+            "context_title": "J-1",
+            "context_description": "Votre collaborateur est très intimidé par la présentation qu'il doit faire demain : bouche sèche, mains tremblantes, visage rouge, sueurs froides, voix idiote et aiguë… Ce qui ne ressemble en rien à ce que vous semblez ressentir en prononçant un discours. Il est donc venu vous demander conseil.",
+            "context_media_description": "",
+            "choice_VylhNE44tU": "Soyez le chien le plus féroce du chenil",
+            "choice_EJxZlHVEYU": "Si vous êtes faible, ils peuvent le sentir. Alors à l'attaque !",
+            "choice_VJenQH4EtU": "Moi aussi, j'ai peur de faire des présentations. Tout le monde a peur !",
+            "choice_VyghvBNVtI": ""
+        },
+        "de": {
+            "header": "What should you tell your collaborator to help him manage his vulnerability?",
+            "explanation": "Select the correct answer.",
+            "klf": "Leaders that have the courage to open up about their insecurities or past mistakes demonstrate real strength in being vulnerable. And having a 'perfect' image to aspire to can be intimidating to colleagues and impossible to emulate.",
+            "tips": "We can waste a lot of energy keeping up a facade of perfection to hide our flaws, creating unnecessary stress and pressure on ourselves to appear strong at all times.",
+            "clue": "",
+            "context_title": "D-1",
+            "context_description": "Your collaborator is very intimidated by tomorrow's presentation he has to do: dry mouth, shaky hands, red face, cold sweat, silly twittery voice… sounds like nothing you would feel when delivering a speech, so he came to you to gather advice.",
+            "context_media_description": "",
+            "choice_VylhNE44tU": "Be the biggest baddest dog in the kennel",
+            "choice_EJxZlHVEYU": "If you're weak, they can sense it. So lock horns!",
+            "choice_VJenQH4EtU": "I'm scared of presenting too. Everyone is actually!",
+            "choice_VyghvBNVtI": ""
+        },
+        "th": {
+            "header": "What should you tell your collaborator to help him manage his vulnerability?",
+            "explanation": "Select the correct answer.",
+            "klf": "Leaders that have the courage to open up about their insecurities or past mistakes demonstrate real strength in being vulnerable. And having a 'perfect' image to aspire to can be intimidating to colleagues and impossible to emulate.",
+            "tips": "We can waste a lot of energy keeping up a facade of perfection to hide our flaws, creating unnecessary stress and pressure on ourselves to appear strong at all times.",
+            "clue": "",
+            "context_title": "D-1",
+            "context_description": "Your collaborator is very intimidated by tomorrow's presentation he has to do: dry mouth, shaky hands, red face, cold sweat, silly twittery voice… sounds like nothing you would feel when delivering a speech, so he came to you to gather advice.",
+            "context_media_description": "",
+            "choice_VylhNE44tU": "Be the biggest baddest dog in the kennel",
+            "choice_EJxZlHVEYU": "If you're weak, they can sense it. So lock horns!",
+            "choice_VJenQH4EtU": "I'm scared of presenting too. Everyone is actually!",
+            "choice_VyghvBNVtI": "Everyone has insecurities"
+        }
+    }
+}

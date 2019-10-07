@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T10:42:35.044Z",
+            "updatedAt": "2019-03-21T10:21:28.164Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ek89ib9LI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4ySDrEoUU",
+        "universalRef": "sli_4ySDrEoUU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4ySDrEoUU.choice_Nk9YrEo88.id",
+                        "label": "choice_Nk9YrEo88",
+                        "value": "choice_Nk9YrEo88"
+                    },
+                    {
+                        "id": "sli_4ySDrEoUU.choice_E1otr4j8U.id",
+                        "label": "choice_E1otr4j8U",
+                        "value": "choice_E1otr4j8U"
+                    },
+                    {
+                        "id": "sli_4ySDrEoUU.choice_4y3FBVo8I.id",
+                        "label": "choice_4y3FBVo8I",
+                        "value": "choice_4y3FBVo8I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1otr4j8U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is a Memento mori?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A Memento mori is a small object to remind you of mortality whenever you see it or feel it in your pocket.",
+            "tips": "Death and taxes are often quoted as being the only certainties in this world. And while most of us think about and pay our taxes each year, very few of us pay attention to our own mortality. But we actually get more satisfaction from life when we’re reminded that it doesn’t last forever.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk9YrEo88": "A symbol of happiness",
+            "choice_E1otr4j8U": "A reminder of our own mortality",
+            "choice_4y3FBVo8I": "A way of scaring ourselves into action"
+        },
+        "fr": {
+            "header": "Qu'est-ce qu'un Memento Mori ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Un Memento mori est un petit objet qui vous rappelle la mortalité chaque fois que vous le voyez ou le sentez dans votre poche.",
+            "tips": "La mort et les impôts sont souvent cités comme étant les seules certitudes de ce monde. Et bien que la plupart d’entre nous pensent à leurs impôts et les paient chaque année, très peu d’entre nous prêtent attention à leur propre mortalité. Mais la vie nous procure plus de satisfaction quand on nous rappelle qu’elle ne dure pas éternellement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk9YrEo88": "Un symbole de bonheur",
+            "choice_E1otr4j8U": "Un rappel de notre propre mortalité",
+            "choice_4y3FBVo8I": "Une façon de se faire peur"
+        },
+        "de": {
+            "header": "What is a Memento mori?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A Memento mori is a small object to remind you of mortality whenever you see it or feel it in your pocket.",
+            "tips": "Death and taxes are often quoted as being the only certainties in this world. And while most of us think about and pay our taxes each year, very few of us pay attention to our own mortality. But we actually get more satisfaction from life when we’re reminded that it doesn’t last forever.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk9YrEo88": "A symbol of happiness",
+            "choice_E1otr4j8U": "A reminder of our own mortality",
+            "choice_4y3FBVo8I": "A way of scaring ourselves into action"
+        },
+        "th": {
+            "header": "What is a Memento mori?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A Memento mori is a small object to remind you of mortality whenever you see it or feel it in your pocket.",
+            "tips": "Death and taxes are often quoted as being the only certainties in this world. And while most of us think about and pay our taxes each year, very few of us pay attention to our own mortality. But we actually get more satisfaction from life when we’re reminded that it doesn’t last forever.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk9YrEo88": "A symbol of happiness",
+            "choice_E1otr4j8U": "A reminder of our own mortality",
+            "choice_4y3FBVo8I": "A way of scaring ourselves into action"
+        }
+    }
+}

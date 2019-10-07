@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T11:06:06.953Z",
+            "updatedAt": "2019-06-21T11:06:06.953Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vyg-TYS1w"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_NyduGsrkv",
+        "universalRef": "sli_NyduGsrkv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyduGsrkv.choice_EyTcMsByD.id",
+                        "label": "choice_EyTcMsByD",
+                        "value": "choice_EyTcMsByD"
+                    },
+                    {
+                        "id": "sli_NyduGsrkv.choice_EJwJ7iB1D.id",
+                        "label": "choice_EJwJ7iB1D",
+                        "value": "choice_EJwJ7iB1D"
+                    },
+                    {
+                        "id": "sli_NyduGsrkv.choice_EJJ-Qor1v.id",
+                        "label": "choice_EJJ-Qor1v",
+                        "value": "choice_EJJ-Qor1v"
+                    },
+                    {
+                        "id": "sli_NyduGsrkv.choice_EyOYXiSJw.id",
+                        "label": "choice_EyOYXiSJw",
+                        "value": "choice_EyOYXiSJw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJwJ7iB1D"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why is it important to agree next actions on every call?",
+            "explanation": "Select the correct answer.",
+            "klf": "You need to manage customer expectations clearly and effectively. If next actions are not agreed there could be a wide difference in what a customer expects to happen next.",
+            "tips": "A <i>next action</i> should be clearly defined. For example, ‘Fix the car’ is not a next action. However, ‘Call Company X to get the car repaired’ is a proper next action.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyTcMsByD": "To make sure the customer is not going to commit a crime",
+            "choice_EJwJ7iB1D": "To make sure customer expectations on what happens next is in line with reality",
+            "choice_EJJ-Qor1v": "To make sure you get your bonus",
+            "choice_EyOYXiSJw": "To make sure the customer is not going to disturb you again"
+        },
+        "fr": {
+            "header": "Pourquoi est-il important de convenir des prochaines mesures lors de chaque appel ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vous devez gérer les attentes des clients de manière claire et efficace. Si vous n'avez pas convenu des prochaines mesures, les attentes du client concernant la suite des événements pourraient être bien loin de la réalité.",
+            "tips": "La<i>prochaine mesure</i> doit être clairement définie. Par exemple, « réparer la voiture » n'est pas une prochaine mesure. Cependant, « Appeler la société X pour faire réparer la voiture » est une mesure à suivre véritable.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyTcMsByD": "Afin de s'assurer que le client ne commettra pas de crime",
+            "choice_EJwJ7iB1D": "Afin de s'assurer que les attentes du client concernant la suite des événements correspondent à la réalité",
+            "choice_EJJ-Qor1v": "Afin d'être sûr d'obtenir votre bonus",
+            "choice_EyOYXiSJw": "Afin de s'assurer que le client ne vous dérange plus"
+        },
+        "de": {
+            "header": "Why is it important to agree next actions on every call?",
+            "explanation": "Select the correct answer.",
+            "klf": "You need to manage customer expectations clearly and effectively. If next actions are not agreed there could be a wide difference in what a customer expects to happen next.",
+            "tips": "A <i>next action</i> should be clearly defined. For example, ‘Fix the car’ is not a next action. However, ‘Call Company X to get the car repaired’ is a proper next action.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyTcMsByD": "To make sure the customer is not going to commit a crime",
+            "choice_EJwJ7iB1D": "To make sure customer expectations on what happens next is in line with reality",
+            "choice_EJJ-Qor1v": "To make sure you get your bonus",
+            "choice_EyOYXiSJw": "To make sure the customer is not going to disturb you again"
+        },
+        "th": {
+            "header": "Why is it important to agree next actions on every call?",
+            "explanation": "Select the correct answer.",
+            "klf": "You need to manage customer expectations clearly and effectively. If next actions are not agreed there could be a wide difference in what a customer expects to happen next.",
+            "tips": "A <i>next action</i> should be clearly defined. For example, ‘Fix the car’ is not a next action. However, ‘Call Company X to get the car repaired’ is a proper next action.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyTcMsByD": "To make sure the customer is not going to commit a crime",
+            "choice_EJwJ7iB1D": "To make sure customer expectations on what happens next is in line with reality",
+            "choice_EJJ-Qor1v": "To make sure you get your bonus",
+            "choice_EyOYXiSJw": "To make sure the customer is not going to disturb you again"
+        }
+    }
+}

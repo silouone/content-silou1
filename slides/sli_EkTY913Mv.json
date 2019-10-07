@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T14:48:29.258Z",
+            "updatedAt": "2019-08-01T15:28:22.772Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4Jygxo9MD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EkTY913Mv",
+        "universalRef": "sli_EkTY913Mv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkTY913Mv.choice_Vkh251hMP.id",
+                        "label": "choice_Vkh251hMP",
+                        "value": "choice_Vkh251hMP"
+                    },
+                    {
+                        "id": "sli_EkTY913Mv.choice_V1p25k2Gv.id",
+                        "label": "choice_V1p25k2Gv",
+                        "value": "choice_V1p25k2Gv"
+                    },
+                    {
+                        "id": "sli_EkTY913Mv.choice_4kY6cknzP.id",
+                        "label": "choice_4kY6cknzP",
+                        "value": "choice_4kY6cknzP"
+                    },
+                    {
+                        "id": "sli_EkTY913Mv.choice_E1fRc13Gw.id",
+                        "label": "choice_E1fRc13Gw",
+                        "value": "choice_E1fRc13Gw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1p25k2Gv",
+                        "choice_E1fRc13Gw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the best way to deal with a picky customer?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Try to understand the reasons for their need for detail; it could be that there are underlying factors which you are unaware of. Efficiency and patience will be very useful here.",
+            "tips": "Picky customers usually have what we call FOBO, or Fear Of Better Options.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkh251hMP": "Offer lots of choices",
+            "choice_V1p25k2Gv": "Be efficient and calming",
+            "choice_4kY6cknzP": "Speak quickly and rush them",
+            "choice_E1fRc13Gw": "Be patient and unflustered"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure façon de faire face à un client difficile ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Essayez de comprendre le raisonnement qui se cache derrière leur besoin de plus de détails. Il se peut qu'il existe des facteurs sous-jacents dont vous n'êtes pas conscient. L'efficacité et la patience vous seront très utiles dans ce cas de figure.",
+            "tips": "Les clients difficiles ont généralement ce que nous appelons FOBO, ou \"Fear of Better Options\" (en français, « Peur de faire des choix »).",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkh251hMP": "Offrir un large éventail de choix",
+            "choice_V1p25k2Gv": "Être serviable et apaisant",
+            "choice_4kY6cknzP": "Parler vite et se précipiter",
+            "choice_E1fRc13Gw": "Être patient et calme"
+        },
+        "de": {
+            "header": "What is the best way to deal with a picky customer?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Try to understand the reasons for their need for detail; it could be that there are underlying factors which you are unaware of. Efficiency and patience will be very useful here.",
+            "tips": "Picky customers usually have what we call FOBO, or Fear Of Better Options.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkh251hMP": "Offer lots of choices",
+            "choice_V1p25k2Gv": "Be efficient and calming",
+            "choice_4kY6cknzP": "Speak quickly and rush them",
+            "choice_E1fRc13Gw": "Be patient and unflustered"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkh251hMP": "",
+            "choice_V1p25k2Gv": "",
+            "choice_4kY6cknzP": "",
+            "choice_E1fRc13Gw": ""
+        }
+    }
+}

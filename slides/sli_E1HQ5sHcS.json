@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T14:30:39.110Z",
+            "updatedAt": "2018-11-09T12:42:58.718Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyK1UI4qS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_E1HQ5sHcS",
+        "universalRef": "sli_E1HQ5sHcS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1HQ5sHcS.choice_EyL9WhrqB.id",
+                        "label": "choice_EyL9WhrqB",
+                        "value": "choice_EyL9WhrqB"
+                    },
+                    {
+                        "id": "sli_E1HQ5sHcS.choice_4klIq~nB9B.id",
+                        "label": "choice_4klIq~nB9B",
+                        "value": "choice_4klIq~nB9B"
+                    },
+                    {
+                        "id": "sli_E1HQ5sHcS.choice_NyD9~2SqB.id",
+                        "label": "choice_NyD9~2SqB",
+                        "value": "choice_NyD9~2SqB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4klIq~nB9B",
+                        "choice_NyD9~2SqB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to address the concerns of resisters?",
+            "explanation": "Select the correct answers.",
+            "klf": "Once you have identified the people who are resisting the change, listen to them carefully and take their views seriously. Then, show them how they will benefit from the proposed change.",
+            "tips": "When you start planning your proposed change, be proactive about people's resistance and objections. Planning for them from the start will help you to manage them effectively.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyL9WhrqB": "Ask them to put their concerns in an email",
+            "choice_4klIq~nB9B": "Take their views seriously, even the negative ones",
+            "choice_NyD9~2SqB": "Demonstrate how the change benefits them personally"
+        },
+        "fr": {
+            "header": "Quelle est la meilleure façon d’aborder les préoccupations des opposants ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Dès que vous avez identifié les opposants au changement, écoutez-les attentivement et prenez en compte leurs points de vue. Montrez-leur ensuite quels bénéfices ils tireront du changement proposé.",
+            "tips": "Lorsque vous commencez la planification du changement proposé, soyez proactif vis-à-vis des résistances et objections de certaines personnes. Adapter votre planification à ces personnes dès le début vous permettra de les gérer de manière plus efficace.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyL9WhrqB": "Les inviter à exprimer leurs préoccupations dans un e-mail",
+            "choice_4klIq~nB9B": "Prendre leurs opinions au sérieux, y compris les réflexions négatives",
+            "choice_NyD9~2SqB": "Leur démontrer que le changement leur sera personnellement bénéfique"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um die Bedenken der Widerstandskämpfer anzugehen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Wenn Sie die Personen identifiziert haben, die sich gegen die Veränderung wehren, hören Sie ihnen genau zu und nehmen ihre Ansichten ernst. Zeigen Sie ihnen dann, wie sie von der vorgeschlagenen Änderung profitieren können.",
+            "tips": "Wenn Sie mit dem Planen der vorgeschlagenen Änderung beginnen, sollten Sie proaktiv auf den Widerstand und die Einwände der Menschen eingehen. Wenn Sie von Anfang an für sie planen, können Sie sie effektiv verwalten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyL9WhrqB": "Bitten Sie sie, ihre Bedenken in einer E-Mail zu veröffentlichen",
+            "choice_4klIq~nB9B": "Nehmen Sie ihre Ansichten ernst, auch die negativen",
+            "choice_NyD9~2SqB": "Demonstrieren Sie, wie die Veränderung ihnen persönlich zugute kommt"
+        },
+        "th": {
+            "header": "What’s the best way to address the concerns of resisters?",
+            "explanation": "Select the correct answers.",
+            "klf": "Once you have identified the people who are resisting the change, listen to them carefully and take their views seriously. Then, show them how they will benefit from the proposed change.",
+            "tips": "When you start planning your proposed change, be proactive about people's resistance and objections. Planning for them from the start will help you to manage them effectively.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EyL9WhrqB": "Ask them to put their concerns in an email",
+            "choice_4klIq~nB9B": "Take their views seriously, even the negative ones",
+            "choice_NyD9~2SqB": "Demonstrate how the change benefits them personally"
+        }
+    }
+}

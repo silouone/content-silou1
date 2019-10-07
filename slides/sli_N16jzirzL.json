@@ -1,0 +1,143 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T16:08:53.879Z",
+            "updatedAt": "2019-02-21T17:11:59.611Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41J72iabL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_N16jzirzL",
+        "universalRef": "sli_N16jzirzL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel18998",
+                        "items": [
+                            {
+                                "text": "choice_VJeNDDsrML",
+                                "value": "choice_VJeNDDsrML"
+                            },
+                            {
+                                "text": "choice_4kZNDDoSzI",
+                                "value": "choice_4kZNDDoSzI"
+                            },
+                            {
+                                "text": "choice_NkKPvorG8",
+                                "value": "choice_NkKPvorG8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel18998",
+                        "answers": [
+                            "choice_NkKPvorG8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How should you act during a crisis?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Hiding information in a crisis usually makes it worse. People can’t fix something they don’t know about! Oh, and of course, don't hide away… it won't make anything better.",
+            "tips": "Prayer rooms are sometimes called ‘reflection room’, or even ‘multipurpose area’ to avoid offending anyone.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18998}}",
+            "choice_VJeNDDsrML": "Hide in a prayer room",
+            "choice_4kZNDDoSzI": "Hide information",
+            "choice_NkKPvorG8": "Communicate fully",
+            "choice_N1xwAGoSG8": "slowly",
+            "choice_NkZvAMoHzI": "swiftly",
+            "choice_EklG17irML": "hide in a prayer room",
+            "choice_EJbfJmsBMU": "shift the blame",
+            "choice_EJO1QoSfU": "secretly",
+            "choice_V1xOk7iSz8": "take responsibility"
+        },
+        "fr": {
+            "header": "Comment devez-vous agir en période de crise ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Dissimuler des informations lors d'une crise a généralement pour effet d'empirer la situation. Personne ne peut apporter de solution à un problème dont il ne sait rien ! Ah, et bien entendu, ne fuyez pas... cela n'améliorera pas la situation.",
+            "tips": "Les salles de prières sont parfois appelées « salles de réflexion », ou même « espaces polyvalents » afin de n'offenser personne.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18998}}",
+            "choice_VJeNDDsrML": "Vous réfugier dans une salle de prières",
+            "choice_4kZNDDoSzI": "Dissimuler l'information",
+            "choice_NkKPvorG8": "Communiquer de manière transparente",
+            "choice_N1xwAGoSG8": "",
+            "choice_NkZvAMoHzI": "",
+            "choice_EklG17irML": "",
+            "choice_EJbfJmsBMU": "",
+            "choice_EJO1QoSfU": "",
+            "choice_V1xOk7iSz8": ""
+        },
+        "de": {
+            "header": "Wie sollen Sie sich in einer Krise verhalten?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Das Ausblenden von Informationen in einer Krise macht es normalerweise noch schlimmer. Die Leute können nichts beheben, von dem sie nichts wissen! Oh, und natürlich verstecken Sie sich nicht ... es wird nichts an der Sache besser machen.",
+            "tips": "Gebetsräume werden manchmal als „Reflexionsraum“ oder sogar als „Mehrzweckbereich“ bezeichnet, um zu vermeiden, dass jemand verletzt wird.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18998}}",
+            "choice_VJeNDDsrML": "Versteck dich in einem Gebetsraum",
+            "choice_4kZNDDoSzI": "Informationen ausblenden",
+            "choice_NkKPvorG8": "Vollständig kommunizieren",
+            "choice_N1xwAGoSG8": "",
+            "choice_NkZvAMoHzI": "",
+            "choice_EklG17irML": "",
+            "choice_EJbfJmsBMU": "",
+            "choice_EJO1QoSfU": "",
+            "choice_V1xOk7iSz8": ""
+        },
+        "th": {
+            "header": "How should you act during a crisis?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Hiding information in a crisis usually makes it worse. People can’t fix something they don’t know about! Oh, and of course, don't hide away… it won't make anything better.",
+            "tips": "Prayer rooms are sometimes called ‘reflection room’, or even ‘multipurpose area’ to avoid offending anyone.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18998}}",
+            "choice_VJeNDDsrML": "Hide in a prayer room",
+            "choice_4kZNDDoSzI": "Hide information",
+            "choice_NkKPvorG8": "Communicate fully",
+            "choice_N1xwAGoSG8": "slowly",
+            "choice_NkZvAMoHzI": "swiftly",
+            "choice_EklG17irML": "hide in a prayer room",
+            "choice_EJbfJmsBMU": "shift the blame",
+            "choice_EJO1QoSfU": "secretly",
+            "choice_V1xOk7iSz8": "take responsibility"
+        }
+    }
+}

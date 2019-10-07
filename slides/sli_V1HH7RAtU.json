@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-16T14:27:08.667Z",
+            "updatedAt": "2019-04-16T14:27:08.667Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJC~5XuKI"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_V1HH7RAtU",
+        "universalRef": "sli_V1HH7RAtU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1HH7RAtU.choice_4ySs7RCKI.id",
+                        "label": "choice_4ySs7RCKI",
+                        "value": "choice_4ySs7RCKI"
+                    },
+                    {
+                        "id": "sli_V1HH7RAtU.choice_V15jX0CFU.id",
+                        "label": "choice_V15jX0CFU",
+                        "value": "choice_V15jX0CFU"
+                    },
+                    {
+                        "id": "sli_V1HH7RAtU.choice_4ydnm0CFI.id",
+                        "label": "choice_4ydnm0CFI",
+                        "value": "choice_4ydnm0CFI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V15jX0CFU",
+                        "choice_4ydnm0CFI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Why are senior employees sometimes reluctant to share their knowledge?",
+            "explanation": "Select the correct answers.",
+            "klf": "Senior employees often believe younger employees should learn the ropes themselves and tend to hang onto their knowledge.",
+            "tips": "Reverse mentoring can help organisations achieve specific goals such as increasing millennial retention or remaining competitive regarding technological advancement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ySs7RCKI": "They don’t like mixing with younger employees",
+            "choice_V15jX0CFU": "They believe younger staff should learn the ropes themselves",
+            "choice_4ydnm0CFI": "They believe ‘knowledge equals power’ and try to hang onto it"
+        },
+        "fr": {
+            "header": "Pourquoi les cadres supérieurs sont-ils parfois réticents à partager leurs connaissances ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les cadres supérieurs pensent souvent que les plus jeunes doivent apprendre les ficelles du métier par eux-mêmes et ont tendance à garder leurs connaissances pour eux.",
+            "tips": "Le mentorat inversé peut aider les organisations à atteindre des objectifs spécifiques, tels que retenir davantage de millennials au sein de l'entreprise ou augmenter la compétitivité face aux avancées technologiques.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ySs7RCKI": "Ils n'aiment pas côtoyer de jeunes employés",
+            "choice_V15jX0CFU": "Ils pensent que les employés plus jeunes devraient apprendre les ficelles du métier par eux-mêmes",
+            "choice_4ydnm0CFI": "Ils pensent que « la connaissance est synonyme de pouvoir » et essaient de s’y accrocher"
+        },
+        "de": {
+            "header": "Why are senior employees sometimes reluctant to share their knowledge? ",
+            "explanation": "Select the correct answers.",
+            "klf": "Senior employees often believe younger employees should learn the ropes themselves and tend to hang onto their knowledge.",
+            "tips": "Reverse mentoring can help organisations achieve specific goals such as increasing millennial retention or remaining competitive regarding technological advancement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ySs7RCKI": "They don’t like mixing with younger employees",
+            "choice_V15jX0CFU": "They believe younger staff should learn the ropes themselves",
+            "choice_4ydnm0CFI": "They believe ‘knowledge equals power’ and try to hang onto it"
+        },
+        "th": {
+            "header": "Why are senior employees sometimes reluctant to share their knowledge?",
+            "explanation": "Select the correct answers.",
+            "klf": "Senior employees often believe younger employees should learn the ropes themselves and tend to hang onto their knowledge.",
+            "tips": "Reverse mentoring can help organisations achieve specific goals such as increasing millennial retention or remaining competitive regarding technological advancement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4ySs7RCKI": "They don’t like mixing with younger employees",
+            "choice_V15jX0CFU": "They believe younger staff should learn the ropes themselves",
+            "choice_4ydnm0CFI": "They believe ‘knowledge equals power’ and try to hang onto it"
+        }
+    }
+}

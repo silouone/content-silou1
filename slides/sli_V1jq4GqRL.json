@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-12T16:18:09.606Z",
+            "updatedAt": "2019-06-14T08:47:02.840Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EypX0nK0U"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_V1jq4GqRL",
+        "universalRef": "sli_V1jq4GqRL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1jq4GqRL.choice_V1gfpEG9RI.id",
+                        "label": "choice_V1gfpEG9RI",
+                        "value": "choice_V1gfpEG9RI",
+                        "media": "med_E1f6NzqRU"
+                    },
+                    {
+                        "id": "sli_V1jq4GqRL.choice_VJguTVG9AI.id",
+                        "label": "choice_VJguTVG9AI",
+                        "value": "choice_VJguTVG9AI",
+                        "media": "med_4JOaNM9RI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJguTVG9AI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? When you are listening to someone, asking questions prove that you are not paying attention to what they are saying.",
+            "explanation": "Select the correct answer.",
+            "klf": "On the contrary! Asking questions prove that you are being attentive and trying to be constructive.",
+            "tips": "When you are listening to someone, resist the urge to think about what to say next. You will draw better conclusions if you let the other finish speaking to make up your mind about what to think of it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gfpEG9RI": "True",
+            "choice_VJguTVG9AI": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Quand vous écoutez quelqu'un, poser des questions prouve que vous ne faites pas attention à ce qu'il est en train de dire.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Au contraire ! Poser des questions prouve que vous êtes attentif et que vous essayez d'être constructif.",
+            "tips": "Lorsque vous écoutez quelqu'un, résistez à l'envie de réfléchir à quoi dire ensuite. Vous tirerez de meilleures conclusions si vous laissez votre interlocuteur finir de parler avant de décider de ce qu’il faut en penser.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gfpEG9RI": "Vrai",
+            "choice_VJguTVG9AI": "Faux"
+        },
+        "de": {
+            "header": "True or false? When you are listening to someone, asking questions prove that you are not paying attention to what they are saying.",
+            "explanation": "Select the correct answer.",
+            "klf": "On the contrary! Asking questions prove that you are being attentive and trying to be constructive.",
+            "tips": "When you are listening to someone, resist the urge to think about what to say next. You will draw better conclusions if you let the other finish speaking to make up your mind about what to think of it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gfpEG9RI": "True",
+            "choice_VJguTVG9AI": "False"
+        },
+        "th": {
+            "header": "True or false? When you are listening to someone, asking questions prove that you are not paying attention to what they are saying.",
+            "explanation": "Select the correct answer.",
+            "klf": "On the contrary! Asking questions prove that you are being attentive and trying to be constructive.",
+            "tips": "When you are listening to someone, resist the urge to think about what to say next. You will draw better conclusions if you let the other finish speaking to make up your mind about what to think of it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1gfpEG9RI": "True",
+            "choice_VJguTVG9AI": "False"
+        }
+    }
+}

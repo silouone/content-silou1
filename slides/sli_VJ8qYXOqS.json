@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-11T11:57:57.349Z",
+            "updatedAt": "2018-11-09T12:33:21.037Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1m6r84cr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_VJ8qYXOqS",
+        "universalRef": "sli_VJ8qYXOqS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VJ8qYXOqS.choice_41ltoYXuqS.id",
+                        "label": "choice_41ltoYXuqS",
+                        "value": "choice_41ltoYXuqS",
+                        "media": "med_Vktst7Ocr"
+                    },
+                    {
+                        "id": "sli_VJ8qYXOqS.choice_41xostXu5B.id",
+                        "label": "choice_41xostXu5B",
+                        "value": "choice_41xostXu5B",
+                        "media": "med_E1sjFmOcB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41xostXu5B"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Championing an employee is clearly favouritism. True or false?",
+            "explanation": "Select the correct answers.",
+            "klf": "Yes, you may be offering assistance, extra resources or time within work to arrange events. But that doesn't make it favouritism. You simply give your champions the tools to succeed, as for every other project.",
+            "tips": "Giving the best projects, the glamorous work trips, or perks to the same person is clearly a sign of favouritism. And it is not the best way for a high morale and a good productivity in the office as it can cause resentment and a lack of motivation for the favourite's colleagues.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ltoYXuqS": "TRUE",
+            "choice_41xostXu5B": "FALSE"
+        },
+        "fr": {
+            "header": "Faire d’un collaborateur un champion est clairement du favoritisme. Vrai ou faux ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Oui, vous pouvez proposer de l’aide, des ressources ou du temps supplémentaire sur le temps de travail pour organiser des événements. Mais cela n’est pas un acte de favoritisme. Vous accordez simplement à vos champions les outils nécessaires pour réussir, comme vous le feriez pour tout autre projet.",
+            "tips": "Confier les projets les plus intéressants, proposer des déplacements professionnels attrayants, ou accorder des avantages à une même personne constitue réellement un acte de favoritisme. Et ce n’est pas la meilleure façon de maintenir un bon état d’esprit et une productivité élevée au sein de l’équipe, car cela peut entraîner du ressentiment et une absence de motivation chez les collègues de cette personne.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ltoYXuqS": "Vrai",
+            "choice_41xostXu5B": "Faux"
+        },
+        "de": {
+            "header": "Einen Angestellten zu befürworten ist eindeutig eine Günstlingswirtschaft. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Ja, Sie können Unterstützung, zusätzliche Ressourcen oder Zeit für die Organisation von Veranstaltungen anbieten. Aber das macht ihn nicht begünstigt. Sie geben Ihren Champions einfach die Werkzeuge für den Erfolg, wie für jedes andere Projekt.",
+            "tips": "Die besten Projekte, die glamourösen Arbeitsreisen oder Vergünstigungen derselben Person zu geben, ist eindeutig ein Zeichen der Begünstigung. Und es ist nicht der beste Weg für eine hohe Moral und eine gute Produktivität im Büro, da dies zu Ressentiments und mangelnder Motivation für die Kollegen des Favoriten führen kann.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ltoYXuqS": "Richtig ",
+            "choice_41xostXu5B": "Falsch"
+        },
+        "th": {
+            "header": "Championing an employee is clearly favouritism. True or false?",
+            "explanation": "Select the correct answers.",
+            "klf": "Yes, you may be offering assistance, extra resources or time within work to arrange events. But that doesn't make it favouritism. You simply give your champions the tools to succeed, as for every other project.",
+            "tips": "Giving the best projects, the glamorous work trips, or perks to the same person is clearly a sign of favouritism. And it is not the best way for a high morale and a good productivity in the office as it can cause resentment and a lack of motivation for the favourite's colleagues.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41ltoYXuqS": "TRUE",
+            "choice_41xostXu5B": "FALSE"
+        }
+    }
+}

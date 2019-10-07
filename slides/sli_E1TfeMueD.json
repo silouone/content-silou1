@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-05T10:17:02.141Z",
+            "updatedAt": "2019-07-05T11:50:09.315Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1IF2Zwlw"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E1TfeMueD",
+        "universalRef": "sli_E1TfeMueD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1TfeMueD.choice_E1cNlfOlv.id",
+                        "label": "choice_E1cNlfOlv",
+                        "value": "choice_E1cNlfOlv"
+                    },
+                    {
+                        "id": "sli_E1TfeMueD.choice_V17SxG-lw.id",
+                        "label": "choice_V17SxG-lw",
+                        "value": "choice_V17SxG-lw"
+                    },
+                    {
+                        "id": "sli_E1TfeMueD.choice_4yCBgGdxw.id",
+                        "label": "choice_4yCBgGdxw",
+                        "value": "choice_4yCBgGdxw"
+                    },
+                    {
+                        "id": "sli_E1TfeMueD.choice_VkL8eMugw.id",
+                        "label": "choice_VkL8eMugw",
+                        "value": "choice_VkL8eMugw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkL8eMugw",
+                        "choice_V17SxG-lw",
+                        "choice_E1cNlfOlv"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What approaches are likely to put customers at ease?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Being natural, relaxed, friendly, open and alert are good approaches to customer satisfaction.",
+            "tips": "There's a right balance between being over friendly and being adequately friendly with customers. While there aren't any official principle to find this balance, adapting your attitude to your audience is a good start!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1cNlfOlv": "Natural and relaxed",
+            "choice_V17SxG-lw": "Open and alert",
+            "choice_4yCBgGdxw": "Pushy and aggressive",
+            "choice_VkL8eMugw": "Friendly"
+        },
+        "fr": {
+            "header": "Quelles approches sont susceptibles de mettre les clients à l'aise ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Être naturel, détendu, amical, ouvert et alerte sont de bonnes façons de satisfaire le client.",
+            "tips": "Il y a un juste équilibre entre se montrer trop amical et convenablement amical avec les clients. Bien qu'il n'y ait pas de principe officiel pour trouver cet équilibre, adapter votre attitude à votre public est un bon début !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1cNlfOlv": "Naturel et détendu",
+            "choice_V17SxG-lw": "Ouvert et alerte",
+            "choice_4yCBgGdxw": "Insistant et agressif",
+            "choice_VkL8eMugw": "Amical"
+        },
+        "de": {
+            "header": "What approaches are likely to put customers at ease?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Being natural, relaxed, friendly, open and alert are good approaches to customer satisfaction.",
+            "tips": "There's a right balance between being over friendly and being adequately friendly with customers. While there aren't any official principle to find this balance, adapting your attitude to your audience is a good start!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1cNlfOlv": "Natural and relaxed",
+            "choice_V17SxG-lw": "Open and alert",
+            "choice_4yCBgGdxw": "Pushy and aggressive",
+            "choice_VkL8eMugw": "Friendly"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1cNlfOlv": "",
+            "choice_V17SxG-lw": "",
+            "choice_4yCBgGdxw": "",
+            "choice_VkL8eMugw": ""
+        }
+    }
+}

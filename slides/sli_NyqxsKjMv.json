@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T08:00:18.748Z",
+            "updatedAt": "2019-08-01T08:00:18.748Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny3opawGP"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NyqxsKjMv",
+        "universalRef": "sli_NyqxsKjMv",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NyqxsKjMv.choice_VJqWiKoMP.id",
+                        "label": "choice_VJqWiKoMP",
+                        "value": "choice_VJqWiKoMP"
+                    },
+                    {
+                        "id": "sli_NyqxsKjMv.choice_V1sZotozD.id",
+                        "label": "choice_V1sZotozD",
+                        "value": "choice_V1sZotozD"
+                    },
+                    {
+                        "id": "sli_NyqxsKjMv.choice_EJ2ZsFofP.id",
+                        "label": "choice_EJ2ZsFofP",
+                        "value": "choice_EJ2ZsFofP"
+                    },
+                    {
+                        "id": "sli_NyqxsKjMv.choice_Nk6bsKsMP.id",
+                        "label": "choice_Nk6bsKsMP",
+                        "value": "choice_Nk6bsKsMP"
+                    },
+                    {
+                        "id": "sli_NyqxsKjMv.choice_4JnQiYifw.id",
+                        "label": "choice_4JnQiYifw",
+                        "value": "choice_4JnQiYifw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nk6bsKsMP",
+                        "choice_4JnQiYifw",
+                        "choice_VJqWiKoMP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you do if you are interviewing a candidate who does not give enough information?",
+            "explanation": "Select the correct answers below.",
+            "klf": "If you are facing a candidate who does not give enough information, try to make them feel at ease: use open body language and ask easy questions. You need to seek clarification.",
+            "tips": "Body language is not only useful in making a candidate feel at ease, it is critical in conveying any kind of message: studies show that only 7% of communication is verbal.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJqWiKoMP": "Ask easy questions",
+            "choice_V1sZotozD": "Stop talking to see how they react",
+            "choice_EJ2ZsFofP": "Ask them to lead the interview",
+            "choice_Nk6bsKsMP": "Use open body language",
+            "choice_4JnQiYifw": "Seek clarification"
+        },
+        "fr": {
+            "header": "Que devez-vous faire si vous interviewez un candidat qui ne donne pas assez d'informations ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Si vous faites face à un candidat qui ne donne pas assez d'informations, essayez de le mettre à l'aise : utilisez un langage corporel ouvert et posez des questions faciles. Demandez des précisions.",
+            "tips": "Le langage corporel n'est pas seulement utile pour mettre un candidat à l'aise, il est essentiel pour transmettre tout type de message : des études ont montré que seulement 7 % des communications étaient verbales.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJqWiKoMP": "Poser des questions faciles",
+            "choice_V1sZotozD": "Arrêter de parler pour voir la façon dont il réagit",
+            "choice_EJ2ZsFofP": "Demander au candidat de mener l'entretien",
+            "choice_Nk6bsKsMP": "Utiliser un langage corporel ouvert",
+            "choice_4JnQiYifw": "Demander des précisions"
+        },
+        "de": {
+            "header": "What should you do if you are interviewing a candidate who does not give enough information?",
+            "explanation": "Select the correct answers below.",
+            "klf": "If you are facing a candidate who does not give enough information, try to make them feel at ease: use open body language and ask easy questions. You need to seek clarification.",
+            "tips": "Body language is not only useful in making a candidate feel at ease, it is critical in conveying any kind of message: studies show that only 7% of communication is verbal.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJqWiKoMP": "Ask easy questions",
+            "choice_V1sZotozD": "Stop talking to see how they react",
+            "choice_EJ2ZsFofP": "Ask them to lead the interview",
+            "choice_Nk6bsKsMP": "Use open body language",
+            "choice_4JnQiYifw": "Seek clarification"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJqWiKoMP": "",
+            "choice_V1sZotozD": "",
+            "choice_EJ2ZsFofP": "",
+            "choice_Nk6bsKsMP": "",
+            "choice_4JnQiYifw": ""
+        }
+    }
+}

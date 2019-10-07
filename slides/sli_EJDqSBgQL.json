@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-22T17:45:08.109Z",
+            "updatedAt": "2019-02-22T11:43:56.285Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkF26kyGI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EJDqSBgQL",
+        "universalRef": "sli_EJDqSBgQL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJDqSBgQL.choice_VknirBx7L.id",
+                        "label": "choice_VknirBx7L",
+                        "value": "choice_VknirBx7L"
+                    },
+                    {
+                        "id": "sli_EJDqSBgQL.choice_V1pirBxXL.id",
+                        "label": "choice_V1pirBxXL",
+                        "value": "choice_V1pirBxXL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VknirBx7L"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What impact does 'dithering' have on others?",
+            "explanation": "Select the correct answer.",
+            "klf": "People see ditherers as poor decision makers, therefore bad leaders. Fortunately, everyone can learn to become decisive.",
+            "tips": "Slow decision-making can not only frustrate your team, it can also be detrimental to your business, by blocking downstream activities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VknirBx7L": "They see you as a poor decision maker",
+            "choice_V1pirBxXL": "They see you as someone who doesn’t take decisions lightly"
+        },
+        "fr": {
+            "header": "Quel effet la « tergiversation » a-t-elle sur les autres ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les leaders qui tergiversent sont de piètres décideurs, et par conséquent de mauvais leaders. Heureusement, tout le monde peut apprendre à décider.",
+            "tips": "Une prise de décision trop lente peut non seulement être source de frustration pour votre équipe, mais elle peut également nuire à votre entreprise, en paralysant les activités en aval.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VknirBx7L": "Vos collaborateurs vous considèrent comme un piètre décideur",
+            "choice_V1pirBxXL": "Ils vous considèrent comme une personne qui ne prend pas ses décisions à la légère"
+        },
+        "de": {
+            "header": "Welchen Einfluss hat \"Unentschlossenheit\" auf andere?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Die Menschen betrachten Zögerer als schlechte Entscheidungsträger, also schlechte Führungskräfte. Glücklicherweise kann jeder lernen, entschlossen zu werden.",
+            "tips": "Eine langsame Entscheidungsfindung kann Ihr Team nicht nur frustrieren, es kann sich auch nachteilig auf Ihr Geschäft auswirken, indem es nachgelagerte Aktivitäten blockiert.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VknirBx7L": "Sie sehen Sie als einen schlechten Entscheidungsträger",
+            "choice_V1pirBxXL": "Sie sehen Sie als jemanden, der Entscheidungen nicht leichtfertig trifft"
+        },
+        "th": {
+            "header": "What impact does 'dithering' have on others?",
+            "explanation": "Select the correct answer.",
+            "klf": "People see ditherers as poor decision makers, therefore bad leaders. Fortunately, everyone can learn to become decisive.",
+            "tips": "Slow decision-making can not only frustrate your team, it can also be detrimental to your business, by blocking downstream activities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VknirBx7L": "They see you as a poor decision maker",
+            "choice_V1pirBxXL": "They see you as someone who doesn’t take decisions lightly"
+        }
+    }
+}

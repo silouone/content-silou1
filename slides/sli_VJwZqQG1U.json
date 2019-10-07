@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T15:07:34.315Z",
+            "updatedAt": "2019-01-21T14:49:48.526Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vytwu9lyL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_VJwZqQG1U",
+        "universalRef": "sli_VJwZqQG1U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel22431",
+                        "items": [
+                            {
+                                "text": "choice_EyxEB5QG18",
+                                "value": "choice_EyxEB5QG18"
+                            },
+                            {
+                                "text": "choice_VyZ4rcQGkU",
+                                "value": "choice_VyZ4rcQGkU"
+                            },
+                            {
+                                "text": "choice_41cSqQGy8",
+                                "value": "choice_41cSqQGy8"
+                            },
+                            {
+                                "text": "choice_VkyU57fyI",
+                                "value": "choice_VkyU57fyI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel22431",
+                        "answers": [
+                            "choice_VyZ4rcQGkU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What would be a good opening positive gesture when a team member comes to you for help?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Smiling is a universal language. When someone comes to you and you smile, you show the other person you are open for a conversation and you help them feel confident.",
+            "tips": "Hugs, bows or hand shakes all have different meanings across cultures. However, smiling is indeed a universal language, as it is in all cultures a sign of happiness and acceptance.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel22431}}",
+            "choice_EyxEB5QG18": "Keep quiet",
+            "choice_VyZ4rcQGkU": "Smile",
+            "choice_41cSqQGy8": "Give your business card",
+            "choice_VkyU57fyI": "Look for a meeting room"
+        },
+        "fr": {
+            "header": "Quelle serait la gestuelle positive d’ouverture à adopter lorsqu’un collaborateur vient vous demander de l’aide ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Sourire est un langage universel. Lorsqu’une personne vient vous voir et que vous l’accueillez avec le sourire, vous lui montrez que vous êtes disponible pour discuter, et ainsi vous le mettez en confiance.",
+            "tips": "Les accolades, les saluts de la tête ou les poignées de main possèdent tous une signification différente selon les cultures. Le sourire est en effet un langage universel, car dans toute culture il est synonyme de joie et d’acceptation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel22431}}",
+            "choice_EyxEB5QG18": "Rester silencieux",
+            "choice_VyZ4rcQGkU": "Sourire",
+            "choice_41cSqQGy8": "Remettre votre carte de visite",
+            "choice_VkyU57fyI": "Chercher une salle de réunion"
+        },
+        "de": {
+            "header": "Was wäre eine gute positive Eröffnungsgeste, wenn ein Teammitglied Sie um Hilfe bittet?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Lächeln ist eine universelle Sprache. Wenn jemand zu Ihnen kommt und Sie lächeln, zeigen Sie der anderen Person, dass Sie für ein Gespräch aufgeschlossen sind, und helfen ihnen, sich sicher zu fühlen.",
+            "tips": "Umarmungen, Bögen oder Händedrucke haben in allen Kulturen unterschiedliche Bedeutungen. Lächeln ist jedoch in der Tat eine universelle Sprache, da es in allen Kulturen ein Zeichen von Glück und Akzeptanz ist.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel22431}}",
+            "choice_EyxEB5QG18": "Bleib ruhig",
+            "choice_VyZ4rcQGkU": "Lächeln",
+            "choice_41cSqQGy8": "Gib deine Visitenkarte",
+            "choice_VkyU57fyI": "Suchen Sie nach einem Besprechungsraum"
+        },
+        "th": {
+            "header": "ถ้าสมาชิกในทีมมาขอความช่วยเหลือจากคุณ คุณควรแสดงท่าทางที่ดีอย่างไรในตอนต้น",
+            "explanation": "เลือกคำตอบที่ถูกต้องจากเมนูเลื่อนลง",
+            "klf": "รอยยิ้มเปรียบเสมือนภาษาสากล ถ้ามีคนเข้ามาหาคุณแล้วคุณยิ้มให้ คุณก็แสดงให้เขาคนนั้นรู้ว่าคุณพร้อมที่จะสนทนาและคุณจะทำให้เขารู้สึกมั่นใจ",
+            "tips": "การกอด การโค้งตัวหรือการจับมือมีความหมายไม่เหมือนกันในแต่ละวัฒนธรรม อย่างไรก็ดี การยิ้มเป็นภาษาสากลจริงๆ เนื่องจากเป็นสัญญาณแห่งความสุขและการยอมรับในทุกวัฒนธรรม",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel22431}}",
+            "choice_EyxEB5QG18": "ทำตัวเงียบๆ เข้าไว้",
+            "choice_VyZ4rcQGkU": "ยิ้มให้",
+            "choice_41cSqQGy8": "ให้นามบัตรของคุณ",
+            "choice_VkyU57fyI": "มองหาห้องประชุม"
+        }
+    }
+}

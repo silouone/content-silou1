@@ -1,0 +1,106 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T12:50:54.430Z",
+            "updatedAt": "2019-03-21T10:56:29.615Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1ndF7XvL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Ek3C2N7v8",
+        "universalRef": "sli_Ek3C2N7v8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Ek3C2N7v8.choice_E1LmaVmDL.id",
+                        "label": "choice_E1LmaVmDL",
+                        "value": "choice_E1LmaVmDL"
+                    },
+                    {
+                        "id": "sli_Ek3C2N7v8.choice_4kA7p4mvU.id",
+                        "label": "choice_4kA7p4mvU",
+                        "value": "choice_4kA7p4mvU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kA7p4mvU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_E1v2CV7vU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Should you screen out older candidates right from the start?",
+            "explanation": "Select the correct answer.",
+            "klf": "Do not expect everyone to conform to their generational stereotypes. Just because you are not a digital native does not mean you will be slow to adopt new technology or that you are not an accomplished social media user.",
+            "tips": "The term ‘digital native’ is used to refer to people who grew up in the digital age.",
+            "clue": "",
+            "context_title": "‘Baby boomers’ and social media",
+            "context_description": "You are looking for your new Head of Social Media. You have already received 43 applications, and you are trying to establish a shortlist of candidates. You have noticed that some of them are over 50 years old.",
+            "context_media_description": "",
+            "choice_E1LmaVmDL": "Certainly. Once you have reached a certain age, you cannot follow the pace",
+            "choice_4kA7p4mvU": "Definitely not. There is no age to be tech savvy, they could be qualified"
+        },
+        "fr": {
+            "header": "Devez-vous écarter les candidats plus âgés dès le début ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Ne vous attendez pas à ce que tout le monde se conforme à ses stéréotypes générationnels. Ce n’est pas parce que vous n’êtes pas un natif du numérique que vous serez lent à adopter une nouvelle technologie ou que vous n’êtes pas un utilisateur accompli des médias sociaux.",
+            "tips": "Le terme « natif du numérique » est utilisé pour désigner les personnes qui ont grandi à l’ère numérique.",
+            "clue": "",
+            "context_title": "« Baby-boomers » et réseaux sociaux",
+            "context_description": "Vous recherchez votre nouveau responsable des réseaux sociaux. Vous avez déjà reçu 43 candidatures et vous essayez d’établir une liste restreinte de candidats. Vous avez remarqué que certains d'entre eux ont plus de 50 ans.",
+            "context_media_description": "",
+            "choice_E1LmaVmDL": "Certainement. Une fois passé un certain âge, il devient dur de suivre le rythme.",
+            "choice_4kA7p4mvU": "Absolument pas. Il n'y a pas d'âge pour être féru de technologie, ils pourraient être qualifiés."
+        },
+        "de": {
+            "header": "Should you screen out older candidates right from the start?",
+            "explanation": "Select the correct answer.",
+            "klf": "Do not expect everyone to conform to their generational stereotypes. Just because you are not a digital native does not mean you will be slow to adopt new technology or that you are not an accomplished social media user.",
+            "tips": "The term ‘digital native’ is used to refer to people who grew up in the digital age.",
+            "clue": "",
+            "context_title": "‘Baby boomers’ and social media",
+            "context_description": "You are looking for your new Head of Social Media. You have already received 43 applications, and you are trying to establish a shortlist of candidates. You have noticed that some of them are over 50 years old.",
+            "context_media_description": "",
+            "choice_E1LmaVmDL": "Certainly. Once you have reached a certain age, you cannot follow the pace",
+            "choice_4kA7p4mvU": "Definitely not. There is no age to be tech savvy, they could be qualified"
+        },
+        "th": {
+            "header": "Should you screen out older candidates right from the start?",
+            "explanation": "Select the correct answer.",
+            "klf": "Do not expect everyone to conform to their generational stereotypes. Just because you are not a digital native does not mean you will be slow to adopt new technology or that you are not an accomplished social media user.",
+            "tips": "The term ‘digital native’ is used to refer to people who grew up in the digital age.",
+            "clue": "",
+            "context_title": "‘Baby boomers’ and social media",
+            "context_description": "You are looking for your new Head of Social Media. You have already received 43 applications, and you are trying to establish a shortlist of candidates. You have noticed that some of them are over 50 years old.",
+            "context_media_description": "",
+            "choice_E1LmaVmDL": "Certainly. Once you have reached a certain age, you cannot follow the pace",
+            "choice_4kA7p4mvU": "Definitely not. There is no age to be tech savvy, they could be qualified"
+        }
+    }
+}

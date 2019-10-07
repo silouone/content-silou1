@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-03T15:59:34.344Z",
+            "updatedAt": "2019-05-27T09:39:48.363Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kY59jpOL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_N1lrQTpd8",
+        "universalRef": "sli_N1lrQTpd8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1lrQTpd8.choice_E1lvsBppO8.id",
+                        "label": "choice_E1lvsBppO8",
+                        "value": "choice_E1lvsBppO8",
+                        "media": "med_4yvjSpa-U"
+                    },
+                    {
+                        "id": "sli_N1lrQTpd8.choice_EkgijBaTOL.id",
+                        "label": "choice_EkgijBaTOL",
+                        "value": "choice_EkgijBaTOL",
+                        "media": "med_EksjHpTd8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkgijBaTOL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Stress can never be life threatening, even at very high levels. True or false?",
+            "explanation": "Select the correct answers.",
+            "klf": "If accumulated, stress can be hazardous. To reduce it, exercising is a good start!",
+            "tips": "Stress can be the main cause of problems such as headaches, high blood pressure, heart problems, anxiety, diabetes, asthma and depression. So get away from it!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1lvsBppO8": "TRUE",
+            "choice_EkgijBaTOL": "FALSE"
+        },
+        "fr": {
+            "header": "Le stress n'est jamais grave pour la santé, même à des niveaux très élevés. Vrai ou faux ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Accumulé, le stress peut être dangereux. Pour le réduire, l'exercice est un bon début !",
+            "tips": "Le stress peut être la principale cause de problèmes tels que maux de tête, hypertension artérielle, problèmes cardiaques, anxiété, diabète, asthme et dépression. Ne le sous-estimez pas !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1lvsBppO8": "Vrai",
+            "choice_EkgijBaTOL": "Faux"
+        },
+        "de": {
+            "header": "Stress can never be life threatening, even at very high levels. True or false?",
+            "explanation": "Select the correct answers.",
+            "klf": "If accumulated, stress can be hazardous. To reduce it, exercising is a good start!",
+            "tips": "Stress can be the main cause of problems such as headaches, high blood pressure, heart problems, anxiety, diabetes, heart problems, asthma and depression. So get away from it!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1lvsBppO8": "True",
+            "choice_EkgijBaTOL": "False"
+        },
+        "th": {
+            "header": "Stress can never be life threatening, even at very high levels. True or false?",
+            "explanation": "Select the correct answers.",
+            "klf": "If accumulated, stress can be hazardous. To reduce it, exercising is a good start!",
+            "tips": "Stress can be the main cause of problems such as headaches, high blood pressure, heart problems, anxiety, diabetes, asthma and depression. So get away from it!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1lvsBppO8": "TRUE",
+            "choice_EkgijBaTOL": "FALSE"
+        }
+    }
+}

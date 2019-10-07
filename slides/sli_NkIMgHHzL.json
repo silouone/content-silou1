@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-14T09:24:50.682Z",
+            "updatedAt": "2019-02-22T11:55:25.825Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkDpnlyf8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NkIMgHHzL",
+        "universalRef": "sli_NkIMgHHzL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel74432",
+                        "items": [
+                            {
+                                "text": "choice_NJe3NfBrGL",
+                                "value": "choice_NJe3NfBrGL"
+                            },
+                            {
+                                "text": "choice_4kW24zrrML",
+                                "value": "choice_4kW24zrrML"
+                            },
+                            {
+                                "text": "choice_4kdBzBBMI",
+                                "value": "choice_4kdBzBBMI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel74432",
+                        "answers": [
+                            "choice_4kW24zrrML"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the consequence of switching back and forth between tasks?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Switching back and forth between tasks has an ‘interruption cost’ – it takes longer to get back to focus.",
+            "tips": "Don't try to be ‘on’ constantly: when trying to accomplish complex tasks, don't forget to take regular short breaks. This will help improve your focus!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Switching between tasks makes you {{sel74432}}",
+            "choice_NJe3NfBrGL": "gain time",
+            "choice_4kW24zrrML": "waste time",
+            "choice_4kdBzBBMI": "more efficient"
+        },
+        "fr": {
+            "header": "Quelle est la conséquence de jongler entre plusieurs tâches ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Passer d'une tâche à l'autre entraîne un « coût d'interruption » - en effet,  se reconcentrer sur une nouvelle tâche prend plus d temps.",
+            "tips": "N'essayez pas d'être « actif » en permanence : lorsque vous essayez de réaliser des tâches complexes, pensez à faire de courtes pauses régulièrement. Cela vous aidera à améliorer votre concentration !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Jongler entre plusieurs tâches vous fait {{sel74432}}",
+            "choice_NJe3NfBrGL": "gagner du temps",
+            "choice_4kW24zrrML": "perdre du temps",
+            "choice_4kdBzBBMI": "gagner en efficacité"
+        },
+        "de": {
+            "header": "Was ist die Folge eines Hin- und Herschaltens zwischen Aufgaben?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Das Hin- und Herschalten zwischen Aufgaben hat \"Unterbrechungskosten\" - es dauert länger, bis der Fokus wieder hergestellt ist.",
+            "tips": "Versuchen Sie nicht, ständig aktiv zu sein: Vergessen Sie nicht, regelmäßig Pausen einzulegen, wenn Sie komplexe Aufgaben ausführen möchten. Dies hilft, den Fokus zu verbessern!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Wenn Sie zwischen Aufgaben wechseln, werden Sie {{sel74432}}",
+            "choice_NJe3NfBrGL": "Zeit gewinnen",
+            "choice_4kW24zrrML": "Zeit verschwenden",
+            "choice_4kdBzBBMI": "effizienter"
+        },
+        "th": {
+            "header": "What is the consequence of switching back and forth between tasks?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Switching back and forth between tasks has an ‘interruption cost’ – it takes longer to get back to focus.",
+            "tips": "Don't try to be ‘on’ constantly: when trying to accomplish complex tasks, don't forget to take regular short breaks. This will help improve your focus!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Switching between tasks makes you {{sel74432}}",
+            "choice_NJe3NfBrGL": "gain time",
+            "choice_4kW24zrrML": "waste time",
+            "choice_4kdBzBBMI": "more efficient"
+        }
+    }
+}

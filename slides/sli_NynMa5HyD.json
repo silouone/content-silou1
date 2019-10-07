@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T10:22:59.371Z",
+            "updatedAt": "2019-06-26T09:02:15.567Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vyg-TYS1w"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_NynMa5HyD",
+        "universalRef": "sli_NynMa5HyD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NynMa5HyD.choice_NJSma5HkD.id",
+                        "label": "choice_NJSma5HkD",
+                        "value": "choice_NJSma5HkD"
+                    },
+                    {
+                        "id": "sli_NynMa5HyD.choice_4JQV69Hkv.id",
+                        "label": "choice_4JQV69Hkv",
+                        "value": "choice_4JQV69Hkv"
+                    },
+                    {
+                        "id": "sli_NynMa5HyD.choice_EyhNT5HkD.id",
+                        "label": "choice_EyhNT5HkD",
+                        "value": "choice_EyhNT5HkD"
+                    },
+                    {
+                        "id": "sli_NynMa5HyD.choice_EydH69S1D.id",
+                        "label": "choice_EydH69S1D",
+                        "value": "choice_EydH69S1D"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EyhNT5HkD",
+                        "choice_4JQV69Hkv",
+                        "choice_NJSma5HkD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you confirm at the end of a call?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When closing the call, don’t leave your customer ‘lost at sea’. Always confirm what happens next, who will do it and when.",
+            "tips": "Do not forget to thank the person for calling!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJSma5HkD": "What will happen next",
+            "choice_4JQV69Hkv": "Who will do this",
+            "choice_EyhNT5HkD": "When will it happen",
+            "choice_EydH69S1D": "The date and time that the call ended"
+        },
+        "fr": {
+            "header": "Que devez-vous confirmer à la fin d'un appel ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsque vous terminez l’appel, ne laissez pas votre client « complètement désemparé ». Confirmez toujours la suite des évènements, qui doit faire quoi et quand.",
+            "tips": "N'oubliez pas de remercier la personne d'avoir appelé !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJSma5HkD": "La suite des évènements",
+            "choice_4JQV69Hkv": "Qui doit faire quoi",
+            "choice_EyhNT5HkD": "Quand",
+            "choice_EydH69S1D": "La date et l'heure de fin d'appel"
+        },
+        "de": {
+            "header": "What should you confirm at the end of a call?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When closing the call, don’t leave your customer ‘lost at sea’. Always confirm what happens next, who will do it and when.",
+            "tips": "Do not forget to thank the person for calling!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJSma5HkD": "What will happen next",
+            "choice_4JQV69Hkv": "Who will do this",
+            "choice_EyhNT5HkD": "When will it happen",
+            "choice_EydH69S1D": "The date and time that the call ended"
+        },
+        "th": {
+            "header": "What should you confirm at the end of a call?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When closing the call, don’t leave your customer ‘lost at sea’. Always confirm what happens next, who will do it and when.",
+            "tips": "Do not forget to thank the person for calling!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJSma5HkD": "What will happen next",
+            "choice_4JQV69Hkv": "Who will do this",
+            "choice_EyhNT5HkD": "When will it happen",
+            "choice_EydH69S1D": "The date and time that the call ended"
+        }
+    }
+}

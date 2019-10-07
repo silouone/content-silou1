@@ -1,0 +1,170 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-20T15:44:04.954Z",
+            "updatedAt": "2019-06-26T08:15:54.550Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1yncdVkv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_N1i~u9NkD",
+        "universalRef": "sli_N1i~u9NkD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel13426",
+                        "items": [
+                            {
+                                "text": "choice_VygH7dc4kw",
+                                "value": "choice_VygH7dc4kw"
+                            },
+                            {
+                                "text": "choice_4yZSm-9NJv",
+                                "value": "choice_4yZSm-9NJv"
+                            },
+                            {
+                                "text": "choice_V1v-dqVJw",
+                                "value": "choice_V1v-dqVJw"
+                            },
+                            {
+                                "text": "choice_Nk5u-qVJP",
+                                "value": "choice_Nk5u-qVJP"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel58461",
+                        "items": [
+                            {
+                                "text": "choice_N1gGtuqVkD",
+                                "value": "choice_N1gGtuqVkD"
+                            },
+                            {
+                                "text": "choice_4ybzYu9E1D",
+                                "value": "choice_4ybzYu9E1D"
+                            },
+                            {
+                                "text": "choice_4JtYd9VJw",
+                                "value": "choice_4JtYd9VJw"
+                            },
+                            {
+                                "text": "choice_4y0c-qVyD",
+                                "value": "choice_4y0c-qVyD"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel13426",
+                        "answers": [
+                            "choice_4yZSm-9NJv"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel58461",
+                        "answers": [
+                            "choice_N1gGtuqVkD"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What can you do to help the caller feel connected?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Record and repeat information so the caller feels connected.",
+            "tips": "While repeating the information is a wise thing to do on your side, you should be listening actively enough so that the customer won‘t need to repeat their request twice. This is indeed very frustrating!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13426}} and {{sel58461}} information",
+            "choice_VygH7dc4kw": "Forget",
+            "choice_4yZSm-9NJv": "Record",
+            "choice_V1v-dqVJw": "Delete",
+            "choice_Nk5u-qVJP": "Execute",
+            "choice_N1gGtuqVkD": "repeat",
+            "choice_4ybzYu9E1D": "ignore",
+            "choice_4JtYd9VJw": "pass on",
+            "choice_4y0c-qVyD": "congratulate"
+        },
+        "fr": {
+            "header": "Que pouvez-vous faire pour aider l'interlocuteur à se sentir connecté ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Retenez et répétez les informations pour que l'interlocuteur se sente connecté.",
+            "tips": "Alors que répéter les informations est une bonne chose à faire de votre côté, vous devez écouter suffisamment attentivement pour que le client n’ait pas besoin de répéter sa demande deux fois. Car cela est vraiment très frustrant !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13426}} et {{sel58461}} les informations",
+            "choice_VygH7dc4kw": "Oublier",
+            "choice_4yZSm-9NJv": "Retenir",
+            "choice_V1v-dqVJw": "Supprimer",
+            "choice_Nk5u-qVJP": "Effectuer",
+            "choice_N1gGtuqVkD": "répéter",
+            "choice_4ybzYu9E1D": "ignorer",
+            "choice_4JtYd9VJw": "transmettre",
+            "choice_4y0c-qVyD": "le féliciter sur"
+        },
+        "de": {
+            "header": "What can you do to help the caller feel connected?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Record and repeat information so the caller feels connected.",
+            "tips": "While repeating the information is a wise thing to do on your side, you should be listening actively enough so that the customer won‘t need to repeat their request twice. This is indeed very frustrating!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13426}} and {{sel58461}} information",
+            "choice_VygH7dc4kw": "Forget",
+            "choice_4yZSm-9NJv": "Record",
+            "choice_V1v-dqVJw": "Delete",
+            "choice_Nk5u-qVJP": "Execute",
+            "choice_N1gGtuqVkD": "repeat",
+            "choice_4ybzYu9E1D": "ignore",
+            "choice_4JtYd9VJw": "pass on",
+            "choice_4y0c-qVyD": "congratulate"
+        },
+        "th": {
+            "header": "What can you do to help the caller feel connected?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Record and repeat information so the caller feels connected.",
+            "tips": "While repeating the information is a wise thing to do on your side, you should be listening actively enough so that the customer won‘t need to repeat their request twice. This is indeed very frustrating!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13426}} and {{sel58461}} information",
+            "choice_VygH7dc4kw": "Forget",
+            "choice_4yZSm-9NJv": "Record",
+            "choice_V1v-dqVJw": "Delete",
+            "choice_Nk5u-qVJP": "Execute",
+            "choice_N1gGtuqVkD": "repeat",
+            "choice_4ybzYu9E1D": "ignore",
+            "choice_4JtYd9VJw": "pass on",
+            "choice_4y0c-qVyD": "congratulate"
+        }
+    }
+}

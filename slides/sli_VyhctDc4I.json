@@ -1,0 +1,130 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T13:49:27.439Z",
+            "updatedAt": "2019-02-12T09:06:27.994Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJfl1WHVI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VyhctDc4I",
+        "universalRef": "sli_VyhctDc4I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VyhctDc4I.choice_N1jSsD5VI.id",
+                        "label": "choice_N1jSsD5VI",
+                        "value": "choice_N1jSsD5VI"
+                    },
+                    {
+                        "id": "sli_VyhctDc4I.choice_VkqqoPcVL.id",
+                        "label": "choice_VkqqoPcVL",
+                        "value": "choice_VkqqoPcVL"
+                    },
+                    {
+                        "id": "sli_VyhctDc4I.choice_E1Psow94U.id",
+                        "label": "choice_E1Psow94U",
+                        "value": "choice_E1Psow94U"
+                    },
+                    {
+                        "id": "sli_VyhctDc4I.choice_E1XnjD9E8.id",
+                        "label": "choice_E1XnjD9E8",
+                        "value": "choice_E1XnjD9E8"
+                    },
+                    {
+                        "id": "sli_VyhctDc4I.choice_Ny6nswq4I.id",
+                        "label": "choice_Ny6nswq4I",
+                        "value": "choice_Ny6nswq4I"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1jSsD5VI",
+                        "choice_E1Psow94U",
+                        "choice_E1XnjD9E8",
+                        "choice_Ny6nswq4I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you minimize distractions in the first hour of the day?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Make sure you won't be distracted during your first working hour of the day. Switch your phone off, close your office door, divert your phone to voicemail and most of all…don't read your emails!",
+            "tips": "Unless you're expecting something important, try not to look at your emails. If you start the day at 9am, there are very few emails that need to be looked at before 10am. Use this hour to work on important tasks free from distractions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1jSsD5VI": "Switch your phone off",
+            "choice_VkqqoPcVL": "Read your emails first",
+            "choice_E1Psow94U": "Close your office door",
+            "choice_E1XnjD9E8": "Divert your phone to voicemail",
+            "choice_Ny6nswq4I": "Don't read your emails"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous minimiser les distractions au cours de la première heure de la journée ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Assurez-vous de ne pas être distrait pendant votre première heure de travail de la journée. Éteignez votre téléphone, fermez la porte de votre bureau, transférez votre téléphone vers la messagerie vocale et surtout… ne lisez pas vos emails !",
+            "tips": "Sauf si vous attendez quelque chose d'important, essayez de ne pas regarder vos emails. Si vous commencez la journée à 9 heures du matin, très peu d'emails doivent être lus avant 10 heures. Utilisez cette heure pour travailler sur des tâches importantes, sans distractions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1jSsD5VI": "Éteignez votre téléphone",
+            "choice_VkqqoPcVL": "Lisez d'abord vos emails",
+            "choice_E1Psow94U": "Fermez la porte de votre bureau",
+            "choice_E1XnjD9E8": "Transférez votre téléphone vers la messagerie vocale",
+            "choice_Ny6nswq4I": "Ne lisez pas vos emails"
+        },
+        "de": {
+            "header": "Wie können Sie Ablenkungen in der ersten Stunde des Tages minimieren?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Stellen Sie sicher, dass Sie während der ersten Arbeitszeit des Tages nicht abgelenkt werden. Schalten Sie Ihr Telefon aus, schließen Sie die Bürotür, leiten Sie Ihr Telefon an die Mailbox weiter und lesen Sie Ihre E-Mails nicht!",
+            "tips": "Versuchen Sie, Ihre E-Mails nicht anzusehen, es sei denn, Sie erwarten etwas Wichtiges. Wenn Sie den Tag um 9 Uhr beginnen, gibt es nur sehr wenige E-Mails, die vor 10 Uhr angesehen werden müssen. Nutzen Sie diese Stunde, um an wichtigen Aufgaben ohne Ablenkungen zu arbeiten.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1jSsD5VI": "Schalten Sie Ihr Telefon aus",
+            "choice_VkqqoPcVL": "Lesen Sie zuerst Ihre E-Mails",
+            "choice_E1Psow94U": "Schließen Sie Ihre Bürotür",
+            "choice_E1XnjD9E8": "Richten Sie Ihr Telefon auf die Mailbox um",
+            "choice_Ny6nswq4I": "Lesen Sie Ihre E-Mails nicht"
+        },
+        "th": {
+            "header": "How can you minimize distractions in the first hour of the day?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Make sure you won't be distracted during your first working hour of the day. Switch your phone off, close your office door, divert your phone to voicemail and most of all…don't read your emails!",
+            "tips": "Unless you're expecting something important, try not to look at your emails. If you start the day at 9am, there are very few emails that need to be looked at before 10am. Use this hour to work on important tasks free from distractions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1jSsD5VI": "Switch your phone off",
+            "choice_VkqqoPcVL": "Read your emails first",
+            "choice_E1Psow94U": "Close your office door",
+            "choice_E1XnjD9E8": "Divert your phone to voicemail",
+            "choice_Ny6nswq4I": "Don't read your emails"
+        }
+    }
+}

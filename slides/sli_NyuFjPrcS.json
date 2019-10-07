@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T10:03:13.369Z",
+            "updatedAt": "2018-11-09T13:08:54.050Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkxsHvBcS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_NyuFjPrcS",
+        "universalRef": "sli_NyuFjPrcS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyuFjPrcS.choice_VJo9swS9S.id",
+                        "label": "choice_VJo9swS9S",
+                        "value": "choice_VJo9swS9S"
+                    },
+                    {
+                        "id": "sli_NyuFjPrcS.choice_NkncsPBcB.id",
+                        "label": "choice_NkncsPBcB",
+                        "value": "choice_NkncsPBcB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJo9swS9S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's the first step to becoming self-aware?",
+            "explanation": "Select the correct answer.",
+            "klf": "To become self-aware, be conscious of the impact that your emotional impulses have on your behaviour.",
+            "tips": "A study conducted by the Hay Group found that 19 % of women executives showed more self-awareness as compared to 4 % of their male counterparts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJo9swS9S": "Becoming aware of our emotions and how our moods affect us",
+            "choice_NkncsPBcB": "Becoming aware of how other people's moods affect us"
+        },
+        "fr": {
+            "header": "Quelle est la première étape vers une meilleure conscience de soi ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Développez votre conscience de vous-même, prenez conscience de l’impact de vos élans émotionnels sur votre comportement.",
+            "tips": "Une étude de Hay Group a démontré que 19 % des femmes cadres étaient sensibles à la conscience de soi contre 4 % de leurs homologues masculins.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJo9swS9S": "Prendre conscience de nos émotions et de l’influence de notre humeur sur nous-mêmes",
+            "choice_NkncsPBcB": "Prendre conscience de l’impact que l’humeur des autres peut avoir sur nous-mêmes"
+        },
+        "de": {
+            "header": "Was ist der erste Schritt zum Selbstbewusstsein?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Um selbstbewusst zu werden, sollten Sie sich der Auswirkungen bewusst sein, die Ihre emotionalen Impulse auf Ihr Verhalten haben.",
+            "tips": "Eine von der Hay Group durchgeführte Studie ergab, dass 19% der weiblichen Führungskräfte mehr Selbstbewusstsein zeigten als 4% ihrer männlichen Kollegen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJo9swS9S": "Sich unserer Emotionen bewusst werden und, wie sich unsere Stimmungen auf uns auswirken",
+            "choice_NkncsPBcB": "Sich bewusst werden, wie die Stimmung anderer Menschen auf uns wirkt"
+        },
+        "th": {
+            "header": "ขั้นตอนของการตระหนักรู้ในตนเองคืออะไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "ตระหนักรู้ในตนเอง รู้ถึงผลกระทบที่แรงกระตุ้นทางอารมณ์มีต่อพฤติกรรมของคุณ",
+            "tips": "งานวิจัยของ Hay Group พบว่า 19 % ของผู้บริหารหญิงแสดงการตระหนักรู้ในตนเองมากกว่าเมื่อเปรียบเทียบกับผู้บริหารชายที่มีเพียง 4 %",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJo9swS9S": "ตระหนักรู้ในอารมณ์และผลกระทบของอารมณ์ที่มีต่อตัวเรา",
+            "choice_NkncsPBcB": "ตระหนักรู้ถึงอารมณ์ของผู้อื่นที่มีต่อเรา"
+        }
+    }
+}

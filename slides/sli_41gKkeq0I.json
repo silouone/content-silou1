@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-12T13:40:05.463Z",
+            "updatedAt": "2019-06-25T10:17:17.068Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJY7R3YAI"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_41gKkeq0I",
+        "universalRef": "sli_41gKkeq0I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel18410",
+                        "items": [
+                            {
+                                "text": "choice_4kl3c1x508",
+                                "value": "choice_4kl3c1x508"
+                            },
+                            {
+                                "text": "choice_4JW2cylq0I",
+                                "value": "choice_4JW2cylq0I"
+                            },
+                            {
+                                "text": "choice_VyZ2Je5CL",
+                                "value": "choice_VyZ2Je5CL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel18410",
+                        "answers": [
+                            "choice_4kl3c1x508"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "At the end of a counselling meeting, it is important to...",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Setting a time and date for follow-up is a very important part of the counselling process.",
+            "tips": "Counselling does not mean lowering standards! You have to listen to and empathize, but the idea is still to eventually come up with a plan for improvement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18410}}",
+            "choice_4kl3c1x508": "Set up a time and date for follow-up",
+            "choice_4JW2cylq0I": "Have a coffee together to relax",
+            "choice_VyZ2Je5CL": "Summarise your points of view"
+        },
+        "fr": {
+            "header": "À la fin d'une session de conseil, il est important de...",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Fixer une date et une heure pour un suivi est une partie très importante du processus de ses sessions de conseil.",
+            "tips": "Conseiller ses employés ne signifie pas revoir ses attentes à la baisse ! Vous devez écouter et faire preuve d'empathie, mais l'idée étant toujours de parvenir à un plan pour améliorer la situation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18410}}",
+            "choice_4kl3c1x508": "fixer une date et une heure pour le suivi",
+            "choice_4JW2cylq0I": "prendre un café ensemble pour se détendre",
+            "choice_VyZ2Je5CL": "résumer vos points de vue"
+        },
+        "de": {
+            "header": "At the end of a counselling meeting, it is important to...",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Setting a time and date for follow-up is a very important part of the counselling process.",
+            "tips": "Counselling does not mean lowering standards! You have to listen to and empathize, but the idea is still to eventually come up with a plan for improvement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18410}}",
+            "choice_4kl3c1x508": "Set up a time and date for follow-up",
+            "choice_4JW2cylq0I": "Have a coffee together to relax",
+            "choice_VyZ2Je5CL": "Summarise your points of view"
+        },
+        "th": {
+            "header": "At the end of a counselling meeting, it is important to...",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Setting a time and date for follow-up is a very important part of the counselling process.",
+            "tips": "Counselling does not mean lowering standards! You have to listen to and empathize, but the idea is still to eventually come up with a plan for improvement.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel18410}}",
+            "choice_4kl3c1x508": "Set up a time and date for follow-up",
+            "choice_4JW2cylq0I": "Have a coffee together to relax",
+            "choice_VyZ2Je5CL": "Summarise your points of view"
+        }
+    }
+}

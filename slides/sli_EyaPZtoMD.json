@@ -1,0 +1,128 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-01T07:20:04.634Z",
+            "updatedAt": "2019-08-01T07:20:04.634Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41GDaTvGw"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EyaPZtoMD",
+        "universalRef": "sli_EyaPZtoMD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EyaPZtoMD.choice_VkUcbFofD.id",
+                        "label": "choice_VkUcbFofD",
+                        "value": "choice_VkUcbFofD"
+                    },
+                    {
+                        "id": "sli_EyaPZtoMD.choice_4kaibYifP.id",
+                        "label": "choice_4kaibYifP",
+                        "value": "choice_4kaibYifP"
+                    },
+                    {
+                        "id": "sli_EyaPZtoMD.choice_4yQ2WFofD.id",
+                        "label": "choice_4yQ2WFofD",
+                        "value": "choice_4yQ2WFofD"
+                    },
+                    {
+                        "id": "sli_EyaPZtoMD.choice_4Jdh~KiGv.id",
+                        "label": "choice_4Jdh~KiGv",
+                        "value": "choice_4Jdh~KiGv"
+                    },
+                    {
+                        "id": "sli_EyaPZtoMD.choice_Nks3~YofD.id",
+                        "label": "choice_Nks3~YofD",
+                        "value": "choice_Nks3~YofD"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkUcbFofD",
+                        "choice_4Jdh~KiGv",
+                        "choice_Nks3~YofD"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should be the purpose of good after sales service?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When providing after sales service, you should aim at offering reassurance to the customer. Take responsibility, resolve the issue and leave the customer happy and confident in their purchase.",
+            "tips": "Asking for a customer’s feedback is an excellent way to confirm you have properly addressed their issue.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkUcbFofD": "Offering reassurance",
+            "choice_4kaibYifP": "Running down the company",
+            "choice_4yQ2WFofD": "Listing the product’s defects",
+            "choice_4Jdh~KiGv": "Taking responsibility",
+            "choice_Nks3~YofD": "Resolving the issue"
+        },
+        "fr": {
+            "header": "Quel devrait être l'objectif d'un bon service après-vente ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsque vous fournissez un service après-vente, vous devez vous efforcer de rassurer le client. Assumez la responsabilité, résolvez le problème et laissez le client heureux et confiant de son achat.",
+            "tips": "Demander l’avis d’un client est un excellent moyen de confirmer que vous avez bien réglé son problème.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkUcbFofD": "Rassurer",
+            "choice_4kaibYifP": "Démanteler l'entreprise",
+            "choice_4yQ2WFofD": "Répertorier les défauts du produit",
+            "choice_4Jdh~KiGv": "Assumer la responsabilité",
+            "choice_Nks3~YofD": "Résoudre le problème"
+        },
+        "de": {
+            "header": "What should be the purpose of good after sales service?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When providing after sales service, you should aim at offering reassurance to the customer. Take responsibility, resolve the issue and leave the customer happy and confident in their purchase.",
+            "tips": "Asking for a customer’s feedback is an excellent way to confirm you have properly addressed their issue.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkUcbFofD": "Offering reassurance",
+            "choice_4kaibYifP": "Running down the company",
+            "choice_4yQ2WFofD": "Listing the product’s defects",
+            "choice_4Jdh~KiGv": "Taking responsibility",
+            "choice_Nks3~YofD": "Resolving the issue"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VkUcbFofD": "",
+            "choice_4kaibYifP": "",
+            "choice_4yQ2WFofD": "",
+            "choice_4Jdh~KiGv": "",
+            "choice_Nks3~YofD": ""
+        }
+    }
+}

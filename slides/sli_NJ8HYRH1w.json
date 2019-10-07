@@ -1,0 +1,135 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:32:00.894Z",
+            "updatedAt": "2019-06-21T14:34:55.025Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJIvrASyv"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NJ8HYRH1w",
+        "universalRef": "sli_NJ8HYRH1w",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJ8HYRH1w.choice_EyWwFCHJv.id",
+                        "label": "choice_EyWwFCHJv",
+                        "value": "choice_EyWwFCHJv"
+                    },
+                    {
+                        "id": "sli_NJ8HYRH1w.choice_V1fvK0BJD.id",
+                        "label": "choice_V1fvK0BJD",
+                        "value": "choice_V1fvK0BJD"
+                    },
+                    {
+                        "id": "sli_NJ8HYRH1w.choice_EJ7DKCrJP.id",
+                        "label": "choice_EJ7DKCrJP",
+                        "value": "choice_EJ7DKCrJP"
+                    },
+                    {
+                        "id": "sli_NJ8HYRH1w.choice_N1NPY0r1v.id",
+                        "label": "choice_N1NPY0r1v",
+                        "value": "choice_N1NPY0r1v"
+                    },
+                    {
+                        "id": "sli_NJ8HYRH1w.choice_E1xNwKArkv.id",
+                        "label": "choice_E1xNwKArkv",
+                        "value": "choice_E1xNwKArkv"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1NPY0r1v",
+                        "choice_EJ7DKCrJP",
+                        "choice_EyWwFCHJv"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EyMoFRHyD",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Among the following propositions, which ones will help you convince these customers?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When a customer can’t get what they are after in their budget, compromise is the only way forward. It’s your job to help them prioritise their needs and wants. Put their objections in perspective and give compensating factors.",
+            "tips": "Don’t hesitate to frequently check that the customer and yourself both understand each other. This is even more necessary when dealing with objections, as you need to ensure that you have properly addressed the client’s concerns.",
+            "clue": "",
+            "context_title": "Finding the right arguments",
+            "context_description": "A young couple has contacted your real estate agency to help them find the perfect house. This is your luck! You actually have this property that’s been put out for sale in the neighbourhood they’re interested in. It’s the best you can find in their price range, but the issue is that it doesn’t have a garden, while you know outdoor space is among their top priorities.",
+            "context_media_description": "",
+            "choice_EyWwFCHJv": "Do you like the neighbourhood and the house itself?",
+            "choice_V1fvK0BJD": "You do not really need to have a garden",
+            "choice_EJ7DKCrJP": "There is a rooftop you can convert into a terrace",
+            "choice_N1NPY0r1v": "A house with a garden would cost around 20% more",
+            "choice_E1xNwKArkv": "Do you really think we can do any better in your budget?"
+        },
+        "fr": {
+            "header": "Parmi les propositions suivantes, lesquelles vous aideront à convaincre ces clients ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsqu'un client ne peut pas obtenir ce qu'il veut dans son budget, le compromis est la seule solution. C’est à vous de les aider à hiérarchiser leurs besoins et leurs désirs. Mettez leurs contestations en perspective et apportez-leur des facteurs compensateurs.",
+            "tips": "N’hésitez pas à vérifier régulièrement que le client et vous vous comprenez bien. C’est d'autant plus nécessaire lorsque vous faites face à des contestations, car vous devez vous assurer que vous avez répondu correctement aux inquiétudes du client.",
+            "clue": "",
+            "context_title": "Trouver les bons arguments",
+            "context_description": "Un jeune couple a contacté votre agence immobilière pour les aider à trouver la maison idéale. C'est votre chance ! En effet, vous avez une propriété en vente dans le quartier qui les intéresse. C'est l'offre la plus intéressante que vous puissiez trouver dans leur gamme de prix, mais le problème est qu'elle ne possède pas de jardin, alors que vous savez que l'espace extérieur fait partie de leurs principales priorités.",
+            "context_media_description": "",
+            "choice_EyWwFCHJv": "Aimez-vous le quartier et la maison en elle-même ?",
+            "choice_V1fvK0BJD": "Vous n'avez pas vraiment besoin d'un jardin",
+            "choice_EJ7DKCrJP": "Il y a un toit que vous pouvez convertir en terrasse",
+            "choice_N1NPY0r1v": "Une maison avec un jardin coûterait environ 20 % de plus",
+            "choice_E1xNwKArkv": "Pensez-vous vraiment que nous pouvons faire mieux avec votre budget ?"
+        },
+        "de": {
+            "header": "Among the following propositions, which ones will help you convince these customers?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When a customer can’t get what they are after in their budget, compromise is the only way forward. It’s your job to help them prioritise their needs and wants. Put their objections in perspective and give compensating factors.",
+            "tips": "Don’t hesitate to frequently check that the customer and yourself both understand each other. This is even more necessary when dealing with objections, as you need to ensure that you have properly addressed the client’s concerns.",
+            "clue": "",
+            "context_title": "Finding the right arguments",
+            "context_description": "A young couple has contacted your real estate agency to help them find the perfect house. This is your luck! You actually have this property that’s been put out for sale in the neighbourhood they’re interested in. It’s the best you can find in their price range, but the issue is that it doesn’t have a garden, while you know outdoor space is among their top priorities.",
+            "context_media_description": "",
+            "choice_EyWwFCHJv": "Do you like the neighbourhood and the house itself?",
+            "choice_V1fvK0BJD": "You do not really need to have a garden",
+            "choice_EJ7DKCrJP": "There is a rooftop you can convert into a terrace",
+            "choice_N1NPY0r1v": "A house with a garden would cost around 20% more",
+            "choice_E1xNwKArkv": "Do you really think we can do any better in your budget?"
+        },
+        "th": {
+            "header": "Among the following propositions, which ones will help you convince these customers?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When a customer can’t get what they are after in their budget, compromise is the only way forward. It’s your job to help them prioritise their needs and wants. Put their objections in perspective and give compensating factors.",
+            "tips": "Don’t hesitate to frequently check that the customer and yourself both understand each other. This is even more necessary when dealing with objections, as you need to ensure that you have properly addressed the client’s concerns.",
+            "clue": "",
+            "context_title": "Finding the right arguments",
+            "context_description": "A young couple has contacted your real estate agency to help them find the perfect house. This is your luck! You actually have this property that’s been put out for sale in the neighbourhood they’re interested in. It’s the best you can find in their price range, but the issue is that it doesn’t have a garden, while you know outdoor space is among their top priorities.",
+            "context_media_description": "",
+            "choice_EyWwFCHJv": "Do you like the neighbourhood and the house itself?",
+            "choice_V1fvK0BJD": "You do not really need to have a garden",
+            "choice_EJ7DKCrJP": "There is a rooftop you can convert into a terrace",
+            "choice_N1NPY0r1v": "A house with a garden would cost around 20% more",
+            "choice_E1xNwKArkv": "Do you really think we can do any better in your budget?"
+        }
+    }
+}

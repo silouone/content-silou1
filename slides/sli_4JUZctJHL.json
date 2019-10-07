@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-15T11:04:01.878Z",
+            "updatedAt": "2019-02-18T13:30:00.016Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V15K0JSEL"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4JUZctJHL",
+        "universalRef": "sli_4JUZctJHL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4JUZctJHL.choice_EyX-jtJSU.id",
+                        "label": "choice_EyX-jtJSU",
+                        "value": "choice_EyX-jtJSU"
+                    },
+                    {
+                        "id": "sli_4JUZctJHL.choice_4JVOjFyrL.id",
+                        "label": "choice_4JVOjFyrL",
+                        "value": "choice_4JVOjFyrL"
+                    },
+                    {
+                        "id": "sli_4JUZctJHL.choice_N1HOjFkHU.id",
+                        "label": "choice_N1HOjFkHU",
+                        "value": "choice_N1HOjFkHU"
+                    },
+                    {
+                        "id": "sli_4JUZctJHL.choice_Ek8-iFyS8.id",
+                        "label": "choice_Ek8-iFyS8",
+                        "value": "choice_Ek8-iFyS8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JVOjFyrL",
+                        "choice_N1HOjFkHU",
+                        "choice_Ek8-iFyS8"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_V1ZWTKkHU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When it comes to praise, what should your attitude be?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Always pass on praise from a customer or a senior colleague. Don’t hesitate to make it public, letting the rest of the staff know about it. If possible, put it on record: do a personal letter and a copy for the appraisal file.",
+            "tips": "Passing on praise also brings trust and motivation in a team. People will feel they are getting the recognition they deserve, instead of thinking you are getting all the credit for their work.",
+            "clue": "",
+            "context_title": "Giving praise",
+            "context_description": "One of your employees, Kathy has been investing a lot of efforts in a difficult project. Your clients are very satisfied with her work and express their gratitude to you.",
+            "context_media_description": "",
+            "choice_EyX-jtJSU": "Keeping a client’s praise private",
+            "choice_4JVOjFyrL": "Passing on praise to employees",
+            "choice_N1HOjFkHU": "Making praise public",
+            "choice_Ek8-iFyS8": "Putting it on record"
+        },
+        "fr": {
+            "header": "En ce qui concerne les éloges, quelle devrait être votre attitude ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Transmettez toujours les éloges d'un client ou d'un collègue senior. Rendez-les publics, faites-le savoir du reste du personnel. Si possible, gardez-en une trace : rédigez une lettre personnelle et faites-en une copie pour le fichier d'évaluation.",
+            "tips": "Faire des éloges engendre également de la confiance et de la motivation au sein d'une équipe. Vos collaborateurs sentiront qu'ils obtiennent la reconnaissance qu'ils méritent au lieu de penser que vous récoltez tous les lauriers de leur travail.",
+            "clue": "",
+            "context_title": "Faire des éloges",
+            "context_description": "Kathy, une de vos employées, a investi beaucoup d'efforts dans un projet difficile. Vos clients sont très satisfaits de son travail et vous expriment leur gratitude.",
+            "context_media_description": "",
+            "choice_EyX-jtJSU": "Garder confidentiels les éloges d'un client",
+            "choice_4JVOjFyrL": "Transmettre les éloges aux employés",
+            "choice_N1HOjFkHU": "Faire des éloges publics",
+            "choice_Ek8-iFyS8": "En garder une trace"
+        },
+        "de": {
+            "header": "Was sollte Ihre Haltung sein, wenn es um Lob geht?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Geben Sie immer Lob von einem Kunden oder einem älteren Kollegen weiter. Zögern Sie nicht, es öffentlich zu machen, und lassen Sie den Rest der Belegschaft davon wissen. Wenn möglich, legen Sie es fest: Machen Sie einen persönlichen Brief und eine Kopie für die Bewertungsdatei.",
+            "tips": "Weitergeben von Lob bringt auch Vertrauen und Motivation im Team. Die Menschen werden das Gefühl haben, dass sie die Anerkennung erhalten, die sie verdienen, anstatt zu glauben, dass Sie alle Anerkennung für ihre Arbeit erhalten.",
+            "clue": "",
+            "context_title": "Lob zu geben",
+            "context_description": "Kathy, eine Ihrer Angestellten, hat viel in ein schwieriges Projekt investiert. Ihre Kunden sind sehr zufrieden mit ihrer Arbeit und bedanken sich bei Ihnen.",
+            "context_media_description": "",
+            "choice_EyX-jtJSU": "Das Lob eines Kunden privat halten",
+            "choice_4JVOjFyrL": "Lob an die Mitarbeiter weitergeben",
+            "choice_N1HOjFkHU": "Lob öffentlich machen",
+            "choice_Ek8-iFyS8": "Aufnehmen"
+        },
+        "th": {
+            "header": "When it comes to praise, what should your attitude be?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Always pass on praise from a customer or a senior colleague. Don’t hesitate to make it public, letting the rest of the staff know about it. If possible, put it on record: do a personal letter and a copy for the appraisal file.",
+            "tips": "Passing on praise also brings trust and motivation in a team. People will feel they are getting the recognition they deserve, instead of thinking you are getting all the credit for their work.",
+            "clue": "",
+            "context_title": "Giving praise",
+            "context_description": "One of your employees, Kathy has been investing a lot of efforts in a difficult project. Your clients are very satisfied with her work and express their gratitude to you.",
+            "context_media_description": "",
+            "choice_EyX-jtJSU": "Keeping a client’s praise private",
+            "choice_4JVOjFyrL": "Passing on praise to employees",
+            "choice_N1HOjFkHU": "Making praise public",
+            "choice_Ek8-iFyS8": "Putting it on record"
+        }
+    }
+}

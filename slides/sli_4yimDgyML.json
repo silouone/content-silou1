@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T14:48:52.408Z",
+            "updatedAt": "2019-02-22T11:52:04.596Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nyxk01kG8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_4yimDgyML",
+        "universalRef": "sli_4yimDgyML",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yimDgyML.choice_4J0NPgyfI.id",
+                        "label": "choice_4J0NPgyfI",
+                        "value": "choice_4J0NPgyfI"
+                    },
+                    {
+                        "id": "sli_4yimDgyML.choice_41JBDe1fU.id",
+                        "label": "choice_41JBDe1fU",
+                        "value": "choice_41JBDe1fU"
+                    },
+                    {
+                        "id": "sli_4yimDgyML.choice_E1eyBvekfU.id",
+                        "label": "choice_E1eyBvekfU",
+                        "value": "choice_E1eyBvekfU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41JBDe1fU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "As a good leader, who should you give credit to?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When people do well, be sure to give them credit. All those who contribute to successful performance should be acknowledged.",
+            "tips": "Giving credit where credit is due shows employees that the system is fair and rewards everyone's contribution with honesty. This will encourage them to do their best.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4J0NPgyfI": "Your direct superiors",
+            "choice_41JBDe1fU": "All who contribute to good performance",
+            "choice_E1eyBvekfU": "Yourself first and foremost"
+        },
+        "fr": {
+            "header": "En tant que bon leader, à qui devez-vous témoigner de la reconnaissance ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Lorsque les collaborateurs travaillent bien, témoignez-leur votre reconnaissance. Il est primordial de témoigner de la reconnaissance envers tous ceux qui contribuent à une bonne performance.",
+            "tips": "Témoigner de la reconnaissance à vos collaborateurs méritants permet de prouver que le système est juste et qu'il récompense réellement les efforts de tous. Cela les encouragera à faire de leur mieux.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4J0NPgyfI": "Vos supérieurs directs",
+            "choice_41JBDe1fU": "Tous ceux qui contribuent à une bonne performance",
+            "choice_E1eyBvekfU": "Vous avant tout"
+        },
+        "de": {
+            "header": "Wem sollten Sie als gute Führungskraft Verdienst anrechnen?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Wenn die Leute gute Leistung abliefern, sollten Sie ihnen dies anrechnen. Alle, die zu einer erfolgreichen Leistung beitragen, sollten anerkannt werden.",
+            "tips": "Anerkennung wo Anerkennung angebracht ist, zeigt, dass das System fair ist und belohnt alle Beiträge mit Ehrlichkeit. Dies wird alle dazu ermutigen, ihr Bestes zu geben.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4J0NPgyfI": "Ihre direkten Vorgesetzten",
+            "choice_41JBDe1fU": "Alle, die zu einer guten Leistung beitragen",
+            "choice_E1eyBvekfU": "Vor allem selbst"
+        },
+        "th": {
+            "header": "As a good leader, who should you give credit to?",
+            "explanation": "Select the correct answer below.",
+            "klf": "When people do well, be sure to give them credit. All those who contribute to successful performance should be acknowledged.",
+            "tips": "Giving credit where credit is due shows employees that the system is fair and rewards everyone's contribution with honesty. This will encourage them to do their best.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4J0NPgyfI": "Your direct superiors",
+            "choice_41JBDe1fU": "All who contribute to good performance",
+            "choice_E1eyBvekfU": "Yourself first and foremost"
+        }
+    }
+}

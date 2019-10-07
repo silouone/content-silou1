@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T15:53:57.406Z",
+            "updatedAt": "2019-01-21T14:42:50.487Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NywL-qxJ8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_VkgdXNf1U",
+        "universalRef": "sli_VkgdXNf1U",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VkgdXNf1U.choice_EJZ4rNfyL.id",
+                        "label": "choice_EJZ4rNfyL",
+                        "value": "choice_EJZ4rNfyL"
+                    },
+                    {
+                        "id": "sli_VkgdXNf1U.choice_4JfVS4fkI.id",
+                        "label": "choice_4JfVS4fkI",
+                        "value": "choice_4JfVS4fkI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJZ4rNfyL"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you say to Monica?",
+            "explanation": "Select the correct answer.",
+            "klf": "You need to adjust your behaviour to the situation or person you’re dealing with. In this case, Monica, a reliable employee, probably needs to be listened to. Use empathy and show you care about what she's feeling. Be helpful instead of angry –you’ll find you’ll get a positive response.",
+            "tips": "Remember that empathy is the ability to put yourself in someone else's shoes to assess how they would react in a given situation –and not how 'you' would react in their place. For example, some people don't like to talk about their problems, so don't force them to do it. Just leave the door open…",
+            "clue": "",
+            "context_title": "Speak the right way to your employee",
+            "context_description": "Monica, one of your best employees, seems worried. Moody, she still haven't said a single word today –usually, she's such an enthusiastic person! But you need her to welcome a candidate for a vacant job in your team in a few hours.",
+            "context_media_description": "",
+            "choice_EJZ4rNfyL": "Monica, I have a hunch that you're feeling under the weather today. Please tell me if there's anything I can do for you. The candidate must be coming at 6.00 pm, will you be all right?",
+            "choice_4JfVS4fkI": "Monica, I don't know what's going on, but could you please prepare the job interview? The candidate will be here at 6.00 pm. Thanks a lot.",
+            "null": ""
+        },
+        "fr": {
+            "header": "Que devez-vous dire à Monique ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Vous devez adapter votre comportement à la situation ou à la personne que vous gérez. Dans le cas présent, Monique, une collaboratrice fiable, a probablement besoin d’être écoutée. Faites preuve d’empathie et montrez que vous vous souciez de ce qu’elle ressent. Soyez prévenant plutôt que mécontent - vous obtiendrez une réaction positive.",
+            "tips": "Rappelez-vous que l’empathie est la capacité à se mettre à la place d’une personne afin de comprendre sa manière de réagir dans une situation donnée – et pas « votre » manière de réagir à sa place. Certaines personnes, par exemple, sont réticentes à confier leurs problèmes, aussi ne les forcez pas à le faire. Laissez simplement la porte ouverte…",
+            "clue": "",
+            "context_title": "Parlez en toute franchise à votre employé.",
+            "context_description": "Monique, l’une de vos meilleures employées, semble préoccupée. D’humeur maussade, elle n’a toujours pas prononcé un mot de la journée – alors que c’est habituellement quelqu’un de très enthousiaste ! Mais vous souhaitez qu’elle accueille, dans quelques heures, un.e candidat.e pour un poste vacant dans l’équipe.",
+            "context_media_description": "",
+            "choice_EJZ4rNfyL": "Monique, j’ai l’impression que vous ne vous sentez pas bien aujourd’hui. N’hésitez pas à me dire si je peux faire quoi que ce soit pour vous. Le/la candidat.e doit arriver à 18h00, ça ira pour vous ?",
+            "choice_4JfVS4fkI": "Monique, je ne sais pas ce qui se passe, mais pouvez-vous préparer l’entretien de recrutement s’il vous plaît ? Le/la candidat.e sera là à 18h00. Merci beaucoup."
+        },
+        "de": {
+            "header": "Was solltest du zu Monica sagen?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Sie müssen Ihr Verhalten an die Situation oder Person anpassen, mit der Sie sich befassen. In diesem Fall muss Monica, einer zuverlässigen Mitarbeiterin, wahrscheinlich zugehört werden. Benutze Empathie und zeig ihr, dass es dich kümert was sie fühlt. Seien Sie hilfsbereit statt wütend - Sie werden feststellen, dass Sie eine positive Antwort erhalten.",
+            "tips": "Denken Sie daran, dass Empathie die Fähigkeit ist, sich in die Lage einer anderen Person zu versetzen, um zu beurteilen, wie sie in einer bestimmten Situation reagieren würden - und nicht wie Sie an ihrer Stelle reagieren würden. Zum Beispiel sprechen manche Leute nicht gerne über ihre Probleme, also zwingen Sie sie nicht dazu. Lass einfach die Tür offen ...",
+            "clue": "",
+            "context_title": "Sprechen Sie auf die richtige Art und Weise zu Ihrem Mitarbeiter",
+            "context_description": "Monica, eine Ihrer besten Angestellten, scheint besorgt zu sein. Moody, sie hat heute immer noch kein Wort gesagt - normalerweise ist sie eine so enthusiastische Person! Aber Sie brauchen Sie in wenigen Stunden um einen Kandidaten für eine freie Stelle in Ihrem Team willkommen zu heißen.",
+            "context_media_description": "",
+            "choice_EJZ4rNfyL": "Monica, ich habe eine Ahnung, dass Sie sich heute nicht so gut fühlen. Bitte sag mir, ob ich irgendetwas für dich tun kann. Der Kandidat wird um 18.00 Uhr kommen, wirst du in Ordnung sein?",
+            "choice_4JfVS4fkI": "Monica, ich weiß nicht, was los ist, aber könnten Sie bitte das Vorstellungsgespräch vorbereiten? Der Kandidat wird um 18.00 Uhr hier sein. Danke vielmals.",
+            "null": ""
+        },
+        "th": {
+            "header": "คุณควรพูดกับโมนิก้าอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "คุณต้องปรับพฤติกรรมให้เข้ากับสถานการณ์หรือบุคคลที่คุณกำลังรับมืออยู่ด้วย ในกรณีนี้ คุณอาจจะต้องรับฟังโมนิก้า พนักงานที่ไว้ใจได้ แสดงความเห็นอกเห็นใจและทำให้เธอรู้ว่าคุณใส่ใจกับความรู้สึกของเธอ ทำตัวให้เป็นประโยชน์แทนที่จะโมโห แล้วเธอจะตอบกลับมาในเชิงบวก",
+            "tips": "จำไว้ว่าการเห็นอกเห็นใจคือการเอาใจเขามาใส่ใจเรา เพื่อประเมินว่าเขาจะมีปฏิกิริยาอย่างไรในสถานการณ์หนึ่ง และไม่ใช่ว่า ‘คุณ’ จะมีปฏิกิริยาอย่างไร เช่น บางคนไม่ชอบพูดถึงปัญหาที่ตนเองมี ถ้าอย่างนั้น ก็อย่าบังคับให้เขาพูด เปิดประตูทิ้งไว้...",
+            "clue": "",
+            "context_title": "พูดกับพนักงานอย่างถูกต้อง",
+            "context_description": "โมนิก้า หนึ่งในพนักงานที่ดีที่สุดของบริษัท ดูเป็นกังวล เธออารมณ์ไม่ดี และก็ไม่ได้พูดอะไรสักคำเลยในวันนี้ ทั้งที่ปกติเธอเป็นคนกระตือรือร้น! แต่คุณต้องการให้เธอต้อนรับผู้สมัครงานในตำแหน่งที่ว่างอยู่ในทีม ในอีกไม่กี่ชั่วโมงข้างหน้า",
+            "context_media_description": "",
+            "choice_EJZ4rNfyL": "โมนิก้า ฉันมีลางสังหรณ์ว่าวันนี้คุณป่วย ถ้ามีอะไรให้ฉันช่วย ก็บอกได้นะ ผู้สมัครงานจะมาถึงเวลา 18.00 น. คุณดูแลไหวไหม",
+            "choice_4JfVS4fkI": "โมนิก้า ฉันไม่รู้หรอกว่าเกิดอะไรขึ้น แต่คุณช่วยเตรียมการสัมภาษณ์งานให้หน่อยได้ไหม ผู้สมัครงานจะมาถึงนี่เวลา 18.00 น. ขอบคุณมากนะ",
+            "null": ""
+        }
+    }
+}

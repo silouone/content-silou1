@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-13T15:47:39.962Z",
+            "updatedAt": "2019-05-15T14:56:38.887Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ekofvzf38"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_NyeuhuM38",
+        "universalRef": "sli_NyeuhuM38",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel80194",
+                        "items": [
+                            {
+                                "text": "choice_41ep02uf2U",
+                                "value": "choice_41ep02uf2U"
+                            },
+                            {
+                                "text": "choice_41ZaRhuGn8",
+                                "value": "choice_41ZaRhuGn8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel80194",
+                        "answers": [
+                            "choice_41ZaRhuGn8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What requires more effort?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It is safe to copy the accepted default behaviour but it takes much more effort to think of your own alternative action and justify why you are going against popular opinion.",
+            "tips": "Look back through history. Those who stood up for peace and human rights in a revolutionary way all inspired others to do the same.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Standing out of the crowd is {{sel80194}} than going with the flow.",
+            "choice_41ep02uf2U": "easier",
+            "choice_41ZaRhuGn8": "harder"
+        },
+        "fr": {
+            "header": "Qu'est-ce qui nécessite le plus d'effort ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il est prudent de copier le comportement par défaut accepté, mais il faut beaucoup plus d’efforts pour penser à votre propre action alternative et justifier pourquoi vous allez à l'encontre de l’opinion publique.",
+            "tips": "Remontons dans le temps. Ceux qui ont défendu la paix et les droits de l'homme de manière révolutionnaire ont tous inspiré les autres à faire de même.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Se démarquer de la foule, c'est {{sel80194}} suivre le courant.",
+            "choice_41ep02uf2U": "plus facile que de",
+            "choice_41ZaRhuGn8": "plus difficile que de"
+        },
+        "de": {
+            "header": "What requires more effort?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It is safe to copy the accepted default behaviour but it takes much more effort to think of your own alternative action and justify why you are going against popular opinion.",
+            "tips": "Look back through history. Those who stood up for peace and human rights in a revolutionary way all inspired others to do the same.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Standing out of the crowd is {{sel80194}} than going with the flow.",
+            "choice_41ep02uf2U": "easier",
+            "choice_41ZaRhuGn8": "harder"
+        },
+        "th": {
+            "header": "What requires more effort?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "It is safe to copy the accepted default behaviour but it takes much more effort to think of your own alternative action and justify why you are going against popular opinion.",
+            "tips": "Look back through history. Those who stood up for peace and human rights in a revolutionary way all inspired others to do the same.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Standing out of the crowd is {{sel80194}} than going with the flow.",
+            "choice_41ep02uf2U": "easier",
+            "choice_41ZaRhuGn8": "harder"
+        }
+    }
+}

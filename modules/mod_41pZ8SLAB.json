@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-11-27T14:39:25.429Z",
+            "updatedAt": "2019-07-05T10:03:12.557Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-01-27T14:38:36.839Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_41SCrB8Rr"
+            ],
+            "status": "draft",
+            "modifiedBy": "Vitaplaisance",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "mod_41pZ8SLAB",
+        "universalRef": "mod_41pZ8SLAB",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_EkbFonYyU",
+            "skill_EyZy23KyI",
+            "skill_V19f2ntJI"
+        ],
+        "ineligibleBattle": false,
+        "version": "4",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "validate"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_EkbFonYyU": "Understand how assertiveness requires thought, confidence and courage",
+            "skill_EyZy23KyI": "Get the right balance between assertiveness and aggression",
+            "skill_V19f2ntJI": "Deal effectively with colleagues through body language"
+        },
+        "fr": {
+            "skill_EkbFonYyU": "Comprendre que l’assertivité nécessite réflexion, confiance et courage",
+            "skill_EyZy23KyI": "Trouver le juste équilibre entre assertivité et agressivité",
+            "skill_V19f2ntJI": "Gérer efficacement les relations avec vos collaborateurs grâce au langage corporel"
+        },
+        "de": {
+            "skill_EkbFonYyU": "Verstehen, wie Durchsetzungsvermögen Denken, Vertrauen und Mut erfordert",
+            "skill_EyZy23KyI": "Eignen Sie sich das richtige Gleichgewicht zwischen Durchsetzungsvermögen und Aggression an",
+            "skill_V19f2ntJI": "Effizienter Umgang mit Kollegen durch Körpersprache"
+        },
+        "th": {
+            "skill_EkbFonYyU": "เข้าใจว่าการกล้าแสดงออกต้องใช้ความคิด ความมั่นใจ และความกล้าหาญอย่างไร",
+            "skill_EyZy23KyI": "หาสมดุลที่เหมาะสมระหว่างการกล้าแสดงออกและความก้าวร้าว",
+            "skill_V19f2ntJI": "รับมือกับเพื่อนร่วมงานได้อย่างมีประสิทธิภาพผ่านการใช้ภาษากาย"
+        }
+    }
+}

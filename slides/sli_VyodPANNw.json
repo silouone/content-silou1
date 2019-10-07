@@ -1,0 +1,125 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-20T12:40:01.214Z",
+            "updatedAt": "2019-09-03T09:27:12.720Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyGSqkNQv"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_VyodPANNw",
+        "universalRef": "sli_VyodPANNw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel82894",
+                        "items": [
+                            {
+                                "text": "choice_NJx0WuCVND",
+                                "value": "choice_NJx0WuCVND"
+                            },
+                            {
+                                "text": "choice_NkZ0buREED",
+                                "value": "choice_NkZ0buREED"
+                            },
+                            {
+                                "text": "choice_4kAGO0NND",
+                                "value": "choice_4kAGO0NND"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel82894",
+                        "answers": [
+                            "choice_NkZ0buREED"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NkCe~7DSP",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In the preceding context, what does the customer's comment mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Look for buying signals, whether they're very obvious or very subtle. A statement such as ‘Wow, that’s a lot cheaper than I expected!’ indicates the customer's position on your product. It is your cue to ask for the order and close the sale.",
+            "tips": "Asking about benefits, terms and conditions, payment options or next steps also constitutes a buying signal.",
+            "clue": "",
+            "context_title": "An offer they could not refuse",
+            "context_description": "You have had several meetings with the same customer, as you are trying to sell their company a lifetime supply of salt-free crackers for all their office needs. When discussing the price, your customer exclaims: ‘Wow, that's a lot cheaper than I expected!’ You are pleased, but you do not quite know how to answer.",
+            "context_media_description": "",
+            "template": "It is {{sel82894}}.",
+            "choice_NJx0WuCVND": "a sign of disinterest",
+            "choice_NkZ0buREED": "a buying signal",
+            "choice_4kAGO0NND": "a backhanded compliment"
+        },
+        "fr": {
+            "header": "Dans le contexte précédent, que signifie le commentaire du client?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Recherchez les signaux d’achat, qu’ils soient très évidents ou très subtils. Une déclaration telle que «Wow, c’est beaucoup moins cher que prévu» indique la position du client sur votre produit. Il vous appartient de demander la commande et de conclure la vente.",
+            "tips": "Poser des questions sur les avantages, les conditions générales, les options de paiement ou les prochaines étapes constitue également un signal d’achat.",
+            "context_title": "Une offre qu'ils ne pouvaient pas refuser",
+            "context_description": "Vous avez eu plusieurs réunions avec le même client, car vous essayez de vendre à leur entreprise un approvisionnement à vie de craquelins sans sel pour tous leurs besoins en matière de bureau. Lorsqu’il discute du prix, votre client s’exclame: «Waouh, c’est beaucoup moins cher que je ne le pensais!». Vous êtes ravi, mais vous ne savez pas trop comment répondre.",
+            "template": "C'est {{sel82894}} .",
+            "choice_NJx0WuCVND": "un signe de désintérêt",
+            "choice_NkZ0buREED": "un signal d'achat",
+            "choice_4kAGO0NND": "un compliment à revers",
+            "clue": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "In the preceding context, what does the customer's comment mean?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Look for buying signals, whether they're very obvious or very subtle. A statement such as ‘Wow, that’s a lot cheaper than I expected!’ indicates the customer's position on your product. It is your cue to ask for the order and close the sale.",
+            "tips": "Asking about benefits, terms and conditions, payment options or next steps also constitutes a buying signal.",
+            "clue": "",
+            "context_title": "An offer they could not refuse",
+            "context_description": "You have had several meetings with the same customer, as you are trying to sell their company a lifetime supply of salt-free crackers for all their office needs. When discussing the price, your customer exclaims: ‘Wow, that's a lot cheaper than I expected!’ You are pleased, but you do not quite know how to answer.",
+            "context_media_description": "",
+            "template": "It is {{sel82894}}.",
+            "choice_NJx0WuCVND": "a sign of disinterest",
+            "choice_NkZ0buREED": "a buying signal",
+            "choice_4kAGO0NND": "a backhanded compliment"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel82894}}",
+            "choice_NJx0WuCVND": "",
+            "choice_NkZ0buREED": "",
+            "choice_4kAGO0NND": ""
+        }
+    }
+}

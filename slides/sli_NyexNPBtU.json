@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-09T11:51:05.138Z",
+            "updatedAt": "2019-08-22T15:15:48.417Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkAI674tI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NyexNPBtU",
+        "universalRef": "sli_NyexNPBtU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel38981",
+                        "items": [
+                            {
+                                "text": "choice_VkeMcEuBtL",
+                                "value": "choice_VkeMcEuBtL"
+                            },
+                            {
+                                "text": "choice_VJZf5N-HtU",
+                                "value": "choice_VJZf5N-HtU"
+                            },
+                            {
+                                "text": "choice_Vk9ANdSYL",
+                                "value": "choice_Vk9ANdSYL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel38981",
+                        "answers": [
+                            "choice_VkeMcEuBtL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What kind of bias is frequently observed concerning transparency at work?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you’re nearer the top of an organisation, it's easy to assume other employees are as informed as you are.",
+            "tips": "Believing someone else has the same level of information than you, while they don't, is a particular case of a wrong theory of mind: a theory of mind being the ability to attribute mental states (beliefs, intents, desires, emotions, knowledge) to others.",
+            "clue": "XX",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When you’re nearer the top of an organization, it's easy to assume other employees are {{sel38981}} you are.",
+            "choice_VkeMcEuBtL": "as informed as",
+            "choice_VJZf5N-HtU": "more involved than",
+            "choice_Vk9ANdSYL": "less flexible than"
+        },
+        "fr": {
+            "header": "Quelle idée reçue est fréquemment observée concernant la transparence au travail ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsque vous vous trouvez au sommet d'une organisation, il est facile de supposer que les autres employés sont aussi informés que vous.",
+            "tips": "Croire que quelqu'un a le même niveau d'information que vous, ce qui n'est pas le cas, est le cas particulier d'une théorie erronée de l'esprit : une théorie de l'esprit est la capacité d'attribuer des états mentaux (croyances, intentions, désirs, émotions, connaissances) aux autres.",
+            "clue": "XX",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Lorsque vous vous trouvez au sommet d'une entreprise, il est facile de supposer que les autres employés sont {{sel38981}} que vous.",
+            "choice_VkeMcEuBtL": "aussi informés",
+            "choice_VJZf5N-HtU": "plus impliqués",
+            "choice_Vk9ANdSYL": "moins flexibles"
+        },
+        "de": {
+            "header": "What kind of bias is frequently observed concerning transparency at work?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you’re nearer the top of an organisation, it's easy to assume other employees are as informed as you are.",
+            "tips": "Believing someone else has the same level of information than you, while they don't, is a particular case of a wrong theory of mind: a theory of mind being the ability to attribute mental states (beliefs, intents, desires, emotions, knowledge) to others.",
+            "clue": "XX",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When you’re nearer the top of an organization, it's easy to assume other employees are {{sel38981}} you are.",
+            "choice_VkeMcEuBtL": "as informed as ",
+            "choice_VJZf5N-HtU": "more involved than",
+            "choice_Vk9ANdSYL": "less flexible than"
+        },
+        "th": {
+            "header": "What kind of bias is frequently observed concerning transparency at work?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When you’re nearer the top of an organisation, it's easy to assume other employees are as informed as you are.",
+            "tips": "Believing someone else has the same level of information than you, while they don't, is a particular case of a wrong theory of mind: a theory of mind being the ability to attribute mental states (beliefs, intents, desires, emotions, knowledge) to others.",
+            "clue": "XX",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When you’re nearer the top of an organization, it's easy to assume other employees are {{sel38981}} you are.",
+            "choice_VkeMcEuBtL": "as informed as",
+            "choice_VJZf5N-HtU": "more involved than",
+            "choice_Vk9ANdSYL": "less flexible than"
+        }
+    }
+}

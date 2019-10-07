@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-15T08:34:17.677Z",
+            "updatedAt": "2019-02-21T17:03:40.328Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41a7is6b8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "phaour"
+        },
+        "ref": "sli_4yWevFUfU",
+        "universalRef": "sli_4yWevFUfU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4yWevFUfU.choice_EksFPtLG8.id",
+                        "label": "choice_EksFPtLG8",
+                        "value": "choice_EksFPtLG8"
+                    },
+                    {
+                        "id": "sli_4yWevFUfU.choice_4knFDYLML.id",
+                        "label": "choice_4knFDYLML",
+                        "value": "choice_4knFDYLML"
+                    },
+                    {
+                        "id": "sli_4yWevFUfU.choice_Ny6YPtUM8.id",
+                        "label": "choice_Ny6YPtUM8",
+                        "value": "choice_Ny6YPtUM8"
+                    },
+                    {
+                        "id": "sli_4yWevFUfU.choice_VJAFDtLzI.id",
+                        "label": "choice_VJAFDtLzI",
+                        "value": "choice_VJAFDtLzI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4knFDYLML",
+                        "choice_VJAFDtLzI"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": null,
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What do you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When exploring the reasons for a gap in performance, it's important to listen to what your colleague has to say and ask questions, show genuine interest in what's going on.",
+            "tips": "Speaking of listening, the world record for listening to the same song over and over was set by Emil Ilic of Macedonia in 2011. He listened to Eros Ramazotti's 'Se bastasse una canzone' 413 times in 36 hours while walking a 204km marathon. Talk about consistency…",
+            "clue": "Tread carefully.",
+            "context_title": "Muddled communication.",
+            "context_description": "An employee you manage is struggling with performance. When you sit down with them to ask what's going wrong, they stutter and mumble explanations you don't understand.",
+            "context_media_description": "",
+            "choice_EksFPtLG8": "Raise your voice, show your authority",
+            "choice_4knFDYLML": "Encourage them, listen patiently",
+            "choice_Ny6YPtUM8": "Say you'll come back later",
+            "choice_VJAFDtLzI": "Ask open questions"
+        },
+        "fr": {
+            "header": "Que faites-vous ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsque vous recherchez les motifs d'un écart de performance, prenez le temps d'écouter votre collaborateur à ce sujet et posez des questions ouvertes ; intéressez-vous réellement à ce qu'il vous dit.",
+            "tips": "À propos d'écoute, le record du monde d'écoute d'une même chanson a été établi par Emil Ilic, en Macédoine en 2011. Il a écouté la chanson d'Eros Ramazotti « Se bastasse une canzone » 413 fois en 36 heures en effectuant une marche de 204 km. En parlant de cohérence...",
+            "clue": "Tread carefully.",
+            "context_title": "Communication confuse.",
+            "context_description": "Un de vos collaborateurs a des difficultés de performance. Lorsque vous prenez le temps de vous asseoir avec lui et de lui demander ce qui ne va pas, il commence à bégayer et marmonne des explications incompréhensibles.",
+            "context_media_description": "",
+            "choice_EksFPtLG8": "Élevez la voix pour faire preuve d'autorité",
+            "choice_4knFDYLML": "Encouragez-le et écoutez patiemment",
+            "choice_Ny6YPtUM8": "Dites-lui que vous allez revenir plus tard",
+            "choice_VJAFDtLzI": "Posez des questions ouvertes"
+        },
+        "de": {
+            "header": "Wie machen Sie dies?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Bei der Untersuchung der Gründe für eine Leistungsdifferenz ist es wichtig, zuzuhören, was Ihr Kollege zu sagen hat, und Fragen zu stellen.",
+            "tips": "Apropos Hören, der Weltrekord für das gleiche und immer wieder gleiche Lied hören, wurde von Emil Ilic aus Mazedonien im Jahr 2011 aufgestellt. Er hörte Eros Ramazottis \"Se bastasse una canzone\" 413 Mal in 36 Stunden, während er einen 204 km langen Marathon lief. Sprechen Sie über  Beständigkeit…",
+            "clue": "Vorsichtig auftreten.",
+            "context_title": "Verworrene Kommunikation.",
+            "context_description": "Ein Mitarbeiter, den Sie anleiten, hat Schwierigkeiten mit seiner Leistung. Wenn Sie sich zu ihnen setzen und fragen, was schief läuft, stottern und murmeln sie Erklärungen, die Sie nicht verstehen.",
+            "context_media_description": "",
+            "choice_EksFPtLG8": "Erheben Sie Ihre Stimme, zeigen Sie Ihre Autorität.",
+            "choice_4knFDYLML": "Ermutigen Sie sie, hören Sie geduldig zu.",
+            "choice_Ny6YPtUM8": "Sagen Sie, Sie kommen später zurück.",
+            "choice_VJAFDtLzI": "Stellen Sie sich offene Fragen. "
+        },
+        "th": {
+            "header": "What do you do?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When exploring the reasons for a gap in performance, it's important to listen to what your colleague has to say and ask questions, show genuine interest in what's going on.",
+            "tips": "Speaking of listening, the world record for listening to the same song over and over was set by Emil Ilic of Macedonia in 2011. He listened to Eros Ramazotti's 'Se bastasse una canzone' 413 times in 36 hours while walking a 204km marathon. Talk about consistency…",
+            "clue": "Tread carefully.",
+            "context_title": "Muddled communication.",
+            "context_description": "An employee you manage is struggling with performance. When you sit down with them to ask what's going wrong, they stutter and mumble explanations you don't understand.",
+            "context_media_description": "",
+            "choice_EksFPtLG8": "Raise your voice, show your authority",
+            "choice_4knFDYLML": "Encourage them, listen patiently",
+            "choice_Ny6YPtUM8": "Say you'll come back later",
+            "choice_VJAFDtLzI": "Ask open questions"
+        }
+    }
+}

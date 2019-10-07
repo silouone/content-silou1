@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-13T12:18:27.157Z",
+            "updatedAt": "2019-03-05T15:27:58.993Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vk9H4yENI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_NycXFxT48",
+        "universalRef": "sli_NycXFxT48",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel79865",
+                        "items": [
+                            {
+                                "text": "choice_V1e5HFxT4I",
+                                "value": "choice_V1e5HFxT4I"
+                            },
+                            {
+                                "text": "choice_EybcHFlpEL",
+                                "value": "choice_EybcHFlpEL"
+                            },
+                            {
+                                "text": "choice_Vy1RFx6NU",
+                                "value": "choice_Vy1RFx6NU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel79865",
+                        "answers": [
+                            "choice_EybcHFlpEL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's a good way to help people feel valued as individuals?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Encouraging people to share their ideas and give their insights is a good way to let them know their opinion matters.",
+            "tips": "It's important to involve people in large-scale challenges for the company, even if they're not directly related to their work. Make your employees participate in cross-functional projects so that they can keep an accurate global picture of where the company is heading.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Encouraging people to {{sel79865}} will help them feel valued as individuals.",
+            "choice_V1e5HFxT4I": "have lunch early",
+            "choice_EybcHFlpEL": "share their ideas",
+            "choice_Vy1RFx6NU": "use a pen with the company logo"
+        },
+        "fr": {
+            "header": "Comment aider les gens à se sentir valorisés en tant qu'individus ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Encourager les gens à partager leurs idées et à donner leurs points de vue est un bon moyen de leur faire savoir que leur opinion compte.",
+            "tips": "Il est important d'impliquer les gens dans des défis de grande envergure pour l'entreprise, même si ceux-ci ne sont pas directement liés à leur travail. Faites participer vos employés à des projets intersectionnels afin qu’ils puissent garder une image globale précise de la position de la société.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Encourager les gens à {{sel79865}} les aidera à se sentir valorisés en tant qu'individus.",
+            "choice_V1e5HFxT4I": "déjeuner tôt",
+            "choice_EybcHFlpEL": "partager leurs idées",
+            "choice_Vy1RFx6NU": "utiliser un stylo avec le logo de l'entreprise"
+        },
+        "de": {
+            "header": "Wie kann man Menschen helfen, sich als Einzelne wertgeschätzt zu fühlen?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Menschen dazu zu ermutigen, ihre Ideen mitzuteilen und Erkenntnisse zu vermitteln, ist eine gute Möglichkeit, sie über ihre Meinung zu informieren.",
+            "tips": "Es ist wichtig, Menschen in große Herausforderungen für das Unternehmen einzubeziehen, auch wenn sie nicht direkt mit ihrer Arbeit verbunden sind. Sorgen Sie dafür, dass Ihre Mitarbeiter an funktionsübergreifenden Projekten teilnehmen, damit sie ein genaues globales Bild davon erhalten, wohin sich das Unternehmen bewegt.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Die Ermutigung von Menschen zu {{sel79865}} hilft ihnen, sich als Individuum wertgeschätzt zu fühlen.",
+            "choice_V1e5HFxT4I": "früh Mittag zu essen",
+            "choice_EybcHFlpEL": "Teilen Sie ihre Ideen",
+            "choice_Vy1RFx6NU": "Verwenden Sie einen Stift mit dem Firmenlogo"
+        },
+        "th": {
+            "header": "What's a good way to help people feel valued as individuals?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Encouraging people to share their ideas and give their insights is a good way to let them know their opinion matters.",
+            "tips": "It's important to involve people in large-scale challenges for the company, even if they're not directly related to their work. Make your employees participate in cross-functional projects so that they can keep an accurate global picture of where the company is heading.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Encouraging people to {{sel79865}} will help them feel valued as individuals.",
+            "choice_V1e5HFxT4I": "have lunch early",
+            "choice_EybcHFlpEL": "share their ideas",
+            "choice_Vy1RFx6NU": "use a pen with the company logo"
+        }
+    }
+}

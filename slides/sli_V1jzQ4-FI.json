@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-11T13:42:41.533Z",
+            "updatedAt": "2019-04-18T10:07:31.495Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kXJ5Q-tU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_V1jzQ4-FI",
+        "universalRef": "sli_V1jzQ4-FI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_V1jzQ4-FI.choice_NyYNmVOFU.id",
+                        "label": "choice_NyYNmVOFU",
+                        "value": "choice_NyYNmVOFU"
+                    },
+                    {
+                        "id": "sli_V1jzQ4-FI.choice_V1kSQ4OFI.id",
+                        "label": "choice_V1kSQ4OFI",
+                        "value": "choice_V1kSQ4OFI"
+                    },
+                    {
+                        "id": "sli_V1jzQ4-FI.choice_N1wS7N-YL.id",
+                        "label": "choice_N1wS7N-YL",
+                        "value": "choice_N1wS7N-YL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyYNmVOFU",
+                        "choice_V1kSQ4OFI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When is formal training productive?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Brief your team member ahead of any course to make sure they have clear goals. Don't forget to follow-up as soon as they return from a course and check progress.",
+            "tips": "Not only hard skills, but also soft skills must be the object of training for every employee.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyYNmVOFU": "When learning goals are established",
+            "choice_V1kSQ4OFI": "When there is some follow-up",
+            "choice_N1wS7N-YL": "When it lasts for at least three days"
+        },
+        "fr": {
+            "header": "Quand une formation formelle est-elle productive ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Informez les membres de votre équipe avant n'importe quel cours pour vous assurer qu'ils ont des objectifs clairs. N'oubliez pas de faire un suivi dès le retour du cours et de vérifier les progrès effectués.",
+            "tips": "Comme les compétences spécifiques, les compétences générales doivent également faire l’objet d’une formation pour chaque employé.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyYNmVOFU": "Quand les objectifs d'apprentissage sont établis",
+            "choice_V1kSQ4OFI": "Quand il y a un suivi",
+            "choice_N1wS7N-YL": "Quand ça dure au moins trois jours"
+        },
+        "de": {
+            "header": "When is formal training productive?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Brief your team member ahead of any course to make sure they have clear goals. Don't forget to follow-up as soon as they return from a course and check progress.",
+            "tips": "Not only hard skills, but also soft skills must be the object of training for every employee.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyYNmVOFU": "When learning goals are established",
+            "choice_V1kSQ4OFI": "When there is some follow-up",
+            "choice_N1wS7N-YL": "When it lasts for at least three days"
+        },
+        "th": {
+            "header": "When is formal training productive?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Brief your team member ahead of any course to make sure they have clear goals. Don't forget to follow-up as soon as they return from a course and check progress.",
+            "tips": "Not only hard skills, but also soft skills must be the object of training for every employee.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyYNmVOFU": "When learning goals are established",
+            "choice_V1kSQ4OFI": "When there is some follow-up",
+            "choice_N1wS7N-YL": "When it lasts for at least three days"
+        }
+    }
+}

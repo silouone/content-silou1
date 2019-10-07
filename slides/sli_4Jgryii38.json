@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T13:48:57.314Z",
+            "updatedAt": "2019-05-20T13:52:28.991Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWN5-D2L"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4Jgryii38",
+        "universalRef": "sli_4Jgryii38",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_4Jgryii38.choice_VJOUkoo2I.id",
+                        "label": "choice_VJOUkoo2I",
+                        "value": "choice_VJOUkoo2I"
+                    },
+                    {
+                        "id": "sli_4Jgryii38.choice_N1p8koo38.id",
+                        "label": "choice_N1p8koo38",
+                        "value": "choice_N1p8koo38"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1p8koo38"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are employees more likely to pay attention to?",
+            "explanation": "Select the correct answer below.",
+            "klf": "People will listen politely to what their boss says, but they pay much more attention to what their boss does.",
+            "tips": "An exemplary conduct does not only mean showing people how things should be done, it also means respecting strictly all company rules. This applies to all leaders and managers in the company.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJOUkoo2I": "What their boss says",
+            "choice_N1p8koo38": "What their boss does",
+            "null": ""
+        },
+        "fr": {
+            "header": "À quoi les employés sont-ils le plus susceptibles de prêter attention ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Les gens vont écouter poliment ce que leur supérieur dit mais accordent beaucoup plus d’attention à ce qu'il fait.",
+            "tips": "Une conduite exemplaire ne signifie pas seulement montrer aux gens la façon dont il faut faire les choses, mais également respecter scrupuleusement toutes les règles de l'entreprise. Cela s'applique à tous les dirigeants et managers de l'entreprise.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJOUkoo2I": "Les dires de leur supérieur",
+            "choice_N1p8koo38": "Les actions de leur supérieur"
+        },
+        "de": {
+            "header": "What are employees more likely to pay attention to?",
+            "explanation": "Select the correct answer below.",
+            "klf": "People will listen politely to what their boss says, but they pay much more attention to what their boss does.",
+            "tips": "An exemplary conduct does not only mean showing people how things should be done, it also means respecting strictly all company rules. This applies to all leaders and managers in the company.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJOUkoo2I": "What their boss says",
+            "choice_N1p8koo38": "What their boss does"
+        },
+        "th": {
+            "header": "What are employees more likely to pay attention to?",
+            "explanation": "Select the correct answer below.",
+            "klf": "People will listen politely to what their boss says, but they pay much more attention to what their boss does.",
+            "tips": "An exemplary conduct does not only mean showing people how things should be done, it also means respecting strictly all company rules. This applies to all leaders and managers in the company.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJOUkoo2I": "What their boss says",
+            "choice_N1p8koo38": "What their boss does",
+            "null": ""
+        }
+    }
+}

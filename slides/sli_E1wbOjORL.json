@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-11T14:25:18.685Z",
+            "updatedAt": "2019-06-13T12:06:39.936Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkWvILOAU"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_E1wbOjORL",
+        "universalRef": "sli_E1wbOjORL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_E1wbOjORL.choice_4kJUdo-A8.id",
+                        "label": "choice_4kJUdo-A8",
+                        "value": "choice_4kJUdo-A8"
+                    },
+                    {
+                        "id": "sli_E1wbOjORL.choice_4JgU-jd0L.id",
+                        "label": "choice_4JgU-jd0L",
+                        "value": "choice_4JgU-jd0L"
+                    },
+                    {
+                        "id": "sli_E1wbOjORL.choice_N1WI-jO0L.id",
+                        "label": "choice_N1WI-jO0L",
+                        "value": "choice_N1WI-jO0L"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JgU-jd0L",
+                        "choice_N1WI-jO0L",
+                        "choice_4kJUdo-A8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the 3 critical steps to controlling budgets, in chronological order?",
+            "explanation": "Select the correct answers in chronological order.",
+            "klf": "First, you must <b>review</b> annual performance. When variances are identified, <b>react</b> and share the details. And finally, <b>revise</b> by taking control action as appropriate to either get the budget back onto its original course, or revise the original budget commitments to take account of the new facts.",
+            "tips": "The frequency with which you must review actual performance depends on how quickly you need to know about variances in order to do something about them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJUdo-A8": "Revise",
+            "choice_4JgU-jd0L": "Review",
+            "choice_N1WI-jO0L": "React"
+        },
+        "fr": {
+            "header": "Par ordre chronologique, quelles sont les 3 étapes essentielles au contrôle des budgets ?",
+            "explanation": "Sélectionnez les bonnes réponses dans l'ordre chronologique.",
+            "klf": "Tout d'abord, vous devez <b>examiner</b> les performances annuelles. Lorsque les écarts sont identifiés, <b>réagissez</b> et partagez les détails. Enfin, <b>revoyez-les</b> en prenant les mesures de contrôle appropriées pour remettre le budget sur sa trajectoire initiale ou revoir les engagements budgétaires initiaux pour tenir compte des faits nouveaux.",
+            "tips": "La fréquence à laquelle vous devez examiner les performances réelles dépend de la rapidité avec laquelle vous devez connaître les écarts pour pouvoir y remédier.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJUdo-A8": "Revoir",
+            "choice_4JgU-jd0L": "Examiner",
+            "choice_N1WI-jO0L": "Réagir"
+        },
+        "de": {
+            "header": "What are the 3 critical steps to controlling budgets, in chronological order?",
+            "explanation": "Select the correct answers in chronological order.",
+            "klf": "First, you must <b>review</b> annual performance. When variances are identified, <b>react</b> and share the details. And finally, <b>revise</b> by taking control action as appropriate to either get the budget back onto its original course, or revise the original budget commitments to take account of the new facts.",
+            "tips": "The frequency with which you must review actual performance depends on how quickly you need to know about variances in order to do something about them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJUdo-A8": "Revise",
+            "choice_4JgU-jd0L": "Review",
+            "choice_N1WI-jO0L": "React"
+        },
+        "th": {
+            "header": "What are the 3 critical steps to controlling budgets, in chronological order?",
+            "explanation": "Select the correct answers in chronological order.",
+            "klf": "First, you must <b>review</b> annual performance. When variances are identified, <b>react</b> and share the details. And finally, <b>revise</b> by taking control action as appropriate to either get the budget back onto its original course, or revise the original budget commitments to take account of the new facts.",
+            "tips": "The frequency with which you must review actual performance depends on how quickly you need to know about variances in order to do something about them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4kJUdo-A8": "Revise",
+            "choice_4JgU-jd0L": "Review",
+            "choice_N1WI-jO0L": "React"
+        }
+    }
+}

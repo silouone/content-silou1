@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-21T17:26:54.839Z",
+            "updatedAt": "2019-02-22T11:39:44.907Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vkina11z8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_VJRxklyQL",
+        "universalRef": "sli_VJRxklyQL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_VJRxklyQL.choice_VJGAklyX8.id",
+                        "label": "choice_VJGAklyX8",
+                        "value": "choice_VJGAklyX8"
+                    },
+                    {
+                        "id": "sli_VJRxklyQL.choice_Ny60klJ78.id",
+                        "label": "choice_Ny60klJ78",
+                        "value": "choice_Ny60klJ78"
+                    },
+                    {
+                        "id": "sli_VJRxklyQL.choice_4kUJlekmI.id",
+                        "label": "choice_4kUJlekmI",
+                        "value": "choice_4kUJlekmI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJGAklyX8"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_VJjOkg1QI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In this context, how should you reply to your employee’s request?",
+            "explanation": "Select the correct answer below.",
+            "klf": "As a leader, you need to be able to trust your employees, to involve them in projects and to delegate.",
+            "tips": "When delegating, it is necessary to state clearly and entirely what you are expecting from your employees: tasks, objectives, resources, etc.",
+            "clue": "",
+            "context_title": "Losing control",
+            "context_description": "You have just been assigned a new mission in your company. It is a complex, wide-ranging project, and one of your team members is interested in being in charge of logistics aspects. Although he is an expert at country-level, the stakes are high and you want everything to be delivered perfectly.",
+            "context_media_description": "",
+            "choice_VJGAklyX8": "Of course, I trust you on this",
+            "choice_Ny60klJ78": "Yes, if all decisions go through me",
+            "choice_4kUJlekmI": "No way! It’s too important, I must do it"
+        },
+        "fr": {
+            "header": "Dans ce contexte, que devez-vous répondre à la requête de votre collaborateur ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "En qualité de leader, vous devez être capable de faire confiance à vos collaborateurs afin de les impliquer dans les projets et de leur déléguer des responsabilités.",
+            "tips": "Lorsque vous déléguez des responsabilités, il est indispensable d'établir clairement ce que vous attendez des personnes concernées : tâches, objectifs, ressources, etc.",
+            "clue": "",
+            "context_title": "La perte de contrôle",
+            "context_description": "On vous a attribué une nouvelle mission dans votre entreprise. Il s'agit d'un projet complexe et de grande envergure, et l'un des membres de votre équipe propose de se charger des aspects logistiques. Bien qu'il ait le statut d'expert au niveau national, les enjeux concernés sont élevés et vous tenez à ce que tout soit réalisé à la perfection.",
+            "context_media_description": "",
+            "choice_VJGAklyX8": "Bien sûr, je vous fais entièrement confiance dans ce domaine",
+            "choice_Ny60klJ78": "Oui, à condition que j'intervienne dans toutes les décisions",
+            "choice_4kUJlekmI": "Hors de question ! C'est une tâche trop importante, je dois absolument m'en charger"
+        },
+        "de": {
+            "header": "Wie sollten Sie in diesem Zusammenhang auf die Anfrage Ihres Mitarbeiters antworten?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Als Führungskraft müssen Sie in der Lage sein, Ihren Mitarbeitern zu vertrauen, sie in Projekte einzubinden und zu delegieren.",
+            "tips": "Beim Delegieren müssen Sie klar und vollständig angeben, was Sie von Ihren Mitarbeitern erwarten: Aufgaben, Ziele, Ressourcen usw.",
+            "clue": "",
+            "context_title": "Die Kontrolle verlieren",
+            "context_description": "Sie haben gerade eine neue Aufgabe in Ihrem Unternehmen erhalten. Es ist ein komplexes, weitreichendes Projekt, und einer Ihrer Teammitglieder ist daran interessiert, die logistischen Aspekte zu übernehmen. Obwohl er ein Experte auf Länderebene ist, sind die Verantwortung hoch und Sie möchten, dass alles perfekt geliefert wird.",
+            "context_media_description": "",
+            "choice_VJGAklyX8": "Natürlich vertraue ich Ihnen dabei",
+            "choice_Ny60klJ78": "Ja, wenn alle Entscheidungen über mich laufen",
+            "choice_4kUJlekmI": "Auf keinen Fall! Es ist zu wichtig, ich muss es tun"
+        },
+        "th": {
+            "header": "In this context, how should you reply to your employee’s request?",
+            "explanation": "Select the correct answer below.",
+            "klf": "As a leader, you need to be able to trust your employees, to involve them in projects and to delegate.",
+            "tips": "When delegating, it is necessary to state clearly and entirely what you are expecting from your employees: tasks, objectives, resources, etc.",
+            "clue": "",
+            "context_title": "Losing control",
+            "context_description": "You have just been assigned a new mission in your company. It is a complex, wide-ranging project, and one of your team members is interested in being in charge of logistics aspects. Although he is an expert at country-level, the stakes are high and you want everything to be delivered perfectly.",
+            "context_media_description": "",
+            "choice_VJGAklyX8": "Of course, I trust you on this",
+            "choice_Ny60klJ78": "Yes, if all decisions go through me",
+            "choice_4kUJlekmI": "No way! It’s too important, I must do it"
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-17T10:33:22.434Z",
+            "updatedAt": "2019-02-21T17:18:42.550Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJ9yTjab8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_VyMlOrtML",
+        "universalRef": "sli_VyMlOrtML",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyMlOrtML.choice_Vkl3fOSYG8.id",
+                        "label": "choice_Vkl3fOSYG8",
+                        "value": "choice_Vkl3fOSYG8",
+                        "media": "med_4Jhf-BFzI"
+                    },
+                    {
+                        "id": "sli_VyMlOrtML.choice_V1g0GOSFML.id",
+                        "label": "choice_V1g0GOSFML",
+                        "value": "choice_V1g0GOSFML",
+                        "media": "med_VJRzOBYM8"
+                    },
+                    {
+                        "id": "sli_VyMlOrtML.choice_Eyl1QOHYGU.id",
+                        "label": "choice_Eyl1QOHYGU",
+                        "value": "choice_Eyl1QOHYGU",
+                        "media": "med_V1kXdrFfU"
+                    },
+                    {
+                        "id": "sli_VyMlOrtML.choice_NJMkXdrFzU.id",
+                        "label": "choice_NJMkXdrFzU",
+                        "value": "choice_NJMkXdrFzU",
+                        "media": "med_NyWJ7dBFfI"
+                    },
+                    {
+                        "id": "sli_VyMlOrtML.choice_V1g~XuBKM8.id",
+                        "label": "choice_V1g~XuBKM8",
+                        "value": "choice_V1g~XuBKM8",
+                        "media": "med_VyZ7-SYfL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1g~XuBKM8",
+                        "choice_Eyl1QOHYGU",
+                        "choice_Vkl3fOSYG8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When planning a project, which resources should you consider?",
+            "explanation": "Select the correct answers.",
+            "klf": "As a project manager, it is very important to allocate resources for each task. Consider resources in terms of budget, time and people.",
+            "tips": "While coffee may offer a temporary boost, proper planning should prevent you from having to rely on a large supply.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkl3fOSYG8": "Budget",
+            "choice_V1g0GOSFML": "Coffee",
+            "choice_Eyl1QOHYGU": "Time",
+            "choice_NJMkXdrFzU": "Printers",
+            "choice_V1g~XuBKM8": "People"
+        },
+        "fr": {
+            "header": "Lorsque vous planifiez un projet, quelles ressources devez-vous prendre en compte ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "En qualité de responsable de projet, votre rôle est d'allouer obligatoirement des ressources à chaque tâche. Considérez les ressources en termes de budget, de temps et de personnes.",
+            "tips": "Le café peut vous offrir un stimuli temporaire, mais une planification appropriée vous évitera de recourir à des ressources étendues.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkl3fOSYG8": "Budget",
+            "choice_V1g0GOSFML": "Café",
+            "choice_Eyl1QOHYGU": "Temps",
+            "choice_NJMkXdrFzU": "Imprimantes",
+            "choice_V1g~XuBKM8": "Collaborateurs"
+        },
+        "de": {
+            "header": "Welche Ressourcen sollten Sie bei der Planung eines Projekts berücksichtigen?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Als Projektmanager ist es sehr wichtig, Ressourcen für jede Aufgabe bereitzustellen. Berücksichtigen Sie Ressourcen in Bezug auf Budget, Zeit und Mitarbeiter.",
+            "tips": "Während Kaffee einen vorübergehenden Schub erbringen kann, sollte eine ordnungsgemäße Planung verhindern, dass Sie sich auf ein großes Angebot verlassen müssen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkl3fOSYG8": "Budget",
+            "choice_V1g0GOSFML": "Kaffee",
+            "choice_Eyl1QOHYGU": "Zeit",
+            "choice_NJMkXdrFzU": "Drucker",
+            "choice_V1g~XuBKM8": "Menschen"
+        },
+        "th": {
+            "header": "When planning a project, which resources should you consider?",
+            "explanation": "Select the correct answers.",
+            "klf": "As a project manager, it is very important to allocate resources for each task. Consider resources in terms of budget, time and people.",
+            "tips": "While coffee may offer a temporary boost, proper planning should prevent you from having to rely on a large supply.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkl3fOSYG8": "Budget",
+            "choice_V1g0GOSFML": "Coffee",
+            "choice_Eyl1QOHYGU": "Time",
+            "choice_NJMkXdrFzU": "Printers",
+            "choice_V1g~XuBKM8": "People"
+        }
+    }
+}

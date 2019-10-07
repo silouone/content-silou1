@@ -1,0 +1,116 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T11:42:02.295Z",
+            "updatedAt": "2019-02-22T11:47:07.139Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny6AT1yMI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Ek1rcicfL",
+        "universalRef": "sli_Ek1rcicfL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Ek1rcicfL.choice_NJku5sqzI.id",
+                        "label": "choice_NJku5sqzI",
+                        "value": "choice_NJku5sqzI"
+                    },
+                    {
+                        "id": "sli_Ek1rcicfL.choice_4Jxu9o5fU.id",
+                        "label": "choice_4Jxu9o5fU",
+                        "value": "choice_4Jxu9o5fU"
+                    },
+                    {
+                        "id": "sli_Ek1rcicfL.choice_VJq55icGU.id",
+                        "label": "choice_VJq55icGU",
+                        "value": "choice_VJq55icGU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4Jxu9o5fU"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_VymcLhczI",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Based on the preceding context, what should be guiding your decision?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Don’t act emotionally when making a tough decision. A job always comes with challenges, and one of them as a leader is to make the right choices for the company. You should try to always remain objective.",
+            "tips": "A good way to help you make a difficult decision is to limit the number of elements you take into account. Try reducing the final options you want to examine and the decision factors you will consider.",
+            "clue": "",
+            "context_title": "Carrying bad news",
+            "context_description": "Your company is reorganising its activities, and you are left with a tough decision to make. One of the departments under your supervision has to be relocated, and you must decide which of your teams will move. You know that no one will welcome the announcement.",
+            "context_media_description": "",
+            "choice_NJku5sqzI": "Emotions",
+            "choice_4Jxu9o5fU": "Facts",
+            "choice_VJq55icGU": "Your horoscope"
+        },
+        "fr": {
+            "header": "Dans ce contexte, de quels éléments devez-vous tenir compte pour prendre votre décision ?",
+            "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+            "klf": "Lorsque vous devez prendre une décision difficile, ne vous laissez pas guider par vos émotions. Un poste comporte toujours des défis, et celui du rôle de leader consiste à faire les bons choix pour l'entreprise. Vous devez faire le maximum pour rester toujours objectif.",
+            "tips": "Une des solutions pour vous aider à prendre une décision difficile est de limiter le nombre d'éléments à considérer. Essayez de réduire les options finales à examiner et les éléments de décision à prendre en compte.",
+            "clue": "",
+            "context_title": "Annoncer une mauvaise nouvelle",
+            "context_description": "Votre entreprise réorganise ses activités et on vous demande alors de prendre une décision délicate. Un des départements dont vous avez la charge doit être relocalisé et vous devez décider qui, parmi vos collaborateurs, va devoir déménager. Vous savez que personne ne va apprécier cette nouvelle",
+            "context_media_description": "",
+            "choice_NJku5sqzI": "Émotions",
+            "choice_4Jxu9o5fU": "Faits",
+            "choice_VJq55icGU": "Votre horoscope"
+        },
+        "de": {
+            "header": "Auf welcher Grundlage sollten Sie Ihre Entscheidung treffen?",
+            "explanation": "Wählen Sie unten die richtige Antwort aus.",
+            "klf": "Handeln Sie nicht emotional, wenn Sie eine schwierige Entscheidung treffen. Ein Job ist immer mit Herausforderungen verbunden, und als Führungskraft gilt es, die richtigen Entscheidungen für das Unternehmen zu treffen. Sie sollten versuchen, immer objektiv zu bleiben.",
+            "tips": "Eine gute Möglichkeit, eine schwierige Entscheidung zu treffen, besteht darin, die Anzahl der Elemente, die Sie berücksichtigen, zu begrenzen. Versuchen Sie, die endgültigen Optionen, die Sie untersuchen möchten, und die zu berücksichtigenden Entscheidungsfaktoren zu reduzieren.",
+            "clue": "",
+            "context_title": "Schlechte Nachrichten tragen",
+            "context_description": "Ihr Unternehmen organisiert seine Aktivitäten neu, und Sie müssen eine schwere Entscheidung treffen. Eine der Abteilungen unter Ihrer Aufsicht muss umziehen, und Sie müssen entscheiden, welches Ihrer Teams umziehen wird. Sie wissen, dass niemand die Ankündigung begrüßen wird.",
+            "context_media_description": "",
+            "choice_NJku5sqzI": "Emotionen",
+            "choice_4Jxu9o5fU": "Fakten",
+            "choice_VJq55icGU": "Ihr Horoskop"
+        },
+        "th": {
+            "header": "Based on the preceding context, what should be guiding your decision?",
+            "explanation": "Select the correct answer below.",
+            "klf": "Don’t act emotionally when making a tough decision. A job always comes with challenges, and one of them as a leader is to make the right choices for the company. You should try to always remain objective.",
+            "tips": "A good way to help you make a difficult decision is to limit the number of elements you take into account. Try reducing the final options you want to examine and the decision factors you will consider.",
+            "clue": "",
+            "context_title": "Carrying bad news",
+            "context_description": "Your company is reorganising its activities, and you are left with a tough decision to make. One of the departments under your supervision has to be relocated, and you must decide which of your teams will move. You know that no one will welcome the announcement.",
+            "context_media_description": "",
+            "choice_NJku5sqzI": "Emotions",
+            "choice_4Jxu9o5fU": "Facts",
+            "choice_VJq55icGU": "Your horoscope"
+        }
+    }
+}

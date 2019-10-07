@@ -1,0 +1,121 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-09T16:16:48.526Z",
+            "updatedAt": "2019-02-22T11:59:39.357Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJNeaekfU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_EkGrTW1GU",
+        "universalRef": "sli_EkGrTW1GU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_EkGrTW1GU.choice_NJrvTbkfU.id",
+                        "label": "choice_NJrvTbkfU",
+                        "value": "choice_NJrvTbkfU"
+                    },
+                    {
+                        "id": "sli_EkGrTW1GU.choice_4y8vTWJGI.id",
+                        "label": "choice_4y8vTWJGI",
+                        "value": "choice_4y8vTWJGI"
+                    },
+                    {
+                        "id": "sli_EkGrTW1GU.choice_EJDDTZ1fI.id",
+                        "label": "choice_EJDDTZ1fI",
+                        "value": "choice_EJDDTZ1fI"
+                    },
+                    {
+                        "id": "sli_EkGrTW1GU.choice_NylwPTW1zL.id",
+                        "label": "choice_NylwPTW1zL",
+                        "value": "choice_NylwPTW1zL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4y8vTWJGI",
+                        "choice_NJrvTbkfU",
+                        "choice_EJDDTZ1fI",
+                        "choice_NylwPTW1zL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the below can affect our mood and productivity at work?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Don't neglect your basic needs for food, sleep, and exercise: it is a sure fire way to make you less productive. The simplest causes of unhappiness are physical.",
+            "tips": "Adults aged 26-64 years need, on average, 7 to 9 hours of sleep every night. Of course, there are some individual variations!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJrvTbkfU": "Hunger",
+            "choice_4y8vTWJGI": "Dehydration",
+            "choice_EJDDTZ1fI": "Tiredness",
+            "choice_NylwPTW1zL": "Lack of exercise"
+        },
+        "fr": {
+            "header": "Quels éléments suivants peuvent affecter votre humeur et votre productivité au travail ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Négliger vos besoins fondamentaux que sont l'alimentation, le sommeil et l'exercice est le meilleur moyen de vous rendre moins productif. Les motifs les plus courants du mécontentement sont d'ordre physique.",
+            "tips": "Les adultes âgés entre 26 et 64 ans ont besoin, en moyenne, de 7 à 9 heures de sommeil par nuit. Cela varie bien sûr en fonction des individus !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJrvTbkfU": "Faim",
+            "choice_4y8vTWJGI": "Déshydratation",
+            "choice_EJDDTZ1fI": "Fatigue",
+            "choice_NylwPTW1zL": "Manque d'exercice"
+        },
+        "de": {
+            "header": "Welche der folgenden Faktoren kann unsere Stimmung und Produktivität bei der Arbeit beeinflussen?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Vernachlässigen Sie nicht Ihre Grundbedürfnisse nach Nahrung, Schlaf und Bewegung: Es ist ein sicherer Weg, um Sie weniger produktiv zu machen. Die einfachsten Ursachen für Unglück sind körperliche Ursachen.",
+            "tips": "Erwachsene im Alter von 26 bis 64 Jahren brauchen durchschnittlich 7 bis 9 Stunden Schlaf pro Nacht. Natürlich gibt es einige individuelle Variationen!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJrvTbkfU": "Hunger",
+            "choice_4y8vTWJGI": "Flüssigkeitsmangel",
+            "choice_EJDDTZ1fI": "Müdigkeit",
+            "choice_NylwPTW1zL": "Bewegungsmangel"
+        },
+        "th": {
+            "header": "Which of the below can affect our mood and productivity at work?",
+            "explanation": "Select the correct answers below.",
+            "klf": "Don't neglect your basic needs for food, sleep, and exercise: it is a sure fire way to make you less productive. The simplest causes of unhappiness are physical.",
+            "tips": "Adults aged 26-64 years need, on average, 7 to 9 hours of sleep every night. Of course, there are some individual variations!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJrvTbkfU": "Hunger",
+            "choice_4y8vTWJGI": "Dehydration",
+            "choice_EJDDTZ1fI": "Tiredness",
+            "choice_NylwPTW1zL": "Lack of exercise"
+        }
+    }
+}

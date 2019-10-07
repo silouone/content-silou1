@@ -1,0 +1,101 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-13T09:00:53.128Z",
+            "updatedAt": "2019-06-28T13:33:18.266Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOD-xoRI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NybpTxo0L",
+        "universalRef": "sli_NybpTxo0L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NybpTxo0L.choice_NJeAfAxoR8.id",
+                        "label": "choice_NJeAfAxoR8",
+                        "value": "choice_NJeAfAxoR8",
+                        "media": "med_Nk0GAes08"
+                    },
+                    {
+                        "id": "sli_NybpTxo0L.choice_VJe77RgiRL.id",
+                        "label": "choice_VJe77RgiRL",
+                        "value": "choice_VJe77RgiRL",
+                        "media": "med_Ey77RgsRL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJe77RgiRL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "A new client's case constitutes a safe practise environment for the learner. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Creating a safe practise environment is part of the training process. Your collaborators need to try their skills with a blank test. And obviously, leave them enough time to train.",
+            "tips": "Talking about safe practice environments, virtual reality is becoming a big deal in the training area. Starting with high-risk jobs in military intervention, space exploration and surgery, it is actually extending to almost any field of industry.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeAfAxoR8": "True",
+            "choice_VJe77RgiRL": "False"
+        },
+        "fr": {
+            "header": "Le cas d'un nouveau client constitue un environnement de pratique sûr pour l'apprenant. Vrai ou faux?",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Créer un environnement de pratique sécuritaire fait partie du processus de formation. Vos collaborateurs doivent essayer leurs compétences avec un test à blanc. Et évidemment, laissez-leur assez de temps pour s’entraîner.",
+            "tips": "En parlant d'environnements de pratique sécurisés, la réalité virtuelle est en train de devenir un gros problème dans le domaine de la formation. En commençant par des emplois à haut risque dans les domaines de l’intervention militaire, de l’exploration spatiale et de la chirurgie, il s’étend en réalité à presque tous les domaines de l’industrie.",
+            "choice_NJeAfAxoR8": "Vrai",
+            "choice_VJe77RgiRL": "Faux",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "A new client's case constitutes a safe practise environment for the learner. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Creating a safe practise environment is part of the training process. Your collaborators need to try their skills with a blank test. And obviously, leave them enough time to train.",
+            "tips": "Talking about safe practice environments, virtual reality is becoming a big deal in the training area. Starting with high-risk jobs in military intervention, space exploration and surgery, it is actually extending to almost any field of industry.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeAfAxoR8": "True",
+            "choice_VJe77RgiRL": "False"
+        },
+        "th": {
+            "header": "A new client's case constitutes a safe practise environment for the learner. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Creating a safe practise environment is part of the training process. Your collaborators need to try their skills with a blank test. And obviously, leave them enough time to train.",
+            "tips": "Talking about safe practice environments, virtual reality is becoming a big deal in the training area. Starting with high-risk jobs in military intervention, space exploration and surgery, it is actually extending to almost any field of industry.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJeAfAxoR8": "True",
+            "choice_VJe77RgiRL": "False"
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-05T12:15:48.371Z",
+            "updatedAt": "2019-08-02T08:17:55.058Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJSUnZDev"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4kNj67uew",
+        "universalRef": "sli_4kNj67uew",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50227",
+                        "items": [
+                            {
+                                "text": "choice_4Jg7k0muxw",
+                                "value": "choice_4Jg7k0muxw"
+                            },
+                            {
+                                "text": "choice_Nk~m1AQOgP",
+                                "value": "choice_Nk~m1AQOgP"
+                            },
+                            {
+                                "text": "choice_4yWWCXuxw",
+                                "value": "choice_4yWWCXuxw"
+                            },
+                            {
+                                "text": "choice_V1t~CXdgD",
+                                "value": "choice_V1t~CXdgD"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50227",
+                        "answers": [
+                            "choice_V1t~CXdgD"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is most likely to put a customer in a good mood?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Even though services upgrades and bonuses are always good news for customers, there is nothing like a warm and genuine smile to put them in a good mood.",
+            "tips": "According to <a href=\"http://www.bbc.com/future/story/20170407-why-all-smiles-are-not-the-same\" target=\"_blank\">this BBC article</a>, ‘there are 19 types of smiles, but only 6 are for happiness’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50227}}",
+            "choice_4Jg7k0muxw": "Offering to carry their bags",
+            "choice_Nk~m1AQOgP": "A table reservation for dinner",
+            "choice_4yWWCXuxw": "A room on the ground floor",
+            "choice_V1t~CXdgD": "A warm and genuine smile"
+        },
+        "fr": {
+            "header": "Qu'est-ce qui est le plus susceptible de mettre un client de bonne humeur ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Même si les améliorations de services et les bonus sont toujours de bonnes nouvelles pour les clients, rien de tel qu'un sourire chaleureux et sincère pour les mettre de bonne humeur.",
+            "tips": "Selon <a href=\"http://www.bbc.com/future/story/20170407-why-all-smiles-are-not-the-same\" target=\"_blank\">cet article de la BBC</a>, &quot;il y a 19 types de sourires, mais seulement 6 sont liés au bonheur&quot;.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50227}}",
+            "choice_4Jg7k0muxw": "Proposer de porter leurs sacs",
+            "choice_Nk~m1AQOgP": "Une table réservée pour le dîner",
+            "choice_4yWWCXuxw": "Une chambre au rez-de-chaussée",
+            "choice_V1t~CXdgD": "Un sourire chaleureux et sincère"
+        },
+        "de": {
+            "header": "What is most likely to put a customer in a good mood? ",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Even though services upgrades and bonuses are always good news for customers, there is nothing like a warm and genuine smile to put them in a good mood.",
+            "tips": "According to <a href=\"http://www.bbc.com/future/story/20170407-why-all-smiles-are-not-the-same\" target=\"_blank\">this BBC article</a>, ‘there are 19 types of smiles, but only 6 are for happiness’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50227}}",
+            "choice_4Jg7k0muxw": "Offering to carry their bags",
+            "choice_Nk~m1AQOgP": "A table reservation for dinner",
+            "choice_4yWWCXuxw": "A room on the ground floor",
+            "choice_V1t~CXdgD": "A warm and genuine smile"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel50227}}",
+            "choice_4Jg7k0muxw": "",
+            "choice_Nk~m1AQOgP": "",
+            "choice_4yWWCXuxw": "",
+            "choice_V1t~CXdgD": ""
+        }
+    }
+}

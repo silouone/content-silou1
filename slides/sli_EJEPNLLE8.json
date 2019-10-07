@@ -1,0 +1,121 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-08T11:19:22.014Z",
+            "updatedAt": "2019-02-14T17:07:10.457Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkdA7C7NL"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_EJEPNLLE8",
+        "universalRef": "sli_EJEPNLLE8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel13601",
+                        "items": [
+                            {
+                                "text": "choice_NJx9a4LUN8",
+                                "value": "choice_NJx9a4LUN8"
+                            },
+                            {
+                                "text": "choice_NkZ56N8I4L",
+                                "value": "choice_NkZ56N8I4L"
+                            },
+                            {
+                                "text": "choice_4yQ0VLLEU",
+                                "value": "choice_4yQ0VLLEU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel13601",
+                        "answers": [
+                            "choice_4yQ0VLLEU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can behaviour be expressed?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Behaviour is not only what you say: it can be expressed visually or verbally.",
+            "tips": "In addition to facial expression and gestures, nonverbal communication includes, among others, paralinguistics. These refer to vocal communication outside of language: tone of voice and loudness or pitch, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13601}}",
+            "choice_NJx9a4LUN8": "visually",
+            "choice_NkZ56N8I4L": "verbally",
+            "choice_4yQ0VLLEU": "visually or verbally",
+            "null": ""
+        },
+        "fr": {
+            "header": "Comment un comportement s'exprime-t-il ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Le comportement ne se limite pas à ce que vous dites : il peut s'exprimer visuellement ou verbalement.",
+            "tips": "Outre les expressions faciales et les gestes, la communication non verbale comprend, entre autres, la paralinguistique. Celle-ci se réfère à la communication vocale en dehors du langage : tonalité de voix et sonorité ou hauteur, par exemple.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13601}}",
+            "choice_NJx9a4LUN8": "Visuellement",
+            "choice_NkZ56N8I4L": "Verbalement",
+            "choice_4yQ0VLLEU": "Visuellement ou verbalement"
+        },
+        "de": {
+            "header": "Wie kann man Verhalten ausdrücken?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Verhalten ist nicht nur das, was Sie sagen, es kann visuell oder verbal ausgedrückt werden.",
+            "tips": "Zur nonverbalen Kommunikation gehört neben Gesichtsausdruck und Gestik auch die Paralinguistik. Diese beziehen sich auf stimmliche Kommunikation außerhalb der Sprache: zum Beispiel Tonfall und Lautstärke oder Tonhöhe.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13601}}",
+            "choice_NJx9a4LUN8": "visuell",
+            "choice_NkZ56N8I4L": "verbal",
+            "choice_4yQ0VLLEU": "visuell oder verbal"
+        },
+        "th": {
+            "header": "How can behaviour be expressed?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Behaviour is not only what you say: it can be expressed visually or verbally.",
+            "tips": "In addition to facial expression and gestures, nonverbal communication includes, among others, paralinguistics. These refer to vocal communication outside of language: tone of voice and loudness or pitch, for example.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel13601}}",
+            "choice_NJx9a4LUN8": "visually",
+            "choice_NkZ56N8I4L": "verbally",
+            "choice_4yQ0VLLEU": "visually or verbally",
+            "null": ""
+        }
+    }
+}

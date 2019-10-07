@@ -1,0 +1,109 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-20T13:50:55.762Z",
+            "updatedAt": "2019-02-22T15:38:43.688Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkxHE14N8"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_VyxXcB8BI",
+        "universalRef": "sli_VyxXcB8BI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyxXcB8BI.choice_VyjQ9SLH8.id",
+                        "label": "choice_VyjQ9SLH8",
+                        "value": "choice_VyjQ9SLH8"
+                    },
+                    {
+                        "id": "sli_VyxXcB8BI.choice_4y2m5HIrL.id",
+                        "label": "choice_4y2m5HIrL",
+                        "value": "choice_4y2m5HIrL"
+                    },
+                    {
+                        "id": "sli_VyxXcB8BI.choice_Ny6Qqr8S8.id",
+                        "label": "choice_Ny6Qqr8S8",
+                        "value": "choice_Ny6Qqr8S8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VyjQ9SLH8",
+                        "choice_4y2m5HIrL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can you help your team value the work they do?",
+            "explanation": "Select the correct answers.",
+            "klf": "Help your team value the work they do by talking positively about their jobs and stressing the importance of everyone’s contribution.",
+            "tips": "Employees who feel valued and appreciated by their leaders are infinitely more likely to go above and beyond for the company and hold themselves accountable for their part of a project. (<i>Forbes</i>)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyjQ9SLH8": "By talking positively about their jobs",
+            "choice_4y2m5HIrL": "By stressing how important everyone’s contribution is to the success of the project",
+            "choice_Ny6Qqr8S8": "By talking about past mistakes"
+        },
+        "fr": {
+            "header": "Comment pouvez-vous aider votre équipe à valoriser son travail ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Aidez les membres de votre équipe à valoriser leur travail en parlant de manière positive de leurs emplois et en soulignant l’importance de la contribution de chacun.",
+            "tips": "Les employés qui se sentent valorisés et appréciés de leurs supérieurs sont infiniment plus susceptibles de surpasser les attentes de l'entreprise et de se sentir responsables de leur participation à un projet. ( <i>Forbes</i> )",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyjQ9SLH8": "En parlant positivement de leurs emplois",
+            "choice_4y2m5HIrL": "En soulignant l’importance de la contribution de chacun à la réussite du projet",
+            "choice_Ny6Qqr8S8": "En parlant des erreurs du passé"
+        },
+        "de": {
+            "header": "Wie können Sie Ihrem Team helfen, die Arbeit zu schätzen, die es verrichtet?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Helfen Sie Ihrem Team, die Arbeit, die es verrichtet, wertzuschätzen, indem Sie positiv über ihre Arbeit sprechen und die Wichtigkeit des Beitrags aller hervorheben.",
+            "tips": "Mitarbeiter, die sich von ihren Führungskräften wertgeschätzt und geschätzt fühlen, sind unendlich viel wahrscheinlicher sich sehr für das Unternehmen einzusetzen und machen sich für ihren Teil eines Projekts selbst verantwortlich. ( <i>Forbes</i> )",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyjQ9SLH8": "Indem wir positiv über ihre Arbeit sprechen",
+            "choice_4y2m5HIrL": "Indem Sie betonen, wie wichtig der Beitrag jedes Einzelnen zum Erfolg des Projekts ist",
+            "choice_Ny6Qqr8S8": "Indem wir über Fehler der Vergangenheit sprechen"
+        },
+        "th": {
+            "header": "How can you help your team value the work they do?",
+            "explanation": "Select the correct answers.",
+            "klf": "Help your team value the work they do by talking positively about their jobs and stressing the importance of everyone’s contribution.",
+            "tips": "Employees who feel valued and appreciated by their leaders are infinitely more likely to go above and beyond for the company and hold themselves accountable for their part of a project. (<i>Forbes</i>)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyjQ9SLH8": "By talking positively about their jobs",
+            "choice_4y2m5HIrL": "By stressing how important everyone’s contribution is to the success of the project",
+            "choice_Ny6Qqr8S8": "By talking about past mistakes"
+        }
+    }
+}

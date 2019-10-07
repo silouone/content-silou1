@@ -1,0 +1,126 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T09:47:20.397Z",
+            "updatedAt": "2019-04-23T12:31:00.925Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJN09hw9L"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJGjqTP5I",
+        "universalRef": "sli_NJGjqTP5I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel95203",
+                        "items": [
+                            {
+                                "text": "choice_Nklf-3TDq8",
+                                "value": "choice_Nklf-3TDq8"
+                            },
+                            {
+                                "text": "choice_VyLxp6PcI",
+                                "value": "choice_VyLxp6PcI"
+                            },
+                            {
+                                "text": "choice_V1WM6Tv9U",
+                                "value": "choice_V1WM6Tv9U"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel95203",
+                        "answers": [
+                            "choice_V1WM6Tv9U"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NkK2C6vqU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How will you answer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Mimicking customers is dangerous as they can think you're having a laugh at them. But mirroring their voice patterns, their tone or their pace is always effective.",
+            "tips": "‘Mimic is to copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.’ Cambridge Dictionary.",
+            "clue": "",
+            "context_title": "Darling!",
+            "context_description": "Patsy Stone comes into your Juice Bar and, leaning on the counter, asks: ‘a double shot, darling!‘",
+            "context_media_description": "",
+            "template": "{{sel95203}}",
+            "choice_Nklf-3TDq8": "The liquor store is next door, darling!",
+            "choice_VyLxp6PcI": "Here, it's teetotal, darling!",
+            "choice_V1WM6Tv9U": "Pineapple or Pear-banana?"
+        },
+        "fr": {
+            "header": "Comment allez-vous répondre ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Imiter les clients est dangereux car ils peuvent penser que vous vous moquez d'eux. Mais reproduire leurs caractéristiques de voix, leur intonation ou leur débit est toujours efficace.",
+            "tips": "« Imiter consiste à copier la façon dont une personne en particulier parle et bouge, généralement pour faire rire les gens. » Dictionnaire Cambridge.",
+            "clue": "",
+            "context_title": "Chéri !",
+            "context_description": "Patsy Stone entre dans votre bar à jus et, s'appuyant sur le comptoir, demande : « Un double shot, chérie ! »",
+            "context_media_description": "",
+            "template": "{{sel95203}}",
+            "choice_Nklf-3TDq8": "Le magasin d'alcool est à côté, chérie !",
+            "choice_VyLxp6PcI": "Ici, c'est sans alcool, chérie !",
+            "choice_V1WM6Tv9U": "Ananas ou poire-banane ?"
+        },
+        "de": {
+            "header": "How will you answer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Mimicking customers is dangerous as they can think you're having a laugh at them. But mirroring their voice patterns, their tone or their pace is always effective.",
+            "tips": "‘Mimic is to copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.’ Cambridge Dictionary.",
+            "clue": "",
+            "context_title": "Darling!",
+            "context_description": "Patsy Stone comes into your Juice Bar and, leaning on the counter, asks: ‘a double shot, darling!‘",
+            "context_media_description": "",
+            "template": "{{sel95203}}",
+            "choice_Nklf-3TDq8": "The liquor store is next door, darling!",
+            "choice_VyLxp6PcI": "Here, it's teetotal, darling!",
+            "choice_V1WM6Tv9U": "Pineapple or Pear-banana?"
+        },
+        "th": {
+            "header": "How will you answer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Mimicking customers is dangerous as they can think you're having a laugh at them. But mirroring their voice patterns, their tone or their pace is always effective.",
+            "tips": "‘Mimic is to copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.’ Cambridge Dictionary.",
+            "clue": "",
+            "context_title": "Darling!",
+            "context_description": "Patsy Stone comes into your Juice Bar and, leaning on the counter, asks: ‘a double shot, darling!‘",
+            "context_media_description": "",
+            "template": "{{sel95203}}",
+            "choice_Nklf-3TDq8": "The liquor store is next door, darling!",
+            "choice_VyLxp6PcI": "Here, it's teetotal, darling!",
+            "choice_V1WM6Tv9U": "Pineapple or Pear-banana?"
+        }
+    }
+}

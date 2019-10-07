@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-19T13:23:24.532Z",
+            "updatedAt": "2019-02-20T13:05:06.247Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vy3DdnQB8"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_N1ImfeSSL",
+        "universalRef": "sli_N1ImfeSSL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1ImfeSSL.choice_4k74GlrHU.id",
+                        "label": "choice_4k74GlrHU",
+                        "value": "choice_4k74GlrHU"
+                    },
+                    {
+                        "id": "sli_N1ImfeSSL.choice_4kKNzlBBI.id",
+                        "label": "choice_4kKNzlBBI",
+                        "value": "choice_4kKNzlBBI"
+                    },
+                    {
+                        "id": "sli_N1ImfeSSL.choice_EJyrferSU.id",
+                        "label": "choice_EJyrferSU",
+                        "value": "choice_EJyrferSU"
+                    },
+                    {
+                        "id": "sli_N1ImfeSSL.choice_4JNHMgBH8.id",
+                        "label": "choice_4JNHMgBH8",
+                        "value": "choice_4JNHMgBH8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4kKNzlBBI",
+                        "choice_EJyrferSU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How does offering a customer a choice of solutions help?",
+            "explanation": "Select the correct answers.",
+            "klf": "Offering choices keeps the focus on the solution and helps the customer feel more in control.",
+            "tips": "Try to resolve the complaint quickly. If you take a long time they tend to escalate.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k74GlrHU": "It confuses them and makes them forget their complaint",
+            "choice_4kKNzlBBI": "It lets them feel more in control of the situation",
+            "choice_EJyrferSU": "It helps them focus on the solution not the problem",
+            "choice_4JNHMgBH8": "They can choose the most expensive option"
+        },
+        "fr": {
+            "header": "Comment le fait d'offrir à un client un choix de solutions vous aide-t-il ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Offrir différents choix permet de rester concentré sur la solution et aide le client à se sentir plus en contrôle.",
+            "tips": "Essayez de résoudre la plainte rapidement. Si vous prenez beaucoup de temps, la situation a tendance à dégénérer.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k74GlrHU": "Cela crée la confusion et leur fait oublier leur plainte",
+            "choice_4kKNzlBBI": "Cela leur permet de se sentir plus en contrôle de la situation",
+            "choice_EJyrferSU": "Cela les aide à se concentrer sur la solution et non sur le problème",
+            "choice_4JNHMgBH8": "Ils peuvent choisir l'option la plus chère"
+        },
+        "de": {
+            "header": "Wie hilft es, einem Kunden eine Auswahl an Lösungen anzubieten?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Durch Auswahlmöglichkeiten bleibt der Fokus auf der Lösung und der Kunde fühlt sich mehr in Kontrolle.",
+            "tips": "Versuchen Sie, die Beschwerde schnell zu lösen. Wenn Sie lange brauchen, neigen sie zur Eskalation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k74GlrHU": "Es verwirrt sie und lässt sie ihre Beschwerde vergessen",
+            "choice_4kKNzlBBI": "Sie fühlen sich mehr in der Lage, die Situation unter Kontrolle zu haben",
+            "choice_EJyrferSU": "Es hilft ihnen, sich auf die Lösung zu konzentrieren, nicht auf das Problem",
+            "choice_4JNHMgBH8": "Sie können die teuerste Option wählen"
+        },
+        "th": {
+            "header": "How does offering a customer a choice of solutions help?",
+            "explanation": "Select the correct answers.",
+            "klf": "Offering choices keeps the focus on the solution and helps the customer feel more in control.",
+            "tips": "Try to resolve the complaint quickly. If you take a long time they tend to escalate.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_4k74GlrHU": "It confuses them and makes them forget their complaint",
+            "choice_4kKNzlBBI": "It lets them feel more in control of the situation",
+            "choice_EJyrferSU": "It helps them focus on the solution not the problem",
+            "choice_4JNHMgBH8": "They can choose the most expensive option"
+        }
+    }
+}

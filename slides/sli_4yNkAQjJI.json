@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-13T11:21:52.984Z",
+            "updatedAt": "2019-01-21T16:22:09.301Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJRCREXkL"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4yNkAQjJI",
+        "universalRef": "sli_4yNkAQjJI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yNkAQjJI.choice_4ytylVskL.id",
+                        "label": "choice_4ytylVskL",
+                        "value": "choice_4ytylVskL"
+                    },
+                    {
+                        "id": "sli_4yNkAQjJI.choice_41o1eVoJL.id",
+                        "label": "choice_41o1eVoJL",
+                        "value": "choice_41o1eVoJL"
+                    },
+                    {
+                        "id": "sli_4yNkAQjJI.choice_4JCWIUskI.id",
+                        "label": "choice_4JCWIUskI",
+                        "value": "choice_4JCWIUskI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JCWIUskI"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_EkepyVsJ8",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do you comment on his progress?",
+            "explanation": "Select the correct answer.",
+            "klf": "When you praise someone, be accurate and precise for your compliments to be genuine. Congratulate your employees for outstanding achievements but also for smaller progress. However, don't lose track of the big picture: keep encouraging them to give their best and help them reach their objectives.",
+            "tips": "Being praised triggers the release of dopamine, the ‘feel-good’ hormone. However, the praise has to be genuine so as to have a meaningful impact of the long term.",
+            "clue": "",
+            "context_title": "Put your foot down!",
+            "context_description": "You're at the head of a team of project managers. Six months ago, you explained to one of them, Lucas, that he was managing on average 4 projects less than the rest of his colleagues over a business quarter. You gave him some advice to bring him up to speed so that he could keep up with the rest of the team.<br/>Today, you're conducting a joint evaluation of his work over the last quarter with him, and you observe that he managed to take in a bigger work load and is now only 2 projects behind the rest of the team in terms of project management.",
+            "context_media_description": "",
+            "choice_4ytylVskL": "‘See Lucas, you can notice that you're still two projects behind the rest of the team, it's a bit a of problem isn't it? I did give you some tips to jump to their level, though. Why do you think you're not performing the best you can?’",
+            "choice_41o1eVoJL": "‘This is GRAND Lucas, absolutely outstanding. You have progressed while the others have stagnated, and for this you deserve a bigger rise than them this year.’",
+            "choice_4JCWIUskI": "‘Great progress Lucas, congratulations! We really appreciate the efforts you've put in this last quarter, and I'm confident you'll manage to reach the expected KPI next quarter. Would you like us to see together how to do that?’",
+            "choice_VkJyCd2yU": ""
+        },
+        "fr": {
+            "header": "Quels commentaires faites-vous sur ses progrès ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque vous félicitez quelqu’un, soyez précis afin que vos félicitations soient authentiques. Félicitez vos employés pour des réalisations exceptionnelles, mais également pour des progrès de moindre importance. Cependant, ne perdez pas de vue votre objectif final : continuer à les encourager pour qu’ils donnent de leur mieux et atteignent leurs objectifs.",
+            "tips": "Être félicité déclenche la production de dopamine, l’hormone du « bien-être ». Les félicitations doivent toutefois être sincères pour avoir une influence significative sur le long terme.",
+            "clue": "",
+            "context_title": "Faites preuve de fermeté !",
+            "context_description": "Vous êtes à la tête d’une équipe de responsables de projets. Six mois auparavant, vous avez expliqué à l’un d’entre eux, Lucas, qu’il gérait en moyenne 4 projets de moins que ses collègues sur l’ensemble d’un semestre. Vous lui avez donné quelques conseils pour lui permettre d’être plus productif et de rattraper le niveau du reste de l’équipe. Aujourd’hui, vous menez avec lui une évaluation conjointe de son travail sur le dernier semestre, et vous constatez qu’il a réussi à traiter une charge de travail plus importante et qu’il n’a plus que 2 projets de moins que ses collègues.",
+            "context_media_description": "",
+            "choice_4ytylVskL": "« Lucas, vous pouvez remarquer que vous avez encore deux projets de moins que le reste de l’équipe, c’est problématique, non ? Je vous ai donné des conseils pour rattraper le niveau des autres. D’après vous, qu’est-ce qui vous empêche de faire mieux ?",
+            "choice_41o1eVoJL": "« BRAVO Lucas, vraiment exceptionnel. Vous avez progressé alors que les autres ont stagné, et pour cela vous méritez une augmentation de salaire plus importante qu’eux cette année ».",
+            "choice_4JCWIUskI": "« Belle progression Lucas, félicitations ! Nous apprécions vraiment les efforts que vous avez réalisés au dernier semestre, et je suis sûr que vous réussirez à atteindre l’ICP prévu au prochain semestre. Voulez-vous qu’on regarde ensemble comment procéder ?",
+            "choice_VkJyCd2yU": ""
+        },
+        "de": {
+            "header": "Wie kommentierst du seine Fortschritte?",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Wenn Sie jemanden loben, seien Sie genau und präzise, damit Ihre Komplimente authentisch sind. Gratulieren Sie Ihren Mitarbeitern zu herausragenden Leistungen, aber auch zu kleineren Fortschritten. Vergessen Sie jedoch nicht den Überblick zu behalten, fordern Sie sie auf, ihr Bestes zu geben und ihnen dabei zu helfen, ihre Ziele zu erreichen. ",
+            "tips": "Gelobt wird die Freisetzung von Dopamin, dem „Wohlfühl-Hormon“. Das Lob muss jedoch echt sein, um langfristig einen bedeutenden Einfluss zu haben.",
+            "clue": "",
+            "context_title": "Lass deinen Fuß runter!",
+            "context_description": "Sie sind an der Spitze eines Teams von Projektmanagern. Vor einem halben Jahr haben Sie einem von ihnen, Lucas, erklärt, dass er im Durchschnitt 4 Projekte weniger als die übrigen Kollegen in einem Geschäftsquartal betreue. Sie haben ihm Ratschläge gegeben, um ihn auf den selben Stand zu bringen, damit er mit dem Rest des Teams mithalten kann. Heute führen Sie mit ihm eine gemeinsame Bewertung seiner Arbeit über das letzte Quartal durch. Sie stellen fest, dass es ihm gelungen ist, eine größere Arbeitsbelastung anzunehmen und nur noch zwei Projekte hinter dem Rest des Teams in Bezug auf das Projektmanagement liegt.",
+            "context_media_description": "",
+            "choice_4ytylVskL": "Sehen Sie, Lucas, Sie können feststellen, dass Sie noch zwei Projekte hinter dem Rest des Teams sind. Das ist ein Problem, nicht wahr? Ich habe dir jedoch einige Tipps gegeben, um auf ihr Niveau zu gelangen. Warum denkst du, dass du nicht das Beste leistest, was du kannst? “",
+            "choice_41o1eVoJL": "„Dies ist GROSSARTIG Lucas, absolut hervorragend. Sie haben Fortschritte gemacht, während die anderen stagniert haben, und dafür verdienen Sie dieses Jahr einen größeren Aufstieg als die anderen. “",
+            "choice_4JCWIUskI": "„Großer Fortschritt, Lucas, herzlichen Glückwunsch! Wir wissen die Anstrengungen, die Sie in diesem letzten Quartal unternommen haben, wirklich zu schätzen, und ich bin zuversichtlich, dass Sie es schaffen werden, die erwarteten KPI im nächsten Quartal zu erreichen. Möchten Sie, dass wir uns gemeinsam ansehen, wie das geht? “",
+            "choice_VkJyCd2yU": ""
+        },
+        "th": {
+            "header": "คุณจะให้ความเห็นเกี่ยวกับความก้าวหน้าของเขาอย่างไร",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "เมื่อคุณชื่นชมใครสักคน คุณต้องกล่าวชื่นชมอย่างชัดเจนและตรงจุด เพื่อแสดงถึงความจริงใจ แสดงความยินดีกับพนักงานของคุณสำหรับความสำเร็จที่ยอดเยี่ยม และรวมถึงความก้าวหน้าเล็กๆ น้อยๆ ด้วย แต่อย่าให้เสียภาพรวม: ให้กำลังใจต่อไปเพื่อให้พวกเขาทำงานให้ดีที่สุด และช่วยให้บรรลุวัตถุประสงค์ได้",
+            "tips": "การได้รับคำชมเป็นตัวกระตุ้นให้สมองปล่อยโดปามีน ซึ่งเป็นฮอร์โมนแห่งความสุขออกมา อย่างไรก็ตาม การชื่นชมก็ต้องจริงใจเพื่อให้ส่งผลที่มีความหมายในระยะยาว",
+            "clue": "",
+            "context_title": "จริงจังกันหน่อย!",
+            "context_description": "คุณเป็นหัวหน้าทีมผู้จัดการโครงการ หกเดือนที่แล้ว คุณบอกหนึ่งในสมาชิกทีมที่ชื่อลูคัสว่าเขาจัดการโครงการน้อยกว่าเพื่อนร่วมงานคนอื่นๆ เฉลี่ย 4 โครงการในไตรมาสนี้ คุณได้ให้คำแนะนำบางอย่างแก่เขาเพื่อเร่งให้ทำงานเร็วขึ้น เพื่อที่จะได้ตามเพื่อนร่วมทีมคนอื่นให้ทัน",
+            "context_media_description": "",
+            "choice_4ytylVskL": "'ดูนี่ลูคัส เห็นหรือเปล่าว่าคุณยังตามหลังคนอื่นๆ ที่เหลือในทีมอีกสองโครงการ แล้วนั่นคือปัญหาเล็กน้อยใช่หรือเปล่า ฉันได้ให้คำแนะนำในการเร่งตามให้ทันทีมอื่นไปแล้วนะ ทำไมคุณถึงคิดว่าคุณไม่ได้ทำงานให้ดีที่สุดเท่าที่ทำได้ล่ะ'",
+            "choice_41o1eVoJL": "'สุดยอดเลยลูคัส ยอดเยี่ยมที่สุด คุณแสดงให้เห็นถึงความก้าวหน้าในขณะที่คนอื่นอยู่กับที่ คุณจึงสมควรที่จะได้รับการขึ้นเงินเดือนมากกว่าพวกเขาในปีนี้'",
+            "choice_4JCWIUskI": "'เป็นความก้าวหน้าที่ยอดเยี่ยมเลย ลูคัส ยินดีด้วย! เราซาบซึ้งใจอย่างยิ่งกับความพยายามที่คุณทุ่มเทให้ในไตรมาสล่าสุดนี้ และฉันมั่นใจว่าคุณจะสามารถบรรลุเป้าหมายดัชนีชี้วัดผลงานที่เราตั้งไว้ในไตรมาสหน้าได้ คุณอยากให้พวกเราได้เห็นพร้อมๆ กันว่าคุณทำแบบนั้นได้ยังไงหรือเปล่า",
+            "choice_VkJyCd2yU": ""
+        }
+    }
+}

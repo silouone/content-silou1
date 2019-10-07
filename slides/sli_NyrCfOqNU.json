@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T14:21:28.558Z",
+            "updatedAt": "2019-03-05T15:45:15.427Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJfl1WHVI"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NyrCfOqNU",
+        "universalRef": "sli_NyrCfOqNU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyrCfOqNU.choice_41g8mXO5NU.id",
+                        "label": "choice_41g8mXO5NU",
+                        "value": "choice_41g8mXO5NU",
+                        "media": "med_V1LXXdqNI"
+                    },
+                    {
+                        "id": "sli_NyrCfOqNU.choice_EJgOvQ-qNU.id",
+                        "label": "choice_EJgOvQ-qNU",
+                        "value": "choice_EJgOvQ-qNU",
+                        "media": "med_EJdD7-9VL"
+                    },
+                    {
+                        "id": "sli_NyrCfOqNU.choice_EJlwTQO5V8.id",
+                        "label": "choice_EJlwTQO5V8",
+                        "value": "choice_EJlwTQO5V8",
+                        "media": "med_4kwpmO9NL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41g8mXO5NU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's one of the benefits of getting challenging tasks done in the morning?",
+            "explanation": "Select the correct answer.",
+            "klf": "Get important or complex tasks done early and be boosted by a wave of accomplishment for the rest of the day.",
+            "tips": "Exercise or take a walk before sitting down to do important and difficult work. This practice increases your focus and energy level!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41g8mXO5NU": "A sense of achievement at the end of the day",
+            "choice_EJgOvQ-qNU": "Make your whole life a challenge",
+            "choice_EJlwTQO5V8": "Sleep in the afternoon"
+        },
+        "fr": {
+            "header": "Quel est l'un des avantages à exécuter les tâches difficiles le matin ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Accomplir les tâches importantes ou complexes tôt vous procurera un sentiment d'accomplissements qui vous stimulera pour le reste de la journée.",
+            "tips": "Faites de l'exercice physique ou sortez faire un tour avant de vous asseoir pour faire un travail important et difficile. Cette pratique augmente votre concentration et votre niveau d'énergie !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41g8mXO5NU": "Un sentiment d'accomplissement en fin de journée",
+            "choice_EJgOvQ-qNU": "Faire de sa vie entière un défi",
+            "choice_EJlwTQO5V8": "Dormir dans l'après-midi"
+        },
+        "de": {
+            "header": "Was ist einer der Vorteile von anspruchsvollen Aufgaben am Morgen?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Erledigen Sie wichtige oder komplexe Aufgaben frühzeitig und lassen Sie sich für den Rest des Tages von einer Erfolgswelle tragen.",
+            "tips": "Trainieren Sie oder machen Sie einen Spaziergang, bevor Sie sich hinsetzen, um wichtige und schwierige Arbeit zu erledigen. Diese Übung erhöht Ihren Fokus und Ihr Energieniveau!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41g8mXO5NU": "Ein Erfolgserlebnis am Ende des Tages",
+            "choice_EJgOvQ-qNU": "Machen Sie Ihr ganzes Leben zur Herausforderung",
+            "choice_EJlwTQO5V8": "Nachmittags schlafen"
+        },
+        "th": {
+            "header": "What's one of the benefits of getting challenging tasks done in the morning?",
+            "explanation": "Select the correct answer.",
+            "klf": "Get important or complex tasks done early and be boosted by a wave of accomplishment for the rest of the day.",
+            "tips": "Exercise or take a walk before sitting down to do important and difficult work. This practice increases your focus and energy level!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41g8mXO5NU": "A sense of achievement at the end of the day",
+            "choice_EJgOvQ-qNU": "Make your whole life a challenge",
+            "choice_EJlwTQO5V8": "Sleep in the afternoon"
+        }
+    }
+}

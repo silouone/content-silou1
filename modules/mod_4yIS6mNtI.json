@@ -1,0 +1,67 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T12:27:57.314Z",
+            "updatedAt": "2019-08-27T13:54:28.393Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-06-08T12:27:17.794Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_Vy~h3Q4t8"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "mod_4yIS6mNtI",
+        "universalRef": "mod_4yIS6mNtI",
+        "level": 2,
+        "draft": true,
+        "position": 0,
+        "timeAlloted": 10,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_V1AH5b-FI",
+            "skill_4kahBdGqU"
+        ],
+        "ineligibleBattle": false,
+        "version": "3",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        },
+        "creditsToAccess": 1
+    },
+    "locales": {
+        "en": {
+            "skill_V1AH5b-FI": "Implement a mindset of transparency within your team",
+            "skill_4kahBdGqU": "Understand why fungineering does not always work"
+        },
+        "fr": {
+            "skill_V1AH5b-FI": "Mettre en place un état d'esprit de transparence au sein de votre équipe",
+            "skill_4kahBdGqU": "Comprendre pourquoi le « fungineering » ne fonctionne pas systématiquement"
+        },
+        "de": {
+            "skill_V1AH5b-FI": "Implement a mindset of transparency within your team",
+            "skill_4kahBdGqU": "Understand why fungineering does not always work"
+        },
+        "th": {
+            "skill_V1AH5b-FI": "Implement a mindset of transparency within your team",
+            "skill_4kahBdGqU": "Understand why fungineering does not always work"
+        }
+    }
+}

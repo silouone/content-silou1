@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-10T07:59:26.797Z",
+            "updatedAt": "2018-11-09T13:50:02.829Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1FGP3H9r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_NJ6BxoLcB",
+        "universalRef": "sli_NJ6BxoLcB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel41815",
+                        "items": [
+                            {
+                                "text": "choice_Nyl~veoI9r",
+                                "value": "choice_Nyl~veoI9r"
+                            },
+                            {
+                                "text": "choice_E1ZbvejL9B",
+                                "value": "choice_E1ZbvejL9B"
+                            },
+                            {
+                                "text": "choice_EkF-ei8cr",
+                                "value": "choice_EkF-ei8cr"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel41815",
+                        "answers": [
+                            "choice_EkF-ei8cr"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Who does make for a happy workplace?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "We tend to assume a happy workplace means a workplace full of extroverts and optimists. In fact, introverts and pessimists have a major role to play. Pessimists help foresee and forestall problems. Introverts are great listeners and thinkers.",
+            "tips": "‘We forfeit three fourths of ourselves in order to be like other people.’  Arthur Schopenhauer.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel41815}}",
+            "choice_Nyl~veoI9r": "Extroverts and optimists only",
+            "choice_E1ZbvejL9B": "Introverts and pessimists only",
+            "choice_EkF-ei8cr": "A bit of both"
+        },
+        "fr": {
+            "header": "Qui contribue à un lieu de travail épanouissant ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Nous avons tendance à croire qu’un environnement de travail épanouissant est composé de personnes extraverties et optimistes. En réalité, les introvertis et les pessimistes ont un rôle essentiel à jouer. Les pessimistes aident à prévoir et à prévenir les problèmes. Les introvertis, quant à eux, possèdent de grandes qualités d’écoute et de réflexion.",
+            "tips": "« Nous renonçons à 75 % de notre personnalité pour ressembler aux autres. »  Arthur Schopenhauer.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel41815}}",
+            "choice_Nyl~veoI9r": "Uniquement des extravertis et des optimistes",
+            "choice_E1ZbvejL9B": "Uniquement des introvertis et des pessimistes",
+            "choice_EkF-ei8cr": "Un peu des deux"
+        },
+        "de": {
+            "header": "Wer macht einen glücklichen Arbeitsplatz?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Wir gehen davon aus, dass ein glücklicher Arbeitsplatz ein Arbeitsplatz voller Extrovertierter und Optimisten ist. Introvertierte und Pessimisten spielen tatsächlich eine wichtige Rolle. Pessimisten helfen, Probleme vorherzusehen und abzuwenden. Introvertierte sind gute Zuhörer und Denker.",
+            "tips": "\"Wir verzichten drei Viertel von uns selbst, um wie andere Menschen zu sein.\" Arthur Schopenhauer.",
+            "template": "{{sel41815}}",
+            "choice_Nyl~veoI9r": "Nur Extrovertierte und Optimisten",
+            "choice_E1ZbvejL9B": "Nur Introvertierte und Pessimisten",
+            "choice_EkF-ei8cr": "Ein bisschen von beidem",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "th": {
+            "header": "Who does make for a happy workplace?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "We tend to assume a happy workplace means a workplace full of extroverts and optimists. In fact, introverts and pessimists have a major role to play. Pessimists help foresee and forestall problems. Introverts are great listeners and thinkers.",
+            "tips": "‘We forfeit three fourths of ourselves in order to be like other people.’  Arthur Schopenhauer.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel41815}}",
+            "choice_Nyl~veoI9r": "Extroverts and optimists only",
+            "choice_E1ZbvejL9B": "Introverts and pessimists only",
+            "choice_EkF-ei8cr": "A bit of both"
+        }
+    }
+}

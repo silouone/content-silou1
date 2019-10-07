@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-07T15:08:17.932Z",
+            "updatedAt": "2019-02-13T09:28:47.376Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JlYmR7EI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_N1C3v4B48",
+        "universalRef": "sli_N1C3v4B48",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1C3v4B48.choice_VktWuEr4U.id",
+                        "label": "choice_VktWuEr4U",
+                        "value": "choice_VktWuEr4U"
+                    },
+                    {
+                        "id": "sli_N1C3v4B48.choice_EJMQu4rNI.id",
+                        "label": "choice_EJMQu4rNI",
+                        "value": "choice_EJMQu4rNI"
+                    },
+                    {
+                        "id": "sli_N1C3v4B48.choice_N1Gru4SEU.id",
+                        "label": "choice_N1Gru4SEU",
+                        "value": "choice_N1Gru4SEU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1Gru4SEU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In an interaction with a customer, what is the ‘moment of truth'?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you are able to effectively identifies the ‘moment of truth’, where the interaction with the customer turns, odds are you will be able to handle it positively, resulting in a much better customer outcome. Choosing the right kind of behaviour at the moment of truth is critical!",
+            "tips": "Typically, the ‘first moment of truth’ occurs when a customer is first confronted with a given product of service.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VktWuEr4U": "It's the moment when the salesperson decides to tell the customer the truth",
+            "choice_EJMQu4rNI": "It's the moment when the customer decides to tell the salesperson the truth",
+            "choice_N1Gru4SEU": "It's the moment where the interaction makes an impression and the salesperson's chosen behavior is crucial"
+        },
+        "fr": {
+            "header": "Lors d'une interaction avec un client, quel est le « moment de vérité » ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Si vous êtes capable d’identifier efficacement le « moment de vérité », c'est-à-dire le moment où l’interaction avec le client se transforme, il y a de fortes chances pour que vous puissiez gérer la situation de manière positive, ce qui donnera un bien meilleur résultat client. Choisir le bon comportement lors du moment de vérité est essentiel !",
+            "tips": "En règle générale, le « premier moment de vérité » se produit lorsqu'un client est confronté pour la première fois à un produit de service donné.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VktWuEr4U": "C'est le moment où le vendeur décide de dire la vérité au client",
+            "choice_EJMQu4rNI": "C'est le moment où le client décide de dire la vérité au vendeur",
+            "choice_N1Gru4SEU": "C'est le moment où l'interaction a fait impression et où choisir le bon comportement est crucial"
+        },
+        "de": {
+            "header": "Was ist in einer Interaktion mit einem Kunden der \"Moment der Wahrheit\"?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Wenn Sie in der Lage sind, den „Moment der Wahrheit“ effektiv zu identifizieren, wenn sich die Interaktion mit dem Kunden ändert, haben Sie die Chance, dass Sie positiv damit umgehen können, was zu einem viel besseren Kundenergebnis führt. Die Wahl des richtigen Verhaltens im Moment der Wahrheit ist kritisch!",
+            "tips": "In der Regel tritt der „erste Moment der Wahrheit“ auf, wenn ein Kunde zum ersten Mal mit einem bestimmten Serviceprodukt konfrontiert wird.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VktWuEr4U": "Es ist der Moment, in dem der Verkäufer beschließt, dem Kunden die Wahrheit zu sagen",
+            "choice_EJMQu4rNI": "Es ist der Moment, in dem der Kunde beschließt, dem Verkäufer die Wahrheit zu sagen",
+            "choice_N1Gru4SEU": "Es ist der Moment, in dem die Interaktion einen Eindruck hinterlässt und das von dem Verkäufer gewählte Verhalten entscheidend ist"
+        },
+        "th": {
+            "header": "In an interaction with a customer, what is the ‘moment of truth'?",
+            "explanation": "Select the correct answer.",
+            "klf": "If you are able to effectively identifies the ‘moment of truth’, where the interaction with the customer turns, odds are you will be able to handle it positively, resulting in a much better customer outcome. Choosing the right kind of behaviour at the moment of truth is critical!",
+            "tips": "Typically, the ‘first moment of truth’ occurs when a customer is first confronted with a given product of service.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VktWuEr4U": "It's the moment when the salesperson decides to tell the customer the truth",
+            "choice_EJMQu4rNI": "It's the moment when the customer decides to tell the salesperson the truth",
+            "choice_N1Gru4SEU": "It's the moment where the interaction makes an impression and the salesperson's chosen behavior is crucial"
+        }
+    }
+}

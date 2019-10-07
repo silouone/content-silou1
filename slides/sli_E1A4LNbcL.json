@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-18T09:51:44.175Z",
+            "updatedAt": "2019-04-18T09:51:44.175Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJYBcX-tU"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_E1A4LNbcL",
+        "universalRef": "sli_E1A4LNbcL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_E1A4LNbcL.choice_E1DBI4W9U.id",
+                        "label": "choice_E1DBI4W9U",
+                        "value": "choice_E1DBI4W9U"
+                    },
+                    {
+                        "id": "sli_E1A4LNbcL.choice_4kFPU4~9U.id",
+                        "label": "choice_4kFPU4~9U",
+                        "value": "choice_4kFPU4~9U"
+                    },
+                    {
+                        "id": "sli_E1A4LNbcL.choice_4ywuIEbqL.id",
+                        "label": "choice_4ywuIEbqL",
+                        "value": "choice_4ywuIEbqL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_E1DBI4W9U",
+                        "choice_4kFPU4~9U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are the benefits of project debriefing?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A good project debriefing can help you repeat successes and learn from mistakes.",
+            "tips": "When carrying out a project debrief, ask yourself the following questions: what happened during the project? What can we learn? What should we do differently next time?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1DBI4W9U": "Repeating successes",
+            "choice_4kFPU4~9U": "Learning from mistakes",
+            "choice_4ywuIEbqL": "Getting the team together"
+        },
+        "fr": {
+            "header": "Quels sont les bénéfices du compte-rendu de projet ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Un bon compte-rendu de projet peut vous aider à reproduire les succès et à apprendre des erreurs commises.",
+            "tips": "Lors du compte-rendu de projet, posez-vous les questions suivantes : que s'est-il passé pendant le projet ? Que pouvons-nous apprendre ? Que devrons-nous faire différemment la prochaine fois ?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1DBI4W9U": "Reproduire les succès",
+            "choice_4kFPU4~9U": "Apprendre des erreurs commises",
+            "choice_4ywuIEbqL": "Rassembler l'équipe"
+        },
+        "de": {
+            "header": "What are the benefits of project debriefing?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A good project debriefing can help you repeat successes and learn from mistakes.",
+            "tips": "When carrying out a project debrief, ask yourself the following questions: what happened during the project? What can we learn? What should we do differently next time?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1DBI4W9U": "Repeating successes",
+            "choice_4kFPU4~9U": "Learning from mistakes",
+            "choice_4ywuIEbqL": "Getting the team together"
+        },
+        "th": {
+            "header": "What are the benefits of project debriefing?",
+            "explanation": "Select the correct answers below.",
+            "klf": "A good project debriefing can help you repeat successes and learn from mistakes.",
+            "tips": "When carrying out a project debrief, ask yourself the following questions: what happened during the project? What can we learn? What should we do differently next time?",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1DBI4W9U": "Repeating successes",
+            "choice_4kFPU4~9U": "Learning from mistakes",
+            "choice_4ywuIEbqL": "Getting the team together"
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T09:37:57.163Z",
+            "updatedAt": "2019-04-10T09:37:57.163Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJCo5s6-I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_4yENViItL",
+        "universalRef": "sli_4yENViItL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4yENViItL.field_EkmYViIFI.id",
+                        "type": "text",
+                        "name": "inp22008"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp22008",
+                        "answers": [
+                            "choice_VyM7YEs8YL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should you absolutely avoid doing if you feel overwhelmed by work?",
+            "explanation": "Type your answer.",
+            "klf": "Communicating is key. Isolating yourself will only make your problems worse.",
+            "tips": "Businesses with effective communication practices are 50 percent more likely to lower their employee turnover.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Never {{inp22008}} yourself!",
+            "choice_VyM7YEs8YL": "isolate"
+        },
+        "fr": {
+            "header": "Que devez-vous absolument éviter de faire si vous vous sentez dépassé par le travail ?",
+            "explanation": "Tapez votre réponse.",
+            "klf": "La communication est la clé. Vous isoler ne fera qu'aggraver vos problèmes.",
+            "tips": "Les entreprises ayant des pratiques de communication efficaces ont 50% plus de chances de réduire leur roulement de personnel.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Ne jamais vous {{inp22008}} !",
+            "choice_VyM7YEs8YL": "isoler"
+        },
+        "de": {
+            "header": "What should you absolutely avoid doing if you feel overwhelmed by work?",
+            "explanation": "Type your answer.",
+            "klf": "Communicating is key. Isolating yourself will only make your problems worse.",
+            "tips": "Businesses with effective communication practices are 50 percent more likely to lower their employee turnover.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Never {{inp22008}} yourself!",
+            "choice_VyM7YEs8YL": "isolate"
+        },
+        "th": {
+            "header": "What should you absolutely avoid doing if you feel overwhelmed by work?",
+            "explanation": "Type your answer.",
+            "klf": "Communicating is key. Isolating yourself will only make your problems worse.",
+            "tips": "Businesses with effective communication practices are 50 percent more likely to lower their employee turnover.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Never {{inp22008}} yourself!",
+            "choice_VyM7YEs8YL": "isolate"
+        }
+    }
+}

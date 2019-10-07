@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-12T13:41:07.101Z",
+            "updatedAt": "2018-11-09T13:14:51.558Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VkriSwS5r"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_E1BqgqYcr",
+        "universalRef": "sli_E1BqgqYcr",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1BqgqYcr.choice_NygzAM9YcS.id",
+                        "label": "choice_NygzAM9YcS",
+                        "value": "choice_NygzAM9YcS",
+                        "media": "med_VkG0M9F5r"
+                    },
+                    {
+                        "id": "sli_E1BqgqYcr.choice_41lcAf9K5S.id",
+                        "label": "choice_41lcAf9K5S",
+                        "value": "choice_41lcAf9K5S",
+                        "media": "med_NJcAzqF9B"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41lcAf9K5S"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "A good and passionate leader ought to be vehement and hot-headed. These are true side effects of brilliance.",
+            "explanation": "Select the correct answer.",
+            "klf": "Self-regulation is a rather underrated skills. People who know how to have control over their emotions can be perceived as cold and dispassionate, whereas truly, this inclination is not at all disconnected from enthusiasm. These people are inclined towards reflection and thoughtfulness and are most likely to drive their team to the top.",
+            "tips": "Knowing how to self-regulate doesn't mean denying or repressing your negative emotions. It means being able to acknowledge their existence, and controlling their impact.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygzAM9YcS": "TRUE",
+            "choice_41lcAf9K5S": "FALSE"
+        },
+        "fr": {
+            "header": "Un leader compétent et passionné se doit d’être véhément et impétueux. Tels sont les effets secondaires chez une personne brillante.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "L’autodiscipline est une compétence plutôt sous-estimée. Les personnes qui savent contrôler leurs émotions peuvent être perçues comme des personnes froides et impassibles, alors qu’en réalité, cette aptitude n’empêche pas de se sentir enthousiaste. Ces personnes sont plutôt tournées vers la réflexion et l’attention et sont plus susceptibles de tirer leurs équipes vers le haut.",
+            "tips": "Être capable de s’autodiscipliner ne signifie pas nier ou réprimer ses émotions négatives. Cela signifie être capable de reconnaître leur existence, et contrôler leur impact.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygzAM9YcS": "Vrai",
+            "choice_41lcAf9K5S": "Faux"
+        },
+        "de": {
+            "header": "Ein guter und leidenschaftliche Führungskraft sollte vehement und scharfsinnig sein. Dies sind echte Nebenwirkungen vonBrillanz.",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Selbstregulierung ist eine eher unterschätzte Fähigkeit. Menschen, die wissen, wie sie ihre Emotionen kontrollieren können, können als kalt und leidenschaftslos wahrgenommen werden, während diese Neigung in keinster Weise von Begeisterung getrennt wird. Diese Leute neigen zu Nachdenken und Nachdenklichkeit und treiben ihr Team zu Spitzenleistungen an. ",
+            "tips": "Zu wissen, wie man sich selbst reguliert, bedeutet nicht, negative Emotionen zu leugnen oder zu unterdrücken. Es bedeutet, ihre Existenz anerkennen zu können und ihre Auswirkungen zu kontrollieren.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygzAM9YcS": "Richtig",
+            "choice_41lcAf9K5S": "Falsch"
+        },
+        "th": {
+            "header": "ผู้นำที่ดีและมีใจรักควรจะมีความกระตือรือร้นและใจร้อน นี่คือผลข้างเคียงที่แท้จริงของความฉลาดหลักแหลม",
+            "explanation": "เลือกคำตอบที่ถูกต้อง",
+            "klf": "การควบคุมตนเองเป็นทักษะที่คนไม่ค่อยเห็นความสำคัญ คนที่รู้จักวิธีการควบคุมอารมณ์ของตนได้ อาจถูกมองว่าเป็นคนเย็นชาและไร้อารมณ์ ซึ่งแท้ที่จริงแล้วการมีแนวโน้มเช่นนี้จะสัมพันธ์กับความกระตือรือร้นอยู่ คนเหล่านี้มักจะมีความคิดที่ลึกซึ้งถ่องแท้และรู้จักคิด และมีแนวโน้มที่จะพาทีมไปถึงจุดสูงสุดได้มากที่สุด",
+            "tips": "การรู้จักควบคุมตนเองไม่ได้หมายถึงการปฏิเสธหรือการเก็บกดอารมณ์ในทางลบของคุณ แต่หมายถึงความสามารถในการยอมรับว่ามีอารมณ์นั้นอยู่และควบคุมผลกระทบของอารมณ์นั้น",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygzAM9YcS": "จริง",
+            "choice_41lcAf9K5S": "เท็จ"
+        }
+    }
+}

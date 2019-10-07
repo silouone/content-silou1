@@ -1,0 +1,110 @@
+{
+    "_deleted": true,
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T10:02:59.069Z",
+            "updatedAt": "2019-04-23T10:03:55.007Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkY1s3w5I"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_VyqYJRPcI",
+        "universalRef": "sli_VyqYJRPcI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_VyqYJRPcI.choice_EkafbRvqI.id",
+                        "label": "choice_EkafbRvqI",
+                        "value": "choice_EkafbRvqI"
+                    },
+                    {
+                        "id": "sli_VyqYJRPcI.choice_NkkD~APqL.id",
+                        "label": "choice_NkkD~APqL",
+                        "value": "choice_NkkD~APqL"
+                    },
+                    {
+                        "id": "sli_VyqYJRPcI.choice_EJ9DW0PcU.id",
+                        "label": "choice_EJ9DW0PcU",
+                        "value": "choice_EJ9DW0PcU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJ9DW0PcU"
+                    ]
+                ]
+            }
+        },
+        "context": null
+    },
+    "locales": {
+        "en": {
+            "header": "‘Ah, I see you've booked a 3-days trip on our ship… Will you take the meals included pack or fish by yourselves? And have you thought of which rods you would need?’ In which order are those questions?",
+            "explanation": "Select the correct answers.",
+            "klf": "To help guide and control your customer’s interest, use rhetorical questions to confirm understanding, assumptive questions to create decisions, and leading questions to direct them towards a sale or solution.",
+            "tips": "XX",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkafbRvqI": "Rhetorical question + Leading question + Assumptive question",
+            "choice_NkkD~APqL": "Leading question + Assumptive question + Rhetorical question",
+            "choice_EJ9DW0PcU": "Rhetorical question + Assumptive question + Leading question"
+        },
+        "fr": {
+            "header": "«Ah, je vois que vous avez réservé un voyage de 3 jours sur notre bateau… Allez-vous prendre les repas inclus, à emporter ou pêcher par vous-même? Et avez-vous pensé aux cannes dont vous auriez besoin? »Dans quel ordre se trouvent ces questions?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Pour vous aider à guider et à contrôler les intérêts de vos clients, utilisez des questions rhétoriques pour confirmer votre compréhension, des questions hypothétiques pour prendre des décisions et des questions orientées pour les orienter vers une vente ou une solution.",
+            "tips": "XX",
+            "choice_EkafbRvqI": "Question rhétorique + question principale + question fictive",
+            "choice_NkkD~APqL": "Question principale + Question supposée + Question rhétorique",
+            "choice_EJ9DW0PcU": "Question rhétorique + Question supposée + Question principale",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "‘Ah, I see you've booked a 3-days trip on our ship… Will you take the meals included pack or fish by yourselves? And have you thought of which rods you would need?’ In which order are those questions?",
+            "explanation": "Select the correct answers.",
+            "klf": "To help guide and control your customer’s interest, use rhetorical questions to confirm understanding, assumptive questions to create decisions, and leading questions to direct them towards a sale or solution.",
+            "tips": "XX",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkafbRvqI": "Rhetorical question + Leading question + Assumptive question",
+            "choice_NkkD~APqL": "Leading question + Assumptive question + Rhetorical question",
+            "choice_EJ9DW0PcU": "Rhetorical question + Assumptive question + Leading question"
+        },
+        "th": {
+            "header": "‘Ah, I see you've booked a 3-days trip on our ship… Will you take the meals included pack or fish by yourselves? And have you thought of which rods you would need?’ In which order are those questions?",
+            "explanation": "Select the correct answers.",
+            "klf": "To help guide and control your customer’s interest, use rhetorical questions to confirm understanding, assumptive questions to create decisions, and leading questions to direct them towards a sale or solution.",
+            "tips": "XX",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EkafbRvqI": "Rhetorical question + Leading question + Assumptive question",
+            "choice_NkkD~APqL": "Leading question + Assumptive question + Rhetorical question",
+            "choice_EJ9DW0PcU": "Rhetorical question + Assumptive question + Leading question"
+        }
+    }
+}

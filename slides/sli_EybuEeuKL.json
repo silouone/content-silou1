@@ -1,0 +1,137 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-11T10:03:23.613Z",
+            "updatedAt": "2019-04-29T14:07:37.410Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ncHmEtI"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EybuEeuKL",
+        "universalRef": "sli_EybuEeuKL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EybuEeuKL.choice_Nkobsx-KU.id",
+                        "label": "choice_Nkobsx-KU",
+                        "value": "choice_Nkobsx-KU"
+                    },
+                    {
+                        "id": "sli_EybuEeuKL.choice_VJcNsgut8.id",
+                        "label": "choice_VJcNsgut8",
+                        "value": "choice_VJcNsgut8"
+                    },
+                    {
+                        "id": "sli_EybuEeuKL.choice_VkoNslutI.id",
+                        "label": "choice_VkoNslutI",
+                        "value": "choice_VkoNslutI"
+                    },
+                    {
+                        "id": "sli_EybuEeuKL.choice_Vkh4jgOtU.id",
+                        "label": "choice_Vkh4jgOtU",
+                        "value": "choice_Vkh4jgOtU"
+                    },
+                    {
+                        "id": "sli_EybuEeuKL.choice_4y4uJ~dKL.id",
+                        "label": "choice_4y4uJ~dKL",
+                        "value": "choice_4y4uJ~dKL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkoNslutI"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_NJWtlZuYL",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What advice can you give to the client to ensure both objectives are taken into consideration?",
+            "explanation": "Select the correct answer.",
+            "klf": "Be sure to tell people about the alternatives that are not quite right for them, before making your recommendation.",
+            "tips": "A usual sales technique is to put to the model to sell in a ‘sandwich’ between a cheaper model that doesn't quite correspond to the client's needs and a ‘dream’ model. This way, the model to sell looks like the right compromise in the client's eyes.",
+            "clue": "",
+            "context_title": "Pick me, pick me!",
+            "context_description": "You are a sales agent in a tech store. A client comes to you to buy a new computer. He describes his need: he will work mainly with the Office Pack and with social networks. He wants something intuitive, and also light and compact as he is often travelling. He has spotted 3 models so far: the budget option, a new mid-range product, and a classic model for tech geeks, which is the most expensive. However, he has a slight preference for the budget option. <br><br/>On your side, you have to ensure your advice is relevant for his need on the one hand, and to keep in mind your upsell objective on the other hand.",
+            "context_media_description": "",
+            "choice_Nkobsx-KU": "The budget option is no good, really. It's slow and heavy, and it looks cheap, to be honest. Take any other model but this one.",
+            "choice_VJcNsgut8": "I always tend to go for the budget option myself... so I'd get it if you chose this one. It's up to you, but think twice!",
+            "choice_VkoNslutI": "The budget option would work for occasional use, but in your case, you'd want higher speed and better ergonomics. The new mid-range model would better suit your needs.",
+            "choice_Vkh4jgOtU": "Have another look at this new model we have. Don't you think it's wonderful? It's got everything you need, so don't think twice!",
+            "choice_4y4uJ~dKL": "Our two other models are alright, but our classic model is even better. It's heavier, but it's perfect for coding and watching Netflix.",
+            "choice_E17ARedt8": "Our classic model is a best-seller in the tech world. Should you want to learn to code one day or watch movies in HD, it will have it all!"
+        },
+        "fr": {
+            "header": "Quel conseil pouvez-vous donner au client pour vous assurer que les deux objectifs soient pris en compte ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Assurez-vous de présenter aux gens des solutions qui ne sont pas vraiment adaptées à leur besoin, avant de faire votre propre recommandation.",
+            "tips": "Une technique de vente courante consiste à présenter le modèle que l'on souhaite vendre dans un « sandwich », entre un modèle moins cher ne correspondant pas tout à fait aux besoins du client et un modèle de « rêve ». De cette façon, le modèle à vendre semble être un bon compromis aux yeux du client.",
+            "clue": "",
+            "context_title": "Choisissez-moi, choisissez-moi !",
+            "context_description": "Vous êtes vendeur dans un magasin de produits high-tech. Un client vient vers vous pour acheter un nouvel ordinateur. Il décrit son besoin : il travaillera principalement avec le Pack Office et les réseaux sociaux. Il veut quelque chose d'intuitif, de léger et de compact, car il voyage souvent. Il a repéré 3 modèles : l’option la plus économique, un nouveau produit de milieu de gamme et un modèle classique pour les « geeks » de la technologie, qui est le plus cher. Cependant, il a une légère préférence pour l'option la plus économique. <br><br/> De votre côté, vous devez vous assurer que vos conseils sont adaptés à ses besoins, tout en gardant à l’esprit votre objectif de vente additionnelle.",
+            "context_media_description": "",
+            "choice_Nkobsx-KU": "L'option la plus économique n'est vraiment pas bonne. Pour être tout à fait honnête, l'ordinateur est lent, lourd, et a l'air bon marché. Prenez n'importe quel autre modèle.",
+            "choice_VJcNsgut8": "J'ai moi-même toujours tendance à choisir l'option la plus économique... alors je comprendrais que vous choisissiez celle-ci. C'est à vous de décider, mais réfléchissez-y à deux fois !",
+            "choice_VkoNslutI": "L'option la plus économique convient à une utilisation occasionnelle, mais dans votre cas, vous aurez besoin de plus de vitesse et d'une meilleure ergonomie. Le nouveau modèle de milieu de gamme conviendrait mieux à vos besoins.",
+            "choice_Vkh4jgOtU": "Jetez un autre coup d'oeil au nouveau modèle que nous avons. Vous ne le trouvez pas super ? Il a tout ce dont vous avez besoin, alors n'hésitez plus !",
+            "choice_4y4uJ~dKL": "Nos deux autres modèles sont corrects, mais notre modèle classique est encore mieux. Il est plus lourd, mais parfait pour coder et regarder Netflix.",
+            "choice_E17ARedt8": ""
+        },
+        "de": {
+            "header": "What advice can you give to the client to ensure both objectives are taken into consideration?",
+            "explanation": "Select the correct answer.",
+            "klf": "Be sure to tell people about the alternatives that are not quite right for them, before making your recommendation.",
+            "tips": "A usual sales technique is to put to the model to sell in a ‘sandwich’ between a cheaper model that doesn't quite correspond to the client's needs and a ‘dream’ model. This way, the model to sell looks like the right compromise in the client's eyes.",
+            "clue": "",
+            "context_title": "Pick me, pick me!",
+            "context_description": "You are a sales agent in a tech store. A client comes to you to buy a new computer. He describes his need: he will work mainly with the Office Pack and with social networks. He wants something intuitive, and also light and compact as he is often travelling. He has spotted 3 models so far: the budget option, a new mid-range product, and a classic model for tech geeks, which is the most expensive. However, he has a slight preference for the budget option. \n<br/>On your side, you have to ensure your advice is relevant for his need on the one hand, and to keep in mind your upsell objective on the other hand.",
+            "context_media_description": "",
+            "choice_Nkobsx-KU": "The budget option is no good, really. It's slow and heavy, and it looks cheap, to be honest. Take any other model but this one.",
+            "choice_VJcNsgut8": "I always tend to go for the budget option myself... so I'd get it if you chose this one. It's up to you, but think twice!",
+            "choice_VkoNslutI": "The budget option would work for occasional use, but in your case, you'd want higher speed and better ergonomics. The new mid-range model would better suit your needs.",
+            "choice_Vkh4jgOtU": "Have another look at this new model we have. Don't you think it's wonderful? It's got everything you need, so don't think twice!",
+            "choice_4y4uJ~dKL": "Our two other models are alright, but our classic model is even better. It's heavier, but it's perfect for coding and watching Netflix.",
+            "choice_E17ARedt8": ""
+        },
+        "th": {
+            "header": "What advice can you give to the client to ensure both objectives are taken into consideration?",
+            "explanation": "Select the correct answer.",
+            "klf": "Be sure to tell people about the alternatives that are not quite right for them, before making your recommendation.",
+            "tips": "A usual sales technique is to put to the model to sell in a ‘sandwich’ between a cheaper model that doesn't quite correspond to the client's needs and a ‘dream’ model. This way, the model to sell looks like the right compromise in the client's eyes.",
+            "clue": "",
+            "context_title": "Pick me, pick me!",
+            "context_description": "You are a sales agent in a tech store. A client comes to you to buy a new computer. He describes his need: he will work mainly with the Office Pack and with social networks. He wants something intuitive, and also light and compact as he is often travelling. He has spotted 3 models so far: the budget option, a new mid-range product, and a classic model for tech geeks, which is the most expensive. However, he has a slight preference for the budget option. <br><br/>On your side, you have to ensure your advice is relevant for his need on the one hand, and to keep in mind your upsell objective on the other hand.",
+            "context_media_description": "",
+            "choice_Nkobsx-KU": "The budget option is no good, really. It's slow and heavy, and it looks cheap, to be honest. Take any other model but this one.",
+            "choice_VJcNsgut8": "I always tend to go for the budget option myself... so I'd get it if you chose this one. It's up to you, but think twice!",
+            "choice_VkoNslutI": "The budget option would work for occasional use, but in your case, you'd want higher speed and better ergonomics. The new mid-range model would better suit your needs.",
+            "choice_Vkh4jgOtU": "Have another look at this new model we have. Don't you think it's wonderful? It's got everything you need, so don't think twice!",
+            "choice_4y4uJ~dKL": "Our two other models are alright, but our classic model is even better. It's heavier, but it's perfect for coding and watching Netflix.",
+            "choice_E17ARedt8": "Our classic model is a best-seller in the tech world. Should you want to learn to code one day or watch movies in HD, it will have it all!"
+        }
+    }
+}

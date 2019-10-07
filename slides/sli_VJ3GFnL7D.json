@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-09T19:32:47.513Z",
+            "updatedAt": "2019-09-03T09:11:34.123Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny8VckEmD"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_VJ3GFnL7D",
+        "universalRef": "sli_VJ3GFnL7D",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel69017",
+                        "items": [
+                            {
+                                "text": "choice_NJlXIYn8Xv",
+                                "value": "choice_NJlXIYn8Xv"
+                            },
+                            {
+                                "text": "choice_Vy~m8FhLXv",
+                                "value": "choice_Vy~m8FhLXv"
+                            },
+                            {
+                                "text": "choice_EyCwF2IXv",
+                                "value": "choice_EyCwF2IXv"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel69017",
+                        "answers": [
+                            "choice_EyCwF2IXv"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which benefits should you highlight to the customer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "There's no point in reeling off a list of features if they don't mean anything to the customer. Let them know what benefits they will receive, and make sure they are relevant and meet their needs.",
+            "tips": "Remember: don't address benefits that aren't recognized as such by your client. Of course, you need to listen to your customer and finely identify their need to be able to draw that line!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel69017}}",
+            "choice_NJlXIYn8Xv": "Every single benefit",
+            "choice_Vy~m8FhLXv": "The most technically advanced ones",
+            "choice_EyCwF2IXv": "The most relevant ones"
+        },
+        "fr": {
+            "header": "Quels avantages devriez-vous mettre en évidence pour le client?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Il ne sert à rien d'en extraire une liste de fonctionnalités si elles ne signifient rien pour le client. Dites-leur quels avantages ils vont recevoir et assurez-vous qu’ils sont pertinents et répondent à leurs besoins.",
+            "tips": "N'oubliez pas: ne parlez pas des avantages qui ne sont pas reconnus comme tels par votre client. Bien sûr, vous devez écouter votre client et identifier avec précision son besoin de pouvoir tracer cette ligne!",
+            "template": "{{sel69017}}",
+            "choice_NJlXIYn8Xv": "Chaque avantage",
+            "choice_Vy~m8FhLXv": "Les plus avancés techniquement",
+            "choice_EyCwF2IXv": "Les plus pertinents",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Which benefits should you highlight to the customer?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "There's no point in reeling off a list of features if they don't mean anything to the customer. Let them know what benefits they will receive, and make sure they are relevant and meet their needs.",
+            "tips": "Remember: don't address benefits that aren't recognized as such by your client. Of course, you need to listen to your customer and finely identify their need to be able to draw that line!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel69017}}",
+            "choice_NJlXIYn8Xv": "Every single benefit",
+            "choice_Vy~m8FhLXv": "The most technically advanced ones",
+            "choice_EyCwF2IXv": "The most relevant ones"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel69017}}",
+            "choice_NJlXIYn8Xv": "",
+            "choice_Vy~m8FhLXv": "",
+            "choice_EyCwF2IXv": ""
+        }
+    }
+}

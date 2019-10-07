@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-18T14:32:50.112Z",
+            "updatedAt": "2019-04-18T14:32:50.112Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJYBcX-tU"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_E1EkvOZqI",
+        "universalRef": "sli_E1EkvOZqI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_E1EkvOZqI.choice_NJl-yPdWqU.id",
+                        "label": "choice_NJl-yPdWqU",
+                        "value": "choice_NJl-yPdWqU",
+                        "media": "med_EJukvOZ98"
+                    },
+                    {
+                        "id": "sli_E1EkvOZqI.choice_VkxLpw-Z9I.id",
+                        "label": "choice_VkxLpw-Z9I",
+                        "value": "choice_VkxLpw-Z9I",
+                        "media": "med_VJUpvOb58"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VkxLpw-Z9I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "While debriefing on a successful project, you should only talk about what went well, without mentioning things that could have been improved. Otherwise it will discourage the employees. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "While debriefing on a project, don't be afraid to talk about the negative aspects of the work done. Otherwise, people will not learn from their mistakes!",
+            "tips": "Constantly forcing negative thoughts out of our heads can backfire on us. If we think positive exclusively, we will never be driven to change things for the better!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl-yPdWqU": "TRUE",
+            "choice_VkxLpw-Z9I": "FALSE"
+        },
+        "fr": {
+            "header": "Lors d'un compte-rendu sur un projet réussi, vous ne devez parler que de ce qui a bien fonctionné sans mentionner les améliorations qui auraient pu être apportées. Sinon, cela découragera les employés. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lors d'un compte-rendu de projet, n'ayez pas peur de parler des aspects négatifs du travail effectué. Sinon, les gens n'apprendront pas de leurs erreurs !",
+            "tips": "Balayer constamment les pensées négatives de notre esprit peut se retourner contre nous. Si nous pensons exclusivement au positif, nous ne serons jamais poussés à améliorer les choses !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl-yPdWqU": "Vrai",
+            "choice_VkxLpw-Z9I": "Faux"
+        },
+        "de": {
+            "header": "While debriefing on a successful project, you should only talk about what went well, without mentioning things that could have been improved. Otherwise it will discourage the employees. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "While debriefing on a project, don't be afraid to talk about the negative aspects of the work done. Otherwise, people will not learn from their mistakes!",
+            "tips": "Constantly forcing negative thoughts out of our heads can backfire on us. If we think positive exclusively, we will never be driven to change things for the better!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl-yPdWqU": "True",
+            "choice_VkxLpw-Z9I": "False"
+        },
+        "th": {
+            "header": "While debriefing on a successful project, you should only talk about what went well, without mentioning things that could have been improved. Otherwise it will discourage the employees. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "While debriefing on a project, don't be afraid to talk about the negative aspects of the work done. Otherwise, people will not learn from their mistakes!",
+            "tips": "Constantly forcing negative thoughts out of our heads can backfire on us. If we think positive exclusively, we will never be driven to change things for the better!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJl-yPdWqU": "TRUE",
+            "choice_VkxLpw-Z9I": "FALSE"
+        }
+    }
+}

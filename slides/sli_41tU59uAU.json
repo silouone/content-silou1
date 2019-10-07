@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-11T13:35:31.620Z",
+            "updatedAt": "2019-06-28T12:55:24.182Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey7-L8OAL"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_41tU59uAU",
+        "universalRef": "sli_41tU59uAU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel59088",
+                        "items": [
+                            {
+                                "text": "choice_Eylzshqu0I",
+                                "value": "choice_Eylzshqu0I"
+                            },
+                            {
+                                "text": "choice_VkWGohq-R8",
+                                "value": "choice_VkWGohq-R8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel59088",
+                        "answers": [
+                            "choice_Eylzshqu0I"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_4kBfTcdAU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "’You're a smart guy, Oliver. What are you going to do to adjust that limiting factor?’",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When one of your department doesn't follow the targeted objectives, one solution is to negotiate with the concerned department to align it with your budget.",
+            "tips": "From a certain perspective, one can interpret this strategy as a big ’struggle for life’ system between working departments. But one can also see this as an effective way to level standards upwards… And your point of view probably depends on your current professional position!",
+            "clue": "",
+            "context_title": "The Weakest Link",
+            "context_description": "_ ’And here comes the annual budget, boss!<br/>_ Well done, Oliver, and right on time! Could you brief me in 2 minutes?<br/>_ Sure…um…well… for each week, we can distribute and sell 8000 cases, but can only produce 3500 cases.<br/>_ So production is our limiting factor…’",
+            "context_media_description": "",
+            "template": "{{sel59088}}",
+            "choice_Eylzshqu0I": "Negotiate to boost production",
+            "choice_VkWGohq-R8": "Adapt all budget to the limiting factor"
+        },
+        "fr": {
+            "header": "« Vous êtes quelqu'un d'intelligent, Oliver. Qu'allez-vous faire pour ajuster ce facteur limitant ? »",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Lorsque l'un de vos départements ne respecte pas les objectifs fixés, une des solutions consiste à négocier avec le département concerné pour l'aligner sur votre budget.",
+            "tips": "D'un certain point de vue, on peut interpréter cette stratégie comme un grand système de « lutte pour la vie » entre départements actifs. Mais on peut aussi y voir un moyen efficace de niveler les normes par le haut… Et votre point de vue dépend probablement de votre situation professionnelle actuelle !",
+            "clue": "",
+            "context_title": "Le maillon faible",
+            "context_description": "_ « Et voici le budget annuel, patron !<br/>_ Bravo, Oliver, et pile à l'heure ! Pourriez-vous me briefer en 2 minutes ?<br/>_ Bien sûr… euh… eh bien… chaque semaine, nous pouvons distribuer et vendre 8 000 caisses, mais nous ne pouvons en produire que 3 500.<br/>_ Donc, la production est notre facteur limitant... »",
+            "context_media_description": "",
+            "template": "{{sel59088}}",
+            "choice_Eylzshqu0I": "Négocier pour augmenter la production",
+            "choice_VkWGohq-R8": "Adapter tout le budget au facteur limitant"
+        },
+        "de": {
+            "header": "’You're a smart guy, Oliver. What are you going to do to adjust that limiting factor?’",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When one of your department doesn't follow the targeted objectives, one solution is to negotiate with the concerned department to align it with your budget.",
+            "tips": "From a certain perspective, one can interpret this strategy as a big ’struggle for life’ system between working departments. But one can also see this as an effective way to level standards upwards… And your point of view probably depends on your current professional position!",
+            "clue": "",
+            "context_title": "The Weakest Link",
+            "context_description": "_ ’And here comes the annual budget, boss!\n_ Well done, Oliver, and right on time! Could you brief me in 2 minutes?\n_ Sure…um…well… for each week, we can distribute and sell 8000 cases, but can only produce 3500 cases.\n_ So production is our limiting factor…’",
+            "context_media_description": "",
+            "template": "{{sel59088}}",
+            "choice_Eylzshqu0I": "Negotiate to boost production",
+            "choice_VkWGohq-R8": "Adapt all budget to the limiting factor"
+        },
+        "th": {
+            "header": "’You're a smart guy, Oliver. What are you going to do to adjust that limiting factor?’",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "When one of your department doesn't follow the targeted objectives, one solution is to negotiate with the concerned department to align it with your budget.",
+            "tips": "From a certain perspective, one can interpret this strategy as a big ’struggle for life’ system between working departments. But one can also see this as an effective way to level standards upwards… And your point of view probably depends on your current professional position!",
+            "clue": "",
+            "context_title": "The Weakest Link",
+            "context_description": "_ ’And here comes the annual budget, boss!\n_ Well done, Oliver, and right on time! Could you brief me in 2 minutes?\n_ Sure…um…well… for each week, we can distribute and sell 8000 cases, but can only produce 3500 cases.\n_ So production is our limiting factor…’",
+            "context_media_description": "",
+            "template": "{{sel59088}}",
+            "choice_Eylzshqu0I": "Negotiate to boost production",
+            "choice_VkWGohq-R8": "Adapt all budget to the limiting factor"
+        }
+    }
+}

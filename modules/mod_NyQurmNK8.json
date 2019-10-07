@@ -1,0 +1,67 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T11:55:06.238Z",
+            "updatedAt": "2019-05-28T08:46:57.846Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-06-08T11:53:54.227Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_V1EDS7VFU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "mod_NyQurmNK8",
+        "universalRef": "mod_NyQurmNK8",
+        "level": 2,
+        "draft": true,
+        "position": 0,
+        "timeAlloted": 10,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_EJeNgsKYL",
+            "skill_41bEgiYKL"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        },
+        "creditsToAccess": 1
+    },
+    "locales": {
+        "en": {
+            "skill_EJeNgsKYL": "Give legitimacy to your arguments through comparison",
+            "skill_41bEgiYKL": "Understand why too many arguments can hurt your case"
+        },
+        "fr": {
+            "skill_EJeNgsKYL": "Donner de la légitimité à vos arguments grâce à la comparaison",
+            "skill_41bEgiYKL": "Comprendre pourquoi trop d'arguments peuvent nuire à votre cause"
+        },
+        "de": {
+            "skill_EJeNgsKYL": "Give legitimacy to your arguments through comparison",
+            "skill_41bEgiYKL": "Understand why too many arguments can hurt your case"
+        },
+        "th": {
+            "skill_EJeNgsKYL": "Give legitimacy to your arguments through comparison",
+            "skill_41bEgiYKL": "Understand why too many arguments can hurt your case"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T14:52:22.886Z",
+            "updatedAt": "2018-11-09T11:22:25.574Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkziTzV5H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_V1-gRUNqS",
+        "universalRef": "sli_V1-gRUNqS",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1-gRUNqS.choice_NyjWCUE5B.id",
+                        "label": "choice_NyjWCUE5B",
+                        "value": "choice_NyjWCUE5B"
+                    },
+                    {
+                        "id": "sli_V1-gRUNqS.choice_NJTb08V9r.id",
+                        "label": "choice_NJTb08V9r",
+                        "value": "choice_NJTb08V9r"
+                    },
+                    {
+                        "id": "sli_V1-gRUNqS.choice_VJCbAUEqS.id",
+                        "label": "choice_VJCbAUEqS",
+                        "value": "choice_VJCbAUEqS"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJTb08V9r"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can making lists reduce stress when you have a high workload?",
+            "explanation": "Select the correct answer.",
+            "klf": "The human mind is a marvel, but it’s a terrible device for storing lists of information. Making lists will immediately relieve you from the stress of maybe forgetting something, even before you tackle the tasks.",
+            "tips": "Try to keep your to-do list short: if tasks aren't really necessary, put them at the bottom of your list or remove them entirely.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjWCUE5B": "Making lists triggers endorphins to be released by your brain and rewards productive behaviour",
+            "choice_NJTb08V9r": "Lists relieve the brain of the pressure to remember tasks, and provides order and structure to a mass of jobs that can seem overwhelming",
+            "choice_VJCbAUEqS": "Making lists reduces your workload"
+        },
+        "fr": {
+            "header": "Comment les listes réduisent-elles le stress en cas de grosse charge de travail ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Même si l’esprit humain est prodigieux, il est également peu fiable quand il s’agit de stocker des listes d’informations. Faire des listes atténue immédiatement le stress d’oublier quelque chose, avant même de vous atteler aux tâches à accomplir.",
+            "tips": "Veillez à faire une liste de tâches réduite : si certaines tâches ne sont pas nécessaires, placez-les tout en bas de la liste ou retirez-les.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjWCUE5B": "Faire des listes déclenche la libération d’endorphines par votre cerveau et récompense un comportement productif",
+            "choice_NJTb08V9r": "Les listes libèrent le cerveau de la pression de se souvenir des tâches à effectuer, et permet d’organiser et de structurer une masse de travail qui pourrait sembler insurmontable",
+            "choice_VJCbAUEqS": "Dresser des listes permet de réduire votre charge de travail"
+        },
+        "de": {
+            "header": "Wie kann das Erstellen von Listen den Stress reduzieren, wenn Sie eine hohe Arbeitsbelastung haben?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Der menschliche Geist ist ein Wunder, aber er ist ein schreckliches Gerät zum Speichern von Informationslisten. Das Erstellen von Listen entlastet Sie sofort, bevor Sie die Aufgaben erledigen.",
+            "tips": "Versuchen Sie, Ihre To-Do-Liste kurz zu halten: Wenn Aufgaben nicht wirklich notwendig sind, setzen Sie sie an den Ende Ihrer Liste oder entfernen Sie sie vollständig.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjWCUE5B": "Das Erstellen von Listen löst Endorphine aus, die von Ihrem Gehirn freigesetzt werden, und belohnt produktives Verhalten",
+            "choice_NJTb08V9r": "Listen entlasten den Kopf, um sich an Aufgaben zu erinnern, und sorgen für Ordnung und Struktur für eine Menge von Jobs, die überwältigend wirken können",
+            "choice_VJCbAUEqS": "Listen zu erstellen reduziert Ihre Arbeitsbelastung"
+        },
+        "th": {
+            "header": "How can making lists reduce stress when you have a high workload?",
+            "explanation": "Select the correct answer.",
+            "klf": "The human mind is a marvel, but it’s a terrible device for storing lists of information. Making lists will immediately relieve you from the stress of maybe forgetting something, even before you tackle the tasks.",
+            "tips": "Try to keep your to-do list short: if tasks aren't really necessary, put them at the bottom of your list or remove them entirely.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NyjWCUE5B": "Making lists triggers endorphins to be released by your brain and rewards productive behaviour",
+            "choice_NJTb08V9r": "Lists relieve the brain of the pressure to remember tasks, and provides order and structure to a mass of jobs that can seem overwhelming",
+            "choice_VJCbAUEqS": "Making lists reduces your workload"
+        }
+    }
+}

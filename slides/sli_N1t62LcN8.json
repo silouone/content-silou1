@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T12:44:28.116Z",
+            "updatedAt": "2019-03-27T17:54:11.530Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EymR0grV8"
+            ],
+            "status": "draft",
+            "modifiedBy": "LaurenceMD",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_N1t62LcN8",
+        "universalRef": "sli_N1t62LcN8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_N1t62LcN8.choice_NygGGTI5EU.id",
+                        "label": "choice_NygGGTI5EU",
+                        "value": "choice_NygGGTI5EU",
+                        "media": "med_NJGMpI9VU"
+                    },
+                    {
+                        "id": "sli_N1t62LcN8.choice_VJMAX6L5EU.id",
+                        "label": "choice_VJMAX6L5EU",
+                        "value": "choice_VJMAX6L5EU",
+                        "media": "med_41WCQpUcV8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJMAX6L5EU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You need to be in the right mood  to carry out a task. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The 'Get Motivated! industry' perpetuates the false idea that you need to be in the right mood to carry out a task. You don't.",
+            "tips": "The <i>Getting Things Done</i> methodology, from David Allen's Besteller, iss now a registered trademark, and a concept used in many working organizations: for instance, a new software can be 'GTD compatible', or not.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGGTI5EU": "TRUE",
+            "choice_VJMAX6L5EU": "FALSE"
+        },
+        "fr": {
+            "header": "Vous devez être de bonne humeur pour mener à bien une tâche. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "L'industrie du « Soyez motivé ! » perpétue la fausse idée selon laquelle il faut être de la bonne humeur pour mener à bien une tâche. Vous pas.",
+            "tips": "La méthodologie <i>Getting Things Done</i>, tirée du bestseller de David Allen, est maintenant une marque déposée et un concept utilisé dans de nombreuses entreprises : par exemple, un nouveau logiciel peut être « GTD compatible », ou pas.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGGTI5EU": "Vrai",
+            "choice_VJMAX6L5EU": "Faux"
+        },
+        "de": {
+            "header": "Sie müssen in der richtigen Stimmung sein, um eine Aufgabe auszuführen. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Die \"Werden Sie motiviert Industrie\" vertritt die falsche Vorstellung, dass Sie in der richtigen Stimmung sein müssen, um eine Aufgabe auszuführen. Müssen Sie nicht",
+            "tips": "Die <i>Getting Things Done-</i> Methodik von David Allen's Besteller ist jetzt eine eingetragene Marke und ein Konzept, das in vielen Arbeitsorganisationen verwendet wird: Zum Beispiel kann eine neue Software \"GTD-kompatibel\" sein oder nicht.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGGTI5EU": "Wahr",
+            "choice_VJMAX6L5EU": "Falsch"
+        },
+        "th": {
+            "header": "You need to be in the right mood  to carry out a task. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "The 'Get Motivated! industry' perpetuates the false idea that you need to be in the right mood to carry out a task. You don't.",
+            "tips": "The <i>Getting Things Done</i> methodology, from David Allen's Besteller, iss now a registered trademark, and a concept used in many working organizations: for instance, a new software can be 'GTD compatible', or not.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NygGGTI5EU": "TRUE",
+            "choice_VJMAX6L5EU": "FALSE"
+        }
+    }
+}

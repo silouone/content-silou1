@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-08T16:17:51.371Z",
+            "updatedAt": "2019-03-08T16:17:51.371Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Nym~TEsU8"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_Vy4F5-sII",
+        "universalRef": "sli_Vy4F5-sII",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50574",
+                        "items": [
+                            {
+                                "text": "choice_NJxwojdi8U",
+                                "value": "choice_NJxwojdi8U"
+                            },
+                            {
+                                "text": "choice_EkZDis-i88",
+                                "value": "choice_EkZDis-i88"
+                            },
+                            {
+                                "text": "choice_4kVcndi88",
+                                "value": "choice_4kVcndi88"
+                            },
+                            {
+                                "text": "choice_41ewpuj8L",
+                                "value": "choice_41ewpuj8L"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50574",
+                        "answers": [
+                            "choice_NJxwojdi8U"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the first thing you should do when dealing with absenteeism?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The first step to solving an absenteeism problem is to realise there is one.",
+            "tips": "To calculate the absenteeism rate for your company, take the number of workdays lost to absenteeism and divide it by the total number of available workdays. It should be expressed as a percentage.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should always start by {{sel50574}}.",
+            "choice_NJxwojdi8U": "acknowledging the problem",
+            "choice_EkZDis-i88": "ringing the employee's doorbell",
+            "choice_4kVcndi88": "shouting at everyone in the office",
+            "choice_41ewpuj8L": "ignoring the problem"
+        },
+        "fr": {
+            "header": "Quelle est la première chose à faire face à l’absentéisme ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La première étape pour résoudre un problème d’absentéisme est de réaliser qu’il y en a un.",
+            "tips": "Pour calculer le taux d'absentéisme de votre entreprise, divisez le nombre de jours de travail perdus du fait de l'absentéisme et divisez-le par le nombre total de jours de travail disponibles. Il devrait être exprimé en pourcentage.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous devriez toujours commencer par {{sel50574}}.",
+            "choice_NJxwojdi8U": "reconnaître le problème",
+            "choice_EkZDis-i88": "sonner à la porte de l'employé ",
+            "choice_4kVcndi88": "crier sur tout le monde au bureau",
+            "choice_41ewpuj8L": "ignorer le problème"
+        },
+        "de": {
+            "header": "What is the first thing you should do when dealing with absenteeism?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The first step to solving an absenteeism problem is to realise there is one.",
+            "tips": "To calculate the absenteeism rate for your company, take the number of workdays lost to absenteeism and divide it by the total number of available workdays. It should be expressed as a percentage.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should always start by {{sel50574}}.",
+            "choice_NJxwojdi8U": "acknowledging the problem",
+            "choice_EkZDis-i88": "ringing the employee's doorbell",
+            "choice_4kVcndi88": "shouting at everyone in the office",
+            "choice_41ewpuj8L": "ignoring the problem"
+        },
+        "th": {
+            "header": "What is the first thing you should do when dealing with absenteeism?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The first step to solving an absenteeism problem is to realise there is one.",
+            "tips": "To calculate the absenteeism rate for your company, take the number of workdays lost to absenteeism and divide it by the total number of available workdays. It should be expressed as a percentage.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You should always start by {{sel50574}}.",
+            "choice_NJxwojdi8U": "acknowledging the problem",
+            "choice_EkZDis-i88": "ringing the employee's doorbell",
+            "choice_4kVcndi88": "shouting at everyone in the office",
+            "choice_41ewpuj8L": "ignoring the problem"
+        }
+    }
+}

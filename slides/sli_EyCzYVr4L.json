@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-07T15:09:58.538Z",
+            "updatedAt": "2019-02-15T15:40:59.860Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1QxRJHE8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EyCzYVr4L",
+        "universalRef": "sli_EyCzYVr4L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EyCzYVr4L.choice_Nyef4YNSN8.id",
+                        "label": "choice_Nyef4YNSN8",
+                        "value": "choice_Nyef4YNSN8",
+                        "media": "med_E1M4YVB4L"
+                    },
+                    {
+                        "id": "sli_EyCzYVr4L.choice_VkgS4tVHNL.id",
+                        "label": "choice_VkgS4tVHNL",
+                        "value": "choice_VkgS4tVHNL",
+                        "media": "med_E1SEtErNU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Nyef4YNSN8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? People usually like to affiliate with others.",
+            "explanation": "Select the correct answer.",
+            "klf": "People have a fundamental need to connect with others. To be more influential, you need to be more human and affiliate with people.",
+            "tips": "In order to connect with employees, it is better to be authentic rather than to try to look perfect. Employees want to follow a real person, someone they feel they know and understand.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyef4YNSN8": "TRUE",
+            "choice_VkgS4tVHNL": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Les gens aiment généralement s'associer à d'autres.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les gens ont un besoin fondamental de se connecter aux autres. Pour avoir plus d'influence, vous devez être plus humain et vous associer à d'autres personnes.",
+            "tips": "Pour communiquer avec les employés, il vaut mieux être authentique que d'essayer de paraître parfait. Les employés veulent suivre une personne réelle, une personne qu’ils estiment connaître et comprendre.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyef4YNSN8": "Vrai",
+            "choice_VkgS4tVHNL": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Die Leute mögen sich normalerweise mit anderen zusammenschließen.",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Menschen haben ein grundlegendes Bedürfnis, sich mit anderen zu verbinden. Um einflussreicher zu sein, müssen Sie menschlicher und verbundener sein.",
+            "tips": "Um mit den Mitarbeitern in Kontakt zu treten, ist es besser, authentisch zu sein als zu versuchen, perfekt auszusehen. Mitarbeiter möchten einer realen Person folgen, einer Person, die sie zu kennen und zu verstehen glaubt.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyef4YNSN8": "Wahr",
+            "choice_VkgS4tVHNL": "Falsch"
+        },
+        "th": {
+            "header": "True or false? People usually like to affiliate with others.",
+            "explanation": "Select the correct answer.",
+            "klf": "People have a fundamental need to connect with others. To be more influential, you need to be more human and affiliate with people.",
+            "tips": "In order to connect with employees, it is better to be authentic rather than to try to look perfect. Employees want to follow a real person, someone they feel they know and understand.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nyef4YNSN8": "TRUE",
+            "choice_VkgS4tVHNL": "FALSE"
+        }
+    }
+}

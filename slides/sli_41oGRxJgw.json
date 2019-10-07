@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-28T13:04:59.637Z",
+            "updatedAt": "2019-06-28T13:26:52.828Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VyOD-xoRI"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_41oGRxJgw",
+        "universalRef": "sli_41oGRxJgw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41oGRxJgw.choice_NklimJZkgD.id",
+                        "label": "choice_NklimJZkgD",
+                        "value": "choice_NklimJZkgD",
+                        "media": "med_NJsm1Wyxv"
+                    },
+                    {
+                        "id": "sli_41oGRxJgw.choice_41lx4kb1xP.id",
+                        "label": "choice_41lx4kb1xP",
+                        "value": "choice_41lx4kb1xP",
+                        "media": "med_N1x4y~1lP"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41lx4kb1xP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In business, context is most of the time about names, relationships and behaviours. That's why it can't really impact your turnover or any important figure. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! Context is always important. Not communicating on the language spoken by a client can entail huge misunderstandings. And you don't want any of these with your clients.",
+            "tips": "There is a growing consensus that any model of work motivation should include the underlying process variables that explain how goals affect work motivation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklimJZkgD": "True",
+            "choice_41lx4kb1xP": "False"
+        },
+        "fr": {
+            "header": "En affaires, le contexte est la plupart du temps axé sur les noms, les relations et les comportements. C'est pourquoi cela n'a pas vraiment d'impact sur votre chiffre d'affaires ou sur tout autre chiffre important. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Faux ! Le contexte est toujours important. Ne pas communiquer avec le même langage qu'un client peut entraîner d’énormes malentendus. Et vous ne voulez surtout pas de ça avec vos clients.",
+            "tips": "Il y a un consensus croissant selon lequel tout modèle de motivation au travail devrait inclure des variables de processus sous-jacentes qui expliquent comment les objectifs affectent la motivation au travail.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklimJZkgD": "Vrai",
+            "choice_41lx4kb1xP": "Faux"
+        },
+        "de": {
+            "header": "In business, context is most of the time about names, relationships and behaviours. That's why it can't really impact your turnover or any important figure. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! Context is always important. Not communicating on the language spoken by a client can entail huge misunderstandings. And you don't want any of these with your clients.",
+            "tips": "There is a growing consensus that any model of work motivation should include the underlying process variables that explain how goals affect work motivation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklimJZkgD": "True",
+            "choice_41lx4kb1xP": "False"
+        },
+        "th": {
+            "header": "In business, context is most of the time about names, relationships and behaviours. That's why it can't really impact your turnover or any important figure. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "False! Context is always important. Not communicating on the language spoken by a client can entail huge misunderstandings. And you don't want any of these with your clients.",
+            "tips": "There is a growing consensus that any model of work motivation should include the underlying process variables that explain how goals affect work motivation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NklimJZkgD": "True",
+            "choice_41lx4kb1xP": "False"
+        }
+    }
+}

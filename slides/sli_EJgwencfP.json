@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-31T16:28:16.471Z",
+            "updatedAt": "2019-08-01T16:24:54.379Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kgkxjqfD"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EJgwencfP",
+        "universalRef": "sli_EJgwencfP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel16770",
+                        "items": [
+                            {
+                                "text": "choice_4JgLqehqMw",
+                                "value": "choice_4JgLqehqMw"
+                            },
+                            {
+                                "text": "choice_4yWLcgh5Gw",
+                                "value": "choice_4yWLcgh5Gw"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel16770",
+                        "answers": [
+                            "choice_4yWLcgh5Gw"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You are facing an arrogant customer who questions your expertise. What would be the consequence of entering in a competition with them?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "In any case, avoid being drawn into a competition. This is not constructive.",
+            "tips": "Beware of the smarties who pretend to know everything about your product and try to make it seem inferior just to get it at a cheaper price! Don't fall into it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You would {{sel16770}}  .",
+            "choice_4JgLqehqMw": "prove them wrong and win their respect",
+            "choice_4yWLcgh5Gw": "make them look bad, and fuel the situation"
+        },
+        "fr": {
+            "header": "Vous faites face à un client arrogant qui remet en question votre expertise. Quelle conséquence aurait le fait d'entrer en concurrence avec lui ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Dans tous les cas, évitez de vous laisser entraîner vers la concurrence. Ce n'est pas constructif.",
+            "tips": "Méfiez-vous des personnes rusées qui prétendent tout savoir sur votre produit et qui essayent de le faire paraître d'une qualité inférieure pour l'obtenir à un moindre prix. Ne tombez pas dans le panneau.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Vous {{sel16770}} .",
+            "choice_4JgLqehqMw": "leur prouveriez qu'ils ont tord et gagneriez leur respect",
+            "choice_4yWLcgh5Gw": "les discréditeriez et jetteriez de l'huile sur le feu"
+        },
+        "de": {
+            "header": "You are facing an arrogant customer who questions your expertise. What would be the consequence of entering in a competition with them?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "In any case, avoid being drawn into a competition. This is not constructive.",
+            "tips": "Beware of the smarties who pretend to know everything about your product and try to make it seem inferior just to get it at a cheaper price! Don't fall into it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "You would {{sel16770}}  .",
+            "choice_4JgLqehqMw": "prove them wrong and win their respect",
+            "choice_4yWLcgh5Gw": "make them look bad, and fuel the situation"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel16770}}",
+            "choice_4JgLqehqMw": "",
+            "choice_4yWLcgh5Gw": ""
+        }
+    }
+}

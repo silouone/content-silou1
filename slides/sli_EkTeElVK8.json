@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T08:28:58.245Z",
+            "updatedAt": "2019-08-23T08:37:33.567Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1fm99TO8"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_EkTeElVK8",
+        "universalRef": "sli_EkTeElVK8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel68019",
+                        "items": [
+                            {
+                                "text": "choice_E1x9qNeEtL",
+                                "value": "choice_E1x9qNeEtL"
+                            },
+                            {
+                                "text": "choice_4yWcq4xNFU",
+                                "value": "choice_4yWcq4xNFU"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel10599",
+                        "items": [
+                            {
+                                "text": "choice_VJgaA4x4KL",
+                                "value": "choice_VJgaA4x4KL"
+                            },
+                            {
+                                "text": "choice_EybaREeNFI",
+                                "value": "choice_EybaREeNFI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel68019",
+                        "answers": [
+                            "choice_E1x9qNeEtL"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel10599",
+                        "answers": [
+                            "choice_EybaREeNFI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "During the norming stage, what can leaders do with controversial views and difficult issues?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "During the norming stage, leaders can ensure that controversial views are still being shared and difficult issues are addressed.",
+            "tips": "You might wonder what is the origin of the 'forming, storming, norming, performing' model. Well, have a look at the <a href=\"https://pdfs.semanticscholar.org/cd78/c763010e6eb856250b939e4eec438e14ef8f.pdf\" target=\"_blank\">seminal article</a>!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "During the norming stage, leaders can ensure that controversial views are {{sel68019}} and difficult issues are {{sel10599}}",
+            "choice_E1x9qNeEtL": "still being shared",
+            "choice_4yWcq4xNFU": "not mentioned",
+            "choice_VJgaA4x4KL": "avoided.",
+            "choice_EybaREeNFI": "addressed."
+        },
+        "fr": {
+            "header": "Pendant la phase de normalisation, que peuvent faire les managers face aux points de vue divergents et aux questions épineuses ?",
+            "explanation": "Sélectionnez les bonnes réponses dans les menus déroulants.",
+            "klf": "Pendant la phase de normalisation, les managers peuvent s'assurer que les points de vue divergents continuent d'être partagés et que les questions épineuses soient abordées.",
+            "tips": "Vous vous demandez peut-être quelle est l'origine du modèle « formation, tension, normalisation, exécution ». Eh bien, jetez un œil à l'<a href=\"https://pdfs.semanticscholar.org/cd78/c763010e6eb856250b939e4eec438e14ef8f.pdf\" target=\"_blank\">article fondateur</a> !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Au cours de la phase de normalisation, les managers peuvent s’assurer que les points de vue divergents {{sel68019}} et que les questions épineuses soient {{sel10599}}",
+            "choice_E1x9qNeEtL": "continuent d'être partagés",
+            "choice_4yWcq4xNFU": "ne soient pas mentionnés",
+            "choice_VJgaA4x4KL": "évitées.",
+            "choice_EybaREeNFI": "abordées."
+        },
+        "de": {
+            "header": "During the norming stage, what can leaders do with controversial views and difficult issues?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "During the norming stage, leaders can ensure that controversial views are still being shared and difficult issues are addressed.",
+            "tips": "You might wonder what is the origin of the 'forming, storming, norming, performing' model. Well, have a look at the <a href=\"https://pdfs.semanticscholar.org/cd78/c763010e6eb856250b939e4eec438e14ef8f.pdf\" target=\"_blank\">seminal article</a>!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "During the norming stage, leaders can ensure that controversial views are {{sel68019}} and difficult issues are {{sel10599}}",
+            "choice_E1x9qNeEtL": "still being shared",
+            "choice_4yWcq4xNFU": "not mentioned",
+            "choice_VJgaA4x4KL": "avoided.",
+            "choice_EybaREeNFI": "addressed."
+        },
+        "th": {
+            "header": "During the norming stage, what can leaders do with controversial views and difficult issues?",
+            "explanation": "Select the right answers in the drop-down menus.",
+            "klf": "During the norming stage, leaders can ensure that controversial views are still being shared and difficult issues are addressed.",
+            "tips": "You might wonder what is the origin of the 'forming, storming, norming, performing' model. Well, have a look at the <a href=\"https://pdfs.semanticscholar.org/cd78/c763010e6eb856250b939e4eec438e14ef8f.pdf\" target=\"_blank\">seminal article</a>!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "During the norming stage, leaders can ensure that controversial views are {{sel68019}} and difficult issues are {{sel10599}}",
+            "choice_E1x9qNeEtL": "still being shared",
+            "choice_4yWcq4xNFU": "not mentioned",
+            "choice_VJgaA4x4KL": "avoided.",
+            "choice_EybaREeNFI": "addressed."
+        }
+    }
+}

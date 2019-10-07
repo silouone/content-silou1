@@ -1,0 +1,139 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T13:56:42.222Z",
+            "updatedAt": "2019-02-15T15:19:38.374Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJz62D5VI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CharlotteRitzmann",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_4JaZawcEU",
+        "universalRef": "sli_4JaZawcEU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel89400",
+                        "items": [
+                            {
+                                "text": "choice_EkgGWAw5VU",
+                                "value": "choice_EkgGWAw5VU"
+                            },
+                            {
+                                "text": "choice_41~f~Avq4U",
+                                "value": "choice_41~f~Avq4U"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel17603",
+                        "items": [
+                            {
+                                "text": "choice_NkeLb0v5NI",
+                                "value": "choice_NkeLb0v5NI"
+                            },
+                            {
+                                "text": "choice_41Z8b0wcEL",
+                                "value": "choice_41Z8b0wcEL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel89400",
+                        "answers": [
+                            "choice_EkgGWAw5VU"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel17603",
+                        "answers": [
+                            "choice_41Z8b0wcEL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What's key in the prioritisation process?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Prioritise your time by looking at your tasks as urgent versus important.",
+            "tips": "One of the best known models to prioritise your time is the Stephen Covey ‘urgent/important’ matrix where you can place your tasks in the following areas: urgent and important, important but not urgent, urgent but not important, not important and not urgent.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "An important part of the prioritisation process is to decide between tasks that are {{sel89400}} versus {{sel17603}}",
+            "choice_EkgGWAw5VU": "urgent",
+            "choice_41~f~Avq4U": "dull",
+            "choice_NkeLb0v5NI": "pleasant.",
+            "choice_41Z8b0wcEL": "important."
+        },
+        "fr": {
+            "header": "Quelle est la clé du processus de hiérarchisation ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Organisez votre temps en considérant vos tâches par leur urgence plutôt que par leur importance.",
+            "tips": "L'un des modèles les plus connus pour hiérarchiser son temps est la matrice «urgence / importance » de Stephen Covey, qui vous permet de trier vos tâches selon les critères suivants : urgent et important, important mais pas urgent, urgent mais pas important, pas important et pas urgent .",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une partie importante du processus de hiérarchisation consiste à choisir entre les tâches {{sel89400}} et {{sel17603}}.",
+            "choice_EkgGWAw5VU": "urgentes",
+            "choice_41~f~Avq4U": "ternes",
+            "choice_NkeLb0v5NI": "agréables",
+            "choice_41Z8b0wcEL": "importantes"
+        },
+        "de": {
+            "header": "Was ist der Schlüssel beim Priorisierungsprozess?",
+            "explanation": "Wählen Sie in den Dropdown-Menüs die richtige Antwort aus.",
+            "klf": "Priorisieren Sie Ihre Zeit, indem Sie Ihre Aufgaben als dringend und wichtig betrachten.",
+            "tips": "Eines der bekanntesten Modelle zur Priorisierung Ihrer Zeit ist die Stephen Covey-Matrix \"dringend\", in der Sie Ihre Aufgaben in folgenden Bereichen platzieren können: dringend und wichtig, wichtig, aber nicht dringend, dringend, aber nicht wichtig, nicht wichtig und nicht dringend .",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Ein wichtiger Teil des Priorisierungsprozesses ist die Entscheidung zwischen Aufgaben, die {{sel89400}} sind anstatt {{sel17603}}.",
+            "choice_EkgGWAw5VU": "dringend",
+            "choice_41~f~Avq4U": "langweilig",
+            "choice_NkeLb0v5NI": "angenehm.",
+            "choice_41Z8b0wcEL": "wichtig."
+        },
+        "th": {
+            "header": "What's key in the prioritisation process?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Prioritise your time by looking at your tasks as urgent versus important.",
+            "tips": "One of the best known models to prioritise your time is the Stephen Covey ‘urgent/important’ matrix where you can place your tasks in the following areas: urgent and important, important but not urgent, urgent but not important, not important and not urgent.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "An important part of the prioritisation process is to decide between tasks that are {{sel89400}} versus {{sel17603}}",
+            "choice_EkgGWAw5VU": "urgent",
+            "choice_41~f~Avq4U": "dull",
+            "choice_NkeLb0v5NI": "pleasant.",
+            "choice_41Z8b0wcEL": "important."
+        }
+    }
+}

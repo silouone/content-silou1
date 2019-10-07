@@ -1,0 +1,108 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-13T09:43:52.185Z",
+            "updatedAt": "2019-02-15T08:34:59.925Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1WGRkBEI"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_EJU6HC24I",
+        "universalRef": "sli_EJU6HC24I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJU6HC24I.choice_Ekxk8R34I.id",
+                        "label": "choice_Ekxk8R34I",
+                        "value": "choice_Ekxk8R34I"
+                    },
+                    {
+                        "id": "sli_EJU6HC24I.choice_VJ~18C3VU.id",
+                        "label": "choice_VJ~18C3VU",
+                        "value": "choice_VJ~18C3VU"
+                    },
+                    {
+                        "id": "sli_EJU6HC24I.choice_NJM1UCn4U.id",
+                        "label": "choice_NJM1UCn4U",
+                        "value": "choice_NJM1UCn4U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJM1UCn4U"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How can compliments help with difficult or stubborn individuals?",
+            "explanation": "Select the correct answer.",
+            "klf": "Compliments can help start a dialogue and repair relationships with difficult people. It can also get stubborn colleagues onside.",
+            "tips": "The more specific you are when you’re making a compliment, the better.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekxk8R34I": "They don't help at all",
+            "choice_VJ~18C3VU": "They will make them your friends",
+            "choice_NJM1UCn4U": "They can help to start a dialogue with them, even if you don't like each other"
+        },
+        "fr": {
+            "header": "Comment les compliments peuvent-ils aider les personnes difficiles ou têtues ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Les compliments peuvent aider à entamer un dialogue et à rétablir les relations avec des personnes difficiles. Cela peut également rallier des collègues obstinés.",
+            "tips": "Plus vous êtes précis lorsque vous faites un compliment, mieux c'est.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekxk8R34I": "Ils n'aident pas du tout",
+            "choice_VJ~18C3VU": "Ils feront d'eux vos amis",
+            "choice_NJM1UCn4U": "Ils peuvent aider à entamer un dialogue avec eux, même si vous ne vous aimez pas."
+        },
+        "de": {
+            "header": "Wie können Komplimente bei schwierigen oder hartnäckigen Personen helfen?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Komplimente können helfen, einen Dialog zu beginnen und Beziehungen mit schwierigen Menschen zu reparieren. Es kann auch hartnäckige Kollegen auf der Seite bekommen.",
+            "tips": "Je genauer Sie sind, wenn Sie ein Kompliment machen, desto besser.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekxk8R34I": "Sie helfen überhaupt nicht",
+            "choice_VJ~18C3VU": "Sie machen sie zu ihren Freunden",
+            "choice_NJM1UCn4U": "Sie können helfen, einen Dialog mit ihnen zu beginnen, auch wenn Sie sich nicht mögen"
+        },
+        "th": {
+            "header": "How can compliments help with difficult or stubborn individuals?",
+            "explanation": "Select the correct answer.",
+            "klf": "Compliments can help start a dialogue and repair relationships with difficult people. It can also get stubborn colleagues onside.",
+            "tips": "The more specific you are when you’re making a compliment, the better.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekxk8R34I": "They don't help at all",
+            "choice_VJ~18C3VU": "They will make them your friends",
+            "choice_NJM1UCn4U": "They can help to start a dialogue with them, even if you don't like each other"
+        }
+    }
+}

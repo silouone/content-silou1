@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T13:31:05.651Z",
+            "updatedAt": "2019-01-23T15:24:38.023Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_E1Od6wk18"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4yuLg-ykI",
+        "universalRef": "sli_4yuLg-ykI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yuLg-ykI.choice_Vyk9lO1JU.id",
+                        "label": "choice_Vyk9lO1JU",
+                        "value": "choice_Vyk9lO1JU"
+                    },
+                    {
+                        "id": "sli_4yuLg-ykI.choice_4Jx5luJJL.id",
+                        "label": "choice_4Jx5luJJL",
+                        "value": "choice_4Jx5luJJL"
+                    },
+                    {
+                        "id": "sli_4yuLg-ykI.choice_N1Dsx-JyL.id",
+                        "label": "choice_N1Dsx-JyL",
+                        "value": "choice_N1Dsx-JyL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vyk9lO1JU",
+                        "choice_4Jx5luJJL",
+                        "choice_N1Dsx-JyL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to prepare for a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Circulating relevant information, putting together an agenda for discussion and having the right people are all good preparation skills.",
+            "tips": "Time management is crucial during a meeting: Put urgent items at, or near the top of the agenda. Allow enough time for the discussion of important items and look for logical connections between them to avoid losing time between each subject.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyk9lO1JU": "Circulate the relevant information before the meeting",
+            "choice_4Jx5luJJL": "Put together an agenda with the main points for discussion at the top",
+            "choice_N1Dsx-JyL": "Make sure all the relevant people can attend the meeting"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen de préparer une réunion ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Diffuser les informations pertinentes, établir un ordre du jour des discussions et s’assurer de la présence des bonnes personnes est une bonne manière de préparer une réunion.",
+            "tips": "La gestion du temps est cruciale lors d’une réunion : placer les points urgents en tout début ou vers le début de l’ordre du jour. Accorder suffisamment de temps pour discuter des points importants et établir des liens logiques entre eux afin d’éviter toute perte de temps entre chaque sujet.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyk9lO1JU": "Diffuser les informations pertinentes avant la réunion",
+            "choice_4Jx5luJJL": "Établir un ordre du jour avec les points principaux à discuter au tout début",
+            "choice_N1Dsx-JyL": "S'assurer que les personnes concernées peuvent participer à la réunion"
+        },
+        "de": {
+            "header": "Wie bereite ich mich auf ein Meeting vor?",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Relevante Informationen zu verbreiten, eine Agenda für die Diskussion zusammenzustellen und die richtigen Leute zu haben, sind gute Vorbereitungsfähigkeiten.",
+            "tips": "Zeitmanagement ist während eines Meetings von entscheidender Bedeutung: Platzieren Sie dringende Punkte ganz oben auf der Tagesordnung. Lassen Sie sich genügend Zeit für die Diskussion wichtiger Punkte und suchen Sie nach logischen Verbindungen, um zu vermeiden, dass zwischen den einzelnen Themen Zeit verloren geht.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyk9lO1JU": "Verteilen Sie die relevanten Informationen vor dem Meeting",
+            "choice_4Jx5luJJL": "Stellen Sie eine Agenda mit den wichtigsten Diskussionspunkten an der Spitze zusammen",
+            "choice_N1Dsx-JyL": "Stellen Sie sicher, dass alle relevanten Personen an dem Meeting teilnehmen können"
+        },
+        "th": {
+            "header": "What’s the best way to prepare for a meeting?",
+            "explanation": "Select the correct answers.",
+            "klf": "Circulating relevant information, putting together an agenda for discussion and having the right people are all good preparation skills.",
+            "tips": "Time management is crucial during a meeting: Put urgent items at, or near the top of the agenda. Allow enough time for the discussion of important items and look for logical connections between them to avoid losing time between each subject.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vyk9lO1JU": "Circulate the relevant information before the meeting",
+            "choice_4Jx5luJJL": "Put together an agenda with the main points for discussion at the top",
+            "choice_N1Dsx-JyL": "Make sure all the relevant people can attend the meeting"
+        }
+    }
+}

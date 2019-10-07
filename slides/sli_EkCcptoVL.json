@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-12T10:24:42.464Z",
+            "updatedAt": "2019-02-14T11:17:50.045Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyS1pD9EU"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EkCcptoVL",
+        "universalRef": "sli_EkCcptoVL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkCcptoVL.choice_N1gsn6KsVL.id",
+                        "label": "choice_N1gsn6KsVL",
+                        "value": "choice_N1gsn6KsVL",
+                        "media": "med_41s36FsE8"
+                    },
+                    {
+                        "id": "sli_EkCcptoVL.choice_VyeR3pKs4L.id",
+                        "label": "choice_VyeR3pKs4L",
+                        "value": "choice_VyeR3pKs4L",
+                        "media": "med_N1A2aFoV8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1gsn6KsVL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Keeping a properly organised desk is essential to help you manage your time properly. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Your physical organisation does impact your mental organisation and your mental load. Organising your immediate workspace is the first step to a good overall organisation.",
+            "tips": "It's better to take the habit to clean and organise your desk before you go home each day. It allows you to be in the starting blocks when you arrive the next morning.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gsn6KsVL": "TRUE",
+            "choice_VyeR3pKs4L": "FALSE"
+        },
+        "fr": {
+            "header": "Avoir un bureau bien organisé est essentiel pour vous aider à bien gérer votre temps. Vrai ou faux ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Votre organisation physique a un impact sur votre organisation cérébrale et votre charge mentale. L'organisation de votre espace de travail immédiat est la première étape pour une bonne organisation générale.",
+            "tips": "Il est préférable de prendre l’habitude de ranger et d’organiser votre bureau chaque jour avant de rentrer chez vous. Cela vous permettra d'être dans les starting-blocks dès votre arrivée le lendemain matin.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gsn6KsVL": "Vrai",
+            "choice_VyeR3pKs4L": "Faux"
+        },
+        "de": {
+            "header": "Ein gut organisierter Schreibtisch ist wichtig, um Ihre Zeit richtig zu gestalten. Richtig oder falsch?",
+            "explanation": "Wählen Sie die richtige Antwort aus.",
+            "klf": "Ihre physische Organisation wirkt sich auf Ihre geistige Organisation und Ihre geistige Belastung aus. Die Organisation Ihres unmittelbaren Arbeitsbereichs ist der erste Schritt zu einer guten Gesamtorganisation.",
+            "tips": "Es ist besser, die Gewohnheit anzunehmen, Ihren Schreibtisch zu reinigen und zu organisieren, bevor Sie jeden Tag nach Hause gehen. So sind Sie am nächsten Morgen direkt in den Startblöcken.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gsn6KsVL": "Wahr",
+            "choice_VyeR3pKs4L": "Falsch"
+        },
+        "th": {
+            "header": "Keeping a properly organised desk is essential to help you manage your time properly. True or false?",
+            "explanation": "Select the correct answer.",
+            "klf": "Your physical organisation does impact your mental organisation and your mental load. Organising your immediate workspace is the first step to a good overall organisation.",
+            "tips": "It's better to take the habit to clean and organise your desk before you go home each day. It allows you to be in the starting blocks when you arrive the next morning.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1gsn6KsVL": "TRUE",
+            "choice_VyeR3pKs4L": "FALSE"
+        }
+    }
+}

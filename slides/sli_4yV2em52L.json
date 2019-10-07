@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-19T10:38:07.984Z",
+            "updatedAt": "2019-05-20T10:36:03.238Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EyBAdC-iU"
+            ],
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_4yV2em52L",
+        "universalRef": "sli_4yV2em52L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yV2em52L.choice_E1xv1Zm5hU.id",
+                        "label": "choice_E1xv1Zm5hU",
+                        "value": "choice_E1xv1Zm5hU",
+                        "media": "med_VJvJW792I"
+                    },
+                    {
+                        "id": "sli_4yV2em52L.choice_Eket1bQ52L.id",
+                        "label": "choice_Eket1bQ52L",
+                        "value": "choice_Eket1bQ52L",
+                        "media": "med_4kYkZX9hI"
+                    },
+                    {
+                        "id": "sli_4yV2em52L.choice_41MYyZ75h8.id",
+                        "label": "choice_41MYyZ75h8",
+                        "value": "choice_41MYyZ75h8",
+                        "media": "med_E1~F1ZX93U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_41MYyZ75h8"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When negotiations get stuck, what can you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "When negotiations get bogged down, avoid threats or ultimatums. Try asking 'what if' questions. And aim for a win-win solution, a fair deal for both sides.",
+            "tips": "If you are unhappy with an offer you get, it can be tempting to counter with a very hard offer… but don’t let emotions get the best of you. Keep analysing facts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1xv1Zm5hU": "Send threats",
+            "choice_Eket1bQ52L": "Send ultimatums",
+            "choice_41MYyZ75h8": "Ask ‘what if’ questions"
+        },
+        "fr": {
+            "header": "Que pouvez-vous faire lorsque les négociations sont bloquées ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque les négociations s'enlisent, évitez les menaces ou les ultimatums. Essayez de poser des questions commençant par « et si » et visez une solution gagnant-gagnant, un accord équitable pour les deux parties.",
+            "tips": "Si vous n'êtes pas satisfait de l'offre qu'on vous fait, il peut être tentant de contrer avec une offre ferme… mais ne laissez pas vos émotions prendre le dessus. Continuez à analyser les faits.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1xv1Zm5hU": "Faire des menaces",
+            "choice_Eket1bQ52L": "Faire des ultimatums",
+            "choice_41MYyZ75h8": "Poser des questions commençant par « et si »"
+        },
+        "de": {
+            "header": "When negotiations get stuck, what can you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "When negotiations get bogged down, avoid threats or ultimatums. Try asking 'what if' questions. And aim for a win-win solution, a fair deal for both sides.",
+            "tips": "If you are unhappy with an offer you get, it can be tempting to counter with a very hard offer… but don’t let emotions get the best of you. Keep analysing facts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1xv1Zm5hU": "Send threats",
+            "choice_Eket1bQ52L": "Send ultimatums",
+            "choice_41MYyZ75h8": "Ask ‘what if’ questions"
+        },
+        "th": {
+            "header": "When negotiations get stuck, what can you do?",
+            "explanation": "Select the correct answer.",
+            "klf": "When negotiations get bogged down, avoid threats or ultimatums. Try asking 'what if' questions. And aim for a win-win solution, a fair deal for both sides.",
+            "tips": "If you are unhappy with an offer you get, it can be tempting to counter with a very hard offer… but don’t let emotions get the best of you. Keep analysing facts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_E1xv1Zm5hU": "Send threats",
+            "choice_Eket1bQ52L": "Send ultimatums",
+            "choice_41MYyZ75h8": "Ask ‘what if’ questions"
+        }
+    }
+}

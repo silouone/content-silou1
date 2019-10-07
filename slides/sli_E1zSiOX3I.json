@@ -1,0 +1,154 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-14T09:51:39.090Z",
+            "updatedAt": "2019-05-15T12:54:42.972Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NknmvffnI"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_E1zSiOX3I",
+        "universalRef": "sli_E1zSiOX3I",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel35765",
+                        "items": [
+                            {
+                                "text": "choice_Eyxrm3OmnI",
+                                "value": "choice_Eyxrm3OmnI"
+                            },
+                            {
+                                "text": "choice_4y~BX2uQnU",
+                                "value": "choice_4y~BX2uQnU"
+                            },
+                            {
+                                "text": "choice_VJVNhOm3U",
+                                "value": "choice_VJVNhOm3U"
+                            },
+                            {
+                                "text": "choice_V15EndXh8",
+                                "value": "choice_V15EndXh8"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "select",
+                        "name": "sel60708",
+                        "items": [
+                            {
+                                "text": "choice_VylRB2-7nL",
+                                "value": "choice_VylRB2-7nL"
+                            },
+                            {
+                                "text": "choice_E1Z0r3uXhL",
+                                "value": "choice_E1Z0r3uXhL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel35765",
+                        "answers": [
+                            "choice_VJVNhOm3U"
+                        ]
+                    },
+                    {
+                        "fieldName": "sel60708",
+                        "answers": [
+                            "choice_E1Z0r3uXhL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In which situations is mirroring speech particularly useful?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Mirroring speech is particularly useful when you want to influence people you are meeting for the first time (e.g. establishing rapport with a new client) or where time is limited (e.g. on the sales floor).",
+            "tips": "Be cautious not to mimic someone's exact speech patterns, at it might appear obvious and create awkwardness. Changing the tone of your voice, or using a selective choice of words will make you appear more trustworthy.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When you want to influence people {{sel35765}} or when {{sel60708}}",
+            "choice_Eyxrm3OmnI": "you know very well",
+            "choice_4y~BX2uQnU": "you dislike",
+            "choice_VJVNhOm3U": "you meet for the first time",
+            "choice_V15EndXh8": "you met the day before",
+            "choice_VylRB2-7nL": "you have plenty of time",
+            "choice_E1Z0r3uXhL": "time is limited"
+        },
+        "fr": {
+            "header": "Dans quelles situations le discours en miroir est-il particulièrement utile ?",
+            "explanation": "Sélectionnez la bonne réponse dans les menus déroulants.",
+            "klf": "Le discours en miroir est particulièrement utile lorsque vous souhaitez influencer les personnes que vous rencontrez pour la première fois (par exemple, établir des relations avec un nouveau client) ou lorsque le temps est limité (par exemple, au moment d'une vente).",
+            "tips": "Veillez à ne pas imiter exactement la façon de parler de quelqu'un, cela pourrait sembler évident et créer un malaise. Changer le ton de votre voix ou utiliser un choix de mots sélectif vous fera paraître plus digne de confiance.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Quand vous voulez influencer les gens {{sel35765}} ou quand {{sel60708}}",
+            "choice_Eyxrm3OmnI": "que vous connaissez très bien",
+            "choice_4y~BX2uQnU": "que vous n'aimez pas",
+            "choice_VJVNhOm3U": "que vous rencontrez pour la première fois",
+            "choice_V15EndXh8": "que vous avez rencontrés la veille",
+            "choice_VylRB2-7nL": "vous avez beaucoup de temps",
+            "choice_E1Z0r3uXhL": "vous n'avez pas beaucoup de temps"
+        },
+        "de": {
+            "header": "In which situations is mirroring speech particularly useful?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Mirroring speech is particularly useful when you want to influence people you are meeting for the first time (e.g. establishing rapport with a new client) or where time is limited (e.g. on the sales floor).",
+            "tips": "Be cautious not to mimic someone's exact speech patterns, at it might appear obvious and create awkwardness. Changing the tone of your voice, or using a selective choice of words will make you appear more trustworthy.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When you want to influence people {{sel35765}} or when {{sel60708}}",
+            "choice_Eyxrm3OmnI": "you know very well",
+            "choice_4y~BX2uQnU": "you dislike",
+            "choice_VJVNhOm3U": "you meet for the first time",
+            "choice_V15EndXh8": "you met the day before ",
+            "choice_VylRB2-7nL": "you have plenty of time",
+            "choice_E1Z0r3uXhL": "time is limited"
+        },
+        "th": {
+            "header": "In which situations is mirroring speech particularly useful?",
+            "explanation": "Select the right answer in the drop-down menus.",
+            "klf": "Mirroring speech is particularly useful when you want to influence people you are meeting for the first time (e.g. establishing rapport with a new client) or where time is limited (e.g. on the sales floor).",
+            "tips": "Be cautious not to mimic someone's exact speech patterns, at it might appear obvious and create awkwardness. Changing the tone of your voice, or using a selective choice of words will make you appear more trustworthy.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "When you want to influence people {{sel35765}} or when {{sel60708}}",
+            "choice_Eyxrm3OmnI": "you know very well",
+            "choice_4y~BX2uQnU": "you dislike",
+            "choice_VJVNhOm3U": "you meet for the first time",
+            "choice_V15EndXh8": "you met the day before",
+            "choice_VylRB2-7nL": "you have plenty of time",
+            "choice_E1Z0r3uXhL": "time is limited"
+        }
+    }
+}

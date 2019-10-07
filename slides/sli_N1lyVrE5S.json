@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-08T13:01:04.617Z",
+            "updatedAt": "2018-11-09T11:28:14.391Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41nmzB4qS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_N1lyVrE5S",
+        "universalRef": "sli_N1lyVrE5S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel92446",
+                        "items": [
+                            {
+                                "text": "choice_NJenyErV5S",
+                                "value": "choice_NJenyErV5S"
+                            },
+                            {
+                                "text": "choice_4y~hyEHE5S",
+                                "value": "choice_4y~hyEHE5S"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel92446",
+                        "answers": [
+                            "choice_4y~hyEHE5S"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Select the correct answer to complete the sentence.",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Give your team some time to prepare their ideas. As their manager, you have to make yourself clear and supervise the preparation of the brainstorming. Trying to foster innovation doesn't mean giving no framework or briefing.",
+            "tips": "Time is not the only thing you have to give your employees to free their minds. You can also rethink the way you usually prepare a meeting: change its place, choose colourful furniture, try to be fun, break the rules.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "‘It’s important to give teams time to think before attending a brainstorming session so {{sel92446}}",
+            "choice_NJenyErV5S": "they can be spontaneous.’",
+            "choice_4y~hyEHE5S": "they can prepare their ideas.’"
+        },
+        "fr": {
+            "header": "Sélectionnez la bonne réponse pour compléter la phrase.",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "Laissez à vos collaborateurs le temps de préparer leurs idées. En tant que responsable, vous devez être clair et superviser la préparation du brainstorming. Tenter de favoriser l’innovation ne signifie pas absence de cadre ou de briefing.",
+            "tips": "Le temps n’est pas la seule chose que vous devez accorder à vos collaborateurs pour qu’ils aient l’esprit libre. Vous pouvez également repenser la manière de préparer une réunion : changer de lieu, choisir un mobilier coloré, tenter l’humour, modifier les règles.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "« Il est important de laisser aux équipes le temps nécessaire avant une session de brainstorming afin {{sel92446}}",
+            "choice_NJenyErV5S": "qu’elles puissent être spontanées. »",
+            "choice_4y~hyEHE5S": "qu’elles puissent préparer leurs idées. »"
+        },
+        "de": {
+            "header": "Wählen Sie die richtige Antwort aus, um den Satz abzuschließen.",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Geben Sie Ihrem Team etwas Zeit, um seine Ideen vorzubereiten. Als Manager müssen Sie sich klar machen und die Vorbereitung des Brainstormings überwachen. Wenn man versucht, Innovationen zu fördern, bedeutet das nicht, dass es keinen Rahmen gibt oder Informationen gegeben werden.",
+            "tips": "Zeit ist nicht das Einzige, was Sie Ihren Mitarbeitern geben müssen, um sich aus ihnen zu befreien. Sie können auch die Art und Weise, wie Sie normalerweise ein Meeting vorbereiten, überdenken: Ändern Sie den Ort, wählen Sie farbenfrohe Möbel, versuchen Sie, Spaß zu haben, brechen Sie die Regeln.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Es ist wichtig, dass Sie den Teams Zeit zum Nachdenken geben, bevor Sie an einer Brainstorming-Sitzung teilnehmen. {{Sel92446}} sli_N1lyVrE5S        choice_NJenyErV5S        they can be spontaneous.’        qu’elles puissent être spontanées. »        sie können spontan sein. “ sli_N1lyVrE5S        choice_4y~hyEHE5S        they can prepare their ideas.’        qu’elles puissent préparer leurs idées. »        Sie können ihre Ideen vorbereiten. “ sli_N1xl0DH5H        header        Which of the following impulses can negatively affect the way you interact with your colleagues?        Quelles pulsions suivantes peuvent perturber vos relations avec vos collègues ?        Welche der folgenden Impulse können sich negativ auf Ihre Interaktion mit Ihren Kollegen auswirken? sli_N1xl0DH5H        explanation        Select the three correct answers below.        Sélectionnez les trois bonnes réponses ci-dessous.        Wählen Sie unten die drei richtigen Antworten aus. sli_N1xl0DH5H        klf        Anger, arrogance and insecurity are all impulses which can affect you at work and degrade your interpersonal relations.        La colère, l’arrogance et l’insécurité sont toutes des pulsions susceptibles d’affecter votre vie professionnelle et de dégrader vos relations.        Ärger, Arroganz und Unsicherheit sind alles Impulse, die Sie bei der Arbeit beeinflussen und Ihre zwischenmenschlichen Beziehungen beeinträchtigen können. sli_N1xl0DH5H        tips        Korn/Ferry International conducted a study of the stock performance of 486 publicly traded companies, and revealed that employees in companies with strong financial performance showed higher levels of self-awareness than their counterparts in poorly performing companies.        Korn/Ferry International a mené une étude sur le rendement boursier de 486 sociétés cotées en bourse, et cette étude a révélé que les collaborateurs de sociétés à rendement financier élevé montraient des niveaux de conscience de soi plus élevés que leurs homologues de sociétés à plus faibles performances.        Korn / Ferry International führte eine Studie zur Aktienperformance von 486 börsennotierten Unternehmen durch und zeigte, dass Mitarbeiter in Unternehmen mit starker finanzieller Leistung ein höheres Maß an Selbstbewusstsein aufwiesen als ihre Kollegen in Unternehmen mit schwacher Leistung. sli_N1xl0DH5H        clue                         sli_N1xl0DH5H        context_title                         sli_N1xl0DH5H        context_description                         sli_N1xl0DH5H        context_media_description                         sli_N1xl0DH5H        choice_V1BHCwHqS        Insecurity        L'insécurité        Unsicherheit sli_N1xl0DH5H        choice_EkLrRwHqr        Arrogance        L'arrogance        Arroganz sli_N1xl0DH5H        choice_E1Dr0vr5r        Empathy        L'empathie        Empathie sli_N1xl0DH5H        choice_4JePRwBqr        Anger        La colère        Zorn sli_N1xl0DH5H        choice_4kzuCPrqr        Perseverance        La persévérance        Ausdauer sli_NJ6BxoLcB        header        Who does make for a happy workplace?        Qui contribue à un lieu de travail épanouissant ?        Wer macht einen glücklichen Arbeitsplatz? sli_NJ6BxoLcB        explanation        Select the right answer in the drop-down menu.        Sélectionnez votre réponse dans le menu déroulant.        Wählen Sie im Dropdown-Menü die richtige Antwort aus. sli_NJ6BxoLcB        klf        We tend to assume a happy workplace means a workplace full of extroverts and optimists. In fact, introverts and pessimists have a major role to play. Pessimists help foresee and forestall problems. Introverts are great listeners and thinkers.        Nous avons tendance à croire qu’un environnement de travail épanouissant est composé de personnes extraverties et optimistes. En réalité, les introvertis et les pessimistes ont un rôle essentiel à jouer. Les pessimistes aident à prévoir et à prévenir les problèmes. Les introvertis, quant à eux, possèdent de grandes qualités d’écoute et de réflexion.        Wir gehen davon aus, dass ein glücklicher Arbeitsplatz ein Arbeitsplatz voller Extrovertierter und Optimisten ist. Introvertierte und Pessimisten spielen tatsächlich eine wichtige Rolle. Pessimisten helfen, Probleme vorherzusehen und abzuwenden. Introvertierte sind gute Zuhörer und Denker. sli_NJ6BxoLcB        tips        ‘We forfeit three fourths of ourselves in order to be like other people.’  Arthur Schopenhauer.        « Nous renonçons à 75 % de notre personnalité pour ressembler aux autres. »  Arthur Schopenhauer.        \"Wir verzichten drei Viertel von uns selbst, um wie andere Menschen zu sein.\" Arthur Schopenhauer. sli_NJ6BxoLcB        clue                         sli_NJ6BxoLcB        context_title                         sli_NJ6BxoLcB        context_description                         sli_NJ6BxoLcB        context_media_description                         sli_NJ6BxoLcB        template        {{sel41815}}        {{sel41815}}        {{sel41815}} sli_NJ6BxoLcB        choice_Nyl~veoI9r        Extroverts and optimists only        Uniquement des extravertis et des optimistes        Nur Extrovertierte und Optimisten sli_NJ6BxoLcB        choice_E1ZbvejL9B        Introverts and pessimists only        Uniquement des introvertis et des pessimistes        Nur Introvertierte und Pessimisten sli_NJ6BxoLcB        choice_EkF-ei8cr        A bit of both        Un peu des deux        Ein bisschen von beidem sli_NJLjiBYqB        header        John would like to establish Mondays’ breakfast to improve inter office communication. John is also a dreadful cook… What should you do?        John souhaiterait instaurer les petits-déjeuners du lundi afin d’améliorer la communication interne. John est également un piètre cuisinier… Que devez-vous faire ?        John möchte montags ein Frühstück einrichten, um die Kommunikation zwischen den Büros zu verbessern. John ist auch ein schrecklicher Koch ... Was sollten Sie tun? sli_NJLjiBYqB        explanation        Select the correct answers.        Sélectionnez les bonnes réponses.        Wählen Sie die richtigen Antworten aus. sli_NJLjiBYqB        klf        Champions are people who can help you manage change smoothly. Find out if they need training: a short course can help! Encourage them and address any concerns they might have so they remain positive and enthusiastic about the change!        Les champions sont des personnes qui peuvent vous aider à gérer le changement en douceur. Identifiez leur besoin en formation : une formation courte peut être la solution ! Encouragez-les et abordez toutes les préoccupations qu’ils pourraient avoir pour qu’ils conservent une attitude positive et enthousiaste vis-à-vis du changement !        Champions sind Menschen, die Ihnen helfen können, den Wandel reibungslos zu meistern. Finden Sie heraus, ob sie trainiert werden müssen: ein kurzer Kurs kann helfen! Ermutigen Sie sie und gehen Sie auf eventuelle Bedenken ein, damit sie von der Veränderung positiv und begeistert sind! sli_NJLjiBYqB        tips        Enrol your champions in a relevant training session will show your confidence in their initiatives and reinforce their enthusiasm. What’s more, they will be able to train their colleagues in their turn!        Inscrire vos champions à des sessions de formation pertinentes prouvera que vous faites confiance à leur esprit d’initiative et cela les rendra encore plus enthousiastes. Par ailleurs, ils pourront à leur tour former leurs collègues !        Wenn Sie Ihre Champions für eine relevante Trainingseinheit anmelden, zeigen Sie Ihr Vertrauen in ihre Initiativen und verstärken ihre Begeisterung. Darüber hinaus können sie ihre Kollegen wiederum schulen. sli_NJLjiBYqB        clue                         sli_NJLjiBYqB        context_title                         sli_NJLjiBYqB        context_description                         sli_NJLjiBYqB        context_media_description                         sli_NJLjiBYqB        choice_V1BelUtcr        Praise his idea        Le féliciter pour son idée        Loben Sie seine Idee sli_NJLjiBYqB        choice_NyaZeLK5S        Dismiss his idea        Rejeter son idée        Seine Idee abweisen sli_NJLjiBYqB        choice_V1HGlLtqH        Enter his name for a five-year training with a chef        L’inscrire à une formation sur cinq ans avec un chef        Geben Sie seinen Namen für eine fünfjährige Ausbildung bei einem Koch ein sli_NJLjiBYqB        choice_Ey9Ml8KqS        Enrol him in Granny’s little bakery one-month course        L’inscrire à une formation d’un mois dans une petite boulangerie de quartier        Schreiben Sie ihn für einen Monat in Omas kleine Bäckerei ein sli_NJLjiBYqB        choice_NJgXx8KqB        Entrust the project to Mark (his scones have won prizes)        Confier le projet à Mark (il a remporté des prix avec ses croissants)        Vertrauen Sie Mark das Projekt an (seine Scones haben Preise gewonnen) med_Ny~2fIt9r        mediaUrl_N17pzLK9S        //static.coorpacademy.com/content/CoorpAcademy/content-video-arts/cockpit-video-arts/default/videoarts_champions_burnt-apple-tart-1539335073849.jpg        //static.coorpacademy.com/content/CoorpAcademy/content-video-arts/cockpit-video-arts/default/videoarts_champions_burnt-apple-tart-1539335073849.jpg        //static.coorpacademy.com/content/CoorpAcademy/content-video-arts/cockpit-video-arts/default/videoarts_champions_burnt-apple-tart-1539335073849.jpg sli_NJTBRvE5B        header        In the following list, can you pick the instances of sharply focused questions?        Dans la liste suivante, pouvez-vous indiquer les exemples de questions très ciblées ?        Können Sie in der folgenden Liste die Fälle von scharf gestellten Fragen auswählen? sli_NJTBRvE5B        explanation        Select the correct answers.        Sélectionnez les bonnes réponses.        Wählen Sie die richtigen Antworten aus. sli_NJTBRvE5B        klf        A sharply focused question calls for sharply focused answers. That’s why ‘any ideas?’ isn’t a sharply focused question and should be avoided to collect useful answers.        Une question très ciblée exige des réponses très ciblées. C’est pourquoi la question « d’autres idées ? » n’est pas une question très ciblée et qu’elle doit être évitée pour recueillir des réponses dignes d’intérêt.        Eine scharf fokussierte Frage erfordert scharf fokussierte Antworten. Aus diesem Grund ist „irgendwelche Ideen?“ Keine scharf fokussierte Frage und sollte vermieden werden, um nützliche Antworten zu sammeln. sli_NJTBRvE5B        tips        When organizing a team decision meeting, make sure you know what others think before they know what you want them to think!        Lorsque vous organisez une réunion de prise de décision en équipe, veillez à connaître les idées des autres participants avant qu’ils sachent ce vers quoi vous souhaitez les diriger !        Wenn Sie ein Teamentscheidungsmeeting veranstalten, stellen Sie sicher, dass Sie wissen, was andere denken, bevor sie wissen, was Sie möchten. sli_NJTBRvE5B        clue                         sli_NJTBRvE5B        context_title                         sli_NJTBRvE5B        context_description                         sli_NJTBRvE5B        context_media_description                         sli_NJTBRvE5B        choice_E1x9CwVcB        ‘Any ideas?’        « D’autres idées ? »        'Irgendwelche Ideen?' sli_NJTBRvE5B        choice_E1qMJdNqr        ‘What new markets could we expand to?’        « Quels nouveaux marchés pourrions-nous explorer ? »        \"In welche neuen Märkte könnten wir expandieren?",
+            "choice_NJenyErV5S": "sie können spontan sein. “",
+            "choice_4y~hyEHE5S": "Sie können ihre Ideen vorbereiten. “"
+        },
+        "th": {
+            "header": "Select the correct answer to complete the sentence.",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Give your team some time to prepare their ideas. As their manager, you have to make yourself clear and supervise the preparation of the brainstorming. Trying to foster innovation doesn't mean giving no framework or briefing.",
+            "tips": "Time is not the only thing you have to give your employees to free their minds. You can also rethink the way you usually prepare a meeting: change its place, choose colourful furniture, try to be fun, break the rules.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "‘It’s important to give teams time to think before attending a brainstorming session so {{sel92446}}",
+            "choice_NJenyErV5S": "they can be spontaneous.’",
+            "choice_4y~hyEHE5S": "they can prepare their ideas.’"
+        }
+    }
+}

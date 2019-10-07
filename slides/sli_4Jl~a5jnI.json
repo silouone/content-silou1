@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-20T13:39:54.902Z",
+            "updatedAt": "2019-05-20T13:39:54.902Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41jm9dP2U"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4Jl~a5jnI",
+        "universalRef": "sli_4Jl~a5jnI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4Jl~a5jnI.choice_41eFMTqo3L.id",
+                        "label": "choice_41eFMTqo3L",
+                        "value": "choice_41eFMTqo3L",
+                        "media": "med_NyKf69s3U"
+                    },
+                    {
+                        "id": "sli_4Jl~a5jnI.choice_NkgoGpqs2I.id",
+                        "label": "choice_NkgoGpqs2I",
+                        "value": "choice_NkgoGpqs2I",
+                        "media": "med_41ozTqihU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NkgoGpqs2I"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? As a leader, it’s your responsibility to develop your vision, and your team should take no part in it.",
+            "explanation": "Select the correct answer.",
+            "klf": "As you develop your vision, ask the team for their thoughts and ideas in clarifying it. Make them feel part of it.",
+            "tips": "The more your vision means something to the people in your team individually, the more it will carry them. This is why it is necessary to involve them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eFMTqo3L": "TRUE",
+            "choice_NkgoGpqs2I": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? En tant que leader, il est de votre responsabilité de développer votre vision et votre équipe n'a pas à y prendre part.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Au fur et à mesure que vous développez votre vision, demandez à l’équipe de donner son opinion et ses idées pour la préciser. Faites-leur sentir qu'ils font partie de ce processus.",
+            "tips": "Plus votre vision a une signification particulière pour les membres de votre équipe, plus elle les portera. C'est pourquoi il est nécessaire de les impliquer.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eFMTqo3L": "VRAI",
+            "choice_NkgoGpqs2I": "FAUX"
+        },
+        "de": {
+            "header": "True or false? As a leader, it’s your responsibility to develop your vision, and your team should take no part in it.",
+            "explanation": "Select the correct answer.",
+            "klf": "As you develop your vision, ask the team for their thoughts and ideas in clarifying it. Make them feel part of it.",
+            "tips": "The more your vision means something to the people in your team individually, the more it will carry them. This is why it is necessary to involve them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eFMTqo3L": "True",
+            "choice_NkgoGpqs2I": "False"
+        },
+        "th": {
+            "header": "True or false? As a leader, it’s your responsibility to develop your vision, and your team should take no part in it.",
+            "explanation": "Select the correct answer.",
+            "klf": "As you develop your vision, ask the team for their thoughts and ideas in clarifying it. Make them feel part of it.",
+            "tips": "The more your vision means something to the people in your team individually, the more it will carry them. This is why it is necessary to involve them.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_41eFMTqo3L": "TRUE",
+            "choice_NkgoGpqs2I": "FALSE"
+        }
+    }
+}

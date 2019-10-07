@@ -1,0 +1,111 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-08T13:42:02.054Z",
+            "updatedAt": "2019-04-08T13:42:02.054Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41zSTQ4F8"
+            ],
+            "status": "draft",
+            "modifiedBy": "GuillaumeLafon",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NkX3q4VYU",
+        "universalRef": "sli_NkX3q4VYU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel71406",
+                        "items": [
+                            {
+                                "text": "choice_NJlmGsEVFI",
+                                "value": "choice_NJlmGsEVFI"
+                            },
+                            {
+                                "text": "choice_4k~QzoNEK8",
+                                "value": "choice_4k~QzoNEK8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel71406",
+                        "answers": [
+                            "choice_NJlmGsEVFI"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "In the workplace, what are the foreseeable effects of showing too much confidence?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Showing too much confidence will intimidate rather than inspire employees. Being open with them about your insecurities and failures will make them feel more confident.",
+            "tips": "At work, overconfidence often results in minimal exertion under the false belief that a task is easy or can be quickly completed. These common effects may be damaging to your ego and possibly your reputation, but can be improved with time management skills.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Showing too much confidence will {{sel71406}} employees.",
+            "choice_NJlmGsEVFI": "intimidate",
+            "choice_4k~QzoNEK8": "inspire"
+        },
+        "fr": {
+            "header": "Sur le lieu de travail, quels sont les effets prévisibles d’une trop grande confiance en vous ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Afficher trop de confiance en vous intimidera les employés plus que cela ne les inspirera. Vous ouvrir à eux au sujet de vos insécurités et de vos échecs les mettra davantage en confiance.",
+            "tips": "Au travail, l'excès de confiance se traduit souvent par un effort minimal, car il pousse à croire à tort qu'une tâche est facile ou peut être rapidement réalisée. Ces effets courants peuvent nuire à votre ego et éventuellement à votre réputation, mais peuvent être améliorés grâce à des compétences en gestion du temps.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Afficher trop de confiance en vous {{sel71406}} les employés.",
+            "choice_NJlmGsEVFI": "intimidera",
+            "choice_4k~QzoNEK8": "inspirera"
+        },
+        "de": {
+            "header": "In the workplace, what are the foreseeable effects of showing too much confidence?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Showing too much confidence will intimidate rather than inspire employees. Being open with them about your insecurities and failures will make them feel more confident.",
+            "tips": "At work, overconfidence often results in minimal exertion under the false belief that a task is easy or can be quickly completed. These common effects may be damaging to your ego and possibly your reputation, but can be improved with time management skills.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Showing too much confidence will {{sel71406}} employees.",
+            "choice_NJlmGsEVFI": "intimidate",
+            "choice_4k~QzoNEK8": "inspire"
+        },
+        "th": {
+            "header": "In the workplace, what are the foreseeable effects of showing too much confidence?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Showing too much confidence will intimidate rather than inspire employees. Being open with them about your insecurities and failures will make them feel more confident.",
+            "tips": "At work, overconfidence often results in minimal exertion under the false belief that a task is easy or can be quickly completed. These common effects may be damaging to your ego and possibly your reputation, but can be improved with time management skills.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Showing too much confidence will {{sel71406}} employees.",
+            "choice_NJlmGsEVFI": "intimidate",
+            "choice_4k~QzoNEK8": "inspire"
+        }
+    }
+}

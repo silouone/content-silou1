@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-12T10:13:13.608Z",
+            "updatedAt": "2019-06-14T09:39:48.961Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V1tM03YAL"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_41CAA2YCL",
+        "universalRef": "sli_41CAA2YCL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel25866",
+                        "items": [
+                            {
+                                "text": "choice_VkxIfJ6FA8",
+                                "value": "choice_VkxIfJ6FA8"
+                            },
+                            {
+                                "text": "choice_4JZ8GJpt0U",
+                                "value": "choice_4JZ8GJpt0U"
+                            },
+                            {
+                                "text": "choice_E13E16KRL",
+                                "value": "choice_E13E16KRL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel25866",
+                        "answers": [
+                            "choice_E13E16KRL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When you plan a counselling meeting for an employee, which criterion should it meet?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The meeting should be private and confidential to make the employee feel comfortable.",
+            "tips": "Close the door and do not allow any interruption or distraction. The employee should have your full attention.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It should {{sel25866}}.",
+            "choice_VkxIfJ6FA8": "take place in the employee's office",
+            "choice_4JZ8GJpt0U": "be a key point in the board meeting agenda",
+            "choice_E13E16KRL": "take place in private"
+        },
+        "fr": {
+            "header": "Lorsque vous planifiez une session de conseil pour un employé, à quel critère doit-elle répondre ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La session doit être privée et confidentielle pour que l’employé se sente à l’aise.",
+            "tips": "Fermez la porte et ne permettez aucune interruption ou distraction. L'employé doit avoir toute votre attention.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Elle devrait {{sel25866}} .",
+            "choice_VkxIfJ6FA8": "avoir lieu dans le bureau de l'employé",
+            "choice_4JZ8GJpt0U": "être un point clé de l'ordre du jour des réunions du Conseil",
+            "choice_E13E16KRL": "se dérouler en privé"
+        },
+        "de": {
+            "header": "When you plan a counselling meeting for an employee, which criterion should it meet?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The meeting should be private and confidential to make the employee feel comfortable.",
+            "tips": "Close the door and do not allow any interruption or distraction. The employee should have your full attention.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It should {{sel25866}}.",
+            "choice_VkxIfJ6FA8": "take place in the employee's office",
+            "choice_4JZ8GJpt0U": "be a key point in the board meeting agenda",
+            "choice_E13E16KRL": "take place in private"
+        },
+        "th": {
+            "header": "When you plan a counselling meeting for an employee, which criterion should it meet?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "The meeting should be private and confidential to make the employee feel comfortable.",
+            "tips": "Close the door and do not allow any interruption or distraction. The employee should have your full attention.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It should {{sel25866}}.",
+            "choice_VkxIfJ6FA8": "take place in the employee's office",
+            "choice_4JZ8GJpt0U": "be a key point in the board meeting agenda",
+            "choice_E13E16KRL": "take place in private"
+        }
+    }
+}

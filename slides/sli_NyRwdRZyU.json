@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-06T09:22:33.721Z",
+            "updatedAt": "2019-01-21T14:10:32.004Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJLZTI9AS"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "CharlotteRitzmann"
+        },
+        "ref": "sli_NyRwdRZyU",
+        "universalRef": "sli_NyRwdRZyU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyRwdRZyU.choice_VyxL5ORZkL.id",
+                        "label": "choice_VyxL5ORZkL",
+                        "value": "choice_VyxL5ORZkL",
+                        "media": "med_EkU5dCbyI"
+                    },
+                    {
+                        "id": "sli_NyRwdRZyU.choice_Vyxd9dCZ18.id",
+                        "label": "choice_Vyxd9dCZ18",
+                        "value": "choice_Vyxd9dCZ18",
+                        "media": "med_VJdq-A~18"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vyxd9dCZ18"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Your inner critic is here to tell you the truth, even if it hurts. You should listen to it.",
+            "explanation": "Select the correct answer.",
+            "klf": "Don't let your inner critic get the better of you: you don't have to follow its instructions or believe what it says.",
+            "tips": "Try writing your inner critic's statements down in the second person, as ‘you’ statements. This will help you see them as a point of view, and not as the universal truth!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyxL5ORZkL": "True",
+            "choice_Vyxd9dCZ18": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Votre petite voix intérieure est là pour vous dire la vérité, même si cela fait mal. Vous devez l’écouter.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Ne laissez pas votre petite voix intérieure prendre le dessus : rien ne vous oblige à suivre ses instructions ou à croire ce qu'elle dit.",
+            "tips": "Essayez de noter les affirmations de votre petite voix intérieure à la 2ee personne. Cela vous aidera à les considérer comme un point de vue et non comme une vérité universelle !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyxL5ORZkL": "Vrai",
+            "choice_Vyxd9dCZ18": "Faux"
+        },
+        "de": {
+            "header": "Richtig oder falsch? Ihr innerer Kritiker ist hier, um Ihnen die Wahrheit zu sagen, auch wenn es weh tut. Du solltest es hören.",
+            "explanation": "Wähle die richtige Antwort.",
+            "klf": "Lassen Sie sich nicht von Ihrem inneren Kritiker überwältigen: Sie müssen den Anweisungen nicht folgen oder glauben, was er sagt.",
+            "tips": "Schreiben Sie die Aussagen Ihres inneren Kritikers in die zweite Person auf, als „Sie“. Dies wird Ihnen helfen, sie als Standpunkt zu betrachten und nicht als universelle Wahrheit!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyxL5ORZkL": "Wahr",
+            "choice_Vyxd9dCZ18": "Falsch"
+        },
+        "th": {
+            "header": "True or false? Your inner critic is here to tell you the truth, even if it hurts. You should listen to it.",
+            "explanation": "Select the correct answer.",
+            "klf": "Don't let your inner critic get the better of you: you don't have to follow its instructions or believe what it says.",
+            "tips": "Try writing your inner critic's statements down in the second person, as ‘you’ statements. This will help you see them as a point of view, and not as the universal truth!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VyxL5ORZkL": "True",
+            "choice_Vyxd9dCZ18": "False"
+        }
+    }
+}

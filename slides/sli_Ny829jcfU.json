@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-01-18T11:43:17.482Z",
+            "updatedAt": "2019-02-22T11:47:42.840Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ny6AT1yMI"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Ny829jcfU",
+        "universalRef": "sli_Ny829jcfU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel50934",
+                        "items": [
+                            {
+                                "text": "choice_V1l~yssqGL",
+                                "value": "choice_V1l~yssqGL"
+                            },
+                            {
+                                "text": "choice_4k~Zyoo9ML",
+                                "value": "choice_4k~Zyoo9ML"
+                            },
+                            {
+                                "text": "choice_VJNJsjcfL",
+                                "value": "choice_VJNJsjcfL"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel50934",
+                        "answers": [
+                            "choice_VJNJsjcfL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is the right mindset for any good leader?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "As a leader, it should be your goal to be respected by your team. You must accept that it is part of the job to make the right decisions even if they are tough, and earn respect from your team by helping them through difficult times.",
+            "tips": "Beware of decision fatigue: the quality of decisions you make tends to deteriorate as the day passes or when you have an important number of decisions to take. Try to spend less time on small decisions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Leadership is all about being {{sel50934}}",
+            "choice_V1l~yssqGL": "feared",
+            "choice_4k~Zyoo9ML": "loved",
+            "choice_VJNJsjcfL": "respected"
+        },
+        "fr": {
+            "header": "Que doit être l'état d'esprit d'un bon leader ?",
+            "explanation": "Sélectionnez votre réponse dans le menu déroulant.",
+            "klf": "En qualité de leader, votre objectif est d'être respecté par votre équipe. Vous devez accepter cette partie du poste qui consiste à prendre les décisions qui s'imposent, même si elles sont difficiles, et à gagner le respect de votre équipe en l'aidant à traverser des périodes éprouvantes.",
+            "tips": "Attention à la fatigue décisionnelle : la qualité de vos décisions se détériore avec le temps, ou lorsque vous devez prendre un grand nombre de décisions importantes. Veiller à passer moins de temps sur les décisions courantes.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Le leadership c'est avant tout être {{sel50934}}",
+            "choice_V1l~yssqGL": "craint",
+            "choice_4k~Zyoo9ML": "aimé",
+            "choice_VJNJsjcfL": "respecté"
+        },
+        "de": {
+            "header": "Was ist die richtige Einstellung für eine gute Führungskraft?",
+            "explanation": "Wählen Sie im Dropdown-Menü die richtige Antwort aus.",
+            "klf": "Als Führungskraft sollte es Ihr Ziel sein, von Ihrem Team respektiert zu werden. Sie müssen akzeptieren, dass es Teil des Jobs ist, die richtigen Entscheidungen zu treffen, auch wenn sie schwierig sind, und sich Respekt von Ihrem Team verdienen, indem Sie ihnen durch schwierige Zeiten helfen.",
+            "tips": "Hüten Sie sich vor Ermüdung von Entscheidungen: Die Qualität der Entscheidungen, die Sie treffen, verschlechtert sich im Laufe des Tages oder wenn Sie eine wichtige Anzahl von Entscheidungen treffen müssen. Versuchen Sie, weniger Zeit mit kleinen Entscheidungen zu verbringen.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "In Führungrollen geht es nur darum, {{sel50934}} zu werden.",
+            "choice_V1l~yssqGL": "gefürchtet",
+            "choice_4k~Zyoo9ML": "geliebt",
+            "choice_VJNJsjcfL": "respektiert"
+        },
+        "th": {
+            "header": "What is the right mindset for any good leader?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "As a leader, it should be your goal to be respected by your team. You must accept that it is part of the job to make the right decisions even if they are tough, and earn respect from your team by helping them through difficult times.",
+            "tips": "Beware of decision fatigue: the quality of decisions you make tends to deteriorate as the day passes or when you have an important number of decisions to take. Try to spend less time on small decisions.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Leadership is all about being {{sel50934}}",
+            "choice_V1l~yssqGL": "feared",
+            "choice_4k~Zyoo9ML": "loved",
+            "choice_VJNJsjcfL": "respected"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-15T15:32:59.097Z",
+            "updatedAt": "2019-05-02T08:18:43.405Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4krPaQEFI"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "juliadubois"
+        },
+        "ref": "sli_EJtJhY6KU",
+        "universalRef": "sli_EJtJhY6KU",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel26835",
+                        "items": [
+                            {
+                                "text": "choice_41ggEg9aKI",
+                                "value": "choice_41ggEg9aKI"
+                            },
+                            {
+                                "text": "choice_Ny~xNxq6tL",
+                                "value": "choice_Ny~xNxq6tL"
+                            },
+                            {
+                                "text": "choice_4ySreqpYI",
+                                "value": "choice_4ySreqpYI"
+                            },
+                            {
+                                "text": "choice_VJTPgcTKI",
+                                "value": "choice_VJTPgcTKI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel26835",
+                        "answers": [
+                            "choice_VJTPgcTKI"
+                        ]
+                    }
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_41iosOf5L",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What can you do to make the atmosphere less awkward on Monday mornings?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "If in doubt, focus on giving people autonomy, not fungineering.",
+            "tips": "The days around Bank Holidays are ideal to plan team building events, as it gives the team something to look forward to in a period that can be a bit unproductive.",
+            "clue": "",
+            "context_title": "As a proper fungineer, you try to organise a fun activity every Monday.",
+            "context_description": "You and your employees seem to have a different conception of fun...",
+            "context_media_description": "",
+            "template": "Give your employees {{sel26835}}.",
+            "choice_41ggEg9aKI": "some fun",
+            "choice_Ny~xNxq6tL": "toys to play with",
+            "choice_4ySreqpYI": "alcohol",
+            "choice_VJTPgcTKI": "autonomy"
+        },
+        "fr": {
+            "header": "Que pouvez-vous faire pour rendre l'atmosphère moins inconfortable le lundi matin ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "En cas de doute, veillez à l'autonomie de votre personnel, pas au « fungineering ».",
+            "tips": "Les jours autour des jours fériés sont idéaux pour planifier des événements de team building, car ils offrent à l'équipe une perspective motivante dans une période qui peut être un peu improductive.",
+            "clue": "",
+            "context_title": "En tant que bon « fungénieur », vous essayez d’organiser une activité amusante tous les lundis.",
+            "context_description": "Vos employés et vous semblez avoir une conception différente de l'amusement...",
+            "context_media_description": "",
+            "template": "Donner à vos employés {{sel26835}}.",
+            "choice_41ggEg9aKI": "un peu d'amusement",
+            "choice_Ny~xNxq6tL": "des jouets pour qu'ils puissent jouer",
+            "choice_4ySreqpYI": "de l'alcool",
+            "choice_VJTPgcTKI": "de l'autonomie"
+        },
+        "de": {
+            "header": "What can you do to make the atmosphere less awkward on Monday mornings?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "If in doubt, focus on giving people autonomy, not fungineering.",
+            "tips": "The days around Bank Holidays are ideal to plan team building events, as it gives the team something to look forward to in a period that can be a bit unproductive.",
+            "clue": "",
+            "context_title": "As a proper fungineer, you try to organise a fun activity every Monday. ",
+            "context_description": "You and your employees seem to have a different conception of fun...",
+            "context_media_description": "",
+            "template": "Give your employees {{sel26835}}.",
+            "choice_41ggEg9aKI": "some fun",
+            "choice_Ny~xNxq6tL": "toys to play with",
+            "choice_4ySreqpYI": "alcohol",
+            "choice_VJTPgcTKI": "autonomy"
+        },
+        "th": {
+            "header": "What can you do to make the atmosphere less awkward on Monday mornings?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "If in doubt, focus on giving people autonomy, not fungineering.",
+            "tips": "The days around Bank Holidays are ideal to plan team building events, as it gives the team something to look forward to in a period that can be a bit unproductive.",
+            "clue": "",
+            "context_title": "As a proper fungineer, you try to organise a fun activity every Monday.",
+            "context_description": "You and your employees seem to have a different conception of fun...",
+            "context_media_description": "",
+            "template": "Give your employees {{sel26835}}.",
+            "choice_41ggEg9aKI": "some fun",
+            "choice_Ny~xNxq6tL": "toys to play with",
+            "choice_4ySreqpYI": "alcohol",
+            "choice_VJTPgcTKI": "autonomy"
+        }
+    }
+}

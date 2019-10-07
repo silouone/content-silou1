@@ -1,0 +1,120 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-12-04T11:11:10.994Z",
+            "updatedAt": "2019-01-21T16:07:09.878Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJXmUr80H"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_NJTlkLyy8",
+        "universalRef": "sli_NJTlkLyy8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_NJTlkLyy8.choice_NJ5BkIJyU.id",
+                        "label": "choice_NJ5BkIJyU",
+                        "value": "choice_NJ5BkIJyU"
+                    },
+                    {
+                        "id": "sli_NJTlkLyy8.choice_41nU1L1kL.id",
+                        "label": "choice_41nU1L1kL",
+                        "value": "choice_41nU1L1kL"
+                    },
+                    {
+                        "id": "sli_NJTlkLyy8.choice_41BwkUkyL.id",
+                        "label": "choice_41BwkUkyL",
+                        "value": "choice_41BwkUkyL"
+                    },
+                    {
+                        "id": "sli_NJTlkLyy8.choice_VJRwyIk1U.id",
+                        "label": "choice_VJRwyIk1U",
+                        "value": "choice_VJRwyIk1U"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NJ5BkIJyU",
+                        "choice_41nU1L1kL",
+                        "choice_41BwkUkyL"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following are signs that two people are communicating as equals?",
+            "explanation": "Select the correct answers below.",
+            "klf": "When two people are communicating as equals, they easily use body language, and build on one another's suggestions. To do so, they need to ask each other relevant questions.",
+            "tips": "Being assertive can be hard no matter your hierarchical position. A manager can indicate submissive behaviour towards his/her employees as well. Power relationships at work are complex and not necessarily defined by the hierarchical organisation only.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ5BkIJyU": "Using open body language",
+            "choice_41nU1L1kL": "Building on one another's suggestions",
+            "choice_41BwkUkyL": "Asking relevant questions",
+            "choice_VJRwyIk1U": "Both people speak at the same volume"
+        },
+        "fr": {
+            "header": "Quelles options suivantes montrent que deux personnes communiquent d’égal à égal ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Lorsque des personnes communiquent d’égal à égal, elles adoptent un langage corporel ouvert, tirent parti des suggestions et posent des questions pertinentes. Pour cela, elles doivent se poser mutuellement des questions pertinentes.",
+            "tips": "Être assertif peut s’avérer difficile, quelle que soit votre position hiérarchique. Un Manager peut tout à fait adopter un comportement de soumission envers ses collaborateurs. Les rapports de force au travail sont complexes et ne sont pas nécessairement définis uniquement par l’organisation hiérarchique.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ5BkIJyU": "Adopter un langage corporel ouvert",
+            "choice_41nU1L1kL": "Tirer parti des suggestions de l'autre",
+            "choice_41BwkUkyL": "Poser des questions pertinentes",
+            "choice_VJRwyIk1U": "Les deux personnes parlent avec le même niveau sonore"
+        },
+        "de": {
+            "header": "Welches der folgenden Zeichen weist darauf hin, dass zwei Personen auf Augenhöhe miteinander kommunizieren?",
+            "explanation": "Wählen Sie unten die richtigen Antworten aus.",
+            "klf": "Wenn zwei Menschen auf Augenhöhe miteinander kommunizieren, verwenden sie leicht Körpersprache und bauen auf den Vorschlägen des anderen auf. Dazu müssen sie einander relevante Fragen stellen.",
+            "tips": "Durchsetzungsfähig sein, kann, unabhängig von Ihrer hierarchischen Position, schwierig sein. Ein Manager kann auch gegenüber seinen Mitarbeitern ein unterwürfiges Verhalten afuweisen. Machtverhältnisse bei der Arbeit sind komplex und nicht unbedingt nur durch die hierarchische Organisation definiert.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ5BkIJyU": "Offene Körpersprache verwenden",
+            "choice_41nU1L1kL": "Auf den Anregungen der anderen aufbauen",
+            "choice_41BwkUkyL": "Relevante Fragen stellen",
+            "choice_VJRwyIk1U": "Beide sprechen mit der gleichen Lautstärke"
+        },
+        "th": {
+            "header": "ข้อใดต่อไปนี้คือสัญญาณว่าคนสองคนกำลังสื่อสารกันอย่างผู้ที่เท่าเทียม",
+            "explanation": "เลือกคำตอบที่ถูกต้องด้านล่าง (มีข้อที่ถูกหลายข้อ)",
+            "klf": "เมื่อคนสองคนกำลังสื่อสารกันอย่างผู้ที่เท่าเทียม พวกเขาจะใช้ภาษากายอย่างราบรื่นและต่อยอดจากคำแนะนำของอีกฝ่าย ซึ่งทำได้โดยการถามคำถามที่เกี่ยวข้องซึ่งกันและกัน",
+            "tips": "การกล้าแสดงออกอาจเป็นเรื่องยากไม่ว่าคุณจะอยู่สถานะไหนในสายการบังคับบัญชา ผู้จัดการคนหนึ่งอาจมีพฤติกรรมอ่อนน้อมต่อพนักงานของเขาหรือเธอได้เช่นกัน ความสัมพันธ์เชิงอำนาจในที่ทำงานเป็นเรื่องซับซ้อนและไม่จำเป็นต้องนิยามโดยองค์กรที่มีสายบังคับบัญชาเท่านั้น",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJ5BkIJyU": "การใช้ภาษากายที่เปิดเผย",
+            "choice_41nU1L1kL": "การต่อยอดจากคำแนะนำของอีกฝ่าย",
+            "choice_41BwkUkyL": "การถามคำถามที่เกี่ยวข้อง",
+            "choice_VJRwyIk1U": "ทั้งสองคนพูดด้วยระดับเสียงที่ใกล้เคียงกัน"
+        }
+    }
+}

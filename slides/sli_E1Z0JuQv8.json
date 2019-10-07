@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-14T16:28:17.370Z",
+            "updatedAt": "2019-03-20T09:24:40.455Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4kwsyulwI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_E1Z0JuQv8",
+        "universalRef": "sli_E1Z0JuQv8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel87715",
+                        "items": [
+                            {
+                                "text": "choice_NJg~lxO7w8",
+                                "value": "choice_NJg~lxO7w8"
+                            },
+                            {
+                                "text": "choice_N1bWlldmPL",
+                                "value": "choice_N1bWlldmPL"
+                            },
+                            {
+                                "text": "choice_NJAWeuXvI",
+                                "value": "choice_NJAWeuXvI"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel87715",
+                        "answers": [
+                            "choice_N1bWlldmPL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How does thinking about the worst possible outcomes help in difficult situations?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Understand that in almost all cases, you could cope with the worst-case scenario if it occurred.",
+            "tips": "Murphy's Law (developed by the aerospace engineer Edward A. Murphy) typically states ‘Anything that can go wrong will go wrong’. It's interesting not to consider this law as <i>necessarily</i> true, but as <i>potentially</i> true. This enables, for example, to design ultra-secure products/strategies, able to cope with the most unlikely negative events and decisions from the users.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It helps us {{sel87715}}.",
+            "choice_NJg~lxO7w8": "work harder to avoid these bad outcomes",
+            "choice_N1bWlldmPL": "realise we can cope even if things go wrong",
+            "choice_NJAWeuXvI": "give up and try something else"
+        },
+        "fr": {
+            "header": "Comment le fait de réfléchir aux pires issues possibles peut-il nous aider dans des situations difficiles ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Comprenez que dans presque tous les cas, vous pourriez faire face au pire des scénarios s'il se produisait.",
+            "tips": "La loi de Murphy (élaborée par l'ingénieur en aérospatiale Edward A. Murphy) stipule généralement que « tout ce qui peut mal tourner va mal tourner ». Il est intéressant de ne pas considérer cette loi comme <i>nécessairement</i> vraie, mais comme <i>potentiellement</i> vraie. Cela permet, par exemple, de concevoir des produits/stratégies ultra-sécurisés, capables de faire face aux décisions et événements négatifs les plus improbables des utilisateurs.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Cela nous aide à {{sel87715}}.",
+            "choice_NJg~lxO7w8": "travailler davantage pour éviter ces mauvaises issues",
+            "choice_N1bWlldmPL": "réaliser que nous pouvons y faire face même si les choses tournent mal",
+            "choice_NJAWeuXvI": "abandonner et essayer autre chose"
+        },
+        "de": {
+            "header": "How does thinking about the worst possible outcomes help in difficult situations?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Understand that in almost all cases, you could cope with the worst-case scenario if it occurred.",
+            "tips": "Murphy's Law (developed by the aerospace engineer Edward A. Murphy) typically states ‘Anything that can go wrong will go wrong’. It's interesting not to consider this law as <i>necessarily</i> true, but as <i>potentially</i> true. This enables, for example, to design ultra-secure products/strategies, able to cope with the most unlikely negative events and decisions from the users.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It helps us {{sel87715}}.",
+            "choice_NJg~lxO7w8": "work harder to avoid these bad outcomes",
+            "choice_N1bWlldmPL": "realise we can cope even if things go wrong",
+            "choice_NJAWeuXvI": "give up and try something else"
+        },
+        "th": {
+            "header": "How does thinking about the worst possible outcomes help in difficult situations?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Understand that in almost all cases, you could cope with the worst-case scenario if it occurred.",
+            "tips": "Murphy's Law (developed by the aerospace engineer Edward A. Murphy) typically states ‘Anything that can go wrong will go wrong’. It's interesting not to consider this law as <i>necessarily</i> true, but as <i>potentially</i> true. This enables, for example, to design ultra-secure products/strategies, able to cope with the most unlikely negative events and decisions from the users.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "It helps us {{sel87715}}.",
+            "choice_NJg~lxO7w8": "work harder to avoid these bad outcomes",
+            "choice_N1bWlldmPL": "realise we can cope even if things go wrong",
+            "choice_NJAWeuXvI": "give up and try something else"
+        }
+    }
+}

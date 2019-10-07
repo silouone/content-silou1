@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-15T10:06:09.092Z",
+            "updatedAt": "2018-11-09T12:35:37.647Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NkATBUVqH"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "LaurenceMD"
+        },
+        "ref": "sli_EkJFrUa9r",
+        "universalRef": "sli_EkJFrUa9r",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EkJFrUa9r.choice_V1vKrL6cS.id",
+                        "label": "choice_V1vKrL6cS",
+                        "value": "choice_V1vKrL6cS"
+                    },
+                    {
+                        "id": "sli_EkJFrUa9r.choice_V1-YS8aqr.id",
+                        "label": "choice_V1-YS8aqr",
+                        "value": "choice_V1-YS8aqr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_V1vKrL6cS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to convince gatekeepers of change?",
+            "explanation": "Select the correct answer.",
+            "klf": "Use language the gatekeepers will understand to explain the benefits of the change. For example, if the gatekeeper is a finance director, use financial language.",
+            "tips": "Filling your speech with facts and data isn't always the best solution to getting to yes with your gatekeeper. Add emotion and intuition to your logical arguments.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1vKrL6cS": "Explain the benefits using language they understand",
+            "choice_V1-YS8aqr": "Tell them your idea is solid; tried and tested"
+        },
+        "fr": {
+            "header": "Quelle est le moyen le plus efficace de faire adhérer des gardiens au changement ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Expliquez aux gardiens, dans leur langue, quels seront les avantages du changement. Par exemple, si le gardien est un directeur financier, utilisez le langage de la finance.",
+            "tips": "Illustrer votre discours avec des faits et des données n’est pas toujours la meilleure solution pour obtenir l’adhésion de votre gardien. Ajoutez à votre argumentation logique une part d’émotion et d’intuition.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1vKrL6cS": "Leur expliquer les bénéfices associés en employant une langue qu’ils comprennent",
+            "choice_V1-YS8aqr": "Leur rappeler que vos idées sont fondées ; testées et approuvées"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um Torwächter von Veränderungen zu überzeugen?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Verwenden Sie eine Sprache, die die Gatekeeper verstehen, um die Vorteile der Änderung zu erklären. Wenn der Gatekeeper beispielsweise Finanzdirektor ist, verwenden Sie die Finanzsprache.",
+            "tips": "Wenn Sie Ihre Rede mit Fakten und Daten füllen, ist dies nicht immer die beste Lösung, um mit Ihrem Gatekeeper ein Ja zu erreichen. Fügen Sie Ihren logischen Argumenten Emotion und Intuition hinzu.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1vKrL6cS": "Erläutern Sie die Vorteile der Sprache, die sie verstehen",
+            "choice_V1-YS8aqr": "Sagen Sie ihnen, dass Ihre Idee solide ist. ausprobiert und getestet"
+        },
+        "th": {
+            "header": "What’s the best way to convince gatekeepers of change?",
+            "explanation": "Select the correct answer.",
+            "klf": "Use language the gatekeepers will understand to explain the benefits of the change. For example, if the gatekeeper is a finance director, use financial language.",
+            "tips": "Filling your speech with facts and data isn't always the best solution to getting to yes with your gatekeeper. Add emotion and intuition to your logical arguments.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1vKrL6cS": "Explain the benefits using language they understand",
+            "choice_V1-YS8aqr": "Tell them your idea is solid; tried and tested"
+        }
+    }
+}

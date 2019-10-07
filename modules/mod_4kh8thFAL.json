@@ -1,0 +1,70 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-12T09:49:25.321Z",
+            "updatedAt": "2019-08-06T08:17:38.609Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-08-12T09:47:40.093Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_41NRu2FCL"
+            ],
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "juliadubois"
+        },
+        "ref": "mod_4kh8thFAL",
+        "universalRef": "mod_4kh8thFAL",
+        "level": 1,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_NJrz3iBkw",
+            "skill_4JqBnjrkP",
+            "skill_NJ4u2oBJP"
+        ],
+        "ineligibleBattle": false,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        },
+        "version": "4",
+        "creditsToAccess": 1
+    },
+    "locales": {
+        "en": {
+            "skill_NJrz3iBkw": "Greet and start off a phone conversation on the right foot",
+            "skill_4JqBnjrkP": "Use effective questioning over the phone",
+            "skill_NJ4u2oBJP": "Agree actions before hanging up"
+        },
+        "fr": {
+            "skill_NJrz3iBkw": "Saluer et commencer une conversation téléphonique du bon pied",
+            "skill_4JqBnjrkP": "Utiliser un questionnement efficace par téléphone",
+            "skill_NJ4u2oBJP": "Convenir des prochaines mesures avant de raccrocher"
+        },
+        "de": {
+            "skill_NJrz3iBkw": "Greet and start off a phone conversation on the right foot",
+            "skill_4JqBnjrkP": "Use effective questioning over the phone",
+            "skill_NJ4u2oBJP": "Agree actions before hanging up"
+        },
+        "th": {
+            "skill_NJrz3iBkw": "Greet and start off a phone conversation on the right foot",
+            "skill_4JqBnjrkP": "Use effective questioning over the phone",
+            "skill_NJ4u2oBJP": "Agree actions before hanging up"
+        }
+    }
+}

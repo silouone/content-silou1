@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-11T09:05:31.859Z",
+            "updatedAt": "2019-04-11T10:32:04.311Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_41ncHmEtI"
+            ],
+            "status": "draft",
+            "modifiedBy": "CamilleT18",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "sli_EksgzedF8",
+        "universalRef": "sli_EksgzedF8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel77858",
+                        "items": [
+                            {
+                                "text": "choice_NJgOmfluYL",
+                                "value": "choice_NJgOmfluYL"
+                            },
+                            {
+                                "text": "choice_VkW-QfgdYL",
+                                "value": "choice_VkW-QfgdYL"
+                            },
+                            {
+                                "text": "choice_VJK4feOK8",
+                                "value": "choice_VJK4feOK8"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel77858",
+                        "answers": [
+                            "choice_VkW-QfgdYL"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How do people determine how attractive an option is?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "People rely on comparisons to determine how attractive an option is.",
+            "tips": "Don't overwhelm the person you want to convince with too many options. If people love having the power of choice, they are less likely to make any decision at all if they are faced with too many possibilities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "They {{sel77858}}.",
+            "choice_NJgOmfluYL": "judge it on its own merits",
+            "choice_VkW-QfgdYL": "compare it to other options",
+            "choice_VJK4feOK8": "always prefer the first option they're offered"
+        },
+        "fr": {
+            "header": "De quelle façon les gens déterminent-ils le degré d'attractivité d'une option ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les gens s’appuient sur des comparaisons pour déterminer l’attrait d’une option.",
+            "tips": "Ne submergez pas la personne que vous voulez convaincre avec trop d'options. Si les gens aiment avoir le pouvoir de choisir, ils sont moins susceptibles de prendre une décision s'ils sont confrontés à trop de possibilités.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Ils {{sel77858}}.",
+            "choice_NJgOmfluYL": "la jugent pour ce qu'elle vaut",
+            "choice_VkW-QfgdYL": "la comparent à d'autres options",
+            "choice_VJK4feOK8": "préfèrent toujours la première option qui leur a été présentée"
+        },
+        "de": {
+            "header": "How do people determine how attractive an option is?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "People rely on comparisons to determine how attractive an option is.",
+            "tips": "Don't overwhelm the person you want to convince with too many options. If people love having the power of choice, they are less likely to make any decision at all if they are faced with too many possibilities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "They {{sel77858}}.",
+            "choice_NJgOmfluYL": "judge it on its own merits",
+            "choice_VkW-QfgdYL": "compare it to other options",
+            "choice_VJK4feOK8": "always prefer the first option they're offered"
+        },
+        "th": {
+            "header": "How do people determine how attractive an option is?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "People rely on comparisons to determine how attractive an option is.",
+            "tips": "Don't overwhelm the person you want to convince with too many options. If people love having the power of choice, they are less likely to make any decision at all if they are faced with too many possibilities.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "They {{sel77858}}.",
+            "choice_NJgOmfluYL": "judge it on its own merits",
+            "choice_VkW-QfgdYL": "compare it to other options",
+            "choice_VJK4feOK8": "always prefer the first option they're offered"
+        }
+    }
+}

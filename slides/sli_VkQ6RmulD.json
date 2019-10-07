@@ -1,0 +1,122 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-07-05T12:20:39.946Z",
+            "updatedAt": "2019-08-02T08:18:55.926Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJSUnZDev"
+            ],
+            "modifiedBy": "CamilleT18",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_VkQ6RmulD",
+        "universalRef": "sli_VkQ6RmulD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_VkQ6RmulD.field_418f1EOlw.id",
+                        "type": "text",
+                        "name": "inp78905"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp78905",
+                        "answers": [
+                            "choice_N1zUzJVueD",
+                            "choice_NyCGJEueD",
+                            "choice_4yfmJE-lD",
+                            "choice_4kSXyEdxw",
+                            "choice_EkdmyEulP",
+                            "choice_4J9NkNugD"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What would a front desk robot always lack, event the most advanced one?",
+            "explanation": "Type your answer.",
+            "klf": "Human touch is of prior importance in customer service. And that's the reason why despite everything that's being said about AI and robots, we will always need humans at work!",
+            "tips": "Have you heard already about the ‘uncanny valley’? This concept, identified by the robotics professor Masahiro Mori, suggests that past a certain degree of resemblance to a human being, humanoid objects get more and more uncanny and creepy, resulting in a gut rejection from anyone trying to interact with it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "A {{inp78905}} touch.",
+            "choice_N1zUzJVueD": "human",
+            "choice_NyCGJEueD": "Human",
+            "choice_4yfmJE-lD": "humane",
+            "choice_4kSXyEdxw": "humain",
+            "choice_EkdmyEulP": "sensitive",
+            "choice_4J9NkNugD": "emotionnal"
+        },
+        "fr": {
+            "header": "Que manquera-t-il toujours à un robot de réception, même le plus avancé ?",
+            "explanation": "Tapez votre réponse.",
+            "klf": "Le contact humain est primordial dans le service client. Et c'est la raison pour laquelle, malgré tout ce qui se dit sur l'IA et les robots, nous aurons toujours besoin d'humains au travail !",
+            "tips": "Avez-vous déjà entendu parler de la « vallée dérangeante » ? Ce concept, identifié par le professeur de robotique Masahiro Mori, suggère qu'au-delà d'un certain degré de ressemblance avec un être humain, les objets humanoïdes deviennent de plus en plus étranges et effrayants, entraînant un rejet viscéral chez tous ceux qui tentent d'interagir avec eux.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Un contact {{inp78905}} .",
+            "choice_N1zUzJVueD": "humain",
+            "choice_NyCGJEueD": "Humain",
+            "choice_4yfmJE-lD": "hummain",
+            "choice_4kSXyEdxw": "humainn",
+            "choice_EkdmyEulP": "sensible",
+            "choice_4J9NkNugD": "émotionnel"
+        },
+        "de": {
+            "header": "What would a front desk robot always lack, event the most advanced one?",
+            "explanation": "Type your answer.",
+            "klf": "Human touch is of prior importance in customer service. And that's the reason why despite everything that's being said about AI and robots, we will always need humans at work!",
+            "tips": "Have you heard already about the ‘uncanny valley’? This concept, identified by the robotics professor Masahiro Mori, suggests that past a certain degree of resemblance to a human being, humanoid objects get more and more uncanny and creepy, resulting in a gut rejection from anyone trying to interact with it.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "A {{inp78905}} touch.",
+            "choice_N1zUzJVueD": "human",
+            "choice_NyCGJEueD": "Human",
+            "choice_4yfmJE-lD": "humane",
+            "choice_4kSXyEdxw": "humain",
+            "choice_EkdmyEulP": "sensitive",
+            "choice_4J9NkNugD": "emotionnal"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp78905}}",
+            "choice_N1zUzJVueD": "",
+            "choice_NyCGJEueD": "",
+            "choice_4yfmJE-lD": "",
+            "choice_4kSXyEdxw": "",
+            "choice_EkdmyEulP": "",
+            "choice_4J9NkNugD": ""
+        }
+    }
+}

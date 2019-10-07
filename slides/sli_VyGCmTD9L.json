@@ -1,0 +1,127 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T09:09:57.660Z",
+            "updatedAt": "2019-04-23T12:48:28.504Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkY1s3w5I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_VyGCmTD9L",
+        "universalRef": "sli_VyGCmTD9L",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel10221",
+                        "items": [
+                            {
+                                "text": "choice_NygoHBTvq8",
+                                "value": "choice_NygoHBTvq8"
+                            },
+                            {
+                                "text": "choice_N1ZsBHpP5I",
+                                "value": "choice_N1ZsBHpP5I"
+                            },
+                            {
+                                "text": "choice_Nk1dH6wq8",
+                                "value": "choice_Nk1dH6wq8"
+                            },
+                            {
+                                "text": "choice_Nk6-S6w9L",
+                                "value": "choice_Nk6-S6w9L"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel10221",
+                        "answers": [
+                            "choice_NygoHBTvq8"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What is a recall question?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Recall questions can be used to make the customer think back. They are useful in helping to build a history of your customer.",
+            "tips": "‘Your memory is a monster; you forget – it doesn't. It simply files things away. It keeps things for you, or hides things from you – and summons them to your recall with a will of its own. You think you have a memory; but it has you.’ John Irving",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "One which {{sel10221}}",
+            "choice_NygoHBTvq8": "needs thinking about",
+            "choice_N1ZsBHpP5I": "has no right answer",
+            "choice_Nk1dH6wq8": "doesn’t need an answer",
+            "choice_Nk6-S6w9L": "can be answered by yes or no"
+        },
+        "fr": {
+            "header": "Qu'est-ce qu'une question de rappel ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Les questions de rappel peuvent être utilisées pour amener le client à réfléchir. Elles sont utiles pour aider à construire un historique de votre client.",
+            "tips": "« Votre mémoire est un monstre ; vous oubliez - elle non. Elle classe simplement les choses. Elle les conserve pour vous ou vous les cache - et les rappelle à votre souvenir selon sa propre volonté. Vous pensez avoir une mémoire ; mais c'est elle qui vous a. » John Irving",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Une qui {{sel10221}}",
+            "choice_NygoHBTvq8": "nécessite de la réflexion",
+            "choice_N1ZsBHpP5I": "n'a pas de bonne réponse",
+            "choice_Nk1dH6wq8": "n'a pas besoin de réponse",
+            "choice_Nk6-S6w9L": "peut être répondue par oui ou non"
+        },
+        "de": {
+            "header": "What is a recall question?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Recall questions can be used to make the customer think back. They are useful in helping to build a history of your customer.",
+            "tips": "‘Your memory is a monster; you forget – it doesn't. It simply files things away. It keeps things for you, or hides things from you – and summons them to your recall with a will of its own. You think you have a memory; but it has you.’ John Irving",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "One which {{sel10221}}",
+            "choice_NygoHBTvq8": "needs thinking about",
+            "choice_N1ZsBHpP5I": "has no right answer",
+            "choice_Nk1dH6wq8": "doesn’t need an answer",
+            "choice_Nk6-S6w9L": "can be answered by yes or no"
+        },
+        "th": {
+            "header": "What is a recall question?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Recall questions can be used to make the customer think back. They are useful in helping to build a history of your customer.",
+            "tips": "‘Your memory is a monster; you forget – it doesn't. It simply files things away. It keeps things for you, or hides things from you – and summons them to your recall with a will of its own. You think you have a memory; but it has you.’ John Irving",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "One which {{sel10221}}",
+            "choice_NygoHBTvq8": "needs thinking about",
+            "choice_N1ZsBHpP5I": "has no right answer",
+            "choice_Nk1dH6wq8": "doesn’t need an answer",
+            "choice_Nk6-S6w9L": "can be answered by yes or no"
+        }
+    }
+}

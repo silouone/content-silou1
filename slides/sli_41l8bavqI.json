@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-23T08:55:04.665Z",
+            "updatedAt": "2019-04-23T12:34:58.668Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkY1s3w5I"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_41l8bavqI",
+        "universalRef": "sli_41l8bavqI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41l8bavqI.choice_VJM1GTDqI.id",
+                        "label": "choice_VJM1GTDqI",
+                        "value": "choice_VJM1GTDqI"
+                    },
+                    {
+                        "id": "sli_41l8bavqI.choice_VJlxfaD98.id",
+                        "label": "choice_VJlxfaD98",
+                        "value": "choice_VJlxfaD98"
+                    },
+                    {
+                        "id": "sli_41l8bavqI.choice_VJLeGTDc8.id",
+                        "label": "choice_VJLeGTDc8",
+                        "value": "choice_VJLeGTDc8"
+                    },
+                    {
+                        "id": "sli_41l8bavqI.choice_EJCxM6wc8.id",
+                        "label": "choice_EJCxM6wc8",
+                        "value": "choice_EJCxM6wc8"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJLeGTDc8",
+                        "choice_VJlxfaD98",
+                        "choice_VJM1GTDqI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "When are closed questions useful?",
+            "explanation": "Select the correct answers.",
+            "klf": "Closed questions help get basic information quickly and effectively. Therefore, they can be useful at the start and end of conversations, as well as perhaps to check a customer’s understanding during a conversation.",
+            "tips": "A typical closed question leads to a Yes or No answer. But this very MCQ is also a closed question!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJM1GTDqI": "When you need a definitive answer",
+            "choice_VJlxfaD98": "To summarise information and check understanding",
+            "choice_VJLeGTDc8": "To slow down a chatty customer",
+            "choice_EJCxM6wc8": "When you want to get more information"
+        },
+        "fr": {
+            "header": "Quand les questions fermées sont-elles utiles ?",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Les questions fermées aident à obtenir des informations de base rapidement et efficacement. Par conséquent, elles peuvent être utiles au début et à la fin d'une conversation, ainsi que pour vérifier la compréhension du client au cours de cette dernière.",
+            "tips": "Une question fermée typique conduit à une réponse par oui ou par non. Mais ce QCM est en soi également une question fermée !",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJM1GTDqI": "Quand vous avez besoin d'une réponse définitive",
+            "choice_VJlxfaD98": "Pour résumer les informations et vérifier la compréhension",
+            "choice_VJLeGTDc8": "Pour ralentir un client bavard",
+            "choice_EJCxM6wc8": "Quand vous voulez obtenir plus d'informations"
+        },
+        "de": {
+            "header": "When are closed questions useful?",
+            "explanation": "Select the correct answers.",
+            "klf": "Closed questions help get basic information quickly and effectively. Therefore, they can be useful at the start and end of conversations, as well as perhaps to check a customer’s understanding during a conversation.",
+            "tips": "A typical closed question leads to a Yes or No answer. But this very MCQ is also a closed question!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJM1GTDqI": "When you need a definitive answer",
+            "choice_VJlxfaD98": "To summarise information and check understanding",
+            "choice_VJLeGTDc8": "To slow down a chatty customer",
+            "choice_EJCxM6wc8": "When you want to get more information"
+        },
+        "th": {
+            "header": "When are closed questions useful?",
+            "explanation": "Select the correct answers.",
+            "klf": "Closed questions help get basic information quickly and effectively. Therefore, they can be useful at the start and end of conversations, as well as perhaps to check a customer’s understanding during a conversation.",
+            "tips": "A typical closed question leads to a Yes or No answer. But this very MCQ is also a closed question!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJM1GTDqI": "When you need a definitive answer",
+            "choice_VJlxfaD98": "To summarise information and check understanding",
+            "choice_VJLeGTDc8": "To slow down a chatty customer",
+            "choice_EJCxM6wc8": "When you want to get more information"
+        }
+    }
+}

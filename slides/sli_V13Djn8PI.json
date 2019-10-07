@@ -1,0 +1,119 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-17T04:27:01.511Z",
+            "updatedAt": "2019-05-07T13:04:34.517Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4Ju6XVJPL"
+            ],
+            "status": "draft",
+            "modifiedBy": "MoranaE",
+            "createdBy": "MaSchneiter"
+        },
+        "ref": "sli_V13Djn8PI",
+        "universalRef": "sli_V13Djn8PI",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel39471",
+                        "items": [
+                            {
+                                "text": "choice_N1xVci28P8",
+                                "value": "choice_N1xVci28P8"
+                            },
+                            {
+                                "text": "choice_4kbVcsn8P8",
+                                "value": "choice_4kbVcsn8P8"
+                            },
+                            {
+                                "text": "choice_V1D9s2LvU",
+                                "value": "choice_V1D9s2LvU"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel39471",
+                        "answers": [
+                            "choice_V1D9s2LvU"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Before performing the review, what should you have a good understanding of?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "To perform an effective review, it’s vital that you have a clear understanding of the employee’s tasks and responsibilities.",
+            "tips": "Today, the ‘360 review’ dominates the world of performance review, drawing from several sources, not only the direct manager.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The employee's  {{sel39471}} .",
+            "choice_N1xVci28P8": "absence record",
+            "choice_4kbVcsn8P8": "salary",
+            "choice_V1D9s2LvU": "tasks and responsibilities"
+        },
+        "fr": {
+            "header": "Avant de procéder à l’évaluation, que devriez-vous bien comprendre ?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "Pour effectuer une évaluation efficace, il est essentiel que vous compreniez bien les tâches et les responsabilités de l’employé.",
+            "tips": "Aujourd’hui, l' « évaluation à  360° », qui s’appuie sur plusieurs sources et pas seulement le supérieur hiérarchique, domine le monde de l'évaluation de performance.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel39471}} de l'employé.",
+            "choice_N1xVci28P8": "La fiche de présence",
+            "choice_4kbVcsn8P8": "Le salaire",
+            "choice_V1D9s2LvU": "Les tâches et responsabilités"
+        },
+        "de": {
+            "header": "Before performing the review, what should you have a good understanding of?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "To perform an effective review, it’s vital that you have a clear understanding of the employee’s tasks and responsibilities.",
+            "tips": "Today, the ‘360 review’ dominates the world of performance review, drawing from several sources, not only the direct manager.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The employee's  {{sel39471}} .",
+            "choice_N1xVci28P8": "absence record",
+            "choice_4kbVcsn8P8": "salary",
+            "choice_V1D9s2LvU": "tasks and responsibilities"
+        },
+        "th": {
+            "header": "Before performing the review, what should you have a good understanding of?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "To perform an effective review, it’s vital that you have a clear understanding of the employee’s tasks and responsibilities.",
+            "tips": "Today, the ‘360 review’ dominates the world of performance review, drawing from several sources, not only the direct manager.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "The employee's  {{sel39471}} .",
+            "choice_N1xVci28P8": "absence record",
+            "choice_4kbVcsn8P8": "salary",
+            "choice_V1D9s2LvU": "tasks and responsibilities"
+        }
+    }
+}

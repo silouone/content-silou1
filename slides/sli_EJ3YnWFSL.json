@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-22T16:42:03.587Z",
+            "updatedAt": "2019-02-25T09:48:10.472Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Vy3DdnQB8"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThereseG",
+            "createdBy": "ThereseG"
+        },
+        "ref": "sli_EJ3YnWFSL",
+        "universalRef": "sli_EJ3YnWFSL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_EJ3YnWFSL.choice_VJl-jn~Kr8.id",
+                        "label": "choice_VJl-jn~Kr8",
+                        "value": "choice_VJl-jn~Kr8",
+                        "media": "med_Eyus3~FSI"
+                    },
+                    {
+                        "id": "sli_EJ3YnWFSL.choice_4JgKo2WKBI.id",
+                        "label": "choice_4JgKo2WKBI",
+                        "value": "choice_4JgKo2WKBI",
+                        "media": "med_Nytoh~FBL"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JgKo2WKBI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Sharing with customers the dysfunctions of your department will make them understand the reasons behind their complaints and your difficult position… That’s the best response to a complaint.",
+            "explanation": "Select the correct answers.",
+            "klf": "Do never get drawn into criticizing your product or your company. The customers are already unhappy, no need to ad more fuel to their complaint while undermining the reputation of the company.",
+            "tips": "‘It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.’ Warren Buffett",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJl-jn~Kr8": "TRUE",
+            "choice_4JgKo2WKBI": "FALSE"
+        },
+        "fr": {
+            "header": "Partager aux clients les dysfonctionnements de votre service leur fera comprendre les raisons de leurs plaintes et votre position difficile… C’est la meilleure réponse à donner à une plainte.",
+            "explanation": "Sélectionnez les bonnes réponses.",
+            "klf": "Ne vous laissez jamais entraîner à critiquer votre produit ou votre entreprise. Les clients sont déjà mécontents, pas besoin de jeter de l'huile sur le feu tout en minant la réputation de l'entreprise.",
+            "tips": "« Il faut 20 ans pour se faire une réputation et cinq minutes pour la ruiner. Si vous y réfléchissez, vous ferez les choses différemment. » Warren Buffett",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJl-jn~Kr8": "Vrai",
+            "choice_4JgKo2WKBI": "Faux"
+        },
+        "de": {
+            "header": "Wenn Sie die Funktionsstörungen Ihrer Abteilung mit den Kunden teilen, werden sie die Gründe für ihre Beschwerden und Ihre schwierige Position verstehen. Dies ist die beste Antwort auf eine Beschwerde.",
+            "explanation": "Wählen Sie die richtigen Antworten aus.",
+            "klf": "Lassen Sie sich nicht dazu bringen, Ihr Produkt oder Ihr Unternehmen zu kritisieren. Die Kunden sind bereits unglücklich, es ist nicht nötig, der Beschwerde mehr Treibstoff hinzuzufügen, während der Ruf des Unternehmens untergraben wird.",
+            "tips": "\"Es braucht 20 Jahre, um sich einen guten Ruf aufzubauen und fünf Minuten, um ihn zu ruinieren. Wenn Sie darüber nachdenken, werden Sie die Dinge anders machen.\" Warren Buffett",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJl-jn~Kr8": "Wahr",
+            "choice_4JgKo2WKBI": "Falsch"
+        },
+        "th": {
+            "header": "Sharing with customers the dysfunctions of your department will make them understand the reasons behind their complaints and your difficult position… That’s the best response to a complaint.",
+            "explanation": "Select the correct answers.",
+            "klf": "Do never get drawn into criticizing your product or your company. The customers are already unhappy, no need to ad more fuel to their complaint while undermining the reputation of the company.",
+            "tips": "‘It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.’ Warren Buffett",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJl-jn~Kr8": "TRUE",
+            "choice_4JgKo2WKBI": "FALSE"
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-04-10T14:59:12.525Z",
+            "updatedAt": "2019-04-10T14:59:12.525Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_4JForXVKU"
+            ],
+            "status": "draft",
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_NyGhQxvF8",
+        "universalRef": "sli_NyGhQxvF8",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_NyGhQxvF8.choice_NJlaaXlvYU.id",
+                        "label": "choice_NJlaaXlvYU",
+                        "value": "choice_NJlaaXlvYU",
+                        "media": "med_V1Ta7xvK8"
+                    },
+                    {
+                        "id": "sli_NyGhQxvF8.choice_NyeyA7lDFI.id",
+                        "label": "choice_NyeyA7lDFI",
+                        "value": "choice_NyeyA7lDFI",
+                        "media": "med_N110QlvtI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyeyA7lDFI"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? To reassure potential clients, you should always give them 7 reasons why they should work with you.",
+            "explanation": "Select the correct answer.",
+            "klf": "There is such a thing as too many arguments. When someone knows that you have a vested interest in winning them over (i.e. in a sales pitch), they’re likely to be wary of you over-promising just to get their business.",
+            "tips": "When making your case, avoid purely subjective claims and base your arguments on facts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJlaaXlvYU": "TRUE",
+            "choice_NyeyA7lDFI": "FALSE"
+        },
+        "fr": {
+            "header": "Vrai ou faux ? Pour rassurer les clients potentiels, vous devez toujours leur indiquer 7 raisons pour lesquelles ils devraient travailler avec vous.",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "On peut vraiment lister trop d'arguments. Lorsque quelqu'un sait que vous avez tout intérêt à le rallier à votre cause (c'est-à-dire, dans le cadre d'un argumentaire de vente), il y a de fortes chances qu'il se méfie de vos promesses excessives, faites uniquement dans le but de conclure l'affaire.",
+            "tips": "Lorsque vous présentez votre argumentaire, évitez les affirmations purement subjectives et basez vos arguments sur des faits.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJlaaXlvYU": "VRAI",
+            "choice_NyeyA7lDFI": "FAUX"
+        },
+        "de": {
+            "header": "True or false? To reassure potential clients, you should always give them 7 reasons why they should work with you. ",
+            "explanation": "Select the correct answer.",
+            "klf": "There is such a thing as too many arguments. When someone knows that you have a vested interest in winning them over (i.e. in a sales pitch), they’re likely to be wary of you over-promising just to get their business.",
+            "tips": "When making your case, avoid purely subjective claims and base your arguments on facts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJlaaXlvYU": "True",
+            "choice_NyeyA7lDFI": "False"
+        },
+        "th": {
+            "header": "True or false? To reassure potential clients, you should always give them 7 reasons why they should work with you.",
+            "explanation": "Select the correct answer.",
+            "klf": "There is such a thing as too many arguments. When someone knows that you have a vested interest in winning them over (i.e. in a sales pitch), they’re likely to be wary of you over-promising just to get their business.",
+            "tips": "When making your case, avoid purely subjective claims and base your arguments on facts.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_NJlaaXlvYU": "TRUE",
+            "choice_NyeyA7lDFI": "FALSE"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-08-13T15:23:00.474Z",
+            "updatedAt": "2019-08-13T15:23:00.474Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EkNmsk4Qw"
+            ],
+            "modifiedBy": "ChRitzmannch",
+            "createdBy": "ChRitzmannch"
+        },
+        "ref": "sli_N1sn7ajmP",
+        "universalRef": "sli_N1sn7ajmP",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "type": "select",
+                        "name": "sel69162",
+                        "items": [
+                            {
+                                "text": "choice_4yxLbE6s7w",
+                                "value": "choice_4yxLbE6s7w"
+                            },
+                            {
+                                "text": "choice_VkWIWN6jXD",
+                                "value": "choice_VkWIWN6jXD"
+                            },
+                            {
+                                "text": "choice_4kwf4ai7w",
+                                "value": "choice_4kwf4ai7w"
+                            }
+                        ]
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "sel69162",
+                        "answers": [
+                            "choice_VkWIWN6jXD"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which of the following qualities should you work on to build a lasting professional partnership with your client?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Trust is one of the keys to building a long-lasting business partnership. By showing your client that you understand their needs and can be of value to them beyond their initial situation, you demonstrate that they can trust you.",
+            "tips": "To build up trust, address concerns or issues directly and tell the truth. This also means not committing to promises you can't keep!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Work on building {{sel69162}} relationship.",
+            "choice_4yxLbE6s7w": "a competitive",
+            "choice_VkWIWN6jXD": "a trusting",
+            "choice_4kwf4ai7w": "an unemotional"
+        },
+        "fr": {
+            "header": "Sur quelles qualités devez-vous travailler pour construire un partenariat professionnel durable avec votre client?",
+            "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+            "klf": "La confiance est l’une des clés de la création d’un partenariat commercial durable. En montrant à votre client que vous comprenez ses besoins et que vous pouvez lui être utile au-delà de sa situation initiale, vous montrez qu'il peut vous faire confiance.",
+            "tips": "Construire la confiance, adresser directement les préoccupations ou les problèmes et dire la vérité. Cela signifie également ne pas s'engager dans des promesses que vous ne pouvez pas tenir!",
+            "template": "Travaillez à créer une relation {{sel69162}} .",
+            "choice_4yxLbE6s7w": "un concurrentiel",
+            "choice_VkWIWN6jXD": "une confiance",
+            "choice_4kwf4ai7w": "un peu émotif",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "Which of the following qualities should you work on to build a lasting professional partnership with your client?",
+            "explanation": "Select the right answer in the drop-down menu.",
+            "klf": "Trust is one of the keys to building a long-lasting business partnership. By showing your client that you understand their needs and can be of value to them beyond their initial situation, you demonstrate that they can trust you.",
+            "tips": "To build up trust, address concerns or issues directly and tell the truth. This also means not committing to promises you can't keep!",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "Work on building {{sel69162}} relationship.",
+            "choice_4yxLbE6s7w": "a competitive",
+            "choice_VkWIWN6jXD": "a trusting",
+            "choice_4kwf4ai7w": "an unemotional"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{sel69162}}",
+            "choice_4yxLbE6s7w": "",
+            "choice_VkWIWN6jXD": "",
+            "choice_4kwf4ai7w": ""
+        }
+    }
+}

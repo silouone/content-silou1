@@ -1,0 +1,72 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-02-11T13:51:12.042Z",
+            "updatedAt": "2019-03-20T17:26:09.468Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2019-04-11T12:50:20.696Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "disciplines": [
+                "dis_4yYi3P5VU"
+            ],
+            "status": "draft",
+            "modifiedBy": "Margaux-Schmitt",
+            "createdBy": "CamilleT18"
+        },
+        "ref": "mod_N1ph3vqN8",
+        "universalRef": "mod_N1ph3vqN8",
+        "level": 1,
+        "draft": false,
+        "position": 0,
+        "timeAlloted": 15,
+        "deliverCoachStatus": false,
+        "infiniteLives": false,
+        "external_refs": [],
+        "acquiredSkills": [
+            "skill_N1pyU8AV8",
+            "skill_V1AyLUCNL",
+            "skill_EykeI8CEI"
+        ],
+        "ineligibleBattle": false,
+        "version": "2",
+        "creditsToAccess": 1,
+        "states": {
+            "en": {
+                "edition": "validate"
+            },
+            "fr": {
+                "edition": "validate"
+            },
+            "de": {
+                "edition": "validate"
+            },
+            "th": {
+                "edition": "draft"
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "skill_N1pyU8AV8": "Prioritise your missions according to their importance and urgency",
+            "skill_V1AyLUCNL": "Deal calmly and assertively with interruptions at work",
+            "skill_EykeI8CEI": "Implement methods to save time during your day"
+        },
+        "fr": {
+            "skill_N1pyU8AV8": "Hiérarchiser vos missions en fonction de leur importance et de leur urgence",
+            "skill_V1AyLUCNL": "Traiter les interruptions au travail avec calme et fermeté",
+            "skill_EykeI8CEI": "Mettre en place des méthodes pour gagner du temps pendant votre journée"
+        },
+        "de": {
+            "skill_N1pyU8AV8": "Priorisieren Sie Ihre Missionen entsprechend ihrer Relevanz und Dringlichkeit",
+            "skill_V1AyLUCNL": "Mit Unterbrechungen bei der Arbeit ruhig und durchsetzungsfähig umgehen",
+            "skill_EykeI8CEI": "Implementieren Sie Methoden, um während des Tages Zeit zu sparen"
+        },
+        "th": {
+            "skill_N1pyU8AV8": "Prioritise your missions according to their importance and urgency",
+            "skill_V1AyLUCNL": "Deal calmly and assertively with interruptions at work",
+            "skill_EykeI8CEI": "Implement methods to save time during your day"
+        }
+    }
+}

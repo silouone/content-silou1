@@ -1,0 +1,100 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2019-09-04T15:33:23.471Z",
+            "updatedAt": "2019-09-04T15:34:16.419Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_Ey3GiyNmP"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_4J3XdpurD",
+        "universalRef": "sli_4J3XdpurD",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmGraphic",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4J3XdpurD.choice_Vkgk8-T-SD.id",
+                        "label": "choice_Vkgk8-T-SD",
+                        "value": "choice_Vkgk8-T-SD",
+                        "media": "med_EJJ8dTuSw"
+                    },
+                    {
+                        "id": "sli_4J3XdpurD.choice_Vkxb8up-SP.id",
+                        "label": "choice_Vkxb8up-SP",
+                        "value": "choice_Vkxb8up-SP",
+                        "media": "med_NJ~Ld6dBv"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_Vkxb8up-SP"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "True or false? Advising a client on a solution is pointless if it doesn’t lead to an immediate sale.",
+            "explanation": "Select the correct answer.",
+            "klf": "People always remember good advice, even if it doesn’t lead to an immediate sale. This is why you must always take time to help a client.",
+            "tips": "The word ‘advice’ comes from the Latin <i>videre</i>, which means ‘to see’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkgk8-T-SD": "True",
+            "choice_Vkxb8up-SP": "False"
+        },
+        "fr": {
+            "header": "Vrai ou faux? Il est inutile de conseiller un client sur une solution si cela ne conduit pas à une vente immédiate.",
+            "explanation": "Sélectionner la bonne réponse.",
+            "klf": "Les gens se souviennent toujours des bons conseils, même s’ils ne mènent pas à une vente immédiate. C'est pourquoi vous devez toujours prendre le temps d'aider un client.",
+            "tips": "Le mot &quot;conseil&quot; vient du latin <i>videre</i> , qui signifie &quot;voir&quot;.",
+            "choice_Vkgk8-T-SD": "Vrai",
+            "choice_Vkxb8up-SP": "Faux",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": ""
+        },
+        "de": {
+            "header": "True or false? Advising a client on a solution is pointless if it doesn’t lead to an immediate sale.",
+            "explanation": "Select the correct answer.",
+            "klf": "People always remember good advice, even if it doesn’t lead to an immediate sale. This is why you must always take time to help a client.",
+            "tips": "The word ‘advice’ comes from the Latin <i>videre</i>, which means ‘to see’.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkgk8-T-SD": "True",
+            "choice_Vkxb8up-SP": "False"
+        },
+        "th": {
+            "header": "",
+            "explanation": "",
+            "klf": "",
+            "tips": "",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Vkgk8-T-SD": "",
+            "choice_Vkxb8up-SP": ""
+        }
+    }
+}

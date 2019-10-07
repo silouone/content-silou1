@@ -1,0 +1,99 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2018-10-09T12:46:11.535Z",
+            "updatedAt": "2018-11-09T12:38:16.707Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_N1iAS8E5B"
+            ],
+            "status": "draft",
+            "modifiedBy": "Auxanealc",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_4ktrl5B5S",
+        "universalRef": "sli_4ktrl5B5S",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4ktrl5B5S.choice_Ekbpg9BqB.id",
+                        "label": "choice_Ekbpg9BqB",
+                        "value": "choice_Ekbpg9BqB"
+                    },
+                    {
+                        "id": "sli_4ktrl5B5S.choice_VJ4Te9r5H.id",
+                        "label": "choice_VJ4Te9r5H",
+                        "value": "choice_VJ4Te9r5H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VJ4Te9r5H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What’s the best way to deliver news about change?",
+            "explanation": "Select the correct answer.",
+            "klf": "You have to deliver news about change? Always tell the team yourself and address their concerns on the spot.",
+            "tips": "Often called ‘the soft side of change’, managing the people side of a change is probably the most challenging component of an organisational transformation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekbpg9BqB": "Use words like ‘they’ and ‘them’",
+            "choice_VJ4Te9r5H": "Tell the team yourself and address their concerns"
+        },
+        "fr": {
+            "header": "Quel est le meilleur moyen de communiquer à propos du changement ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Devez-vous communiquer à propos du changement ? Toujours s’adresser directement aux membres de l’équipe et aborder leurs préoccupations.",
+            "tips": "Souvent appelée « aspect immatériel du changement », la gestion de la composante humaine d’un changement représente probablement le plus grand défi d’une transformation organisationnelle.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekbpg9BqB": "Utiliser des mots tels que « ils » et « eux »",
+            "choice_VJ4Te9r5H": "S’adresser directement aux membres de l’équipe et aborder leurs préoccupations"
+        },
+        "de": {
+            "header": "Was ist der beste Weg, um Neuigkeiten über Änderungen zu vermitteln?",
+            "explanation": "Wählen Sie die richtige Antwort.",
+            "klf": "Sie müssen Nachrichten über Änderungen liefern? Informieren Sie das Team immer selbst und sprechen Sie Ihre Anliegen vor Ort an.",
+            "tips": "Oft als „weiche Seite der Veränderung“ bezeichnet, ist die Verwaltung der Personenseite einer Veränderung Richtig scheinlich die herausforderndste Komponente einer organisatorischen Umgestaltung.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekbpg9BqB": "Verwenden Sie Wörter wie \"Sie\" und \"Sie\"",
+            "choice_VJ4Te9r5H": "Erzählen Sie das Team selbst und sprechen Sie ihre Anliegen an"
+        },
+        "th": {
+            "header": "What’s the best way to deliver news about change?",
+            "explanation": "Select the correct answer.",
+            "klf": "You have to deliver news about change? Always tell the team yourself and address their concerns on the spot.",
+            "tips": "Often called ‘the soft side of change’, managing the people side of a change is probably the most challenging component of an organisational transformation.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Ekbpg9BqB": "Use words like ‘they’ and ‘them’",
+            "choice_VJ4Te9r5H": "Tell the team yourself and address their concerns"
+        }
+    }
+}

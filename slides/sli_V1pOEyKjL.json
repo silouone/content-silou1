@@ -1,0 +1,117 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-05-06T09:41:07.500Z",
+            "updatedAt": "2019-05-14T14:24:56.593Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_NJY5l4HoI"
+            ],
+            "modifiedBy": "juliadubois",
+            "createdBy": "GuillaumeLafon"
+        },
+        "ref": "sli_V1pOEyKjL",
+        "universalRef": "sli_V1pOEyKjL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": true,
+                "choices": [
+                    {
+                        "id": "sli_V1pOEyKjL.choice_VkLjketiL.id",
+                        "label": "choice_VkLjketiL",
+                        "value": "choice_VkLjketiL"
+                    },
+                    {
+                        "id": "sli_V1pOEyKjL.choice_4JX3kgFsU.id",
+                        "label": "choice_4JX3kgFsU",
+                        "value": "choice_4JX3kgFsU"
+                    },
+                    {
+                        "id": "sli_V1pOEyKjL.choice_VJE3JlFoI.id",
+                        "label": "choice_VJE3JlFoI",
+                        "value": "choice_VJE3JlFoI"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_4JX3kgFsU",
+                        "choice_VJE3JlFoI",
+                        "choice_VkLjketiL"
+                    ]
+                ]
+            }
+        },
+        "context": {
+            "title": "context_title",
+            "description": "context_description",
+            "media_description": "context_media_description",
+            "media": "med_V18fw1YoU",
+            "poster": null
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "To boost your confidence during the deal, which place should you negotiate for, in order of priority?",
+            "explanation": "Sort the answers below in order of pertinence.",
+            "klf": "One way to improve your negotiation outcomes is to suggest meeting in a neutral location. Or better still, ask people to come to you.",
+            "tips": "Talking about organising a negotiation, <a href=\"&#10; https://hbr.org/2015/12/control-the-negotiation-before-it-begins\" target=\"_blank\">this article from the Harvard Business Review</a> provides great insights on how to control the frame of your meeting before D-Day.",
+            "clue": "",
+            "context_title": "Deal Day's Coming.",
+            "context_description": "It's D-3. But there's always a negotiation before the genuine deal: your place or their place? Come on, pick up the phone, make the first move!",
+            "context_media_description": "",
+            "choice_VkLjketiL": "Their place",
+            "choice_4JX3kgFsU": "Your place",
+            "choice_VJE3JlFoI": "A neutral place"
+        },
+        "fr": {
+            "header": "Pour booster votre confiance en vous pendant la négociation, où devez-vous négocier de vous réunir, par ordre de priorité ?",
+            "explanation": "Triez les réponses ci-dessous par ordre de pertinence.",
+            "klf": "Une façon d'améliorer les résultats de vos négociations consiste à suggérer de vous réunir dans un lieu neutre. Ou mieux encore, demandez aux gens de venir à vous.",
+            "tips": "À propos de l'organisation d'une négociation, <a href=\"&#10; https://hbr.org/2015/12/control-the-negotiation-before-it-begins\" target=\"_blank\">cet article de la Harvard Business Review</a> fournit des informations utiles sur la manière de contrôler le cadre de votre réunion avant le jour J.",
+            "clue": "",
+            "context_title": "Deal Day is coming!",
+            "context_description": "C'est J-3. Mais il y a toujours une négociation avant le véritable accord : chez vous ou chez eux ? Allez, prenez votre téléphone et faites le premier pas !",
+            "context_media_description": "",
+            "choice_VkLjketiL": "Chez eux",
+            "choice_4JX3kgFsU": "Chez vous",
+            "choice_VJE3JlFoI": "Un endroit neutre"
+        },
+        "de": {
+            "header": "To boost your confidence during the deal, which place should you negotiate for, in order of priority?",
+            "explanation": "Sort the answers below in order of pertinence.",
+            "klf": "One way to improve your negotiation outcomes is to suggest meeting in a neutral location. Or better still, ask people to come to you.",
+            "tips": "Talking about organising a negotiation, <a href=\"&#10; https://hbr.org/2015/12/control-the-negotiation-before-it-begins\" target=\"_blank\">this article from the Harvard Business Review</a> provides great insights on how to control the frame of your meeting before D-Day.",
+            "clue": "",
+            "context_title": "Deal Day's Coming.",
+            "context_description": "It's D-3. But there's always a negotiation before the genuine deal: your place or their place? Come on, pick up the phone, make the first move!",
+            "context_media_description": "",
+            "choice_VkLjketiL": "Their place",
+            "choice_4JX3kgFsU": "Your place",
+            "choice_VJE3JlFoI": "A neutral place"
+        },
+        "th": {
+            "header": "To boost your confidence during the deal, which place should you negotiate for, in order of priority?",
+            "explanation": "Sort the answers below in order of pertinence.",
+            "klf": "One way to improve your negotiation outcomes is to suggest meeting in a neutral location. Or better still, ask people to come to you.",
+            "tips": "Talking about organising a negotiation, <a href=\"&#10; https://hbr.org/2015/12/control-the-negotiation-before-it-begins\" target=\"_blank\">this article from the Harvard Business Review</a> provides great insights on how to control the frame of your meeting before D-Day.",
+            "clue": "",
+            "context_title": "Deal Day's Coming.",
+            "context_description": "It's D-3. But there's always a negotiation before the genuine deal: your place or their place? Come on, pick up the phone, make the first move!",
+            "context_media_description": "",
+            "choice_VkLjketiL": "Their place",
+            "choice_4JX3kgFsU": "Your place",
+            "choice_VJE3JlFoI": "A neutral place"
+        }
+    }
+}

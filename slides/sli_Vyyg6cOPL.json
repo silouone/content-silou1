@@ -1,0 +1,110 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-03-18T14:42:20.061Z",
+            "updatedAt": "2019-03-20T15:33:48.925Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_EJwqYX7DL"
+            ],
+            "status": "draft",
+            "modifiedBy": "juliadubois",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_Vyyg6cOPL",
+        "universalRef": "sli_Vyyg6cOPL",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcmDrag",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "matchOrder": false,
+                "choices": [
+                    {
+                        "id": "sli_Vyyg6cOPL.choice_VJwST5uPU.id",
+                        "label": "choice_VJwST5uPU",
+                        "value": "choice_VJwST5uPU"
+                    },
+                    {
+                        "id": "sli_Vyyg6cOPL.choice_Eydr6qdDI.id",
+                        "label": "choice_Eydr6qdDI",
+                        "value": "choice_Eydr6qdDI"
+                    },
+                    {
+                        "id": "sli_Vyyg6cOPL.choice_EkKB6qOwU.id",
+                        "label": "choice_EkKB6qOwU",
+                        "value": "choice_EkKB6qOwU"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EkKB6qOwU",
+                        "choice_VJwST5uPU"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What are ways to be more present during meetings?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To be more present during meetings, keep your attention on the person speaking, ask questions where necessary and clarify points you are unsure of. Take notes so you have a record of your actions and the outcome of the meeting. Avoid distractions: resist to the temptation of constantly checking your phone.",
+            "tips": "Your body language tells your colleagues whether you are paying attention or not. Sit up straight and do not slouch. Maintain eye contact instead of looking elsewhere, and nod in agreement to show your understanding.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwST5uPU": "Listening actively to the person speaking",
+            "choice_Eydr6qdDI": "Checking your phone for more information",
+            "choice_EkKB6qOwU": "Taking notes"
+        },
+        "fr": {
+            "header": "Quels sont les moyens d'être plus présent lors des réunions ?",
+            "explanation": "Sélectionnez les bonnes réponses ci-dessous.",
+            "klf": "Pour être plus présent lors des réunions, concentrez votre attention sur la personne qui parle, posez des questions si nécessaire et clarifiez les points dont vous n'êtes pas sûr. Prenez des notes pour avoir un compte-rendu de vos actions et des résultats de la réunion. Évitez les distractions : résistez à la tentation de vérifier constamment votre téléphone.",
+            "tips": "Votre langage corporel indique à vos collègues si vous êtes attentif ou non. Asseyez-vous bien droit et ne vous affalez pas. Maintenez un contact visuel au lieu de regarder ailleurs et inclinez la tête pour montrer votre compréhension.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwST5uPU": "Écouter activement la personne qui parle",
+            "choice_Eydr6qdDI": "Vérifier son téléphone pour plus d'informations",
+            "choice_EkKB6qOwU": "Prendre des notes"
+        },
+        "de": {
+            "header": "What are ways to be more present during meetings?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To be more present during meetings, keep your attention on the person speaking, ask questions where necessary and clarify points you are unsure of. Take notes so you have a record of your actions and the outcome of the meeting. Avoid distractions: resist to the temptation of constantly checking your phone.",
+            "tips": "Your body language tells your colleagues whether you are paying attention or not. Sit up straight and do not slouch. Maintain eye contact instead of looking elsewhere, and nod in agreement to show your understanding.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwST5uPU": "Listening actively to the person speaking",
+            "choice_Eydr6qdDI": "Checking your phone for more information",
+            "choice_EkKB6qOwU": "Taking notes"
+        },
+        "th": {
+            "header": "What are ways to be more present during meetings?",
+            "explanation": "Select the correct answers below.",
+            "klf": "To be more present during meetings, keep your attention on the person speaking, ask questions where necessary and clarify points you are unsure of. Take notes so you have a record of your actions and the outcome of the meeting. Avoid distractions: resist to the temptation of constantly checking your phone.",
+            "tips": "Your body language tells your colleagues whether you are paying attention or not. Sit up straight and do not slouch. Maintain eye contact instead of looking elsewhere, and nod in agreement to show your understanding.",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VJwST5uPU": "Listening actively to the person speaking",
+            "choice_Eydr6qdDI": "Checking your phone for more information",
+            "choice_EkKB6qOwU": "Taking notes"
+        }
+    }
+}

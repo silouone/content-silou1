@@ -1,0 +1,107 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": false,
+            "createdAt": "2019-06-21T14:05:12.150Z",
+            "updatedAt": "2019-06-21T14:05:12.150Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJXIulsRL"
+            ],
+            "modifiedBy": "MarinPostel",
+            "createdBy": "MarinPostel"
+        },
+        "ref": "sli_41xW7RSkw",
+        "universalRef": "sli_41xW7RSkw",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_41xW7RSkw.choice_V1~XQRHyv.id",
+                        "label": "choice_V1~XQRHyv",
+                        "value": "choice_V1~XQRHyv"
+                    },
+                    {
+                        "id": "sli_41xW7RSkw.choice_NyGXmASkw.id",
+                        "label": "choice_NyGXmASkw",
+                        "value": "choice_NyGXmASkw"
+                    },
+                    {
+                        "id": "sli_41xW7RSkw.choice_VyNQ7RSJw.id",
+                        "label": "choice_VyNQ7RSJw",
+                        "value": "choice_VyNQ7RSJw"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_NyGXmASkw"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What should be the first step when trying to help someone learn a job?",
+            "explanation": "Select the correct answer.",
+            "klf": "When you’re helping someone learn a job, the first step should be to clarify what you need them to learn: make a list of all the learning points.",
+            "tips": "The term <i>information overload</i> refers to ‘a situation in which you receive too much information at one time and cannot think about it in a clear way’. (Cambridge Dictionary)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1~XQRHyv": "Think about how you will communicate important information",
+            "choice_NyGXmASkw": "Make a list of the learning points",
+            "choice_VyNQ7RSJw": "Identify the results you expect right after the training"
+        },
+        "fr": {
+            "header": "Quelle devrait être la première étape lorsque vous essayez d'aider quelqu'un à apprendre un travail ?",
+            "explanation": "Sélectionnez la bonne réponse.",
+            "klf": "Lorsque vous aidez une personne à apprendre un travail, la première étape doit être de clarifier ce qu'elle doit apprendre : faites une liste de tous les points d’apprentissage.",
+            "tips": "Le terme <i>surcharge d'informations</i> désigne « une situation dans laquelle vous recevez trop d'informations en même temps et ne pouvez pas y penser de manière claire. » (Cambridge Dictionary)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1~XQRHyv": "Penser à la façon de communiquer les informations importantes",
+            "choice_NyGXmASkw": "Faire une liste des points d'apprentissage",
+            "choice_VyNQ7RSJw": "Identifier les résultats attendus juste après la formation"
+        },
+        "de": {
+            "header": "What should be the first step when trying to help someone learn a job?",
+            "explanation": "Select the correct answer.",
+            "klf": "When you’re helping someone learn a job, the first step should be to clarify what you need them to learn: make a list of all the learning points.",
+            "tips": "The term <i>information overload</i> refers to ‘a situation in which you receive too much information at one time and cannot think about it in a clear way’. (Cambridge Dictionary)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1~XQRHyv": "Think about how you will communicate important information",
+            "choice_NyGXmASkw": "Make a list of the learning points",
+            "choice_VyNQ7RSJw": "Identify the results you expect right after the training"
+        },
+        "th": {
+            "header": "What should be the first step when trying to help someone learn a job?",
+            "explanation": "Select the correct answer.",
+            "klf": "When you’re helping someone learn a job, the first step should be to clarify what you need them to learn: make a list of all the learning points.",
+            "tips": "The term <i>information overload</i> refers to ‘a situation in which you receive too much information at one time and cannot think about it in a clear way’. (Cambridge Dictionary)",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_V1~XQRHyv": "Think about how you will communicate important information",
+            "choice_NyGXmASkw": "Make a list of the learning points",
+            "choice_VyNQ7RSJw": "Identify the results you expect right after the training"
+        }
+    }
+}
